@@ -1,3 +1,1 @@
-
-
 # fancode-live-events
