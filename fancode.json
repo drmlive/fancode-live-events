@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "09:17:29 27-08-2024",
+  "last update time": "09:44:17 27-08-2024",
   "matches": [
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "seattle mariners vs tampa bay rays",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Match-459_MLB_Old-Match-Card.jpg",
-      "match_id": "106100",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/egL9sIxLT82u4KrPVpdT1Q/master.m3u8"
-    },
     {
       "event_category": "cricket",
       "event_name": "t20 international trinations cup",
@@ -110,6 +101,15 @@
       "match_id": "107434",
       "status": "upcoming",
       "startTime": "05:30:00 PM 27-08-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "ecs austria 2024",
+      "match_name": "donaustadt vs austrian daredevils",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/107511_4430_DST_ADD_fc-Web.jpg",
+      "match_id": "107511",
+      "status": "upcoming",
+      "startTime": "06:30:00 PM 27-08-2024"
     }
   ]
 }
