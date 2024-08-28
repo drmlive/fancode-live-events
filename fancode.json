@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "19:41:28 28-08-2024",
+  "last update time": "19:58:47 28-08-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -36,8 +36,8 @@
       "match_name": "denmark vs guernsey",
       "src": "https://images.fancode.com/aig/match/v1/106704_CASACARDS_APP.png",
       "match_id": "106704",
-      "status": "upcoming",
-      "startTime": "08:00:00 PM 28-08-2024"
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/W8rJAgg6TIGAZkC93tej3A/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -45,8 +45,8 @@
       "match_name": "czechia vs estonia",
       "src": "https://images.fancode.com/aig/match/v1/106703_CASACARDS_APP.png",
       "match_id": "106703",
-      "status": "upcoming",
-      "startTime": "08:00:00 PM 28-08-2024"
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/KgI_r-ztRNy3UtAk4X4DdQ/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -54,8 +54,8 @@
       "match_name": "north west warriors vs leinster lightning",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/05/Ireland-Inter-Provincial-T20-Trophy_old_02-1.jpg",
       "match_id": "99927",
-      "status": "upcoming",
-      "startTime": "08:00:00 PM 28-08-2024"
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/__lsrZ1YTxOEBEkGxkHrog/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -101,6 +101,15 @@
       "match_id": "106825",
       "status": "upcoming",
       "startTime": "12:30:00 AM 29-08-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "carabao cup 202425",
+      "match_name": "wolverhampton wanderers vs burnley",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Wolverhampton-Wanderers-vs-Barnsley_OLD.jpg",
+      "match_id": "107965",
+      "status": "upcoming",
+      "startTime": "12:00:00 AM 29-08-2024"
     }
   ]
 }
