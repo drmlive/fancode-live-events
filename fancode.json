@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "01:18:59 30-08-2024",
+  "last update time": "01:43:09 30-08-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -20,15 +20,6 @@
       "match_id": "106826",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/1W-Rx3fETXyqwf6qL1QaKw/master.m3u8"
-    },
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "detroit tigers vs los angeles angels",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Match-465_MLB_Old-Match-Card.jpg",
-      "match_id": "106106",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/x7swZ2J2QtiF0vsEjgCR-Q/master.m3u8"
     },
     {
       "event_category": "baseball",
@@ -101,6 +92,15 @@
       "match_id": "107526",
       "status": "upcoming",
       "startTime": "06:30:00 PM 30-08-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "ecs austria 2024",
+      "match_name": "graz cricket academy vs vienna cc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/107527_4430_GCA_VCC_fc-Web.jpg",
+      "match_id": "107527",
+      "status": "upcoming",
+      "startTime": "08:30:00 PM 30-08-2024"
     }
   ]
 }
