@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "05:18:56 29-08-2024",
+  "last update time": "06:28:39 29-08-2024",
   "matches": [
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "philadelphia phillies vs houston astros",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Match-463_MLB_Old-Match-Card.jpg",
-      "match_id": "106104",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/pcUzCneyRvmDelYQLIPKwA/master.m3u8"
-    },
     {
       "event_category": "cricket",
       "event_name": "ksca maharaja trophy t20 2024",
@@ -47,6 +38,15 @@
       "match_id": "106662",
       "status": "upcoming",
       "startTime": "12:30:00 AM 30-08-2024"
+    },
+    {
+      "event_category": "baseball",
+      "event_name": "mlb",
+      "match_name": "arizona diamondbacks vs new york mets",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Match-464_MLB_Old-Match-Card.jpg",
+      "match_id": "106105",
+      "status": "upcoming",
+      "startTime": "07:10:00 AM 29-08-2024"
     },
     {
       "event_category": "cricket",
@@ -86,6 +86,15 @@
     },
     {
       "event_category": "cricket",
+      "event_name": "caribbean premier league 2024",
+      "match_name": "antigua barbuda falcons vs st kitts and nevis patriots",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "match_id": "104205",
+      "status": "upcoming",
+      "startTime": "04:30:00 AM 30-08-2024"
+    },
+    {
+      "event_category": "cricket",
       "event_name": "ecs austria 2024",
       "match_name": "indian cc vienna vs lords cc",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/107521_4430_ICCV_LOR_fc-Web.jpg",
@@ -101,15 +110,6 @@
       "match_id": "107522",
       "status": "upcoming",
       "startTime": "08:30:00 PM 29-08-2024"
-    },
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "arizona diamondbacks vs new york mets",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Match-464_MLB_Old-Match-Card.jpg",
-      "match_id": "106105",
-      "status": "upcoming",
-      "startTime": "07:10:00 AM 29-08-2024"
     }
   ]
 }
