@@ -1,8 +1,17 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "19:07:07 31-08-2024",
+  "last update time": "19:18:47 31-08-2024",
   "matches": [
+    {
+      "event_category": "formula-1",
+      "event_name": "f1 pirelli gran premio d italia 2024",
+      "match_name": "qualifying",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/F1_Italy_Monza_Old_match-card.jpg",
+      "match_id": "95215",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/M9yBuAnxQK-ICUUuX8fVsw/master.m3u8"
+    },
     {
       "event_category": "cricket",
       "event_name": "sri lanka tour of england 2024",
@@ -33,11 +42,20 @@
     {
       "event_category": "football",
       "event_name": "efl championship 202425",
-      "match_name": "burnley vs blackburn rovers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/106276_4352_BUR_BLK_fc-web_1723042859568.jpg",
-      "match_id": "106276",
+      "match_name": "plymouth argyle vs stoke city",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/106278_4352_PLY_STK_fc-web_1723042859295.jpg",
+      "match_id": "106278",
       "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/N5NkRQmCRgayDFKq2kLGXQ/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/Ra4xNR-lT66_bdCnnzawTA/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "minor league cricket 2024",
+      "match_name": "new jersey stallions vs manhattan yorkers",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card.png",
+      "match_id": "107786",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/4lPWAStMRMG-WIE102o8rg/master.m3u8"
     },
     {
       "event_category": "golf",
@@ -67,15 +85,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/-K0oYfP_SbafYTTplKf-5g/master.m3u8"
     },
     {
-      "event_category": "formula-1",
-      "event_name": "f1 pirelli gran premio d italia 2024",
-      "match_name": "qualifying",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/F1_Italy_Monza_Old_match-card.jpg",
-      "match_id": "95215",
-      "status": "upcoming",
-      "startTime": "07:30:00 PM 31-08-2024"
-    },
-    {
       "event_category": "cricket",
       "event_name": "caribbean premier league 2024",
       "match_name": "st kitts and nevis patriots vs trinbago knight riders",
@@ -83,24 +92,6 @@
       "match_id": "104207",
       "status": "upcoming",
       "startTime": "04:30:00 AM 01-09-2024"
-    },
-    {
-      "event_category": "football",
-      "event_name": "efl championship 202425",
-      "match_name": "plymouth argyle vs stoke city",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/106278_4352_PLY_STK_fc-web_1723042859295.jpg",
-      "match_id": "106278",
-      "status": "upcoming",
-      "startTime": "07:30:00 PM 31-08-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "minor league cricket 2024",
-      "match_name": "new jersey stallions vs manhattan yorkers",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card.png",
-      "match_id": "107786",
-      "status": "upcoming",
-      "startTime": "07:30:00 PM 31-08-2024"
     },
     {
       "event_category": "cricket",
