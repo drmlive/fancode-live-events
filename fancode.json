@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "18:46:22 01-09-2024",
+  "last update time": "19:04:02 01-09-2024",
   "matches": [
     {
       "event_category": "formula-1",
@@ -29,6 +29,15 @@
       "match_id": "106707",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/4Kj3c8gaQX-wQGvOIeQaYw/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "caribbean premier league 2024",
+      "match_name": "antigua barbuda falcons vs barbados royals",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104208_4287_ABF_BR_fc-web.jpg",
+      "match_id": "104208",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/KMDt61d5ShOH4s1g6uAnuQ/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -69,15 +78,6 @@
     {
       "event_category": "cricket",
       "event_name": "caribbean premier league 2024",
-      "match_name": "antigua barbuda falcons vs barbados royals",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104208_4287_ABF_BR_fc-web.jpg",
-      "match_id": "104208",
-      "status": "upcoming",
-      "startTime": "07:30:00 PM 01-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "caribbean premier league 2024",
       "match_name": "st kitts and nevis patriots vs saint lucia kings",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104209_4287_SKN_SLK_fc-web.jpg",
       "match_id": "104209",
@@ -95,21 +95,21 @@
     },
     {
       "event_category": "cricket",
+      "event_name": "minor league cricket 2024",
+      "match_name": "morrisville raptors vs atlanta lightning",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card.png",
+      "match_id": "107793",
+      "status": "upcoming",
+      "startTime": "07:45:00 PM 01-09-2024"
+    },
+    {
+      "event_category": "cricket",
       "event_name": "ecs austria 2024",
       "match_name": "snasy vs cricketer cc",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/107537_4430_SNA_CCC_fc-Web.jpg",
       "match_id": "107537",
       "status": "upcoming",
       "startTime": "08:30:00 PM 01-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "kcc t10 summer challengers cup 2024",
-      "match_name": "cochin hurricanes vs al mulla exchange b",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/106801_4392_AMB_COH_fc-web.jpg",
-      "match_id": "106829",
-      "status": "upcoming",
-      "startTime": "10:30:00 PM 01-09-2024"
     }
   ]
 }
