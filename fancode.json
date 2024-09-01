@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "09:45:54 01-09-2024",
+  "last update time": "10:09:37 01-09-2024",
   "matches": [
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "los angeles angels vs seattle mariners",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Match-472_MLB_Old-Match-Card.jpg",
-      "match_id": "108014",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/qPgZiAoaQ2GNX6BXQCPArw/master.m3u8"
-    },
     {
       "event_category": "cricket",
       "event_name": "ksca maharaja trophy t20 2024",
@@ -101,6 +92,15 @@
       "match_id": "107537",
       "status": "upcoming",
       "startTime": "08:30:00 PM 01-09-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "efl championship 202425",
+      "match_name": "sheffield united vs watford",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/106279_4352_SHF_WAT_fc-web_1723042859835.jpg",
+      "match_id": "106279",
+      "status": "upcoming",
+      "startTime": "07:30:00 PM 01-09-2024"
     }
   ]
 }
