@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "23:18:40 02-09-2024",
+  "last update time": "23:46:28 02-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -31,22 +31,31 @@
       "stream_link": "https://dai.google.com/linear/hls/event/wnrKEOqoQayJ6LI34kklYA/master.m3u8"
     },
     {
+      "event_category": "baseball",
+      "event_name": "mlb",
+      "match_name": "milwaukee brewers vs st louis cardinals",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Match-477_MLB_Old-Match-Card.jpg",
+      "match_id": "108019",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/iwC9S4euRLauQXGORyNPAA/master.m3u8"
+    },
+    {
       "event_category": "cricket",
       "event_name": "minor league cricket 2024",
-      "match_name": "empire state titans vs new jersey stallions",
+      "match_name": "nyc titans vs new jersey stallions",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
       "match_id": "107802",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/4KrA_NJmTC2SK7dgqeZ4og/master.m3u8"
     },
     {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "milwaukee brewers vs st louis cardinals",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Match-477_MLB_Old-Match-Card.jpg",
-      "match_id": "108019",
+      "event_category": "football",
+      "event_name": "league two 202425",
+      "match_name": "salford city vs mk dons",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",
+      "match_id": "106781",
       "status": "upcoming",
-      "startTime": "11:40:00 PM 02-09-2024"
+      "startTime": "12:30:00 AM 03-09-2024"
     },
     {
       "event_category": "cricket",
@@ -65,15 +74,6 @@
       "match_id": "107543",
       "status": "upcoming",
       "startTime": "12:30:00 PM 03-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "assam t20 pride cup 2024",
-      "match_name": "new star club vs gauhati town club",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108299_4457_NSC_GTC_fc-web.jpg",
-      "match_id": "108299",
-      "status": "upcoming",
-      "startTime": "01:00:00 PM 03-09-2024"
     }
   ]
 }
