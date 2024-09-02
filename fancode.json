@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "00:40:36 03-09-2024",
+  "last update time": "00:51:07 03-09-2024",
   "matches": [
-    {
-      "event_category": "cricket",
-      "event_name": "kcc t10 summer challengers cup 2024",
-      "match_name": "kuwait mavericks vs cochin hurricanes",
-      "src": "https://images.fancode.com/aig/match/v1/106830_CASACARDS_APP.png",
-      "match_id": "106830",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/IWwdwFjNSyuoD59Nzolg7g/master.m3u8"
-    },
     {
       "event_category": "cricket",
       "event_name": "boland t10 league 2024",
@@ -49,6 +40,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/uPOqpShZSVqFtcXqmh4KdQ/master.m3u8"
     },
     {
+      "event_category": "baseball",
+      "event_name": "mlb",
+      "match_name": "kansas city royals vs cleveland guardians",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Match-478_MLB_Old-Match-Card.jpg",
+      "match_id": "108020",
+      "status": "upcoming",
+      "startTime": "01:40:00 AM 03-09-2024"
+    },
+    {
       "event_category": "cricket",
       "event_name": "assam t20 pride cup 2024",
       "match_name": "ankurjyoti club vs river rine club",
@@ -56,15 +56,6 @@
       "match_id": "108298",
       "status": "upcoming",
       "startTime": "08:45:00 AM 03-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "vitality blast t20 2024",
-      "match_name": "surrey vs durham",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "match_id": "106261",
-      "status": "upcoming",
-      "startTime": "10:30:00 PM 03-09-2024"
     }
   ]
 }
