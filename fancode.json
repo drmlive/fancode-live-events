@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "18:25:00 03-09-2024",
+  "last update time": "18:48:46 03-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -11,6 +11,15 @@
       "match_id": "107546",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/_uSPTwJGQlSlESpzHjFZrw/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "kerala cricket league t20 2024",
+      "match_name": "alleppey ripples vs trivandrum royals",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-4_Kerala-Cricket-League-T20_Old.jpg",
+      "match_id": "107745",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/U5ryYJoxSf-kfDwgUYexgg/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -29,15 +38,6 @@
       "match_id": "104210",
       "status": "upcoming",
       "startTime": "04:30:00 AM 04-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "kerala cricket league t20 2024",
-      "match_name": "alleppey ripples vs trivandrum royals",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-4_Kerala-Cricket-League-T20_Old.jpg",
-      "match_id": "107745",
-      "status": "upcoming",
-      "startTime": "06:45:00 PM 03-09-2024"
     },
     {
       "event_category": "cricket",
@@ -94,22 +94,13 @@
       "startTime": "04:40:00 AM 04-09-2024"
     },
     {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "oakland athletics vs seattle mariners",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Match-481_MLB_Old-Match-Card.jpg",
-      "match_id": "108023",
-      "status": "upcoming",
-      "startTime": "07:10:00 AM 04-09-2024"
-    },
-    {
       "event_category": "cricket",
-      "event_name": "ecs austria 2024",
-      "match_name": "vienna danube vs indian cc vienna",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/107548_4430_VID_ICCV_fc-Web.jpg",
-      "match_id": "107548",
+      "event_name": "australia tour of scotland 2024",
+      "match_name": "scotland vs australia",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Australia-tour-of-Scotland-old-match-card.png",
+      "match_id": "107496",
       "status": "upcoming",
-      "startTime": "12:30:00 PM 04-09-2024"
+      "startTime": "06:30:00 PM 04-09-2024"
     }
   ]
 }
