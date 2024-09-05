@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "08:20:06 05-09-2024",
+  "last update time": "08:43:31 05-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -13,6 +13,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/J56eTYCGRBS9VSiLXVqHrw/master.m3u8"
     },
     {
+      "event_category": "cricket",
+      "event_name": "assam t20 pride cup 2024",
+      "match_name": "new star club vs bud cricket club",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108302_4457_NSC_BCC_fc-web.jpg",
+      "match_id": "108302",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/oGsVV0t2QTWLnDC3mob6Gg/master.m3u8"
+    },
+    {
       "event_category": "baseball",
       "event_name": "mlb",
       "match_name": "san diego padres vs detroit tigers",
@@ -20,15 +29,6 @@
       "match_id": "108025",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/8u6ydMEnSaG6kKV1mK98eQ/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "icc mens t20 wc asia subregional qualifier a",
-      "match_name": "mongolia vs singapore",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/106968_4396_MON_SIN_fc-web.jpg",
-      "match_id": "106968",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/5bGeUqjtSweHFOYdnxmASQ/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -68,15 +68,6 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "assam t20 pride cup 2024",
-      "match_name": "new star club vs bud cricket club",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108302_4457_NSC_BCC_fc-web.jpg",
-      "match_id": "108302",
-      "status": "upcoming",
-      "startTime": "08:45:00 AM 05-09-2024"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "caribbean premier league 2024",
       "match_name": "antigua barbuda falcons vs trinbago knight riders",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104212_4287_ABF_TKR_fc-web.jpg",
@@ -101,6 +92,15 @@
       "match_id": "108303",
       "status": "upcoming",
       "startTime": "01:00:00 PM 05-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "ecs austria 2024",
+      "match_name": "salzburg vs cricketer cc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/107554_4430_SAL_CCC_fc-Web.jpg",
+      "match_id": "107554",
+      "status": "upcoming",
+      "startTime": "02:30:00 PM 05-09-2024"
     }
   ]
 }
