@@ -1,8 +1,17 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "18:25:43 05-09-2024",
+  "last update time": "18:49:35 05-09-2024",
   "matches": [
+    {
+      "event_category": "cricket",
+      "event_name": "kerala cricket league t20 2024",
+      "match_name": "kochi blue tigers vs alleppey ripples",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-8_Kerala-Cricket-League-T20_Old1.jpg",
+      "match_id": "107749",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/nVzysRR5T1e9T4O_Gu3ZAQ/master.m3u8"
+    },
     {
       "event_category": "cricket",
       "event_name": "ireland interprovincial limited over cup 2024",
@@ -15,29 +24,11 @@
     {
       "event_category": "cricket",
       "event_name": "ecs austria 2024",
-      "match_name": "graz cricket academy vs salzburg",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/107555_4430_SAL_GCA_fc-Web.jpg",
-      "match_id": "107555",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/RdgqwqYBSbOCkiAwf5fYGg/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "ecs austria 2024",
       "match_name": "shere punjab vienna vs cricketer cc",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/107556_4430_SEP_CCC_fc-Web.jpg",
       "match_id": "107556",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/HT7IGcvJQH6EFYB0R_s3Xg/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "fifa world cup asian qualifiers",
-      "match_name": "korea republic vs palestine",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108266_3740_KOR_PAL_fc-web.jpg",
-      "match_id": "108266",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/Ejps37ETRo-X0p7pd45DCA/master.m3u8"
     },
     {
       "event_category": "golf",
@@ -59,15 +50,6 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "kerala cricket league t20 2024",
-      "match_name": "kochi blue tigers vs alleppey ripples",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-8_Kerala-Cricket-League-T20_Old1.jpg",
-      "match_id": "107749",
-      "status": "upcoming",
-      "startTime": "06:45:00 PM 05-09-2024"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "caribbean premier league 2024",
       "match_name": "antigua barbuda falcons vs trinbago knight riders",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104212_4287_ABF_TKR_fc-web.jpg",
@@ -83,6 +65,15 @@
       "match_id": "107750",
       "status": "upcoming",
       "startTime": "02:30:00 PM 06-09-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "fifa world cup asian qualifiers",
+      "match_name": "uzbekistan vs dpr korea",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108263_3740_UZB_PRK_fc-web.jpg",
+      "match_id": "108263",
+      "status": "upcoming",
+      "startTime": "07:30:00 PM 05-09-2024"
     },
     {
       "event_category": "cricket",
@@ -110,6 +101,15 @@
       "match_id": "107636",
       "status": "upcoming",
       "startTime": "09:00:00 PM 05-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "boland t10 league 2024",
+      "match_name": "stellenbosch kings vs west coast blues",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-8_Boland-T10_Old.jpg",
+      "match_id": "107637",
+      "status": "upcoming",
+      "startTime": "11:30:00 PM 05-09-2024"
     }
   ]
 }
