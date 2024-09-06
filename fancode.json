@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "16:41:10 06-09-2024",
+  "last update time": "16:53:48 06-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -29,6 +29,15 @@
       "match_id": "107560",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/u1aY5nWxQa2P1nzrvT8V3g/master.m3u8"
+    },
+    {
+      "event_category": "golf",
+      "event_name": "omega european masters",
+      "match_name": "day 2",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Omega-European-Masters-2024_Golf_Old-Match-Card.jpg",
+      "match_id": "108477",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/1DDrgwBrQZiyCnUwG51uDQ/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -101,15 +110,6 @@
       "match_id": "107752",
       "status": "upcoming",
       "startTime": "02:30:00 PM 07-09-2024"
-    },
-    {
-      "event_category": "football",
-      "event_name": "conmebol world cup qualifiers",
-      "match_name": "uruguay vs paraguay",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108281_3542_URU_PAR_fc-web.jpg",
-      "match_id": "108281",
-      "status": "upcoming",
-      "startTime": "05:00:00 AM 07-09-2024"
     }
   ]
 }
