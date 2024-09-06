@@ -1,8 +1,17 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "17:53:37 06-09-2024",
+  "last update time": "18:24:18 06-09-2024",
   "matches": [
+    {
+      "event_category": "cricket",
+      "event_name": "australia tour of scotland 2024",
+      "match_name": "scotland vs australia",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Australia-tour-of-Scotland-old-match-card.png",
+      "match_id": "107497",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/F45ZMAphQSK13TGudAyFmg/master.m3u8"
+    },
     {
       "event_category": "cricket",
       "event_name": "sri lanka tour of england 2024",
@@ -40,13 +49,13 @@
       "stream_link": "https://dai.google.com/linear/hls/event/1DDrgwBrQZiyCnUwG51uDQ/master.m3u8"
     },
     {
-      "event_category": "cricket",
-      "event_name": "australia tour of scotland 2024",
-      "match_name": "scotland vs australia",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Australia-tour-of-Scotland-old-match-card.png",
-      "match_id": "107497",
-      "status": "upcoming",
-      "startTime": "06:30:00 PM 06-09-2024"
+      "event_category": "motorsports",
+      "event_name": "dtm 2024",
+      "match_name": "practice 1 sachsenring",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg",
+      "match_id": "108403",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/nl1shCqYS1OV35NzrJgkKg/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -86,30 +95,21 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "ecs austria 2024",
-      "match_name": "cricketer cc vs tbc",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "match_id": "107561",
-      "status": "upcoming",
-      "startTime": "07:30:00 PM 06-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "boland t10 league 2024",
-      "match_name": "overberg indwe vs paarl rocks",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-9_Boland-T10_Old.jpg",
-      "match_id": "107638",
-      "status": "upcoming",
-      "startTime": "10:30:00 PM 06-09-2024"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "england women tour of ireland 2024",
       "match_name": "ireland women vs england women",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/England-Womens-tour-of-Ireland-ODI-old-match-card.png",
       "match_id": "107233",
       "status": "upcoming",
       "startTime": "03:15:00 PM 07-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "ecs austria 2024",
+      "match_name": "cricketer cc vs tbc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "match_id": "107561",
+      "status": "upcoming",
+      "startTime": "07:30:00 PM 06-09-2024"
     }
   ]
 }
