@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "02:18:52 08-09-2024",
+  "last update time": "02:43:15 08-09-2024",
   "matches": [
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "chicago cubs vs new york yankees",
-      "src": "https://images.fancode.com/aig/match/v1/108031_CASACARDS_APP.png",
-      "match_id": "108031",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/OlUg1GCeRLydhDf4DfnNLw/master.m3u8"
-    },
     {
       "event_category": "baseball",
       "event_name": "mlb",
@@ -47,6 +38,15 @@
       "match_id": "104215",
       "status": "upcoming",
       "startTime": "07:30:00 PM 08-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "minor league cricket 2024",
+      "match_name": "baltimore royals vs ft lauderdale lions",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-2.png",
+      "match_id": "107812",
+      "status": "upcoming",
+      "startTime": "03:30:00 AM 08-09-2024"
     },
     {
       "event_category": "cricket",
