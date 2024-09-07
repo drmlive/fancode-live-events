@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "18:21:10 07-09-2024",
+  "last update time": "18:45:00 07-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -58,6 +58,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/JJgZWJdURTyVfGAF_AbRig/master.m3u8"
     },
     {
+      "event_category": "cricket",
+      "event_name": "kerala cricket league t20 2024",
+      "match_name": "calicut globstars vs thrissur titans",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-12_Kerala-Cricket-League-T20_Old1.jpg",
+      "match_id": "107753",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/XY9TF0vURmWQTIblhTkhlQ/master.m3u8"
+    },
+    {
       "event_category": "golf",
       "event_name": "omega european masters",
       "match_name": "day 3",
@@ -65,24 +74,6 @@
       "match_id": "108478",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/UTHkeRG2QtCeSzJVKJGHGg/master.m3u8"
-    },
-    {
-      "event_category": "motorsports",
-      "event_name": "dtm 2024",
-      "match_name": "race 1 sachsenring",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/07/DTM_Old_match-card-1.jpg",
-      "match_id": "108462",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/jOvxMLQwSR61ct2snQYVDA/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "kerala cricket league t20 2024",
-      "match_name": "kochi blue tigers vs aries kollam sailors",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-11_Kerala-Cricket-League-T20_Old1.jpg",
-      "match_id": "107752",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/DZN0b53VT7-VTKFbNdTVJA/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -95,21 +86,30 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "kerala cricket league t20 2024",
-      "match_name": "calicut globstars vs thrissur titans",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-12_Kerala-Cricket-League-T20_Old1.jpg",
-      "match_id": "107753",
-      "status": "upcoming",
-      "startTime": "06:45:00 PM 07-09-2024"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "eciw austriaspain 2024",
       "match_name": "austria women vs spain women",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/ECI-W-Austria-Spain-2024-old-match-card.png",
       "match_id": "108901",
       "status": "upcoming",
       "startTime": "08:30:00 PM 07-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "boland t10 league 2024",
+      "match_name": "west coast blues vs northern raiders",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-10_Boland-T10_Old.jpg",
+      "match_id": "107639",
+      "status": "upcoming",
+      "startTime": "11:30:00 PM 07-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "assam t20 pride cup 2024",
+      "match_name": "gauhati town club vs river rine club",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108308_4457_GTC_RRC_fc-web.jpg",
+      "match_id": "108308",
+      "status": "upcoming",
+      "startTime": "08:45:00 AM 08-09-2024"
     }
   ]
 }
