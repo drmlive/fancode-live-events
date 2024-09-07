@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "21:43:41 07-09-2024",
+  "last update time": "22:02:58 07-09-2024",
   "matches": [
-    {
-      "event_category": "cricket",
-      "event_name": "australia tour of scotland 2024",
-      "match_name": "scotland vs australia",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Australia-tour-of-Scotland-old-match-card.png",
-      "match_id": "107498",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/VKfAshLmQdiTuuVwXyV3sw/master.m3u8"
-    },
     {
       "event_category": "cricket",
       "event_name": "sri lanka tour of england 2024",
@@ -20,6 +11,15 @@
       "match_id": "105714",
       "status": "live",
       "stream_link": ""
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "australia tour of scotland 2024",
+      "match_name": "scotland vs australia",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Australia-tour-of-Scotland-old-match-card.png",
+      "match_id": "107498",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/VKfAshLmQdiTuuVwXyV3sw/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -47,15 +47,6 @@
       "match_id": "108901",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/_v3bphH2T1G_RD3BoeaFMQ/master.m3u8"
-    },
-    {
-      "event_category": "golf",
-      "event_name": "omega european masters",
-      "match_name": "day 3",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Omega-European-Masters-2024_Golf_Old-Match-Card.jpg",
-      "match_id": "108478",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/UTHkeRG2QtCeSzJVKJGHGg/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -103,13 +94,22 @@
       "startTime": "12:30:00 PM 08-09-2024"
     },
     {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "chicago cubs vs new york yankees",
-      "src": "https://images.fancode.com/aig/match/v1/108031_CASACARDS_APP.png",
-      "match_id": "108031",
+      "event_category": "cricket",
+      "event_name": "assam t20 pride cup 2024",
+      "match_name": "new star club vs ankurjyoti club",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108309_4457_NSC_AC_fc-web.jpg",
+      "match_id": "108309",
       "status": "upcoming",
-      "startTime": "11:50:00 PM 07-09-2024"
+      "startTime": "01:00:00 PM 08-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "arunachal premier league t20 2024",
+      "match_name": "kameng strikers vs pare warriors",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "match_id": "107937",
+      "status": "upcoming",
+      "startTime": "01:00:00 PM 08-09-2024"
     }
   ]
 }
