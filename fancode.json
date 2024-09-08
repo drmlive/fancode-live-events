@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "21:45:34 08-09-2024",
+  "last update time": "22:10:57 08-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -49,6 +49,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/cDdKONY7QCii_qjPqT1mSw/master.m3u8"
     },
     {
+      "event_category": "cricket",
+      "event_name": "oman d10 league 2024",
+      "match_name": "renaissance challengers vs yalla shabab giants",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108210_4455_BOB_RUR_fc-Web.jpg",
+      "match_id": "108210",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/2aDPlfY9TU6DkUDOKzg3Zw/master.m3u8"
+    },
+    {
       "event_category": "baseball",
       "event_name": "mlb",
       "match_name": "baltimore orioles vs tampa bay rays",
@@ -67,15 +76,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/I05BdHOlTmm3gdxR3yAvkQ/master.m3u8"
     },
     {
-      "event_category": "golf",
-      "event_name": "omega european masters",
-      "match_name": "day 4",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Omega-European-Masters-2024_Golf_Old-Match-Card.jpg",
-      "match_id": "108479",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/_YZKdhbtRvmTHYJd3fJfkg/master.m3u8"
-    },
-    {
       "event_category": "cricket",
       "event_name": "afghanistan and new zealand tour of india 2024",
       "match_name": "afghanistan vs new zealand",
@@ -86,21 +86,21 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "oman d10 league 2024",
-      "match_name": "renaissance challengers vs yalla shabab giants",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108210_4455_BOB_RUR_fc-Web.jpg",
-      "match_id": "108210",
-      "status": "upcoming",
-      "startTime": "10:00:00 PM 08-09-2024"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "england women tour of ireland 2024",
       "match_name": "ireland women vs england women",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/England-Womens-tour-of-Ireland-ODI-old-match-card-1.jpg",
       "match_id": "107234",
       "status": "upcoming",
       "startTime": "03:15:00 PM 09-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "boland t10 league 2024",
+      "match_name": "paarl rocks vs wellington wolves",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "match_id": "107640",
+      "status": "upcoming",
+      "startTime": "11:30:00 PM 08-09-2024"
     }
   ]
 }
