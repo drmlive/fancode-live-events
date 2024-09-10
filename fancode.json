@@ -1,8 +1,17 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "03:42:14 11-09-2024",
+  "last update time": "04:00:09 11-09-2024",
   "matches": [
+    {
+      "event_category": "cricket",
+      "event_name": "caribbean premier league 2024",
+      "match_name": "saint lucia kings vs trinbago knight riders",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104216_4287_SLK_TKR_fc-web.jpg",
+      "match_id": "104216",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/ZfrNUEOAQpqbhtKi-kSqUQ/master.m3u8"
+    },
     {
       "event_category": "football",
       "event_name": "conmebol world cup qualifiers",
@@ -31,13 +40,13 @@
       "stream_link": "https://dai.google.com/linear/hls/event/vMU3kTIFQk-L2atkwxLn6g/master.m3u8"
     },
     {
-      "event_category": "cricket",
-      "event_name": "caribbean premier league 2024",
-      "match_name": "saint lucia kings vs trinbago knight riders",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104216_4287_SLK_TKR_fc-web.jpg",
-      "match_id": "104216",
-      "status": "upcoming",
-      "startTime": "04:30:00 AM 11-09-2024"
+      "event_category": "baseball",
+      "event_name": "mlb",
+      "match_name": "detroit tigers vs colorado rockies",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "match_id": "108038",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/FKyyp7BEQFmw-jUTL4vAxQ/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -67,15 +76,6 @@
       "startTime": "06:45:00 PM 11-09-2024"
     },
     {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "detroit tigers vs colorado rockies",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-      "match_id": "108038",
-      "status": "upcoming",
-      "startTime": "04:10:00 AM 11-09-2024"
-    },
-    {
       "event_category": "cricket",
       "event_name": "australia tour of england 2024",
       "match_name": "england vs australia",
@@ -94,13 +94,13 @@
       "startTime": "08:45:00 AM 11-09-2024"
     },
     {
-      "event_category": "football",
-      "event_name": "conmebol world cup qualifiers",
-      "match_name": "paraguay vs brazil",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108286_3542_PAR_BRA_fc-web.jpg",
-      "match_id": "108286",
+      "event_category": "cricket",
+      "event_name": "ecs croatia 2024",
+      "match_name": "zagreb warriors vs sir oliver split",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108577_4474_ZW_SOS_fc-web.jpg",
+      "match_id": "108577",
       "status": "upcoming",
-      "startTime": "06:00:00 AM 11-09-2024"
+      "startTime": "12:00:00 PM 11-09-2024"
     }
   ]
 }
