@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "17:56:11 10-09-2024",
+  "last update time": "18:27:17 10-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -29,6 +29,15 @@
       "match_id": "108216",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/ci0z7VmBSLed16vIl3i67Q/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "ecs croatia 2024",
+      "match_name": "zagreb chiefs vs zagreb warriors",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108575_4474_ZC_ZW_fc-web.jpg",
+      "match_id": "108575",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/jFV8yqLVQ0muqNkk6gWpvQ/master.m3u8"
     },
     {
       "event_category": "football",
@@ -92,15 +101,6 @@
       "match_id": "104216",
       "status": "upcoming",
       "startTime": "04:30:00 AM 11-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "ecs croatia 2024",
-      "match_name": "zagreb chiefs vs zagreb warriors",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108575_4474_ZC_ZW_fc-web.jpg",
-      "match_id": "108575",
-      "status": "upcoming",
-      "startTime": "06:15:00 PM 10-09-2024"
     }
   ]
 }
