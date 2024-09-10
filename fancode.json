@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "20:00:47 10-09-2024",
+  "last update time": "20:18:51 10-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -40,13 +40,22 @@
       "stream_link": "https://dai.google.com/linear/hls/event/sp-ol9ZIRZ6a2MwfPOYlWg/master.m3u8"
     },
     {
+      "event_category": "cricket",
+      "event_name": "ecs croatia 2024",
+      "match_name": "zagreb sokol vs zagreb chiefs",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108576_4474_ZAS_ZC_fc-web.jpg",
+      "match_id": "108576",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/MYbI4eK9QC-s9kIeAfM4sA/master.m3u8"
+    },
+    {
       "event_category": "football",
       "event_name": "fifa world cup asian qualifiers",
-      "match_name": "dpr korea vs qatar",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108272_3740_PRK_QAT_fc-web.jpg",
-      "match_id": "108272",
+      "match_name": "oman vs korea republic",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108275_3740_OMN_KOR_fc-web.jpg",
+      "match_id": "108275",
       "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/lIolTclqSHCppXg0ZbeN5A/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/t6QnVQfkQT-TLLs--c8RSg/master.m3u8"
     },
     {
       "event_category": "football",
@@ -68,39 +77,30 @@
     },
     {
       "event_category": "football",
-      "event_name": "fifa world cup asian qualifiers",
-      "match_name": "oman vs korea republic",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108275_3740_OMN_KOR_fc-web.jpg",
-      "match_id": "108275",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/t6QnVQfkQT-TLLs--c8RSg/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "oman d10 league 2024",
-      "match_name": "majees titans vs royal oman stallions",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108216_4455_DAT_AMR_fc-Web_1725969605195.jpg",
-      "match_id": "108216",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/ci0z7VmBSLed16vIl3i67Q/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "ecs croatia 2024",
-      "match_name": "zagreb chiefs vs zagreb warriors",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108575_4474_ZC_ZW_fc-web.jpg",
-      "match_id": "108575",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/jFV8yqLVQ0muqNkk6gWpvQ/master.m3u8"
-    },
-    {
-      "event_category": "football",
       "event_name": "conmebol world cup qualifiers",
       "match_name": "colombia vs argentina",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108283_3542_COL_ARG_fc-web.jpg",
       "match_id": "108283",
       "status": "upcoming",
       "startTime": "02:00:00 AM 11-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "caribbean premier league 2024",
+      "match_name": "saint lucia kings vs trinbago knight riders",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104216_4287_SLK_TKR_fc-web.jpg",
+      "match_id": "104216",
+      "status": "upcoming",
+      "startTime": "04:30:00 AM 11-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "kerala cricket league t20 2024",
+      "match_name": "trivandrum royals vs thrissur titans",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-19_Kerala-Cricket-League-T20_Old1.jpg",
+      "match_id": "107760",
+      "status": "upcoming",
+      "startTime": "02:30:00 PM 11-09-2024"
     }
   ]
 }
