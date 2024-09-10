@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "01:44:00 11-09-2024",
+  "last update time": "01:59:07 11-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -14,21 +14,12 @@
     },
     {
       "event_category": "football",
-      "event_name": "fifa world cup asian qualifiers",
-      "match_name": "kuwait vs iraq",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108277_3740_KUW_IRQ_fc-web.jpg",
-      "match_id": "108277",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/8PEple8HRNyFkX43uv1YYw/master.m3u8"
-    },
-    {
-      "event_category": "football",
       "event_name": "conmebol world cup qualifiers",
       "match_name": "colombia vs argentina",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108283_3542_COL_ARG_fc-web.jpg",
       "match_id": "108283",
-      "status": "upcoming",
-      "startTime": "02:00:00 AM 11-09-2024"
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/6wjkXZesTXCV7wKCXI5AzA/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -101,6 +92,15 @@
       "match_id": "108285",
       "status": "upcoming",
       "startTime": "03:30:00 AM 11-09-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "conmebol world cup qualifiers",
+      "match_name": "paraguay vs brazil",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108286_3542_PAR_BRA_fc-web.jpg",
+      "match_id": "108286",
+      "status": "upcoming",
+      "startTime": "06:00:00 AM 11-09-2024"
     }
   ]
 }
