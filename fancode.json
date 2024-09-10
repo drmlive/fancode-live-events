@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "05:18:52 10-09-2024",
+  "last update time": "06:30:04 10-09-2024",
   "matches": [
     {
       "event_category": "baseball",
@@ -11,6 +11,15 @@
       "match_id": "108009",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/ed-j2e7sRLmwxbeXKoQ4BQ/master.m3u8"
+    },
+    {
+      "event_category": "hockey",
+      "event_name": "14th hockey india junior men national championship",
+      "match_name": "chhattisgarh hockey vs hockey madhya pradesh",
+      "src": "https://images.fancode.com/aig/match/v2/108825_CASACARDS_APP.png",
+      "match_id": "108825",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/BaPFI4zqTDK2XFPuCYuZ5w/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -77,30 +86,21 @@
     },
     {
       "event_category": "cricket",
+      "event_name": "caribbean premier league 2024",
+      "match_name": "saint lucia kings vs trinbago knight riders",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104216_4287_SLK_TKR_fc-web.jpg",
+      "match_id": "104216",
+      "status": "upcoming",
+      "startTime": "04:30:00 AM 11-09-2024"
+    },
+    {
+      "event_category": "cricket",
       "event_name": "uae women and zimbabwe women tour of namibia",
       "match_name": "zimbabwe women vs united arab emirates women",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/UAEW-ZimbabweW-TO-NamibiaW-OLD.png",
       "match_id": "108202",
       "status": "upcoming",
       "startTime": "05:30:00 PM 10-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "oman d10 league 2024",
-      "match_name": "majees titans vs royal oman stallions",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108216_4455_DAT_AMR_fc-Web.jpg",
-      "match_id": "108216",
-      "status": "upcoming",
-      "startTime": "06:00:00 PM 10-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "ecs croatia 2024",
-      "match_name": "zagreb chiefs vs zagreb warriors",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108575_4474_ZC_ZW_fc-web.jpg",
-      "match_id": "108575",
-      "status": "upcoming",
-      "startTime": "06:15:00 PM 10-09-2024"
     }
   ]
 }
