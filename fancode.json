@@ -1,8 +1,17 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "09:01:07 12-09-2024",
+  "last update time": "09:19:08 12-09-2024",
   "matches": [
+    {
+      "event_category": "cricket",
+      "event_name": "afghanistan and new zealand tour of india 2024",
+      "match_name": "afghanistan vs new zealand",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-New-Zealand-tour-of-India-2024-test-old-match-card.png",
+      "match_id": "107241",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/u9UlRFi6SYufoMTWlvo9aw/master.m3u8"
+    },
     {
       "event_category": "cricket",
       "event_name": "assam t20 pride cup 2024",
@@ -74,6 +83,15 @@
       "match_id": "108317",
       "status": "upcoming",
       "startTime": "01:00:00 PM 12-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "ecs croatia 2024",
+      "match_name": "zagreb chiefs vs sir oliver split",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108583_4474_ZC_SOS_fc-web.jpg",
+      "match_id": "108583",
+      "status": "upcoming",
+      "startTime": "02:00:00 PM 12-09-2024"
     }
   ]
 }
