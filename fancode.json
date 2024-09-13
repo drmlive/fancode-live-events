@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "12:12:20 13-09-2024",
+  "last update time": "12:20:43 13-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -29,6 +29,15 @@
       "match_id": "108846",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/1LfPPl2mTviasLo0GSC-aA/master.m3u8"
+    },
+    {
+      "event_category": "golf",
+      "event_name": "amgen irish open",
+      "match_name": "day 2",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Amgen-Irish-Open_Golf_Old-Match-Card.jpg",
+      "match_id": "108914",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/b26mwoQrTzaQlTsLuUvywg/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -101,15 +110,6 @@
       "match_id": "108205",
       "status": "upcoming",
       "startTime": "05:30:00 PM 13-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "oman d10 league 2024",
-      "match_name": "royal oman stallions vs renaissance challengers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108228_4455_AMR_BOB_fc-Web_1725969605747.jpg",
-      "match_id": "108228",
-      "status": "upcoming",
-      "startTime": "06:00:00 PM 13-09-2024"
     }
   ]
 }
