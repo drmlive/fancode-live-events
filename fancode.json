@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "00:10:06 16-09-2024",
+  "last update time": "00:18:50 16-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -29,15 +29,6 @@
       "match_id": "108239",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/4_WrgwGCSbmdo7bS1kPsLw/master.m3u8"
-    },
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "detroit tigers vs baltimore orioles",
-      "src": "https://images.fancode.com/aig/match/v1/108051_CASACARDS_APP.png",
-      "match_id": "108051",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/VO2RQe13R4uzQVsJr7fm9w/master.m3u8"
     },
     {
       "event_category": "baseball",
@@ -110,6 +101,15 @@
       "match_id": "108603",
       "status": "upcoming",
       "startTime": "12:00:00 PM 16-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "gsa pride cup 2024",
+      "match_name": "ankurjyoti club vs city cricket club",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108325_4457_AC_CCC_fc-web.jpg",
+      "match_id": "108325",
+      "status": "upcoming",
+      "startTime": "01:00:00 PM 16-09-2024"
     }
   ]
 }
