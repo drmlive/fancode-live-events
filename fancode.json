@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "23:19:06 15-09-2024",
+  "last update time": "23:47:09 15-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -13,6 +13,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/E6ys5FBhQjmpF4nCKvcyig/master.m3u8"
     },
     {
+      "event_category": "cricket",
+      "event_name": "boland t10 league 2024",
+      "match_name": "wellington wolves vs northern raiders",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-22_Boland-T10_Old.jpg",
+      "match_id": "107651",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/-fvhkb8qRiep2l5WD2Yumw/master.m3u8"
+    },
+    {
       "event_category": "baseball",
       "event_name": "mlb",
       "match_name": "detroit tigers vs baltimore orioles",
@@ -22,13 +31,22 @@
       "stream_link": "https://dai.google.com/linear/hls/event/VO2RQe13R4uzQVsJr7fm9w/master.m3u8"
     },
     {
-      "event_category": "cricket",
-      "event_name": "boland t10 league 2024",
-      "match_name": "wellington wolves vs northern raiders",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-22_Boland-T10_Old.jpg",
-      "match_id": "107651",
+      "event_category": "baseball",
+      "event_name": "mlb",
+      "match_name": "chicago white sox vs oakland athletics",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "match_id": "108052",
       "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/-fvhkb8qRiep2l5WD2Yumw/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/-nLJ7MUuQDWJHK4zMi3S4Q/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "oman d10 league 2024",
+      "match_name": "majees titans vs renaissance challengers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108239_4455_DAT_BOB_fc-Web_1725969606161.jpg",
+      "match_id": "108239",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/4_WrgwGCSbmdo7bS1kPsLw/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -50,15 +68,6 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "uttarakhand premier league 2024",
-      "match_name": "dehradun warriors vs haridwar spring elmas",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109030_4486_DHD_HAH_fc-web.jpg",
-      "match_id": "109030",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/Tp8DG86nQXmJwHZcZzO9_A/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "caribbean premier league 2024",
       "match_name": "saint lucia kings vs antigua barbuda falcons",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104221_4287_SLK_ABF_fc-web.jpg",
@@ -68,30 +77,12 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "oman d10 league 2024",
-      "match_name": "majees titans vs renaissance challengers",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108239_4455_DAT_BOB_fc-Web_1725969606161.jpg",
-      "match_id": "108239",
-      "status": "upcoming",
-      "startTime": "12:00:00 AM 16-09-2024"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "uttarakhand premier league 2024",
       "match_name": "pithoragarh hurricanes vs haridwar spring elmas",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/109031_4486_PIC_HAH_fc-web.jpg",
       "match_id": "109031",
       "status": "upcoming",
       "startTime": "03:00:00 PM 16-09-2024"
-    },
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "chicago white sox vs oakland athletics",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-      "match_id": "108052",
-      "status": "upcoming",
-      "startTime": "11:40:00 PM 15-09-2024"
     },
     {
       "event_category": "cricket",
@@ -110,6 +101,15 @@
       "match_id": "109032",
       "status": "upcoming",
       "startTime": "07:30:00 PM 16-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "gsa pride cup 2024",
+      "match_name": "bud cricket club vs river rine club",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108324_4457_BCC_RRC_fc-web.jpg",
+      "match_id": "108324",
+      "status": "upcoming",
+      "startTime": "08:45:00 AM 16-09-2024"
     }
   ]
 }
