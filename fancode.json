@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "12:53:44 15-09-2024",
+  "last update time": "13:05:04 15-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -29,6 +29,15 @@
       "match_id": "108856",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/rPc2iNCWRpeQyDJWEISaPg/master.m3u8"
+    },
+    {
+      "event_category": "motorsports",
+      "event_name": "f2 azerbaijan 2024",
+      "match_name": "feature race",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/03/F2_Saudi_Old_match-card.jpg",
+      "match_id": "95369",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/FWGF9-n0QyydPWcK_WQdhw/master.m3u8"
     },
     {
       "event_category": "formula-1",
@@ -101,15 +110,6 @@
       "match_id": "108600",
       "status": "upcoming",
       "startTime": "04:00:00 PM 15-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "oman d10 league 2024",
-      "match_name": "renaissance challengers vs majees titans",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108236_4455_BOB_DAT_fc-Web_1725969606215.jpg",
-      "match_id": "108236",
-      "status": "upcoming",
-      "startTime": "06:00:00 PM 15-09-2024"
     }
   ]
 }
