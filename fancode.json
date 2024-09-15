@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "08:35:31 15-09-2024",
+  "last update time": "09:03:12 15-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -13,15 +13,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/_EJkFYHpQMy-G3kdRQNviA/master.m3u8"
     },
     {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "seattle mariners vs texas rangers",
-      "src": "https://images.fancode.com/aig/match/v1/108050_CASACARDS_APP.png",
-      "match_id": "108050",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/KWErF_LIRxWcKrOIQfoVcg/master.m3u8"
-    },
-    {
       "event_category": "cricket",
       "event_name": "gsa pride cup 2024",
       "match_name": "new star club vs ankurjyoti club",
@@ -29,6 +20,15 @@
       "match_id": "108322",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/SeaTEfrySaeM5rkx3NebIw/master.m3u8"
+    },
+    {
+      "event_category": "baseball",
+      "event_name": "mlb",
+      "match_name": "seattle mariners vs texas rangers",
+      "src": "https://images.fancode.com/aig/match/v1/108050_CASACARDS_APP.png",
+      "match_id": "108050",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/KWErF_LIRxWcKrOIQfoVcg/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -47,6 +47,15 @@
       "match_id": "108853",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/cWGh-Ef3Rnu9BeR0GPE28w/master.m3u8"
+    },
+    {
+      "event_category": "formula-1",
+      "event_name": "f1 qatar airways azerbaijan grand prix 2024",
+      "match_name": "race",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/F1-Azerbaijan_old-4.jpg",
+      "match_id": "95221",
+      "status": "upcoming",
+      "startTime": "04:30:00 PM 15-09-2024"
     },
     {
       "event_category": "cricket",
@@ -101,15 +110,6 @@
       "match_id": "108323",
       "status": "upcoming",
       "startTime": "01:00:00 PM 15-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "ecs croatia 2024",
-      "match_name": "zagreb sokol vs belgrade",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108599_4474_ZAS_BEL_fc-web.jpg",
-      "match_id": "108599",
-      "status": "upcoming",
-      "startTime": "02:00:00 PM 15-09-2024"
     }
   ]
 }
