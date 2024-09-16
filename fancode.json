@@ -1,8 +1,17 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "21:19:03 16-09-2024",
+  "last update time": "21:45:35 16-09-2024",
   "matches": [
+    {
+      "event_category": "football",
+      "event_name": "afc champions league elite 202425",
+      "match_name": "al shorta vs alnassr",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108628_4475_SHR_ANF_fc-web.jpg",
+      "match_id": "108628",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/fuVxw3hmSyOyBsFAHnzfKg/master.m3u8"
+    },
     {
       "event_category": "cricket",
       "event_name": "patanjali uttarakhand premier league 2024",
@@ -31,6 +40,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/QfKBu4O5Sb62dH6ya5Hf-w/master.m3u8"
     },
     {
+      "event_category": "football",
+      "event_name": "afc champions league elite 202425",
+      "match_name": "al ain vs al sadd",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108627_4475_AAI_SDD_fc-web.jpg",
+      "match_id": "108627",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/snH_quW9SWOnqu3KDke4hA/master.m3u8"
+    },
+    {
       "event_category": "cricket",
       "event_name": "icc cwc league 2 202327",
       "match_name": "canada vs nepal",
@@ -38,24 +56,6 @@
       "match_id": "108883",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/0Y1cDvNNTzi1Ia0uV4pyBQ/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "afc champions league elite 202425",
-      "match_name": "al shorta vs alnassr",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108628_4475_SHR_ANF_fc-web.jpg",
-      "match_id": "108628",
-      "status": "upcoming",
-      "startTime": "09:30:00 PM 16-09-2024"
-    },
-    {
-      "event_category": "football",
-      "event_name": "afc champions league elite 202425",
-      "match_name": "al ain vs al sadd",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108627_4475_AAI_SDD_fc-web.jpg",
-      "match_id": "108627",
-      "status": "upcoming",
-      "startTime": "09:30:00 PM 16-09-2024"
     },
     {
       "event_category": "cricket",
@@ -78,15 +78,6 @@
     {
       "event_category": "football",
       "event_name": "afc champions league elite 202425",
-      "match_name": "esteghlal fc vs al gharafa",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108629_4475_ESG_AGH_fc-web.jpg",
-      "match_id": "108629",
-      "status": "upcoming",
-      "startTime": "11:30:00 PM 16-09-2024"
-    },
-    {
-      "event_category": "football",
-      "event_name": "afc champions league elite 202425",
       "match_name": "alahli vs persepolis fc",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108630_4475_AAS_PPL_fc-web.jpg",
       "match_id": "108630",
@@ -94,13 +85,22 @@
       "startTime": "11:30:00 PM 16-09-2024"
     },
     {
-      "event_category": "cricket",
-      "event_name": "gsa pride cup 2024",
-      "match_name": "river rine club vs city cricket club",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-      "match_id": "108326",
+      "event_category": "football",
+      "event_name": "afc champions league elite 202425",
+      "match_name": "esteghlal fc vs al gharafa",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108629_4475_ESG_AGH_fc-web.jpg",
+      "match_id": "108629",
       "status": "upcoming",
-      "startTime": "08:45:00 AM 17-09-2024"
+      "startTime": "11:30:00 PM 16-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "patanjali uttarakhand premier league 2024",
+      "match_name": "usn indians vs pithoragarh hurricanes",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/109034_4486_UI_PIC_fc-web.jpg",
+      "match_id": "109034",
+      "status": "upcoming",
+      "startTime": "07:30:00 PM 17-09-2024"
     }
   ]
 }
