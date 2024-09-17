@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "19:41:55 17-09-2024",
+  "last update time": "19:58:50 17-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -40,6 +40,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/rkPBNNmkQB-9o7I1nvNxtQ/master.m3u8"
     },
     {
+      "event_category": "cricket",
+      "event_name": "oman d10 league 2024",
+      "match_name": "yalla shabab giants vs majees titans",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108241_4455_DAT_RUR_fc-Web_1725969606188.jpg",
+      "match_id": "108241",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/0U-mTchKTZCtpslXpnLcRg/master.m3u8"
+    },
+    {
       "event_category": "football",
       "event_name": "afc champions league elite 202425",
       "match_name": "pakhtakor tashkent vs al wasl",
@@ -56,24 +65,6 @@
       "match_id": "107954",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/PdhLjOSWQn2Hec16BiY9pg/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "afc champions league elite 202425",
-      "match_name": "shanghai shenhua vs pohang steelers",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108636_4475_SHN_PHG_fc-web.jpg",
-      "match_id": "108636",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/iRYGNlOhTQq3fDaQt1kqGw/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "afc champions league elite 202425",
-      "match_name": "buriram united vs vissel kobe",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108635_4475_BU_VIS_fc-web.jpg",
-      "match_id": "108635",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/wmIAP8PASZ-IifdSuZm3EA/master.m3u8"
     },
     {
       "event_category": "football",
@@ -104,12 +95,21 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "oman d10 league 2024",
-      "match_name": "yalla shabab giants vs majees titans",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108241_4455_DAT_RUR_fc-Web_1725969606188.jpg",
-      "match_id": "108241",
+      "event_name": "ecs croatia 2024",
+      "match_name": "zagreb warriors vs afyonkarahisar shs",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108612_4474_ZW_AFK_fc-web.jpg",
+      "match_id": "108612",
       "status": "upcoming",
-      "startTime": "08:00:00 PM 17-09-2024"
+      "startTime": "08:15:00 PM 17-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "patanjali uttarakhand premier league 2024",
+      "match_name": "dehradun warriors vs pithoragarh hurricanes",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/109035_4486_DHD_PIC_fc-web.jpg",
+      "match_id": "109035",
+      "status": "upcoming",
+      "startTime": "03:00:00 PM 18-09-2024"
     }
   ]
 }
