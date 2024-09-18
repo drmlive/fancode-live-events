@@ -1,8 +1,17 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "16:53:44 18-09-2024",
+  "last update time": "17:05:42 18-09-2024",
   "matches": [
+    {
+      "event_category": "cricket",
+      "event_name": "afghanistan and south africa tour of uae 2024",
+      "match_name": "afghanistan vs south africa",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-South-Africa-tour-of-UAE-ODI-old-match-card.png",
+      "match_id": "107775",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/FNOhS-N3SG6dPq8qhoEBwg/master.m3u8"
+    },
     {
       "event_category": "cricket",
       "event_name": "new zealand tour of sri lanka 2024",
@@ -59,24 +68,6 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "icc cwc league 2 202327",
-      "match_name": "united arab emirates vs usa",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108405_3908_UAE_USA_fc-web.jpg",
-      "match_id": "108405",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/-ceHsha8Td6dlSPA6fa49Q/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "afghanistan and south africa tour of uae 2024",
-      "match_name": "afghanistan vs south africa",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-South-Africa-tour-of-UAE-ODI-old-match-card.png",
-      "match_id": "107775",
-      "status": "upcoming",
-      "startTime": "05:30:00 PM 18-09-2024"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "south africa women tour of pakistan 2024",
       "match_name": "pakistan women vs south africa women",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/South-Africa-Womens-tour-of-Pakistan-old-match-card.png",
@@ -108,6 +99,15 @@
       "match_name": "lee man vs nam dinh",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/108795_4476_LM_ND_FC-web.jpg",
       "match_id": "108795",
+      "status": "upcoming",
+      "startTime": "05:30:00 PM 18-09-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "afc champions league two 202425",
+      "match_name": "bangkok united vs tampines rovers fc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108796_4476_BU_TAM_FC-web.jpg",
+      "match_id": "108796",
       "status": "upcoming",
       "startTime": "05:30:00 PM 18-09-2024"
     }
