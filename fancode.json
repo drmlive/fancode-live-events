@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "23:19:03 18-09-2024",
+  "last update time": "23:47:05 18-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -31,6 +31,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/ifkd88MNRWe6zF4PQDQofg/master.m3u8"
     },
     {
+      "event_category": "baseball",
+      "event_name": "mlb",
+      "match_name": "chicago cubs vs oakland athletics",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+      "match_id": "108058",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/S3k3ViUoTQea3mnoNATRFw/master.m3u8"
+    },
+    {
       "event_category": "cricket",
       "event_name": "icc cwc league 2 202327",
       "match_name": "nepal vs oman",
@@ -42,20 +51,11 @@
     {
       "event_category": "football",
       "event_name": "afc champions league two 202425",
-      "match_name": "shabab al ahli vs al hussein",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108759_4476_SAA_HUS_FC-web.jpg",
-      "match_id": "108759",
+      "match_name": "al quwa al jawiya vs altyn asyr",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108736_4476_AFC_AA_FC-web.jpg",
+      "match_id": "108736",
       "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/2Jl-kruUQ2mneNNePa9pXw/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "afc champions league two 202425",
-      "match_name": "khaldiya vs altaawoun",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108735_4476_KHA_ALTW_FC-web.jpg",
-      "match_id": "108735",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/FjJ9Lm50Q9OlwpOXenF4eQ/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/AFwB6XkjQ_S3K6JdPPG1-A/master.m3u8"
     },
     {
       "event_category": "football",
@@ -68,48 +68,39 @@
     },
     {
       "event_category": "football",
-      "event_name": "afc champions league two 202425",
-      "match_name": "kuwait sc vs nasaf",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108760_4476_KSC_NQ_FC-web.jpg",
-      "match_id": "108760",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/Ma-96uc5RbKu3mKXFjXvHQ/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "afc champions league two 202425",
-      "match_name": "al quwa al jawiya vs altyn asyr",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108736_4476_AFC_AA_FC-web.jpg",
-      "match_id": "108736",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/AFwB6XkjQ_S3K6JdPPG1-A/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "south africa women tour of pakistan 2024",
-      "match_name": "pakistan women vs south africa women",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/South-Africa-Womens-tour-of-Pakistan-old-match-card.png",
-      "match_id": "108991",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/CN_Pc3qASt256H8as7yatA/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "kerala cricket league t20 2024",
-      "match_name": "calicut globstars vs aries kollam sailors",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Match-23_Kerala-Cricket-League-T20_Old1.jpg",
-      "match_id": "107774",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/QXuCd_AaQVqUyvFdo1wBaA/master.m3u8"
-    },
-    {
-      "event_category": "football",
       "event_name": "carabao cup 202425",
       "match_name": "coventry city vs tottenham hotspur",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Coventry-vs-Tottenham_old1.jpg",
       "match_id": "109052",
       "status": "upcoming",
       "startTime": "12:30:00 AM 19-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "caribbean premier league 2024",
+      "match_name": "trinbago knight riders vs guyana amazon warriors",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104223_4287_TKR_GUY_fc-web.jpg",
+      "match_id": "104223",
+      "status": "upcoming",
+      "startTime": "04:30:00 AM 19-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "oman d10 league 2024",
+      "match_name": "royal oman stallions vs majees titans",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108246_4455_AMR_DAT_fc-Web_1725969606257.jpg",
+      "match_id": "108246",
+      "status": "upcoming",
+      "startTime": "12:15:00 AM 19-09-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "carabao cup 202425",
+      "match_name": "brighton and hove albion vs wolverhampton wanderers",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/Brighton-and-Hove-Albion-vs-Wolverhampton-Wanderers_old.jpg",
+      "match_id": "109055",
+      "status": "upcoming",
+      "startTime": "12:15:00 AM 19-09-2024"
     }
   ]
 }
