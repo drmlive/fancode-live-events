@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "01:44:51 21-09-2024",
+  "last update time": "02:00:39 21-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -38,15 +38,6 @@
       "match_id": "108885",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/5fryVFG_Q5uLlQP6TGXMXA/master.m3u8"
-    },
-    {
-      "event_category": "mma",
-      "event_name": "professional fighters league",
-      "match_name": "pfl mena",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/PFL-Mena-Old.jpg",
-      "match_id": "108474",
-      "status": "live",
-      "stream_link": "https://dai.fancode.com/primary/108474_english_hls_5688adfreeta-di/index.m3u8"
     },
     {
       "event_category": "golf",
@@ -101,6 +92,15 @@
       "match_id": "101892",
       "status": "upcoming",
       "startTime": "06:30:00 AM 21-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "icc mens t20 wc africa sub regional qualifier a",
+      "match_name": "malawi vs lesotho",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+      "match_id": "108120",
+      "status": "upcoming",
+      "startTime": "12:00:00 PM 21-09-2024"
     }
   ]
 }
