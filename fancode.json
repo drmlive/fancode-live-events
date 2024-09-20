@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "16:42:02 20-09-2024",
+  "last update time": "16:54:39 20-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -23,6 +23,15 @@
     },
     {
       "event_category": "cricket",
+      "event_name": "ecn greecespain t20iw 2024",
+      "match_name": "greece women vs spain women",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/ECN-Greece-Spain-T20IW-2024-old-match-card-op-2.png",
+      "match_id": "109425",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/s8zkkP6TTRm80d8zGQF6qA/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
       "event_name": "icc cwc league 2 202327",
       "match_name": "namibia vs united arab emirates",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108406_3908_NAM_UAE_fc-web.jpg",
@@ -40,15 +49,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/uXYeKwwBSy2ZVUICIln71g/master.m3u8"
     },
     {
-      "event_category": "golf",
-      "event_name": "bmw pga championship",
-      "match_name": "day 2",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/BMW-PGA-Championship_Old_match-card.jpg",
-      "match_id": "109307",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/LclRXezlRLG_AM8Oq9GJxg/master.m3u8"
-    },
-    {
       "event_category": "motorsports",
       "event_name": "f1 academy singapore 2024",
       "match_name": "qualifying session",
@@ -58,13 +58,13 @@
       "stream_link": ""
     },
     {
-      "event_category": "cricket",
-      "event_name": "eciw greecespain 2024",
-      "match_name": "spain women vs greece women",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/ECI-W-Greece-Spain-2024-old-match-card-op-2.png",
-      "match_id": "109424",
+      "event_category": "golf",
+      "event_name": "bmw pga championship",
+      "match_name": "day 2",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/BMW-PGA-Championship_Old_match-card.jpg",
+      "match_id": "109307",
       "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/DvuALtj4QgyH0QVljFqW3Q/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/LclRXezlRLG_AM8Oq9GJxg/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -95,21 +95,21 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "ecn greecespain t20iw 2024",
-      "match_name": "greece women vs spain women",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/ECN-Greece-Spain-T20IW-2024-old-match-card-op-2.png",
-      "match_id": "109425",
-      "status": "upcoming",
-      "startTime": "05:00:00 PM 20-09-2024"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "ecs croatia 2024",
       "match_name": "zagreb sokol vs ljubljana",
       "src": "https://images.fancode.com/aig/match/v1/108625_CASACARDS_APP.png",
       "match_id": "108625",
       "status": "upcoming",
       "startTime": "05:30:00 PM 20-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "ecs croatia 2024",
+      "match_name": "sir oliver split vs zagreb assassins",
+      "src": "https://images.fancode.com/aig/match/v1/108626_CASACARDS_APP.png",
+      "match_id": "108626",
+      "status": "upcoming",
+      "startTime": "07:30:00 PM 20-09-2024"
     }
   ]
 }
