@@ -1,8 +1,17 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "17:52:08 21-09-2024",
+  "last update time": "18:22:50 21-09-2024",
   "matches": [
+    {
+      "event_category": "formula-1",
+      "event_name": "f1 singapore airlines singapore grand prix",
+      "match_name": "qualifying",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/F1-Singapore-GP-OLD1.jpg",
+      "match_id": "95225",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/gcXYTVNjRBKRUhp_TJ1G4g/master.m3u8"
+    },
     {
       "event_category": "cricket",
       "event_name": "legends league cricket 2024",
@@ -42,15 +51,6 @@
     {
       "event_category": "cricket",
       "event_name": "icc mens t20 wc africa sub regional qualifier a",
-      "match_name": "mali vs tanzania",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108122_4451_TAN_MLI_fc-web.jpg",
-      "match_id": "108122",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/8YX0KPd1TpuCX2o3V-7n0A/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "icc mens t20 wc africa sub regional qualifier a",
       "match_name": "cameroon vs ghana",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/108121_4451_GHA_CAM_fc-web.jpg",
       "match_id": "108121",
@@ -85,6 +85,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/k2CcABoZQ7yy1I7L_r23tA/master.m3u8"
     },
     {
+      "event_category": "cricket",
+      "event_name": "zim afro t10 2024",
+      "match_name": "durban wolves vs joburg bangla tigers",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/109159_4493_DB_JBL_fc-web_1726824494291.jpg",
+      "match_id": "109159",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/giPqUUqWQQWGWuhGngu43A/master.m3u8"
+    },
+    {
       "event_category": "football",
       "event_name": "chinese super league 2024",
       "match_name": "shanghai shenhua vs tianjin jinmen tiger",
@@ -101,15 +110,6 @@
       "match_id": "109312",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/TpCYwithTaithrgll-g7sg/master.m3u8"
-    },
-    {
-      "event_category": "golf",
-      "event_name": "bmw pga championship",
-      "match_name": "day 3",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/BMW-PGA-Championship_Old_match-card.jpg",
-      "match_id": "109308",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/Bot8VAD7QDyDIO8obVFUzw/master.m3u8"
     }
   ]
 }
