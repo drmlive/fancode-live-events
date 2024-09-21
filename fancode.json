@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "17:18:46 21-09-2024",
+  "last update time": "17:52:08 21-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -86,21 +86,12 @@
     },
     {
       "event_category": "football",
-      "event_name": "j league 2024",
-      "match_name": "machida zelvia vs consadole sapporo",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108091_3921_MZ_SAP_fc-web.jpg",
-      "match_id": "108091",
+      "event_name": "chinese super league 2024",
+      "match_name": "shanghai shenhua vs tianjin jinmen tiger",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/SHN_TJT__Old_fc_web.jpg",
+      "match_id": "106176",
       "status": "live",
-      "stream_link": "https://dai.fancode.com/primary/108091_english_hls_5100adfreeta-di/index.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "j league 2024",
-      "match_name": "urawa red diamonds vs fc tokyo",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108090_3921_URW_TKY_fc-web.jpg",
-      "match_id": "108090",
-      "status": "live",
-      "stream_link": "https://dai.fancode.com/primary/108090_english_hls_8695adfreeta-di/index.m3u8"
+      "stream_link": "https://dai.fancode.com/primary/106176_english_hls_5035adfreeta-di/index.m3u8"
     },
     {
       "event_category": "golf",
@@ -110,6 +101,15 @@
       "match_id": "109312",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/TpCYwithTaithrgll-g7sg/master.m3u8"
+    },
+    {
+      "event_category": "golf",
+      "event_name": "bmw pga championship",
+      "match_name": "day 3",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/BMW-PGA-Championship_Old_match-card.jpg",
+      "match_id": "109308",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/Bot8VAD7QDyDIO8obVFUzw/master.m3u8"
     }
   ]
 }
