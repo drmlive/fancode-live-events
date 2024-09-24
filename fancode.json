@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "17:30:57 24-09-2024",
+  "last update time": "17:41:32 24-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -47,6 +47,15 @@
       "match_id": "108408",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/P6mXCwgIRpmw22JB-ckG3Q/master.m3u8"
+    },
+    {
+      "event_category": "hockey",
+      "event_name": "14th hockey india sub jrmen national championship",
+      "match_name": "hockey arunachal vs hockey chandigarh",
+      "src": "https://images.fancode.com/aig/match/v1/109762_CASACARDS_APP.png",
+      "match_id": "109762",
+      "status": "live",
+      "stream_link": "https://dai.fancode.com/primary/109762_english_hls_5432adfreeta-no/index.m3u8"
     },
     {
       "event_category": "cricket",
@@ -101,15 +110,6 @@
       "match_id": "109170",
       "status": "upcoming",
       "startTime": "11:00:00 PM 24-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "dream11 european cricket championship 2024",
-      "match_name": "estonia vs slovenia",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109462_4514_EST_SLO_fc-web.jpg",
-      "match_id": "109462",
-      "status": "upcoming",
-      "startTime": "12:00:00 AM 25-09-2024"
     }
   ]
 }
