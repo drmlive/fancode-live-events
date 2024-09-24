@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "19:14:14 24-09-2024",
+  "last update time": "19:24:52 24-09-2024",
   "matches": [
-    {
-      "event_category": "cricket",
-      "event_name": "caribbean premier league 2024",
-      "match_name": "saint lucia kings vs trinbago knight riders",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104230_4287_TKR_SLK_fc-web.jpg",
-      "match_id": "104230",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/eHzSh0ydS3qju6iyBqQzMg/master.m3u8"
-    },
     {
       "event_category": "cricket",
       "event_name": "australia tour of england 2024",
@@ -20,6 +11,15 @@
       "match_id": "107247",
       "status": "live",
       "stream_link": ""
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "caribbean premier league 2024",
+      "match_name": "saint lucia kings vs trinbago knight riders",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104230_4287_TKR_SLK_fc-web.jpg",
+      "match_id": "104230",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/eHzSh0ydS3qju6iyBqQzMg/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -47,15 +47,6 @@
       "match_id": "109762",
       "status": "live",
       "stream_link": "https://dai.fancode.com/primary/109762_english_hls_5432adfreeta-no/index.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "icc mens t20 wc africa sub regional qualifier a",
-      "match_name": "mali vs malawi",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108128_4451_MLI_MAL_fc-web.jpg",
-      "match_id": "108128",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/6OTdo9Y4RwKeuZVd8nYgTg/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -101,6 +92,24 @@
       "match_id": "109462",
       "status": "upcoming",
       "startTime": "12:00:00 AM 25-09-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "carabao cup 202425",
+      "match_name": "manchester city vs watford",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-City-vs-Watford_old.jpg",
+      "match_id": "109049",
+      "status": "upcoming",
+      "startTime": "12:15:00 AM 25-09-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "carabao cup 202425",
+      "match_name": "chelsea vs barrow",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-Barrow_old.jpg",
+      "match_id": "109056",
+      "status": "upcoming",
+      "startTime": "12:15:00 AM 25-09-2024"
     }
   ]
 }
