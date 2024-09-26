@@ -1,8 +1,17 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "18:13:39 26-09-2024",
+  "last update time": "18:23:56 26-09-2024",
   "matches": [
+    {
+      "event_category": "cricket",
+      "event_name": "zim afro t10 2024",
+      "match_name": "durban wolves vs harare bolts",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/109174_4493_DB_HH_fc-web_1726824494269.jpg",
+      "match_id": "109174",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/hH3lGb4GRDa3njnp49aQig/master.m3u8"
+    },
     {
       "event_category": "cricket",
       "event_name": "icc cricket world cup challenge league 202426",
@@ -59,30 +68,12 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "dream11 european cricket championship 2024",
-      "match_name": "bulgaria vs turkiye",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109467_4514_TUR_BUL_fc-web.jpg",
-      "match_id": "109468",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/YHe5VBsATn2iuqaEIR0MYQ/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "legends league cricket 2024",
       "match_name": "southern super stars vs gujarat greats",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/Southern-Super-Stars-VS-Gujarat-Greats_LLC_Old_matchcard.jpg",
       "match_id": "109286",
       "status": "upcoming",
       "startTime": "07:00:00 PM 26-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "zim afro t10 2024",
-      "match_name": "durban wolves vs harare bolts",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109174_4493_DB_HH_fc-web_1726824494269.jpg",
-      "match_id": "109174",
-      "status": "upcoming",
-      "startTime": "06:30:00 PM 26-09-2024"
     },
     {
       "event_category": "cricket",
@@ -101,6 +92,15 @@
       "match_id": "109176",
       "status": "upcoming",
       "startTime": "11:00:00 PM 26-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "dream11 european cricket championship 2024",
+      "match_name": "tbc vs tbc",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-European-Cricket-Championship,-2024_background-image-1440-x-810.jpg",
+      "match_id": "109470",
+      "status": "upcoming",
+      "startTime": "09:00:00 PM 26-09-2024"
     }
   ]
 }
