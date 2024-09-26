@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "17:43:12 26-09-2024",
+  "last update time": "17:53:24 26-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -32,6 +32,15 @@
     },
     {
       "event_category": "cricket",
+      "event_name": "dream11 european cricket championship 2024",
+      "match_name": "isle of man vs estonia",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/109464_4514_EST_IM_fc-web.jpg",
+      "match_id": "109469",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/iM4ivjmeSHKT2EoYvafDPQ/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
       "event_name": "icc cwc league 2 202327",
       "match_name": "united arab emirates vs namibia",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108506_3908_NAM_UAE_fc-web.jpg",
@@ -47,6 +56,15 @@
       "match_id": "109802",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/Mf7emWY5RvqWOn3pA_Buxw/master.m3u8"
+    },
+    {
+      "event_category": "hockey",
+      "event_name": "14th hockey india sub jrmen national championship",
+      "match_name": "hockey chandigarh vs hockey jammu kashmir",
+      "src": "https://images.fancode.com/aig/match/v1/109774_CASACARDS_APP.png",
+      "match_id": "109774",
+      "status": "live",
+      "stream_link": "https://dai.fancode.com/primary/109774_english_hls_8618adfreeta-no/index.m3u8"
     },
     {
       "event_category": "cricket",
@@ -83,24 +101,6 @@
       "match_id": "109176",
       "status": "upcoming",
       "startTime": "11:00:00 PM 26-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "dream11 european cricket championship 2024",
-      "match_name": "isle of man vs estonia",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109464_4514_EST_IM_fc-web.jpg",
-      "match_id": "109469",
-      "status": "upcoming",
-      "startTime": "06:00:00 PM 26-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "dream11 european cricket championship 2024",
-      "match_name": "tbc vs tbc",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-European-Cricket-Championship,-2024_background-image-1440-x-810.jpg",
-      "match_id": "109470",
-      "status": "upcoming",
-      "startTime": "09:00:00 PM 26-09-2024"
     }
   ]
 }
