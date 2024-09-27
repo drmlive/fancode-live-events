@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "00:31:01 28-09-2024",
+  "last update time": "00:41:15 28-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -31,15 +31,6 @@
       "stream_link": "https://dai.google.com/linear/hls/event/x3wU1-27QH2fZZ847FOS5w/master.m3u8"
     },
     {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "chicago cubs vs cincinnati reds",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-539.jpg",
-      "match_id": "108080",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/_79Zj1OUTV-7hZbj5wMpLA/master.m3u8"
-    },
-    {
       "event_category": "football",
       "event_name": "efl championship 202425",
       "match_name": "plymouth argyle vs luton town",
@@ -47,6 +38,15 @@
       "match_id": "106289",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/2VhKUGxFRP2RMtjeKFZ83A/master.m3u8"
+    },
+    {
+      "event_category": "baseball",
+      "event_name": "mlb",
+      "match_name": "chicago cubs vs cincinnati reds",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-539.jpg",
+      "match_id": "108080",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/_79Zj1OUTV-7hZbj5wMpLA/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -96,7 +96,7 @@
     {
       "event_category": "cricket",
       "event_name": "minor league cricket 2024",
-      "match_name": "chicago kingsmen vs lone star athletics",
+      "match_name": "lone star athletics vs chicago kingsmen",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png",
       "match_id": "110017",
       "status": "upcoming",
