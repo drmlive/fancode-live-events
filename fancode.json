@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "23:29:37 27-09-2024",
+  "last update time": "23:39:52 27-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -29,6 +29,15 @@
       "match_id": "109179",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/x3wU1-27QH2fZZ847FOS5w/master.m3u8"
+    },
+    {
+      "event_category": "baseball",
+      "event_name": "mlb",
+      "match_name": "chicago cubs vs cincinnati reds",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-539.jpg",
+      "match_id": "108080",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/_79Zj1OUTV-7hZbj5wMpLA/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -67,13 +76,13 @@
       "startTime": "03:00:00 PM 28-09-2024"
     },
     {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "chicago cubs vs cincinnati reds",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-539.jpg",
-      "match_id": "108080",
+      "event_category": "football",
+      "event_name": "efl championship 202425",
+      "match_name": "plymouth argyle vs luton town",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/106289_4352_PLY_LUT_fc-web_1723042859495.jpg",
+      "match_id": "106289",
       "status": "upcoming",
-      "startTime": "11:50:00 PM 27-09-2024"
+      "startTime": "12:30:00 AM 28-09-2024"
     },
     {
       "event_category": "cricket",
@@ -92,15 +101,6 @@
       "match_id": "109485",
       "status": "upcoming",
       "startTime": "12:00:00 AM 28-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "icc mens t20 wc eap subregional qualifier b",
-      "match_name": "japan vs philippines",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108427_4465_JPN_PHI.jpg",
-      "match_id": "108427",
-      "status": "upcoming",
-      "startTime": "06:30:00 AM 28-09-2024"
     }
   ]
 }
