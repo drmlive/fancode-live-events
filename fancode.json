@@ -1,8 +1,17 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "20:42:02 27-09-2024",
+  "last update time": "20:52:19 27-09-2024",
   "matches": [
+    {
+      "event_category": "cricket",
+      "event_name": "ireland vs south africa tour of uae",
+      "match_name": "ireland vs south africa",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-and-South-Africa-Tour-of-UAE-T20Is--old-match-card_1727176431552.png",
+      "match_id": "107778",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/H_Uc5jgDTmmOQnU9u73AOQ/master.m3u8"
+    },
     {
       "event_category": "cricket",
       "event_name": "australia tour of england 2024",
@@ -38,24 +47,6 @@
       "match_id": "109803",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/MBW9O4ZnSj-KKaJ_nF37vw/master.m3u8"
-    },
-    {
-      "event_category": "motorsports",
-      "event_name": "dtm 2024",
-      "match_name": "free practice 2",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_Old_match-card.jpg",
-      "match_id": "109797",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/GL_I-rioRquLcr2_-KtUcA/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "ireland vs south africa tour of uae",
-      "match_name": "ireland vs south africa",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-and-South-Africa-Tour-of-UAE-T20Is--old-match-card_1727176431552.png",
-      "match_id": "107778",
-      "status": "upcoming",
-      "startTime": "09:00:00 PM 27-09-2024"
     },
     {
       "event_category": "cricket",
@@ -101,6 +92,15 @@
       "match_id": "108427",
       "status": "upcoming",
       "startTime": "06:30:00 AM 28-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "icc mens t20 wc eap subregional qualifier b",
+      "match_name": "south korea vs indonesia",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108428_4465_SK_INA_1727263508819.jpg",
+      "match_id": "108428",
+      "status": "upcoming",
+      "startTime": "10:30:00 AM 28-09-2024"
     }
   ]
 }
