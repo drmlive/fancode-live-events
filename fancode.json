@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "02:03:41 28-09-2024",
+  "last update time": "02:13:54 28-09-2024",
   "matches": [
     {
       "event_category": "football",
@@ -11,15 +11,6 @@
       "match_id": "106289",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/2VhKUGxFRP2RMtjeKFZ83A/master.m3u8"
-    },
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "chicago cubs vs cincinnati reds",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-539.jpg",
-      "match_id": "108080",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/_79Zj1OUTV-7hZbj5wMpLA/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -38,15 +29,6 @@
       "match_id": "109178",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/hx3IFnScQjiDnu4Fak2zdg/master.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "dream11 european cricket championship 2024",
-      "match_name": "cyprus vs luxembourg",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109485_4514_LUX_CYP_fc-web.jpg",
-      "match_id": "109485",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/HtDTA09DTBW66eHB6g9jNQ/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -101,6 +83,24 @@
       "match_id": "108417",
       "status": "upcoming",
       "startTime": "12:00:00 PM 28-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "icc cricket world cup challenge league 202426",
+      "match_name": "papua new guinea vs jersey",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108416_4464_PNG_JER_fc-web.jpg",
+      "match_id": "108416",
+      "status": "upcoming",
+      "startTime": "12:00:00 PM 28-09-2024"
+    },
+    {
+      "event_category": "baseball",
+      "event_name": "mlb",
+      "match_name": "seattle mariners vs oakland athletics",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-540.jpg",
+      "match_id": "108081",
+      "status": "upcoming",
+      "startTime": "07:40:00 AM 28-09-2024"
     }
   ]
 }
