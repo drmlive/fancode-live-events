@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "23:22:50 28-09-2024",
+  "last update time": "23:32:59 28-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -49,6 +49,15 @@
       "stream_link": "https://dai.google.com/linear/hls/event/qQeDrjIIThup6YC4t1GXlw/master.m3u8"
     },
     {
+      "event_category": "cricket",
+      "event_name": "minor league cricket 2024",
+      "match_name": "new england eagles vs nyc titans",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png",
+      "match_id": "107875",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/Eq5XYVuGS6mWAtyDx92r3w/master.m3u8"
+    },
+    {
       "event_category": "mma",
       "event_name": "professional fighters league",
       "match_name": "pfl europe 3 playoffs",
@@ -77,21 +86,21 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "minor league cricket 2024",
-      "match_name": "new england eagles vs nyc titans",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Minor-League-Cricket-old-match-card-3.png",
-      "match_id": "107875",
-      "status": "upcoming",
-      "startTime": "11:45:00 PM 28-09-2024"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "dream11 european cricket championship 2024",
       "match_name": "czechia vs greece",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/109493_4514_CZE_GRE_fc-web.jpg",
       "match_id": "109493",
       "status": "upcoming",
       "startTime": "12:00:00 AM 29-09-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "league one 202425",
+      "match_name": "barnsley vs stockport county",
+      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-2-match-card.png",
+      "match_id": "106503",
+      "status": "upcoming",
+      "startTime": "12:15:00 AM 29-09-2024"
     }
   ]
 }
