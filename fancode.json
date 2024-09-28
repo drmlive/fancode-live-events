@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "01:44:51 29-09-2024",
+  "last update time": "01:54:59 29-09-2024",
   "matches": [
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "new york yankees vs pittsburgh pirates",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-541.jpg",
-      "match_id": "108082",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/CM3zG9DzT9GtEGSFjoez9w/master.m3u8"
-    },
     {
       "event_category": "baseball",
       "event_name": "mlb",
@@ -101,6 +92,15 @@
       "match_id": "109183",
       "status": "upcoming",
       "startTime": "09:00:00 PM 29-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "icc mens t20 wc eap subregional qualifier b",
+      "match_name": "philippines vs indonesia",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108429_4465_PHI_INA.jpg",
+      "match_id": "108429",
+      "status": "upcoming",
+      "startTime": "06:30:00 AM 29-09-2024"
     }
   ]
 }
