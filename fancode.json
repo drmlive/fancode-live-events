@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "10:24:33 28-09-2024",
+  "last update time": "10:34:53 28-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -11,15 +11,6 @@
       "match_id": "107929",
       "status": "live",
       "stream_link": ""
-    },
-    {
-      "event_category": "baseball",
-      "event_name": "mlb",
-      "match_name": "seattle mariners vs oakland athletics",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/MLB_Old-Match-540.jpg",
-      "match_id": "108081",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/YmoS5m0MRcSF8SJiUheaow/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -56,15 +47,6 @@
       "match_id": "109782",
       "status": "live",
       "stream_link": "https://dai.fancode.com/primary/109782_english_hls_6157adfreeta-di/index.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "caribbean premier league 2024",
-      "match_name": "trinbago knight riders vs barbados royals",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104232_4287_TKR_BR_fc-web.jpg",
-      "match_id": "104232",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/FNR-97GkTtCPAUsEvHo6nA/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -110,6 +92,15 @@
       "match_id": "109180",
       "status": "upcoming",
       "startTime": "06:30:00 PM 28-09-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "efl championship 202425",
+      "match_name": "derby county vs norwich city",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/106287_4352_DER_NOR_fc-web_1723042859332.jpg",
+      "match_id": "106287",
+      "status": "upcoming",
+      "startTime": "05:00:00 PM 28-09-2024"
     }
   ]
 }
