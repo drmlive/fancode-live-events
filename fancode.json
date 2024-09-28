@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "02:45:51 29-09-2024",
+  "last update time": "02:56:02 29-09-2024",
   "matches": [
     {
       "event_category": "baseball",
@@ -20,15 +20,6 @@
       "match_id": "107875",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/Eq5XYVuGS6mWAtyDx92r3w/master.m3u8"
-    },
-    {
-      "event_category": "football",
-      "event_name": "league one 202425",
-      "match_name": "barnsley vs stockport county",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-2-match-card.png",
-      "match_id": "106503",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/H3S6mDk9Ru-lE2bf8Rf9-g/master.m3u8"
     },
     {
       "event_category": "mma",
@@ -101,6 +92,15 @@
       "match_id": "108430",
       "status": "upcoming",
       "startTime": "10:30:00 AM 29-09-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "icc cricket world cup challenge league 202426",
+      "match_name": "kenya vs denmark",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108418_4464_KEN_DEN_fc-web.jpg",
+      "match_id": "108418",
+      "status": "upcoming",
+      "startTime": "12:00:00 PM 29-09-2024"
     }
   ]
 }
