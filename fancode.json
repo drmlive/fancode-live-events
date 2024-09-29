@@ -1,7 +1,7 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "11:38:18 29-09-2024",
+  "last update time": "11:48:52 29-09-2024",
   "matches": [
     {
       "event_category": "cricket",
@@ -23,21 +23,21 @@
     },
     {
       "event_category": "cricket",
+      "event_name": "icc cricket world cup challenge league 202426",
+      "match_name": "kenya vs denmark",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108418_4464_KEN_DEN_fc-web.jpg",
+      "match_id": "108418",
+      "status": "live",
+      "stream_link": "https://dai.google.com/linear/hls/event/NlQZcvKETQCGHYhbITMHBw/master.m3u8"
+    },
+    {
+      "event_category": "cricket",
       "event_name": "chhattisgarh womens t20 cup",
       "match_name": "chhattisgarh blue women vs chhattisgarh red women",
       "src": "https://www.fancode.com/skillup-uploads/cms-media/109739_4521_CBW_CRW_fc-web.jpg",
       "match_id": "109739",
       "status": "live",
       "stream_link": "https://dai.google.com/linear/hls/event/KLTfFwdER3Ga3oK1SPqpGg/master.m3u8"
-    },
-    {
-      "event_category": "hockey",
-      "event_name": "14th hockey india sub jrmen national championship",
-      "match_name": "telangana hockey vs hockey bengal",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/14th-Hockey-India-Junior-Men-National-Championship_Background-image-(1).jpg",
-      "match_id": "109785",
-      "status": "live",
-      "stream_link": "https://dai.fancode.com/primary/109785_english_hls_5332adfreeta-di/index.m3u8"
     },
     {
       "event_category": "hockey",
@@ -86,15 +86,6 @@
     },
     {
       "event_category": "cricket",
-      "event_name": "icc cricket world cup challenge league 202426",
-      "match_name": "kenya vs denmark",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108418_4464_KEN_DEN_fc-web.jpg",
-      "match_id": "108418",
-      "status": "upcoming",
-      "startTime": "12:00:00 PM 29-09-2024"
-    },
-    {
-      "event_category": "cricket",
       "event_name": "caribbean premier league 2024",
       "match_name": "guyana amazon warriors vs trinbago knight riders",
       "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104234_4287_GUY_TKR_fc-web.jpg",
@@ -110,6 +101,15 @@
       "match_id": "109585",
       "status": "upcoming",
       "startTime": "05:30:00 PM 29-09-2024"
+    },
+    {
+      "event_category": "football",
+      "event_name": "efl championship 202425",
+      "match_name": "swansea city vs bristol city",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/106290_4352_SWA_BRI_fc-web_1723042859956.jpg",
+      "match_id": "106290",
+      "status": "upcoming",
+      "startTime": "07:30:00 PM 29-09-2024"
     }
   ]
 }
