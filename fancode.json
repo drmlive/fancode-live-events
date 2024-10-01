@@ -1,17 +1,8 @@
 {
   "name": "Fancode Live Matches Data in Json",
   "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "02:27:39 02-10-2024",
+  "last update time": "02:37:55 02-10-2024",
   "matches": [
-    {
-      "event_category": "football",
-      "event_name": "efl championship 202425",
-      "match_name": "west bromwich albion vs middlesbrough",
-      "src": "https://images.fancode.com/aig/match/v1/109807_CASACARDS_APP.png",
-      "match_id": "109807",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/hO_XJY6VRqaPZCAVo2bqGg/master.m3u8"
-    },
     {
       "event_category": "baseball",
       "event_name": "mlb",
@@ -41,12 +32,12 @@
     },
     {
       "event_category": "football",
-      "event_name": "carabao cup 202425",
-      "match_name": "afc wimbledon vs newcastle united",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Wimbledon-&-Newcastle_old_1727775673969.jpg",
-      "match_id": "109053",
+      "event_name": "efl championship 202425",
+      "match_name": "west bromwich albion vs middlesbrough",
+      "src": "https://images.fancode.com/aig/match/v1/109807_CASACARDS_APP.png",
+      "match_id": "109807",
       "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/eDai_z0QQ1Gc8jwQ3SEkZQ/master.m3u8"
+      "stream_link": "https://dai.google.com/linear/hls/event/hO_XJY6VRqaPZCAVo2bqGg/master.m3u8"
     },
     {
       "event_category": "cricket",
@@ -110,6 +101,15 @@
       "match_id": "109339",
       "status": "upcoming",
       "startTime": "08:30:00 AM 02-10-2024"
+    },
+    {
+      "event_category": "cricket",
+      "event_name": "icc mens t20 wc eap subregional qualifier b",
+      "match_name": "south korea vs indonesia",
+      "src": "https://www.fancode.com/skillup-uploads/cms-media/108434_4465_SK_INA_1727263508745.jpg",
+      "match_id": "108434",
+      "status": "upcoming",
+      "startTime": "10:30:00 AM 02-10-2024"
     }
   ]
 }
