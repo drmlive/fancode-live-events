@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:30:12 AM 08-10-2024",
+    "last update time": "05:40:18 AM 08-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,17 +19,17 @@
         },
         {
             "event_category": "Baseball",
-            "title": "Cleveland Guardians vs Detroit Tigers (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/110541_CASACARDS_APP.png",
-            "team_1": "Cleveland Guardians",
-            "team_2": "Detroit Tigers",
+            "title": "New York Yankees vs Kansas City Royals (MLB)",
+            "src": "https://images.fancode.com/aig/match/v1/110542_CASACARDS_APP.png",
+            "team_1": "New York Yankees",
+            "team_2": "Kansas City Royals",
             "status": "LIVE",
             "event_name": "MLB",
-            "match_name": "Cleveland Guardians vs Detroit Tigers",
-            "match_id": 110541,
-            "startTime": "01:38:00 AM 08-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/FVSWcs9xSAGZh0blWVPWSg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110541_english_hls_6734ta-di/index.m3u8"
+            "match_name": "New York Yankees vs Kansas City Royals",
+            "match_id": 110542,
+            "startTime": "05:08:00 AM 08-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/epRny55bRYip-eNrDGK8ZQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110542_english_hls_6156ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -42,18 +42,6 @@
             "match_name": "Pakistan vs England",
             "match_id": 110480,
             "startTime": "10:30:00 AM 07-10-2024"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "New York Yankees vs Kansas City Royals (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/110542_CASACARDS_APP.png",
-            "team_1": "New York Yankees",
-            "team_2": "Kansas City Royals",
-            "status": "UPCOMING",
-            "event_name": "MLB",
-            "match_name": "New York Yankees vs Kansas City Royals",
-            "match_id": 110542,
-            "startTime": "05:08:00 AM 08-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +138,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 109525,
             "startTime": "09:00:00 PM 08-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Dream11 European Cricket Championship, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-European-Cricket-Championship,-2024_background-image-1440-x-810.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Dream11 European Cricket Championship, 2024",
+            "match_name": "TBC vs TBC",
+            "match_id": 109526,
+            "startTime": "12:00:00 AM 09-10-2024"
         }
     ]
 }
