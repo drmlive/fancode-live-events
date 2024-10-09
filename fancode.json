@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:01:07 PM 09-10-2024",
+    "last update time": "05:11:14 PM 09-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "02:30:00 PM 09-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/vasltivXRnO-3EGAam_HeA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110526_english_hls_9001ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Belgium vs Finland (Dream11 European Cricket Championship, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109527_4514_FIN_BEL_fc-web.jpg",
-            "team_1": "Belgium",
-            "team_2": "Finland",
-            "status": "LIVE",
-            "event_name": "Dream11 European Cricket Championship, 2024",
-            "match_name": "Belgium vs Finland",
-            "match_id": 109527,
-            "startTime": "03:15:00 PM 09-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/usC8-d5iRMGTKy7adZhdNQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109527_english_hls_6824ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +142,18 @@
             "match_name": "Southern Hitters vs Central Smashers",
             "match_id": 110387,
             "startTime": "07:00:00 AM 10-10-2024"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Detroit Tigers vs Cleveland Guardians (MLB)",
+            "src": "https://images.fancode.com/aig/match/v1/110649_CASACARDS_APP.png",
+            "team_1": "Detroit Tigers",
+            "team_2": "Cleveland Guardians",
+            "status": "UPCOMING",
+            "event_name": "MLB",
+            "match_name": "Detroit Tigers vs Cleveland Guardians",
+            "match_id": 110649,
+            "startTime": "12:38:00 AM 10-10-2024"
         }
     ]
 }
