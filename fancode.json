@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:46:20 AM 10-10-2024",
+    "last update time": "12:56:26 AM 10-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "12:00:00 AM 10-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/lasrOm9OTZSfCMK0w75q4g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109531_english_hls_6242ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Monaco vs Maccabi Tel Aviv (Euro League 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/110083_CASACARDS_APP.png",
-            "team_1": "Monaco",
-            "team_2": "Maccabi Tel Aviv",
-            "status": "LIVE",
-            "event_name": "Euro League 2024-25",
-            "match_name": "Monaco vs Maccabi Tel Aviv",
-            "match_id": 110083,
-            "startTime": "10:30:00 PM 09-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/ElD6oV9DTw60x4wtUIJreQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110083_english_hls_8640ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +142,18 @@
             "match_name": "New York Mets vs Philadelphia Phillies",
             "match_id": 110650,
             "startTime": "02:38:00 AM 10-10-2024"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Kansas City Royals vs New York Yankees (MLB)",
+            "src": "https://images.fancode.com/aig/match/v1/110651_CASACARDS_APP.png",
+            "team_1": "Kansas City Royals",
+            "team_2": "New York Yankees",
+            "status": "UPCOMING",
+            "event_name": "MLB",
+            "match_name": "Kansas City Royals vs New York Yankees",
+            "match_id": 110651,
+            "startTime": "04:38:00 AM 10-10-2024"
         }
     ]
 }
