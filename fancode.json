@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:14:21 PM 10-10-2024",
+    "last update time": "02:24:30 PM 10-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://dai.fancode.com/primary/110527_english_hls_9129ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Australia vs China PR (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108293_3740_AUS_CHN_fc-web.jpg",
+            "team_1": "Australia",
+            "team_2": "China PR",
+            "status": "LIVE",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Australia vs China PR",
+            "match_id": 108293,
+            "startTime": "02:40:00 PM 10-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/2EXBfjquTLOnEoEjR0C5PA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108293_english_hls_6125ta-no/index.m3u8"
+        },
+        {
             "event_category": "Hockey",
             "title": "Hockey Madhya Pradesh Women vs Hockey Jharkhand Women (14th Hockey India Jr. Women National Championship)",
             "src": "https://images.fancode.com/aig/match/v1/110150_CASACARDS_APP.png",
@@ -58,16 +72,16 @@
             "startTime": "07:00:00 PM 10-10-2024"
         },
         {
-            "event_category": "Football",
-            "title": "Australia vs China PR (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108293_3740_AUS_CHN_fc-web.jpg",
-            "team_1": "Australia",
-            "team_2": "China PR",
+            "event_category": "Cricket",
+            "title": "Belgium vs Switzerland (Dream11 European Cricket Championship, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109532_4514_SUI_BEL_fc-web.jpg",
+            "team_1": "Belgium",
+            "team_2": "Switzerland",
             "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Australia vs China PR",
-            "match_id": 108293,
-            "startTime": "02:40:00 PM 10-10-2024"
+            "event_name": "Dream11 European Cricket Championship, 2024",
+            "match_name": "Belgium vs Switzerland",
+            "match_id": 109532,
+            "startTime": "03:15:00 PM 10-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -128,6 +142,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 110389,
             "startTime": "07:00:00 AM 11-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dallas Lonestars CC vs Los Angeles Waves CC (National Cricket League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110055_4533_DL_LAW_fc-web_1728289366451.jpg",
+            "team_1": "Dallas Lonestars CC",
+            "team_2": "Los Angeles Waves CC",
+            "status": "UPCOMING",
+            "event_name": "National Cricket League, 2024",
+            "match_name": "Dallas Lonestars CC vs Los Angeles Waves CC",
+            "match_id": 110055,
+            "startTime": "08:00:00 AM 11-10-2024"
         }
     ]
 }
