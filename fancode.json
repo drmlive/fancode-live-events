@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:07:13 PM 10-10-2024",
+    "last update time": "06:17:19 PM 10-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,34 +14,6 @@
             "match_name": "India Capitals vs Manipal Tigers",
             "match_id": 109300,
             "startTime": "07:00:00 PM 10-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs England (England tour of Pakistan, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
-            "team_1": "Pakistan",
-            "team_2": "England",
-            "status": "LIVE",
-            "event_name": "England tour of Pakistan, 2024",
-            "match_name": "Pakistan vs England",
-            "match_id": 110480,
-            "startTime": "10:30:00 AM 07-10-2024",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Afghanistan A vs Oman (Afghanistan A tour of Oman, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-A-tour-of-Oman_Old_match-card.jpg",
-            "team_1": "Afghanistan A",
-            "team_2": "Oman",
-            "status": "LIVE",
-            "event_name": "Afghanistan A tour of Oman, 2024",
-            "match_name": "Afghanistan A vs Oman",
-            "match_id": 110527,
-            "startTime": "02:30:00 PM 10-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/aSCflgP0SpSlin45GTY5Yg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110527_english_hls_9129ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -70,6 +42,18 @@
             "startTime": "04:30:00 PM 10-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/NLl6zdEXTqOxNxCPDD58Gg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110597_english_hls_7008ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs England (England tour of Pakistan, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
+            "team_1": "Pakistan",
+            "team_2": "England",
+            "status": "PAUSED",
+            "event_name": "England tour of Pakistan, 2024",
+            "match_name": "Pakistan vs England",
+            "match_id": 110480,
+            "startTime": "10:30:00 AM 07-10-2024"
         },
         {
             "event_category": "Cricket",
