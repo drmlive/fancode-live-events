@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:07:50 PM 10-10-2024",
+    "last update time": "07:17:57 PM 10-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,18 +18,32 @@
             "adfree_url": "https://dai.fancode.com/primary/109300_english_hls_6289ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Spain vs Finland (Dream11 European Cricket Championship, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109533_4514_FIN_SPA_fc-web.jpg",
-            "team_1": "Spain",
-            "team_2": "Finland",
+            "event_category": "Football",
+            "title": "Jordan vs Korea Republic (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108290_3740_JOR_KOR_fc-web.jpg",
+            "team_1": "Jordan",
+            "team_2": "Korea Republic",
             "status": "LIVE",
-            "event_name": "Dream11 European Cricket Championship, 2024",
-            "match_name": "Spain vs Finland",
-            "match_id": 109533,
-            "startTime": "05:15:00 PM 10-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/cUvJ2q0pQeCR9ks_HpX-0Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109533_english_hls_6360ta-no/index.m3u8"
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Jordan vs Korea Republic",
+            "match_id": 108290,
+            "startTime": "07:30:00 PM 10-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/FyafRN9KSDOnXAOdq976EQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108290_english_hls_7351ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uzbekistan vs IR Iran (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108287_3740_UZB_IRN_fc-web.jpg",
+            "team_1": "Uzbekistan",
+            "team_2": "IR Iran",
+            "status": "LIVE",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Uzbekistan vs IR Iran",
+            "match_id": 108287,
+            "startTime": "07:30:00 PM 10-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/zFAYxYbVSNWAlHdnEc52LQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108287_english_hls_9170ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -56,30 +70,6 @@
             "match_name": "Pakistan vs England",
             "match_id": 110480,
             "startTime": "10:30:00 AM 07-10-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Jordan vs Korea Republic (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108290_3740_JOR_KOR_fc-web.jpg",
-            "team_1": "Jordan",
-            "team_2": "Korea Republic",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Jordan vs Korea Republic",
-            "match_id": 108290,
-            "startTime": "07:30:00 PM 10-10-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Uzbekistan vs IR Iran (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108287_3740_UZB_IRN_fc-web.jpg",
-            "team_1": "Uzbekistan",
-            "team_2": "IR Iran",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Uzbekistan vs IR Iran",
-            "match_id": 108287,
-            "startTime": "07:30:00 PM 10-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +142,18 @@
             "match_name": "Chile vs Brazil",
             "match_id": 110546,
             "startTime": "05:30:00 AM 11-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dallas Lonestars CC vs Los Angeles Waves CC (National Cricket League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110055_4533_DL_LAW_fc-web_1728289366451.jpg",
+            "team_1": "Dallas Lonestars CC",
+            "team_2": "Los Angeles Waves CC",
+            "status": "UPCOMING",
+            "event_name": "National Cricket League, 2024",
+            "match_name": "Dallas Lonestars CC vs Los Angeles Waves CC",
+            "match_id": 110055,
+            "startTime": "08:00:00 AM 11-10-2024"
         }
     ]
 }
