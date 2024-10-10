@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:30:09 AM 10-10-2024",
+    "last update time": "07:40:21 AM 10-10-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Atlanta Kings CC vs Dallas Lonestars CC (National Cricket League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110052_4533_ATL_DL_fc-web_1728289366412.jpg",
-            "team_1": "Atlanta Kings CC",
-            "team_2": "Dallas Lonestars CC",
-            "status": "LIVE",
-            "event_name": "National Cricket League, 2024",
-            "match_name": "Atlanta Kings CC vs Dallas Lonestars CC",
-            "match_id": 110052,
-            "startTime": "05:30:00 AM 10-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/GLdvosrRQqq5khIPSJ7moA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110052_english_hls_7278ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Central Smashers vs Southern Hitters (MCA T20 Super Series 2024)",
@@ -61,6 +47,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Texas Gladiators CC vs New York Lions CC (National Cricket League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-vs-new-york_fc-wep.jpg",
+            "team_1": "Texas Gladiators CC",
+            "team_2": "New York Lions CC",
+            "status": "LIVE",
+            "event_name": "National Cricket League, 2024",
+            "match_name": "Texas Gladiators CC vs New York Lions CC",
+            "match_id": 110053,
+            "startTime": "08:00:00 AM 10-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/_dKtbQ8BRCKNaMavpklNOQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110053_english_hls_6107ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Pakistan vs England (England tour of Pakistan, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
             "team_1": "Pakistan",
@@ -82,18 +82,6 @@
             "match_name": "India Capitals vs Manipal Tigers",
             "match_id": 109300,
             "startTime": "07:00:00 PM 10-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Texas Gladiators CC vs New York Lions CC (National Cricket League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-vs-new-york_fc-wep.jpg",
-            "team_1": "Texas Gladiators CC",
-            "team_2": "New York Lions CC",
-            "status": "UPCOMING",
-            "event_name": "National Cricket League, 2024",
-            "match_name": "Texas Gladiators CC vs New York Lions CC",
-            "match_id": 110053,
-            "startTime": "08:00:00 AM 10-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -142,6 +130,18 @@
             "match_name": "Venezuela vs Argentina",
             "match_id": 110545,
             "startTime": "02:30:00 AM 11-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Australia vs China PR (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108293_3740_AUS_CHN_fc-web.jpg",
+            "team_1": "Australia",
+            "team_2": "China PR",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Australia vs China PR",
+            "match_id": 108293,
+            "startTime": "02:40:00 PM 10-10-2024"
         }
     ]
 }
