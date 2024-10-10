@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:40:10 PM 10-10-2024",
+    "last update time": "10:50:19 PM 10-10-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -114,6 +114,20 @@
             "adfree_url": "https://dai.fancode.com/primary/110597_english_hls_7008ta-no/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Anadolu Efes Istanbul vs Fenerbahce Beko Istanbul (Euro League 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/110084_CASACARDS_APP.png",
+            "team_1": "Anadolu Efes Istanbul",
+            "team_2": "Fenerbahce Beko Istanbul",
+            "status": "LIVE",
+            "event_name": "Euro League 2024-25",
+            "match_name": "Anadolu Efes Istanbul vs Fenerbahce Beko Istanbul",
+            "match_id": 110084,
+            "startTime": "11:00:00 PM 10-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/inzWzK0mTEyJFFJI_unB6A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110084_english_hls_6075ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Pakistan vs England (England tour of Pakistan, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
@@ -131,11 +145,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02.jpg",
             "team_1": "Stack CC",
             "team_2": "Kuwait Emerging Stars",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "KCC T20 Elite Cup, 2024",
             "match_name": "Stack CC vs Kuwait Emerging Stars",
             "match_id": 110486,
-            "startTime": "11:00:00 PM 10-10-2024"
+            "startTime": "11:00:00 PM 10-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/fUDx1a93Qc62YcmLt3MEXA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110486_english_hls_8309ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -148,18 +164,6 @@
             "match_name": "Konark Suryas Odisha vs Gujarat Greats",
             "match_id": 109301,
             "startTime": "07:00:00 PM 11-10-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Iraq vs Palestine (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108292_3740_IRQ_PAL_fc-web.jpg",
-            "team_1": "Iraq",
-            "team_2": "Palestine",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Iraq vs Palestine",
-            "match_id": 108292,
-            "startTime": "11:30:00 PM 10-10-2024"
         }
     ]
 }
