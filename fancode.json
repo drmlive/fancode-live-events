@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:51:30 AM 10-10-2024",
+    "last update time": "10:01:35 AM 10-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,20 +28,6 @@
             "startTime": "07:00:00 AM 10-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/-C2gA8eIT5mro_MKSj4VlQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110387_english_hls_6365ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New York Lions CC vs Texas Gladiators CC (National Cricket League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-vs-new-york_fc-wep.jpg",
-            "team_1": "New York Lions CC",
-            "team_2": "Texas Gladiators CC",
-            "status": "LIVE",
-            "event_name": "National Cricket League, 2024",
-            "match_name": "New York Lions CC vs Texas Gladiators CC",
-            "match_id": 110053,
-            "startTime": "08:00:00 AM 10-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/_dKtbQ8BRCKNaMavpklNOQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110053_english_hls_6107ta-di/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -140,6 +126,18 @@
             "match_name": "Switzerland vs Belgium",
             "match_id": 109532,
             "startTime": "03:15:00 PM 10-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New York Lions CC vs Chicago CC (National Cricket League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110054_4533_NYL_CHI_fc-web_1728289366409.jpg",
+            "team_1": "New York Lions CC",
+            "team_2": "Chicago CC",
+            "status": "UPCOMING",
+            "event_name": "National Cricket League, 2024",
+            "match_name": "New York Lions CC vs Chicago CC",
+            "match_id": 110054,
+            "startTime": "05:30:00 AM 11-10-2024"
         }
     ]
 }
