@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:31 PM 10-10-2024",
+    "last update time": "11:20:38 PM 10-10-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -100,6 +100,34 @@
             "adfree_url": "https://dai.fancode.com/primary/109535_english_hls_6130ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Iraq vs Palestine (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108292_3740_IRQ_PAL_fc-web.jpg",
+            "team_1": "Iraq",
+            "team_2": "Palestine",
+            "status": "LIVE",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Iraq vs Palestine",
+            "match_id": 108292,
+            "startTime": "11:30:00 PM 10-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/N37OrryqRBqtLjSwprJYrw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108292_english_hls_6233ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Saudi Arabia vs Japan (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108295_3740_KSA_JPN_fc-web.jpg",
+            "team_1": "Saudi Arabia",
+            "team_2": "Japan",
+            "status": "LIVE",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Saudi Arabia vs Japan",
+            "match_id": 108295,
+            "startTime": "11:30:00 PM 10-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ltLR1cQqRB2Z-may0w_SLw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108295_english_hls_8287ta-no/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 1 vs Le Golf National, Saint-Quentin-en-Yvelines, Franc (FedEx Open de France)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",
@@ -138,30 +166,6 @@
             "match_name": "Pakistan vs England",
             "match_id": 110480,
             "startTime": "10:30:00 AM 07-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Konark Suryas Odisha vs Gujarat Greats (Legends League Cricket, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109301_4496_KSO_GJG_fc-web.jpg",
-            "team_1": "Konark Suryas Odisha",
-            "team_2": "Gujarat Greats",
-            "status": "UPCOMING",
-            "event_name": "Legends League Cricket, 2024",
-            "match_name": "Konark Suryas Odisha vs Gujarat Greats",
-            "match_id": 109301,
-            "startTime": "07:00:00 PM 11-10-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Iraq vs Palestine (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108292_3740_IRQ_PAL_fc-web.jpg",
-            "team_1": "Iraq",
-            "team_2": "Palestine",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Iraq vs Palestine",
-            "match_id": 108292,
-            "startTime": "11:30:00 PM 10-10-2024"
         }
     ]
 }
