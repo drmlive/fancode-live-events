@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:00:26 PM 10-10-2024",
+    "last update time": "11:10:31 PM 10-10-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -28,6 +28,20 @@
             "startTime": "11:00:00 PM 10-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/fUDx1a93Qc62YcmLt3MEXA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110486_english_hls_8309ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Bahrain vs Indonesia (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108294_3740_BAH_INA_fc-web.jpg",
+            "team_1": "Bahrain",
+            "team_2": "Indonesia",
+            "status": "LIVE",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Bahrain vs Indonesia",
+            "match_id": 108294,
+            "startTime": "09:30:00 PM 10-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/238z_kRiTgCriyKacOjHMQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108294_english_hls_7272ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -70,20 +84,6 @@
             "startTime": "09:30:00 PM 10-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/YZEMt-y8Rd6peq-dXBbG5Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/108288_english_hls_2233ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bahrain vs Indonesia (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108294_3740_BAH_INA_fc-web.jpg",
-            "team_1": "Bahrain",
-            "team_2": "Indonesia",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Bahrain vs Indonesia",
-            "match_id": 108294,
-            "startTime": "09:30:00 PM 10-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/238z_kRiTgCriyKacOjHMQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108294_english_hls_7272ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -129,20 +129,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "India Capitals vs Manipal Tigers (Legends League Cricket, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109300_4496_IC_MNT_fc-web.jpg",
-            "team_1": "India Capitals",
-            "team_2": "Manipal Tigers",
-            "status": "LIVE",
-            "event_name": "Legends League Cricket, 2024",
-            "match_name": "India Capitals vs Manipal Tigers",
-            "match_id": 109300,
-            "startTime": "07:00:00 PM 10-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/wh5AoTlmSeifqQacVmAlkg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109300_english_hls_6289ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Pakistan vs England (England tour of Pakistan, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
             "team_1": "Pakistan",
@@ -164,6 +150,18 @@
             "match_name": "Konark Suryas Odisha vs Gujarat Greats",
             "match_id": 109301,
             "startTime": "07:00:00 PM 11-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Iraq vs Palestine (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108292_3740_IRQ_PAL_fc-web.jpg",
+            "team_1": "Iraq",
+            "team_2": "Palestine",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Iraq vs Palestine",
+            "match_id": 108292,
+            "startTime": "11:30:00 PM 10-10-2024"
         }
     ]
 }
