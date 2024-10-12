@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:50:28 PM 12-10-2024",
+    "last update time": "05:00:35 PM 12-10-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -46,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/110528_english_hls_8343adfreeta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Norway vs Sweden (Dream11 European Cricket Championship, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109541_4514_NOR_SWE_fc-web.jpg",
-            "team_1": "Norway",
-            "team_2": "Sweden",
-            "status": "LIVE",
-            "event_name": "Dream11 European Cricket Championship, 2024",
-            "match_name": "Norway vs Sweden",
-            "match_id": 109541,
-            "startTime": "03:15:00 PM 12-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/t5ysuuGVRUe0_Ad9OKdJXw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109541_english_hls_6391ta-di/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Chesterfield vs Notts County (League Two 2024-25)",
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",
@@ -74,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/110101_english_hls_5086ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Italy vs Netherlands XI (Dream11 European Cricket Championship, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109542_4514_ITA_NED-XI_fc-web.jpg",
+            "team_1": "Italy",
+            "team_2": "Netherlands XI",
+            "status": "LIVE",
+            "event_name": "Dream11 European Cricket Championship, 2024",
+            "match_name": "Italy vs Netherlands XI",
+            "match_id": 109542,
+            "startTime": "05:15:00 PM 12-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/0NT2uRvBTaOU2n29uG_TCw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109542_english_hls_5150ta-no/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3 vs Le Golf National, Saint-Quentin-en-Yvelines, Franc (FedEx Open de France)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",
@@ -86,18 +86,6 @@
             "startTime": "04:30:00 PM 12-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/fpcd-TFfTlasZA5v4ZtwEw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110599_english_hls_5441ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Italy vs Netherlands XI (Dream11 European Cricket Championship, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109542_4514_ITA_NED-XI_fc-web.jpg",
-            "team_1": "Italy",
-            "team_2": "Netherlands XI",
-            "status": "UPCOMING",
-            "event_name": "Dream11 European Cricket Championship, 2024",
-            "match_name": "Italy vs Netherlands XI",
-            "match_id": 109542,
-            "startTime": "05:15:00 PM 12-10-2024"
         },
         {
             "event_category": "Football",
@@ -158,6 +146,18 @@
             "match_name": "CECC vs Kuwait Swedish",
             "match_id": 110487,
             "startTime": "11:00:00 PM 12-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Texas Gladiators CC vs Atlanta Kings CC (National Cricket League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110056_4533_ATL_TG_fc-web_1728289366501.jpg",
+            "team_1": "Texas Gladiators CC",
+            "team_2": "Atlanta Kings CC",
+            "status": "UPCOMING",
+            "event_name": "National Cricket League, 2024",
+            "match_name": "Texas Gladiators CC vs Atlanta Kings CC",
+            "match_id": 110059,
+            "startTime": "12:00:00 AM 13-10-2024"
         }
     ]
 }
