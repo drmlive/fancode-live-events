@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:26:22 PM 12-10-2024",
+    "last update time": "03:36:29 PM 12-10-2024",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Vietnam vs India (International Friendlies)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Club_Friendlies_India_2024_Old_match-card.jpg",
+            "team_1": "Vietnam",
+            "team_2": "India",
+            "status": "UPCOMING",
+            "event_name": "International Friendlies",
+            "match_name": "Vietnam vs India",
+            "match_id": 110834,
+            "startTime": "04:30:00 PM 12-10-2024"
+        },
         {
             "event_category": "Cricket",
             "title": "Konark Suryas Odisha vs Southern Super Stars (Legends League Cricket, 2024)",
@@ -60,20 +72,6 @@
             "adfree_url": "https://dai.fancode.com/primary/109541_english_hls_6391ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Taichung Blue Whale Women vs Odisha Women (AFC Women's Champions League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110237_4537_TBW_ODF_fc-web_1728291746725.jpg",
-            "team_1": "Taichung Blue Whale Women",
-            "team_2": "Odisha Women",
-            "status": "LIVE",
-            "event_name": "AFC Women's Champions League 2024-25",
-            "match_name": "Taichung Blue Whale Women vs Odisha Women",
-            "match_id": 110237,
-            "startTime": "01:30:00 PM 12-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/HT7qwg5yTTWo_7aG2z3clw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110237_english_hls_5821ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Desert Vipers Development vs Dubai Capitals Development (ILT20 Development Tournament, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110072_4534_DVD_DCD_fc-web.jpg",
@@ -122,18 +120,6 @@
             "startTime": "11:00:00 PM 12-10-2024"
         },
         {
-            "event_category": "Football",
-            "title": "Vietnam vs India (International Friendlies)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Club_Friendlies_India_2024_Old_match-card.jpg",
-            "team_1": "Vietnam",
-            "team_2": "India",
-            "status": "UPCOMING",
-            "event_name": "International Friendlies",
-            "match_name": "Vietnam vs India",
-            "match_id": 110834,
-            "startTime": "04:30:00 PM 12-10-2024"
-        },
-        {
             "event_category": "Cricket",
             "title": "Texas Gladiators CC vs Atlanta Kings CC (National Cricket League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110056_4533_ATL_TG_fc-web_1728289366501.jpg",
@@ -156,6 +142,18 @@
             "match_name": "Cleveland Guardians vs Detroit Tigers",
             "match_id": 111198,
             "startTime": "10:38:00 PM 12-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "India Capitals vs Toyam Hyderabad (Legends League Cricket, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/LLC_2024_TV-Basckground-(1).jpg",
+            "team_1": "India Capitals",
+            "team_2": "Toyam Hyderabad",
+            "status": "UPCOMING",
+            "event_name": "Legends League Cricket, 2024",
+            "match_name": "India Capitals vs Toyam Hyderabad",
+            "match_id": 109303,
+            "startTime": "03:00:00 PM 13-10-2024"
         }
     ]
 }
