@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:03:07 PM 12-10-2024",
+    "last update time": "09:13:13 PM 12-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,6 +19,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Chicago CC vs Los Angeles Waves CC (National Cricket League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110057_4533_CHI_LAW_fc-web_1728289367201.jpg",
+            "team_1": "Chicago CC",
+            "team_2": "Los Angeles Waves CC",
+            "status": "LIVE",
+            "event_name": "National Cricket League, 2024",
+            "match_name": "Chicago CC vs Los Angeles Waves CC",
+            "match_id": 110058,
+            "startTime": "09:30:00 PM 12-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/LV0pHKauRlmrxV-ul-eaaw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110058_english_hls_5212ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Norway vs Jersey (Dream11 European Cricket Championship, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/109543_4514_JER_NOR_fc-web.jpg",
             "team_1": "Norway",
@@ -30,32 +44,6 @@
             "startTime": "08:00:00 PM 12-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/TsohjvnRS4uV_dfcAKz8dg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109543_english_hls_5173ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3 vs Le Golf National, Saint-Quentin-en-Yvelines, Franc (FedEx Open de France)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_old.jpg",
-            "team_1": "Day 3",
-            "team_2": "Le Golf National, Saint-Quentin-en-Yvelines, Franc",
-            "status": "LIVE",
-            "event_name": "FedEx Open de France",
-            "match_name": "Day 3",
-            "match_id": 110599,
-            "startTime": "04:30:00 PM 12-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/fpcd-TFfTlasZA5v4ZtwEw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110599_english_hls_5441ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chicago CC vs Los Angeles Waves CC (National Cricket League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110057_4533_CHI_LAW_fc-web_1728289367201.jpg",
-            "team_1": "Chicago CC",
-            "team_2": "Los Angeles Waves CC",
-            "status": "UPCOMING",
-            "event_name": "National Cricket League, 2024",
-            "match_name": "Chicago CC vs Los Angeles Waves CC",
-            "match_id": 110058,
-            "startTime": "09:30:00 PM 12-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +140,18 @@
             "match_name": "Cleveland Guardians vs Detroit Tigers",
             "match_id": 111198,
             "startTime": "10:38:00 PM 12-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Stars Cricket Club vs Ashtapailu Sports (Maharashtra Champions Trophy 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/110446_CASACARDS_APP.png",
+            "team_1": "Stars Cricket Club",
+            "team_2": "Ashtapailu Sports",
+            "status": "UPCOMING",
+            "event_name": "Maharashtra Champions Trophy 2024",
+            "match_name": "Stars Cricket Club vs Ashtapailu Sports",
+            "match_id": 110446,
+            "startTime": "12:30:00 PM 13-10-2024"
         }
     ]
 }
