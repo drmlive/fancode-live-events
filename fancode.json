@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:37:16 PM 14-10-2024",
+    "last update time": "01:47:24 PM 14-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -17,29 +17,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jain Irrigation vs Ashtapailu Sports (Maharashtra Champions Trophy 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ashtapailu-vs-Jain-Irr_old-Match-card.jpg",
-            "team_1": "Jain Irrigation",
-            "team_2": "Ashtapailu Sports",
-            "status": "LIVE",
-            "event_name": "Maharashtra Champions Trophy 2024",
-            "match_name": "Jain Irrigation vs Ashtapailu Sports",
-            "match_id": 110443,
-            "startTime": "10:00:00 AM 14-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/lPT4Pm_kTG-Z7SQVtglnnw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110443_english_hls_6183ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Punit Balan Group vs Stars Cricket Club (Maharashtra Champions Trophy 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Star-Cricket-vs-Punit-Balan_old-Match-card.jpg",
             "team_1": "Punit Balan Group",
             "team_2": "Stars Cricket Club",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Maharashtra Champions Trophy 2024",
             "match_name": "Punit Balan Group vs Stars Cricket Club",
             "match_id": 110444,
-            "startTime": "02:00:00 PM 14-10-2024"
+            "startTime": "02:00:00 PM 14-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/4bRwenv-SVq_PxbJK3PXsA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110444_english_hls_6854ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -148,6 +136,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 109553,
             "startTime": "09:00:00 PM 14-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Dream11 European Cricket Championship, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-European-Cricket-Championship,-2024_background-image-1440-x-810.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Dream11 European Cricket Championship, 2024",
+            "match_name": "TBC vs TBC",
+            "match_id": 109554,
+            "startTime": "12:00:00 AM 15-10-2024"
         }
     ]
 }
