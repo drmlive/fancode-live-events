@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:10:05 AM 15-10-2024",
+    "last update time": "10:20:10 AM 15-10-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs England (England tour of Pakistan, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
+            "team_1": "Pakistan",
+            "team_2": "England",
+            "status": "LIVE",
+            "event_name": "England tour of Pakistan, 2024",
+            "match_name": "Pakistan vs England",
+            "match_id": 110481,
+            "startTime": "10:30:00 AM 15-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ikHNtrmpRymIo6XxMj5oZg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110481_english_hls_6419ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Punit Balan Group vs Jain Irrigation (Maharashtra Champions Trophy 2024)",
@@ -16,18 +30,6 @@
             "startTime": "10:00:00 AM 15-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/pQzz5sFbRgq-b07uw4pwKA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110447_english_hls_6922ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs England (England tour of Pakistan, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
-            "team_1": "Pakistan",
-            "team_2": "England",
-            "status": "UPCOMING",
-            "event_name": "England tour of Pakistan, 2024",
-            "match_name": "Pakistan vs England",
-            "match_id": 110481,
-            "startTime": "10:30:00 AM 15-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -126,6 +128,18 @@
             "startTime": "04:30:00 AM 16-10-2024"
         },
         {
+            "event_category": "Football",
+            "title": "Uruguay vs Ecuador (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108286_3542_PAR_BRA_fc-web_1728580115489.jpg",
+            "team_1": "Uruguay",
+            "team_2": "Ecuador",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Uruguay vs Ecuador",
+            "match_id": 110550,
+            "startTime": "05:00:00 AM 16-10-2024"
+        },
+        {
             "event_category": "Cricket",
             "title": "Rajasthan Divyang vs Kerala Divyang (4th National Physical Disability T20 Championship )",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/111097_4575_RAJ-D_KDC_fc-web.jpg",
@@ -135,18 +149,6 @@
             "event_name": "4th National Physical Disability T20 Championship ",
             "match_name": "Rajasthan Divyang vs Kerala Divyang",
             "match_id": 111097,
-            "startTime": "01:30:00 PM 15-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Haryana Divyang vs Madhya Pradesh Divyang (4th National Physical Disability T20 Championship )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111096_4575_HAR-D_MP-D_fc-web.jpg",
-            "team_1": "Haryana Divyang",
-            "team_2": "Madhya Pradesh Divyang",
-            "status": "UPCOMING",
-            "event_name": "4th National Physical Disability T20 Championship ",
-            "match_name": "Haryana Divyang vs Madhya Pradesh Divyang",
-            "match_id": 111096,
             "startTime": "01:30:00 PM 15-10-2024"
         }
     ]
