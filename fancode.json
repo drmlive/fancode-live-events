@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:31:31 AM 16-10-2024",
+    "last update time": "01:41:37 AM 16-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,20 +32,6 @@
             "adfree_url": "https://dai.fancode.com/primary/110490_english_hls_8645ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Saudi Arabia vs Bahrain (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108268_3740_JOR_KUW_fc-web_1729004442039.jpg",
-            "team_1": "Saudi Arabia",
-            "team_2": "Bahrain",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Saudi Arabia vs Bahrain",
-            "match_id": 110302,
-            "startTime": "11:30:00 PM 15-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/5QVWh6RNRteFEBYG68FzAQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110302_english_hls_6909ta-di/index.m3u8"
-        },
-        {
             "event_category": "Basketball",
             "title": "Paris vs Panathinaikos OPAP Athens (Euro League 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/110087_CASACARDS_APP.png",
@@ -72,6 +58,20 @@
             "startTime": "12:00:00 AM 16-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/92Zz2IY5Sem8C5ZRUcKYqA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109559_english_hls_8357ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Saudi Arabia vs Bahrain (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108268_3740_JOR_KUW_fc-web_1729004442039.jpg",
+            "team_1": "Saudi Arabia",
+            "team_2": "Bahrain",
+            "status": "LIVE",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Saudi Arabia vs Bahrain",
+            "match_id": 110302,
+            "startTime": "11:30:00 PM 15-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/5QVWh6RNRteFEBYG68FzAQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110302_english_hls_6909ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -110,18 +110,6 @@
             "startTime": "07:00:00 PM 16-10-2024"
         },
         {
-            "event_category": "Football",
-            "title": "Paraguay vs Venezuela (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108285_3542_VEN_URU_fc-web_1728580115485.jpg",
-            "team_1": "Paraguay",
-            "team_2": "Venezuela",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Paraguay vs Venezuela",
-            "match_id": 110549,
-            "startTime": "04:30:00 AM 16-10-2024"
-        },
-        {
             "event_category": "Cricket",
             "title": "Ashtapailu Sports vs Jets CC (Maharashtra Champions Trophy 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110449_4545_APS_JET_fc-web.jpg",
@@ -132,6 +120,18 @@
             "match_name": "Ashtapailu Sports vs Jets CC",
             "match_id": 110449,
             "startTime": "10:00:00 AM 16-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Paraguay vs Venezuela (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108285_3542_VEN_URU_fc-web_1728580115485.jpg",
+            "team_1": "Paraguay",
+            "team_2": "Venezuela",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Paraguay vs Venezuela",
+            "match_id": 110549,
+            "startTime": "04:30:00 AM 16-10-2024"
         },
         {
             "event_category": "Football",
