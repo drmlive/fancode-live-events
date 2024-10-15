@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:54:52 PM 15-10-2024",
+    "last update time": "06:04:59 PM 15-10-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs England (England tour of Pakistan, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
-            "team_1": "Pakistan",
-            "team_2": "England",
-            "status": "LIVE",
-            "event_name": "England tour of Pakistan, 2024",
-            "match_name": "Pakistan vs England",
-            "match_id": 110481,
-            "startTime": "10:30:00 AM 15-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/ikHNtrmpRymIo6XxMj5oZg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110481_english_hls_6419ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Sri Lanka vs West Indies (West Indies tour of Sri Lanka, 2024)",
@@ -42,20 +28,6 @@
             "startTime": "01:30:00 PM 15-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/9G7fZBaEQ1Sv1fXlKs5J3A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111094_english_hls_8019ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Japan vs Australia (FIFA World Cup Asian Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/110299_CASACARDS_APP.png",
-            "team_1": "Japan",
-            "team_2": "Australia",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Japan vs Australia",
-            "match_id": 110299,
-            "startTime": "04:05:00 PM 15-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/L8dx9aRVSWm-UTVLYoagqg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110299_english_hls_6070ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -98,6 +70,32 @@
             "startTime": "05:30:00 PM 15-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/lE-Nd7TMS4SLgmyfaXNg5A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110301_english_hls_6826ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Japan vs Australia (FIFA World Cup Asian Qualifiers)",
+            "src": "https://images.fancode.com/aig/match/v1/110299_CASACARDS_APP.png",
+            "team_1": "Japan",
+            "team_2": "Australia",
+            "status": "LIVE",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Japan vs Australia",
+            "match_id": 110299,
+            "startTime": "04:05:00 PM 15-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/L8dx9aRVSWm-UTVLYoagqg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110299_english_hls_6070ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs England (England tour of Pakistan, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
+            "team_1": "Pakistan",
+            "team_2": "England",
+            "status": "PAUSED",
+            "event_name": "England tour of Pakistan, 2024",
+            "match_name": "Pakistan vs England",
+            "match_id": 110481,
+            "startTime": "10:30:00 AM 15-10-2024"
         },
         {
             "event_category": "Cricket",
