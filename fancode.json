@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:22:03 AM 16-10-2024",
+    "last update time": "02:32:10 AM 16-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,34 +30,6 @@
             "startTime": "02:00:00 AM 16-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/08TuAvXRSDePetmXpHF1Bw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110548_english_hls_7093ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Paris vs Panathinaikos OPAP Athens (Euro League 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/110087_CASACARDS_APP.png",
-            "team_1": "Paris",
-            "team_2": "Panathinaikos OPAP Athens",
-            "status": "LIVE",
-            "event_name": "Euro League 2024-25",
-            "match_name": "Paris vs Panathinaikos OPAP Athens",
-            "match_id": 110087,
-            "startTime": "12:00:00 AM 16-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/tctDHPOqTWm3zwntxP1M5A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110087_english_hls_8636ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Dubai Capitals Development vs ILT20 Pearls (ILT20 Development Tournament, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110066_4534_PEA_DCD_fc-web.jpg",
-            "team_1": "Dubai Capitals Development",
-            "team_2": "ILT20 Pearls",
-            "status": "LIVE",
-            "event_name": "ILT20 Development Tournament, 2024",
-            "match_name": "Dubai Capitals Development vs ILT20 Pearls",
-            "match_id": 110078,
-            "startTime": "10:30:00 PM 15-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/FwbfpgxGSWWKYzL34DadEQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110078_english_hls_5680ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,6 +114,18 @@
             "match_name": "New York Yankees vs Cleveland Guardians",
             "match_id": 111343,
             "startTime": "05:08:00 AM 16-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ILT20 Pearls vs Gulf Giants Development (ILT20 Development Tournament, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "ILT20 Pearls",
+            "team_2": "Gulf Giants Development",
+            "status": "UPCOMING",
+            "event_name": "ILT20 Development Tournament, 2024",
+            "match_name": "ILT20 Pearls vs Gulf Giants Development",
+            "match_id": 110079,
+            "startTime": "08:30:00 PM 16-10-2024"
         }
     ]
 }
