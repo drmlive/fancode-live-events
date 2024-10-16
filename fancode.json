@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:05:33 AM 16-10-2024",
+    "last update time": "08:15:38 AM 16-10-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs England (England tour of Pakistan, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
+            "team_1": "Pakistan",
+            "team_2": "England",
+            "status": "PAUSED",
+            "event_name": "England tour of Pakistan, 2024",
+            "match_name": "Pakistan vs England",
+            "match_id": 110481,
+            "startTime": "10:30:00 AM 15-10-2024"
+        },
         {
             "event_category": "Baseball",
             "title": "New York Yankees vs Cleveland Guardians (MLB)",
@@ -58,18 +70,6 @@
             "startTime": "07:30:00 AM 16-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/hOJNrV6eQiuR5HNVl52zIg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/103579_english_hls_6922ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs England (England tour of Pakistan, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
-            "team_1": "Pakistan",
-            "team_2": "England",
-            "status": "PAUSED",
-            "event_name": "England tour of Pakistan, 2024",
-            "match_name": "Pakistan vs England",
-            "match_id": 110481,
-            "startTime": "10:30:00 AM 15-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -134,7 +134,7 @@
         {
             "event_category": "Cricket",
             "title": "ILT20 Pearls vs Gulf Giants Development (ILT20 Development Tournament, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110076_4534_PEA_GGD_fc-web.jpg",
             "team_1": "ILT20 Pearls",
             "team_2": "Gulf Giants Development",
             "status": "UPCOMING",
@@ -142,18 +142,6 @@
             "match_name": "ILT20 Pearls vs Gulf Giants Development",
             "match_id": 110079,
             "startTime": "08:30:00 PM 16-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Al Hajery Team XI vs CECC (KCC T20 Elite Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",
-            "team_1": "Al Hajery Team XI",
-            "team_2": "CECC",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Elite Cup, 2024",
-            "match_name": "Al Hajery Team XI vs CECC",
-            "match_id": 110491,
-            "startTime": "11:00:00 PM 16-10-2024"
         }
     ]
 }
