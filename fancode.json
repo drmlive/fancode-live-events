@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:46:01 AM 16-10-2024",
+    "last update time": "08:56:07 AM 16-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,20 +14,6 @@
             "match_name": "Pakistan vs England",
             "match_id": 110481,
             "startTime": "10:30:00 AM 15-10-2024"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "New York Yankees vs Cleveland Guardians (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/111343_CASACARDS_APP.png",
-            "team_1": "New York Yankees",
-            "team_2": "Cleveland Guardians",
-            "status": "LIVE",
-            "event_name": "MLB",
-            "match_name": "New York Yankees vs Cleveland Guardians",
-            "match_id": 111343,
-            "startTime": "05:08:00 AM 16-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/1-rwC5HATDSZLKINn5pv4A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111343_english_hls_6039ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -110,8 +96,8 @@
             "match_name": "Maharashtra Divyang vs Himachal Pradesh Divyang",
             "match_id": 111098,
             "startTime": "09:00:00 AM 16-10-2024",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/WQ3kN_ufTEGK4MlyaYuH1A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111098_english_hls_5841ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -160,6 +146,18 @@
             "match_name": "ILT20 Pearls vs Gulf Giants Development",
             "match_id": 110079,
             "startTime": "08:30:00 PM 16-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Al Hajery Team XI vs CECC (KCC T20 Elite Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",
+            "team_1": "Al Hajery Team XI",
+            "team_2": "CECC",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Elite Cup, 2024",
+            "match_name": "Al Hajery Team XI vs CECC",
+            "match_id": 110491,
+            "startTime": "11:00:00 PM 16-10-2024"
         }
     ]
 }
