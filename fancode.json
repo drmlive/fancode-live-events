@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:07:21 AM 18-10-2024",
+    "last update time": "12:17:27 AM 18-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://dai.fancode.com/primary/109569_english_hls_5782ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Shrewsbury Town vs Exeter City (League One 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/110094_CASACARDS_APP.png",
+            "team_1": "Shrewsbury Town",
+            "team_2": "Exeter City",
+            "status": "LIVE",
+            "event_name": "League One 2024-25",
+            "match_name": "Shrewsbury Town vs Exeter City",
+            "match_id": 110094,
+            "startTime": "12:30:00 AM 18-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/FO6vBeVCRtql7ATQK7LOYA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110094_english_hls_6066ta-di/index.m3u8"
+        },
+        {
             "event_category": "Live Events",
             "title": "Central Court, Brazil vs Joao Pessoa, Brazil (Volleyball Beach Pro Tour)",
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",
@@ -44,6 +58,20 @@
             "startTime": "05:30:00 PM 17-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/w-YWGy5gSiWXHCYLVQo4jA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110876_english_hls_2986ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Central Court, Brazil vs Joao Pessoa, Brazil (Volleyball Beach Pro Tour)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",
+            "team_1": "Central Court, Brazil",
+            "team_2": "Joao Pessoa, Brazil",
+            "status": "LIVE",
+            "event_name": "Volleyball Beach Pro Tour",
+            "match_name": "Central Court, Brazil",
+            "match_id": 110878,
+            "startTime": "12:30:00 AM 18-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/c3qcflh1QQmKpz4tlPcVOw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110878_english_hls_9005ta-no/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -84,18 +112,6 @@
             "match_name": "Pakistan vs England",
             "match_id": 110481,
             "startTime": "10:30:00 AM 15-10-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Shrewsbury Town vs Exeter City (League One 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/110094_CASACARDS_APP.png",
-            "team_1": "Shrewsbury Town",
-            "team_2": "Exeter City",
-            "status": "UPCOMING",
-            "event_name": "League One 2024-25",
-            "match_name": "Shrewsbury Town vs Exeter City",
-            "match_id": 110094,
-            "startTime": "12:30:00 AM 18-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -144,18 +160,6 @@
             "match_name": "New York Mets vs Los Angeles Dodgers",
             "match_id": 111352,
             "startTime": "05:38:00 AM 18-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Al Hajery Team XI vs Kuwait Swedish (KCC T20 Elite Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
-            "team_1": "Al Hajery Team XI",
-            "team_2": "Kuwait Swedish",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Elite Cup, 2024",
-            "match_name": "Al Hajery Team XI vs Kuwait Swedish",
-            "match_id": 110493,
-            "startTime": "04:30:00 PM 18-10-2024"
         }
     ]
 }
