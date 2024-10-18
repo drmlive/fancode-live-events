@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:30:22 AM 18-10-2024",
+    "last update time": "05:40:28 AM 18-10-2024",
     "matches": [
         {
             "event_category": "Baseball",
@@ -30,20 +30,6 @@
             "startTime": "05:38:00 AM 18-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/K3e_ZKlDRheCzxqUfqCQhA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111352_english_hls_5944ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Central Court, Brazil vs Joao Pessoa, Brazil (Volleyball Beach Pro Tour)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",
-            "team_1": "Central Court, Brazil",
-            "team_2": "Joao Pessoa, Brazil",
-            "status": "LIVE",
-            "event_name": "Volleyball Beach Pro Tour",
-            "match_name": "Central Court, Brazil",
-            "match_id": 110878,
-            "startTime": "12:30:00 AM 18-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/c3qcflh1QQmKpz4tlPcVOw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110878_english_hls_9005ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Baroda Divyang vs Andhra Pradesh Divyang",
             "match_id": 111378,
             "startTime": "09:00:00 AM 18-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Leeds United vs Sheffield United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Leeds United",
+            "team_2": "Sheffield United",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Leeds United vs Sheffield United",
+            "match_id": 109815,
+            "startTime": "12:30:00 AM 19-10-2024"
         }
     ]
 }
