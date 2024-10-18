@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:51:09 AM 18-10-2024",
+    "last update time": "07:01:15 AM 18-10-2024",
     "matches": [
-        {
-            "event_category": "Baseball",
-            "title": "Cleveland Guardians vs New York Yankees (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/111351_CASACARDS_APP.png",
-            "team_1": "Cleveland Guardians",
-            "team_2": "New York Yankees",
-            "status": "LIVE",
-            "event_name": "MLB",
-            "match_name": "Cleveland Guardians vs New York Yankees",
-            "match_id": 111351,
-            "startTime": "02:38:00 AM 18-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/VSLE3MSvShCxQMR8jcCPLQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111351_english_hls_6268ta-no/index.m3u8"
-        },
         {
             "event_category": "Baseball",
             "title": "New York Mets vs Los Angeles Dodgers (MLB)",
@@ -150,6 +136,18 @@
             "match_name": "Baroda Divyang vs Andhra Pradesh Divyang",
             "match_id": 111378,
             "startTime": "09:00:00 AM 18-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sri Lanka Women vs Maldives Women (SAFF Women's Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Sri Lanka Women",
+            "team_2": "Maldives Women",
+            "status": "UPCOMING",
+            "event_name": "SAFF Women's Championship",
+            "match_name": "Sri Lanka Women vs Maldives Women",
+            "match_id": 111638,
+            "startTime": "01:15:00 PM 18-10-2024"
         }
     ]
 }
