@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:08:28 PM 18-10-2024",
+    "last update time": "04:18:34 PM 18-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -28,6 +28,20 @@
             "startTime": "02:00:00 PM 18-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/zH6f3M7XSn2Lkk7I4uG6lQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110454_english_hls_7388ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Al Hajery Team XI vs Kuwait Swedish (KCC T20 Elite Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
+            "team_1": "Al Hajery Team XI",
+            "team_2": "Kuwait Swedish",
+            "status": "LIVE",
+            "event_name": "KCC T20 Elite Cup, 2024",
+            "match_name": "Al Hajery Team XI vs Kuwait Swedish",
+            "match_id": 110493,
+            "startTime": "04:30:00 PM 18-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ryRPZDUSQcqxL3NazTNUmQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110493_english_hls_8156ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -101,15 +115,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Al Hajery Team XI vs Kuwait Swedish (KCC T20 Elite Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
-            "team_1": "Al Hajery Team XI",
-            "team_2": "Kuwait Swedish",
+            "title": "Scotland XI vs England XI (Dream11 European Cricket Championship, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/109571_CASACARDS_APP.png",
+            "team_1": "Scotland XI",
+            "team_2": "England XI",
             "status": "UPCOMING",
-            "event_name": "KCC T20 Elite Cup, 2024",
-            "match_name": "Al Hajery Team XI vs Kuwait Swedish",
-            "match_id": 110493,
-            "startTime": "04:30:00 PM 18-10-2024"
+            "event_name": "Dream11 European Cricket Championship, 2024",
+            "match_name": "Scotland XI vs England XI",
+            "match_id": 109571,
+            "startTime": "05:15:00 PM 18-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nepal Women vs Bhutan Women (SAFF Women's Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NEP_vs_BHU_SAFF-Womens_Championship-2024__Old_match-card.jpg",
+            "team_1": "Nepal Women",
+            "team_2": "Bhutan Women",
+            "status": "UPCOMING",
+            "event_name": "SAFF Women's Championship",
+            "match_name": "Nepal Women vs Bhutan Women",
+            "match_id": 111639,
+            "startTime": "05:15:00 PM 18-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -134,30 +160,6 @@
             "match_name": "Stack CC vs CECC",
             "match_id": 110495,
             "startTime": "12:30:00 AM 19-10-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Leeds United vs Sheffield United (EFL Championship 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/109815_CASACARDS_APP.png",
-            "team_1": "Leeds United",
-            "team_2": "Sheffield United",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Leeds United vs Sheffield United",
-            "match_id": 109815,
-            "startTime": "12:30:00 AM 19-10-2024"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "New York Mets vs Los Angeles Dodgers (MLB)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-            "team_1": "New York Mets",
-            "team_2": "Los Angeles Dodgers",
-            "status": "UPCOMING",
-            "event_name": "MLB",
-            "match_name": "New York Mets vs Los Angeles Dodgers",
-            "match_id": 111525,
-            "startTime": "02:38:00 AM 19-10-2024"
         }
     ]
 }
