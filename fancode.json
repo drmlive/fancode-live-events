@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:12:09 PM 18-10-2024",
+    "last update time": "10:22:15 PM 18-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -86,6 +86,20 @@
             "adfree_url": "https://dai.fancode.com/primary/110860_english_hls_9678ta-no/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Monaco vs Virtus Bologna (Euro League 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/110090_CASACARDS_APP.png",
+            "team_1": "Monaco",
+            "team_2": "Virtus Bologna",
+            "status": "LIVE",
+            "event_name": "Euro League 2024-25",
+            "match_name": "Monaco vs Virtus Bologna",
+            "match_id": 110090,
+            "startTime": "10:30:00 PM 18-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/26--GYMYRDiosPURhFDNLQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110090_english_hls_6754ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Stack CC vs CECC (KCC T20 Elite Cup, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02.jpg",
@@ -144,18 +158,6 @@
             "match_name": "Gambia vs Rwanda",
             "match_id": 110624,
             "startTime": "12:00:00 PM 19-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Maldives vs Indonesia (Bhutan T20 International Quadrangular Series)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/match-2---Old.png",
-            "team_1": "Maldives",
-            "team_2": "Indonesia",
-            "status": "UPCOMING",
-            "event_name": "Bhutan T20 International Quadrangular Series",
-            "match_name": "Maldives vs Indonesia",
-            "match_id": 110602,
-            "startTime": "01:00:00 PM 19-10-2024"
         }
     ]
 }
