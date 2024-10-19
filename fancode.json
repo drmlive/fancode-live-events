@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:20:08 AM 19-10-2024",
+    "last update time": "11:30:14 AM 19-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -143,20 +143,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Auckland vs Brisbane Roar (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110894_4567_AFC_BRB_fc-web_1728983127159.jpg",
-            "team_1": "Auckland",
-            "team_2": "Brisbane Roar",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Auckland vs Brisbane Roar",
-            "match_id": 110894,
-            "startTime": "09:30:00 AM 19-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/7i0cJYd8SEScyq9q3xsiLg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110894_english_hls_5754ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Newcastle Jets vs Melbourne City (A League 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110895_4567_NJ_MLC_fc-web_1728983126796.jpg",
             "team_1": "Newcastle Jets",
@@ -168,6 +154,20 @@
             "startTime": "11:30:00 AM 19-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/tVfM9WemTJiul7mqgcAbcw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110895_english_hls_8621ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland vs Brisbane Roar (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110894_4567_AFC_BRB_fc-web_1728983127159.jpg",
+            "team_1": "Auckland",
+            "team_2": "Brisbane Roar",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Auckland vs Brisbane Roar",
+            "match_id": 110894,
+            "startTime": "09:30:00 AM 19-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/7i0cJYd8SEScyq9q3xsiLg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110894_english_hls_5754ta-no/index.m3u8"
         }
     ]
 }
