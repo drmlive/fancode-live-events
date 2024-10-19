@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:37:05 PM 19-10-2024",
+    "last update time": "10:47:11 PM 19-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -14,6 +14,20 @@
             "match_name": "Sprint",
             "match_id": 95230,
             "startTime": "11:30:00 PM 19-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kuwait Emerging Stars vs Kuwait Swedish (KCC T20 Elite Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
+            "team_1": "Kuwait Emerging Stars",
+            "team_2": "Kuwait Swedish",
+            "status": "LIVE",
+            "event_name": "KCC T20 Elite Cup, 2024",
+            "match_name": "Kuwait Emerging Stars vs Kuwait Swedish",
+            "match_id": 110496,
+            "startTime": "11:00:00 PM 19-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/YVUY7pi0QWGP5382E1y3Jw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110496_english_hls_6159ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -58,16 +72,18 @@
             "adfree_url": "https://dai.fancode.com/primary/111893_english_hls_8563ta-di/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Kuwait Emerging Stars vs Kuwait Swedish (KCC T20 Elite Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
-            "team_1": "Kuwait Emerging Stars",
-            "team_2": "Kuwait Swedish",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Elite Cup, 2024",
-            "match_name": "Kuwait Emerging Stars vs Kuwait Swedish",
-            "match_id": 110496,
-            "startTime": "11:00:00 PM 19-10-2024"
+            "event_category": "MMA",
+            "title": "Super Fights PPV vs Riyadh, Saudi Arabia (Professional Fighters League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/PFL-Super-Fight---Battle-of-the-Giant-Old-match-card.png",
+            "team_1": "Super Fights PPV",
+            "team_2": "Riyadh, Saudi Arabia",
+            "status": "LIVE",
+            "event_name": "Professional Fighters League",
+            "match_name": "Super Fights PPV",
+            "match_id": 110645,
+            "startTime": "11:00:00 PM 19-10-2024",
+            "dai_url": "https://dai.fancode.com/primary/110645_english_hls_9477adfreeta-di/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110645_english_hls_9477adfreeta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +156,6 @@
             "match_name": "Rwanda vs Seychelles",
             "match_id": 110627,
             "startTime": "12:00:00 PM 20-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Thailand vs Indonesia (Bhutan T20 International Quadrangular Series)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/match-4---Old.png",
-            "team_1": "Thailand",
-            "team_2": "Indonesia",
-            "status": "UPCOMING",
-            "event_name": "Bhutan T20 International Quadrangular Series",
-            "match_name": "Thailand vs Indonesia",
-            "match_id": 110604,
-            "startTime": "01:30:00 PM 20-10-2024"
         }
     ]
 }
