@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:13:10 PM 19-10-2024",
+    "last update time": "04:23:17 PM 19-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -143,20 +143,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Sydney FC (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110896_4567_SYW_SYD_fc-web_1728983127482.jpg",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Sydney FC",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Western Sydney Wanderers vs Sydney FC",
-            "match_id": 110896,
-            "startTime": "02:05:00 PM 19-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/apCAwMVjR9GEmq7P-t_JYw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110896_english_hls_5769ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Oxford United vs West Bromwich Albion (EFL Championship 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/109816_CASACARDS_APP.png",
             "team_1": "Oxford United",
@@ -166,6 +152,18 @@
             "match_name": "Oxford United vs West Bromwich Albion",
             "match_id": 109816,
             "startTime": "05:00:00 PM 19-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Beijing Guoan vs Qingdao Hainiu (Chinese Super League 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BG_QH_Old_fc_web.jpg",
+            "team_1": "Beijing Guoan",
+            "team_2": "Qingdao Hainiu",
+            "status": "UPCOMING",
+            "event_name": "Chinese Super League 2024",
+            "match_name": "Beijing Guoan vs Qingdao Hainiu",
+            "match_id": 109884,
+            "startTime": "05:05:00 PM 19-10-2024"
         }
     ]
 }
