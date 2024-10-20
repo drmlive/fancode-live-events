@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:22:13 AM 20-10-2024",
+    "last update time": "07:32:19 AM 20-10-2024",
     "matches": [
         {
             "event_category": "Baseball",
@@ -16,6 +16,20 @@
             "startTime": "05:38:00 AM 20-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/NJK6xgWeQz2E9AKsFna0aA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111812_english_hls_5194ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Western United (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110897_4567_WEL_WST_fc-web_1728983127525.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Western United",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Wellington Phoenix vs Western United",
+            "match_id": 110897,
+            "startTime": "08:30:00 AM 20-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/DVVW7HP8RR-e1yXE_yOSmA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110897_english_hls_5298ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Haryana Divyang vs Gujarat Divyang",
             "match_id": 111397,
             "startTime": "09:00:00 AM 20-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Seychelles vs Gambia (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110624_4557_GAM_RWA_fc-web-7_1729360667195.jpg",
-            "team_1": "Seychelles",
-            "team_2": "Gambia",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Seychelles vs Gambia",
-            "match_id": 111930,
-            "startTime": "12:00:00 PM 20-10-2024"
         }
     ]
 }
