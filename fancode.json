@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:33:41 AM 20-10-2024",
+    "last update time": "09:43:53 AM 20-10-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs West Indies (West Indies tour of Sri Lanka, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png",
+            "team_1": "Sri Lanka",
+            "team_2": "West Indies",
+            "status": "UPCOMING",
+            "event_name": "West Indies tour of Sri Lanka, 2024",
+            "match_name": "Sri Lanka vs West Indies",
+            "match_id": 109870,
+            "startTime": "02:30:00 PM 20-10-2024"
+        },
         {
             "event_category": "Cricket",
             "title": "Maldives vs Bhutan (Bhutan T20 International Quadrangular Series)",
@@ -89,27 +101,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka vs West Indies (West Indies tour of Sri Lanka, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png",
-            "team_1": "Sri Lanka",
-            "team_2": "West Indies",
-            "status": "UPCOMING",
-            "event_name": "West Indies tour of Sri Lanka, 2024",
-            "match_name": "Sri Lanka vs West Indies",
-            "match_id": 109870,
-            "startTime": "02:30:00 PM 20-10-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Jain Irrigation vs Nok 99 Puneri Bappa (Maharashtra Champions Trophy 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110457_4545_JAI_NPB_fc-web.jpg",
             "team_1": "Jain Irrigation",
             "team_2": "Nok 99 Puneri Bappa",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Maharashtra Champions Trophy 2024",
             "match_name": "Jain Irrigation vs Nok 99 Puneri Bappa",
             "match_id": 110457,
-            "startTime": "10:00:00 AM 20-10-2024"
+            "startTime": "10:00:00 AM 20-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/RoVpmgmVTDWcLEI1FnA4xg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110457_english_hls_5582ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
