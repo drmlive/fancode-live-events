@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:16:11 AM 21-10-2024",
+    "last update time": "05:26:17 AM 21-10-2024",
     "matches": [
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs New York Mets (MLB)",
+            "src": "https://images.fancode.com/aig/match/v1/111927_CASACARDS_APP.png",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "New York Mets",
+            "status": "LIVE",
+            "event_name": "MLB",
+            "match_name": "Los Angeles Dodgers vs New York Mets",
+            "match_id": 111927,
+            "startTime": "05:38:00 AM 21-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/cVEj3PwQSlaNGnMwV9I9Jw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111927_english_hls_5632ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs South Africa (South Africa tour of Bangladesh, 2024)",
@@ -14,18 +28,6 @@
             "match_name": "Bangladesh vs South Africa",
             "match_id": 110622,
             "startTime": "09:30:00 AM 21-10-2024"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs New York Mets (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/111927_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "New York Mets",
-            "status": "UPCOMING",
-            "event_name": "MLB",
-            "match_name": "Los Angeles Dodgers vs New York Mets",
-            "match_id": 111927,
-            "startTime": "05:38:00 AM 21-10-2024"
         },
         {
             "event_category": "Cricket",
