@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:34:22 AM 20-10-2024",
+    "last update time": "10:44:29 AM 20-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -100,20 +100,6 @@
             "adfree_url": "https://dai.fancode.com/primary/110898_english_hls_5093ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Wellington Phoenix vs Western United (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110897_4567_WEL_WST_fc-web_1728983127525.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Western United",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Wellington Phoenix vs Western United",
-            "match_id": 110897,
-            "startTime": "08:30:00 AM 20-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/DVVW7HP8RR-e1yXE_yOSmA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110897_english_hls_5298ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gzira United vs Victoria Lions (ECS Malta, 2024)",
             "src": "https://images.fancode.com/aig/match/v1/111527_CASACARDS_APP.png",
@@ -160,6 +146,18 @@
             "match_name": "Gzira United vs Southern Crusaders",
             "match_id": 111528,
             "startTime": "03:00:00 PM 20-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Victoria Lions vs Royal Strikers (ECS Malta, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/111529_CASACARDS_APP.png",
+            "team_1": "Victoria Lions",
+            "team_2": "Royal Strikers",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Victoria Lions vs Royal Strikers",
+            "match_id": 111529,
+            "startTime": "05:00:00 PM 20-10-2024"
         }
     ]
 }
