@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:24:28 AM 21-10-2024",
+    "last update time": "02:34:33 AM 21-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -16,20 +16,6 @@
             "startTime": "12:30:00 AM 21-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/dlsN44V3QwyFezM5SrKW6Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/95231_english_hls_5632ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Al Hajery Team XI vs CECC (KCC T20 Elite Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",
-            "team_1": "Al Hajery Team XI",
-            "team_2": "CECC",
-            "status": "LIVE",
-            "event_name": "KCC T20 Elite Cup, 2024",
-            "match_name": "Al Hajery Team XI vs CECC",
-            "match_id": 110497,
-            "startTime": "11:00:00 PM 20-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/ref-eWOwRc-luy3yX6kllA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110497_english_hls_5835ta-di/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -142,16 +128,28 @@
             "startTime": "07:15:00 PM 21-10-2024"
         },
         {
-            "event_category": "Cricket",
-            "title": "Punjab Divyang vs Hyderabad Divyang (4th National Physical Disability T20 Championship )",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111382_4575_PUN-D_HYD-D_fc-web.jpg",
-            "team_1": "Punjab Divyang",
-            "team_2": "Hyderabad Divyang",
+            "event_category": "Football",
+            "title": "Al Ain vs Al-Hilal (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108653_4475_AAI_AHS_fc-web.jpg",
+            "team_1": "Al Ain",
+            "team_2": "Al-Hilal",
             "status": "UPCOMING",
-            "event_name": "4th National Physical Disability T20 Championship ",
-            "match_name": "Punjab Divyang vs Hyderabad Divyang",
-            "match_id": 111382,
-            "startTime": "09:00:00 AM 21-10-2024"
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al Ain vs Al-Hilal",
+            "match_id": 108653,
+            "startTime": "09:30:00 PM 21-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Sadd vs Persepolis FC (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108652_4475_SDD_PPL_fc-web.jpg",
+            "team_1": "Al Sadd",
+            "team_2": "Persepolis FC",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al Sadd vs Persepolis FC",
+            "match_id": 108652,
+            "startTime": "09:30:00 PM 21-10-2024"
         }
     ]
 }
