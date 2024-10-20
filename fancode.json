@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:20:11 PM 20-10-2024",
+    "last update time": "07:30:18 PM 20-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -70,20 +70,6 @@
             "startTime": "04:20:00 PM 20-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/kCHoSxFaSB2GdhMMYmYpyA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111931_english_hls_4783ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Bangladesh Women vs Pakistan Women (SAFF Women's Championship)",
-            "src": "https://images.fancode.com/aig/match/v1/111640_CASACARDS_APP.png",
-            "team_1": "Bangladesh Women",
-            "team_2": "Pakistan Women",
-            "status": "LIVE",
-            "event_name": "SAFF Women's Championship",
-            "match_name": "Bangladesh Women vs Pakistan Women",
-            "match_id": 111640,
-            "startTime": "05:15:00 PM 20-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/-pI56TG7Q_mFgo5oD7mAIA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111640_english_hls_5490ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -160,6 +146,18 @@
             "match_name": "Los Angeles Dodgers vs New York Mets",
             "match_id": 111927,
             "startTime": "05:38:00 AM 21-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Edex Knights vs Msida Warriors (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Edex Knights",
+            "team_2": "Msida Warriors",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Edex Knights vs Msida Warriors",
+            "match_id": 111531,
+            "startTime": "01:00:00 PM 21-10-2024"
         }
     ]
 }
