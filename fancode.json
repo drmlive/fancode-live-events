@@ -1,93 +1,151 @@
-<!DOCTYPE html>
-
-
-
- <html class="no-js" lang="en-US"> 
-<head>
-<title>Cloudflare Tunnel error | local.drmlive.au | Cloudflare</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
-
-
-<script type="9582a10dda3a3c4d712bd5d2-text/javascript">
-(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1033,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
-b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
-</script>
-
-<script defer src="https://performance.radar.cloudflare.com/beacon.js" type="9582a10dda3a3c4d712bd5d2-text/javascript"></script>
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="p-0">
-      <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">
-         <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">
-           <span data-translate="error">Error</span>
-           <span>1033</span>
-         </h1>
-         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 8d5cb65e69ee6357-ORD &bull;</span>
-         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2024-10-20 23:15:53 UTC</span>
-        <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">Cloudflare Tunnel error</h2>
-      </header>
-
-      <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-          <div id="what-happened-section" class="w-1/2 md:w-full">
-            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>
-            <p>You've requested a page on a website (local.drmlive.au) that is on the <a href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a> network. The host (local.drmlive.au) is configured as a Cloudflare Tunnel, and Cloudflare is currently unable to resolve it.
-            
-          </div>
-
-          
-          <div id="resolution-copy-section" class="w-1/2 mt-6 text-15 leading-normal">
-            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_can_i_do">What can I do?</h2>
-            <p><strong>If you are a visitor of this website:</strong><br />Please try again in a few minutes.</p><p><strong>If you are the owner of this website:</strong><br />Ensure that cloudflared is running and can reach the network. You may wish to enable <a rel="noopener noreferrer" href="https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/routing-to-tunnel/lb/">load balancing</a> for your tunnel.</p>
-          </div>
-          
-      </section>
-
-      <div class="feedback-hidden py-8 text-center" id="error-feedback">
-    <div id="error-feedback-survey" class="footer-line-wrapper">
-        Was this page helpful?
-        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
-        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
-    </div>
-    <div class="feedback-success feedback-hidden" id="error-feedback-success">
-        Thank you for your feedback!
-    </div>
-</div>
-
-
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-  <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">8d5cb65e69ee6357-ORD</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">129.159.226.9</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script type="9582a10dda3a3c4d712bd5d2-text/javascript">(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div>
-
-
-    </div>
-  </div>
-
-  <script type="9582a10dda3a3c4d712bd5d2-text/javascript">
-  window._cf_translation = {};
-  
-  
-</script>
-
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="9582a10dda3a3c4d712bd5d2-|49" defer></script></body>
-</html>
-
-
+{
+    "name": "Fancode Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "04:55:58 AM 21-10-2024",
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs South Africa (South Africa tour of Bangladesh, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
+            "team_1": "Bangladesh",
+            "team_2": "South Africa",
+            "status": "UPCOMING",
+            "event_name": "South Africa tour of Bangladesh, 2024",
+            "match_name": "Bangladesh vs South Africa",
+            "match_id": 110622,
+            "startTime": "09:30:00 AM 21-10-2024"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs New York Mets (MLB)",
+            "src": "https://images.fancode.com/aig/match/v1/111927_CASACARDS_APP.png",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "New York Mets",
+            "status": "UPCOMING",
+            "event_name": "MLB",
+            "match_name": "Los Angeles Dodgers vs New York Mets",
+            "match_id": 111927,
+            "startTime": "05:38:00 AM 21-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Punit Balan Group vs Ashtapailu Sports (Maharashtra Champions Trophy 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110459_4545_PBG_APS_fc-web.jpg",
+            "team_1": "Punit Balan Group",
+            "team_2": "Ashtapailu Sports",
+            "status": "UPCOMING",
+            "event_name": "Maharashtra Champions Trophy 2024",
+            "match_name": "Punit Balan Group vs Ashtapailu Sports",
+            "match_id": 110459,
+            "startTime": "10:00:00 AM 21-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Edex Knights vs Msida Warriors (ECS Malta, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/111531_CASACARDS_APP.png",
+            "team_1": "Edex Knights",
+            "team_2": "Msida Warriors",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Edex Knights vs Msida Warriors",
+            "match_id": 111531,
+            "startTime": "01:00:00 PM 21-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jain Irrigation vs Nok 99 Puneri Bappa (Maharashtra Champions Trophy 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110460_4545_JAI_NPB_fc-web.jpg",
+            "team_1": "Jain Irrigation",
+            "team_2": "Nok 99 Puneri Bappa",
+            "status": "UPCOMING",
+            "event_name": "Maharashtra Champions Trophy 2024",
+            "match_name": "Jain Irrigation vs Nok 99 Puneri Bappa",
+            "match_id": 110460,
+            "startTime": "02:00:00 PM 21-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Edex Knights vs American University of Malta (ECS Malta, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/111532_CASACARDS_APP.png",
+            "team_1": "Edex Knights",
+            "team_2": "American University of Malta",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Edex Knights vs American University of Malta",
+            "match_id": 111532,
+            "startTime": "03:00:00 PM 21-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Msida Warriors vs Gozo Zalmi (ECS Malta, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/111533_CASACARDS_APP.png",
+            "team_1": "Msida Warriors",
+            "team_2": "Gozo Zalmi",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Msida Warriors vs Gozo Zalmi",
+            "match_id": 111533,
+            "startTime": "05:00:00 PM 21-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "American University of Malta vs Gozo Zalmi (ECS Malta, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/111534_CASACARDS_APP.png",
+            "team_1": "American University of Malta",
+            "team_2": "Gozo Zalmi",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "American University of Malta vs Gozo Zalmi",
+            "match_id": 111534,
+            "startTime": "07:15:00 PM 21-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Ain vs Al-Hilal (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108653_4475_AAI_AHS_fc-web.jpg",
+            "team_1": "Al Ain",
+            "team_2": "Al-Hilal",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al Ain vs Al-Hilal",
+            "match_id": 108653,
+            "startTime": "09:30:00 PM 21-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Sadd vs Persepolis FC (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108652_4475_SDD_PPL_fc-web.jpg",
+            "team_1": "Al Sadd",
+            "team_2": "Persepolis FC",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al Sadd vs Persepolis FC",
+            "match_id": 108652,
+            "startTime": "09:30:00 PM 21-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Shorta vs Pakhtakor Tashkent (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108651_4475_SHR_PT_fc-web.jpg",
+            "team_1": "Al Shorta",
+            "team_2": "Pakhtakor Tashkent",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al Shorta vs Pakhtakor Tashkent",
+            "match_id": 108651,
+            "startTime": "09:30:00 PM 21-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kuwait Swedish vs NCM Investment (KCC T20 Elite Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02.jpg",
+            "team_1": "Kuwait Swedish",
+            "team_2": "NCM Investment",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Elite Cup, 2024",
+            "match_name": "Kuwait Swedish vs NCM Investment",
+            "match_id": 110498,
+            "startTime": "10:30:00 PM 21-10-2024"
+        }
+    ]
+}
