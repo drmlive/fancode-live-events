@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:19:21 AM 21-10-2024",
+    "last update time": "10:29:26 AM 21-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "10:00:00 AM 21-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/TLrcLj3wStCDf9dIQhh4og/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110459_english_hls_5879ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs New York Mets (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/111927_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "New York Mets",
-            "status": "LIVE",
-            "event_name": "MLB",
-            "match_name": "Los Angeles Dodgers vs New York Mets",
-            "match_id": 111927,
-            "startTime": "05:38:00 AM 21-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/cVEj3PwQSlaNGnMwV9I9Jw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111927_english_hls_5632ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +144,18 @@
             "match_name": "Kuwait Swedish vs NCM Investment",
             "match_id": 110498,
             "startTime": "10:30:00 PM 21-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Ain vs Al-Hilal (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108653_4475_AAI_AHS_fc-web.jpg",
+            "team_1": "Al Ain",
+            "team_2": "Al-Hilal",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al Ain vs Al-Hilal",
+            "match_id": 108653,
+            "startTime": "09:30:00 PM 21-10-2024"
         }
     ]
 }
