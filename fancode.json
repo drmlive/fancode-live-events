@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:09:18 PM 22-10-2024",
+    "last update time": "07:19:23 PM 22-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,18 +74,32 @@
             "adfree_url": "https://dai.fancode.com/primary/111934_english_hls_6265ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Kenya vs Gambia (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110637_4557_KEN_GAM_fc-web.jpg",
-            "team_1": "Kenya",
-            "team_2": "Gambia",
+            "event_category": "Football",
+            "title": "Sharjah vs Sepahan (AFC Champions League Two 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/108751_CASACARDS_APP.png",
+            "team_1": "Sharjah",
+            "team_2": "Sepahan",
             "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Kenya vs Gambia",
-            "match_id": 111933,
-            "startTime": "04:20:00 PM 22-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/IUsd-RzKRUWgEYPia3czYQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111933_english_hls_8846ta-no/index.m3u8"
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Sharjah vs Sepahan",
+            "match_id": 108751,
+            "startTime": "07:30:00 PM 22-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/K6ksfJhGSXGzcBT3S2ZNkg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108751_english_hls_9041ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Istiklol vs Al Wehdat (AFC Champions League Two 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/108752_CASACARDS_APP.png",
+            "team_1": "Istiklol",
+            "team_2": "Al Wehdat",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Istiklol vs Al Wehdat",
+            "match_id": 108752,
+            "startTime": "07:30:00 PM 22-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/T1t_fryiQh-Dd1BDS7qHow/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108752_english_hls_6274ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -112,30 +126,6 @@
             "startTime": "02:30:00 PM 23-10-2024"
         },
         {
-            "event_category": "Football",
-            "title": "Sharjah vs Sepahan (AFC Champions League Two 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/108751_CASACARDS_APP.png",
-            "team_1": "Sharjah",
-            "team_2": "Sepahan",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Sharjah vs Sepahan",
-            "match_id": 108751,
-            "startTime": "07:30:00 PM 22-10-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Istiklol vs Al Wehdat (AFC Champions League Two 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/108752_CASACARDS_APP.png",
-            "team_1": "Istiklol",
-            "team_2": "Al Wehdat",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Istiklol vs Al Wehdat",
-            "match_id": 108752,
-            "startTime": "07:30:00 PM 22-10-2024"
-        },
-        {
             "event_category": "Cricket",
             "title": "Al Hajery Team XI vs NCM Investment (KCC T20 Elite Cup, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
@@ -158,6 +148,18 @@
             "match_name": "Sharjah vs Dubai",
             "match_id": 111661,
             "startTime": "11:00:00 PM 22-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Gharafa vs Al Wasl (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108656_4475_AGH_AWL_fc-web.jpg",
+            "team_1": "Al Gharafa",
+            "team_2": "Al Wasl",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al Gharafa vs Al Wasl",
+            "match_id": 108656,
+            "startTime": "09:30:00 PM 22-10-2024"
         }
     ]
 }
