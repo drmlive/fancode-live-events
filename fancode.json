@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:58:40 PM 22-10-2024",
+    "last update time": "06:08:45 PM 22-10-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Jets CC vs Jain Irrigation (Maharashtra Champions Trophy 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110462_4545_JET_JAI_fc-web.jpg",
-            "team_1": "Jets CC",
-            "team_2": "Jain Irrigation",
-            "status": "LIVE",
-            "event_name": "Maharashtra Champions Trophy 2024",
-            "match_name": "Jets CC vs Jain Irrigation",
-            "match_id": 110462,
-            "startTime": "02:00:00 PM 22-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/4NmJLDK5QuyF3PGum1jF6Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110462_english_hls_5888ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Overseas vs MMA Titans (ECS Malta, 2024)",
@@ -33,20 +19,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Shandong Taishan vs Yokohama F. Marinos (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108659_4475_SHD_YKFM_fc-web.jpg",
-            "team_1": "Shandong Taishan",
-            "team_2": "Yokohama F. Marinos",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Shandong Taishan vs Yokohama F. Marinos",
-            "match_id": 108659,
-            "startTime": "05:30:00 PM 22-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/jQJTlHbsQCCIV6e-UOKSLw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108659_english_hls_8843ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Buriram United vs Pohang Steelers (AFC Champions League Elite 2024-25)",
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108660_4475_BU_PHG_fc-web.jpg",
             "team_1": "Buriram United",
@@ -58,6 +30,20 @@
             "startTime": "05:30:00 PM 22-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/v7Z7aXJfT7WXD4OQqodnYQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/108660_english_hls_5889ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Shandong Taishan vs Yokohama F. Marinos (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108659_4475_SHD_YKFM_fc-web.jpg",
+            "team_1": "Shandong Taishan",
+            "team_2": "Yokohama F. Marinos",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Shandong Taishan vs Yokohama F. Marinos",
+            "match_id": 108659,
+            "startTime": "05:30:00 PM 22-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/jQJTlHbsQCCIV6e-UOKSLw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108659_english_hls_8843ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -101,18 +87,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka vs West Indies (West Indies tour of Sri Lanka, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png",
-            "team_1": "Sri Lanka",
-            "team_2": "West Indies",
-            "status": "UPCOMING",
-            "event_name": "West Indies tour of Sri Lanka, 2024",
-            "match_name": "Sri Lanka vs West Indies",
-            "match_id": 109871,
-            "startTime": "02:30:00 PM 23-10-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Fujairah vs Abu Dhabi (Emirates D20, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/111660_4589_FUJ_ABD_fc-web.jpg",
             "team_1": "Fujairah",
@@ -125,13 +99,25 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Marsa vs MMA Titans (ECS Malta, 2024)",
+            "title": "Sri Lanka vs West Indies (West Indies tour of Sri Lanka, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png",
+            "team_1": "Sri Lanka",
+            "team_2": "West Indies",
+            "status": "UPCOMING",
+            "event_name": "West Indies tour of Sri Lanka, 2024",
+            "match_name": "Sri Lanka vs West Indies",
+            "match_id": 109871,
+            "startTime": "02:30:00 PM 23-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "MMA Titans vs Marsa (ECS Malta, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4.jpg",
-            "team_1": "Marsa",
-            "team_2": "MMA Titans",
+            "team_1": "MMA Titans",
+            "team_2": "Marsa",
             "status": "UPCOMING",
             "event_name": "ECS Malta, 2024",
-            "match_name": "Marsa vs MMA Titans",
+            "match_name": "MMA Titans vs Marsa",
             "match_id": 111538,
             "startTime": "07:15:00 PM 22-10-2024"
         },
