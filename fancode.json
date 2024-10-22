@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:43:39 AM 22-10-2024",
+    "last update time": "08:53:44 AM 22-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,18 +16,6 @@
             "startTime": "09:00:00 AM 22-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/Hw5YWoNpR4uXpG_eWtlaPw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110605_english_hls_6768ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs South Africa (South Africa tour of Bangladesh, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
-            "team_1": "Bangladesh",
-            "team_2": "South Africa",
-            "status": "PAUSED",
-            "event_name": "South Africa tour of Bangladesh, 2024",
-            "match_name": "Bangladesh vs South Africa",
-            "match_id": 110622,
-            "startTime": "09:30:00 AM 21-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -49,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/111368_4575_BIH-D_WB-D_fc-web.jpg",
             "team_1": "Bihar Divyang",
             "team_2": "West Bengal Divyang",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "4th National Physical Disability T20 Championship ",
             "match_name": "Bihar Divyang vs West Bengal Divyang",
             "match_id": 111368,
-            "startTime": "09:00:00 AM 22-10-2024"
+            "startTime": "09:00:00 AM 22-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/qWJMKsf9RRiBfvEDTWkbiw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111368_english_hls_2943ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -61,11 +51,25 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/111367_4575_RAJ-D_JHA-D_fc-web.jpg",
             "team_1": "Rajasthan Divyang",
             "team_2": "Jharkhand Divyang",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "4th National Physical Disability T20 Championship ",
             "match_name": "Rajasthan Divyang vs Jharkhand Divyang",
             "match_id": 111367,
-            "startTime": "09:00:00 AM 22-10-2024"
+            "startTime": "09:00:00 AM 22-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/-hkql_2sTIuBofSoZ7FhRw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111367_english_hls_8140ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs South Africa (South Africa tour of Bangladesh, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
+            "team_1": "Bangladesh",
+            "team_2": "South Africa",
+            "status": "PAUSED",
+            "event_name": "South Africa tour of Bangladesh, 2024",
+            "match_name": "Bangladesh vs South Africa",
+            "match_id": 110622,
+            "startTime": "09:30:00 AM 21-10-2024"
         },
         {
             "event_category": "Cricket",
