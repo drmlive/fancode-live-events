@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:05:31 PM 23-10-2024",
+    "last update time": "11:15:48 PM 23-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,18 +60,32 @@
             "adfree_url": "https://dai.fancode.com/primary/108764_english_hls_6167ta-di/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "West Indies vs Sri Lanka (West Indies tour of Sri Lanka, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png",
-            "team_1": "West Indies",
-            "team_2": "Sri Lanka",
+            "event_category": "Football",
+            "title": "Al Quwa Al Jawiya vs Khaldiya (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108740_4476_AFC_KHA_fc-web.jpg",
+            "team_1": "Al Quwa Al Jawiya",
+            "team_2": "Khaldiya",
             "status": "LIVE",
-            "event_name": "West Indies tour of Sri Lanka, 2024",
-            "match_name": "West Indies vs Sri Lanka",
-            "match_id": 109871,
-            "startTime": "02:30:00 PM 23-10-2024",
-            "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/SLVSWI/master.m3u8?hdnea=exp=1729711543~acl=*~id=1556784483112233~hmac=4d77677a40746160d7bd6a1d6628890d7fc0d285a6f2df1295f278a4d271b6e6",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/SLVSWI/master.m3u8?hdnea=exp=1729711543~acl=*~id=1556784483112233~hmac=4d77677a40746160d7bd6a1d6628890d7fc0d285a6f2df1295f278a4d271b6e6"
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Al Quwa Al Jawiya vs Khaldiya",
+            "match_id": 108740,
+            "startTime": "11:30:00 PM 23-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/aLDso4P8Q6OBQZ0snEzwQQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108740_english_hls_5879ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Taawoun vs Altyn Asyr (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108739_4476_ALTW_AA_fc-web.jpg",
+            "team_1": "Al-Taawoun",
+            "team_2": "Altyn Asyr",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Al-Taawoun vs Altyn Asyr",
+            "match_id": 108739,
+            "startTime": "11:30:00 PM 23-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/nPXzp_-iQ8GpZ3CM4A_FZg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108739_english_hls_8845ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -99,30 +113,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Al Quwa Al Jawiya vs Khaldiya (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108740_4476_AFC_KHA_fc-web.jpg",
-            "team_1": "Al Quwa Al Jawiya",
-            "team_2": "Khaldiya",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Al Quwa Al Jawiya vs Khaldiya",
-            "match_id": 108740,
-            "startTime": "11:30:00 PM 23-10-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Taawoun vs Altyn Asyr (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108739_4476_ALTW_AA_fc-web.jpg",
-            "team_1": "Al-Taawoun",
-            "team_2": "Altyn Asyr",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Al-Taawoun vs Altyn Asyr",
-            "match_id": 108739,
-            "startTime": "11:30:00 PM 23-10-2024"
-        },
-        {
-            "event_category": "Football",
             "title": "Middlesbrough vs Sheffield United (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/109818_4352_MIDD_SHF_fc-web.jpg",
             "team_1": "Middlesbrough",
@@ -144,6 +134,18 @@
             "match_name": "Indonesia vs Bhutan",
             "match_id": 110609,
             "startTime": "09:30:00 AM 24-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Punit Balan Group vs Jets CC (Maharashtra Champions Trophy 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110465_4545_PBG_JET_fc-web.jpg",
+            "team_1": "Punit Balan Group",
+            "team_2": "Jets CC",
+            "status": "UPCOMING",
+            "event_name": "Maharashtra Champions Trophy 2024",
+            "match_name": "Punit Balan Group vs Jets CC",
+            "match_id": 110465,
+            "startTime": "10:00:00 AM 24-10-2024"
         }
     ]
 }
