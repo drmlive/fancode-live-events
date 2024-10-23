@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:33:05 PM 23-10-2024",
+    "last update time": "07:43:15 PM 23-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,34 +47,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Zimbabwe vs Gambia (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110635_4557_GAM_ZIM_fc-web.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Gambia",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Zimbabwe vs Gambia",
-            "match_id": 110635,
-            "startTime": "04:20:00 PM 23-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/23YzCcwOSemDjUma-Buytg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110635_english_hls_5740ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Selangor vs Jeonbuk Motors (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108811_4476_SEL_JNB_fc-web.jpg",
-            "team_1": "Selangor",
-            "team_2": "Jeonbuk Motors",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Selangor vs Jeonbuk Motors",
-            "match_id": 108811,
-            "startTime": "05:30:00 PM 23-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/m8FjlYf3Sva3RrByJ4aafw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108811_english_hls_8705ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bangladesh vs South Africa (South Africa tour of Bangladesh, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
             "team_1": "Bangladesh",
@@ -103,11 +75,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/108728_4476_TFC_RK_fc-web.jpg",
             "team_1": "Ravshan Kulob",
             "team_2": "Tractor",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Two 2024-25",
             "match_name": "Ravshan Kulob vs Tractor",
             "match_id": 108728,
-            "startTime": "07:30:00 PM 23-10-2024"
+            "startTime": "07:30:00 PM 23-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/c-0_HLmWTGSSnem1spSJ6w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108728_english_hls_6242ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -132,6 +106,18 @@
             "match_name": "Fujairah vs Sharjah",
             "match_id": 111663,
             "startTime": "11:00:00 PM 23-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Middlesbrough vs Sheffield United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109818_4352_MIDD_SHF_fc-web.jpg",
+            "team_1": "Middlesbrough",
+            "team_2": "Sheffield United",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Middlesbrough vs Sheffield United",
+            "match_id": 109818,
+            "startTime": "12:30:00 AM 24-10-2024"
         }
     ]
 }
