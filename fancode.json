@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:42:04 PM 23-10-2024",
+    "last update time": "05:52:11 PM 23-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -89,6 +89,20 @@
         },
         {
             "event_category": "Football",
+            "title": "India Women vs Bangladesh Women (SAFF Women's Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111643_4588_INDW_BDW_fc-web.jpg",
+            "team_1": "India Women",
+            "team_2": "Bangladesh Women",
+            "status": "LIVE",
+            "event_name": "SAFF Women's Championship",
+            "match_name": "India Women vs Bangladesh Women",
+            "match_id": 111643,
+            "startTime": "05:15:00 PM 23-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/a4pzJENUTO6ISu4HMMI3SQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111643_english_hls_6061ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Selangor vs Jeonbuk Motors (AFC Champions League Two 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/108811_4476_SEL_JNB_fc-web.jpg",
             "team_1": "Selangor",
@@ -116,46 +130,28 @@
             "adfree_url": "https://dai.fancode.com/primary/108812_english_hls_5702ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "India Women vs Bangladesh Women (SAFF Women's Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111643_4588_INDW_BDW_fc-web.jpg",
-            "team_1": "India Women",
-            "team_2": "Bangladesh Women",
-            "status": "LIVE",
-            "event_name": "SAFF Women's Championship",
-            "match_name": "India Women vs Bangladesh Women",
-            "match_id": 111643,
-            "startTime": "05:15:00 PM 23-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/a4pzJENUTO6ISu4HMMI3SQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111643_english_hls_6061ta-di/index.m3u8"
+            "event_category": "Cricket",
+            "title": "Bangladesh vs South Africa (South Africa tour of Bangladesh, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
+            "team_1": "Bangladesh",
+            "team_2": "South Africa",
+            "status": "PAUSED",
+            "event_name": "South Africa tour of Bangladesh, 2024",
+            "match_name": "Bangladesh vs South Africa",
+            "match_id": 110622,
+            "startTime": "09:30:00 AM 21-10-2024"
         },
         {
-            "event_category": "Football",
-            "title": "Ulsan HD vs Vissel Kobe (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108661_4475_ULS_VIS_fc-web.jpg",
-            "team_1": "Ulsan HD",
-            "team_2": "Vissel Kobe",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Ulsan HD vs Vissel Kobe",
-            "match_id": 108661,
-            "startTime": "03:30:00 PM 23-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/UXx0Tp-wSAKvZ7SXkRiEug/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108661_english_hls_9428ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sanfrecce Hiroshima vs Sydney FC (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108775_4476_HIR_SYD_fc-web.jpg",
-            "team_1": "Sanfrecce Hiroshima",
-            "team_2": "Sydney FC",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Sanfrecce Hiroshima vs Sydney FC",
-            "match_id": 108775,
-            "startTime": "03:30:00 PM 23-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/rdUQ94aOTXeqqLSJ7-ycjQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108775_english_hls_7232ta-di/index.m3u8"
+            "event_category": "Cricket",
+            "title": "Pakistan vs England (England tour of Pakistan, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
+            "team_1": "Pakistan",
+            "team_2": "England",
+            "status": "UPCOMING",
+            "event_name": "England tour of Pakistan, 2024",
+            "match_name": "Pakistan vs England",
+            "match_id": 110482,
+            "startTime": "10:30:00 AM 24-10-2024"
         }
     ]
 }
