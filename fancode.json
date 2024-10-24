@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:55:10 PM 24-10-2024",
+    "last update time": "04:05:16 PM 24-10-2024",
     "matches": [
         {
             "event_category": "Hockey",
@@ -93,11 +93,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110629_4557_MOZ_GAM_fc-web.jpg",
             "team_1": "Mozambique",
             "team_2": "Gambia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
             "match_name": "Mozambique vs Gambia",
             "match_id": 110638,
-            "startTime": "04:20:00 PM 24-10-2024"
+            "startTime": "04:20:00 PM 24-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/LSaAODSbRjKoxYKJBn5MoA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110638_english_hls_5618ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -105,21 +107,23 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110628_4557_KEN_ZIM_fc-web.jpg",
             "team_1": "Zimbabwe",
             "team_2": "Kenya",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
             "match_name": "Zimbabwe vs Kenya",
             "match_id": 110637,
-            "startTime": "04:20:00 PM 24-10-2024"
+            "startTime": "04:20:00 PM 24-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/E9VbSFa4SqyLfE7WGxUvPg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110637_english_hls_8692ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "Victoria Lions vs Edex Knights (ECS Malta, 2024)",
+            "title": "Edex Knights vs Victoria Lions (ECS Malta, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3.jpg",
-            "team_1": "Victoria Lions",
-            "team_2": "Edex Knights",
+            "team_1": "Edex Knights",
+            "team_2": "Victoria Lions",
             "status": "UPCOMING",
             "event_name": "ECS Malta, 2024",
-            "match_name": "Victoria Lions vs Edex Knights",
+            "match_name": "Edex Knights vs Victoria Lions",
             "match_id": 111545,
             "startTime": "05:00:00 PM 24-10-2024"
         },
