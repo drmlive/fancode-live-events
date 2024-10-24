@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:05:50 PM 24-10-2024",
+    "last update time": "05:16:20 PM 24-10-2024",
     "matches": [
         {
             "event_category": "Hockey",
@@ -130,28 +130,18 @@
             "adfree_url": "https://dai.fancode.com/primary/111645_english_hls_5329ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Fireox CC vs CBCC (Qatar Pro League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111778_4593_FCC_CBC_fc-web.jpg",
-            "team_1": "Fireox CC",
-            "team_2": "CBCC",
-            "status": "UPCOMING",
-            "event_name": "Qatar Pro League, 2024",
-            "match_name": "Fireox CC vs CBCC",
-            "match_id": 111778,
-            "startTime": "05:30:00 PM 24-10-2024"
-        },
-        {
             "event_category": "Football",
             "title": "Port vs Zhejiang (AFC Champions League Two 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/108787_4476_POR_ZHP_fc-web.jpg",
             "team_1": "Port",
             "team_2": "Zhejiang",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Two 2024-25",
             "match_name": "Port vs Zhejiang",
             "match_id": 108787,
-            "startTime": "05:30:00 PM 24-10-2024"
+            "startTime": "05:30:00 PM 24-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/LZdvmTpqSWGwYDjzEI1TYQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108787_english_hls_2201ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -159,11 +149,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/108776_4476_KAYA_ESC_fc-web.jpg",
             "team_1": "Kaya",
             "team_2": "Eastern SC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Two 2024-25",
             "match_name": "Kaya vs Eastern SC",
             "match_id": 108776,
-            "startTime": "05:30:00 PM 24-10-2024"
+            "startTime": "05:30:00 PM 24-10-2024",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Football",
+            "title": "Tampines Rovers FC vs Nam Dinh (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108800_4476_TAM_ND_fc-web.jpg",
+            "team_1": "Tampines Rovers FC",
+            "team_2": "Nam Dinh",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Tampines Rovers FC vs Nam Dinh",
+            "match_id": 108800,
+            "startTime": "05:30:00 PM 24-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/4xuL_83wRNCUlAOrOIvsSA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108800_english_hls_5408ta-no/index.m3u8"
         }
     ]
 }
