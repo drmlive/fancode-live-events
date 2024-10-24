@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:36:31 PM 24-10-2024",
+    "last update time": "05:46:36 PM 24-10-2024",
     "matches": [
         {
             "event_category": "Hockey",
@@ -16,20 +16,6 @@
             "startTime": "03:00:00 PM 24-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/HqT4y1YgQBuZg7igau9ayw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110825_english_hls_5930ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England vs Pakistan (England tour of Pakistan, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
-            "team_1": "England",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "England tour of Pakistan, 2024",
-            "match_name": "England vs Pakistan",
-            "match_id": 110482,
-            "startTime": "10:30:00 AM 24-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/-Ot1M8ctSm6oetKAQL97vg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110482_english_hls_5377ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -72,20 +58,6 @@
             "startTime": "05:30:00 PM 24-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/NDACFRT6SxeYtkFfO4VD_g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111778_english_hls_5570ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Maharashtra Divyang vs Karnataka Divyang (4th National Physical Disability T20 Championship )",
-            "src": "https://images.fancode.com/aig/match/v1/111360_CASACARDS_APP.png",
-            "team_1": "Maharashtra Divyang",
-            "team_2": "Karnataka Divyang",
-            "status": "LIVE",
-            "event_name": "4th National Physical Disability T20 Championship ",
-            "match_name": "Maharashtra Divyang vs Karnataka Divyang",
-            "match_id": 111360,
-            "startTime": "01:30:00 PM 24-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/nBjBOnI6StyJOPLoSqpfcQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111360_english_hls_6041ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -170,6 +142,32 @@
             "startTime": "05:30:00 PM 24-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/LZdvmTpqSWGwYDjzEI1TYQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/108787_english_hls_2201ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kaya vs Eastern SC (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108776_4476_KAYA_ESC_fc-web.jpg",
+            "team_1": "Kaya",
+            "team_2": "Eastern SC",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Kaya vs Eastern SC",
+            "match_id": 108776,
+            "startTime": "05:30:00 PM 24-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/CKvVC7tfTweIqU6hCePvKQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108776_english_hls_7445ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "England vs Pakistan (England tour of Pakistan, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
+            "team_1": "England",
+            "team_2": "Pakistan",
+            "status": "PAUSED",
+            "event_name": "England tour of Pakistan, 2024",
+            "match_name": "England vs Pakistan",
+            "match_id": 110482,
+            "startTime": "10:30:00 AM 24-10-2024"
         }
     ]
 }
