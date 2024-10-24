@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:40:40 AM 25-10-2024",
+    "last update time": "12:50:46 AM 25-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "11:00:00 PM 24-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/_R15cJ21RfqKQOBe-JeAFQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111665_english_hls_5860ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Monaco vs Paris (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/111737_CASACARDS_APP.png",
-            "team_1": "Monaco",
-            "team_2": "Paris",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Monaco vs Paris",
-            "match_id": 111737,
-            "startTime": "10:30:00 PM 24-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/b5bZIe3MSy2BJsJKuM9Z-g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111737_english_hls_8641ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +140,18 @@
             "match_name": "Al Hajery Team XI vs Kuwait Emerging Stars",
             "match_id": 110502,
             "startTime": "04:30:00 PM 25-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bugibba Blasters vs Mater Dei (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg",
+            "team_1": "Bugibba Blasters",
+            "team_2": "Mater Dei",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Bugibba Blasters vs Mater Dei",
+            "match_id": 111549,
+            "startTime": "05:00:00 PM 25-10-2024"
         }
     ]
 }
