@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:16:20 PM 24-10-2024",
+    "last update time": "05:26:25 PM 24-10-2024",
     "matches": [
         {
             "event_category": "Hockey",
@@ -61,6 +61,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "CBCC vs Fireox CC (Qatar Pro League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111778_4593_FCC_CBC_fc-web.jpg",
+            "team_1": "CBCC",
+            "team_2": "Fireox CC",
+            "status": "LIVE",
+            "event_name": "Qatar Pro League, 2024",
+            "match_name": "CBCC vs Fireox CC",
+            "match_id": 111778,
+            "startTime": "05:30:00 PM 24-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/NDACFRT6SxeYtkFfO4VD_g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111778_english_hls_5570ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Maharashtra Divyang vs Karnataka Divyang (4th National Physical Disability T20 Championship )",
             "src": "https://images.fancode.com/aig/match/v1/111360_CASACARDS_APP.png",
             "team_1": "Maharashtra Divyang",
@@ -72,20 +86,6 @@
             "startTime": "01:30:00 PM 24-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/nBjBOnI6StyJOPLoSqpfcQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111360_english_hls_6041ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Lee Man vs Bangkok United (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108799_4476_LM_BU_fc-web.jpg",
-            "team_1": "Lee Man",
-            "team_2": "Bangkok United",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Lee Man vs Bangkok United",
-            "match_id": 108799,
-            "startTime": "03:30:00 PM 24-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/_XVzV0jeQAKO3LlHezvzjA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108799_english_hls_6170ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,8 +154,8 @@
             "match_name": "Kaya vs Eastern SC",
             "match_id": 108776,
             "startTime": "05:30:00 PM 24-10-2024",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/CKvVC7tfTweIqU6hCePvKQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108776_english_hls_7445ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
