@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:37:05 PM 24-10-2024",
+    "last update time": "06:47:11 PM 24-10-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Edex Knights vs Victoria Lions (ECS Malta, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3.jpg",
-            "team_1": "Edex Knights",
-            "team_2": "Victoria Lions",
-            "status": "LIVE",
-            "event_name": "ECS Malta, 2024",
-            "match_name": "Edex Knights vs Victoria Lions",
-            "match_id": 111545,
-            "startTime": "05:00:00 PM 24-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/GqSSNx1RQ3u5v8mS6yjAHw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111545_english_hls_5380ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "CBCC vs Fireox CC (Qatar Pro League, 2024)",
@@ -30,6 +16,20 @@
             "startTime": "05:30:00 PM 24-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/NDACFRT6SxeYtkFfO4VD_g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111778_english_hls_5570ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman vs Abu Dhabi (Emirates D20, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111664_4589_AJM_ABD_fc-web.jpg",
+            "team_1": "Ajman",
+            "team_2": "Abu Dhabi",
+            "status": "LIVE",
+            "event_name": "Emirates D20, 2024",
+            "match_name": "Ajman vs Abu Dhabi",
+            "match_id": 111664,
+            "startTime": "07:00:00 PM 24-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/38jKYHCsQASWtIlZz0vl8w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111664_english_hls_5764ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -131,20 +131,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ashtapailu Sports vs Stars Cricket Club (Maharashtra Champions Trophy 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110466_4545_SCC_APS_fc-web.jpg",
-            "team_1": "Ashtapailu Sports",
-            "team_2": "Stars Cricket Club",
-            "status": "LIVE",
-            "event_name": "Maharashtra Champions Trophy 2024",
-            "match_name": "Ashtapailu Sports vs Stars Cricket Club",
-            "match_id": 110466,
-            "startTime": "02:00:00 PM 24-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/w8OA1oaAT5q6rJ0bhxgofA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110466_english_hls_5388ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "England vs Pakistan (England tour of Pakistan, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-tour-of-Pakistan-Test-Old-match-card.png",
             "team_1": "England",
@@ -157,15 +143,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ajman vs Abu Dhabi (Emirates D20, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111664_4589_AJM_ABD_fc-web.jpg",
-            "team_1": "Ajman",
-            "team_2": "Abu Dhabi",
+            "title": "Edex Knights vs Gozo Zalmi (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4.jpg",
+            "team_1": "Edex Knights",
+            "team_2": "Gozo Zalmi",
             "status": "UPCOMING",
-            "event_name": "Emirates D20, 2024",
-            "match_name": "Ajman vs Abu Dhabi",
-            "match_id": 111664,
-            "startTime": "07:00:00 PM 24-10-2024"
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Edex Knights vs Gozo Zalmi",
+            "match_id": 111546,
+            "startTime": "07:15:00 PM 24-10-2024"
         }
     ]
 }
