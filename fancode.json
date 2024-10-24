@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:25:26 PM 24-10-2024",
+    "last update time": "04:35:32 PM 24-10-2024",
     "matches": [
         {
             "event_category": "Hockey",
@@ -89,20 +89,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Gambia vs Mozambique (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110629_4557_MOZ_GAM_fc-web.jpg",
-            "team_1": "Gambia",
-            "team_2": "Mozambique",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
-            "match_name": "Gambia vs Mozambique",
-            "match_id": 110638,
-            "startTime": "04:20:00 PM 24-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/LSaAODSbRjKoxYKJBn5MoA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110638_english_hls_5618ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Zimbabwe vs Kenya (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110628_4557_KEN_ZIM_fc-web.jpg",
             "team_1": "Zimbabwe",
@@ -117,6 +103,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Gambia vs Mozambique (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110629_4557_MOZ_GAM_fc-web.jpg",
+            "team_1": "Gambia",
+            "team_2": "Mozambique",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+            "match_name": "Gambia vs Mozambique",
+            "match_id": 110638,
+            "startTime": "04:20:00 PM 24-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/LSaAODSbRjKoxYKJBn5MoA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110638_english_hls_5618ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Edex Knights vs Victoria Lions (ECS Malta, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3.jpg",
             "team_1": "Edex Knights",
@@ -126,18 +126,6 @@
             "match_name": "Edex Knights vs Victoria Lions",
             "match_id": 111545,
             "startTime": "05:00:00 PM 24-10-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Nepal Women vs Sri Lanka Women (SAFF Women's Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111645_4588_NLW_SLW_fc-web.jpg",
-            "team_1": "Nepal Women",
-            "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
-            "event_name": "SAFF Women's Championship",
-            "match_name": "Nepal Women vs Sri Lanka Women",
-            "match_id": 111645,
-            "startTime": "05:15:00 PM 24-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -152,16 +140,28 @@
             "startTime": "05:30:00 PM 24-10-2024"
         },
         {
-            "event_category": "Cricket",
-            "title": "Ajman vs Abu Dhabi (Emirates D20, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111664_4589_AJM_ABD_fc-web.jpg",
-            "team_1": "Ajman",
-            "team_2": "Abu Dhabi",
+            "event_category": "Football",
+            "title": "Nepal Women vs Sri Lanka Women (SAFF Women's Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111645_4588_NLW_SLW_fc-web.jpg",
+            "team_1": "Nepal Women",
+            "team_2": "Sri Lanka Women",
             "status": "UPCOMING",
-            "event_name": "Emirates D20, 2024",
-            "match_name": "Ajman vs Abu Dhabi",
-            "match_id": 111664,
-            "startTime": "07:00:00 PM 24-10-2024"
+            "event_name": "SAFF Women's Championship",
+            "match_name": "Nepal Women vs Sri Lanka Women",
+            "match_id": 111645,
+            "startTime": "05:15:00 PM 24-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tampines Rovers FC vs Nam Dinh (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108800_4476_TAM_ND_fc-web.jpg",
+            "team_1": "Tampines Rovers FC",
+            "team_2": "Nam Dinh",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Tampines Rovers FC vs Nam Dinh",
+            "match_id": 108800,
+            "startTime": "05:30:00 PM 24-10-2024"
         }
     ]
 }
