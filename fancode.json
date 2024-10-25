@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:48:11 PM 25-10-2024",
+    "last update time": "01:58:16 PM 25-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,20 +72,6 @@
             "startTime": "11:00:00 AM 25-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/1N4salehRD2fr5Huo79SIQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111357_english_hls_8592ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 2 vs Jack Nicklaus Golf Club, Incheon, South Korea (Genesis Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championship_Old_match-card_1729743605918.jpg",
-            "team_1": "Day 2",
-            "team_2": "Jack Nicklaus Golf Club, Incheon, South Korea",
-            "status": "LIVE",
-            "event_name": "Genesis Championship",
-            "match_name": "Day 2",
-            "match_id": 112037,
-            "startTime": "08:30:00 AM 25-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/KxOrht_RR-KyZWRkwM58Vg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112037_english_hls_5944ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -160,6 +146,18 @@
             "match_name": "Fujairah vs Dubai",
             "match_id": 111666,
             "startTime": "07:00:00 PM 25-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "MMA Titans vs Mater Dei (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
+            "team_1": "MMA Titans",
+            "team_2": "Mater Dei",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "MMA Titans vs Mater Dei",
+            "match_id": 111550,
+            "startTime": "07:15:00 PM 25-10-2024"
         }
     ]
 }
