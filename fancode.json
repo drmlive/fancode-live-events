@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:43:20 PM 25-10-2024",
+    "last update time": "10:53:29 PM 25-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -14,20 +14,6 @@
             "match_name": "Practice 1",
             "match_id": 95232,
             "startTime": "12:00:00 AM 26-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fujairah vs Dubai (Emirates D20, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111666_4589_FUJ_DUB_fc-web.jpg",
-            "team_1": "Fujairah",
-            "team_2": "Dubai",
-            "status": "LIVE",
-            "event_name": "Emirates D20, 2024",
-            "match_name": "Fujairah vs Dubai",
-            "match_id": 111666,
-            "startTime": "07:00:00 PM 25-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/Gi6KnQl5Sjqi4c8RQSRkRA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111666_english_hls_6901ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -59,6 +45,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Abu Dhabi vs Sharjah (Emirates D20, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111667_4589_SHA_ABD_fc-web.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Sharjah",
+            "status": "LIVE",
+            "event_name": "Emirates D20, 2024",
+            "match_name": "Abu Dhabi vs Sharjah",
+            "match_id": 111667,
+            "startTime": "11:00:00 PM 25-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/9etE2yFwR62KYtMcHQDrmw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111667_english_hls_5899ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "USA vs Scotland (ICC CWC League 2, 2023-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110639_3908_USA_SCO_fc-web.jpg",
             "team_1": "USA",
@@ -82,18 +82,6 @@
             "match_name": "England vs Pakistan",
             "match_id": 110482,
             "startTime": "10:30:00 AM 24-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi vs Sharjah (Emirates D20, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111667_4589_SHA_ABD_fc-web.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Sharjah",
-            "status": "UPCOMING",
-            "event_name": "Emirates D20, 2024",
-            "match_name": "Abu Dhabi vs Sharjah",
-            "match_id": 111667,
-            "startTime": "11:00:00 PM 25-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +142,18 @@
             "match_name": "Stars Cricket Club vs Nok 99 Puneri Bappa",
             "match_id": 110469,
             "startTime": "10:00:00 AM 26-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gozo Zalmi vs Royal Strikers (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
+            "team_1": "Gozo Zalmi",
+            "team_2": "Royal Strikers",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Gozo Zalmi vs Royal Strikers",
+            "match_id": 111551,
+            "startTime": "01:00:00 PM 26-10-2024"
         }
     ]
 }
