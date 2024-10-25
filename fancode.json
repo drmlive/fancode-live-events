@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:44:01 PM 25-10-2024",
+    "last update time": "11:54:07 PM 25-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -16,20 +16,6 @@
             "startTime": "12:00:00 AM 26-10-2024",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "NCM Investment vs CECC (KCC T20 Elite Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",
-            "team_1": "NCM Investment",
-            "team_2": "CECC",
-            "status": "LIVE",
-            "event_name": "KCC T20 Elite Cup, 2024",
-            "match_name": "NCM Investment vs CECC",
-            "match_id": 110503,
-            "startTime": "08:30:00 PM 25-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/xBaYy5QfQ1-f9kQjAqXuhg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110503_english_hls_5745ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +142,18 @@
             "match_name": "Gozo Zalmi vs Royal Strikers",
             "match_id": 111551,
             "startTime": "01:00:00 PM 26-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Roma CC vs Milan United (ECN Italian T20 Finals, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Italian-T20-Finals,-2024-old-match-card.png",
+            "team_1": "Roma CC",
+            "team_2": "Milan United",
+            "status": "UPCOMING",
+            "event_name": "ECN Italian T20 Finals, 2024",
+            "match_name": "Roma CC vs Milan United",
+            "match_id": 112040,
+            "startTime": "01:15:00 PM 26-10-2024"
         }
     ]
 }
