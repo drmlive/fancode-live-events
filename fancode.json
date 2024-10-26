@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:04:48 PM 26-10-2024",
+    "last update time": "07:14:53 PM 26-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -87,20 +87,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Coventry City vs Luton Town (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109819_4352_CVC_LUT_fc-web.jpg",
-            "team_1": "Coventry City",
-            "team_2": "Luton Town",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Coventry City vs Luton Town",
-            "match_id": 109819,
-            "startTime": "05:00:00 PM 26-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/BGJgDKyvSWudQ1g_OycK8A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109819_english_hls_5347ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Sunderland vs Oxford United (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/106269_SUN_OU_fc-app-1.jpg",
             "team_1": "Sunderland",
@@ -158,6 +144,18 @@
             "match_name": "Punit Balan Group vs Jain Irrigation",
             "match_id": 110471,
             "startTime": "10:00:00 AM 27-10-2024"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs New York Yankees (MLB)",
+            "src": "https://images.fancode.com/aig/match/v1/112000_CASACARDS_APP.png",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "New York Yankees",
+            "status": "UPCOMING",
+            "event_name": "MLB",
+            "match_name": "Los Angeles Dodgers vs New York Yankees",
+            "match_id": 112000,
+            "startTime": "05:38:00 AM 27-10-2024"
         }
     ]
 }
