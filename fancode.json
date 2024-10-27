@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:43:44 AM 28-10-2024",
+    "last update time": "04:53:49 AM 28-10-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Nepal vs USA (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110640_3908_USA_NEP_fc-web.jpg",
-            "team_1": "Nepal",
-            "team_2": "USA",
-            "status": "LIVE",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Nepal vs USA",
-            "match_id": 110640,
-            "startTime": "09:00:00 PM 27-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/2Y-J6TJ5SayA3F9QKpt1vg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110640_english_hls_6326ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Ashtapailu Sports vs Nok 99 Puneri Bappa (Maharashtra Champions Trophy 2024)",
@@ -148,6 +134,18 @@
             "match_name": "Ajman vs Dubai",
             "match_id": 111673,
             "startTime": "11:00:00 PM 28-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Bradford City vs Doncaster Rovers (League Two 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",
+            "team_1": "Bradford City",
+            "team_2": "Doncaster Rovers",
+            "status": "UPCOMING",
+            "event_name": "League Two 2024-25",
+            "match_name": "Bradford City vs Doncaster Rovers",
+            "match_id": 110102,
+            "startTime": "01:30:00 AM 29-10-2024"
         }
     ]
 }
