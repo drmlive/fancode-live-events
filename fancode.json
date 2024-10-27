@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:20:48 AM 27-10-2024",
+    "last update time": "05:30:53 AM 27-10-2024",
     "matches": [
         {
             "event_category": "Baseball",
@@ -9,11 +9,13 @@
             "src": "https://images.fancode.com/aig/match/v1/112000_CASACARDS_APP.png",
             "team_1": "Los Angeles Dodgers",
             "team_2": "New York Yankees",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "MLB",
             "match_name": "Los Angeles Dodgers vs New York Yankees",
             "match_id": 112000,
-            "startTime": "05:38:00 AM 27-10-2024"
+            "startTime": "05:38:00 AM 27-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/vxQviIieQiqh2ZRNmNdmOw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112000_english_hls_4894ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
