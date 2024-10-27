@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:08:34 PM 27-10-2024",
+    "last update time": "08:18:40 PM 27-10-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -79,21 +79,23 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/109821_4352_NOR_MIDD_fc-web.jpg",
             "team_1": "Norwich City",
             "team_2": "Middlesbrough",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2024-25",
             "match_name": "Norwich City vs Middlesbrough",
             "match_id": 109821,
-            "startTime": "08:30:00 PM 27-10-2024"
+            "startTime": "08:30:00 PM 27-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/WLV0jw3HTZKUQyzOax3xLw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109821_english_hls_4667ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "USA vs Nepal (ICC CWC League 2, 2023-27)",
+            "title": "Nepal vs USA (ICC CWC League 2, 2023-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110640_3908_USA_NEP_fc-web.jpg",
-            "team_1": "USA",
-            "team_2": "Nepal",
+            "team_1": "Nepal",
+            "team_2": "USA",
             "status": "UPCOMING",
             "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "USA vs Nepal",
+            "match_name": "Nepal vs USA",
             "match_id": 110640,
             "startTime": "09:00:00 PM 27-10-2024"
         },
