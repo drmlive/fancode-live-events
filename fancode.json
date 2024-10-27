@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:12:16 AM 27-10-2024",
+    "last update time": "08:22:22 AM 27-10-2024",
     "matches": [
         {
             "event_category": "Baseball",
@@ -44,6 +44,20 @@
             "startTime": "08:00:00 AM 27-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/H3DDmv0UTQGgKRRJLQTw5A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112039_english_hls_8334ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland vs Sydney FC (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110903_4567_AFC_SYD_fc-web_1728983127529.jpg",
+            "team_1": "Auckland",
+            "team_2": "Sydney FC",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Auckland vs Sydney FC",
+            "match_id": 110903,
+            "startTime": "08:30:00 AM 27-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/FaO8f9aURuWkNMi0yMK31g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110903_english_hls_4884ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "Dubai vs Abu Dhabi",
             "match_id": 111670,
             "startTime": "07:00:00 PM 27-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Gzira United vs MMA Titans (ECS Malta, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg",
-            "team_1": "Gzira United",
-            "team_2": "MMA Titans",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, 2024",
-            "match_name": "Gzira United vs MMA Titans",
-            "match_id": 111557,
-            "startTime": "07:15:00 PM 27-10-2024"
         }
     ]
 }
