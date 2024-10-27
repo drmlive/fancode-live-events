@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:42:33 AM 27-10-2024",
+    "last update time": "08:52:38 AM 27-10-2024",
     "matches": [
-        {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs New York Yankees (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/112000_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "New York Yankees",
-            "status": "LIVE",
-            "event_name": "MLB",
-            "match_name": "Los Angeles Dodgers vs New York Yankees",
-            "match_id": 112000,
-            "startTime": "05:38:00 AM 27-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/vxQviIieQiqh2ZRNmNdmOw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112000_english_hls_4894ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Japan XI vs Sri Lanka Embassy XI (Embassy Cup, 2024)",
@@ -154,6 +140,18 @@
             "match_name": "Roma CC vs Panjab",
             "match_id": 112042,
             "startTime": "06:00:00 PM 27-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dubai vs Abu Dhabi (Emirates D20, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111670_4589_DUB_ABD_fc-web.jpg",
+            "team_1": "Dubai",
+            "team_2": "Abu Dhabi",
+            "status": "UPCOMING",
+            "event_name": "Emirates D20, 2024",
+            "match_name": "Dubai vs Abu Dhabi",
+            "match_id": 111670,
+            "startTime": "07:00:00 PM 27-10-2024"
         }
     ]
 }
