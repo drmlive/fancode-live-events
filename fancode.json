@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:37:16 PM 27-10-2024",
+    "last update time": "05:47:21 PM 27-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -59,34 +59,22 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Roma CC-W vs Padova CC-W (ECN Italian T20-W Finals, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Italian-T20-Finals,-2024_old-Match-card_1729771053957.jpg",
-            "team_1": "Roma CC-W",
-            "team_2": "Padova CC-W",
-            "status": "LIVE",
-            "event_name": "ECN Italian T20-W Finals, 2024",
-            "match_name": "Roma CC-W vs Padova CC-W",
-            "match_id": 112055,
-            "startTime": "02:00:00 PM 27-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/o0uuv6GnRPOfqVLcOugOUw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112055_english_hls_8234ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Roma CC vs Panjab (ECN Italian T20 Finals, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Italian-T20-Finals,-2024-old-match-card.png",
             "team_1": "Roma CC",
             "team_2": "Panjab",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECN Italian T20 Finals, 2024",
             "match_name": "Roma CC vs Panjab",
             "match_id": 112042,
-            "startTime": "06:00:00 PM 27-10-2024"
+            "startTime": "06:00:00 PM 27-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/2muzYjybTcG1S4VtmSaLiA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112042_english_hls_4611ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
             "title": "Nepal Women vs India Women (SAFF Women's Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/111647_CASACARDS_APP.png",
             "team_1": "Nepal Women",
             "team_2": "India Women",
             "status": "UPCOMING",
@@ -154,6 +142,18 @@
             "match_name": "Fujairah vs Ajman",
             "match_id": 111671,
             "startTime": "11:00:00 PM 27-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Norwich City vs Middlesbrough (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109821_4352_NOR_MIDD_fc-web.jpg",
+            "team_1": "Norwich City",
+            "team_2": "Middlesbrough",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Norwich City vs Middlesbrough",
+            "match_id": 109821,
+            "startTime": "08:30:00 PM 27-10-2024"
         }
     ]
 }
