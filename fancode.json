@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:07:00 PM 27-10-2024",
+    "last update time": "05:17:05 PM 27-10-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -63,11 +63,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/111786_4593_GAM_FCC_fc-web.jpg",
             "team_1": "Galfar Al Misnad",
             "team_2": "Fireox Unit CC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Qatar Pro League, 2024",
             "match_name": "Galfar Al Misnad vs Fireox Unit CC",
             "match_id": 111786,
-            "startTime": "05:30:00 PM 27-10-2024"
+            "startTime": "05:30:00 PM 27-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/5GRQtVj8TTeD8Rt3aKHufg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111786_english_hls_5010ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -80,6 +82,18 @@
             "match_name": "Roma CC vs Panjab",
             "match_id": 112042,
             "startTime": "06:00:00 PM 27-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nepal Women vs India Women (SAFF Women's Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Nepal Women",
+            "team_2": "India Women",
+            "status": "UPCOMING",
+            "event_name": "SAFF Women's Championship",
+            "match_name": "Nepal Women vs India Women",
+            "match_id": 111647,
+            "startTime": "06:15:00 PM 27-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "Fujairah vs Ajman",
             "match_id": 111671,
             "startTime": "11:00:00 PM 27-10-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Norwich City vs Middlesbrough (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109821_4352_NOR_MIDD_fc-web.jpg",
-            "team_1": "Norwich City",
-            "team_2": "Middlesbrough",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Norwich City vs Middlesbrough",
-            "match_id": 109821,
-            "startTime": "08:30:00 PM 27-10-2024"
         }
     ]
 }
