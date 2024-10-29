@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:09:31 AM 29-10-2024",
+    "last update time": "10:19:37 AM 29-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110456_4545_PBG_APS_fc-web.jpg",
             "team_1": "Ashtapailu Sports",
             "team_2": "Punit Balan Group",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Maharashtra Champions Trophy 2024",
             "match_name": "Ashtapailu Sports vs Punit Balan Group",
             "match_id": 110475,
-            "startTime": "10:30:00 AM 29-10-2024"
+            "startTime": "10:30:00 AM 29-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/1a7js_LAQhmfpMTiOHdaRg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110475_english_hls_5267ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,6 +138,18 @@
             "match_name": "NCM Investment vs CECC",
             "match_id": 110508,
             "startTime": "10:30:00 PM 29-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Emirates Blues vs Sharjah (Emirates D20, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111675_4589_EMB_SHA_fc-web.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Sharjah",
+            "status": "UPCOMING",
+            "event_name": "Emirates D20, 2024",
+            "match_name": "Emirates Blues vs Sharjah",
+            "match_id": 111675,
+            "startTime": "11:00:00 PM 29-10-2024"
         }
     ]
 }
