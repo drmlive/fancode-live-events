@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:41:54 PM 29-10-2024",
+    "last update time": "02:51:59 PM 29-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,6 +19,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Southern Crusaders vs Msida Warriors (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
+            "team_1": "Southern Crusaders",
+            "team_2": "Msida Warriors",
+            "status": "LIVE",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Southern Crusaders vs Msida Warriors",
+            "match_id": 111563,
+            "startTime": "03:00:00 PM 29-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZGJ0iNibTs6_xdF7_FWoZg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111563_english_hls_5006ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Rwanda Women vs Kenya Women (Kenya Women tour of Rwanda, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png",
             "team_1": "Rwanda Women",
@@ -30,32 +44,6 @@
             "startTime": "02:00:00 PM 29-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/DGiVpc-ERb69iu1eLQzvZQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112003_english_hls_5479ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ashtapailu Sports vs Punit Balan Group (Maharashtra Champions Trophy 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110456_4545_PBG_APS_fc-web.jpg",
-            "team_1": "Ashtapailu Sports",
-            "team_2": "Punit Balan Group",
-            "status": "LIVE",
-            "event_name": "Maharashtra Champions Trophy 2024",
-            "match_name": "Ashtapailu Sports vs Punit Balan Group",
-            "match_id": 110475,
-            "startTime": "10:30:00 AM 29-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/1a7js_LAQhmfpMTiOHdaRg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110475_english_hls_5267ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Southern Crusaders vs Msida Warriors (ECS Malta, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
-            "team_1": "Southern Crusaders",
-            "team_2": "Msida Warriors",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, 2024",
-            "match_name": "Southern Crusaders vs Msida Warriors",
-            "match_id": 111563,
-            "startTime": "03:00:00 PM 29-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +140,18 @@
             "match_name": "Emirates Blues vs Sharjah",
             "match_id": 111675,
             "startTime": "11:00:00 PM 29-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Brentford vs Sheffield Wednesday (Carabao Cup 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Brentford-vs-Sheffield-Wednesday_old_1729232382521.jpg",
+            "team_1": "Brentford",
+            "team_2": "Sheffield Wednesday",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2024-25",
+            "match_name": "Brentford vs Sheffield Wednesday",
+            "match_id": 111450,
+            "startTime": "01:30:00 AM 30-10-2024"
         }
     ]
 }
