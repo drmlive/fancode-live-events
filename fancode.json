@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:19:05 AM 29-10-2024",
+    "last update time": "09:29:10 AM 29-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "09:30:00 AM 29-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/8YMdehkkTUeG1cl5_Uirsw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110623_english_hls_5250ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "New York Yankees vs Los Angeles Dodgers (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/112001_CASACARDS_APP.png",
-            "team_1": "New York Yankees",
-            "team_2": "Los Angeles Dodgers",
-            "status": "LIVE",
-            "event_name": "MLB",
-            "match_name": "New York Yankees vs Los Angeles Dodgers",
-            "match_id": 112001,
-            "startTime": "05:38:00 AM 29-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/2jp8Vm-6TDeKkpOsE9aGQQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112001_english_hls_4584ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,6 +124,18 @@
             "match_name": "Galfar Al Misnad vs Titans",
             "match_id": 111791,
             "startTime": "09:30:00 PM 29-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "NCM Investment vs CECC (KCC T20 Elite Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
+            "team_1": "NCM Investment",
+            "team_2": "CECC",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Elite Cup, 2024",
+            "match_name": "NCM Investment vs CECC",
+            "match_id": 110508,
+            "startTime": "10:30:00 PM 29-10-2024"
         }
     ]
 }
