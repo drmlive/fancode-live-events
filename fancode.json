@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:21:46 AM 30-10-2024",
+    "last update time": "05:31:51 AM 30-10-2024",
     "matches": [
+        {
+            "event_category": "Baseball",
+            "title": "New York Yankees vs Los Angeles Dodgers (MLB)",
+            "src": "https://images.fancode.com/aig/match/v1/112002_CASACARDS_APP.png",
+            "team_1": "New York Yankees",
+            "team_2": "Los Angeles Dodgers",
+            "status": "LIVE",
+            "event_name": "MLB",
+            "match_name": "New York Yankees vs Los Angeles Dodgers",
+            "match_id": 112002,
+            "startTime": "05:38:00 AM 30-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/Zf1bmITQRrGi928njIBTcQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112002_english_hls_4817ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "South Africa vs Bangladesh (South Africa tour of Bangladesh, 2024)",
@@ -14,18 +28,6 @@
             "match_name": "South Africa vs Bangladesh",
             "match_id": 110623,
             "startTime": "09:30:00 AM 29-10-2024"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "New York Yankees vs Los Angeles Dodgers (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/112002_CASACARDS_APP.png",
-            "team_1": "New York Yankees",
-            "team_2": "Los Angeles Dodgers",
-            "status": "UPCOMING",
-            "event_name": "MLB",
-            "match_name": "New York Yankees vs Los Angeles Dodgers",
-            "match_id": 112002,
-            "startTime": "05:38:00 AM 30-10-2024"
         },
         {
             "event_category": "Cricket",
@@ -113,15 +115,15 @@
         },
         {
             "event_category": "Football",
-            "title": "Yokohama F. Marinos vs Urawa Red Diamonds (J League 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111203_3921_YKFM_URW_fc-web.jpg",
-            "team_1": "Yokohama F. Marinos",
-            "team_2": "Urawa Red Diamonds",
+            "title": "Brighton and Hove Albion vs Liverpool (Carabao Cup 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Brighton and Hove Albion",
+            "team_2": "Liverpool",
             "status": "UPCOMING",
-            "event_name": "J League 2024",
-            "match_name": "Yokohama F. Marinos vs Urawa Red Diamonds",
-            "match_id": 111203,
-            "startTime": "03:30:00 PM 30-10-2024"
+            "event_name": "Carabao Cup 2024-25",
+            "match_name": "Brighton and Hove Albion vs Liverpool",
+            "match_id": 111454,
+            "startTime": "01:00:00 AM 31-10-2024"
         }
     ]
 }
