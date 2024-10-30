@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:53:34 AM 30-10-2024",
+    "last update time": "09:03:39 AM 30-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,20 +14,6 @@
             "match_name": "South Africa vs Bangladesh",
             "match_id": 110623,
             "startTime": "09:30:00 AM 29-10-2024"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "New York Yankees vs Los Angeles Dodgers (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/112002_CASACARDS_APP.png",
-            "team_1": "New York Yankees",
-            "team_2": "Los Angeles Dodgers",
-            "status": "LIVE",
-            "event_name": "MLB",
-            "match_name": "New York Yankees vs Los Angeles Dodgers",
-            "match_id": 112002,
-            "startTime": "05:38:00 AM 30-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/Zf1bmITQRrGi928njIBTcQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112002_english_hls_4817ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -115,18 +101,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Preston North End vs Arsenal (Carabao Cup 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/111455_CASACARDS_APP.png",
-            "team_1": "Preston North End",
-            "team_2": "Arsenal",
-            "status": "UPCOMING",
-            "event_name": "Carabao Cup 2024-25",
-            "match_name": "Preston North End vs Arsenal",
-            "match_id": 111455,
-            "startTime": "01:15:00 AM 31-10-2024"
-        },
-        {
-            "event_category": "Football",
             "title": "Manchester United vs Leicester City (Carabao Cup 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
             "team_1": "Manchester United",
@@ -147,6 +121,30 @@
             "event_name": "Carabao Cup 2024-25",
             "match_name": "Newcastle United vs Chelsea",
             "match_id": 111452,
+            "startTime": "01:15:00 AM 31-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Aston Villa vs Crystal Palace (Carabao Cup 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Aston Villa",
+            "team_2": "Crystal Palace",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2024-25",
+            "match_name": "Aston Villa vs Crystal Palace",
+            "match_id": 111456,
+            "startTime": "01:15:00 AM 31-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Preston North End vs Arsenal (Carabao Cup 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/111455_CASACARDS_APP.png",
+            "team_1": "Preston North End",
+            "team_2": "Arsenal",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2024-25",
+            "match_name": "Preston North End vs Arsenal",
+            "match_id": 111455,
             "startTime": "01:15:00 AM 31-10-2024"
         }
     ]
