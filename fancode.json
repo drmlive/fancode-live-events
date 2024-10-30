@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:33:53 AM 31-10-2024",
+    "last update time": "03:43:58 AM 31-10-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "01:45:00 AM 31-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/gsv5cu-2Skqjw55Otj07_A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111451_english_hls_5364ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Partizan NIS Belgrade vs Monaco (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/111741_CASACARDS_APP.png",
-            "team_1": "Partizan NIS Belgrade",
-            "team_2": "Monaco",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Partizan NIS Belgrade vs Monaco",
-            "match_id": 111741,
-            "startTime": "01:15:00 AM 31-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/DeXjOh_vQv6D9-IVxcBFow/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111741_english_hls_2872ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -90,6 +76,18 @@
             "match_name": "Edex Knights vs Marsa",
             "match_id": 111572,
             "startTime": "05:00:00 PM 31-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Asian CC vs Fireox Unit CC (Qatar Pro League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111792_4593_ACC_FCC_fc-web.jpg",
+            "team_1": "Asian CC",
+            "team_2": "Fireox Unit CC",
+            "status": "UPCOMING",
+            "event_name": "Qatar Pro League, 2024",
+            "match_name": "Asian CC vs Fireox Unit CC",
+            "match_id": 111792,
+            "startTime": "05:30:00 PM 31-10-2024"
         }
     ]
 }
