@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:14:46 AM 31-10-2024",
+    "last update time": "05:24:51 AM 31-10-2024",
     "matches": [
+        {
+            "event_category": "Baseball",
+            "title": "New York Yankees vs Los Angeles Dodgers (MLB)",
+            "src": "https://images.fancode.com/aig/match/v1/112384_CASACARDS_APP.png",
+            "team_1": "New York Yankees",
+            "team_2": "Los Angeles Dodgers",
+            "status": "LIVE",
+            "event_name": "MLB",
+            "match_name": "New York Yankees vs Los Angeles Dodgers",
+            "match_id": 112384,
+            "startTime": "05:38:00 AM 31-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/QAPzO2oHSxioszDOhNWDgQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112384_english_hls_5198ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "South Africa vs Bangladesh (South Africa tour of Bangladesh, 2024)",
@@ -26,18 +40,6 @@
             "match_name": "West Indies vs England",
             "match_id": 109440,
             "startTime": "11:30:00 PM 31-10-2024"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "New York Yankees vs Los Angeles Dodgers (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/112384_CASACARDS_APP.png",
-            "team_1": "New York Yankees",
-            "team_2": "Los Angeles Dodgers",
-            "status": "UPCOMING",
-            "event_name": "MLB",
-            "match_name": "New York Yankees vs Los Angeles Dodgers",
-            "match_id": 112384,
-            "startTime": "05:38:00 AM 31-10-2024"
         },
         {
             "event_category": "Cricket",
