@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:52:59 AM 31-10-2024",
+    "last update time": "02:03:04 AM 31-10-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -16,6 +16,20 @@
             "startTime": "01:00:00 AM 31-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/ebiJA-BPSEG1WcyTS0yHWw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111454_english_hls_5641ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Manchester United vs Leicester City (Carabao Cup 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-VS--Leicester-City_old_1730282670767.jpg",
+            "team_1": "Manchester United",
+            "team_2": "Leicester City",
+            "status": "LIVE",
+            "event_name": "Carabao Cup 2024-25",
+            "match_name": "Manchester United vs Leicester City",
+            "match_id": 111453,
+            "startTime": "01:15:00 AM 31-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/4DLYwEe-Tra497TR1iiWVQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111453_english_hls_2398ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -61,20 +75,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Manchester United vs Leicester City (Carabao Cup 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-VS--Leicester-City_old_1730282670767.jpg",
-            "team_1": "Manchester United",
-            "team_2": "Leicester City",
-            "status": "LIVE",
-            "event_name": "Carabao Cup 2024-25",
-            "match_name": "Manchester United vs Leicester City",
-            "match_id": 111453,
-            "startTime": "01:15:00 AM 31-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/4DLYwEe-Tra497TR1iiWVQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111453_english_hls_2398ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Tottenham Hotspur vs Manchester City (Carabao Cup 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tottenham-Hotspur-VS-Manchester-City_old_1730282677531.jpg",
             "team_1": "Tottenham Hotspur",
@@ -100,20 +100,6 @@
             "startTime": "01:15:00 AM 31-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/DeXjOh_vQv6D9-IVxcBFow/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111741_english_hls_2872ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Leeward Islands Hurricanes vs West Indies Academy (CG United Super50 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112010_4596_WIC_LEI_fc-web.jpg",
-            "team_1": "Leeward Islands Hurricanes",
-            "team_2": "West Indies Academy",
-            "status": "LIVE",
-            "event_name": "CG United Super50 Cup, 2024",
-            "match_name": "Leeward Islands Hurricanes vs West Indies Academy",
-            "match_id": 112010,
-            "startTime": "06:30:00 PM 30-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/v3XoB2WyTvOKb-B-_ydbmQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112010_english_hls_5398ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +136,18 @@
             "match_name": "Bugibba Blasters vs Edex Knights",
             "match_id": 111570,
             "startTime": "01:00:00 PM 31-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bugibba Blasters vs Gzira United (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
+            "team_1": "Bugibba Blasters",
+            "team_2": "Gzira United",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Bugibba Blasters vs Gzira United",
+            "match_id": 111571,
+            "startTime": "03:00:00 PM 31-10-2024"
         }
     ]
 }
