@@ -1,17 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:29:20 PM 30-10-2024",
+    "last update time": "07:39:26 PM 30-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "West Indies Academy vs Leeward Islands Hurricanes (CG United Super50 Cup, 2024)",
+            "title": "Leeward Islands Hurricanes vs West Indies Academy (CG United Super50 Cup, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112010_4596_WIC_LEI_fc-web.jpg",
-            "team_1": "West Indies Academy",
-            "team_2": "Leeward Islands Hurricanes",
+            "team_1": "Leeward Islands Hurricanes",
+            "team_2": "West Indies Academy",
             "status": "LIVE",
             "event_name": "CG United Super50 Cup, 2024",
-            "match_name": "West Indies Academy vs Leeward Islands Hurricanes",
+            "match_name": "Leeward Islands Hurricanes vs West Indies Academy",
             "match_id": 112010,
             "startTime": "06:30:00 PM 30-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/v3XoB2WyTvOKb-B-_ydbmQ/master.m3u8",
@@ -44,20 +44,6 @@
             "startTime": "06:15:00 PM 30-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/a1U1xGO4Sq2X1F8Mat_Oig/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111648_english_hls_5119ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Port vs Lion City Sailors (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108785_4476_POR_LIO_FC-web.jpg",
-            "team_1": "Port",
-            "team_2": "Lion City Sailors",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Port vs Lion City Sailors",
-            "match_id": 108785,
-            "startTime": "05:30:00 PM 30-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/nJk2y6ioQe6FIENZfFewYQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108785_english_hls_5832ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +140,18 @@
             "match_name": "Tottenham Hotspur vs Manchester City",
             "match_id": 111451,
             "startTime": "01:45:00 AM 31-10-2024"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "New York Yankees vs Los Angeles Dodgers (MLB)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+            "team_1": "New York Yankees",
+            "team_2": "Los Angeles Dodgers",
+            "status": "UPCOMING",
+            "event_name": "MLB",
+            "match_name": "New York Yankees vs Los Angeles Dodgers",
+            "match_id": 112384,
+            "startTime": "05:38:00 AM 31-10-2024"
         }
     ]
 }
