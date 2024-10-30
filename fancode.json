@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:36:04 PM 30-10-2024",
+    "last update time": "01:46:09 PM 30-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png",
             "team_1": "Kenya Women",
             "team_2": "Rwanda Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Kenya Women tour of Rwanda, 2024",
             "match_name": "Kenya Women vs Rwanda Women",
             "match_id": 112004,
-            "startTime": "02:00:00 PM 30-10-2024"
+            "startTime": "02:00:00 PM 30-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/_pFOcDYESdSFHqaNtDG_0g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112004_english_hls_6192ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -117,18 +119,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Preston North End vs Arsenal (Carabao Cup 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Preston-North-End-VS-Arsenal_old.jpg",
-            "team_1": "Preston North End",
-            "team_2": "Arsenal",
-            "status": "UPCOMING",
-            "event_name": "Carabao Cup 2024-25",
-            "match_name": "Preston North End vs Arsenal",
-            "match_id": 111455,
-            "startTime": "01:15:00 AM 31-10-2024"
-        },
-        {
-            "event_category": "Football",
             "title": "Manchester United vs Leicester City (Carabao Cup 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-VS--Leicester-City_old.jpg",
             "team_1": "Manchester United",
@@ -149,6 +139,18 @@
             "event_name": "Carabao Cup 2024-25",
             "match_name": "Newcastle United vs Chelsea",
             "match_id": 111452,
+            "startTime": "01:15:00 AM 31-10-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Aston Villa vs Crystal Palace (Carabao Cup 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/111456_CASACARDS_APP.png",
+            "team_1": "Aston Villa",
+            "team_2": "Crystal Palace",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2024-25",
+            "match_name": "Aston Villa vs Crystal Palace",
+            "match_id": 111456,
             "startTime": "01:15:00 AM 31-10-2024"
         }
     ]
