@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:20:47 PM 31-10-2024",
+    "last update time": "03:30:52 PM 31-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "02:00:00 PM 31-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/7Wv3uaT4Ra6M-eFDZ7mMqA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112005_english_hls_5707ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Riyadh Golf Club (Aramco Team Series Presented by PIF - Riyadh)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/07/LET-Aramco-Team-Series_old-match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Riyadh Golf Club",
+            "status": "LIVE",
+            "event_name": "Aramco Team Series Presented by PIF - Riyadh",
+            "match_name": "Day 1",
+            "match_id": 112176,
+            "startTime": "03:30:00 PM 31-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/O5wxX3rzS7aAzgW3yTSatg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112176_english_hls_5594ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "India vs Pakistan",
             "match_id": 111903,
             "startTime": "11:30:00 AM 01-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England vs Australia (Hong Kong Sixes, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111904_4594_ENG_AUS_fc-web.jpg",
-            "team_1": "England",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2024",
-            "match_name": "England vs Australia",
-            "match_id": 111904,
-            "startTime": "12:25:00 PM 01-11-2024"
         }
     ]
 }
