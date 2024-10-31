@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:18:22 AM 01-11-2024",
+    "last update time": "04:28:27 AM 01-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "11:30:00 PM 31-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/ubrT3tO2R4eBM74QEmgt9w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109440_english_hls_6129ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Scotland vs USA (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110642_3908_USA_SCO_fc-web.jpg",
-            "team_1": "Scotland",
-            "team_2": "USA",
-            "status": "LIVE",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Scotland vs USA",
-            "match_id": 110642,
-            "startTime": "09:00:00 PM 31-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/AmkOKFxpTae0nNJht8TH-w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110642_english_hls_6211ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -162,6 +148,30 @@
             "match_name": "Titans vs Fireox Unit CC",
             "match_id": 111794,
             "startTime": "10:00:00 AM 01-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Overseas vs Gozo Zalmi (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
+            "team_1": "Overseas",
+            "team_2": "Gozo Zalmi",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Overseas vs Gozo Zalmi",
+            "match_id": 111574,
+            "startTime": "01:00:00 PM 01-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Overseas vs Victoria Lions (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
+            "team_1": "Overseas",
+            "team_2": "Victoria Lions",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Overseas vs Victoria Lions",
+            "match_id": 111575,
+            "startTime": "03:00:00 PM 01-11-2024"
         }
     ]
 }
