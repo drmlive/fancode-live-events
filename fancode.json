@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:57:28 AM 31-10-2024",
+    "last update time": "09:07:33 AM 31-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/SA-vs-BAN-Old-(1).jpg",
             "team_1": "South Africa",
             "team_2": "Bangladesh",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "South Africa tour of Bangladesh, 2024",
             "match_name": "South Africa vs Bangladesh",
             "match_id": 110623,
-            "startTime": "09:30:00 AM 29-10-2024"
+            "startTime": "09:30:00 AM 29-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/YyNg_DqNR5uvK0dQQmfj3Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110623_english_hls_5957ta-di/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -103,6 +105,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "England vs Nepal (Hong Kong Sixes, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111898_4594_ENG_NEP_fc-web.jpg",
+            "team_1": "England",
+            "team_2": "Nepal",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2024",
+            "match_name": "England vs Nepal",
+            "match_id": 111898,
+            "startTime": "06:55:00 AM 01-11-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Combined Campuses and Colleges vs Guyana Harpy Eagles (CG United Super50 Cup, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112011_4596_CCC_GUY_fc-web.jpg",
             "team_1": "Combined Campuses and Colleges",
@@ -136,18 +150,6 @@
             "match_name": "Gzira United vs Marsa",
             "match_id": 111573,
             "startTime": "07:15:00 PM 31-10-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England vs Nepal (Hong Kong Sixes, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111898_4594_ENG_NEP_fc-web.jpg",
-            "team_1": "England",
-            "team_2": "Nepal",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2024",
-            "match_name": "England vs Nepal",
-            "match_id": 111898,
-            "startTime": "06:55:00 AM 01-11-2024"
         }
     ]
 }
