@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:47:54 AM 31-10-2024",
+    "last update time": "09:58:00 AM 31-10-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "09:30:00 AM 29-10-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/YyNg_DqNR5uvK0dQQmfj3Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110623_english_hls_5957ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "New York Yankees vs Los Angeles Dodgers (MLB)",
-            "src": "https://images.fancode.com/aig/match/v1/112384_CASACARDS_APP.png",
-            "team_1": "New York Yankees",
-            "team_2": "Los Angeles Dodgers",
-            "status": "LIVE",
-            "event_name": "MLB",
-            "match_name": "New York Yankees vs Los Angeles Dodgers",
-            "match_id": 112384,
-            "startTime": "05:38:00 AM 31-10-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/QAPzO2oHSxioszDOhNWDgQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112384_english_hls_5198ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +136,18 @@
             "match_name": "Gzira United vs Marsa",
             "match_id": 111573,
             "startTime": "07:15:00 PM 31-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs United Arab Emirates (Hong Kong Sixes, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111899_4594_PAK_UAE_fc-web.jpg",
+            "team_1": "Pakistan",
+            "team_2": "United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2024",
+            "match_name": "Pakistan vs United Arab Emirates",
+            "match_id": 111899,
+            "startTime": "07:50:00 AM 01-11-2024"
         }
     ]
 }
