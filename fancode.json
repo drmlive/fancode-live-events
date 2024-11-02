@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:20:16 PM 02-11-2024",
+    "last update time": "08:30:22 PM 02-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -89,20 +89,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Kenya Women vs Rwanda Women (Kenya Women tour of Rwanda, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kenya-Women-tour-of-Rwanda-Old.png",
-            "team_1": "Kenya Women",
-            "team_2": "Rwanda Women",
-            "status": "LIVE",
-            "event_name": "Kenya Women tour of Rwanda, 2024",
-            "match_name": "Kenya Women vs Rwanda Women",
-            "match_id": 112007,
-            "startTime": "04:30:00 PM 02-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/b6YLtiPNQYymSCVcMb9niw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112007_english_hls_5964ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "New Zealand vs England (Hong Kong Sixes, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_ENG_fc-web_1730551916332.jpg",
             "team_1": "New Zealand",
@@ -160,6 +146,18 @@
             "match_name": "Australia vs Pakistan",
             "match_id": 111921,
             "startTime": "10:20:00 AM 03-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs Bangladesh (Hong Kong Sixes, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Sri Lanka",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2024",
+            "match_name": "Sri Lanka vs Bangladesh",
+            "match_id": 111922,
+            "startTime": "11:10:00 AM 03-11-2024"
         }
     ]
 }
