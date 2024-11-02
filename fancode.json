@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:46:25 PM 02-11-2024",
+    "last update time": "01:56:31 PM 02-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "01:15:00 PM 02-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/mrww2H87S0OB01K3o-B9Wg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111915_english_hls_5888ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs United Arab Emirates (Hong Kong Sixes, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-BANG_fc-web.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "United Arab Emirates",
+            "status": "LIVE",
+            "event_name": "Hong Kong Sixes, 2024",
+            "match_name": "Bangladesh vs United Arab Emirates",
+            "match_id": 111916,
+            "startTime": "02:10:00 PM 02-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/xofvRCPWQpOv-bouZ7BwOA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111916_english_hls_8885ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -60,16 +74,18 @@
             "adfree_url": "https://dai.fancode.com/primary/109887_english_hls_5345adfreeta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs United Arab Emirates (Hong Kong Sixes, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE-vs-BANG_fc-web.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "United Arab Emirates",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2024",
-            "match_name": "Bangladesh vs United Arab Emirates",
-            "match_id": 111916,
-            "startTime": "02:10:00 PM 02-11-2024"
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Adelaide United (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110908_4567_SYW_ADL_fc-web_1728983127249.jpg",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Adelaide United",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Western Sydney Wanderers vs Adelaide United",
+            "match_id": 110908,
+            "startTime": "02:05:00 PM 02-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/1xq8T8wiSg2GO8PsYHq7ng/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110908_english_hls_5871ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +158,6 @@
             "match_name": "Australia vs Pakistan",
             "match_id": 111921,
             "startTime": "10:20:00 AM 03-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malta Women vs Bulgaria Women (ECI-W Malta-Bulgaria, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Bulgaria-old.jpg",
-            "team_1": "Malta Women",
-            "team_2": "Bulgaria Women",
-            "status": "UPCOMING",
-            "event_name": "ECI-W Malta-Bulgaria, 2024",
-            "match_name": "Malta Women vs Bulgaria Women",
-            "match_id": 112387,
-            "startTime": "03:00:00 PM 02-11-2024"
         }
     ]
 }
