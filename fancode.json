@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:32:33 PM 02-11-2024",
+    "last update time": "10:42:38 PM 02-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -70,20 +70,6 @@
             "startTime": "10:30:00 PM 02-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/j5ij7c21Sey1SayJgUISfQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110514_english_hls_5277ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Preston North End vs Bristol City (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109828_4352_PST_BRI_fc-web.jpg",
-            "team_1": "Preston North End",
-            "team_2": "Bristol City",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Preston North End vs Bristol City",
-            "match_id": 109828,
-            "startTime": "08:30:00 PM 02-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/s3kg2YOdQiKdwwmQ5hAbDQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109828_english_hls_5436ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +144,18 @@
             "match_name": "Australia vs Pakistan",
             "match_id": 111921,
             "startTime": "10:20:00 AM 03-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs Bangladesh (Hong Kong Sixes, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Sri Lanka",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2024",
+            "match_name": "Sri Lanka vs Bangladesh",
+            "match_id": 111922,
+            "startTime": "11:10:00 AM 03-11-2024"
         }
     ]
 }
