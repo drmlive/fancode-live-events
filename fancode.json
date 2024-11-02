@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:40:28 PM 02-11-2024",
+    "last update time": "08:50:34 PM 02-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -89,6 +89,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "USA vs Nepal (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110643_3908_USA_NEP_fc-web.jpg",
+            "team_1": "USA",
+            "team_2": "Nepal",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "USA vs Nepal",
+            "match_id": 110643,
+            "startTime": "09:00:00 PM 02-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/eFhEf48kTHGsY25k2Zt4DQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110643_english_hls_4835ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "New Zealand vs England (Hong Kong Sixes, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_ENG_fc-web_1730551916332.jpg",
             "team_1": "New Zealand",
@@ -146,18 +160,6 @@
             "match_name": "Australia vs Pakistan",
             "match_id": 111921,
             "startTime": "10:20:00 AM 03-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs Bangladesh (Hong Kong Sixes, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Sri Lanka",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2024",
-            "match_name": "Sri Lanka vs Bangladesh",
-            "match_id": 111922,
-            "startTime": "11:10:00 AM 03-11-2024"
         }
     ]
 }
