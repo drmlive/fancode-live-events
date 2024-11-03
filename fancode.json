@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:27:47 AM 03-11-2024",
+    "last update time": "08:37:52 AM 03-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_OMN_fc-web.jpg",
             "team_1": "India",
             "team_2": "Oman",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Hong Kong Sixes, 2024",
             "match_name": "India vs Oman",
             "match_id": 111920,
-            "startTime": "08:45:00 AM 03-11-2024"
+            "startTime": "08:45:00 AM 03-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/8c4JZ8HzQy2nvgI5-WzIvg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111920_english_hls_4901ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -90,6 +92,30 @@
             "startTime": "01:55:00 PM 03-11-2024"
         },
         {
+            "event_category": "Football",
+            "title": "Consadole Sapporo vs Cerezo Osaka (J League 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111202_3921_SAP_OSA_fc-web.jpg",
+            "team_1": "Consadole Sapporo",
+            "team_2": "Cerezo Osaka",
+            "status": "UPCOMING",
+            "event_name": "J League 2024",
+            "match_name": "Consadole Sapporo vs Cerezo Osaka",
+            "match_id": 111202,
+            "startTime": "09:30:00 AM 03-11-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Kyoto Sanga (J League 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111205_3921_HIR_KYS_fc-web.jpg",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Kyoto Sanga",
+            "status": "UPCOMING",
+            "event_name": "J League 2024",
+            "match_name": "Sanfrecce Hiroshima vs Kyoto Sanga",
+            "match_id": 111205,
+            "startTime": "09:30:00 AM 03-11-2024"
+        },
+        {
             "event_category": "Cricket",
             "title": "Malta Women vs Bulgaria Women (ECI-W Malta-Bulgaria, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Bulgaria-old.jpg",
@@ -124,30 +150,6 @@
             "match_name": "Malta vs Czechia",
             "match_id": 112392,
             "startTime": "05:00:00 PM 03-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Galfar Al Misnad vs Asian CC (Qatar Pro League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111800_4593_GAM_ACC_fc-web.jpg",
-            "team_1": "Galfar Al Misnad",
-            "team_2": "Asian CC",
-            "status": "UPCOMING",
-            "event_name": "Qatar Pro League, 2024",
-            "match_name": "Galfar Al Misnad vs Asian CC",
-            "match_id": 111800,
-            "startTime": "05:30:00 PM 03-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Harpy Eagles vs Barbados Pride (CG United Super50 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112014_4596_GUY_BAR_fc-web.jpg",
-            "team_1": "Guyana Harpy Eagles",
-            "team_2": "Barbados Pride",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2024",
-            "match_name": "Guyana Harpy Eagles vs Barbados Pride",
-            "match_id": 112014,
-            "startTime": "06:30:00 PM 03-11-2024"
         }
     ]
 }
