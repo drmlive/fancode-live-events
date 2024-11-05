@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:43:31 PM 05-11-2024",
+    "last update time": "10:53:36 PM 05-11-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -14,20 +14,6 @@
             "match_name": "Al-Nassr vs Al Ain",
             "match_id": 108668,
             "startTime": "11:30:00 PM 05-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Dubai vs Sharjah (Emirates D20, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111686_4589_DUB_SHA_fc-web.jpg",
-            "team_1": "Dubai",
-            "team_2": "Sharjah",
-            "status": "LIVE",
-            "event_name": "Emirates D20, 2024",
-            "match_name": "Dubai vs Sharjah",
-            "match_id": 111686,
-            "startTime": "07:00:00 PM 05-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/tzi9UcxnS7KNa_v9Vd6M1A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111686_english_hls_5534ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -56,6 +42,20 @@
             "startTime": "10:30:00 PM 05-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/DbKTkuB-T56EdgPirSkI9w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112396_english_hls_6212ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman vs Emirates Blues (Emirates D20, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111687_4589_EMB_AJM_fc-web.jpg",
+            "team_1": "Ajman",
+            "team_2": "Emirates Blues",
+            "status": "LIVE",
+            "event_name": "Emirates D20, 2024",
+            "match_name": "Ajman vs Emirates Blues",
+            "match_id": 111687,
+            "startTime": "11:00:00 PM 05-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/A5qgbM75TXCrzIGevi632g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111687_english_hls_6092ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -111,20 +111,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ajman vs Emirates Blues (Emirates D20, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111687_4589_EMB_AJM_fc-web.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Blues",
-            "status": "LIVE",
-            "event_name": "Emirates D20, 2024",
-            "match_name": "Ajman vs Emirates Blues",
-            "match_id": 111687,
-            "startTime": "11:00:00 PM 05-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/A5qgbM75TXCrzIGevi632g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111687_english_hls_6092ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Afghanistan vs Bangladesh (Afghanistan vs Bangladesh tour in UAE, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png",
             "team_1": "Afghanistan",
@@ -158,6 +144,18 @@
             "match_name": "Plymouth Argyle vs Portsmouth",
             "match_id": 109830,
             "startTime": "01:30:00 AM 06-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Uganda vs Singapore (ICC CWC Challenge League B, 2024-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Uganda",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC Challenge League B, 2024-26",
+            "match_name": "Uganda vs Singapore",
+            "match_id": 112296,
+            "startTime": "12:30:00 PM 06-11-2024"
         }
     ]
 }
