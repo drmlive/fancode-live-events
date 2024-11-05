@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:00:44 PM 05-11-2024",
+    "last update time": "06:11:00 PM 05-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -51,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112016_4596_JAM_WIS_fc-web.jpg",
             "team_1": "Jamaica Scorpions",
             "team_2": "Windward Islands Volcanoes",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "CG United Super50 Cup, 2024",
             "match_name": "Jamaica Scorpions vs Windward Islands Volcanoes",
             "match_id": 112016,
-            "startTime": "06:30:00 PM 05-11-2024"
+            "startTime": "06:30:00 PM 05-11-2024",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -107,6 +109,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Afghanistan vs Bangladesh (Afghanistan vs Bangladesh tour in UAE, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png",
+            "team_1": "Afghanistan",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan vs Bangladesh tour in UAE, 2024",
+            "match_name": "Afghanistan vs Bangladesh",
+            "match_id": 110863,
+            "startTime": "03:30:00 PM 06-11-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Phantom CC vs Fireox Unit CC (Qatar Pro League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg",
             "team_1": "Phantom CC",
@@ -140,18 +154,6 @@
             "match_name": "Emirates Blues vs Ajman",
             "match_id": 111687,
             "startTime": "11:00:00 PM 05-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Afghanistan vs Bangladesh (Afghanistan vs Bangladesh tour in UAE, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png",
-            "team_1": "Afghanistan",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "event_name": "Afghanistan vs Bangladesh tour in UAE, 2024",
-            "match_name": "Afghanistan vs Bangladesh",
-            "match_id": 110863,
-            "startTime": "03:30:00 PM 06-11-2024"
         }
     ]
 }
