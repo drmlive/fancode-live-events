@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:24:55 AM 06-11-2024",
+    "last update time": "01:35:00 AM 06-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Al-Nassr vs Al Ain (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108668_4475_ANF_AAI_fc-web.jpg",
-            "team_1": "Al-Nassr",
-            "team_2": "Al Ain",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al-Nassr vs Al Ain",
-            "match_id": 108668,
-            "startTime": "11:30:00 PM 05-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/qAAsfRj7SxK5_iEDmu2zpQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108668_english_hls_8748ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Plymouth Argyle vs Portsmouth (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/109830_4352_PLY_PRM_fc-web.jpg",
             "team_1": "Plymouth Argyle",
@@ -72,20 +58,6 @@
             "startTime": "06:30:00 PM 05-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/Vnc3QNjLRJaqpYEI3ir1jg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112016_english_hls_5404ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sepahan vs Sharjah (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108753_4476_SEP_SHJ_fc-web.jpg",
-            "team_1": "Sepahan",
-            "team_2": "Sharjah",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Sepahan vs Sharjah",
-            "match_id": 108753,
-            "startTime": "11:30:00 PM 05-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/Vjz-oxPDTP-J7XESY1EQjw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108753_english_hls_6693ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -125,18 +97,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Uganda vs Singapore (ICC CWC Challenge League B, 2024-26)",
-            "src": "https://images.fancode.com/aig/match/v1/112296_CASACARDS_APP.png",
-            "team_1": "Uganda",
-            "team_2": "Singapore",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC Challenge League B, 2024-26",
-            "match_name": "Uganda vs Singapore",
-            "match_id": 112296,
-            "startTime": "12:30:00 PM 06-11-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies vs England (England tour of West Indies, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-old-match-card_1729755047624.png",
             "team_1": "West Indies",
@@ -149,6 +109,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Uganda vs Singapore (ICC CWC Challenge League B, 2024-26)",
+            "src": "https://images.fancode.com/aig/match/v1/112296_CASACARDS_APP.png",
+            "team_1": "Uganda",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC Challenge League B, 2024-26",
+            "match_name": "Uganda vs Singapore",
+            "match_id": 112296,
+            "startTime": "12:30:00 PM 06-11-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Bugibba Blasters vs Southern Crusaders (ECS Malta, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
             "team_1": "Bugibba Blasters",
@@ -158,6 +130,30 @@
             "match_name": "Bugibba Blasters vs Southern Crusaders",
             "match_id": 111586,
             "startTime": "01:00:00 PM 06-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Southern Crusaders vs American University of Malta (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
+            "team_1": "Southern Crusaders",
+            "team_2": "American University of Malta",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Southern Crusaders vs American University of Malta",
+            "match_id": 111587,
+            "startTime": "03:00:00 PM 06-11-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Pohang Steelers vs Shandong Taishan (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108673_4475_PHG_SHD_fc-web.jpg",
+            "team_1": "Pohang Steelers",
+            "team_2": "Shandong Taishan",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Pohang Steelers vs Shandong Taishan",
+            "match_id": 108673,
+            "startTime": "03:30:00 PM 06-11-2024"
         }
     ]
 }
