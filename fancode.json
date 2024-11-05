@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:10:18 PM 05-11-2024",
+    "last update time": "05:20:23 PM 05-11-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "SDCA vs Recreation Club (Ecole T20 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112312_4608_RCU_SCA_fc-app_fc-web_1730730017784.jpg",
-            "team_1": "SDCA",
-            "team_2": "Recreation Club",
-            "status": "LIVE",
-            "event_name": "Ecole T20 Cup, 2024",
-            "match_name": "SDCA vs Recreation Club",
-            "match_id": 112312,
-            "startTime": "02:00:00 PM 05-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/yrb3TmFBQQ6cc1wpR_gNdw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112312_english_hls_5344ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Gozo Zalmi vs Mater Dei (ECS Malta, 2024)",
@@ -61,6 +47,34 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Titans vs CBCC (Qatar Pro League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111804_4593_CBC_TTS_fc-web.jpg",
+            "team_1": "Titans",
+            "team_2": "CBCC",
+            "status": "LIVE",
+            "event_name": "Qatar Pro League, 2024",
+            "match_name": "Titans vs CBCC",
+            "match_id": 111804,
+            "startTime": "05:30:00 PM 05-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/iP8-dVWARl2Mbl6TtINKeA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111804_english_hls_8376ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Johor Darul Ta'zim vs Ulsan HD (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108672_4475_JDT_ULS_fc-web.jpg",
+            "team_1": "Johor Darul Ta'zim",
+            "team_2": "Ulsan HD",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Johor Darul Ta'zim vs Ulsan HD",
+            "match_id": 108672,
+            "startTime": "05:30:00 PM 05-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/YEc3l8xYQqepS5swDFjGFQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108672_english_hls_5455ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Netherlands vs Oman (ICC CWC League 2, 2023-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/111769_3908_OMN_NED_fc-web.jpg",
             "team_1": "Netherlands",
@@ -72,30 +86,6 @@
             "startTime": "11:30:00 AM 05-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/RRzrCIH-QD6pGkBWP4J1PA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111769_english_hls_6108ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "CBCC vs Titans (Qatar Pro League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111804_4593_CBC_TTS_fc-web.jpg",
-            "team_1": "CBCC",
-            "team_2": "Titans",
-            "status": "UPCOMING",
-            "event_name": "Qatar Pro League, 2024",
-            "match_name": "CBCC vs Titans",
-            "match_id": 111804,
-            "startTime": "05:30:00 PM 05-11-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Johor Darul Ta'zim vs Ulsan HD (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108672_4475_JDT_ULS_fc-web.jpg",
-            "team_1": "Johor Darul Ta'zim",
-            "team_2": "Ulsan HD",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Johor Darul Ta'zim vs Ulsan HD",
-            "match_id": 108672,
-            "startTime": "05:30:00 PM 05-11-2024"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +146,18 @@
             "match_name": "Red Stars vs Gozo Zalmi",
             "match_id": 111585,
             "startTime": "07:15:00 PM 05-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Phantom CC vs Fireox Unit CC (Qatar Pro League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg",
+            "team_1": "Phantom CC",
+            "team_2": "Fireox Unit CC",
+            "status": "UPCOMING",
+            "event_name": "Qatar Pro League, 2024",
+            "match_name": "Phantom CC vs Fireox Unit CC",
+            "match_id": 111805,
+            "startTime": "09:30:00 PM 05-11-2024"
         }
     ]
 }
