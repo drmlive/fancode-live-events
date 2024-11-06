@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:36:53 PM 06-11-2024",
+    "last update time": "10:46:58 PM 06-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,6 +56,20 @@
             "startTime": "10:30:00 PM 06-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/KJfBLEttS9q6_NCGvrSPJg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110516_english_hls_5648ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman vs Dubai (Emirates D20, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111689_4589_DUB_AJM_fc-web.jpg",
+            "team_1": "Ajman",
+            "team_2": "Dubai",
+            "status": "LIVE",
+            "event_name": "Emirates D20, 2024",
+            "match_name": "Ajman vs Dubai",
+            "match_id": 111689,
+            "startTime": "11:00:00 PM 06-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/Huc6NzEBRYm4tBv09Ni-Pg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111689_english_hls_6243ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -128,32 +142,6 @@
             "adfree_url": "https://dai.fancode.com/primary/112799_english_hls_8379ta-di/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Fujairah vs Emirates Blues (Emirates D20, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111688_4589_EMB_FUJ_fc-web.jpg",
-            "team_1": "Fujairah",
-            "team_2": "Emirates Blues",
-            "status": "LIVE",
-            "event_name": "Emirates D20, 2024",
-            "match_name": "Fujairah vs Emirates Blues",
-            "match_id": 111688,
-            "startTime": "07:00:00 PM 06-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/XWMh_c0lTEinjaZFmydKOw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111688_english_hls_6293ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ajman vs Dubai (Emirates D20, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111689_4589_DUB_AJM_fc-web.jpg",
-            "team_1": "Ajman",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "event_name": "Emirates D20, 2024",
-            "match_name": "Ajman vs Dubai",
-            "match_id": 111689,
-            "startTime": "11:00:00 PM 06-11-2024"
-        },
-        {
             "event_category": "Football",
             "title": "Preston North End vs Sunderland (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/109832_4352_PST_SUN_fc-web.jpg",
@@ -164,6 +152,18 @@
             "match_name": "Preston North End vs Sunderland",
             "match_id": 109832,
             "startTime": "01:30:00 AM 07-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Solapur Stars XI vs SDCA (Ecole T20 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112315_4608_SSX_SCA_fc-app_fc-web_1730730043357.jpg",
+            "team_1": "Solapur Stars XI",
+            "team_2": "SDCA",
+            "status": "UPCOMING",
+            "event_name": "Ecole T20 Cup, 2024",
+            "match_name": "Solapur Stars XI vs SDCA",
+            "match_id": 112315,
+            "startTime": "10:00:00 AM 07-11-2024"
         }
     ]
 }
