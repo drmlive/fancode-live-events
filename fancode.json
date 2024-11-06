@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:04:18 PM 06-11-2024",
+    "last update time": "07:14:28 PM 06-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -100,6 +100,20 @@
             "adfree_url": "https://dai.fancode.com/primary/108801_english_hls_9896ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Nasaf vs Al Hussein (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108765_4476_NQ_HUS_fc-web.jpg",
+            "team_1": "Nasaf",
+            "team_2": "Al Hussein",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Nasaf vs Al Hussein",
+            "match_id": 108765,
+            "startTime": "07:30:00 PM 06-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/sUbN2lYkQWqrigm4XeUfIA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108765_english_hls_6105ta-di/index.m3u8"
+        },
+        {
             "event_category": "Live Events",
             "title": "Court 2, Brazil vs Rio de Janerio (Volleyball Beach Pro Tour)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(2).png",
@@ -129,27 +143,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Nasaf vs Al Hussein (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108765_4476_NQ_HUS_fc-web.jpg",
-            "team_1": "Nasaf",
-            "team_2": "Al Hussein",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Nasaf vs Al Hussein",
-            "match_id": 108765,
-            "startTime": "07:30:00 PM 06-11-2024"
-        },
-        {
-            "event_category": "Football",
             "title": "Altyn Asyr vs Al-Taawoun (AFC Champions League Two 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/108741_4476_AA_ALTW_fc-web.jpg",
             "team_1": "Altyn Asyr",
             "team_2": "Al-Taawoun",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Two 2024-25",
             "match_name": "Altyn Asyr vs Al-Taawoun",
             "match_id": 108741,
-            "startTime": "07:30:00 PM 06-11-2024"
+            "startTime": "07:30:00 PM 06-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ikwK4QitSS65HbyemRHZCA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108741_english_hls_8796ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
