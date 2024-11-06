@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:10:28 PM 06-11-2024",
+    "last update time": "12:20:33 PM 06-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -31,6 +31,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Singapore vs Uganda (ICC CWC Challenge League B, 2024-26)",
+            "src": "https://images.fancode.com/aig/match/v1/112296_CASACARDS_APP.png",
+            "team_1": "Singapore",
+            "team_2": "Uganda",
+            "status": "LIVE",
+            "event_name": "ICC CWC Challenge League B, 2024-26",
+            "match_name": "Singapore vs Uganda",
+            "match_id": 112296,
+            "startTime": "12:30:00 PM 06-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/KfJaKAf_R1CbKn6z6_Tbrg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112296_english_hls_5770ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Rajasthan Royals Academy vs Recreation Club (Ecole T20 Cup, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112314_4608_RRC_RCU_fc-app_fc-web_1730730017774.jpg",
             "team_1": "Rajasthan Royals Academy",
@@ -55,25 +69,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Singapore vs Uganda (ICC CWC Challenge League B, 2024-26)",
-            "src": "https://images.fancode.com/aig/match/v1/112296_CASACARDS_APP.png",
-            "team_1": "Singapore",
-            "team_2": "Uganda",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC Challenge League B, 2024-26",
-            "match_name": "Singapore vs Uganda",
-            "match_id": 112296,
-            "startTime": "12:30:00 PM 06-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bugibba Blasters vs Southern Crusaders (ECS Malta, 2024)",
+            "title": "Southern Crusaders vs Bugibba Blasters (ECS Malta, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
-            "team_1": "Bugibba Blasters",
-            "team_2": "Southern Crusaders",
+            "team_1": "Southern Crusaders",
+            "team_2": "Bugibba Blasters",
             "status": "UPCOMING",
             "event_name": "ECS Malta, 2024",
-            "match_name": "Bugibba Blasters vs Southern Crusaders",
+            "match_name": "Southern Crusaders vs Bugibba Blasters",
             "match_id": 111586,
             "startTime": "01:00:00 PM 06-11-2024"
         },
@@ -138,16 +140,16 @@
             "startTime": "07:15:00 PM 06-11-2024"
         },
         {
-            "event_category": "Football",
-            "title": "Yokohama F. Marinos vs Buriram United (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108674_4475_YKFM_BU_fc-web.jpg",
-            "team_1": "Yokohama F. Marinos",
-            "team_2": "Buriram United",
+            "event_category": "Cricket",
+            "title": "Solapur Stars XI vs SDCA (Ecole T20 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112315_4608_SSX_SCA_fc-app_fc-web_1730730043357.jpg",
+            "team_1": "Solapur Stars XI",
+            "team_2": "SDCA",
             "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Yokohama F. Marinos vs Buriram United",
-            "match_id": 108674,
-            "startTime": "03:30:00 PM 06-11-2024"
+            "event_name": "Ecole T20 Cup, 2024",
+            "match_name": "Solapur Stars XI vs SDCA",
+            "match_id": 112315,
+            "startTime": "10:00:00 AM 07-11-2024"
         }
     ]
 }
