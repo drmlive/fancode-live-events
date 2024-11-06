@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:15:58 PM 06-11-2024",
+    "last update time": "09:26:13 PM 06-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -110,8 +110,8 @@
             "match_name": "Khaldiya vs Al Quwa Al Jawiya",
             "match_id": 108742,
             "startTime": "09:30:00 PM 06-11-2024",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Yb1-CbZqSUyaen9rUv7dKw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108742_english_hls_9655ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -157,17 +157,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Asian CC vs Phantom CC (Qatar Pro League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111784_4593_PHC_ACC_fc-web.jpg",
-            "team_1": "Asian CC",
-            "team_2": "Phantom CC",
-            "status": "LIVE",
-            "event_name": "Qatar Pro League, 2024",
-            "match_name": "Asian CC vs Phantom CC",
-            "match_id": 111806,
-            "startTime": "05:30:00 PM 06-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/FaZLQrvlQKCmW0HVaneipQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111806_english_hls_3236ta-di/index.m3u8"
+            "title": "Stack CC vs Al Hajery Team XI (KCC T20 Elite Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
+            "team_1": "Stack CC",
+            "team_2": "Al Hajery Team XI",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Elite Cup, 2024",
+            "match_name": "Stack CC vs Al Hajery Team XI",
+            "match_id": 110516,
+            "startTime": "10:30:00 PM 06-11-2024"
         }
     ]
 }
