@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:01:54 PM 06-11-2024",
+    "last update time": "03:11:59 PM 06-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png",
             "team_1": "Afghanistan",
             "team_2": "Bangladesh",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Afghanistan vs Bangladesh tour in UAE, 2024",
             "match_name": "Afghanistan vs Bangladesh",
             "match_id": 110863,
-            "startTime": "03:30:00 PM 06-11-2024"
+            "startTime": "03:30:00 PM 06-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/1vUppoaARPK0tNcreJkfkQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110863_english_hls_2430ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -71,18 +73,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Yokohama F. Marinos vs Buriram United (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108674_4475_YKFM_BU_fc-web.jpg",
-            "team_1": "Yokohama F. Marinos",
-            "team_2": "Buriram United",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Yokohama F. Marinos vs Buriram United",
-            "match_id": 108674,
-            "startTime": "03:30:00 PM 06-11-2024"
-        },
-        {
-            "event_category": "Football",
             "title": "Pohang Steelers vs Shandong Taishan (AFC Champions League Elite 2024-25)",
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108673_4475_PHG_SHD_fc-web.jpg",
             "team_1": "Pohang Steelers",
@@ -91,6 +81,18 @@
             "event_name": "AFC Champions League Elite 2024-25",
             "match_name": "Pohang Steelers vs Shandong Taishan",
             "match_id": 108673,
+            "startTime": "03:30:00 PM 06-11-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Yokohama F. Marinos vs Buriram United (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108674_4475_YKFM_BU_fc-web.jpg",
+            "team_1": "Yokohama F. Marinos",
+            "team_2": "Buriram United",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Yokohama F. Marinos vs Buriram United",
+            "match_id": 108674,
             "startTime": "03:30:00 PM 06-11-2024"
         },
         {
