@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:36:18 PM 06-11-2024",
+    "last update time": "09:46:24 PM 06-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -128,20 +128,6 @@
             "adfree_url": "https://dai.fancode.com/primary/112799_english_hls_8379ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Nasaf vs Al Hussein (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108765_4476_NQ_HUS_fc-web.jpg",
-            "team_1": "Nasaf",
-            "team_2": "Al Hussein",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Nasaf vs Al Hussein",
-            "match_id": 108765,
-            "startTime": "07:30:00 PM 06-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/sUbN2lYkQWqrigm4XeUfIA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108765_english_hls_6105ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Stack CC vs Al Hajery Team XI (KCC T20 Elite Cup, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
@@ -164,6 +150,18 @@
             "match_name": "Dubai vs Ajman",
             "match_id": 111689,
             "startTime": "11:00:00 PM 06-11-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Preston North End vs Sunderland (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109832_4352_PST_SUN_fc-web.jpg",
+            "team_1": "Preston North End",
+            "team_2": "Sunderland",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Preston North End vs Sunderland",
+            "match_id": 109832,
+            "startTime": "01:30:00 AM 07-11-2024"
         }
     ]
 }
