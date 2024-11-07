@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:50:54 AM 08-11-2024",
+    "last update time": "01:00:59 AM 08-11-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Phantom CC vs Fireox Unit CC (Qatar Pro League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111805_4593_PHC_FCC_fc-web.jpg",
-            "team_1": "Phantom CC",
-            "team_2": "Fireox Unit CC",
-            "status": "LIVE",
-            "event_name": "Qatar Pro League, 2024",
-            "match_name": "Phantom CC vs Fireox Unit CC",
-            "match_id": 111808,
-            "startTime": "09:00:00 PM 07-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/mEy7wtV1STuA7dOLtwDcTw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111808_english_hls_7117ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Ai Octopus Challengers vs Going Global (KCC T20 Challengers A League, 2024-25)",
@@ -44,6 +30,20 @@
             "startTime": "11:00:00 PM 07-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/TTUJtT6DSCidi3kljKTYYA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111691_english_hls_5089ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "SBS CC vs Strikers Afghan (KCC T20 Challengers A League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112398_4616_STX_SBS_fc-web.jpg",
+            "team_1": "SBS CC",
+            "team_2": "Strikers Afghan",
+            "status": "LIVE",
+            "event_name": "KCC T20 Challengers A League, 2024-25",
+            "match_name": "SBS CC vs Strikers Afghan",
+            "match_id": 112398,
+            "startTime": "01:15:00 AM 08-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/f6Y7ZMVYS2CBu_gBcBdlRQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112398_english_hls_8443ta-no/index.m3u8"
         },
         {
             "event_category": "Basketball",
@@ -88,16 +88,18 @@
             "adfree_url": "https://dai.fancode.com/primary/112047_english_hls_9637ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "SBS CC vs Strikers Afghan (KCC T20 Challengers A League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112398_4616_STX_SBS_fc-web.jpg",
-            "team_1": "SBS CC",
-            "team_2": "Strikers Afghan",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "SBS CC vs Strikers Afghan",
-            "match_id": 112398,
-            "startTime": "01:15:00 AM 08-11-2024"
+            "event_category": "Basketball",
+            "title": "Bayern Munich vs Zalgiris Kaunas (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/111746_CASACARDS_APP.png",
+            "team_1": "Bayern Munich",
+            "team_2": "Zalgiris Kaunas",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Bayern Munich vs Zalgiris Kaunas",
+            "match_id": 111746,
+            "startTime": "01:15:00 AM 08-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/j-HnniJnT8SNS1j0YUE6jA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111746_english_hls_5601ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -146,6 +148,18 @@
             "match_name": "Royal Strikers vs American University of Malta",
             "match_id": 111594,
             "startTime": "01:00:00 PM 08-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Solapur Stars XI vs Recreation Club (Ecole T20 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112318_4608_SSX_RCU_fc-app_fc-web_1730730801799.jpg",
+            "team_1": "Solapur Stars XI",
+            "team_2": "Recreation Club",
+            "status": "UPCOMING",
+            "event_name": "Ecole T20 Cup, 2024",
+            "match_name": "Solapur Stars XI vs Recreation Club",
+            "match_id": 112318,
+            "startTime": "02:00:00 PM 08-11-2024"
         }
     ]
 }
