@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:58:30 PM 08-11-2024",
+    "last update time": "03:08:36 PM 08-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "02:00:00 PM 08-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/O5fKI0BCRMG8bz_ShIsIbQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112318_english_hls_5273ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kuwait Mavericks vs SBS CC (KCC T20 Challengers A League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112400_4616_SBS_KMW_fc-web.jpg",
+            "team_1": "Kuwait Mavericks",
+            "team_2": "SBS CC",
+            "status": "LIVE",
+            "event_name": "KCC T20 Challengers A League, 2024-25",
+            "match_name": "Kuwait Mavericks vs SBS CC",
+            "match_id": 112400,
+            "startTime": "03:15:00 PM 08-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/8p_J-QJRRHax9U6BldEYSA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112400_english_hls_5299ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -58,30 +72,6 @@
             "startTime": "12:30:00 PM 08-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/R7giH2tVQAiqMwXUiXyR7Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112180_english_hls_5312ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kuwait Mavericks vs SBS CC (KCC T20 Challengers A League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112400_4616_SBS_KMW_fc-web.jpg",
-            "team_1": "Kuwait Mavericks",
-            "team_2": "SBS CC",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "Kuwait Mavericks vs SBS CC",
-            "match_id": 112400,
-            "startTime": "03:15:00 PM 08-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Red Stars vs Edex Knights (ECS Malta, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",
-            "team_1": "Red Stars",
-            "team_2": "Edex Knights",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, 2024",
-            "match_name": "Red Stars vs Edex Knights",
-            "match_id": 111596,
-            "startTime": "05:00:00 PM 08-11-2024"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +144,18 @@
             "match_name": "Watford vs Oxford United",
             "match_id": 109836,
             "startTime": "01:30:00 AM 09-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Afghanistan vs Bangladesh (Afghanistan vs Bangladesh tour in UAE, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-and-Bangladesh-tour-of-UAE,-2024-old-match-card-(1).png",
+            "team_1": "Afghanistan",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan vs Bangladesh tour in UAE, 2024",
+            "match_name": "Afghanistan vs Bangladesh",
+            "match_id": 110864,
+            "startTime": "03:30:00 PM 09-11-2024"
         }
     ]
 }
