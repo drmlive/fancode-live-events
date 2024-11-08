@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:35:14 AM 09-11-2024",
+    "last update time": "03:45:19 AM 09-11-2024",
     "matches": [
         {
             "event_category": "Live Events",
@@ -30,20 +30,6 @@
             "startTime": "12:30:00 AM 09-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/PmHpO-r_TOe3NugZ-XVuTA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112051_english_hls_8618ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Watford vs Oxford United (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109836_4352_WAT_OU_fc-web.jpg",
-            "team_1": "Watford",
-            "team_2": "Oxford United",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Watford vs Oxford United",
-            "match_id": 109836,
-            "startTime": "01:30:00 AM 09-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/aSdHynq5S6-sznFdUO0fXA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109836_english_hls_6244ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -107,18 +93,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Southern Crusaders vs Mater Dei (ECS Malta, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
-            "team_1": "Southern Crusaders",
-            "team_2": "Mater Dei",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, 2024",
-            "match_name": "Southern Crusaders vs Mater Dei",
-            "match_id": 111598,
-            "startTime": "01:00:00 PM 09-11-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies vs England (England tour of West Indies, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-T20-old--match-card.png",
             "team_1": "West Indies",
@@ -128,6 +102,18 @@
             "match_name": "West Indies vs England",
             "match_id": 109443,
             "startTime": "01:30:00 AM 10-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Southern Crusaders vs Mater Dei (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
+            "team_1": "Southern Crusaders",
+            "team_2": "Mater Dei",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Southern Crusaders vs Mater Dei",
+            "match_id": 111598,
+            "startTime": "01:00:00 PM 09-11-2024"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Overseas vs Southern Crusaders",
             "match_id": 111599,
             "startTime": "03:00:00 PM 09-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Strikers vs Mater Dei (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",
+            "team_1": "Royal Strikers",
+            "team_2": "Mater Dei",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Royal Strikers vs Mater Dei",
+            "match_id": 111600,
+            "startTime": "05:00:00 PM 09-11-2024"
         }
     ]
 }
