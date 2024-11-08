@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:05:18 AM 08-11-2024",
+    "last update time": "09:15:23 AM 08-11-2024",
     "matches": [
+        {
+            "event_category": "Golf",
+            "title": "Featured Feed - Day 2 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_2.jpg",
+            "team_1": "Featured Feed - Day 2",
+            "team_2": "Yas Links, Abu Dhabi",
+            "status": "LIVE",
+            "event_name": "Abu Dhabi HSBC Championship",
+            "match_name": "Featured Feed - Day 2",
+            "match_id": 112837,
+            "startTime": "09:30:00 AM 08-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/KhPyvxq0TU2-N-iAVLRsSQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112837_english_hls_5638ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "SDCA vs Mavericks Academy (Ecole T20 Cup, 2024)",
@@ -134,18 +148,6 @@
             "match_name": "Galfar Al Misnad vs Fireox Unit CC",
             "match_id": 111809,
             "startTime": "09:00:00 PM 08-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kuwait Swedish vs Stack CC (KCC T20 Elite Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01.jpg",
-            "team_1": "Kuwait Swedish",
-            "team_2": "Stack CC",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Elite Cup, 2024",
-            "match_name": "Kuwait Swedish vs Stack CC",
-            "match_id": 110517,
-            "startTime": "10:30:00 PM 08-11-2024"
         }
     ]
 }
