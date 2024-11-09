@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:30:23 PM 09-11-2024",
+    "last update time": "01:40:29 PM 09-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,20 +14,6 @@
             "match_name": "Afghanistan vs Bangladesh",
             "match_id": 110864,
             "startTime": "03:30:00 PM 09-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mavericks Academy vs Rajasthan Royals Academy (Ecole T20 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112319_4608_RRC_MVA_fc-app_fc-web_1730730837636.jpg",
-            "team_1": "Mavericks Academy",
-            "team_2": "Rajasthan Royals Academy",
-            "status": "LIVE",
-            "event_name": "Ecole T20 Cup, 2024",
-            "match_name": "Mavericks Academy vs Rajasthan Royals Academy",
-            "match_id": 112319,
-            "startTime": "10:00:00 AM 09-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/A41MIk3-SliUK7_hQaDrng/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112319_english_hls_5507ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -114,20 +100,6 @@
             "adfree_url": "https://dai.fancode.com/primary/112181_english_hls_5505ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Brisbane Roar (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110912_4567_MLV_BRB_fc-web_1728983127505.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Brisbane Roar",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Melbourne Victory vs Brisbane Roar",
-            "match_id": 110912,
-            "startTime": "11:30:00 AM 09-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/BGzXGEXjQSmno39sJBymMg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110912_english_hls_5543ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs New Zealand (New Zealand tour of Sri Lanka, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card.jpg",
@@ -153,15 +125,39 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Solapur Stars XI vs Ashtapailu Sports (Ecole T20 Cup, 2024)",
+            "title": "Ashtapailu Sports vs Solapur Stars XI (Ecole T20 Cup, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112320_4608_SSX_APS_fc-app_fc-web_1730730057897.jpg",
-            "team_1": "Solapur Stars XI",
-            "team_2": "Ashtapailu Sports",
+            "team_1": "Ashtapailu Sports",
+            "team_2": "Solapur Stars XI",
             "status": "UPCOMING",
             "event_name": "Ecole T20 Cup, 2024",
-            "match_name": "Solapur Stars XI vs Ashtapailu Sports",
+            "match_name": "Ashtapailu Sports vs Solapur Stars XI",
             "match_id": 112320,
             "startTime": "02:00:00 PM 09-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Overseas vs Southern Crusaders (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_1_1729570461679.jpg",
+            "team_1": "Overseas",
+            "team_2": "Southern Crusaders",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Overseas vs Southern Crusaders",
+            "match_id": 111599,
+            "startTime": "03:00:00 PM 09-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Strikers vs Mater Dei (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",
+            "team_1": "Royal Strikers",
+            "team_2": "Mater Dei",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Royal Strikers vs Mater Dei",
+            "match_id": 111600,
+            "startTime": "05:00:00 PM 09-11-2024"
         }
     ]
 }
