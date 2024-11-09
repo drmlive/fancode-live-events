@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:13:57 PM 09-11-2024",
+    "last update time": "08:24:02 PM 09-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "07:15:00 PM 09-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/qPOUBv_vRFqnWNul-WsLBw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111601_english_hls_5127ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Norwich City vs Bristol City (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109834_4352_NOR_BRI_fc-web.jpg",
+            "team_1": "Norwich City",
+            "team_2": "Bristol City",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Norwich City vs Bristol City",
+            "match_id": 109834,
+            "startTime": "08:30:00 PM 09-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/1l7oWLB-TX2jQncKdnE6MA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109834_english_hls_5001ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -103,34 +117,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Italy vs Hong Kong, China (ICC CWC Challenge League B, 2024-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112300_4607_HK_ITA_fc-web.jpg",
-            "team_1": "Italy",
-            "team_2": "Hong Kong, China",
-            "status": "LIVE",
-            "event_name": "ICC CWC Challenge League B, 2024-26",
-            "match_name": "Italy vs Hong Kong, China",
-            "match_id": 112300,
-            "startTime": "12:30:00 PM 09-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/nVvksDE8RICiyTIbtBbIOw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112300_english_hls_4858ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Cardiff City vs Blackburn Rovers (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109833_4352_CAR_BLK_fc-web.jpg",
-            "team_1": "Cardiff City",
-            "team_2": "Blackburn Rovers",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Cardiff City vs Blackburn Rovers",
-            "match_id": 109833,
-            "startTime": "06:00:00 PM 09-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/O1-QQrVAQeCurP48I1ZWjQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109833_english_hls_4871ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies vs England (England tour of West Indies, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-T20-old--match-card.png",
             "team_1": "West Indies",
@@ -140,18 +126,6 @@
             "match_name": "West Indies vs England",
             "match_id": 109443,
             "startTime": "01:30:00 AM 10-11-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Norwich City vs Bristol City (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109834_4352_NOR_BRI_fc-web.jpg",
-            "team_1": "Norwich City",
-            "team_2": "Bristol City",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Norwich City vs Bristol City",
-            "match_id": 109834,
-            "startTime": "08:30:00 PM 09-11-2024"
         },
         {
             "event_category": "Cricket",
@@ -164,6 +138,30 @@
             "match_name": "A Four CC vs Afghan Tigers",
             "match_id": 112402,
             "startTime": "11:00:00 PM 09-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Recreation Club vs Mavericks Academy (Ecole T20 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112321_4608_RCU_MVA_fc-app_fc-web_1730730990012.jpg",
+            "team_1": "Recreation Club",
+            "team_2": "Mavericks Academy",
+            "status": "UPCOMING",
+            "event_name": "Ecole T20 Cup, 2024",
+            "match_name": "Recreation Club vs Mavericks Academy",
+            "match_id": 112321,
+            "startTime": "10:00:00 AM 10-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs New Zealand (New Zealand tour of Sri Lanka, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card.jpg",
+            "team_1": "Sri Lanka",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "New Zealand tour of Sri Lanka, 2024",
+            "match_name": "Sri Lanka vs New Zealand",
+            "match_id": 112292,
+            "startTime": "07:00:00 PM 10-11-2024"
         }
     ]
 }
