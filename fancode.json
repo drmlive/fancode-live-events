@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:33:01 PM 09-11-2024",
+    "last update time": "06:43:08 PM 09-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -102,20 +102,6 @@
             "adfree_url": "https://dai.fancode.com/primary/112019_english_hls_4866ta-no/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_3.jpg",
-            "team_1": "Day 3",
-            "team_2": "Yas Links, Abu Dhabi",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi HSBC Championship",
-            "match_name": "Day 3",
-            "match_id": 112181,
-            "startTime": "12:30:00 PM 09-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/mu15X5_MTX2CehKEb3_fpg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112181_english_hls_5505ta-di/index.m3u8"
-        },
-        {
             "event_category": "Live Events",
             "title": "Central Court, Brazil vs Rio de Janerio (Volleyball Beach Pro Tour)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(2).png",
@@ -159,15 +145,29 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka vs New Zealand (New Zealand tour of Sri Lanka, 2024)",
+            "title": "New Zealand vs Sri Lanka (New Zealand tour of Sri Lanka, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card.jpg",
-            "team_1": "Sri Lanka",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
+            "team_1": "New Zealand",
+            "team_2": "Sri Lanka",
+            "status": "LIVE",
             "event_name": "New Zealand tour of Sri Lanka, 2024",
-            "match_name": "Sri Lanka vs New Zealand",
+            "match_name": "New Zealand vs Sri Lanka",
             "match_id": 112291,
-            "startTime": "07:00:00 PM 09-11-2024"
+            "startTime": "07:00:00 PM 09-11-2024",
+            "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/SLVSNZ/master.m3u8?hdnea=exp=1731198613~acl=*~id=1556784483112233~hmac=7e2db6ca9d383a46ab57844a68d0a179686d768d90f56a57ab0bff6566c995d3",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/SLVSNZ/master.m3u8?hdnea=exp=1731198613~acl=*~id=1556784483112233~hmac=7e2db6ca9d383a46ab57844a68d0a179686d768d90f56a57ab0bff6566c995d3"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs England (England tour of West Indies, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-T20-old--match-card.png",
+            "team_1": "West Indies",
+            "team_2": "England",
+            "status": "UPCOMING",
+            "event_name": "England tour of West Indies, 2024",
+            "match_name": "West Indies vs England",
+            "match_id": 109443,
+            "startTime": "01:30:00 AM 10-11-2024"
         }
     ]
 }
