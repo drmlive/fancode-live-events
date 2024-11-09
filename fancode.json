@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:42:35 PM 09-11-2024",
+    "last update time": "05:52:40 PM 09-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/111600_english_hls_6892ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Cardiff City vs Blackburn Rovers (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109833_4352_CAR_BLK_fc-web.jpg",
+            "team_1": "Cardiff City",
+            "team_2": "Blackburn Rovers",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Cardiff City vs Blackburn Rovers",
+            "match_id": 109833,
+            "startTime": "06:00:00 PM 09-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/O1-QQrVAQeCurP48I1ZWjQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109833_english_hls_4871ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Netherlands vs United Arab Emirates (ICC CWC League 2, 2023-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/111771_3908_UAE_NED_fc-web.jpg",
@@ -72,6 +86,20 @@
             "startTime": "11:30:00 AM 09-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/zNPUHgXxTOy-bZLeAYS9MA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111771_english_hls_8381ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Loyola Colts Cricket vs Unique Sports Club (Bijay Kumar Saha Memorial T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card.jpg",
+            "team_1": "Loyola Colts Cricket",
+            "team_2": "Unique Sports Club",
+            "status": "LIVE",
+            "event_name": "Bijay Kumar Saha Memorial T20",
+            "match_name": "Loyola Colts Cricket vs Unique Sports Club",
+            "match_id": 113005,
+            "startTime": "06:00:00 PM 09-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/zVKXPfNqQUe3aKunzwn1WQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113005_english_hls_8128ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -138,30 +166,6 @@
             "match_name": "West Indies vs England",
             "match_id": 109443,
             "startTime": "01:30:00 AM 10-11-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Cardiff City vs Blackburn Rovers (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109833_4352_CAR_BLK_fc-web.jpg",
-            "team_1": "Cardiff City",
-            "team_2": "Blackburn Rovers",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Cardiff City vs Blackburn Rovers",
-            "match_id": 109833,
-            "startTime": "06:00:00 PM 09-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Loyola Colts Cricket vs Unique Sports Club (Bijay Kumar Saha Memorial T20)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card.jpg",
-            "team_1": "Loyola Colts Cricket",
-            "team_2": "Unique Sports Club",
-            "status": "UPCOMING",
-            "event_name": "Bijay Kumar Saha Memorial T20",
-            "match_name": "Loyola Colts Cricket vs Unique Sports Club",
-            "match_id": 113005,
-            "startTime": "06:00:00 PM 09-11-2024"
         }
     ]
 }
