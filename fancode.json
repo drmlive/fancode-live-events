@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:42:04 AM 10-11-2024",
+    "last update time": "11:52:09 AM 10-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/112839_english_hls_4921ta-no/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 4 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship_Old_Match_card_1.jpg",
+            "team_1": "Day 4",
+            "team_2": "Yas Links, Abu Dhabi",
+            "status": "LIVE",
+            "event_name": "Abu Dhabi HSBC Championship",
+            "match_name": "Day 4",
+            "match_id": 112182,
+            "startTime": "12:00:00 PM 10-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/g_DEYj_NRwiDEXDRNqxDnA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112182_english_hls_5219ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs New Zealand (New Zealand tour of Sri Lanka, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card.jpg",
@@ -113,13 +127,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bahrain vs Singapore (ICC CWC Challenge League B, 2024-26)",
+            "title": "Singapore vs Bahrain (ICC CWC Challenge League B, 2024-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112302_4607_BAH_SIN_fc-web.jpg",
-            "team_1": "Bahrain",
-            "team_2": "Singapore",
+            "team_1": "Singapore",
+            "team_2": "Bahrain",
             "status": "UPCOMING",
             "event_name": "ICC CWC Challenge League B, 2024-26",
-            "match_name": "Bahrain vs Singapore",
+            "match_name": "Singapore vs Bahrain",
             "match_id": 112302,
             "startTime": "12:30:00 PM 10-11-2024"
         },
@@ -146,18 +160,6 @@
             "match_name": "Southern Crusaders vs MMA Titans",
             "match_id": 111602,
             "startTime": "01:00:00 PM 10-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "SDCA vs Ashtapailu Sports (Ecole T20 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112322_4608_SCA_APS_fc-app_fc-web_1730731027674.jpg",
-            "team_1": "SDCA",
-            "team_2": "Ashtapailu Sports",
-            "status": "UPCOMING",
-            "event_name": "Ecole T20 Cup, 2024",
-            "match_name": "SDCA vs Ashtapailu Sports",
-            "match_id": 112322,
-            "startTime": "02:00:00 PM 10-11-2024"
         }
     ]
 }
