@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:38:49 PM 11-11-2024",
+    "last update time": "05:48:54 PM 11-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "03:30:00 PM 11-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/0r7zX9QJRqm1gcj44GWngQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110865_english_hls_4824ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rajasthan Royals Academy vs SDCA (Ecole T20 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112324_4608_RRC_SCA_fc-app_fc-web_1730731117057.jpg",
-            "team_1": "Rajasthan Royals Academy",
-            "team_2": "SDCA",
-            "status": "LIVE",
-            "event_name": "Ecole T20 Cup, 2024",
-            "match_name": "Rajasthan Royals Academy vs SDCA",
-            "match_id": 112324,
-            "startTime": "02:00:00 PM 11-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/8cZhcmPsRTSr5CLTjlFCTA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112324_english_hls_5062ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -65,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Siechem-Inter-District-T20-Tournament-2024_Old_match-card_01.jpg",
             "team_1": "Mohammedan Sporting Club",
             "team_2": "Deoghar Cricket Academy",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Bijay Kumar Saha Memorial T20",
             "match_name": "Mohammedan Sporting Club vs Deoghar Cricket Academy",
             "match_id": 113014,
-            "startTime": "06:00:00 PM 11-11-2024"
+            "startTime": "06:00:00 PM 11-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/CVdJBaMbRoeTQO627_rLkg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113014_english_hls_6457ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -82,18 +70,6 @@
             "match_name": "Barbados Pride vs Windward Islands Volcanoes",
             "match_id": 112021,
             "startTime": "06:30:00 PM 11-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "American University of Malta vs Bugibba Blasters (ECS Malta, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg",
-            "team_1": "American University of Malta",
-            "team_2": "Bugibba Blasters",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, 2024",
-            "match_name": "American University of Malta vs Bugibba Blasters",
-            "match_id": 111609,
-            "startTime": "07:15:00 PM 11-11-2024"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +130,18 @@
             "match_name": "Marsa vs Mater Dei",
             "match_id": 111610,
             "startTime": "01:00:00 PM 12-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rajasthan Royals Academy vs Recreation Club (Ecole T20 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112326_4608_RRC_RCU_fc-app_fc-web_1730731292281.jpg",
+            "team_1": "Rajasthan Royals Academy",
+            "team_2": "Recreation Club",
+            "status": "UPCOMING",
+            "event_name": "Ecole T20 Cup, 2024",
+            "match_name": "Rajasthan Royals Academy vs Recreation Club",
+            "match_id": 112326,
+            "startTime": "02:00:00 PM 12-11-2024"
         }
     ]
 }
