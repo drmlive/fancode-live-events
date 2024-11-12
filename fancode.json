@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:29:22 PM 12-11-2024",
+    "last update time": "01:39:27 PM 12-11-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Tanzania vs Hong Kong, China (ICC CWC Challenge League B, 2024-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112304_4607_TAN_HK_fc-web.jpg",
-            "team_1": "Tanzania",
-            "team_2": "Hong Kong, China",
-            "status": "LIVE",
-            "event_name": "ICC CWC Challenge League B, 2024-26",
-            "match_name": "Tanzania vs Hong Kong, China",
-            "match_id": 112304,
-            "startTime": "12:30:00 PM 12-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/UFhBlFYTQu-OqG9DVGHCqA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112304_english_hls_5582ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Italy vs Bahrain (ICC CWC Challenge League B, 2024-26)",
@@ -30,6 +16,20 @@
             "startTime": "12:30:00 PM 12-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/TLT28H0OTGaBZaF4Kk-Qww/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112303_english_hls_8213ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tanzania vs Hong Kong, China (ICC CWC Challenge League B, 2024-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112304_4607_TAN_HK_fc-web.jpg",
+            "team_1": "Tanzania",
+            "team_2": "Hong Kong, China",
+            "status": "LIVE",
+            "event_name": "ICC CWC Challenge League B, 2024-26",
+            "match_name": "Tanzania vs Hong Kong, China",
+            "match_id": 112304,
+            "startTime": "12:30:00 PM 12-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/UFhBlFYTQu-OqG9DVGHCqA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112304_english_hls_5582ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -133,18 +133,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jamaica Scorpions vs Trinidad & Tobago Red Force (CG United Super50 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112022_4596_JAM_TNT_fc-web.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2024",
-            "match_name": "Jamaica Scorpions vs Trinidad & Tobago Red Force",
-            "match_id": 112022,
-            "startTime": "10:30:00 PM 12-11-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Sri Lanka vs New Zealand (New Zealand tour of Sri Lanka, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg",
             "team_1": "Sri Lanka",
@@ -154,6 +142,18 @@
             "match_name": "Sri Lanka vs New Zealand",
             "match_id": 112293,
             "startTime": "02:30:00 PM 13-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions vs Trinidad & Tobago Red Force (CG United Super50 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112022_4596_JAM_TNT_fc-web.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Trinidad & Tobago Red Force",
+            "status": "UPCOMING",
+            "event_name": "CG United Super50 Cup, 2024",
+            "match_name": "Jamaica Scorpions vs Trinidad & Tobago Red Force",
+            "match_id": 112022,
+            "startTime": "10:30:00 PM 12-11-2024"
         }
     ]
 }
