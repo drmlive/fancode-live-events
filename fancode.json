@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:29:26 AM 14-11-2024",
+    "last update time": "01:39:32 AM 14-11-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "A Four CC vs Going Global (KCC T20 Challengers A League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112406_4616_AF_GGL_fc-web.jpg",
-            "team_1": "A Four CC",
-            "team_2": "Going Global",
-            "status": "LIVE",
-            "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "A Four CC vs Going Global",
-            "match_id": 112406,
-            "startTime": "11:00:00 PM 13-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/3rgE9LT4QRG5CMStOSpRDA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112406_english_hls_5828ta-no/index.m3u8"
-        },
         {
             "event_category": "Basketball",
             "title": "Paris vs Zalgiris Kaunas (EuroLeague 2024-25)",
@@ -105,18 +91,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Southern Crusaders vs Royal Strikers (ECS Malta, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg",
-            "team_1": "Southern Crusaders",
-            "team_2": "Royal Strikers",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, 2024",
-            "match_name": "Southern Crusaders vs Royal Strikers",
-            "match_id": 111621,
-            "startTime": "07:15:00 PM 14-11-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies vs England (England tour of West Indies, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-West-Indies-T20-old--match-card.png",
             "team_1": "West Indies",
@@ -129,6 +103,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Southern Crusaders vs Royal Strikers (ECS Malta, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_3_1729570461562.jpg",
+            "team_1": "Southern Crusaders",
+            "team_2": "Royal Strikers",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2024",
+            "match_name": "Southern Crusaders vs Royal Strikers",
+            "match_id": 111621,
+            "startTime": "07:15:00 PM 14-11-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Afghan Tigers vs Ai Octopus Challengers (KCC T20 Challengers A League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112407_4616_AGT_SZN_fc-web.jpg",
             "team_1": "Afghan Tigers",
@@ -138,6 +124,30 @@
             "match_name": "Afghan Tigers vs Ai Octopus Challengers",
             "match_id": 112407,
             "startTime": "10:00:00 PM 14-11-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Australia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Australia",
+            "team_2": "Saudi Arabia",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Australia vs Saudi Arabia",
+            "match_id": 112920,
+            "startTime": "02:40:00 PM 14-11-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "DPR Korea vs IR Iran (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "DPR Korea",
+            "team_2": "IR Iran",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "DPR Korea vs IR Iran",
+            "match_id": 112894,
+            "startTime": "05:30:00 PM 14-11-2024"
         }
     ]
 }
