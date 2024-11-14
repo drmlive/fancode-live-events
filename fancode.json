@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:28:26 PM 14-11-2024",
+    "last update time": "06:38:32 PM 14-11-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Mater Dei vs Edex Knights (ECS Malta, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_2_1729570461132.jpg",
-            "team_1": "Mater Dei",
-            "team_2": "Edex Knights",
-            "status": "LIVE",
-            "event_name": "ECS Malta, 2024",
-            "match_name": "Mater Dei vs Edex Knights",
-            "match_id": 111620,
-            "startTime": "05:00:00 PM 14-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/aT09XX9YR5mOjYRLG4E0fA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111620_english_hls_5381ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Fujairah vs Abu Dhabi (Emirates D50, 2024)",
@@ -112,6 +98,30 @@
             "startTime": "07:15:00 PM 14-11-2024"
         },
         {
+            "event_category": "Football",
+            "title": "Kuwait vs Korea Republic (FIFA World Cup Asian Qualifiers)",
+            "src": "https://images.fancode.com/aig/match/v1/112896_CASACARDS_APP.png",
+            "team_1": "Kuwait",
+            "team_2": "Korea Republic",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Kuwait vs Korea Republic",
+            "match_id": 112896,
+            "startTime": "07:30:00 PM 14-11-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Bahrain vs China PR (FIFA World Cup Asian Qualifiers)",
+            "src": "https://images.fancode.com/aig/match/v1/112921_CASACARDS_APP.png",
+            "team_1": "Bahrain",
+            "team_2": "China PR",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Bahrain vs China PR",
+            "match_id": 112921,
+            "startTime": "07:30:00 PM 14-11-2024"
+        },
+        {
             "event_category": "Cricket",
             "title": "Afghan Tigers vs Ai Octopus Challengers (KCC T20 Challengers A League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112407_4616_AGT_SZN_fc-web_1731569489424.jpg",
@@ -146,18 +156,6 @@
             "match_name": "Venezuela vs Brazil",
             "match_id": 112935,
             "startTime": "02:30:00 AM 15-11-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Paraguay vs Argentina (CONMEBOL World Cup Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/112936_CASACARDS_APP.png",
-            "team_1": "Paraguay",
-            "team_2": "Argentina",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Paraguay vs Argentina",
-            "match_id": 112936,
-            "startTime": "05:00:00 AM 15-11-2024"
         }
     ]
 }
