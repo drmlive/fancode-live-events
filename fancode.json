@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:31:13 PM 14-11-2024",
+    "last update time": "11:41:18 PM 14-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,20 +56,6 @@
             "startTime": "09:45:00 PM 14-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/ISltxGWpScSJxvhPuJuL1A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112893_english_hls_8815ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Iraq vs Jordan (FIFA World Cup Asian Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/112919_CASACARDS_APP.png",
-            "team_1": "Iraq",
-            "team_2": "Jordan",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Iraq vs Jordan",
-            "match_id": 112919,
-            "startTime": "09:45:00 PM 14-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/jOTldsWTQxGb0cvlvlaZvA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112919_english_hls_2260ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -130,6 +116,30 @@
             "match_name": "GAT vs Cochin Hurricanes",
             "match_id": 112409,
             "startTime": "10:30:00 AM 15-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bahrain vs Tanzania (ICC CWC Challenge League B, 2024-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112307_4607_BAH_TAN_fc-web.jpg",
+            "team_1": "Bahrain",
+            "team_2": "Tanzania",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC Challenge League B, 2024-26",
+            "match_name": "Bahrain vs Tanzania",
+            "match_id": 112307,
+            "startTime": "12:30:00 PM 15-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Singapore vs Hong Kong, China (ICC CWC Challenge League B, 2024-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112308_4607_SIN_HK_fc-web.jpg",
+            "team_1": "Singapore",
+            "team_2": "Hong Kong, China",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC Challenge League B, 2024-26",
+            "match_name": "Singapore vs Hong Kong, China",
+            "match_id": 112308,
+            "startTime": "12:30:00 PM 15-11-2024"
         }
     ]
 }
