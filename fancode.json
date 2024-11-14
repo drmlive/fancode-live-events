@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:38:32 PM 14-11-2024",
+    "last update time": "06:48:37 PM 14-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,34 +44,6 @@
             "startTime": "06:00:00 PM 14-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/3WBxkySIT5Cklf4r8JrBvA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113019_english_hls_5532ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Jumeirah Golf Estates, Dubai (DP World Tour Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-world-tour-championship-old.png",
-            "team_1": "Day 1",
-            "team_2": "Jumeirah Golf Estates, Dubai",
-            "status": "LIVE",
-            "event_name": "DP World Tour Championship",
-            "match_name": "Day 1",
-            "match_id": 113041,
-            "startTime": "12:30:00 PM 14-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/T31tdc_nQmOXgC6Ba-_duA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113041_english_hls_5432ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Australia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AUS_SA_fc-web.jpg",
-            "team_1": "Australia",
-            "team_2": "Saudi Arabia",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Australia vs Saudi Arabia",
-            "match_id": 112920,
-            "startTime": "02:40:00 PM 14-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/Sr7zV99eRbahyEEE60_InQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112920_english_hls_5616ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +128,30 @@
             "match_name": "Venezuela vs Brazil",
             "match_id": 112935,
             "startTime": "02:30:00 AM 15-11-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Paraguay vs Argentina (CONMEBOL World Cup Qualifiers)",
+            "src": "https://images.fancode.com/aig/match/v1/112936_CASACARDS_APP.png",
+            "team_1": "Paraguay",
+            "team_2": "Argentina",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Paraguay vs Argentina",
+            "match_id": 112936,
+            "startTime": "05:00:00 AM 15-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Recreation Club vs Mavericks Academy (Ecole T20 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112331_4608_RCU_MVA_fc-app_fc-web_1730731547576.jpg",
+            "team_1": "Recreation Club",
+            "team_2": "Mavericks Academy",
+            "status": "UPCOMING",
+            "event_name": "Ecole T20 Cup, 2024",
+            "match_name": "Recreation Club vs Mavericks Academy",
+            "match_id": 112331,
+            "startTime": "10:00:00 AM 15-11-2024"
         }
     ]
 }
