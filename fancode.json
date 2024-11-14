@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:19:25 PM 14-11-2024",
+    "last update time": "08:29:30 PM 14-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -86,6 +86,18 @@
             "adfree_url": "https://dai.fancode.com/primary/112921_english_hls_8420ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Oman vs Palestine (FIFA World Cup Asian Qualifiers)",
+            "src": "https://images.fancode.com/aig/match/v1/112918_CASACARDS_APP.png",
+            "team_1": "Oman",
+            "team_2": "Palestine",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Oman vs Palestine",
+            "match_id": 112918,
+            "startTime": "09:30:00 PM 14-11-2024"
+        },
+        {
             "event_category": "Cricket",
             "title": "Afghan Tigers vs Ai Octopus Challengers (KCC T20 Challengers A League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112407_4616_AGT_SZN_fc-web_1731569489424.jpg",
@@ -124,7 +136,7 @@
         {
             "event_category": "Football",
             "title": "Paraguay vs Argentina (CONMEBOL World Cup Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/112936_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/VEN_ARG_fc-web.jpg",
             "team_1": "Paraguay",
             "team_2": "Argentina",
             "status": "UPCOMING",
@@ -144,18 +156,6 @@
             "match_name": "Recreation Club vs Mavericks Academy",
             "match_id": 112331,
             "startTime": "10:00:00 AM 15-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "GAT vs Cochin Hurricanes (KCC T20 Challengers A League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112409_4616_GAT_COH_fc-web_1731569489260.jpg",
-            "team_1": "GAT",
-            "team_2": "Cochin Hurricanes",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "GAT vs Cochin Hurricanes",
-            "match_id": 112409,
-            "startTime": "10:30:00 AM 15-11-2024"
         }
     ]
 }
