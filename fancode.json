@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:35:53 PM 14-11-2024",
+    "last update time": "01:45:58 PM 14-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://dai.fancode.com/primary/111618_english_hls_5350ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "SDCA vs Ashtapailu Sports (Ecole T20 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112330_4608_SCA_APS_fc-app_fc-web_1730731504870.jpg",
+            "team_1": "SDCA",
+            "team_2": "Ashtapailu Sports",
+            "status": "LIVE",
+            "event_name": "Ecole T20 Cup, 2024",
+            "match_name": "SDCA vs Ashtapailu Sports",
+            "match_id": 112330,
+            "startTime": "02:00:00 PM 14-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/d-Kcybu-T_GJnGVKnGy7zQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112330_english_hls_6345ta-no/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 1 vs Jumeirah Golf Estates, Dubai (DP World Tour Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-world-tour-championship-old.png",
@@ -58,16 +72,16 @@
             "startTime": "01:30:00 AM 15-11-2024"
         },
         {
-            "event_category": "Cricket",
-            "title": "SDCA vs Ashtapailu Sports (Ecole T20 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112330_4608_SCA_APS_fc-app_fc-web_1730731504870.jpg",
-            "team_1": "SDCA",
-            "team_2": "Ashtapailu Sports",
+            "event_category": "Football",
+            "title": "Australia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AUS_SA_fc-web.jpg",
+            "team_1": "Australia",
+            "team_2": "Saudi Arabia",
             "status": "UPCOMING",
-            "event_name": "Ecole T20 Cup, 2024",
-            "match_name": "SDCA vs Ashtapailu Sports",
-            "match_id": 112330,
-            "startTime": "02:00:00 PM 14-11-2024"
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Australia vs Saudi Arabia",
+            "match_id": 112920,
+            "startTime": "02:40:00 PM 14-11-2024"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "SBS CC vs Cryo Mavericks",
             "match_id": 112408,
             "startTime": "01:15:00 AM 15-11-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Venezuela vs Brazil (CONMEBOL World Cup Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/112935_CASACARDS_APP.png",
-            "team_1": "Venezuela",
-            "team_2": "Brazil",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Venezuela vs Brazil",
-            "match_id": 112935,
-            "startTime": "02:30:00 AM 15-11-2024"
         }
     ]
 }
