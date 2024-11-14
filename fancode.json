@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:51:24 PM 14-11-2024",
+    "last update time": "12:01:30 AM 15-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,20 +28,6 @@
             "startTime": "10:00:00 PM 14-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/83HOELlgRbyRTWgyPXuhug/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112407_english_hls_5535ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Qatar vs Uzbekistan (FIFA World Cup Asian Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/112895_CASACARDS_APP.png",
-            "team_1": "Qatar",
-            "team_2": "Uzbekistan",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Qatar vs Uzbekistan",
-            "match_id": 112895,
-            "startTime": "09:45:00 PM 14-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/j-88OZbTQSiHramv5-M1-A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112895_english_hls_5729ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -140,6 +126,18 @@
             "match_name": "Singapore vs Hong Kong, China",
             "match_id": 112308,
             "startTime": "12:30:00 PM 15-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Green Windhoek Jets vs Naankuse Lions (Castle Lite T20, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Green Windhoek Jets",
+            "team_2": "Naankuse Lions",
+            "status": "UPCOMING",
+            "event_name": "Castle Lite T20, 2024",
+            "match_name": "Green Windhoek Jets vs Naankuse Lions",
+            "match_id": 112800,
+            "startTime": "12:45:00 PM 15-11-2024"
         }
     ]
 }
