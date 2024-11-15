@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:32:15 PM 15-11-2024",
+    "last update time": "05:42:20 PM 15-11-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bahrain vs Tanzania (ICC CWC Challenge League B, 2024-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112307_4607_BAH_TAN_fc-web.jpg",
-            "team_1": "Bahrain",
-            "team_2": "Tanzania",
-            "status": "LIVE",
-            "event_name": "ICC CWC Challenge League B, 2024-26",
-            "match_name": "Bahrain vs Tanzania",
-            "match_id": 112307,
-            "startTime": "12:30:00 PM 15-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/_ui4fYBNQ9GsuXRrzt8qyQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112307_english_hls_8209ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Hong Kong, China vs Singapore (ICC CWC Challenge League B, 2024-26)",
@@ -30,6 +16,20 @@
             "startTime": "12:30:00 PM 15-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/ajHPBAVnRkKAX3RhbqYqKQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112308_english_hls_4906ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bahrain vs Tanzania (ICC CWC Challenge League B, 2024-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112307_4607_BAH_TAN_fc-web.jpg",
+            "team_1": "Bahrain",
+            "team_2": "Tanzania",
+            "status": "LIVE",
+            "event_name": "ICC CWC Challenge League B, 2024-26",
+            "match_name": "Bahrain vs Tanzania",
+            "match_id": 112307,
+            "startTime": "12:30:00 PM 15-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/_ui4fYBNQ9GsuXRrzt8qyQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112307_english_hls_8209ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -103,13 +103,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Abu Dhabi vs Ajman (Emirates D50, 2024)",
+            "title": "Ajman vs Abu Dhabi (Emirates D50, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113025_4635_ABD_AJM_fc-web.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Ajman",
+            "team_1": "Ajman",
+            "team_2": "Abu Dhabi",
             "status": "UPCOMING",
             "event_name": "Emirates D50, 2024",
-            "match_name": "Abu Dhabi vs Ajman",
+            "match_name": "Ajman vs Abu Dhabi",
             "match_id": 113025,
             "startTime": "06:00:00 PM 15-11-2024"
         },
@@ -148,6 +148,18 @@
             "match_name": "Kuwait Swedish vs STACK CC",
             "match_id": 112570,
             "startTime": "12:00:00 AM 16-11-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uruguay vs Colombia (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/URU-vs-COL-conmebol-qualifiers-old.jpg",
+            "team_1": "Uruguay",
+            "team_2": "Colombia",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Uruguay vs Colombia",
+            "match_id": 112937,
+            "startTime": "05:30:00 AM 16-11-2024"
         }
     ]
 }
