@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:09:27 PM 15-11-2024",
+    "last update time": "12:19:32 PM 15-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112308_4607_SIN_HK_fc-web.jpg",
             "team_1": "Singapore",
             "team_2": "Hong Kong, China",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC CWC Challenge League B, 2024-26",
             "match_name": "Singapore vs Hong Kong, China",
             "match_id": 112308,
-            "startTime": "12:30:00 PM 15-11-2024"
+            "startTime": "12:30:00 PM 15-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ajHPBAVnRkKAX3RhbqYqKQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112308_english_hls_4906ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -49,11 +51,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112307_4607_BAH_TAN_fc-web.jpg",
             "team_1": "Bahrain",
             "team_2": "Tanzania",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC CWC Challenge League B, 2024-26",
             "match_name": "Bahrain vs Tanzania",
             "match_id": 112307,
-            "startTime": "12:30:00 PM 15-11-2024"
+            "startTime": "12:30:00 PM 15-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/_ui4fYBNQ9GsuXRrzt8qyQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112307_english_hls_8209ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Jumeirah Golf Estates, Dubai (DP World Tour Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-world-tour-championship-old.png",
+            "team_1": "Day 2",
+            "team_2": "Jumeirah Golf Estates, Dubai",
+            "status": "LIVE",
+            "event_name": "DP World Tour Championship",
+            "match_name": "Day 2",
+            "match_id": 113042,
+            "startTime": "12:30:00 PM 15-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/wPbMWwGOR--oCd2Pv4qOUQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113042_english_hls_1771ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -69,13 +87,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Gozo Zalmi vs Gzira United (ECS Malta, 2024)",
+            "title": "Gzira United vs Gozo Zalmi (ECS Malta, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_Malta_-2024_Old_match-card_4_1729570461042.jpg",
-            "team_1": "Gozo Zalmi",
-            "team_2": "Gzira United",
+            "team_1": "Gzira United",
+            "team_2": "Gozo Zalmi",
             "status": "UPCOMING",
             "event_name": "ECS Malta, 2024",
-            "match_name": "Gozo Zalmi vs Gzira United",
+            "match_name": "Gzira United vs Gozo Zalmi",
             "match_id": 111622,
             "startTime": "01:00:00 PM 15-11-2024"
         },
@@ -138,18 +156,6 @@
             "match_name": "Fish River Eagles vs Etosha Wildcats",
             "match_id": 112801,
             "startTime": "05:45:00 PM 15-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi vs Ajman (Emirates D50, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113025_4635_ABD_AJM_fc-web.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Ajman",
-            "status": "UPCOMING",
-            "event_name": "Emirates D50, 2024",
-            "match_name": "Abu Dhabi vs Ajman",
-            "match_id": 113025,
-            "startTime": "06:00:00 PM 15-11-2024"
         }
     ]
 }
