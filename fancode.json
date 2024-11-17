@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:15:55 PM 17-11-2024",
+    "last update time": "01:26:01 PM 17-11-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs New Zealand (New Zealand tour of Sri Lanka, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg",
+            "team_1": "Sri Lanka",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "New Zealand tour of Sri Lanka, 2024",
+            "match_name": "Sri Lanka vs New Zealand",
+            "match_id": 112294,
+            "startTime": "02:30:00 PM 17-11-2024"
+        },
         {
             "event_category": "Cricket",
             "title": "Green Windhoek Jets vs Etosha Wildcats (Castle Lite T20, 2024)",
@@ -44,32 +56,6 @@
             "startTime": "12:00:00 PM 17-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/NOUOynjhQpasETBlam197A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113044_english_hls_4909ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Solapur Stars XI vs SDCA (Ecole T20 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112335_4608_SSX_SCA_fc-app_fc-web_1730731926840.jpg",
-            "team_1": "Solapur Stars XI",
-            "team_2": "SDCA",
-            "status": "LIVE",
-            "event_name": "Ecole T20 Cup, 2024",
-            "match_name": "Solapur Stars XI vs SDCA",
-            "match_id": 112335,
-            "startTime": "10:00:00 AM 17-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/9p_DBFSJTYipDulXgZ406w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112335_english_hls_5011ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs New Zealand (New Zealand tour of Sri Lanka, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_NZ_2024_Old_match-card_1731309004021.jpg",
-            "team_1": "Sri Lanka",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "New Zealand tour of Sri Lanka, 2024",
-            "match_name": "Sri Lanka vs New Zealand",
-            "match_id": 112294,
-            "startTime": "02:30:00 PM 17-11-2024"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +140,18 @@
             "match_name": "Marafie Bengal Tigers vs Phoenix Riders",
             "match_id": 112411,
             "startTime": "11:00:00 PM 17-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Academy vs Windward Islands Volcanoes (CG United Super50 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112026_4596_WIC_WIS_fc-web.jpg",
+            "team_1": "West Indies Academy",
+            "team_2": "Windward Islands Volcanoes",
+            "status": "UPCOMING",
+            "event_name": "CG United Super50 Cup, 2024",
+            "match_name": "West Indies Academy vs Windward Islands Volcanoes",
+            "match_id": 112026,
+            "startTime": "06:30:00 PM 17-11-2024"
         }
     ]
 }
