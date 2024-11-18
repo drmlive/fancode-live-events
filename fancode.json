@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:43:12 PM 18-11-2024",
+    "last update time": "10:53:18 PM 18-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,29 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Barcelona International vs Badalona Shaheen (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113104_4641_BSH_BI_fc-web.jpg",
-            "team_1": "Barcelona International",
-            "team_2": "Badalona Shaheen",
-            "status": "LIVE",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Barcelona International vs Badalona Shaheen",
-            "match_id": 113104,
-            "startTime": "09:15:00 PM 18-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/x0sb6y9eQJ64U5i53u_LFw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113104_english_hls_5110ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Kuwait Emerging Stars vs NCM Investment (KCC T20 Elite Championship 2nd Edition, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg",
             "team_1": "Kuwait Emerging Stars",
             "team_2": "NCM Investment",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "KCC T20 Elite Championship 2nd Edition, 2024",
             "match_name": "Kuwait Emerging Stars vs NCM Investment",
             "match_id": 112571,
-            "startTime": "11:00:00 PM 18-11-2024"
+            "startTime": "11:00:00 PM 18-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/UIbxLoLFTUKNCYyi9ue4aw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112571_english_hls_5435ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +138,18 @@
             "match_name": "Men in Blue vs Barcelona International",
             "match_id": 113107,
             "startTime": "05:15:00 PM 19-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rising Royals Women vs Garvi Women (Gujarat Women's Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Spain-Czechia_Womens_Old-Match-card_v3.jpg",
+            "team_1": "Rising Royals Women",
+            "team_2": "Garvi Women",
+            "status": "UPCOMING",
+            "event_name": "Gujarat Women's Championship",
+            "match_name": "Rising Royals Women vs Garvi Women",
+            "match_id": 113672,
+            "startTime": "10:00:00 AM 19-11-2024"
         }
     ]
 }
