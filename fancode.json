@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:54:35 PM 19-11-2024",
+    "last update time": "08:04:40 PM 19-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Kyrgyz Republic vs IR Iran (FIFA World Cup Asian Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/112923_CASACARDS_APP.png",
-            "team_1": "Kyrgyz Republic",
-            "team_2": "IR Iran",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Kyrgyz Republic vs IR Iran",
-            "match_id": 112923,
-            "startTime": "07:30:00 PM 19-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/jGfn7ZXiRpGiPKoXWJdkOg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112923_english_hls_8132ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Palestine vs Korea Republic (FIFA World Cup Asian Qualifiers)",
             "src": "https://images.fancode.com/aig/match/v1/112926_CASACARDS_APP.png",
             "team_1": "Palestine",
@@ -58,6 +44,20 @@
             "startTime": "07:30:00 PM 19-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/vJw11REJQe2e7ZtfF8YJWA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112926_english_hls_5348ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kyrgyz Republic vs IR Iran (FIFA World Cup Asian Qualifiers)",
+            "src": "https://images.fancode.com/aig/match/v1/112923_CASACARDS_APP.png",
+            "team_1": "Kyrgyz Republic",
+            "team_2": "IR Iran",
+            "status": "LIVE",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Kyrgyz Republic vs IR Iran",
+            "match_id": 112923,
+            "startTime": "07:30:00 PM 19-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/jGfn7ZXiRpGiPKoXWJdkOg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112923_english_hls_8132ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -144,16 +144,16 @@
             "startTime": "01:15:00 PM 20-11-2024"
         },
         {
-            "event_category": "Football",
-            "title": "United Arab Emirates vs Qatar (FIFA World Cup Asian Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/112924_CASACARDS_APP.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Qatar",
+            "event_category": "Cricket",
+            "title": "Pak Barcelona vs Pak I Care Badalona (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113111_4641_PKB_PIC_fc-web.jpg",
+            "team_1": "Pak Barcelona",
+            "team_2": "Pak I Care Badalona",
             "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "United Arab Emirates vs Qatar",
-            "match_id": 112924,
-            "startTime": "09:30:00 PM 19-11-2024"
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Pak Barcelona vs Pak I Care Badalona",
+            "match_id": 113111,
+            "startTime": "03:15:00 PM 20-11-2024"
         }
     ]
 }
