@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:12:31 PM 19-11-2024",
+    "last update time": "04:22:37 PM 19-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -61,27 +61,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Recreation Club vs SDCA (Ecole T20 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112340_4608_RCU_SCA_fc-app_fc-web_1730732160158.jpg",
-            "team_1": "Recreation Club",
-            "team_2": "SDCA",
-            "status": "LIVE",
-            "event_name": "Ecole T20 Cup, 2024",
-            "match_name": "Recreation Club vs SDCA",
-            "match_id": 112340,
-            "startTime": "02:00:00 PM 19-11-2024",
-            "dai_url": "https://dai.fancode.com/primary/112340_english_hls_5522adfreeta-di/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112340_english_hls_5522adfreeta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Men in Blue vs Barcelona International (ECS Spain, Encore, 2024)",
+            "title": "Barcelona International vs Men in Blue (ECS Spain, Encore, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113107_4641_MIB_BI_fc-web.jpg",
-            "team_1": "Men in Blue",
-            "team_2": "Barcelona International",
+            "team_1": "Barcelona International",
+            "team_2": "Men in Blue",
             "status": "UPCOMING",
             "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Men in Blue vs Barcelona International",
+            "match_name": "Barcelona International vs Men in Blue",
             "match_id": 113107,
             "startTime": "05:15:00 PM 19-11-2024"
         },
@@ -146,16 +132,28 @@
             "startTime": "05:30:00 AM 20-11-2024"
         },
         {
-            "event_category": "Football",
-            "title": "Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/112931_CASACARDS_APP.png",
-            "team_1": "Indonesia",
-            "team_2": "Saudi Arabia",
+            "event_category": "Cricket",
+            "title": "Bhutan vs Qatar (ICC Men's T20 World Cup Asia Qualifier B, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/112367_CASACARDS_APP.png",
+            "team_1": "Bhutan",
+            "team_2": "Qatar",
             "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Indonesia vs Saudi Arabia",
-            "match_id": 112931,
-            "startTime": "05:30:00 PM 19-11-2024"
+            "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
+            "match_name": "Bhutan vs Qatar",
+            "match_id": 112367,
+            "startTime": "11:30:00 AM 20-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Thailand vs Cambodia (ICC Men's T20 World Cup Asia Qualifier B, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/112366_CASACARDS_APP.png",
+            "team_1": "Thailand",
+            "team_2": "Cambodia",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
+            "match_name": "Thailand vs Cambodia",
+            "match_id": 112366,
+            "startTime": "11:30:00 AM 20-11-2024"
         }
     ]
 }
