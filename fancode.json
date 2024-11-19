@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:51:47 PM 19-11-2024",
+    "last update time": "03:01:52 PM 19-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,6 +47,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Catalunya Coalesce vs Men in Blue (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113106_4641_CCO_MIB_fc-web.jpg",
+            "team_1": "Catalunya Coalesce",
+            "team_2": "Men in Blue",
+            "status": "LIVE",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Catalunya Coalesce vs Men in Blue",
+            "match_id": 113106,
+            "startTime": "03:15:00 PM 19-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/gS2ohCYtST-aJMx0ksM_Yw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113106_english_hls_5198ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Rebel Queens Women vs Victorious 11 Women (Gujarat Women's Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Spain-Czechia_Womens_old-Match-card_v2.jpg",
             "team_1": "Rebel Queens Women",
@@ -58,32 +72,6 @@
             "startTime": "02:00:00 PM 19-11-2024",
             "dai_url": "https://dai.fancode.com/primary/113673_english_hls_8688adfreeta-di/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113673_english_hls_8688adfreeta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "United Arab Emirates vs Bhutan (ICC Men's T20 World Cup Asia Qualifier B, 2024)",
-            "src": "https://images.fancode.com/aig/match/v1/112364_CASACARDS_APP.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Bhutan",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
-            "match_name": "United Arab Emirates vs Bhutan",
-            "match_id": 112364,
-            "startTime": "11:30:00 AM 19-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/VBnQxm6BTPekzdY3W7Yrjg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112364_english_hls_5004ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Catalunya Coalesce vs Men in Blue (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113106_4641_CCO_MIB_fc-web.jpg",
-            "team_1": "Catalunya Coalesce",
-            "team_2": "Men in Blue",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Catalunya Coalesce vs Men in Blue",
-            "match_id": 113106,
-            "startTime": "03:15:00 PM 19-11-2024"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +144,18 @@
             "match_name": "Colombia vs Ecuador",
             "match_id": 112939,
             "startTime": "04:30:00 AM 20-11-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chile vs Venezuela (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CHI-vs-VEN-conmebol-qualifiers-old.jpg",
+            "team_1": "Chile",
+            "team_2": "Venezuela",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Chile vs Venezuela",
+            "match_id": 112940,
+            "startTime": "05:30:00 AM 20-11-2024"
         }
     ]
 }
