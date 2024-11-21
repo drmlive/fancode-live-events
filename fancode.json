@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:05:24 AM 22-11-2024",
+    "last update time": "12:15:36 AM 22-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/113547_english_hls_5880ta-di/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Crvena Zvezda mts Belgrade vs Partizan NIS Belgrade (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/113548_CASACARDS_APP.png",
+            "team_1": "Crvena Zvezda mts Belgrade",
+            "team_2": "Partizan NIS Belgrade",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Crvena Zvezda mts Belgrade vs Partizan NIS Belgrade",
+            "match_id": 113548,
+            "startTime": "12:30:00 AM 22-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/mE-UdPS2QTSvf_G51vRF4Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113548_english_hls_5839ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Northern Warriors vs Delhi Bulls (Abu Dhabi T10 League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112589_4620_NW_DB_fc-web.jpg",
@@ -70,6 +84,18 @@
             "match_name": "Northern Warriors vs Delhi Bulls",
             "match_id": 112589,
             "startTime": "02:45:00 PM 22-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Afghan Stars vs CECC-B (KCC T20 Challengers A League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112413_4616_AS_CEC-B_fc-web_1731569489588.jpg",
+            "team_1": "Afghan Stars",
+            "team_2": "CECC-B",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers A League, 2024-25",
+            "match_name": "Afghan Stars vs CECC-B",
+            "match_id": 112413,
+            "startTime": "01:15:00 AM 22-11-2024"
         },
         {
             "event_category": "Cricket",
@@ -109,18 +135,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Afghan Stars vs CECC-B (KCC T20 Challengers A League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112413_4616_AS_CEC-B_fc-web_1731569489588.jpg",
-            "team_1": "Afghan Stars",
-            "team_2": "CECC-B",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "Afghan Stars vs CECC-B",
-            "match_id": 112413,
-            "startTime": "01:15:00 AM 22-11-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Ajman Bolts vs Deccan Gladiators (Abu Dhabi T10 League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112592_4620_AB_DG_fc-web.jpg",
             "team_1": "Ajman Bolts",
@@ -142,18 +156,6 @@
             "match_name": "Marafie Bengal Tigers vs Cochin Hurricanes",
             "match_id": 112447,
             "startTime": "10:30:00 AM 22-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rajasthan Royals Academy vs Ashtapailu Sports (Ecole T20 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112316_4608_RRC_APS_fc-app_fc-web_1730730043379.jpg",
-            "team_1": "Rajasthan Royals Academy",
-            "team_2": "Ashtapailu Sports",
-            "status": "UPCOMING",
-            "event_name": "Ecole T20 Cup, 2024",
-            "match_name": "Rajasthan Royals Academy vs Ashtapailu Sports",
-            "match_id": 112343,
-            "startTime": "11:00:00 AM 22-11-2024"
         }
     ]
 }
