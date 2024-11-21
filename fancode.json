@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:03:27 AM 21-11-2024",
+    "last update time": "06:13:35 AM 21-11-2024",
     "matches": [
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Brisbane, Australia (BMW Australian PGA Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-championship-old.jpg",
+            "team_1": "Day 1",
+            "team_2": "Brisbane, Australia",
+            "status": "LIVE",
+            "event_name": "BMW Australian PGA Championship",
+            "match_name": "Day 1",
+            "match_id": 113049,
+            "startTime": "06:30:00 AM 21-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ggC8fQSCQC-yqwDkQCpZQA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113049_english_hls_5904ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Team Abu Dhabi vs Ajman Bolts (Abu Dhabi T10 League, 2024)",
@@ -134,18 +148,6 @@
             "match_name": "Barcelona International vs United CC Olot",
             "match_id": 113119,
             "startTime": "09:15:00 PM 21-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "ACE KRM Panthers vs Al Mulla Exchange (KCC T20 Challengers A League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112412_4616_KRM_AEC_fc-web_1731569489780.jpg",
-            "team_1": "ACE KRM Panthers",
-            "team_2": "Al Mulla Exchange",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "ACE KRM Panthers vs Al Mulla Exchange",
-            "match_id": 112412,
-            "startTime": "10:00:00 PM 21-11-2024"
         }
     ]
 }
