@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:06:04 PM 22-11-2024",
+    "last update time": "05:16:12 PM 22-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -103,20 +103,6 @@
         },
         {
             "event_category": "Live Events",
-            "title": "Court 3, Chennai vs Chennai, India (Volleyball Beach Pro Tour)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",
-            "team_1": "Court 3, Chennai",
-            "team_2": "Chennai, India",
-            "status": "LIVE",
-            "event_name": "Volleyball Beach Pro Tour",
-            "match_name": "Court 3, Chennai",
-            "match_id": 113820,
-            "startTime": "09:45:00 AM 22-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ud9qiKjVQ4KzbSi-BqVfhA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113820_english_hls_8952ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Live Events",
             "title": "Central Court, Chennai vs Chennai, India (Volleyball Beach Pro Tour)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",
             "team_1": "Central Court, Chennai",
@@ -128,6 +114,20 @@
             "startTime": "09:45:00 AM 22-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/WApJ42nWTy-9uPgl0AILoA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113819_english_hls_6189ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Court 3, Chennai vs Chennai, India (Volleyball Beach Pro Tour)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",
+            "team_1": "Court 3, Chennai",
+            "team_2": "Chennai, India",
+            "status": "LIVE",
+            "event_name": "Volleyball Beach Pro Tour",
+            "match_name": "Court 3, Chennai",
+            "match_id": 113820,
+            "startTime": "09:45:00 AM 22-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ud9qiKjVQ4KzbSi-BqVfhA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113820_english_hls_8952ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -154,18 +154,6 @@
             "match_name": "UP Nawabs vs Team Abu Dhabi",
             "match_id": 112591,
             "startTime": "07:15:00 PM 22-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",
-            "team_1": "West Indies",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh tour of West Indies, 2024",
-            "match_name": "West Indies vs Bangladesh",
-            "match_id": 112344,
-            "startTime": "07:30:00 PM 22-11-2024"
         }
     ]
 }
