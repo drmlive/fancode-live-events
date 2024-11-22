@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:37:48 PM 22-11-2024",
+    "last update time": "06:47:53 PM 22-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -144,20 +144,6 @@
             "adfree_url": "https://dai.fancode.com/primary/113820_english_hls_8952ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Assam Police vs North East Frontier Railways SA (Guwahati Premier League 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2.jpg",
-            "team_1": "Assam Police",
-            "team_2": "North East Frontier Railways SA",
-            "status": "LIVE",
-            "event_name": "Guwahati Premier League 2024",
-            "match_name": "Assam Police vs North East Frontier Railways SA",
-            "match_id": 113793,
-            "startTime": "04:00:00 PM 22-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/1w6BIxIWTrSV9qvPIGkumw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113793_english_hls_5642ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "UP Nawabs vs Team Abu Dhabi (Abu Dhabi T10 League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112591_4620_UPN_TAD_fc-web.jpg",
@@ -168,6 +154,18 @@
             "match_name": "UP Nawabs vs Team Abu Dhabi",
             "match_id": 112591,
             "startTime": "07:15:00 PM 22-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",
+            "team_1": "West Indies",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh tour of West Indies, 2024",
+            "match_name": "West Indies vs Bangladesh",
+            "match_id": 112344,
+            "startTime": "07:30:00 PM 22-11-2024"
         }
     ]
 }
