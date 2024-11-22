@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:42:35 AM 23-11-2024",
+    "last update time": "12:52:41 AM 23-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "12:00:00 AM 23-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/aWFex4CPQPmwbasiB34K1Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112415_english_hls_5667ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Bayern Munich vs Barcelona (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/113549_CASACARDS_APP.png",
+            "team_1": "Bayern Munich",
+            "team_2": "Barcelona",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Bayern Munich vs Barcelona",
+            "match_id": 113549,
+            "startTime": "01:00:00 AM 23-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/i_FKM6qLRrWjLtHG34XbIQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113549_english_hls_6618ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "Bhutan vs Bahrain",
             "match_id": 112372,
             "startTime": "11:30:00 AM 23-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Green Windhoek Jets vs Fish River Eagles (Castle Lite T20, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112808_4626_GWJ_FRE_fc-web_1731668240430.jpg",
-            "team_1": "Green Windhoek Jets",
-            "team_2": "Fish River Eagles",
-            "status": "UPCOMING",
-            "event_name": "Castle Lite T20, 2024",
-            "match_name": "Green Windhoek Jets vs Fish River Eagles",
-            "match_id": 112808,
-            "startTime": "12:45:00 PM 23-11-2024"
         }
     ]
 }
