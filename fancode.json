@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:58:21 AM 23-11-2024",
+    "last update time": "11:08:26 AM 23-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/113981_english_hls_8319ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Brisbane Roar vs Adelaide United (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110919_4567_BRB_ADL_fc-web_1728983127321.jpg",
+            "team_1": "Brisbane Roar",
+            "team_2": "Adelaide United",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Brisbane Roar vs Adelaide United",
+            "match_id": 110919,
+            "startTime": "11:30:00 AM 23-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/dcE_iC6QSSGJW-dIseCQLQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110919_english_hls_8816ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Morrisville Samp Army vs UP Nawabs (Abu Dhabi T10 League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112593_4620_MSA_UPN_fc-web.jpg",
@@ -134,18 +148,6 @@
             "match_name": "Deccan Gladiators vs Team Abu Dhabi",
             "match_id": 112596,
             "startTime": "09:30:00 PM 23-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Thailand vs United Arab Emirates (ICC Men's T20 World Cup Asia Qualifier B, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112373_4613_TL_UAE_fc-web.jpg",
-            "team_1": "Thailand",
-            "team_2": "United Arab Emirates",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
-            "match_name": "Thailand vs United Arab Emirates",
-            "match_id": 112373,
-            "startTime": "11:30:00 AM 23-11-2024"
         }
     ]
 }
