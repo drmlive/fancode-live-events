@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:39:51 AM 24-11-2024",
+    "last update time": "07:49:56 AM 24-11-2024",
     "matches": [
+        {
+            "event_category": "Formula 1",
+            "title": "Race vs United States of America (F1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.jpg",
+            "team_1": "Race",
+            "team_2": "United States of America",
+            "status": "UPCOMING",
+            "event_name": "F1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024",
+            "match_name": "Race",
+            "match_id": 95247,
+            "startTime": "11:30:00 AM 24-11-2024"
+        },
         {
             "event_category": "Golf",
             "title": "Day 4 vs Brisbane, Australia (BMW Australian PGA Championship)",
@@ -16,6 +28,34 @@
             "startTime": "06:30:00 AM 24-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/RzqLxdp4T8-H5HbD3T16AA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113052_english_hls_5139ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Melbourne Victory (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110921_4567_WEL_MLV_fc-web_1728983127415.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Melbourne Victory",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Wellington Phoenix vs Melbourne Victory",
+            "match_id": 110921,
+            "startTime": "08:00:00 AM 24-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/qzx7T-6bRZe9Xtq_HJuqiw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110921_english_hls_5480ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Volleyball Beach Pro Tour vs Chennai, India (Volleyball Beach Pro Tour)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BPT-chennai-old.jpg",
+            "team_1": "Volleyball Beach Pro Tour",
+            "team_2": "Chennai, India",
+            "status": "LIVE",
+            "event_name": "Volleyball Beach Pro Tour",
+            "match_name": "Volleyball Beach Pro Tour",
+            "match_id": 113982,
+            "startTime": "08:00:00 AM 24-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/zNWHv0LzQq2rRMOkN6pC5w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113982_english_hls_8352ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -112,42 +152,6 @@
             "match_name": "Men in Blue vs United CC Olot",
             "match_id": 113130,
             "startTime": "01:15:00 PM 24-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Botswana vs Sierra Leone (ICC Men's T20 WC Africa Sub Regional Qualifier C)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113783_4659_BOT_SIE_fc-web.jpg",
-            "team_1": "Botswana",
-            "team_2": "Sierra Leone",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-            "match_name": "Botswana vs Sierra Leone",
-            "match_id": 113783,
-            "startTime": "02:00:00 PM 24-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Men in Blue vs United CC Olot (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113131_4641_MIB_UCC_fc-web_1732094530291.jpg",
-            "team_1": "Men in Blue",
-            "team_2": "United CC Olot",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Men in Blue vs United CC Olot",
-            "match_id": 113131,
-            "startTime": "03:15:00 PM 24-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Men in Blue vs Pak I Care Badalona (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113132_4641_MIB_PIC_fc-web_1732094530327.jpg",
-            "team_1": "Men in Blue",
-            "team_2": "Pak I Care Badalona",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Men in Blue vs Pak I Care Badalona",
-            "match_id": 113132,
-            "startTime": "05:15:00 PM 24-11-2024"
         }
     ]
 }
