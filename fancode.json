@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:08:45 PM 24-11-2024",
+    "last update time": "11:18:52 PM 24-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,20 +47,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pak I Care Badalona vs Catalunya Coalesce (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113134_4641_CCO_PIC_fc-web_1732094530322.jpg",
-            "team_1": "Pak I Care Badalona",
-            "team_2": "Catalunya Coalesce",
-            "status": "LIVE",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Pak I Care Badalona vs Catalunya Coalesce",
-            "match_id": 113134,
-            "startTime": "09:15:00 PM 24-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/rsp5ZqitQO6UKoK-2ymu8g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113134_english_hls_4883ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Kuwait Mavericks vs Cyro Maviricks (KCC T20 Challengers A League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112416_4616_KMW_RGD_fc-web_1731569491066.jpg",
             "team_1": "Kuwait Mavericks",
@@ -79,11 +65,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113201_4642_NJT_CGE_fc-web.jpg",
             "team_1": "NJ Titans",
             "team_2": "California Golden Eagles",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "US Premier League, 2024",
             "match_name": "NJ Titans vs California Golden Eagles",
             "match_id": 113201,
-            "startTime": "11:30:00 PM 24-11-2024"
+            "startTime": "11:30:00 PM 24-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/45BlwKdbQaSOZa2RkJtmEg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113201_english_hls_4581ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -123,6 +111,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Delhi Bulls vs Bangla Tigers (Abu Dhabi T10 League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112603_4620_DB_BT_fc-web.jpg",
+            "team_1": "Delhi Bulls",
+            "team_2": "Bangla Tigers",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10 League, 2024",
+            "match_name": "Delhi Bulls vs Bangla Tigers",
+            "match_id": 112603,
+            "startTime": "09:30:00 PM 25-11-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Saudi Arabia vs Cambodia (ICC Men's T20 World Cup Asia Qualifier B, 2024)",
             "src": "https://images.fancode.com/aig/match/v1/112376_CASACARDS_APP.png",
             "team_1": "Saudi Arabia",
@@ -147,15 +147,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Delhi Bulls vs Bangla Tigers (Abu Dhabi T10 League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112603_4620_DB_BT_fc-web.jpg",
-            "team_1": "Delhi Bulls",
-            "team_2": "Bangla Tigers",
+            "title": "United CC Olot vs Badalona Shaheen (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113135_4641_UCC_BSH_fc-web_1732095063022.jpg",
+            "team_1": "United CC Olot",
+            "team_2": "Badalona Shaheen",
             "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10 League, 2024",
-            "match_name": "Delhi Bulls vs Bangla Tigers",
-            "match_id": 112603,
-            "startTime": "09:30:00 PM 25-11-2024"
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "United CC Olot vs Badalona Shaheen",
+            "match_id": 113135,
+            "startTime": "01:15:00 PM 25-11-2024"
         }
     ]
 }
