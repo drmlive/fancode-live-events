@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:09:03 AM 24-11-2024",
+    "last update time": "06:19:09 AM 24-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "03:30:00 AM 24-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/3CyUSvu8QDKu4W7JLffbQQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113199_english_hls_4958ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Brisbane, Australia (BMW Australian PGA Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-championship-old.jpg",
+            "team_1": "Day 4",
+            "team_2": "Brisbane, Australia",
+            "status": "LIVE",
+            "event_name": "BMW Australian PGA Championship",
+            "match_name": "Day 4",
+            "match_id": 113052,
+            "startTime": "06:30:00 AM 24-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/RzqLxdp4T8-H5HbD3T16AA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113052_english_hls_5139ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Men in Blue vs United CC Olot",
             "match_id": 113131,
             "startTime": "03:15:00 PM 24-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Men in Blue vs Pak I Care Badalona (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113132_4641_MIB_PIC_fc-web_1732094530327.jpg",
-            "team_1": "Men in Blue",
-            "team_2": "Pak I Care Badalona",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Men in Blue vs Pak I Care Badalona",
-            "match_id": 113132,
-            "startTime": "05:15:00 PM 24-11-2024"
         }
     ]
 }
