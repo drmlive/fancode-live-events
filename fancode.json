@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:48:35 PM 25-11-2024",
+    "last update time": "04:58:40 PM 25-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "05:00:00 PM 25-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/CMg7VIHWTLyfPXHFp2Afew/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112601_english_hls_5328ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "United CC Olot vs Badalona Shaheen (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113136_4641_UCC_BSH_fc-web_1732094530296.jpg",
-            "team_1": "United CC Olot",
-            "team_2": "Badalona Shaheen",
-            "status": "LIVE",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "United CC Olot vs Badalona Shaheen",
-            "match_id": 113136,
-            "startTime": "03:15:00 PM 25-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/EZ44NkmQQ9yd-gMVBMWH_Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113136_english_hls_5601ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -101,11 +87,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113137_4641_BSH_CCO_fc-web_1732094530287.jpg",
             "team_1": "Badalona Shaheen",
             "team_2": "Catalunya Coalesce",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECS Spain, Encore, 2024",
             "match_name": "Badalona Shaheen vs Catalunya Coalesce",
             "match_id": 113137,
-            "startTime": "05:15:00 PM 25-11-2024"
+            "startTime": "05:15:00 PM 25-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/RfM3MbOASIWd4B0HLdh31Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113137_english_hls_5124ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +142,18 @@
             "match_name": "Maryland Mavericks vs California Golden Eagles",
             "match_id": 113203,
             "startTime": "07:30:00 PM 25-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "United CC Olot vs Catalunya Coalesce (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113139_4641_UCC_CCO_fc-web_1732094531844.jpg",
+            "team_1": "United CC Olot",
+            "team_2": "Catalunya Coalesce",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "United CC Olot vs Catalunya Coalesce",
+            "match_id": 113139,
+            "startTime": "09:15:00 PM 25-11-2024"
         }
     ]
 }
