@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:29:31 PM 25-11-2024",
+    "last update time": "06:39:36 PM 25-11-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Team Abu Dhabi vs New York Strikers (Abu Dhabi T10 League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112601_4620_TAD_NYS_fc-web.jpg",
-            "team_1": "Team Abu Dhabi",
-            "team_2": "New York Strikers",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T10 League, 2024",
-            "match_name": "Team Abu Dhabi vs New York Strikers",
-            "match_id": 112601,
-            "startTime": "05:00:00 PM 25-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/CMg7VIHWTLyfPXHFp2Afew/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112601_english_hls_5328ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Thailand vs Bhutan (ICC Men's T20 World Cup Asia Qualifier B, 2024)",
@@ -61,13 +47,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Chennai Brave Jaguars vs Ajman Bolts (Abu Dhabi T10 League, 2024)",
+            "title": "Team Abu Dhabi vs New York Strikers (Abu Dhabi T10 League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112601_4620_TAD_NYS_fc-web.jpg",
+            "team_1": "Team Abu Dhabi",
+            "team_2": "New York Strikers",
+            "status": "LIVE",
+            "event_name": "Abu Dhabi T10 League, 2024",
+            "match_name": "Team Abu Dhabi vs New York Strikers",
+            "match_id": 112601,
+            "startTime": "05:00:00 PM 25-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/CMg7VIHWTLyfPXHFp2Afew/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112601_english_hls_5328ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman Bolts vs Chennai Brave Jaguars (Abu Dhabi T10 League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112602_4620_CB_AB_fc-web.jpg",
-            "team_1": "Chennai Brave Jaguars",
-            "team_2": "Ajman Bolts",
+            "team_1": "Ajman Bolts",
+            "team_2": "Chennai Brave Jaguars",
             "status": "UPCOMING",
             "event_name": "Abu Dhabi T10 League, 2024",
-            "match_name": "Chennai Brave Jaguars vs Ajman Bolts",
+            "match_name": "Ajman Bolts vs Chennai Brave Jaguars",
             "match_id": 112602,
             "startTime": "07:15:00 PM 25-11-2024"
         },
