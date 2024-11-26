@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:14:49 PM 26-11-2024",
+    "last update time": "05:24:55 PM 26-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "05:00:00 PM 26-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/kdIHhLbXQBiG313ZwZBGJg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112604_english_hls_5278ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Saint Helena vs Sierra Leone (ICC Men's T20 WC Africa Sub Regional Qualifier C)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113777_4659_SH_SIE_fc-web.jpg",
-            "team_1": "Saint Helena",
-            "team_2": "Sierra Leone",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-            "match_name": "Saint Helena vs Sierra Leone",
-            "match_id": 113777,
-            "startTime": "02:00:00 PM 26-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/RqZD6Q4YShedhAur8SmPww/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113777_english_hls_5940ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -131,25 +117,11 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "Pakistan tour of Zimbabwe, 2024",
-            "match_name": "Zimbabwe vs Pakistan",
-            "match_id": 112356,
-            "startTime": "01:00:00 PM 26-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/nDGYUTQMQwOMHfwMzMppdQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112356_english_hls_5567ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",
             "team_1": "West Indies",
             "team_2": "Bangladesh",
-            "status": "PAUSED",
+            "status": "UPCOMING",
             "event_name": "Bangladesh tour of West Indies, 2024",
             "match_name": "West Indies vs Bangladesh",
             "match_id": 112344,
@@ -166,6 +138,18 @@
             "match_name": "Bangla Tigers vs Northern Warriors",
             "match_id": 112605,
             "startTime": "07:15:00 PM 26-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Morrisville Samp Army vs Delhi Bulls (Abu Dhabi T10 League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112606_4620_MSA_DB_fc-web.jpg",
+            "team_1": "Morrisville Samp Army",
+            "team_2": "Delhi Bulls",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10 League, 2024",
+            "match_name": "Morrisville Samp Army vs Delhi Bulls",
+            "match_id": 112606,
+            "startTime": "09:30:00 PM 26-11-2024"
         }
     ]
 }
