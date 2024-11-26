@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:21:44 PM 26-11-2024",
+    "last update time": "12:31:49 PM 26-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
             "team_1": "Zimbabwe",
             "team_2": "Pakistan",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Pakistan tour of Zimbabwe, 2024",
             "match_name": "Zimbabwe vs Pakistan",
             "match_id": 112356,
-            "startTime": "01:00:00 PM 26-11-2024"
+            "startTime": "01:00:00 PM 26-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/nDGYUTQMQwOMHfwMzMppdQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112356_english_hls_5567ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -93,13 +95,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pak Barcelona vs Barcelona International (ECS Spain, Encore, 2024)",
+            "title": "Barcelona International vs Pak Barcelona (ECS Spain, Encore, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113140_4641_PKB_BI_fc-web_1732094530304.jpg",
-            "team_1": "Pak Barcelona",
-            "team_2": "Barcelona International",
+            "team_1": "Barcelona International",
+            "team_2": "Pak Barcelona",
             "status": "UPCOMING",
             "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Pak Barcelona vs Barcelona International",
+            "match_name": "Barcelona International vs Pak Barcelona",
             "match_id": 113140,
             "startTime": "01:15:00 PM 26-11-2024"
         },
