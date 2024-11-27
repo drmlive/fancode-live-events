@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:04:33 AM 28-11-2024",
+    "last update time": "12:14:46 AM 28-11-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Soca Kings vs Blue Devils (Dream11 Trinidad T10 Blast, 6th Edition, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113557_4653_SCK_BLD_fc-web.jpg",
-            "team_1": "Soca Kings",
-            "team_2": "Blue Devils",
-            "status": "LIVE",
-            "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
-            "match_name": "Soca Kings vs Blue Devils",
-            "match_id": 113557,
-            "startTime": "10:00:00 PM 27-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/JmVCc_P8RO2r3rIJQfrY2Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113557_english_hls_5193ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Phoenix Riders vs Afghan Tigers (KCC T20 Challengers A League, 2024-25)",
@@ -77,11 +63,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113558_4653_SLS_TLS_fc-web.jpg",
             "team_1": "Scarlet Ibis Scorchers",
             "team_2": "Trillions System Ltd Strikers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
             "match_name": "Scarlet Ibis Scorchers vs Trillions System Ltd Strikers",
             "match_id": 113558,
-            "startTime": "12:30:00 AM 28-11-2024"
+            "startTime": "12:30:00 AM 28-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/tJ6s_Tv-RBGonf4Lx0KBew/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113558_english_hls_5189ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -153,6 +141,18 @@
             "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
             "match_name": "Qatar vs Saudi Arabia",
             "match_id": 112382,
+            "startTime": "11:30:00 AM 28-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cambodia vs Bhutan (ICC Men's T20 World Cup Asia Qualifier B, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112381_4613_CAB_BHU_fc-web.jpg",
+            "team_1": "Cambodia",
+            "team_2": "Bhutan",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
+            "match_name": "Cambodia vs Bhutan",
+            "match_id": 112381,
             "startTime": "11:30:00 AM 28-11-2024"
         }
     ]
