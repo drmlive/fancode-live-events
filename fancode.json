@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:03:10 PM 28-11-2024",
+    "last update time": "03:13:25 PM 28-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -61,20 +61,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Saudi Arabia vs Qatar (ICC Men's T20 World Cup Asia Qualifier B, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112382_4613_QAT_SAU_fc-web.jpg",
-            "team_1": "Saudi Arabia",
-            "team_2": "Qatar",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 World Cup Asia Qualifier B, 2024",
-            "match_name": "Saudi Arabia vs Qatar",
-            "match_id": 112382,
-            "startTime": "11:30:00 AM 28-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/apVC3ZIlQiC8Dxdg5XJfyg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112382_english_hls_5826ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Deccan Gladiators vs Bangla Tigers (Abu Dhabi T10 League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112610_4620_DG_BT_fc-web.jpg",
             "team_1": "Deccan Gladiators",
@@ -127,11 +113,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/108815_4476_JNB_DHC_fc-web.jpg",
             "team_1": "Jeonbuk Motors",
             "team_2": "Dynamic Herb Cebu",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Two 2024-25",
             "match_name": "Jeonbuk Motors vs Dynamic Herb Cebu",
             "match_id": 108815,
-            "startTime": "03:30:00 PM 28-11-2024"
+            "startTime": "03:30:00 PM 28-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/EPXaOAS8RjuPa6Ne9j_e8g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108815_english_hls_6527ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -156,6 +144,18 @@
             "match_name": "Magic CC Badalona vs Royal Barcelona",
             "match_id": 113151,
             "startTime": "05:15:00 PM 28-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nigeria vs Botswana (ICC Men's T20 WC Africa Sub Regional Qualifier C)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113776_4659_NIG_BOT_fc-web.jpg",
+            "team_1": "Nigeria",
+            "team_2": "Botswana",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
+            "match_name": "Nigeria vs Botswana",
+            "match_id": 113776,
+            "startTime": "06:20:00 PM 28-11-2024"
         }
     ]
 }
