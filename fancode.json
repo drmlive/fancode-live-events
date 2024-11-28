@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:12:03 PM 28-11-2024",
+    "last update time": "01:22:09 PM 28-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,6 +58,20 @@
             "startTime": "01:15:00 PM 28-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/ahjp0ORkSyiIwdrXoDZdvg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113149_english_hls_5336ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Oil India Limited vs Gauhati Town Club (2nd Protech Guwahati Premier League 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+            "team_1": "Oil India Limited",
+            "team_2": "Gauhati Town Club",
+            "status": "LIVE",
+            "event_name": "2nd Protech Guwahati Premier League 2024",
+            "match_name": "Oil India Limited vs Gauhati Town Club",
+            "match_id": 113807,
+            "startTime": "01:30:00 PM 28-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/sztbf0sRQVScrygRc3zMiw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113807_english_hls_6414ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -121,6 +135,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Sierra Leone vs Eswatini (ICC Men's T20 WC Africa Sub Regional Qualifier C)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113775_4659_SIE_SWZ_fc-web.jpg",
+            "team_1": "Sierra Leone",
+            "team_2": "Eswatini",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
+            "match_name": "Sierra Leone vs Eswatini",
+            "match_id": 113775,
+            "startTime": "03:15:00 PM 28-11-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "United Arab Emirates vs Bahrain (ICC Men's T20 World Cup Asia Qualifier B, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112383_4613_UAE_BAH_fc-web.jpg",
             "team_1": "United Arab Emirates",
@@ -130,30 +156,6 @@
             "match_name": "United Arab Emirates vs Bahrain",
             "match_id": 112383,
             "startTime": "03:45:00 PM 28-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Magic Badalona vs Royal Barcelona (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113151_4641_MGC_RB_fc-web_1732094664348.jpg",
-            "team_1": "Magic Badalona",
-            "team_2": "Royal Barcelona",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Magic Badalona vs Royal Barcelona",
-            "match_id": 113151,
-            "startTime": "05:15:00 PM 28-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Nigeria vs Botswana (ICC Men's T20 WC Africa Sub Regional Qualifier C)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113776_4659_NIG_BOT_fc-web.jpg",
-            "team_1": "Nigeria",
-            "team_2": "Botswana",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-            "match_name": "Nigeria vs Botswana",
-            "match_id": 113776,
-            "startTime": "06:20:00 PM 28-11-2024"
         }
     ]
 }
