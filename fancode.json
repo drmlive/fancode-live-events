@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:08:33 PM 28-11-2024",
+    "last update time": "11:18:39 PM 28-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "10:00:00 PM 28-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/UKj7V_SXRaeWvxoOPxQKOw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113559_english_hls_8562ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Zalgiris Kaunas vs Vitoria Gasteiz Baskonia (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/113550_CASACARDS_APP.png",
+            "team_1": "Zalgiris Kaunas",
+            "team_2": "Vitoria Gasteiz Baskonia",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Zalgiris Kaunas vs Vitoria Gasteiz Baskonia",
+            "match_id": 113550,
+            "startTime": "11:30:00 PM 28-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/Arlu84CyQHeG9l-hsyt6xw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113550_english_hls_5406ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "Hawks XI Catalunya vs Girona",
             "match_id": 113154,
             "startTime": "01:15:00 PM 29-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hawks XI Catalunya vs Girona (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113155_4641_HAW_GIR_fc-web_1732095086676.jpg",
-            "team_1": "Hawks XI Catalunya",
-            "team_2": "Girona",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Hawks XI Catalunya vs Girona",
-            "match_id": 113155,
-            "startTime": "03:15:00 PM 29-11-2024"
         }
     ]
 }
