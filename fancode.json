@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:42:21 PM 28-11-2024",
+    "last update time": "01:52:27 PM 28-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/113149_english_hls_5336ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Ivory Coast vs Saint Helena (ICC Men's T20 WC Africa Sub Regional Qualifier C)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113774_4659_CIV_SH_fc-web.jpg",
+            "team_1": "Ivory Coast",
+            "team_2": "Saint Helena",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
+            "match_name": "Ivory Coast vs Saint Helena",
+            "match_id": 113774,
+            "startTime": "02:00:00 PM 28-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/SmM23fTiQeW7D_4WAzbMpg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113774_english_hls_5738ta-no/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Oil India Limited vs Gauhati Town Club (2nd Protech Guwahati Premier League 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
@@ -111,30 +125,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ivory Coast vs Saint Helena (ICC Men's T20 WC Africa Sub Regional Qualifier C)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113774_4659_CIV_SH_fc-web.jpg",
-            "team_1": "Ivory Coast",
-            "team_2": "Saint Helena",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-            "match_name": "Ivory Coast vs Saint Helena",
-            "match_id": 113774,
-            "startTime": "02:00:00 PM 28-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sierra Leone vs Eswatini (ICC Men's T20 WC Africa Sub Regional Qualifier C)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113775_4659_SIE_SWZ_fc-web.jpg",
-            "team_1": "Sierra Leone",
-            "team_2": "Eswatini",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier C",
-            "match_name": "Sierra Leone vs Eswatini",
-            "match_id": 113775,
-            "startTime": "02:50:00 PM 28-11-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Ripoll Warriors vs Magic Badalona (ECS Spain, Encore, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113150_4641_RIW_MGC_fc-web_1732094570089.jpg",
             "team_1": "Ripoll Warriors",
@@ -156,6 +146,18 @@
             "match_name": "United Arab Emirates vs Bahrain",
             "match_id": 112383,
             "startTime": "03:45:00 PM 28-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Magic Badalona vs Royal Barcelona (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113151_4641_MGC_RB_fc-web_1732094664348.jpg",
+            "team_1": "Magic Badalona",
+            "team_2": "Royal Barcelona",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Magic Badalona vs Royal Barcelona",
+            "match_id": 113151,
+            "startTime": "05:15:00 PM 28-11-2024"
         }
     ]
 }
