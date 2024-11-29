@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:12:31 PM 29-11-2024",
+    "last update time": "09:22:36 PM 29-11-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Ajman Bolts vs Northern Warriors (Abu Dhabi T10 League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112616_4620_NW_AB_fc-web.jpg",
+            "team_1": "Ajman Bolts",
+            "team_2": "Northern Warriors",
+            "status": "LIVE",
+            "event_name": "Abu Dhabi T10 League, 2024",
+            "match_name": "Ajman Bolts vs Northern Warriors",
+            "match_id": 112616,
+            "startTime": "09:30:00 PM 29-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/5vDyYUghTg-j6l4ZGrMq7g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112616_english_hls_5952ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Afghan Tigers vs GAT (KCC T20 Challengers A League, 2024-25)",
@@ -74,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/113814_english_hls_5150ta-di/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Free Practice 2 vs Qatar (F1 ACADEMY QATAR 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Qatar-Fc_web.jpg",
-            "team_1": "Free Practice 2",
-            "team_2": "Qatar",
-            "status": "LIVE",
-            "event_name": "F1 ACADEMY QATAR 2024",
-            "match_name": "Free Practice 2",
-            "match_id": 114113,
-            "startTime": "08:30:00 PM 29-11-2024",
-            "dai_url": "https://dai.fancode.com/primary/114113_english_hls_8405adfreeta-no/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114113_english_hls_8405adfreeta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "UP Nawabs vs Chennai Brave Jaguars (Abu Dhabi T10 League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112615_4620_CB_UPN_fc-web.jpg",
@@ -100,18 +100,6 @@
             "startTime": "07:15:00 PM 29-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/X9_rmB-3SHKy62D32eD7jw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112615_english_hls_5470ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ajman Bolts vs Northern Warriors (Abu Dhabi T10 League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112616_4620_NW_AB_fc-web.jpg",
-            "team_1": "Ajman Bolts",
-            "team_2": "Northern Warriors",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10 League, 2024",
-            "match_name": "Ajman Bolts vs Northern Warriors",
-            "match_id": 112616,
-            "startTime": "09:30:00 PM 29-11-2024"
         },
         {
             "event_category": "Cricket",
@@ -160,6 +148,18 @@
             "match_name": "Bangla Tigers vs UP Nawabs",
             "match_id": 112617,
             "startTime": "02:45:00 PM 30-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Northern Warriors vs Team Abu Dhabi (Abu Dhabi T10 League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112618_4620_NW_TAD_fc-web.jpg",
+            "team_1": "Northern Warriors",
+            "team_2": "Team Abu Dhabi",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10 League, 2024",
+            "match_name": "Northern Warriors vs Team Abu Dhabi",
+            "match_id": 112618,
+            "startTime": "05:00:00 PM 30-11-2024"
         }
     ]
 }
