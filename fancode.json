@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:24:20 AM 30-11-2024",
+    "last update time": "12:34:25 AM 30-11-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "NJ Titans vs Maryland Mavericks (US Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113208_4642_MAV_NJT_fc-web.jpg",
-            "team_1": "NJ Titans",
-            "team_2": "Maryland Mavericks",
-            "status": "LIVE",
-            "event_name": "US Premier League, 2024",
-            "match_name": "NJ Titans vs Maryland Mavericks",
-            "match_id": 113210,
-            "startTime": "08:30:00 PM 29-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/onlB6lukTLqpluedJctC0A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113210_english_hls_5324ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Al Mulla Exchange vs Cyro Maviricks (KCC T20 Challengers A League, 2024-25)",
@@ -74,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/113787_english_hls_5257adfreeta-di/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Panathinaikos OPAP Athens vs Monaco (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/113552_CASACARDS_APP.png",
+            "team_1": "Panathinaikos OPAP Athens",
+            "team_2": "Monaco",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Panathinaikos OPAP Athens vs Monaco",
+            "match_id": 113552,
+            "startTime": "12:45:00 AM 30-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/vb5JVLxUQoKOyXBXkjy3gQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113552_english_hls_5161ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Bangladesh Women vs Ireland Women (Ireland Women tour of Bangladesh, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
@@ -110,6 +110,18 @@
             "startTime": "02:45:00 PM 30-11-2024"
         },
         {
+            "event_category": "Football",
+            "title": "Sheffield United vs Sunderland (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109844_4352_SHF_SUN_fc-web.jpg",
+            "team_1": "Sheffield United",
+            "team_2": "Sunderland",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Sheffield United vs Sunderland",
+            "match_id": 109844,
+            "startTime": "01:30:00 AM 30-11-2024"
+        },
+        {
             "event_category": "Cricket",
             "title": "Northern Warriors vs Team Abu Dhabi (Abu Dhabi T10 League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112618_4620_NW_TAD_fc-web.jpg",
@@ -144,18 +156,6 @@
             "match_name": "West Indies vs Bangladesh",
             "match_id": 112345,
             "startTime": "08:30:00 PM 30-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Deccan Gladiators vs Delhi Bulls (Abu Dhabi T10 League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112620_4620_DG_DB_fc-web.jpg",
-            "team_1": "Deccan Gladiators",
-            "team_2": "Delhi Bulls",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10 League, 2024",
-            "match_name": "Deccan Gladiators vs Delhi Bulls",
-            "match_id": 112620,
-            "startTime": "09:30:00 PM 30-11-2024"
         }
     ]
 }
