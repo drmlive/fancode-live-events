@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:10:48 PM 29-11-2024",
+    "last update time": "06:20:55 PM 29-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,6 +72,20 @@
             "adfree_url": "https://dai.fancode.com/primary/113787_english_hls_5257adfreeta-di/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 2 vs Spain (Andalucia Costa Del Sol Open De Espana)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Spain",
+            "status": "LIVE",
+            "event_name": "Andalucia Costa Del Sol Open De Espana",
+            "match_name": "Day 2",
+            "match_id": 113814,
+            "startTime": "06:30:00 PM 29-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/mnOkUHy6SS6yr92hU-RCSA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113814_english_hls_5150ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Chennai Brave Jaguars vs UP Nawabs (Abu Dhabi T10 League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112615_4620_CB_UPN_fc-web.jpg",
@@ -109,6 +123,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Raval Sporting vs Hawks XI Catalunya (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113157_4641_HAW_RAS_fc-web_1732095235116.jpg",
+            "team_1": "Raval Sporting",
+            "team_2": "Hawks XI Catalunya",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Raval Sporting vs Hawks XI Catalunya",
+            "match_id": 113157,
+            "startTime": "07:15:00 PM 29-11-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Biratnagar Kings vs Janakpur Bolts (Nepal Premier League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113724_4657_BK_JKB_fc-Web.jpg",
             "team_1": "Biratnagar Kings",
@@ -130,30 +156,6 @@
             "match_name": "Bangla Tigers vs UP Nawabs",
             "match_id": 112617,
             "startTime": "02:45:00 PM 30-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Raval Sporting vs Hawks XI Catalunya (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113157_4641_HAW_RAS_fc-web_1732095235116.jpg",
-            "team_1": "Raval Sporting",
-            "team_2": "Hawks XI Catalunya",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Raval Sporting vs Hawks XI Catalunya",
-            "match_id": 113157,
-            "startTime": "07:15:00 PM 29-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Afghan Tigers vs GAT (KCC T20 Challengers A League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112419_4616_AGT_GAT_fc-web_1731569489836.jpg",
-            "team_1": "Afghan Tigers",
-            "team_2": "GAT",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "Afghan Tigers vs GAT",
-            "match_id": 112419,
-            "startTime": "08:00:00 PM 29-11-2024"
         }
     ]
 }
