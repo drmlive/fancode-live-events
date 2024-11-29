@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:33:48 PM 29-11-2024",
+    "last update time": "11:43:58 PM 29-11-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -61,20 +61,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ajman Bolts vs Northern Warriors (Abu Dhabi T10 League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112616_4620_NW_AB_fc-web.jpg",
-            "team_1": "Ajman Bolts",
-            "team_2": "Northern Warriors",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T10 League, 2024",
-            "match_name": "Ajman Bolts vs Northern Warriors",
-            "match_id": 112616,
-            "startTime": "09:30:00 PM 29-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/5vDyYUghTg-j6l4ZGrMq7g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112616_english_hls_5952ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bangladesh Women vs Ireland Women (Ireland Women tour of Bangladesh, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
             "team_1": "Bangladesh Women",
@@ -115,11 +101,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112420_4616_AEC_RGD_fc-web_1731569489790.jpg",
             "team_1": "Al Mulla Exchange",
             "team_2": "Cyro Maviricks",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "KCC T20 Challengers A League, 2024-25",
             "match_name": "Al Mulla Exchange vs Cyro Maviricks",
             "match_id": 112420,
-            "startTime": "12:00:00 AM 30-11-2024"
+            "startTime": "12:00:00 AM 30-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/wTAt-JOhShCb0NCN2jltqQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112420_english_hls_5335ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +144,18 @@
             "match_name": "Northern Warriors vs Team Abu Dhabi",
             "match_id": 112618,
             "startTime": "05:00:00 PM 30-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman Bolts vs Morrisville Samp Army (Abu Dhabi T10 League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112619_4620_AB_MSA_fc-web.jpg",
+            "team_1": "Ajman Bolts",
+            "team_2": "Morrisville Samp Army",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10 League, 2024",
+            "match_name": "Ajman Bolts vs Morrisville Samp Army",
+            "match_id": 112619,
+            "startTime": "07:15:00 PM 30-11-2024"
         }
     ]
 }
