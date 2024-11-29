@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:36:11 AM 30-11-2024",
+    "last update time": "03:46:17 AM 30-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "12:30:00 AM 30-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/ynnvQFI_TvmwC7BBe6XGpA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113211_english_hls_5138ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield United vs Sunderland (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109844_4352_SHF_SUN_fc-web.jpg",
-            "team_1": "Sheffield United",
-            "team_2": "Sunderland",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Sheffield United vs Sunderland",
-            "match_id": 109844,
-            "startTime": "01:30:00 AM 30-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/Rl7oGJNdTKumbZ2IzxXxog/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109844_english_hls_5487ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +136,18 @@
             "match_name": "Girona vs Barcelona Qalandar",
             "match_id": 113160,
             "startTime": "03:15:00 PM 30-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Girona vs Raval Sporting (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113161_4641_GIR_RAS_fc-web_1732095436130.jpg",
+            "team_1": "Girona",
+            "team_2": "Raval Sporting",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Girona vs Raval Sporting",
+            "match_id": 113161,
+            "startTime": "05:15:00 PM 30-11-2024"
         }
     ]
 }
