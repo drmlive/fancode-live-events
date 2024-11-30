@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:41:07 PM 30-11-2024",
+    "last update time": "12:51:13 PM 30-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,20 +47,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Kashiwa Reysol vs Vissel Kobe (J League 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113509_3921_REY_VIS_fc-web.jpg",
-            "team_1": "Kashiwa Reysol",
-            "team_2": "Vissel Kobe",
-            "status": "LIVE",
-            "event_name": "J League 2024",
-            "match_name": "Kashiwa Reysol vs Vissel Kobe",
-            "match_id": 113509,
-            "startTime": "10:30:00 AM 30-11-2024",
-            "dai_url": "https://dai.fancode.com/primary/113509_english_hls_2084adfreeta-di/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113509_english_hls_2084adfreeta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Melbourne City vs Western Sydney Wanderers (A League 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110925_4567_MLC_SYW_fc-web_1728983128205.jpg",
             "team_1": "Melbourne City",
@@ -72,20 +58,6 @@
             "startTime": "11:30:00 AM 30-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/e43MsHXVQASdsXxtAAVY9A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110925_english_hls_5474ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Machida Zelvia vs Kyoto Sanga (J League 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113510_3921_MZ_KYS_fc-web.jpg",
-            "team_1": "Machida Zelvia",
-            "team_2": "Kyoto Sanga",
-            "status": "LIVE",
-            "event_name": "J League 2024",
-            "match_name": "Machida Zelvia vs Kyoto Sanga",
-            "match_id": 113510,
-            "startTime": "10:30:00 AM 30-11-2024",
-            "dai_url": "https://dai.fancode.com/primary/113510_english_hls_8257adfreeta-di/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113510_english_hls_8257adfreeta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +130,30 @@
             "match_name": "Barcelona Qalandar vs Girona",
             "match_id": 113159,
             "startTime": "01:15:00 PM 30-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "India A vs India Seniors (DCCI Challenger Trophy 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "India A",
+            "team_2": "India Seniors",
+            "status": "UPCOMING",
+            "event_name": "DCCI Challenger Trophy 2024",
+            "match_name": "India A vs India Seniors",
+            "match_id": 114198,
+            "startTime": "01:30:00 PM 30-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Girona vs Barcelona Qalandar (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113160_4641_GIR_BQL_fc-web_1732095387840.jpg",
+            "team_1": "Girona",
+            "team_2": "Barcelona Qalandar",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Girona vs Barcelona Qalandar",
+            "match_id": 113160,
+            "startTime": "03:15:00 PM 30-11-2024"
         }
     ]
 }
