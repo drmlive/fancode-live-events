@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:05:13 PM 30-11-2024",
+    "last update time": "07:15:19 PM 30-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "07:15:00 PM 30-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/nOpr8K8lQ4SAiijuJ1wAvA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112619_english_hls_5054ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Raval Sporting vs Royal Barcelona (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113162_4641_RB_RAS_fc-web_1732095488805.jpg",
+            "team_1": "Raval Sporting",
+            "team_2": "Royal Barcelona",
+            "status": "LIVE",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Raval Sporting vs Royal Barcelona",
+            "match_id": 113162,
+            "startTime": "07:15:00 PM 30-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/m93FVkmnRumYCunF9rF3ZA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113162_english_hls_8311ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -33,27 +47,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Raval Sporting vs Royal Barcelona (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113162_4641_RB_RAS_fc-web_1732095488805.jpg",
-            "team_1": "Raval Sporting",
-            "team_2": "Royal Barcelona",
-            "status": "LIVE",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Raval Sporting vs Royal Barcelona",
-            "match_id": 113162,
-            "startTime": "07:15:00 PM 30-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/m93FVkmnRumYCunF9rF3ZA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113162_english_hls_8311ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hampshire vs Lahore Qalandars (Global Super League, 2024)",
+            "title": "Lahore Qalandars vs Hampshire (Global Super League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113492_4648_HAM_LAH_fc-web.jpg",
-            "team_1": "Hampshire",
-            "team_2": "Lahore Qalandars",
+            "team_1": "Lahore Qalandars",
+            "team_2": "Hampshire",
             "status": "LIVE",
             "event_name": "Global Super League, 2024",
-            "match_name": "Hampshire vs Lahore Qalandars",
+            "match_name": "Lahore Qalandars vs Hampshire",
             "match_id": 113492,
             "startTime": "07:30:00 PM 30-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/jK9ECXp0QXGj7WZDia2qsQ/master.m3u8",
@@ -127,6 +127,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "Pakistan",
+            "status": "UPCOMING",
+            "event_name": "Pakistan tour of Zimbabwe, 2024",
+            "match_name": "Zimbabwe vs Pakistan",
+            "match_id": 112358,
+            "startTime": "04:30:00 PM 01-12-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "NJ Titans vs New York Cowboys (US Premier League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "NJ Titans",
@@ -136,18 +148,6 @@
             "match_name": "NJ Titans vs New York Cowboys",
             "match_id": 113213,
             "startTime": "08:30:00 PM 30-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Royal Barcelona vs Raval Sporting (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113163_4641_RB_RAS_fc-web_1732095584526.jpg",
-            "team_1": "Royal Barcelona",
-            "team_2": "Raval Sporting",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Royal Barcelona vs Raval Sporting",
-            "match_id": 113163,
-            "startTime": "09:15:00 PM 30-11-2024"
         }
     ]
 }
