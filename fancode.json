@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:50:40 AM 30-11-2024",
+    "last update time": "12:00:46 PM 30-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "09:30:00 AM 30-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/2QDjqlN4SQqDoNDgcE7MKA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113501_english_hls_8753ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Biratnagar Kings vs Janakpur Bolts (Nepal Premier League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113724_4657_BK_JKB_fc-Web.jpg",
+            "team_1": "Biratnagar Kings",
+            "team_2": "Janakpur Bolts",
+            "status": "LIVE",
+            "event_name": "Nepal Premier League, 2024",
+            "match_name": "Biratnagar Kings vs Janakpur Bolts",
+            "match_id": 113724,
+            "startTime": "12:15:00 PM 30-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/42_WvOMpQdGucyQM8ZRWEA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113724_english_hls_5464ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,32 +116,6 @@
             "adfree_url": "https://dai.fancode.com/primary/114055_english_hls_5398ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Auckland vs Newcastle Jets (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110924_4567_AFC_NJ_fc-web_1728983128202.jpg",
-            "team_1": "Auckland",
-            "team_2": "Newcastle Jets",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Auckland vs Newcastle Jets",
-            "match_id": 110924,
-            "startTime": "09:30:00 AM 30-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/6NSV9x91S4mDgJq4W4fZcA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110924_english_hls_5653ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Biratnagar Kings vs Janakpur Bolts (Nepal Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113724_4657_BK_JKB_fc-Web.jpg",
-            "team_1": "Biratnagar Kings",
-            "team_2": "Janakpur Bolts",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2024",
-            "match_name": "Biratnagar Kings vs Janakpur Bolts",
-            "match_id": 113724,
-            "startTime": "12:15:00 PM 30-11-2024"
-        },
-        {
             "event_category": "Cricket",
             "title": "Bangla Tigers vs UP Nawabs (Abu Dhabi T10 League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112617_4620_BT_UPN_fc-web.jpg",
@@ -162,6 +150,18 @@
             "match_name": "Ajman Bolts vs Morrisville Samp Army",
             "match_id": 112619,
             "startTime": "07:15:00 PM 30-11-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",
+            "team_1": "West Indies",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh tour of West Indies, 2024",
+            "match_name": "West Indies vs Bangladesh",
+            "match_id": 112345,
+            "startTime": "08:30:00 PM 30-11-2024"
         }
     ]
 }
