@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:37:52 AM 30-11-2024",
+    "last update time": "06:47:57 AM 30-11-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "04:30:00 AM 30-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/_r0J0C22QX-6f2vPaWQU5A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113491_english_hls_5248ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Kingston Heath GC, Melbourne (ISPS Handa Australian Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Australian-Open_OLD.jpg",
+            "team_1": "Day 3",
+            "team_2": "Kingston Heath GC, Melbourne",
+            "status": "LIVE",
+            "event_name": "ISPS Handa Australian Open",
+            "match_name": "Day 3",
+            "match_id": 114055,
+            "startTime": "07:00:00 AM 30-11-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/4cRJfq8EQi6o7ivlsSBimQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114055_english_hls_5398ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Girona vs Raval Sporting",
             "match_id": 113161,
             "startTime": "05:15:00 PM 30-11-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Royal Barcelona vs Raval Sporting (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113162_4641_RB_RAS_fc-web_1732095488805.jpg",
-            "team_1": "Royal Barcelona",
-            "team_2": "Raval Sporting",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Royal Barcelona vs Raval Sporting",
-            "match_id": 113162,
-            "startTime": "07:15:00 PM 30-11-2024"
         }
     ]
 }
