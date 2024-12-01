@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:17:44 PM 01-12-2024",
+    "last update time": "04:27:50 PM 01-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,6 +42,20 @@
             "startTime": "01:00:00 PM 01-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/KgTLURgnSsCzyDwmJX4wKA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114200_english_hls_5171ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Second Race vs Qatar (F1 ACADEMY QATAR 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Qatar-Fc_web.jpg",
+            "team_1": "Second Race",
+            "team_2": "Qatar",
+            "status": "LIVE",
+            "event_name": "F1 ACADEMY QATAR 2024",
+            "match_name": "Second Race",
+            "match_id": 96862,
+            "startTime": "04:30:00 PM 01-12-2024",
+            "dai_url": "https://dai.fancode.com/primary/96862_english_hls_4675adfreeta-di/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/96862_english_hls_4675adfreeta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -140,18 +154,6 @@
             "match_name": "Magic CC Badalona vs Girona",
             "match_id": 113166,
             "startTime": "05:15:00 PM 01-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kathmandu Gurkhas vs Chitwan Rhinos (Nepal Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113725_4657_KMG_CWR_fc-Web.jpg",
-            "team_1": "Kathmandu Gurkhas",
-            "team_2": "Chitwan Rhinos",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2024",
-            "match_name": "Kathmandu Gurkhas vs Chitwan Rhinos",
-            "match_id": 113725,
-            "startTime": "09:00:00 AM 02-12-2024"
         }
     ]
 }
