@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:10:54 PM 01-12-2024",
+    "last update time": "09:21:01 PM 01-12-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "UP Nawabs vs Delhi Bulls (Abu Dhabi T10 League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/UP-Nawabs-VS-Delhi-Bulls_old.jpg",
-            "team_1": "UP Nawabs",
-            "team_2": "Delhi Bulls",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T10 League, 2024",
-            "match_name": "UP Nawabs vs Delhi Bulls",
-            "match_id": 112622,
-            "startTime": "07:15:00 PM 01-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/3DjIOelqRw2Xlc4ki7n4Cw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112622_english_hls_5679ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Victoria vs Rangpur Riders (Global Super League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113493_4648_RAN_VCT_fc-web.jpg",
             "team_1": "Victoria",
@@ -58,6 +44,20 @@
             "startTime": "07:30:00 PM 01-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/5GYbGgycQxilH-8kEnXMMg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113493_english_hls_5188ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Delhi Bulls vs Team Abu Dhabi (Abu Dhabi T10 League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Delhi Bulls",
+            "team_2": "Team Abu Dhabi",
+            "status": "LIVE",
+            "event_name": "Abu Dhabi T10 League, 2024",
+            "match_name": "Delhi Bulls vs Team Abu Dhabi",
+            "match_id": 112623,
+            "startTime": "09:30:00 PM 01-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/nKmPEvUmToO93ySiXJH61Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112623_english_hls_4863ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,32 +102,6 @@
             "adfree_url": "https://dai.fancode.com/primary/109889_english_hls_4764ta-di/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 vs Spain (Andalucia Costa Del Sol Open De Espana)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-de-Espana_FC-web.jpg",
-            "team_1": "Day 4",
-            "team_2": "Spain",
-            "status": "LIVE",
-            "event_name": "Andalucia Costa Del Sol Open De Espana",
-            "match_name": "Day 4",
-            "match_id": 113816,
-            "startTime": "05:30:00 PM 01-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/ur7v3igaS--64XffHwfVpg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113816_english_hls_4835ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Team Abu Dhabi vs Delhi Bulls (Abu Dhabi T10 League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Team Abu Dhabi",
-            "team_2": "Delhi Bulls",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10 League, 2024",
-            "match_name": "Team Abu Dhabi vs Delhi Bulls",
-            "match_id": 112623,
-            "startTime": "09:30:00 PM 01-12-2024"
-        },
-        {
             "event_category": "Cricket",
             "title": "Guyana Amazon Warriors vs Hampshire (Global Super League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113494_4648_GUY_HAM_fc-web.jpg",
@@ -162,6 +136,30 @@
             "match_name": "Bangladesh Women vs Ireland Women",
             "match_id": 113502,
             "startTime": "09:30:00 AM 02-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Janakpur Bolts vs Karnali Yaks (Nepal Premier League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113726_4657_JKB_KNY_fc-Web.jpg",
+            "team_1": "Janakpur Bolts",
+            "team_2": "Karnali Yaks",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2024",
+            "match_name": "Janakpur Bolts vs Karnali Yaks",
+            "match_id": 113726,
+            "startTime": "12:45:00 PM 02-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Soca Kings vs Woodland Steelpan Players (Dream11 Trinidad T10 Blast, 6th Edition, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113565_4653_SCK_SPK_fc-web.jpg",
+            "team_1": "Soca Kings",
+            "team_2": "Woodland Steelpan Players",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
+            "match_name": "Soca Kings vs Woodland Steelpan Players",
+            "match_id": 113565,
+            "startTime": "10:00:00 PM 01-12-2024"
         }
     ]
 }
