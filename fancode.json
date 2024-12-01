@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:12:32 AM 01-12-2024",
+    "last update time": "07:22:37 AM 01-12-2024",
     "matches": [
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Kingston Heath GC, Melbourne (ISPS Handa Australian Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Australian-Open_OLD.jpg",
+            "team_1": "Day 4",
+            "team_2": "Kingston Heath GC, Melbourne",
+            "status": "LIVE",
+            "event_name": "ISPS Handa Australian Open",
+            "match_name": "Day 4",
+            "match_id": 114056,
+            "startTime": "07:30:00 AM 01-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/M3SQjYoZTsCUXZmNAjxB9g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114056_english_hls_5016ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)",
@@ -134,18 +148,6 @@
             "match_name": "Ripoll Warriors vs Girona",
             "match_id": 113167,
             "startTime": "07:15:00 PM 01-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New York Cowboys vs Maryland Mavericks (US Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "New York Cowboys",
-            "team_2": "Maryland Mavericks",
-            "status": "UPCOMING",
-            "event_name": "US Premier League, 2024",
-            "match_name": "New York Cowboys vs Maryland Mavericks",
-            "match_id": 113212,
-            "startTime": "08:30:00 PM 01-12-2024"
         }
     ]
 }
