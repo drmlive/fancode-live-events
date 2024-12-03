@@ -1,35 +1,19 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:49:18 PM 03-12-2024",
+    "last update time": "06:59:29 PM 03-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "Pakistan tour of Zimbabwe, 2024",
-            "match_name": "Zimbabwe vs Pakistan",
-            "match_id": 112359,
-            "startTime": "05:00:00 PM 03-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/XQtZQ-O1TZG61sjjuC8vnw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112359_english_hls_5803ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Magic CC Badalona vs Royal Barcelona (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113176_4641_MGC_RB_fc-web_1732096157557.jpg",
-            "team_1": "Magic CC Badalona",
-            "team_2": "Royal Barcelona",
-            "status": "LIVE",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Magic CC Badalona vs Royal Barcelona",
-            "match_id": 113176,
-            "startTime": "05:15:00 PM 03-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/GIM9wokpStiLTVfQf8lNKA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113176_english_hls_5325ta-di/index.m3u8"
+            "title": "Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",
+            "team_1": "Bangladesh",
+            "team_2": "West Indies",
+            "status": "PAUSED",
+            "event_name": "Bangladesh tour of West Indies, 2024",
+            "match_name": "Bangladesh vs West Indies",
+            "match_id": 112345,
+            "startTime": "08:30:00 PM 30-11-2024"
         },
         {
             "event_category": "Football",
@@ -61,15 +45,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",
-            "team_1": "Bangladesh",
-            "team_2": "West Indies",
-            "status": "PAUSED",
-            "event_name": "Bangladesh tour of West Indies, 2024",
-            "match_name": "Bangladesh vs West Indies",
-            "match_id": 112345,
-            "startTime": "08:30:00 PM 30-11-2024"
+            "title": "Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "Pakistan",
+            "status": "LIVE",
+            "event_name": "Pakistan tour of Zimbabwe, 2024",
+            "match_name": "Zimbabwe vs Pakistan",
+            "match_id": 112359,
+            "startTime": "05:00:00 PM 03-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/XQtZQ-O1TZG61sjjuC8vnw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112359_english_hls_5803ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -98,14 +84,16 @@
         {
             "event_category": "Cricket",
             "title": "Barcelona Qalandar vs Royal Barcelona (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113177_4641_BQL_RB_fc-web_1732096158291.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113177_4641_BQL_RB_fc-web_1733231886134.jpg",
             "team_1": "Barcelona Qalandar",
             "team_2": "Royal Barcelona",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECS Spain, Encore, 2024",
             "match_name": "Barcelona Qalandar vs Royal Barcelona",
             "match_id": 113177,
-            "startTime": "07:15:00 PM 03-12-2024"
+            "startTime": "07:15:00 PM 03-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/6Dg1OsKrSTOoauKhj4nF5A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113177_english_hls_5835ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -153,6 +141,18 @@
             "event_name": "AFC Champions League Two 2024-25",
             "match_name": "Al Wehdat vs Sharjah",
             "match_id": 108757,
+            "startTime": "07:30:00 PM 03-12-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Istiklol vs Sepahan (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108758_4476_ISK_SEP_fc-web.jpg",
+            "team_1": "Istiklol",
+            "team_2": "Sepahan",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Istiklol vs Sepahan",
+            "match_id": 108758,
             "startTime": "07:30:00 PM 03-12-2024"
         }
     ]
