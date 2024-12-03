@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:05:48 PM 03-12-2024",
+    "last update time": "01:16:01 PM 03-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,6 +46,20 @@
             "adfree_url": "https://dai.fancode.com/primary/113174_english_hls_5021ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Central Coast Mariners vs Yokohama F. Marinos (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108693_4475_CCM_YKFM_fc-web.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Yokohama F. Marinos",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Central Coast Mariners vs Yokohama F. Marinos",
+            "match_id": 108693,
+            "startTime": "01:30:00 PM 03-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/VJS7SHz2ToGXVGwvThZjzw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108693_english_hls_5634ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "India Seniors vs India A (DCCI Challenger Trophy 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg",
@@ -58,6 +72,20 @@
             "startTime": "10:00:00 AM 03-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/Y9ZGkYSKTna17JVQpnWi7g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114211_english_hls_5958ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Pride East Mavericks vs NorthEast United (2nd Protech Guwahati Premier League 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
+            "team_1": "Pride East Mavericks",
+            "team_2": "NorthEast United",
+            "status": "LIVE",
+            "event_name": "2nd Protech Guwahati Premier League 2024",
+            "match_name": "Pride East Mavericks vs NorthEast United",
+            "match_id": 113825,
+            "startTime": "01:30:00 PM 03-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/PUQIiVy5SbKVBc7i6RZi5g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113825_english_hls_8383ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -96,18 +124,6 @@
             "startTime": "04:30:00 AM 04-12-2024"
         },
         {
-            "event_category": "Football",
-            "title": "Central Coast Mariners vs Yokohama F. Marinos (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108693_4475_CCM_YKFM_fc-web.jpg",
-            "team_1": "Central Coast Mariners",
-            "team_2": "Yokohama F. Marinos",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Central Coast Mariners vs Yokohama F. Marinos",
-            "match_id": 108693,
-            "startTime": "01:30:00 PM 03-12-2024"
-        },
-        {
             "event_category": "Cricket",
             "title": "Karnali Yaks vs Kathmandu Gurkhas (Nepal Premier League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113729_4657_KNY_KMG_fc-Web.jpg",
@@ -142,18 +158,6 @@
             "match_name": "Magic CC Badalona vs Royal Barcelona",
             "match_id": 113176,
             "startTime": "05:15:00 PM 03-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Barcelona Qalandar vs Royal Barcelona (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113177_4641_BQL_RB_fc-web_1732096158291.jpg",
-            "team_1": "Barcelona Qalandar",
-            "team_2": "Royal Barcelona",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Barcelona Qalandar vs Royal Barcelona",
-            "match_id": 113177,
-            "startTime": "07:15:00 PM 03-12-2024"
         }
     ]
 }
