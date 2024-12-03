@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:17:52 PM 03-12-2024",
+    "last update time": "04:27:59 PM 03-12-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "Pakistan",
+            "status": "LIVE",
+            "event_name": "Pakistan tour of Zimbabwe, 2024",
+            "match_name": "Zimbabwe vs Pakistan",
+            "match_id": 112359,
+            "startTime": "05:00:00 PM 03-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/XQtZQ-O1TZG61sjjuC8vnw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112359_english_hls_5803ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Barcelona Qalandar vs Magic CC Badalona (ECS Spain, Encore, 2024)",
@@ -32,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/108694_english_hls_5474ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "India Seniors vs India A (DCCI Challenger Trophy 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DCCI-Challenger-Trophy-2024_Old_match-card_Old_match-card1.jpg",
-            "team_1": "India Seniors",
-            "team_2": "India A",
-            "status": "LIVE",
-            "event_name": "DCCI Challenger Trophy 2024",
-            "match_name": "India Seniors vs India A",
-            "match_id": 114211,
-            "startTime": "10:00:00 AM 03-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/Y9ZGkYSKTna17JVQpnWi7g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114211_english_hls_5958ta-no/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Barekuri FC vs Numaligarh Refinery Limited (2nd Protech Guwahati Premier League 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
@@ -58,18 +58,6 @@
             "startTime": "04:00:00 PM 03-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/ryuO8vQIQBm_yYhsjNeyjA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113826_english_hls_5881ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Pakistan",
-            "status": "UPCOMING",
-            "event_name": "Pakistan tour of Zimbabwe, 2024",
-            "match_name": "Zimbabwe vs Pakistan",
-            "match_id": 112359,
-            "startTime": "05:00:00 PM 03-12-2024"
         },
         {
             "event_category": "Cricket",
@@ -142,6 +130,30 @@
             "match_name": "Barcelona Qalandar vs Royal Barcelona",
             "match_id": 113177,
             "startTime": "07:15:00 PM 03-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Woodland Steelpan Players vs Blue Devils (Dream11 Trinidad T10 Blast, 6th Edition, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113570_4653_SPK_BLD_fc-web.jpg",
+            "team_1": "Woodland Steelpan Players",
+            "team_2": "Blue Devils",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
+            "match_name": "Woodland Steelpan Players vs Blue Devils",
+            "match_id": 113570,
+            "startTime": "07:30:00 PM 03-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Barcelona Qalandar vs Royal Barcelona (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113178_4641_BQL_RB_fc-web_1732096157528.jpg",
+            "team_1": "Barcelona Qalandar",
+            "team_2": "Royal Barcelona",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Barcelona Qalandar vs Royal Barcelona",
+            "match_id": 113178,
+            "startTime": "09:15:00 PM 03-12-2024"
         }
     ]
 }
