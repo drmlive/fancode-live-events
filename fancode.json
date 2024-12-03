@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:24:45 AM 04-12-2024",
+    "last update time": "03:34:51 AM 04-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,34 +16,6 @@
             "startTime": "08:30:00 PM 30-11-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/Y8Lhi7VxTq6AopPxNVNTCw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112345_english_hls_6024ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Huddersfield Town vs Wigan Athletic (League One 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png",
-            "team_1": "Huddersfield Town",
-            "team_2": "Wigan Athletic",
-            "status": "LIVE",
-            "event_name": "League One 2024-25",
-            "match_name": "Huddersfield Town vs Wigan Athletic",
-            "match_id": 110098,
-            "startTime": "01:30:00 AM 04-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/aKrAlFygQHWGkORBaMze7w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110098_english_hls_6179ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Bayern M\u00fcnchen vs Bayer 04 Leverkusen (DFB Pokal)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC-Bayern-Munich-vs-Bayer-04-Leverkusen-old_1733235649000.jpg",
-            "team_1": "FC Bayern M\u00fcnchen",
-            "team_2": "Bayer 04 Leverkusen",
-            "status": "LIVE",
-            "event_name": "DFB Pokal",
-            "match_name": "FC Bayern M\u00fcnchen vs Bayer 04 Leverkusen",
-            "match_id": 114212,
-            "startTime": "01:15:00 AM 04-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/hoENWmOtQ_2kkCfn7toumg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114212_english_hls_5759ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +124,18 @@
             "match_name": "Magic CC Badalona vs Girona",
             "match_id": 113181,
             "startTime": "05:15:00 PM 04-12-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Shanghai Shenhua vs Ulsan HD (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108698_4475_SHN_ULS_fc-web.jpg",
+            "team_1": "Shanghai Shenhua",
+            "team_2": "Ulsan HD",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Shanghai Shenhua vs Ulsan HD",
+            "match_id": 108698,
+            "startTime": "05:30:00 PM 04-12-2024"
         }
     ]
 }
