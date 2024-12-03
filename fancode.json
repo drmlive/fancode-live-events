@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:55:02 AM 04-12-2024",
+    "last update time": "04:05:15 AM 04-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs West Indies (Bangladesh tour of West Indies, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-old-match-card-.png",
-            "team_1": "Bangladesh",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "Bangladesh tour of West Indies, 2024",
-            "match_name": "Bangladesh vs West Indies",
-            "match_id": 112345,
-            "startTime": "08:30:00 PM 30-11-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/Y8Lhi7VxTq6AopPxNVNTCw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112345_english_hls_6024ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Lahore Qalandars vs Victoria (Global Super League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113495_4648_VCT_LAH_fc-web.jpg",
             "team_1": "Lahore Qalandars",
             "team_2": "Victoria",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Global Super League, 2024",
             "match_name": "Lahore Qalandars vs Victoria",
             "match_id": 113495,
-            "startTime": "04:30:00 AM 04-12-2024"
+            "startTime": "04:30:00 AM 04-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/cy4BAfSYQZuu2F0lwPywPQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113495_english_hls_5579ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,6 +124,18 @@
             "match_name": "Shanghai Shenhua vs Ulsan HD",
             "match_id": 108698,
             "startTime": "05:30:00 PM 04-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Barcelona vs Girona (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113182_4641_RB_GIR_fc-web_1733232712809.jpg",
+            "team_1": "Royal Barcelona",
+            "team_2": "Girona",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Royal Barcelona vs Girona",
+            "match_id": 113182,
+            "startTime": "07:15:00 PM 04-12-2024"
         }
     ]
 }
