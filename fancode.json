@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:37:36 AM 05-12-2024",
+    "last update time": "12:47:41 AM 05-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,20 +32,6 @@
             "adfree_url": "https://dai.fancode.com/primary/113575_english_hls_5468ta-di/index.m3u8"
         },
         {
-            "event_category": "Live Events",
-            "title": "Volleyball Beach Pro Tour vs Qatar (Volleyball Beach Pro Tour)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Volleyball-beach-pro_old_03_1733220705129.jpg",
-            "team_1": "Volleyball Beach Pro Tour",
-            "team_2": "Qatar",
-            "status": "LIVE",
-            "event_name": "Volleyball Beach Pro Tour",
-            "match_name": "Volleyball Beach Pro Tour",
-            "match_id": 114570,
-            "startTime": "03:30:00 PM 04-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/TVv1UIyCQ9eEAoBIVkuiuw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114570_english_hls_2444ta-di/index.m3u8"
-        },
-        {
             "event_category": "Basketball",
             "title": "Monaco vs Olympiacos Piraeus (EuroLeague 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/113593_CASACARDS_APP.png",
@@ -58,20 +44,6 @@
             "startTime": "11:30:00 PM 04-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/V02DgL7zQXC8p2GEJ7aLGA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113593_english_hls_5806ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "VfL Wolfsburg vs TSG Hoffenheim (DFB Pokal)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/VFL-Wolfsburg-vs-TSG-Hoffenheim-old.jpg",
-            "team_1": "VfL Wolfsburg",
-            "team_2": "TSG Hoffenheim",
-            "status": "LIVE",
-            "event_name": "DFB Pokal",
-            "match_name": "VfL Wolfsburg vs TSG Hoffenheim",
-            "match_id": 114214,
-            "startTime": "10:30:00 PM 04-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/m0xkiDCaSgC7H2prsT_51g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114214_english_hls_5950ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -122,6 +94,18 @@
             "startTime": "01:30:00 PM 05-12-2024"
         },
         {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "Pakistan",
+            "status": "UPCOMING",
+            "event_name": "Pakistan tour of Zimbabwe, 2024",
+            "match_name": "Zimbabwe vs Pakistan",
+            "match_id": 112360,
+            "startTime": "05:00:00 PM 05-12-2024"
+        },
+        {
             "event_category": "Football",
             "title": "RB Leipzig vs Eintracht Frankfurt (DFB Pokal)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RB-Leipzig-vs-Eintracht-Frankfurt-old.jpg",
@@ -135,18 +119,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Zimbabwe vs Pakistan (Pakistan tour of Zimbabwe, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-PAK_Old_match-card.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Pakistan",
-            "status": "UPCOMING",
-            "event_name": "Pakistan tour of Zimbabwe, 2024",
-            "match_name": "Zimbabwe vs Pakistan",
-            "match_id": 112360,
-            "startTime": "05:00:00 PM 05-12-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Hampshire vs Victoria (Global Super League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113498_4648_HAM_VCT_fc-web.jpg",
             "team_1": "Hampshire",
@@ -156,6 +128,30 @@
             "match_name": "Hampshire vs Victoria",
             "match_id": 113498,
             "startTime": "07:30:00 PM 05-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nigeria vs Botswana (Africa T20I Continent Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114452_4675_NIG_BOT_fc-web.jpg",
+            "team_1": "Nigeria",
+            "team_2": "Botswana",
+            "status": "UPCOMING",
+            "event_name": "Africa T20I Continent Cup, 2024",
+            "match_name": "Nigeria vs Botswana",
+            "match_id": 114452,
+            "startTime": "12:45:00 PM 05-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Badalona Shaheen vs Hawks XI Catalunya (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Badalona Shaheen",
+            "team_2": "Hawks XI Catalunya",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Badalona Shaheen vs Hawks XI Catalunya",
+            "match_id": 113184,
+            "startTime": "01:15:00 PM 05-12-2024"
         }
     ]
 }
