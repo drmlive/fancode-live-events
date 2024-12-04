@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:56:29 PM 04-12-2024",
+    "last update time": "11:06:35 PM 04-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,20 +47,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Kuwait SC vs Al Hussein (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108770_4476_KSC_HUS_fc-web.jpg",
-            "team_1": "Kuwait SC",
-            "team_2": "Al Hussein",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Kuwait SC vs Al Hussein",
-            "match_id": 108770,
-            "startTime": "09:30:00 PM 04-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/8sudeb37S4ir39eEOGO7fQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108770_english_hls_5639ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Shabab Al Ahli vs Nasaf (AFC Champions League Two 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/108769_4476_SAA_NQ_fc-web.jpg",
             "team_1": "Shabab Al Ahli",
@@ -86,6 +72,20 @@
             "startTime": "09:30:00 PM 04-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/i4uBigGWQIOD1cirr19NeQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/108734_english_hls_2729ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kuwait SC vs Al Hussein (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108770_4476_KSC_HUS_fc-web.jpg",
+            "team_1": "Kuwait SC",
+            "team_2": "Al Hussein",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Kuwait SC vs Al Hussein",
+            "match_id": 108770,
+            "startTime": "09:30:00 PM 04-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/8sudeb37S4ir39eEOGO7fQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108770_english_hls_5639ta-di/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -114,20 +114,6 @@
             "startTime": "03:30:00 PM 04-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/TVv1UIyCQ9eEAoBIVkuiuw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114570_english_hls_2444ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Royal Barcelona vs Girona (ECS Spain, Encore, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113183_4641_RB_GIR_fc-web_1733232712795.jpg",
-            "team_1": "Royal Barcelona",
-            "team_2": "Girona",
-            "status": "LIVE",
-            "event_name": "ECS Spain, Encore, 2024",
-            "match_name": "Royal Barcelona vs Girona",
-            "match_id": 113183,
-            "startTime": "09:15:00 PM 04-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/VXlqgXd-QUiJlLgkr6bRkg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113183_english_hls_5685ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -164,6 +150,18 @@
             "match_name": "Kathmandu Gurkhas vs Sudurpaschim Royals",
             "match_id": 113732,
             "startTime": "12:45:00 PM 05-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Women vs Ireland Women (Ireland Women tour of Bangladesh, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
+            "team_1": "Bangladesh Women",
+            "team_2": "Ireland Women",
+            "status": "UPCOMING",
+            "event_name": "Ireland Women tour of Bangladesh, 2024",
+            "match_name": "Bangladesh Women vs Ireland Women",
+            "match_id": 113503,
+            "startTime": "01:30:00 PM 05-12-2024"
         }
     ]
 }
