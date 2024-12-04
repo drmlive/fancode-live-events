@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:49:27 AM 05-12-2024",
+    "last update time": "03:59:33 AM 05-12-2024",
     "matches": [
-        {
-            "event_category": "Basketball",
-            "title": "Virtus Bologna vs Alba Berlin (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/113594_CASACARDS_APP.png",
-            "team_1": "Virtus Bologna",
-            "team_2": "Alba Berlin",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Virtus Bologna vs Alba Berlin",
-            "match_id": 113594,
-            "startTime": "01:15:00 AM 05-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/rvHGsJqgRla0Rp5DfhrOOQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113594_english_hls_5092ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Guyana Amazon Warriors vs Rangpur Riders (Global Super League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113496_4648_GUY_RAN_fc-web.jpg",
             "team_1": "Guyana Amazon Warriors",
             "team_2": "Rangpur Riders",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Global Super League, 2024",
             "match_name": "Guyana Amazon Warriors vs Rangpur Riders",
             "match_id": 113496,
-            "startTime": "04:30:00 AM 05-12-2024"
+            "startTime": "04:30:00 AM 05-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/cZh89PXtQ8qhis0O0Zmtyg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113496_english_hls_5751ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -148,6 +136,18 @@
             "match_name": "Pak I Care Badalona vs Royal Barcelona",
             "match_id": 113186,
             "startTime": "05:15:00 PM 05-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Barcelona Qalandar vs United CC Olot (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Barcelona Qalandar",
+            "team_2": "United CC Olot",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Barcelona Qalandar vs United CC Olot",
+            "match_id": 113187,
+            "startTime": "07:15:00 PM 05-12-2024"
         }
     ]
 }
