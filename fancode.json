@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:50:16 PM 04-12-2024",
+    "last update time": "01:00:22 PM 04-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113179_4641_MGC_HAW_fc-web_1733232483208.jpg",
             "team_1": "Hawks XI Catalunya",
             "team_2": "Magic CC Badalona",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECS Spain, Encore, 2024",
             "match_name": "Hawks XI Catalunya vs Magic CC Badalona",
             "match_id": 113179,
-            "startTime": "01:15:00 PM 04-12-2024"
+            "startTime": "01:15:00 PM 04-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/bMAkJtSbRVK5r_LbGJSOAQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113179_english_hls_5953ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -128,18 +130,6 @@
             "startTime": "07:30:00 PM 04-12-2024"
         },
         {
-            "event_category": "Football",
-            "title": "Kawasaki Frontale vs Shandong Taishan (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108697_4475_KAW_SHD_fc-web.jpg",
-            "team_1": "Kawasaki Frontale",
-            "team_2": "Shandong Taishan",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Kawasaki Frontale vs Shandong Taishan",
-            "match_id": 108697,
-            "startTime": "03:30:00 PM 04-12-2024"
-        },
-        {
             "event_category": "Cricket",
             "title": "Royal Barcelona vs Girona (ECS Spain, Encore, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113183_4641_RB_GIR_fc-web_1733232712795.jpg",
@@ -150,6 +140,18 @@
             "match_name": "Royal Barcelona vs Girona",
             "match_id": 113183,
             "startTime": "09:15:00 PM 04-12-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kawasaki Frontale vs Shandong Taishan (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108697_4475_KAW_SHD_fc-web.jpg",
+            "team_1": "Kawasaki Frontale",
+            "team_2": "Shandong Taishan",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Kawasaki Frontale vs Shandong Taishan",
+            "match_id": 108697,
+            "startTime": "03:30:00 PM 04-12-2024"
         }
     ]
 }
