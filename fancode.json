@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:31:32 AM 06-12-2024",
+    "last update time": "12:41:38 AM 06-12-2024",
     "matches": [
         {
             "event_category": "Golf",
@@ -46,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/113578_english_hls_5532ta-no/index.m3u8"
         },
         {
-            "event_category": "Live Events",
-            "title": "Central Court, Doha vs Qatar (Volleyball Beach Pro Tour)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",
-            "team_1": "Central Court, Doha",
-            "team_2": "Qatar",
-            "status": "LIVE",
-            "event_name": "Volleyball Beach Pro Tour",
-            "match_name": "Central Court, Doha",
-            "match_id": 114675,
-            "startTime": "03:30:00 PM 05-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/Krn3HuXtR3i8RdmmgeCv7A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114675_english_hls_7736ta-no/index.m3u8"
-        },
-        {
             "event_category": "Basketball",
             "title": "Zalgiris Kaunas vs Anadolu Efes Istanbul (EuroLeague 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/113595_CASACARDS_APP.png",
@@ -87,18 +73,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New South Wales vs Western Australia (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Western Australia",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "New South Wales vs Western Australia",
-            "match_id": 110406,
-            "startTime": "05:00:00 AM 06-12-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Tasmania vs South Australia (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",
             "team_1": "Tasmania",
@@ -119,6 +93,18 @@
             "event_name": "Sheffield Shield, 2024-25",
             "match_name": "Victoria vs Queensland",
             "match_id": 110407,
+            "startTime": "05:00:00 AM 06-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New South Wales vs Western Australia (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
+            "team_1": "New South Wales",
+            "team_2": "Western Australia",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "New South Wales vs Western Australia",
+            "match_id": 110406,
             "startTime": "05:00:00 AM 06-12-2024"
         },
         {
@@ -156,6 +142,18 @@
             "match_name": "NCM Investment vs Al Hajery Team XI",
             "match_id": 112584,
             "startTime": "01:15:00 AM 06-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "CECC-B vs ACE KRM Panthers (KCC T20 Challengers A League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112423_4616_CEC-B_KRM_fc-web_1731569489969.jpg",
+            "team_1": "CECC-B",
+            "team_2": "ACE KRM Panthers",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers A League, 2024-25",
+            "match_name": "CECC-B vs ACE KRM Panthers",
+            "match_id": 112423,
+            "startTime": "10:30:00 AM 06-12-2024"
         }
     ]
 }
