@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:51:43 AM 06-12-2024",
+    "last update time": "01:01:48 AM 06-12-2024",
     "matches": [
         {
             "event_category": "Golf",
@@ -46,6 +46,20 @@
             "adfree_url": "https://dai.fancode.com/primary/113578_english_hls_5532ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "NCM Investment vs Al Hajery Team XI (KCC T20 Elite Championship 2nd Edition, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02_1730875782922.jpg",
+            "team_1": "NCM Investment",
+            "team_2": "Al Hajery Team XI",
+            "status": "LIVE",
+            "event_name": "KCC T20 Elite Championship 2nd Edition, 2024",
+            "match_name": "NCM Investment vs Al Hajery Team XI",
+            "match_id": 112584,
+            "startTime": "01:15:00 AM 06-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/Du2ohv1YTQ6TtQID0vfZpA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112584_english_hls_6069ta-di/index.m3u8"
+        },
+        {
             "event_category": "Basketball",
             "title": "Zalgiris Kaunas vs Anadolu Efes Istanbul (EuroLeague 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/113595_CASACARDS_APP.png",
@@ -58,6 +72,20 @@
             "startTime": "11:30:00 PM 05-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/f7a2T2nTR2aQs8HwUhgj0A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113595_english_hls_6019ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Real Madrid vs Fenerbahce Beko Istanbul (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/113596_CASACARDS_APP.png",
+            "team_1": "Real Madrid",
+            "team_2": "Fenerbahce Beko Istanbul",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Real Madrid vs Fenerbahce Beko Istanbul",
+            "match_id": 113596,
+            "startTime": "01:15:00 AM 06-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ACl_80-CRAC8X66v390IoA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113596_english_hls_8824ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -130,30 +158,6 @@
             "match_name": "Lumbini Lions vs Pokhara Avengers",
             "match_id": 113734,
             "startTime": "12:45:00 PM 06-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "NCM Investment vs Al Hajery Team XI (KCC T20 Elite Championship 2nd Edition, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_02_1730875782922.jpg",
-            "team_1": "NCM Investment",
-            "team_2": "Al Hajery Team XI",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Elite Championship 2nd Edition, 2024",
-            "match_name": "NCM Investment vs Al Hajery Team XI",
-            "match_id": 112584,
-            "startTime": "01:15:00 AM 06-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "CECC-B vs ACE KRM Panthers (KCC T20 Challengers A League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112423_4616_CEC-B_KRM_fc-web_1731569489969.jpg",
-            "team_1": "CECC-B",
-            "team_2": "ACE KRM Panthers",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "CECC-B vs ACE KRM Panthers",
-            "match_id": 112423,
-            "startTime": "10:30:00 AM 06-12-2024"
         }
     ]
 }
