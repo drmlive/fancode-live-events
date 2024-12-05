@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:21:54 AM 05-12-2024",
+    "last update time": "08:32:00 AM 05-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Rangpur Riders vs Guyana Amazon Warriors (Global Super League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113496_4648_GUY_RAN_fc-web.jpg",
-            "team_1": "Rangpur Riders",
-            "team_2": "Guyana Amazon Warriors",
-            "status": "LIVE",
-            "event_name": "Global Super League, 2024",
-            "match_name": "Rangpur Riders vs Guyana Amazon Warriors",
-            "match_id": 113496,
-            "startTime": "04:30:00 AM 05-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/cZh89PXtQ8qhis0O0Zmtyg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113496_english_hls_5751ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Pokhara Avengers vs Janakpur Bolts (Nepal Premier League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113731_4657_PKA_JKB_fc-Web.jpg",
             "team_1": "Pokhara Avengers",
             "team_2": "Janakpur Bolts",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Nepal Premier League, 2024",
             "match_name": "Pokhara Avengers vs Janakpur Bolts",
             "match_id": 113731,
-            "startTime": "08:45:00 AM 05-12-2024"
+            "startTime": "08:45:00 AM 05-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/nMjPOT12TQeKJZrNMZ2Zsw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113731_english_hls_5677ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -148,6 +136,18 @@
             "match_name": "Badalona Shaheen vs Hawks XI Catalunya",
             "match_id": 113184,
             "startTime": "01:15:00 PM 05-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Girona vs Catalunya Coalesce (ECS Spain, Encore, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Girona",
+            "team_2": "Catalunya Coalesce",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Girona vs Catalunya Coalesce",
+            "match_id": 113185,
+            "startTime": "03:15:00 PM 05-12-2024"
         }
     ]
 }
