@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:42:10 AM 06-12-2024",
+    "last update time": "01:52:16 AM 06-12-2024",
     "matches": [
         {
             "event_category": "Golf",
@@ -16,20 +16,6 @@
             "startTime": "12:00:00 AM 06-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/NAOSHLCXQkqNYMMDvHSQ3g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114621_english_hls_5567ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kuwait Swedish vs CECC (KCC T20 Elite Championship 2nd Edition, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_01_1730875783702.jpg",
-            "team_1": "Kuwait Swedish",
-            "team_2": "CECC",
-            "status": "LIVE",
-            "event_name": "KCC T20 Elite Championship 2nd Edition, 2024",
-            "match_name": "Kuwait Swedish vs CECC",
-            "match_id": 112583,
-            "startTime": "10:00:00 PM 05-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/RTr5cFpmSpSj0gS_psUmSA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/112583_english_hls_6010ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +144,18 @@
             "match_name": "Lumbini Lions vs Pokhara Avengers",
             "match_id": 113734,
             "startTime": "12:45:00 PM 06-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "CECC-B vs ACE KRM Panthers (KCC T20 Challengers A League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112423_4616_CEC-B_KRM_fc-web_1731569489969.jpg",
+            "team_1": "CECC-B",
+            "team_2": "ACE KRM Panthers",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers A League, 2024-25",
+            "match_name": "CECC-B vs ACE KRM Panthers",
+            "match_id": 112423,
+            "startTime": "10:30:00 AM 06-12-2024"
         }
     ]
 }
