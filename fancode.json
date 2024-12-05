@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:04:23 PM 05-12-2024",
+    "last update time": "01:14:31 PM 05-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "12:45:00 PM 05-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/LZkUv_1MToaBWq9ASrZsKw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113732_english_hls_5817ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland Women vs Bangladesh Women (Ireland Women tour of Bangladesh, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
+            "team_1": "Ireland Women",
+            "team_2": "Bangladesh Women",
+            "status": "LIVE",
+            "event_name": "Ireland Women tour of Bangladesh, 2024",
+            "match_name": "Ireland Women vs Bangladesh Women",
+            "match_id": 113503,
+            "startTime": "01:30:00 PM 05-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/n2gRVRlqRFaAyZtQa84G3A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113503_english_hls_2776ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -46,16 +60,32 @@
             "adfree_url": "https://dai.fancode.com/primary/113184_english_hls_5650ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Ireland Women vs Bangladesh Women (Ireland Women tour of Bangladesh, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
-            "team_1": "Ireland Women",
-            "team_2": "Bangladesh Women",
-            "status": "UPCOMING",
-            "event_name": "Ireland Women tour of Bangladesh, 2024",
-            "match_name": "Ireland Women vs Bangladesh Women",
-            "match_id": 113503,
-            "startTime": "01:30:00 PM 05-12-2024"
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Eastern SC (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108781_4476_HIR_ESC_fc-web.jpg",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Eastern SC",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Sanfrecce Hiroshima vs Eastern SC",
+            "match_id": 108781,
+            "startTime": "01:30:00 PM 05-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/EJ5DPrruRXWBeKaW-79W4g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108781_english_hls_8767ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Kaya (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108782_4476_SYD_KAYA_fc-web.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Kaya",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Sydney FC vs Kaya",
+            "match_id": 108782,
+            "startTime": "01:30:00 PM 05-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/cq7uPZKZRG2DwshgMfOY0A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108782_english_hls_6176ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -128,30 +158,6 @@
             "match_name": "New South Wales vs Western Australia",
             "match_id": 110406,
             "startTime": "05:00:00 AM 06-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Karnali Yaks vs Chitwan Rhinos (Nepal Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113733_4657_KNY_CWR_fc-Web.jpg",
-            "team_1": "Karnali Yaks",
-            "team_2": "Chitwan Rhinos",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2024",
-            "match_name": "Karnali Yaks vs Chitwan Rhinos",
-            "match_id": 113733,
-            "startTime": "08:45:00 AM 06-12-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sanfrecce Hiroshima vs Eastern SC (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108781_4476_HIR_ESC_fc-web.jpg",
-            "team_1": "Sanfrecce Hiroshima",
-            "team_2": "Eastern SC",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Sanfrecce Hiroshima vs Eastern SC",
-            "match_id": 108781,
-            "startTime": "01:30:00 PM 05-12-2024"
         }
     ]
 }
