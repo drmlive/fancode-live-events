@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:52:57 PM 06-12-2024",
+    "last update time": "06:03:02 PM 06-12-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -44,6 +44,20 @@
             "adfree_url": "https://dai.fancode.com/primary/114454_english_hls_6914ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Girona vs Barcelona Qalandar (ECS Spain, Encore, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/113190_CASACARDS_APP.png",
+            "team_1": "Girona",
+            "team_2": "Barcelona Qalandar",
+            "status": "LIVE",
+            "event_name": "ECS Spain, Encore, 2024",
+            "match_name": "Girona vs Barcelona Qalandar",
+            "match_id": 113190,
+            "startTime": "06:15:00 PM 06-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/7z3WvcFkReia2uoS3O_7FQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113190_english_hls_6180ta-no/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 2 vs Gary Player CC, Sun City, South Africa (NedBank Golf Challenge)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg",
@@ -80,10 +94,10 @@
             "status": "LIVE",
             "event_name": "Volleyball Beach Pro Tour",
             "match_name": "Volleyball Beach Pro Tour",
-            "match_id": 114692,
+            "match_id": 114693,
             "startTime": "04:30:00 PM 06-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/DLcSnZGNQiiUWeHjLsd58Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114692_english_hls_2849ta-no/index.m3u8"
+            "dai_url": "https://dai.google.com/linear/hls/event/0cWIXoN2RaCgUB3OmSz5iw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114693_english_hls_8589ta-di/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -94,10 +108,10 @@
             "status": "LIVE",
             "event_name": "Volleyball Beach Pro Tour",
             "match_name": "Volleyball Beach Pro Tour",
-            "match_id": 114693,
+            "match_id": 114692,
             "startTime": "04:30:00 PM 06-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/0cWIXoN2RaCgUB3OmSz5iw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114693_english_hls_8589ta-di/index.m3u8"
+            "dai_url": "https://dai.google.com/linear/hls/event/DLcSnZGNQiiUWeHjLsd58Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114692_english_hls_2849ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -146,18 +160,6 @@
             "match_name": "Victoria vs Rangpur Riders",
             "match_id": 113499,
             "startTime": "04:30:00 AM 07-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Lumbini Lions vs Sudurpaschim Royals (Nepal Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113735_4657_LBL_SPR_fc-Web.jpg",
-            "team_1": "Lumbini Lions",
-            "team_2": "Sudurpaschim Royals",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2024",
-            "match_name": "Lumbini Lions vs Sudurpaschim Royals",
-            "match_id": 113735,
-            "startTime": "08:45:00 AM 07-12-2024"
         }
     ]
 }
