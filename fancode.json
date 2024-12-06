@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:31:36 PM 06-12-2024",
+    "last update time": "03:41:42 PM 06-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "02:05:00 PM 06-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/7YTjc2DrSyC78kxo12SdvQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110928_english_hls_6038ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Numaligarh Refinery Limited vs Pride East Mavericks (2nd Protech Guwahati Premier League 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-1_1732617276858.jpg",
-            "team_1": "Numaligarh Refinery Limited",
-            "team_2": "Pride East Mavericks",
-            "status": "LIVE",
-            "event_name": "2nd Protech Guwahati Premier League 2024",
-            "match_name": "Numaligarh Refinery Limited vs Pride East Mavericks",
-            "match_id": 113831,
-            "startTime": "01:30:00 PM 06-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/PZSqgngGQGWHZLcar5RGVg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113831_english_hls_5571ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -151,15 +137,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Going Global vs Cochin Hurricanes (KCC T20 Challengers A League, 2024-25)",
+            "title": "Cochin Hurricanes vs Going Global (KCC T20 Challengers A League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112424_4616_GGL_COH_fc-web_1731569491217.jpg",
-            "team_1": "Going Global",
-            "team_2": "Cochin Hurricanes",
+            "team_1": "Cochin Hurricanes",
+            "team_2": "Going Global",
             "status": "UPCOMING",
             "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "Going Global vs Cochin Hurricanes",
+            "match_name": "Cochin Hurricanes vs Going Global",
             "match_id": 112424,
             "startTime": "04:00:00 PM 06-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lumbini Lions vs Sudurpaschim Royals (Nepal Premier League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113735_4657_LBL_SPR_fc-Web.jpg",
+            "team_1": "Lumbini Lions",
+            "team_2": "Sudurpaschim Royals",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2024",
+            "match_name": "Lumbini Lions vs Sudurpaschim Royals",
+            "match_id": 113735,
+            "startTime": "08:45:00 AM 07-12-2024"
         }
     ]
 }
