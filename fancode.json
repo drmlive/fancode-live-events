@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:22:05 PM 06-12-2024",
+    "last update time": "04:32:11 PM 06-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/113832_english_hls_8743ta-no/index.m3u8"
         },
         {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session vs United Arab Emirates (F2 ABU DHABI 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_UAE_Sporty_Match_card_4_Old_match-card-(1).jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "United Arab Emirates",
+            "status": "LIVE",
+            "event_name": "F2 ABU DHABI 2024",
+            "match_name": "Qualifying Session",
+            "match_id": 96150,
+            "startTime": "04:30:00 PM 06-12-2024",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Live Events",
             "title": "Volleyball Beach Pro Tour vs Qatar (Volleyball Beach Pro Tour)",
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/Volleyball-Beach-Pro-old-match-card-2.png",
@@ -89,18 +103,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Tasmania",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "South Australia vs Tasmania",
-            "match_id": 110408,
-            "startTime": "05:00:00 AM 06-12-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Queensland vs Victoria (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg",
             "team_1": "Queensland",
@@ -121,6 +123,18 @@
             "event_name": "Sheffield Shield, 2024-25",
             "match_name": "Western Australia vs New South Wales",
             "match_id": 110406,
+            "startTime": "05:00:00 AM 06-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Tasmania",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "South Australia vs Tasmania",
+            "match_id": 110408,
             "startTime": "05:00:00 AM 06-12-2024"
         },
         {
@@ -146,18 +160,6 @@
             "match_name": "Nigeria vs Uganda",
             "match_id": 114454,
             "startTime": "05:15:00 PM 06-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Lumbini Lions vs Sudurpaschim Royals (Nepal Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113735_4657_LBL_SPR_fc-Web.jpg",
-            "team_1": "Lumbini Lions",
-            "team_2": "Sudurpaschim Royals",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2024",
-            "match_name": "Lumbini Lions vs Sudurpaschim Royals",
-            "match_id": 113735,
-            "startTime": "08:45:00 AM 07-12-2024"
         }
     ]
 }
