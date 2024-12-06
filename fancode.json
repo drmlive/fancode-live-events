@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:24:56 AM 06-12-2024",
+    "last update time": "06:35:01 AM 06-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "04:30:00 AM 06-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/d3XwNRVvSAmTpVNeHIm23Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113497_english_hls_5684ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "New South Wales",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Western Australia vs New South Wales",
+            "match_id": 110406,
+            "startTime": "05:00:00 AM 06-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110406_english_hls_2743ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -44,20 +58,6 @@
             "startTime": "05:00:00 AM 06-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/TTjmr_2hS9Cw7YqK1XHakA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110407_english_hls_8929ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "New South Wales",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Western Australia vs New South Wales",
-            "match_id": 110406,
-            "startTime": "05:00:00 AM 06-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/dYPtgjf6THWIpOxFeOPajw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110406_english_hls_2743ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -145,15 +145,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Nigeria vs Uganda (Africa T20I Continent Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114454_4675_NIG_UGA_fc-web.jpg",
-            "team_1": "Nigeria",
-            "team_2": "Uganda",
+            "title": "Victoria vs TBC (Global Super League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Victoria",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "event_name": "Africa T20I Continent Cup, 2024",
-            "match_name": "Nigeria vs Uganda",
-            "match_id": 114454,
-            "startTime": "05:15:00 PM 06-12-2024"
+            "event_name": "Global Super League, 2024",
+            "match_name": "Victoria vs TBC",
+            "match_id": 113499,
+            "startTime": "04:30:00 AM 07-12-2024"
         }
     ]
 }
