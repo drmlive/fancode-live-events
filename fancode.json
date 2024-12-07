@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:54:42 AM 07-12-2024",
+    "last update time": "10:05:09 AM 07-12-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sudurpaschim Royals vs Lumbini Lions (Nepal Premier League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113735_4657_LBL_SPR_fc-Web.jpg",
+            "team_1": "Sudurpaschim Royals",
+            "team_2": "Lumbini Lions",
+            "status": "LIVE",
+            "event_name": "Nepal Premier League, 2024",
+            "match_name": "Sudurpaschim Royals vs Lumbini Lions",
+            "match_id": 113735,
+            "startTime": "08:45:00 AM 07-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/Fq2dAAW5R7WN227kVv90pQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113735_english_hls_5150ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
@@ -44,20 +58,6 @@
             "startTime": "05:00:00 AM 06-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/_k37ddtnTMGUYD4NZm8TRA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110406_english_hls_5959ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sudurpaschim Royals vs Lumbini Lions (Nepal Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113735_4657_LBL_SPR_fc-Web.jpg",
-            "team_1": "Sudurpaschim Royals",
-            "team_2": "Lumbini Lions",
-            "status": "LIVE",
-            "event_name": "Nepal Premier League, 2024",
-            "match_name": "Sudurpaschim Royals vs Lumbini Lions",
-            "match_id": 113735,
-            "startTime": "08:45:00 AM 07-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/Fq2dAAW5R7WN227kVv90pQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113735_english_hls_5150ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -144,6 +144,18 @@
             "match_name": "Croatia vs Spain",
             "match_id": 114613,
             "startTime": "03:15:00 PM 07-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ABL Stallions vs Lake City Panthers (Champions T20 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114591_4681_AST_LCP_fc-web.jpg",
+            "team_1": "ABL Stallions",
+            "team_2": "Lake City Panthers",
+            "status": "UPCOMING",
+            "event_name": "Champions T20 Cup, 2024",
+            "match_name": "ABL Stallions vs Lake City Panthers",
+            "match_id": 114591,
+            "startTime": "04:00:00 PM 07-12-2024"
         }
     ]
 }
