@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:20:39 PM 07-12-2024",
+    "last update time": "01:30:52 PM 07-12-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Ireland Women vs Bangladesh Women (Ireland Women tour of Bangladesh, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
+            "team_1": "Ireland Women",
+            "team_2": "Bangladesh Women",
+            "status": "LIVE",
+            "event_name": "Ireland Women tour of Bangladesh, 2024",
+            "match_name": "Ireland Women vs Bangladesh Women",
+            "match_id": 113504,
+            "startTime": "01:30:00 PM 07-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/3S44avP9TWapm3keOxICIQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113504_english_hls_5689ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
@@ -44,20 +58,6 @@
             "startTime": "12:45:00 PM 07-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/x07DsfHjTGeZAR-o7oj_wg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113736_english_hls_5326ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ireland Women vs Bangladesh Women (Ireland Women tour of Bangladesh, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
-            "team_1": "Ireland Women",
-            "team_2": "Bangladesh Women",
-            "status": "LIVE",
-            "event_name": "Ireland Women tour of Bangladesh, 2024",
-            "match_name": "Ireland Women vs Bangladesh Women",
-            "match_id": 113504,
-            "startTime": "01:30:00 PM 07-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/3S44avP9TWapm3keOxICIQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113504_english_hls_5689ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +152,18 @@
             "match_name": "Queensland vs Victoria",
             "match_id": 110407,
             "startTime": "05:00:00 AM 06-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ABL Stallions vs Lake City Panthers (Champions T20 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114591_4681_AST_LCP_fc-web.jpg",
+            "team_1": "ABL Stallions",
+            "team_2": "Lake City Panthers",
+            "status": "UPCOMING",
+            "event_name": "Champions T20 Cup, 2024",
+            "match_name": "ABL Stallions vs Lake City Panthers",
+            "match_id": 114591,
+            "startTime": "04:00:00 PM 07-12-2024"
         }
     ]
 }
