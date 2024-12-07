@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:01:52 AM 08-12-2024",
+    "last update time": "04:12:07 AM 08-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,11 +21,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
             "team_1": "Western Australia",
             "team_2": "New South Wales",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "Sheffield Shield, 2024-25",
             "match_name": "Western Australia vs New South Wales",
             "match_id": 110406,
-            "startTime": "04:30:00 AM 06-12-2024"
+            "startTime": "04:30:00 AM 06-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/DKNgVOUvQHK2cy0OK1YYlA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110406_english_hls_5129ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -125,18 +127,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Rwanda vs Botswana (Africa T20I Continent Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114458_4675_RWA_BOT_fc-web.jpg",
-            "team_1": "Rwanda",
-            "team_2": "Botswana",
-            "status": "UPCOMING",
-            "event_name": "Africa T20I Continent Cup, 2024",
-            "match_name": "Rwanda vs Botswana",
-            "match_id": 114458,
-            "startTime": "05:15:00 PM 08-12-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Croatia vs Spain (ECI Spain, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114619_4682_CRO_SPA_fc-Web.jpg",
             "team_1": "Croatia",
@@ -145,6 +135,18 @@
             "event_name": "ECI Spain, 2024",
             "match_name": "Croatia vs Spain",
             "match_id": 114619,
+            "startTime": "05:15:00 PM 08-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rwanda vs Botswana (Africa T20I Continent Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114458_4675_RWA_BOT_fc-web.jpg",
+            "team_1": "Rwanda",
+            "team_2": "Botswana",
+            "status": "UPCOMING",
+            "event_name": "Africa T20I Continent Cup, 2024",
+            "match_name": "Rwanda vs Botswana",
+            "match_id": 114458,
             "startTime": "05:15:00 PM 08-12-2024"
         }
     ]
