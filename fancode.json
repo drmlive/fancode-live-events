@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:35:55 PM 07-12-2024",
+    "last update time": "06:46:16 PM 07-12-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -72,6 +72,48 @@
             "adfree_url": "https://dai.fancode.com/primary/109892_english_hls_5734ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Argentina vs Belize (ICC Men's T20 WC Sub Regional Americas Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114019_4664_BEL_ARG_fc-web.jpg",
+            "team_1": "Argentina",
+            "team_2": "Belize",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+            "match_name": "Argentina vs Belize",
+            "match_id": 114019,
+            "startTime": "07:00:00 PM 07-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/tb9GPXMZTXO5XklASgFmAA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114019_english_hls_5470ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Brazil vs Mexico (ICC Men's T20 WC Sub Regional Americas Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114018_4664_BRA_MEX_fc-web.jpg",
+            "team_1": "Brazil",
+            "team_2": "Mexico",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+            "match_name": "Brazil vs Mexico",
+            "match_id": 114018,
+            "startTime": "07:00:00 PM 07-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/GTKqkuwiSeefsu4mcuDi7g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114018_english_hls_8206ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sari Sari Sunrisers vs Indian River Rowers (Dream11 Nature Isle T10, 6th Edition, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",
+            "team_1": "Sari Sari Sunrisers",
+            "team_2": "Indian River Rowers",
+            "status": "LIVE",
+            "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
+            "match_name": "Sari Sari Sunrisers vs Indian River Rowers",
+            "match_id": 114142,
+            "startTime": "07:00:00 PM 07-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/VeX0fb0zTaGdR_b19l4wHA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114142_english_hls_5877ta-di/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3 vs Gary Player CC, Sun City, South Africa (NedBank Golf Challenge)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg",
@@ -100,20 +142,6 @@
             "adfree_url": "https://dai.fancode.com/primary/114835_english_hls_5847ta-no/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs United Arab Emirates (F2 ABU DHABI 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_UAE_Sporty_Match_card_4_Old_match-card-(1).jpg",
-            "team_1": "Sprint Race",
-            "team_2": "United Arab Emirates",
-            "status": "LIVE",
-            "event_name": "F2 ABU DHABI 2024",
-            "match_name": "Sprint Race",
-            "match_id": 96151,
-            "startTime": "05:45:00 PM 07-12-2024",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
             "event_category": "Football",
             "title": "Everton vs Liverpool (Premier League 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
@@ -137,30 +165,6 @@
             "event_name": "Sheffield Shield, 2024-25",
             "match_name": "Western Australia vs New South Wales",
             "match_id": 110406,
-            "startTime": "05:00:00 AM 06-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Tasmania",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "South Australia vs Tasmania",
-            "match_id": 110408,
-            "startTime": "05:00:00 AM 06-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs Victoria (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs Victoria",
-            "match_id": 110407,
             "startTime": "05:00:00 AM 06-12-2024"
         }
     ]
