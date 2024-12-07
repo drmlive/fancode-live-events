@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:31:34 AM 08-12-2024",
+    "last update time": "03:41:40 AM 08-12-2024",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 3 vs New Providence, Bahamas (Hero World Challenge)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenga_FC-web.jpg",
-            "team_1": "Day 3",
-            "team_2": "New Providence, Bahamas",
-            "status": "LIVE",
-            "event_name": "Hero World Challenge",
-            "match_name": "Day 3",
-            "match_id": 114623,
-            "startTime": "10:30:00 PM 07-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/xBMMW3IjS3SEdKOiNd0EBg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114623_english_hls_8240ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Barana Aute Warriors vs The Valley Hikers (Dream11 Nature Isle T10, 6th Edition, 2024)",
@@ -47,6 +33,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Queensland vs Victoria (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Queensland vs Victoria",
+            "match_id": 110407,
+            "startTime": "04:30:00 AM 06-12-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
             "team_1": "Western Australia",
@@ -67,18 +65,6 @@
             "event_name": "Sheffield Shield, 2024-25",
             "match_name": "South Australia vs Tasmania",
             "match_id": 110408,
-            "startTime": "04:30:00 AM 06-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs Victoria (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs Victoria",
-            "match_id": 110407,
             "startTime": "04:30:00 AM 06-12-2024"
         },
         {
@@ -152,6 +138,18 @@
             "match_name": "Italy vs Spain",
             "match_id": 114617,
             "startTime": "01:15:00 PM 08-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Italy vs Croatia (ECI Spain, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114618_4682_ITA_CRO_fc-Web.jpg",
+            "team_1": "Italy",
+            "team_2": "Croatia",
+            "status": "UPCOMING",
+            "event_name": "ECI Spain, 2024",
+            "match_name": "Italy vs Croatia",
+            "match_id": 114618,
+            "startTime": "03:15:00 PM 08-12-2024"
         }
     ]
 }
