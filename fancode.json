@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:00:02 PM 07-12-2024",
+    "last update time": "01:10:30 PM 07-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Tasmania",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "South Australia vs Tasmania",
-            "match_id": 110408,
-            "startTime": "05:00:00 AM 06-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/1XPHVBpSRyOhuU7sP5WqPw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110408_english_hls_2732ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
@@ -30,6 +16,20 @@
             "startTime": "05:00:00 AM 06-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/_k37ddtnTMGUYD4NZm8TRA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110406_english_hls_5959ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Tasmania",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "South Australia vs Tasmania",
+            "match_id": 110408,
+            "startTime": "05:00:00 AM 06-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/1XPHVBpSRyOhuU7sP5WqPw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110408_english_hls_2732ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -74,6 +74,20 @@
             "adfree_url": "https://dai.fancode.com/primary/114455_english_hls_8617ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Croatia vs Italy (ECI Spain, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114612_4682_CRO_ITA_fc-Web.jpg",
+            "team_1": "Croatia",
+            "team_2": "Italy",
+            "status": "LIVE",
+            "event_name": "ECI Spain, 2024",
+            "match_name": "Croatia vs Italy",
+            "match_id": 114612,
+            "startTime": "01:15:00 PM 07-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ta1mUuEXTOiEi3KjtuGrnA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114612_english_hls_5662ta-no/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Western United vs Macarthur (A League 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110931_4567_WST_MAC_fc-web_1728983127393.jpg",
@@ -103,13 +117,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bangladesh Women vs Ireland Women (Ireland Women tour of Bangladesh, 2024)",
+            "title": "Ireland Women vs Bangladesh Women (Ireland Women tour of Bangladesh, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
-            "team_1": "Bangladesh Women",
-            "team_2": "Ireland Women",
+            "team_1": "Ireland Women",
+            "team_2": "Bangladesh Women",
             "status": "UPCOMING",
             "event_name": "Ireland Women tour of Bangladesh, 2024",
-            "match_name": "Bangladesh Women vs Ireland Women",
+            "match_name": "Ireland Women vs Bangladesh Women",
             "match_id": 113504,
             "startTime": "01:30:00 PM 07-12-2024"
         },
@@ -136,20 +150,6 @@
             "match_name": "ABL Stallions vs Lake City Panthers",
             "match_id": 114591,
             "startTime": "04:00:00 PM 07-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Croatia vs Italy (ECI Spain, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114612_4682_CRO_ITA_fc-Web.jpg",
-            "team_1": "Croatia",
-            "team_2": "Italy",
-            "status": "LIVE",
-            "event_name": "ECI Spain, 2024",
-            "match_name": "Croatia vs Italy",
-            "match_id": 114612,
-            "startTime": "01:15:00 PM 07-12-2024",
-            "dai_url": null,
-            "adfree_url": null
         }
     ]
 }
