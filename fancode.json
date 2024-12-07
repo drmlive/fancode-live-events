@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:57:05 PM 07-12-2024",
+    "last update time": "08:07:12 PM 07-12-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -116,20 +116,6 @@
             "adfree_url": "https://dai.fancode.com/primary/113582_english_hls_8440ta-di/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Gary Player CC, Sun City, South Africa (NedBank Golf Challenge)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg",
-            "team_1": "Day 3",
-            "team_2": "Gary Player CC, Sun City, South Africa",
-            "status": "LIVE",
-            "event_name": "NedBank Golf Challenge",
-            "match_name": "Day 3",
-            "match_id": 114574,
-            "startTime": "02:30:00 PM 07-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/LPoQS7fSRraayJAgrNE55Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114574_english_hls_5613ta-no/index.m3u8"
-        },
-        {
             "event_category": "Live Events",
             "title": "Volleyball Beach Pro Tour vs Qatar (Volleyball Beach Pro Tour)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(3).png",
@@ -144,20 +130,6 @@
             "adfree_url": "https://dai.fancode.com/primary/114835_english_hls_5847ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Leeds United vs Derby County (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109892_4352_LU_DER_fc-web.jpg",
-            "team_1": "Leeds United",
-            "team_2": "Derby County",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Leeds United vs Derby County",
-            "match_id": 109892,
-            "startTime": "06:00:00 PM 07-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/dSVLrdpXQg6MUE7j0J6HKw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109892_english_hls_5734ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",
@@ -168,6 +140,30 @@
             "match_name": "South Australia vs Tasmania",
             "match_id": 110408,
             "startTime": "05:00:00 AM 06-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110406_4543_NSW_WAU_fc-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "New South Wales",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Western Australia vs New South Wales",
+            "match_id": 110406,
+            "startTime": "05:00:00 AM 06-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs Victoria (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110407_4543_VCT_QUN_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Queensland vs Victoria",
+            "match_id": 110407,
+            "startTime": "04:30:00 AM 08-12-2024"
         }
     ]
 }
