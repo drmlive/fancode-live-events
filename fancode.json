@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:30:39 PM 08-12-2024",
+    "last update time": "05:40:45 PM 08-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Rwanda vs Botswana (Africa T20I Continent Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114458_4675_RWA_BOT_fc-web.jpg",
-            "team_1": "Rwanda",
-            "team_2": "Botswana",
-            "status": "LIVE",
-            "event_name": "Africa T20I Continent Cup, 2024",
-            "match_name": "Rwanda vs Botswana",
-            "match_id": 114458,
-            "startTime": "05:15:00 PM 08-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/YJtNv7rMSKSRYfcR1P0wmg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114458_english_hls_4851ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Croatia vs Spain (ECI Spain, 2024)",
@@ -30,6 +16,20 @@
             "startTime": "05:15:00 PM 08-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/GoEXBGrCTr2c8vd8VpLNcg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114619_english_hls_7777ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rwanda vs Botswana (Africa T20I Continent Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114458_4675_RWA_BOT_fc-web.jpg",
+            "team_1": "Rwanda",
+            "team_2": "Botswana",
+            "status": "LIVE",
+            "event_name": "Africa T20I Continent Cup, 2024",
+            "match_name": "Rwanda vs Botswana",
+            "match_id": 114458,
+            "startTime": "05:15:00 PM 08-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/YJtNv7rMSKSRYfcR1P0wmg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114458_english_hls_4851ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -135,18 +135,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bermuda vs Panama (ICC Men's T20 WC Sub Regional Americas Qualifier)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114022_4664_BER_PAN_fc-web.jpg",
-            "team_1": "Bermuda",
-            "team_2": "Panama",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-            "match_name": "Bermuda vs Panama",
-            "match_id": 114022,
-            "startTime": "07:00:00 PM 08-12-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bahamas vs Argentina (ICC Men's T20 WC Sub Regional Americas Qualifier)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114023_4664_BAH_ARG_fc-web.jpg",
             "team_1": "Bahamas",
@@ -155,6 +143,18 @@
             "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
             "match_name": "Bahamas vs Argentina",
             "match_id": 114023,
+            "startTime": "07:00:00 PM 08-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bermuda vs Panama (ICC Men's T20 WC Sub Regional Americas Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114022_4664_BER_PAN_fc-web.jpg",
+            "team_1": "Bermuda",
+            "team_2": "Panama",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+            "match_name": "Bermuda vs Panama",
+            "match_id": 114022,
             "startTime": "07:00:00 PM 08-12-2024"
         }
     ]
