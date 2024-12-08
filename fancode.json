@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:07:59 PM 08-12-2024",
+    "last update time": "02:18:04 PM 08-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/113835_english_hls_5176ta-no/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 4 vs Gary Player CC, Sun City, South Africa (NedBank Golf Challenge)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg",
+            "team_1": "Day 4",
+            "team_2": "Gary Player CC, Sun City, South Africa",
+            "status": "LIVE",
+            "event_name": "NedBank Golf Challenge",
+            "match_name": "Day 4",
+            "match_id": 114575,
+            "startTime": "02:30:00 PM 08-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/JjJwyoZHQ1O1Iwg800SUuQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114575_english_hls_4653ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",
@@ -125,18 +139,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bangladesh Women vs Ireland Women (Ireland Women tour of Bangladesh, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
-            "team_1": "Bangladesh Women",
-            "team_2": "Ireland Women",
-            "status": "UPCOMING",
-            "event_name": "Ireland Women tour of Bangladesh, 2024",
-            "match_name": "Bangladesh Women vs Ireland Women",
-            "match_id": 113505,
-            "startTime": "09:30:00 AM 09-12-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Italy vs Croatia (ECI Spain, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114618_4682_ITA_CRO_fc-Web.jpg",
             "team_1": "Italy",
@@ -149,15 +151,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Croatia vs Spain (ECI Spain, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114619_4682_CRO_SPA_fc-Web.jpg",
-            "team_1": "Croatia",
-            "team_2": "Spain",
+            "title": "Bangladesh Women vs Ireland Women (Ireland Women tour of Bangladesh, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Women-Tour-of-Bangladesh,-T20Is-2024-old-match-card--(1).png",
+            "team_1": "Bangladesh Women",
+            "team_2": "Ireland Women",
             "status": "UPCOMING",
-            "event_name": "ECI Spain, 2024",
-            "match_name": "Croatia vs Spain",
-            "match_id": 114619,
-            "startTime": "05:15:00 PM 08-12-2024"
+            "event_name": "Ireland Women tour of Bangladesh, 2024",
+            "match_name": "Bangladesh Women vs Ireland Women",
+            "match_id": 113505,
+            "startTime": "09:30:00 AM 09-12-2024"
         }
     ]
 }
