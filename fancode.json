@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:22:03 PM 08-12-2024",
+    "last update time": "07:32:11 PM 08-12-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -47,20 +47,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bahamas vs Argentina (ICC Men's T20 WC Sub Regional Americas Qualifier)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114023_4664_BAH_ARG_fc-web.jpg",
-            "team_1": "Bahamas",
-            "team_2": "Argentina",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-            "match_name": "Bahamas vs Argentina",
-            "match_id": 114023,
-            "startTime": "07:00:00 PM 08-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/eaERc6DSTPWHX_BgrjwVOg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114023_english_hls_7807ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Panama vs Bermuda (ICC Men's T20 WC Sub Regional Americas Qualifier)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114022_4664_BER_PAN_fc-web.jpg",
             "team_1": "Panama",
@@ -72,6 +58,20 @@
             "startTime": "07:00:00 PM 08-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/nXXQ1IONSSm2sAAzYVQuxQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114022_english_hls_1641ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bahamas vs Argentina (ICC Men's T20 WC Sub Regional Americas Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114023_4664_BAH_ARG_fc-web.jpg",
+            "team_1": "Bahamas",
+            "team_2": "Argentina",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+            "match_name": "Bahamas vs Argentina",
+            "match_id": 114023,
+            "startTime": "07:00:00 PM 08-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/eaERc6DSTPWHX_BgrjwVOg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114023_english_hls_7807ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,6 +138,18 @@
             "startTime": "09:30:00 AM 09-12-2024"
         },
         {
+            "event_category": "Football",
+            "title": "West Bromwich Albion vs Sheffield United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109893_4352_WBA_SHF_fc-web.jpg",
+            "team_1": "West Bromwich Albion",
+            "team_2": "Sheffield United",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "West Bromwich Albion vs Sheffield United",
+            "match_id": 109893,
+            "startTime": "08:30:00 PM 08-12-2024"
+        },
+        {
             "event_category": "Cricket",
             "title": "ABL Stallions vs Nurpur Lions (Champions T20 Cup, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114593_4681_AST_NUR_fc-web.jpg",
@@ -148,18 +160,6 @@
             "match_name": "ABL Stallions vs Nurpur Lions",
             "match_id": 114593,
             "startTime": "12:30:00 PM 09-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Woodland Steelpan Players vs Scarlet Ibis Scorchers (Dream11 Trinidad T10 Blast, 6th Edition, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Woodland Steelpan Players",
-            "team_2": "Scarlet Ibis Scorchers",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Trinidad T10 Blast, 6th Edition, 2024",
-            "match_name": "Woodland Steelpan Players vs Scarlet Ibis Scorchers",
-            "match_id": 113585,
-            "startTime": "09:00:00 PM 08-12-2024"
         }
     ]
 }
