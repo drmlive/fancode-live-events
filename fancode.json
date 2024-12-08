@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:02:31 PM 08-12-2024",
+    "last update time": "08:12:40 PM 08-12-2024",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -88,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/114620_english_hls_4960ta-di/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 vs Gary Player CC, Sun City, South Africa (NedBank Golf Challenge)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/nedbank-golf-challenge_match-card.jpg",
-            "team_1": "Day 4",
-            "team_2": "Gary Player CC, Sun City, South Africa",
-            "status": "LIVE",
-            "event_name": "NedBank Golf Challenge",
-            "match_name": "Day 4",
-            "match_id": 114575,
-            "startTime": "02:30:00 PM 08-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/JjJwyoZHQ1O1Iwg800SUuQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114575_english_hls_4653ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110408_4543_TAS_SAU_fc-Web.jpg",
@@ -160,6 +146,18 @@
             "match_name": "West Bromwich Albion vs Sheffield United",
             "match_id": 109893,
             "startTime": "08:30:00 PM 08-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ABL Stallions vs Nurpur Lions (Champions T20 Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114593_4681_AST_NUR_fc-web.jpg",
+            "team_1": "ABL Stallions",
+            "team_2": "Nurpur Lions",
+            "status": "UPCOMING",
+            "event_name": "Champions T20 Cup, 2024",
+            "match_name": "ABL Stallions vs Nurpur Lions",
+            "match_id": 114593,
+            "startTime": "12:30:00 PM 09-12-2024"
         }
     ]
 }
