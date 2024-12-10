@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:16:30 PM 10-12-2024",
+    "last update time": "12:26:36 PM 10-12-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png",
+            "team_1": "West Indies",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh tour of West Indies, 2024",
+            "match_name": "West Indies vs Bangladesh",
+            "match_id": 112347,
+            "startTime": "07:00:00 PM 10-12-2024"
+        },
         {
             "event_category": "Cricket",
             "title": "Engro Dolphins vs UMT Markhors (Champions T20 Cup, 2024)",
@@ -47,20 +59,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Lumbini Lions vs Chitwan Rhinos (Nepal Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113739_4657_CWR_LBL_fc-Web.jpg",
-            "team_1": "Lumbini Lions",
-            "team_2": "Chitwan Rhinos",
-            "status": "LIVE",
-            "event_name": "Nepal Premier League, 2024",
-            "match_name": "Lumbini Lions vs Chitwan Rhinos",
-            "match_id": 113739,
-            "startTime": "08:45:00 AM 10-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/DJtSD-1WQu2r9v8J0X7IKw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113739_english_hls_6055ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Karnali Yaks vs Pokhara Avengers (Nepal Premier League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113740_4657_KNY_PKA_fc-Web.jpg",
             "team_1": "Karnali Yaks",
@@ -70,18 +68,6 @@
             "match_name": "Karnali Yaks vs Pokhara Avengers",
             "match_id": 113740,
             "startTime": "12:45:00 PM 10-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-ODI--old-match-card.png",
-            "team_1": "West Indies",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh tour of West Indies, 2024",
-            "match_name": "West Indies vs Bangladesh",
-            "match_id": 112347,
-            "startTime": "07:00:00 PM 10-12-2024"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +140,18 @@
             "match_name": "Suriname vs Cayman Islands",
             "match_id": 114026,
             "startTime": "07:00:00 PM 10-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jersey Women vs Czechia Women (European Cricket Championship-W, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114636_4684_JER-W_CZE-W_fc-web.jpg",
+            "team_1": "Jersey Women",
+            "team_2": "Czechia Women",
+            "status": "UPCOMING",
+            "event_name": "European Cricket Championship-W, 2024",
+            "match_name": "Jersey Women vs Czechia Women",
+            "match_id": 114636,
+            "startTime": "08:05:00 PM 10-12-2024"
         }
     ]
 }
