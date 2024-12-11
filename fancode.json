@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:22:23 AM 12-12-2024",
+    "last update time": "02:32:29 AM 12-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Suriname vs Argentina (ICC Men's T20 WC Sub Regional Americas Qualifier)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114033_4664_ARG_SRN_fc-web.jpg",
-            "team_1": "Suriname",
-            "team_2": "Argentina",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-            "match_name": "Suriname vs Argentina",
-            "match_id": 114033,
-            "startTime": "11:30:00 PM 11-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/uc0FygvYSFeLAqYs29Z5aw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114033_english_hls_6157ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bermuda vs Brazil (ICC Men's T20 WC Sub Regional Americas Qualifier)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114032_4664_BER_BRA_fc-web.jpg",
-            "team_1": "Bermuda",
-            "team_2": "Brazil",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-            "match_name": "Bermuda vs Brazil",
-            "match_id": 114032,
-            "startTime": "11:30:00 PM 11-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/ZvkCUNfhSDeS33k_GhaFjQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114032_english_hls_9085ta-no/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "West Bromwich Albion vs Coventry City (EFL Championship 2024-25)",
@@ -58,6 +30,34 @@
             "startTime": "01:30:00 AM 12-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/n7fJPQBQTO683XpVGtyE7w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115095_english_hls_9088ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Suriname vs Argentina (ICC Men's T20 WC Sub Regional Americas Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114033_4664_ARG_SRN_fc-web.jpg",
+            "team_1": "Suriname",
+            "team_2": "Argentina",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+            "match_name": "Suriname vs Argentina",
+            "match_id": 114033,
+            "startTime": "11:30:00 PM 11-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/uc0FygvYSFeLAqYs29Z5aw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114033_english_hls_6157ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bermuda vs Brazil (ICC Men's T20 WC Sub Regional Americas Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114032_4664_BER_BRA_fc-web.jpg",
+            "team_1": "Bermuda",
+            "team_2": "Brazil",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+            "match_name": "Bermuda vs Brazil",
+            "match_id": 114032,
+            "startTime": "11:30:00 PM 11-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZvkCUNfhSDeS33k_GhaFjQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114032_english_hls_9085ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,6 +142,18 @@
             "match_name": "West Indies vs Bangladesh",
             "match_id": 112348,
             "startTime": "07:00:00 PM 12-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jaffna Titans vs Colombo Jaguars (Lanka T10 Super League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114013_4663_JT_CJ_fc-web_1733813071070.jpg",
+            "team_1": "Jaffna Titans",
+            "team_2": "Colombo Jaguars",
+            "status": "UPCOMING",
+            "event_name": "Lanka T10 Super League, 2024",
+            "match_name": "Jaffna Titans vs Colombo Jaguars",
+            "match_id": 114013,
+            "startTime": "08:30:00 PM 12-12-2024"
         }
     ]
 }
