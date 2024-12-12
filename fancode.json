@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:04:22 PM 12-12-2024",
+    "last update time": "09:14:29 PM 12-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "08:30:00 PM 12-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/_cZmiWaYTAKh7igsb60yoA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114013_english_hls_5980ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Botswana vs Nigeria (Africa T20I Continent Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114464_4675_BOT_NIG_fc-web.jpg",
-            "team_1": "Botswana",
-            "team_2": "Nigeria",
-            "status": "LIVE",
-            "event_name": "Africa T20I Continent Cup, 2024",
-            "match_name": "Botswana vs Nigeria",
-            "match_id": 114464,
-            "startTime": "05:15:00 PM 12-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/8q4YniT-RC6UumuTJcWtOQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114464_english_hls_6191ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -115,15 +101,29 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Biratnagar Kings vs Chitwan Rhinos (Nepal Premier League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113746_4657_BK_CWR_fc-Web.jpg",
+            "team_1": "Biratnagar Kings",
+            "team_2": "Chitwan Rhinos",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2024",
+            "match_name": "Biratnagar Kings vs Chitwan Rhinos",
+            "match_id": 113746,
+            "startTime": "12:45:00 PM 13-12-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Barana Aute Warriors vs Indian River Rowers (Dream11 Nature Isle T10, 6th Edition, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v2.jpg",
             "team_1": "Barana Aute Warriors",
             "team_2": "Indian River Rowers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
             "match_name": "Barana Aute Warriors vs Indian River Rowers",
             "match_id": 114153,
-            "startTime": "09:30:00 PM 12-12-2024"
+            "startTime": "09:30:00 PM 12-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/cSB6JfV3R568JVG0wKVLVQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114153_english_hls_6302ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -139,18 +139,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Biratnagar Kings vs Chitwan Rhinos (Nepal Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113746_4657_BK_CWR_fc-Web.jpg",
-            "team_1": "Biratnagar Kings",
-            "team_2": "Chitwan Rhinos",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2024",
-            "match_name": "Biratnagar Kings vs Chitwan Rhinos",
-            "match_id": 113746,
-            "startTime": "12:45:00 PM 13-12-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Nuwara Eliya Kings vs Galle Marvels (Lanka T10 Super League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113994_4663_NEK_GM_fc-web_1733813071563.jpg",
             "team_1": "Nuwara Eliya Kings",
@@ -160,6 +148,18 @@
             "match_name": "Nuwara Eliya Kings vs Galle Marvels",
             "match_id": 113994,
             "startTime": "04:00:00 PM 13-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "Afghanistan",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
+            "match_name": "Zimbabwe vs Afghanistan",
+            "match_id": 113540,
+            "startTime": "05:00:00 PM 13-12-2024"
         }
     ]
 }
