@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:34:40 PM 12-12-2024",
+    "last update time": "09:44:51 PM 12-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -89,20 +89,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Suriname vs Mexico (ICC Men's T20 WC Sub Regional Americas Qualifier)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114035_4664_MEX_SRN_fc-web.jpg",
-            "team_1": "Suriname",
-            "team_2": "Mexico",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
-            "match_name": "Suriname vs Mexico",
-            "match_id": 114035,
-            "startTime": "07:00:00 PM 12-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/EmVfXr7QTJm3-2dazTkUVg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114035_english_hls_9448ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Lumbini Lions vs Karnali Yaks (Nepal Premier League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113745_4657_LBL_KNY_fc-Web.jpg",
             "team_1": "Lumbini Lions",
@@ -131,11 +117,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112431_4616_GGL_GAT_fc-web_1731569489679.jpg",
             "team_1": "Going Global",
             "team_2": "GAT",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "KCC T20 Challengers A League, 2024-25",
             "match_name": "Going Global vs GAT",
             "match_id": 112431,
-            "startTime": "10:00:00 PM 12-12-2024"
+            "startTime": "10:00:00 PM 12-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/RKwH3_iQT6-JIG6rHEunNA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112431_english_hls_6988ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -160,6 +148,18 @@
             "match_name": "Zimbabwe vs Afghanistan",
             "match_id": 113540,
             "startTime": "05:00:00 PM 13-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kandy Bolts vs Jaffna Titans (Lanka T10 Super League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113995_4663_KB_JT_fc-web_1733813070465.jpg",
+            "team_1": "Kandy Bolts",
+            "team_2": "Jaffna Titans",
+            "status": "UPCOMING",
+            "event_name": "Lanka T10 Super League, 2024",
+            "match_name": "Kandy Bolts vs Jaffna Titans",
+            "match_id": 113995,
+            "startTime": "06:15:00 PM 13-12-2024"
         }
     ]
 }
