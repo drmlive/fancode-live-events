@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:49:18 AM 14-12-2024",
+    "last update time": "10:59:28 AM 14-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -116,6 +116,20 @@
             "adfree_url": "https://dai.fancode.com/primary/110935_english_hls_6047ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Sydney FC vs Western United (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110936_4567_SYD_WST_fc-web_1728983127739.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Western United",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Sydney FC vs Western United",
+            "match_id": 110936,
+            "startTime": "11:30:00 AM 14-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/reO-NsVFTXe_gkc7sPzx2Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110936_english_hls_6247ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Chitwan Rhinos vs Janakpur Bolts (Nepal Premier League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113748_4657_CWR_JKB_fc-Web.jpg",
@@ -150,18 +164,6 @@
             "match_name": "Zimbabwe vs Afghanistan",
             "match_id": 113541,
             "startTime": "05:00:00 PM 14-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Galle Marvels vs Jaffna Titans (Lanka T10 Super League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113998_4663_GM_JT_fc-web_1733813070756.jpg",
-            "team_1": "Galle Marvels",
-            "team_2": "Jaffna Titans",
-            "status": "UPCOMING",
-            "event_name": "Lanka T10 Super League, 2024",
-            "match_name": "Galle Marvels vs Jaffna Titans",
-            "match_id": 113998,
-            "startTime": "06:15:00 PM 14-12-2024"
         }
     ]
 }
