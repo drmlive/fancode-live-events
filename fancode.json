@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:23:13 PM 14-12-2024",
+    "last update time": "04:33:20 PM 14-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Northern Challengers vs Mumbai Marines (Big Cricket League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114840_4688_NC_MM_fc-Web.jpg",
-            "team_1": "Northern Challengers",
-            "team_2": "Mumbai Marines",
-            "status": "LIVE",
-            "event_name": "Big Cricket League, 2024",
-            "match_name": "Northern Challengers vs Mumbai Marines",
-            "match_id": 114840,
-            "startTime": "03:00:00 PM 14-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/mZAQhGp7R-uHkRxFQF2DyQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114840_english_hls_9893ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Oman vs Qatar (Men's Gulf Cricket T20I Championship 2024)",
@@ -30,6 +16,20 @@
             "startTime": "03:00:00 PM 14-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/__B-FFUAQribHIjD6v5crQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115014_english_hls_3215ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Northern Challengers vs Mumbai Marines (Big Cricket League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114840_4688_NC_MM_fc-Web.jpg",
+            "team_1": "Northern Challengers",
+            "team_2": "Mumbai Marines",
+            "status": "LIVE",
+            "event_name": "Big Cricket League, 2024",
+            "match_name": "Northern Challengers vs Mumbai Marines",
+            "match_id": 114840,
+            "startTime": "03:00:00 PM 14-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/mZAQhGp7R-uHkRxFQF2DyQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114840_english_hls_9893ta-di/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -89,20 +89,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Chitwan Rhinos vs Janakpur Bolts (Nepal Premier League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113748_4657_CWR_JKB_fc-Web.jpg",
-            "team_1": "Chitwan Rhinos",
-            "team_2": "Janakpur Bolts",
-            "status": "LIVE",
-            "event_name": "Nepal Premier League, 2024",
-            "match_name": "Chitwan Rhinos vs Janakpur Bolts",
-            "match_id": 113748,
-            "startTime": "12:45:00 PM 14-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/2JTnhY7NQh2U4WL6DjJiVA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113748_english_hls_6383ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_old.jpg",
             "team_1": "Zimbabwe",
@@ -148,6 +134,30 @@
             "match_name": "Germany Women vs Spain Women",
             "match_id": 114650,
             "startTime": "05:05:00 PM 14-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Uganda vs Nigeria (Africa T20I Continent Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114457_4675_UGA_NIG_fc-web.jpg",
+            "team_1": "Uganda",
+            "team_2": "Nigeria",
+            "status": "UPCOMING",
+            "event_name": "Africa T20I Continent Cup, 2024",
+            "match_name": "Uganda vs Nigeria",
+            "match_id": 114469,
+            "startTime": "05:15:00 PM 14-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Biratnagar Kings vs Kathmandu Gurkhas (Nepal Premier League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113749_4657_BK_KMG_fc-Web.jpg",
+            "team_1": "Biratnagar Kings",
+            "team_2": "Kathmandu Gurkhas",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2024",
+            "match_name": "Biratnagar Kings vs Kathmandu Gurkhas",
+            "match_id": 113749,
+            "startTime": "08:45:00 AM 15-12-2024"
         }
     ]
 }
