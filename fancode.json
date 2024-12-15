@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:04:17 AM 15-12-2024",
+    "last update time": "08:14:32 AM 15-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -69,11 +69,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114929_4691_DD_DM_fc-web_1733857501963.jpg",
             "team_1": "Dhaka Division",
             "team_2": "Dhaka Metropolis",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "National Cricket League T20, 2024",
             "match_name": "Dhaka Division vs Dhaka Metropolis",
             "match_id": 114929,
-            "startTime": "08:30:00 AM 15-12-2024"
+            "startTime": "08:30:00 AM 15-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/qKAUY2-gQ66nH8VT6uh_xA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114929_english_hls_6098ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -98,6 +100,18 @@
             "match_name": "Mumbai Suburban vs Konkan",
             "match_id": 115325,
             "startTime": "09:00:00 AM 15-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-T20-old-match-card.png",
+            "team_1": "West Indies",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh tour of West Indies, 2024",
+            "match_name": "West Indies vs Bangladesh",
+            "match_id": 112349,
+            "startTime": "05:30:00 AM 16-12-2024"
         },
         {
             "event_category": "Cricket",
@@ -134,18 +148,6 @@
             "match_name": "Sylhet Division vs Khulna Division",
             "match_id": 114931,
             "startTime": "12:30:00 PM 15-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-T20-old-match-card.png",
-            "team_1": "West Indies",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh tour of West Indies, 2024",
-            "match_name": "West Indies vs Bangladesh",
-            "match_id": 112349,
-            "startTime": "05:30:00 AM 16-12-2024"
         }
     ]
 }
