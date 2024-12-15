@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:24:53 PM 15-12-2024",
+    "last update time": "10:34:59 PM 15-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Jaffna Titans vs Nuwara Eliya Kings (Lanka T10 Super League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114002_4663_JT_NEK_fc-web_1733813070427.jpg",
-            "team_1": "Jaffna Titans",
-            "team_2": "Nuwara Eliya Kings",
-            "status": "LIVE",
-            "event_name": "Lanka T10 Super League, 2024",
-            "match_name": "Jaffna Titans vs Nuwara Eliya Kings",
-            "match_id": 114002,
-            "startTime": "08:30:00 PM 15-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/dDb4AkEYRiuBF9tJD3FSzQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114002_english_hls_9172ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Mumbai Marines vs Rajasthan Regals (Big Cricket League, 2024)",
@@ -58,6 +44,20 @@
             "startTime": "10:30:00 PM 15-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/XJhI8ByYQx2BTdLYHDORqw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112438_english_hls_5826ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jaffna Titans vs Nuwara Eliya Kings (Lanka T10 Super League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114002_4663_JT_NEK_fc-web_1733813070427.jpg",
+            "team_1": "Jaffna Titans",
+            "team_2": "Nuwara Eliya Kings",
+            "status": "LIVE",
+            "event_name": "Lanka T10 Super League, 2024",
+            "match_name": "Jaffna Titans vs Nuwara Eliya Kings",
+            "match_id": 114002,
+            "startTime": "08:30:00 PM 15-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/dDb4AkEYRiuBF9tJD3FSzQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114002_english_hls_9172ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -123,6 +123,30 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Panama vs Mexico (ICC Men's T20 WC Sub Regional Americas Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114045_4664_PAN_MEX_fc-web.jpg",
+            "team_1": "Panama",
+            "team_2": "Mexico",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+            "match_name": "Panama vs Mexico",
+            "match_id": 114045,
+            "startTime": "11:30:00 PM 15-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bahamas vs Bermuda (ICC Men's T20 WC Sub Regional Americas Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114044_4664_BAH_BER_fc-web.jpg",
+            "team_1": "Bahamas",
+            "team_2": "Bermuda",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Sub Regional Americas Qualifier",
+            "match_name": "Bahamas vs Bermuda",
+            "match_id": 114044,
+            "startTime": "11:30:00 PM 15-12-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Chennai Marvels vs Varanasi Warriors (Actors Cricket Bash)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Chennai-Marvels-Vs-Varanasi-Warriors_OLD_1734109662300.jpg",
             "team_1": "Chennai Marvels",
@@ -132,30 +156,6 @@
             "match_name": "Chennai Marvels vs Varanasi Warriors",
             "match_id": 115340,
             "startTime": "03:00:00 PM 16-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Nuwara Eliya Kings vs Galle Marvels (Lanka T10 Super League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114003_4663_NEK_GM_fc-web_1733813071108.jpg",
-            "team_1": "Nuwara Eliya Kings",
-            "team_2": "Galle Marvels",
-            "status": "UPCOMING",
-            "event_name": "Lanka T10 Super League, 2024",
-            "match_name": "Nuwara Eliya Kings vs Galle Marvels",
-            "match_id": 114003,
-            "startTime": "04:00:00 PM 16-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hambantota Bangla Tigers vs Colombo Jaguars (Lanka T10 Super League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114004_4663_HBT_CJ_fc-web_1733813070572.jpg",
-            "team_1": "Hambantota Bangla Tigers",
-            "team_2": "Colombo Jaguars",
-            "status": "UPCOMING",
-            "event_name": "Lanka T10 Super League, 2024",
-            "match_name": "Hambantota Bangla Tigers vs Colombo Jaguars",
-            "match_id": 114004,
-            "startTime": "06:15:00 PM 16-12-2024"
         }
     ]
 }
