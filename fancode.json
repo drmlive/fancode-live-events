@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:40:02 PM 16-12-2024",
+    "last update time": "07:50:12 PM 16-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,20 +74,6 @@
             "adfree_url": "https://dai.fancode.com/primary/113852_english_hls_5949ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Hambantota Bangla Tigers vs Colombo Jaguars (Lanka T10 Super League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114004_4663_HBT_CJ_fc-web_1733813070572.jpg",
-            "team_1": "Hambantota Bangla Tigers",
-            "team_2": "Colombo Jaguars",
-            "status": "LIVE",
-            "event_name": "Lanka T10 Super League, 2024",
-            "match_name": "Hambantota Bangla Tigers vs Colombo Jaguars",
-            "match_id": 114004,
-            "startTime": "06:15:00 PM 16-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/FNQvDzTrSc2SI8nXDt5A4A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114004_english_hls_8967ta-di/index.m3u8"
-        },
-        {
             "event_category": "Kabaddi",
             "title": "Dehradun Dynamos vs Indore Invincibles (Yuva Kabaddi Series Edition 11 - Division Rounds)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114751_4687_DDS_IIS_fc-web.jpg",
@@ -131,11 +117,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114659_4684_ITA-W_SCXI-W_fc-web.jpg",
             "team_1": "Italy Women",
             "team_2": "Scotland XI-W",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "European Cricket Championship-W, 2024",
             "match_name": "Italy Women vs Scotland XI-W",
             "match_id": 114659,
-            "startTime": "08:05:00 PM 16-12-2024"
+            "startTime": "08:05:00 PM 16-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/0rlAjARQQYWI04Led2TXdw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114659_english_hls_6018ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -160,6 +148,18 @@
             "match_name": "Zimbabwe vs Afghanistan",
             "match_id": 113542,
             "startTime": "01:00:00 PM 17-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mumbai Aces vs Delhi Titans (Actors Cricket Bash)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mumbai-Aces-Vs-Delhi-Titans_Sporty_OLD_1734109933274.jpg",
+            "team_1": "Mumbai Aces",
+            "team_2": "Delhi Titans",
+            "status": "UPCOMING",
+            "event_name": "Actors Cricket Bash",
+            "match_name": "Mumbai Aces vs Delhi Titans",
+            "match_id": 115343,
+            "startTime": "02:40:00 PM 17-12-2024"
         }
     ]
 }
