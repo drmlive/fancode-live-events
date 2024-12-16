@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:58:11 PM 16-12-2024",
+    "last update time": "05:08:18 PM 16-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/115328_english_hls_5909ta-di/index.m3u8"
         },
         {
+            "event_category": "Kabaddi",
+            "title": "Dehradun Dynamos vs Indore Invincibles (Yuva Kabaddi Series Edition 11 - Division Rounds)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114751_4687_DDS_IIS_fc-web.jpg",
+            "team_1": "Dehradun Dynamos",
+            "team_2": "Indore Invincibles",
+            "status": "LIVE",
+            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+            "match_name": "Dehradun Dynamos vs Indore Invincibles",
+            "match_id": 114751,
+            "startTime": "05:15:00 PM 16-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/kX8fMiX9TgmWltqUMfuNTQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114751_english_hls_6195ta-di/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "DBI SC vs United Chirangduar FC (2nd Protech Guwahati Premier League 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
@@ -139,27 +153,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ahmedabad Lions vs Chennai Marvels (Actors Cricket Bash)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-Vs-Chennai-Marvels_OLD_1734109766246.jpg",
-            "team_1": "Ahmedabad Lions",
-            "team_2": "Chennai Marvels",
+            "title": "England XI Women vs Ireland XI-W (European Cricket Championship-W, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114658_4684_EXI-W_IRXI-W_fc-web.jpg",
+            "team_1": "England XI Women",
+            "team_2": "Ireland XI-W",
             "status": "UPCOMING",
-            "event_name": "Actors Cricket Bash",
-            "match_name": "Ahmedabad Lions vs Chennai Marvels",
-            "match_id": 115341,
-            "startTime": "09:40:00 AM 17-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chandigarh Mavericks vs Varanasi Warriors (Actors Cricket Bash)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Varanasi-Warriors_OLD_1734109828500.jpg",
-            "team_1": "Chandigarh Mavericks",
-            "team_2": "Varanasi Warriors",
-            "status": "UPCOMING",
-            "event_name": "Actors Cricket Bash",
-            "match_name": "Chandigarh Mavericks vs Varanasi Warriors",
-            "match_id": 115342,
-            "startTime": "12:10:00 PM 17-12-2024"
+            "event_name": "European Cricket Championship-W, 2024",
+            "match_name": "England XI Women vs Ireland XI-W",
+            "match_id": 114658,
+            "startTime": "06:05:00 PM 16-12-2024"
         }
     ]
 }
