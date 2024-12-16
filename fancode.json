@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:12:16 AM 16-12-2024",
+    "last update time": "09:22:23 AM 16-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,6 +58,20 @@
             "startTime": "09:00:00 AM 16-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/62Lhn6TRR1uGt4T8-0bP2Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115327_english_hls_5730ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Final vs CCI, Brabourne Stadium (MSSA Harris Shield)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Harris-Shield_old.jpg",
+            "team_1": "Final",
+            "team_2": "CCI, Brabourne Stadium",
+            "status": "LIVE",
+            "event_name": "MSSA Harris Shield",
+            "match_name": "Final",
+            "match_id": 115084,
+            "startTime": "09:45:00 AM 16-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/1KNAZ8BbRaKdp43Il6nfKw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115084_english_hls_8854ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +156,6 @@
             "match_name": "Chambal Challengers vs Himalayan Tahrs",
             "match_id": 114748,
             "startTime": "10:00:00 AM 16-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Saudi Arabia vs Bahrain (Men's Gulf Cricket T20I Championship 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115017_4695_SAU_BAH_fc-Web.jpg",
-            "team_1": "Saudi Arabia",
-            "team_2": "Bahrain",
-            "status": "UPCOMING",
-            "event_name": "Men's Gulf Cricket T20I Championship 2024",
-            "match_name": "Saudi Arabia vs Bahrain",
-            "match_id": 115017,
-            "startTime": "10:30:00 AM 16-12-2024"
         }
     ]
 }
