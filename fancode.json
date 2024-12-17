@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:19:27 AM 17-12-2024",
+    "last update time": "09:29:35 AM 17-12-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Ahmedabad Lions vs Chennai Marvels (Actors Cricket Bash)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-Vs-Chennai-Marvels_OLD_1734109766246.jpg",
+            "team_1": "Ahmedabad Lions",
+            "team_2": "Chennai Marvels",
+            "status": "LIVE",
+            "event_name": "Actors Cricket Bash",
+            "match_name": "Ahmedabad Lions vs Chennai Marvels",
+            "match_id": 115341,
+            "startTime": "09:40:00 AM 17-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/Fam8uE26QOG9lnM9zai1FQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115341_english_hls_6311ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Barisal Division vs Rangpur Division (National Cricket League T20, 2024)",
@@ -30,18 +44,6 @@
             "startTime": "09:00:00 AM 17-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/zgf1mASRTAKszZmt4f8HVw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114934_english_hls_6131ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ahmedabad Lions vs Chennai Marvels (Actors Cricket Bash)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ahmedabad-Lions-Vs-Chennai-Marvels_OLD_1734109766246.jpg",
-            "team_1": "Ahmedabad Lions",
-            "team_2": "Chennai Marvels",
-            "status": "UPCOMING",
-            "event_name": "Actors Cricket Bash",
-            "match_name": "Ahmedabad Lions vs Chennai Marvels",
-            "match_id": 115341,
-            "startTime": "09:40:00 AM 17-12-2024"
         },
         {
             "event_category": "Cricket",
@@ -141,15 +143,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-T20-old-match-card.png",
-            "team_1": "West Indies",
-            "team_2": "Bangladesh",
+            "title": "Qatar vs Kuwait (Men's Gulf Cricket T20I Championship 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115019_4695_QAT_KUW_fc-Web.jpg",
+            "team_1": "Qatar",
+            "team_2": "Kuwait",
             "status": "UPCOMING",
-            "event_name": "Bangladesh tour of West Indies, 2024",
-            "match_name": "West Indies vs Bangladesh",
-            "match_id": 112350,
-            "startTime": "05:30:00 AM 18-12-2024"
+            "event_name": "Men's Gulf Cricket T20I Championship 2024",
+            "match_name": "Qatar vs Kuwait",
+            "match_id": 115019,
+            "startTime": "10:30:00 AM 17-12-2024"
         }
     ]
 }
