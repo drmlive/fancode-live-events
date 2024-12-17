@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:41:04 AM 18-12-2024",
+    "last update time": "12:51:12 AM 18-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "11:30:00 PM 17-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/-LXs0v9qQJSn1HoPHntdig/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113669_english_hls_6775ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Barcelona vs Fenerbahce Beko Istanbul (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/113670_CASACARDS_APP.png",
+            "team_1": "Barcelona",
+            "team_2": "Fenerbahce Beko Istanbul",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Barcelona vs Fenerbahce Beko Istanbul",
+            "match_id": 113670,
+            "startTime": "01:00:00 AM 18-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/UtuFM9smTfa2hjn8tc_0RQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113670_english_hls_6981ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "Jaffna Titans vs Hambantota Bangla Tigers",
             "match_id": 114009,
             "startTime": "04:00:00 PM 18-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Galle Marvels vs Kandy Bolts (Lanka T10 Super League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Galle Marvels",
-            "team_2": "Kandy Bolts",
-            "status": "UPCOMING",
-            "event_name": "Lanka T10 Super League, 2024",
-            "match_name": "Galle Marvels vs Kandy Bolts",
-            "match_id": 114010,
-            "startTime": "06:15:00 PM 18-12-2024"
         }
     ]
 }
