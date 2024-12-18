@@ -306,21 +306,13 @@
 
     function playMatch(match) {
       currentMatchName = match.match_name;
-      if (Hls.isSupported()) {
-        hls = new Hls();
-        hls.loadSource(match.adfree_url);
-        hls.attachMedia(player);
-
-        hls.on(Hls.Events.MANIFEST_PARSED, () => {
-          lowQualityButton.style.display = "inline-block";
-          highQualityButton.style.display = "inline-block";
-        });
-      } else {
-        player.src = match.adfree_url;
-      }
-
-      videoPlayer.style.display = "flex";
-      player.play();
+      const m3u8Url = match.adfree_url;  // The M3U8 URL for the match
+      
+      // Construct the URL for the new page
+      const playerUrl = `https://shz.al/Sffb/livecricplayer.html?dtv=${encodeURIComponent(m3u8Url)}`;
+      
+      // Open the new page with the M3U8 URL
+      window.open(playerUrl, '_blank');
     }
 
     function closeVideoPlayer() {
