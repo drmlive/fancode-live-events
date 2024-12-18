@@ -253,14 +253,12 @@
     async function fetchMatchData() {
       try {
         const [fancodeResponse, sonylivResponse] = await Promise.all([ 
-          fetch('https://cdn.jsdelivr.net/gh/drmlive/fancode-live-events@main/fancode.json'),
-          fetch('https://cdn.jsdelivr.net/gh/drmlive/sliv-live-events@main/sonyliv.json'),
+          fetch('https://raw.githubusercontent.com/yaseenzj/fc/refs/heads/main/fancode.json'),
         ]);
 
         const fancodeData = await fancodeResponse.json();
-        const sonylivData = await sonylivResponse.json();
 
-        const allMatches = [...fancodeData.matches, ...sonylivData.matches];
+        const allMatches = [...fancodeData.matches];
         displayCategories(allMatches);
 
         // Set a random match thumbnail behind the header
