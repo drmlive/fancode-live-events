@@ -59,24 +59,21 @@
 
     .matches-list-wrapper {
       position: relative;
-      overflow: hidden;
       margin: 0 auto;
-    }
-
-    .matches-list {
       display: flex;
+      flex-wrap: wrap; /* Allow wrapping to a new line */
       gap: 20px;
-      transition: transform 0.5s ease-in-out;
     }
 
     .match {
       position: relative;
-      min-width: 250px;
+      width: calc(20% - 20px); /* Each match takes 20% of the width */
       height: 140px;
       cursor: pointer;
       border-radius: 10px;
       overflow: hidden;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.7);
+      margin-bottom: 20px;
     }
 
     .match img {
@@ -280,20 +277,37 @@
       const wrapper = document.createElement("div");
       wrapper.classList.add("matches-list-wrapper");
 
-      const list = document.createElement("div");
-      list.classList.add("matches-list");
-
       matches.forEach(match => {
         const card = document.createElement("div");
         card.classList.add("match");
-        card.innerHTML = 
-          `<img src="${match.src}" alt="${match.match_name}">
-          <div class="match-overlay"><p>${match.match_name}</p></div>`;
-        card.addEventListener("click", () => playMatch(match));
-        list.appendChild(card);
-      });
 
-      wrapper.appendChild(list);
+        // Check if the match is live or upcoming
+        const matchStatus = match.status || "upcoming";  // assuming match has 'status' key
+        const matchImage = match.src;
+        const matchName = match.match_name;
+
+        // If the match is upcoming or link is undefined, show the "Match not started yet" message
+        if (matchStatus === "upcoming" || !match.adfree_url) {
+          card.innerHTML = `
+            <img src="${matchImage}" alt="${matchName}">
+            <div class="match-overlay">
+              <p>${matchName}</p>
+              <p>Match not started yet</p>
+            </div>`;
+        } else {
+          card.innerHTML = `
+            <img src="${matchImage}" alt="${matchName}">
+            <div class="match-overlay"><p>${matchName}</p></div>`;
+        }
+
+        card.addEventListener("click", () => {
+          if (matchStatus !== "upcoming" && match.adfree_url) {
+            playMatch(match);
+          }
+        });
+
+        wrapper.appendChild(card);
+      });
 
       section.appendChild(wrapper);
       matchCategories.appendChild(section);
