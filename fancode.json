@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:49:15 AM 19-12-2024",
+    "last update time": "12:59:22 AM 19-12-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-VS-Brentford_old.jpg",
             "team_1": "Newcastle United",
             "team_2": "Brentford",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Carabao Cup 2024-25",
             "match_name": "Newcastle United vs Brentford",
             "match_id": 113047,
-            "startTime": "01:15:00 AM 19-12-2024"
+            "startTime": "01:15:00 AM 19-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/tYkx8LUoTXyQy0-U8JO4cw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113047_english_hls_7493ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -66,20 +68,6 @@
             "startTime": "10:30:00 PM 18-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/NUF5FsIlR---8siUpD7YSg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112440_english_hls_6491ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ajman vs Emirates Blues (Emirates D10 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115449_4713_EMB_AJM_fc-web.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Blues",
-            "status": "LIVE",
-            "event_name": "Emirates D10 2024",
-            "match_name": "Ajman vs Emirates Blues",
-            "match_id": 115449,
-            "startTime": "11:15:00 PM 18-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/PGuSgUCtQ6eNboHY77fxgg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115449_english_hls_7183ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +144,18 @@
             "match_name": "Ahmedabad Lions vs Chandigarh Mavericks",
             "match_id": 115349,
             "startTime": "02:40:00 PM 19-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "UP Brij Stars vs Rajasthan Regals (Big Cricket League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114850_4688_UPBS_RR_fc-Web.jpg",
+            "team_1": "UP Brij Stars",
+            "team_2": "Rajasthan Regals",
+            "status": "UPCOMING",
+            "event_name": "Big Cricket League, 2024",
+            "match_name": "UP Brij Stars vs Rajasthan Regals",
+            "match_id": 114850,
+            "startTime": "03:00:00 PM 19-12-2024"
         }
     ]
 }
