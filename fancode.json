@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:54:34 PM 18-12-2024",
+    "last update time": "06:04:42 PM 18-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/114759_english_hls_7271ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Gplus Athletic vs United Chirangduar FC (2nd Protech Guwahati Premier League 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Guwahati-Premier-League-Old-2_1732617283192.jpg",
-            "team_1": "Gplus Athletic",
-            "team_2": "United Chirangduar FC",
-            "status": "LIVE",
-            "event_name": "2nd Protech Guwahati Premier League 2024",
-            "match_name": "Gplus Athletic vs United Chirangduar FC",
-            "match_id": 113856,
-            "startTime": "04:00:00 PM 18-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/lbsWDLDhQ_Cql5PBKnhjNQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113856_english_hls_7226ta-no/index.m3u8"
-        },
-        {
             "event_category": "Volleyball",
             "title": "Tianjin Bohai Bank vs Numia Vero Volley Milano (Women's Club World Champs 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115157_4703_TBB_NVV_fc-web.jpg",
@@ -117,29 +103,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "England XI-W vs Ireland XI-W (European Cricket Championship-W, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114665_4684_EXI-W_IRXI-W_fc-web.jpg",
-            "team_1": "England XI-W",
-            "team_2": "Ireland XI-W",
-            "status": "LIVE",
-            "event_name": "European Cricket Championship-W, 2024",
-            "match_name": "England XI-W vs Ireland XI-W",
-            "match_id": 114665,
-            "startTime": "04:05:00 PM 18-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/nrYxUsMJSBKLOrCa5TxNLg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114665_english_hls_6528ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Kandy Bolts vs Galle Marvels (Lanka T10 Super League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113991_4663_KB_GM_fc-web_1733813070483.jpg",
             "team_1": "Kandy Bolts",
             "team_2": "Galle Marvels",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Lanka T10 Super League, 2024",
             "match_name": "Kandy Bolts vs Galle Marvels",
             "match_id": 114010,
-            "startTime": "06:15:00 PM 18-12-2024"
+            "startTime": "06:15:00 PM 18-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/PnOtqxW4Q1SB0W9wJwNEPA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114010_english_hls_9915ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -155,15 +129,39 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Lanka T10 Super League, 2024)",
+            "title": "Hambantota Bangla Tigers vs TBC (Lanka T10 Super League, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
+            "team_1": "Hambantota Bangla Tigers",
             "team_2": "TBC",
             "status": "UPCOMING",
             "event_name": "Lanka T10 Super League, 2024",
-            "match_name": "TBC vs TBC",
+            "match_name": "Hambantota Bangla Tigers vs TBC",
             "match_id": 114011,
             "startTime": "08:30:00 PM 18-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Varanasi Warriors vs Delhi Titans (Actors Cricket Bash)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Varanasi-Warriors-Vs-Delhi-Titans_OLD_1734426305603.jpg",
+            "team_1": "Varanasi Warriors",
+            "team_2": "Delhi Titans",
+            "status": "UPCOMING",
+            "event_name": "Actors Cricket Bash",
+            "match_name": "Varanasi Warriors vs Delhi Titans",
+            "match_id": 115347,
+            "startTime": "09:40:00 AM 19-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Emirates Blues vs Sharjah (Emirates D10 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115448_4713_EMB_SHA_fc-web.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Sharjah",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10 2024",
+            "match_name": "Emirates Blues vs Sharjah",
+            "match_id": 115448,
+            "startTime": "06:45:00 PM 18-12-2024"
         }
     ]
 }
