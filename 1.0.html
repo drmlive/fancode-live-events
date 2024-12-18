@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Live Sports</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #141414;
+      color: white;
+      overflow-x: hidden;
+    }
+
+    header {
+      position: relative;
+      height: 60vh;
+      background-color: black;
+      background-size: cover;
+      background-position: center;
+    }
+
+    .header-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    }
+
+    .header-content {
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      color: white;
+    }
+
+    .header-content h1 {
+      font-size: 4em;
+      font-weight: bold;
+    }
+
+    .content {
+      padding: 20px;
+    }
+
+    .category-section {
+      margin-bottom: 40px;
+      position: relative;
+    }
+
+    .category-section h2 {
+      font-size: 1.8em;
+      margin-bottom: 10px;
+    }
+
+    .matches-list-wrapper {
+      position: relative;
+      overflow: hidden;
+      margin: 0 auto;
+    }
+
+    .matches-list {
+      display: flex;
+      gap: 20px;
+      transition: transform 0.5s ease-in-out;
+    }
+
+    .match {
+      position: relative;
+      min-width: 250px;
+      height: 140px;
+      cursor: pointer;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.7);
+    }
+
+    .match img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+
+    .match:hover img {
+      transform: scale(1.1);
+    }
+
+    .match-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.6);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    .match:hover .match-overlay {
+      opacity: 1;
+    }
+
+    .match-overlay p {
+      margin: 0;
+      font-size: 1.2em;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .arrow-button {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background-color: rgba(0, 0, 0, 0.5);
+      color: white;
+      border: none;
+      font-size: 2em;
+      padding: 10px;
+      cursor: pointer;
+      z-index: 10;
+    }
+
+    .arrow-button.left {
+      left: 10px;
+      display: none;
+    }
+
+    .arrow-button.right {
+      right: 10px;
+      display: none;
+    }
+
+    .video-player {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.8);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    video {
+      width: 80%;
+      height: auto;
+      position: relative;
+    }
+
+    .pause-overlay {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: rgba(0, 0, 0, 0.5);
+      color: white;
+      font-size: 1.5em;
+      padding: 10px 20px;
+      border-radius: 10px;
+      display: none;
+    }
+
+    .close-btn {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      color: white;
+      font-size: 2em;
+      background: none;
+      border: none;
+      cursor: pointer;
+    }
+
+    .quality-selector-container {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      z-index: 10;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .quality-button {
+      background: rgba(0, 0, 0, 0.7);
+      color: white;
+      padding: 10px;
+      font-size: 1.2em;
+      border: none;
+      cursor: pointer;
+      margin: 5px 0;
+      border-radius: 5px;
+    }
+
+    .matches-list-wrapper {
+      overflow: hidden;
+    }
+
+    .matches-list-wrapper::-webkit-scrollbar {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header id="header" style="background-image: url('');">
+    <div class="header-overlay"></div>
+    <div class="header-content">
+      <h1>Watch any match adsfree </h1>
+      <p>This is made for educational purpose, I do not support illegal activity</p>
+      <p>Contact @wihyaseen if any bug</p>
+    </div>
+  </header>
+
+  <!-- Match Categories -->
+  <section class="content" id="match-categories"></section>
+
+  <!-- Video Player Modal -->
+  <div id="video-player" class="video-player">
+    <button class="close-btn" onclick="closeVideoPlayer()">✖</button>
+    <video id="player" controls autoplay></video>
+    <div id="pause-overlay" class="pause-overlay"></div>
+
+    <!-- Quality Selector -->
+    <div id="quality-selector-container" class="quality-selector-container">
+      <button id="low-quality" class="quality-button">Low Quality</button>
+      <button id="high-quality" class="quality-button">High Quality</button>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script>
+    const matchCategories = document.getElementById("match-categories");
+    const videoPlayer = document.getElementById("video-player");
+    const player = document.getElementById("player");
+    const pauseOverlay = document.getElementById("pause-overlay");
+    const lowQualityButton = document.getElementById("low-quality");
+    const highQualityButton = document.getElementById("high-quality");
+    const header = document.getElementById("header");
+    let currentMatchName = "";
+    let hls;
+
+    async function fetchMatchData() {
+      try {
+        const [fancodeResponse, sonylivResponse] = await Promise.all([ 
+          fetch('https://cdn.jsdelivr.net/gh/drmlive/fancode-live-events@main/fancode.json'),
+          fetch('https://cdn.jsdelivr.net/gh/drmlive/sliv-live-events@main/sonyliv.json'),
+        ]);
+
+        const fancodeData = await fancodeResponse.json();
+        const sonylivData = await sonylivResponse.json();
+
+        const allMatches = [...fancodeData.matches, ...sonylivData.matches];
+        displayCategories(allMatches);
+
+        // Set a random match thumbnail behind the header
+        setHeaderBackground(allMatches);
+      } catch (error) {
+        console.error("Error fetching match data:", error);
+      }
+    }
+
+    function displayCategories(matches) {
+      const categories = {};
+
+      matches.forEach(match => {
+        if (!categories[match.event_category]) categories[match.event_category] = [];
+        categories[match.event_category].push(match);
+      });
+
+      matchCategories.innerHTML = "";
+      Object.entries(categories).forEach(([category, matches]) => {
+        createCategorySection(category, matches);
+      });
+    }
+
+    function createCategorySection(category, matches) {
+      const section = document.createElement("div");
+      section.classList.add("category-section");
+      section.innerHTML = `<h2>${category}</h2>`;
+
+      const wrapper = document.createElement("div");
+      wrapper.classList.add("matches-list-wrapper");
+
+      const list = document.createElement("div");
+      list.classList.add("matches-list");
+
+      matches.forEach(match => {
+        const card = document.createElement("div");
+        card.classList.add("match");
+        card.innerHTML = 
+          `<img src="${match.src}" alt="${match.match_name}">
+          <div class="match-overlay"><p>${match.match_name}</p></div>`;
+        card.addEventListener("click", () => playMatch(match));
+        list.appendChild(card);
+      });
+
+      wrapper.appendChild(list);
+
+      // Arrow buttons for scrolling
+      const leftArrow = document.createElement("button");
+      leftArrow.classList.add("arrow-button", "left");
+      leftArrow.innerHTML = "←";
+      leftArrow.addEventListener("click", () => scrollMatches(list, "left"));
+
+      const rightArrow = document.createElement("button");
+      rightArrow.classList.add("arrow-button", "right");
+      rightArrow.innerHTML = "→";
+      rightArrow.addEventListener("click", () => scrollMatches(list, "right"));
+
+      if (matches.length < 3) {
+        leftArrow.style.display = "none";
+        rightArrow.style.display = "none";
+      } else {
+        leftArrow.style.display = "inline-block";
+        rightArrow.style.display = "inline-block";
+      }
+
+      section.appendChild(leftArrow);
+      section.appendChild(rightArrow);
+      section.appendChild(wrapper);
+      matchCategories.appendChild(section);
+    }
+
+    function scrollMatches(list, direction) {
+      const scrollAmount = 300;
+      const currentTransform = list.style.transform.match(/translateX\((-?\d+)px\)/);
+      let currentX = currentTransform ? parseInt(currentTransform[1]) : 0;
+
+      if (direction === "right") {
+        currentX -= scrollAmount;
+      } else if (direction === "left") {
+        currentX += scrollAmount;
+      }
+
+      // Prevent scrolling past the start or end
+      const maxScrollX = list.scrollWidth - list.clientWidth;
+      if (currentX > 0) currentX = 0; // Can't scroll beyond the left
+      if (currentX < -maxScrollX) currentX = -maxScrollX; // Can't scroll beyond the right
+
+      list.style.transform = `translateX(${currentX}px)`;
+
+      // Hide the left arrow when at the leftmost position
+      const leftArrow = list.previousElementSibling.querySelector('.arrow-button.left');
+      const rightArrow = list.previousElementSibling.querySelector('.arrow-button.right');
+      
+      if (currentX === 0) {
+        leftArrow.style.display = "none";  // Hide left arrow at the start
+      } else {
+        leftArrow.style.display = "inline-block";  // Show left arrow when scrolled right
+      }
+
+      // Show/hide right arrow based on scroll position
+      if (currentX === -maxScrollX) {
+        rightArrow.style.display = "none";  // Hide right arrow at the end
+      } else {
+        rightArrow.style.display = "inline-block";  // Show right arrow when not at the end
+      }
+    }
+
+    function setHeaderBackground(matches) {
+      const randomMatch = matches[Math.floor(Math.random() * matches.length)];
+      header.style.backgroundImage = `url('${randomMatch.src}')`;
+    }
+
+    function playMatch(match) {
+      currentMatchName = match.match_name;
+      if (Hls.isSupported()) {
+        hls = new Hls();
+        hls.loadSource(match.adfree_url);
+        hls.attachMedia(player);
+
+        hls.on(Hls.Events.MANIFEST_PARSED, function() {
+          populateQualitySelector();
+        });
+      } else {
+        player.src = match.adfree_url;
+      }
+
+      videoPlayer.style.display = "flex";
+      player.play();
+      pauseOverlay.style.display = "none";
+    }
+
+    function populateQualitySelector() {
+      if (hls && hls.levels.length > 1) {
+        lowQualityButton.style.display = "inline-block";
+        highQualityButton.style.display = "inline-block";
+      }
+    }
+
+    lowQualityButton.addEventListener("click", () => {
+      if (hls) {
+        hls.currentLevel = 0; 
+        console.log("Quality set to Low");
+      }
+    });
+
+    highQualityButton.addEventListener("click", () => {
+      if (hls) {
+        hls.currentLevel = hls.levels.length - 1; 
+        console.log("Quality set to High");
+      }
+    });
+
+    player.addEventListener("pause", () => {
+      pauseOverlay.textContent = `You're watching: ${currentMatchName}`;
+      pauseOverlay.style.display = "block";
+      videoPlayer.style.background = "rgba(0, 0, 0, 0.6)";
+    });
+
+    player.addEventListener("play", () => {
+      pauseOverlay.style.display = "none";
+      videoPlayer.style.background = "rgba(0, 0, 0, 0.8)";
+    });
+
+    function closeVideoPlayer() {
+      videoPlayer.style.display = "none";
+      player.pause();
+      player.src = "";
+      currentMatchName = "";
+      if (hls) hls.destroy();
+      lowQualityButton.style.display = "none";
+      highQualityButton.style.display = "none";
+      videoPlayer.style.background = "rgba(0, 0, 0, 0.8)";
+    }
+
+    fetchMatchData();
+  </script>
+</body>
+</html>
