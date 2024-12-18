@@ -28,7 +28,7 @@
       left: 0;
       width: 100%;
       height: 100%;
-      background: rgba(0, 0, 0, 0.5);
+      background: rgba(0, 0, 0, 0.5); /* Dark overlay */
     }
 
     .header-content {
@@ -209,25 +209,33 @@
     .matches-list-wrapper::-webkit-scrollbar {
       display: none;
     }
+
+    .matches-list-wrapper {
+      touch-action: none; /* Prevents default swipe gestures on mobile */
+    }
   </style>
 </head>
 <body>
+  <!-- Header -->
   <header id="header" style="background-image: url('');">
     <div class="header-overlay"></div>
     <div class="header-content">
-      <h1>Watch any match adsfree</h1>
-      <p>This is made for educational purposes. I do not support illegal activity.</p>
+      <h1>Watch any match adsfree </h1>
+      <p>This is made for educational purpose, I do not support illegal activity</p>
       <p>Contact @wihyaseen if any bug</p>
     </div>
   </header>
 
+  <!-- Match Categories -->
   <section class="content" id="match-categories"></section>
 
+  <!-- Video Player Modal -->
   <div id="video-player" class="video-player">
     <button class="close-btn" onclick="closeVideoPlayer()">✖</button>
     <video id="player" controls autoplay></video>
     <div id="pause-overlay" class="pause-overlay"></div>
 
+    <!-- Quality Selector -->
     <div id="quality-selector-container" class="quality-selector-container">
       <button id="low-quality" class="quality-button">Low Quality</button>
       <button id="high-quality" class="quality-button">High Quality</button>
@@ -248,12 +256,17 @@
 
     async function fetchMatchData() {
       try {
-        const response = await fetch('https://raw.githubusercontent.com/yaseenzj/fc/main/fancode.json');
-        const data = await response.json();
-        const matches = data.matches;
+        const [fancodeResponse, sonylivResponse] = await Promise.all([ 
+          fetch('https://raw.githubusercontent.com/yaseenzj/fc/refs/heads/main/fancode.json'),
+        ]);
 
-        displayCategories(matches);
-        setHeaderBackground(matches);
+        const fancodeData = await fancodeResponse.json();
+
+        const allMatches = [...fancodeData.matches];
+        displayCategories(allMatches);
+
+        // Set a random match thumbnail behind the header
+        setHeaderBackground(allMatches);
       } catch (error) {
         console.error("Error fetching match data:", error);
       }
@@ -261,6 +274,7 @@
 
     function displayCategories(matches) {
       const categories = {};
+
       matches.forEach(match => {
         if (!categories[match.event_category]) categories[match.event_category] = [];
         categories[match.event_category].push(match);
@@ -295,8 +309,65 @@
 
       wrapper.appendChild(list);
 
+      // Arrow buttons for scrolling
+      const leftArrow = document.createElement("button");
+      leftArrow.classList.add("arrow-button", "left");
+      leftArrow.innerHTML = "←";
+      leftArrow.addEventListener("click", () => scrollMatches(list, "left"));
+
+      const rightArrow = document.createElement("button");
+      rightArrow.classList.add("arrow-button", "right");
+      rightArrow.innerHTML = "→";
+      rightArrow.addEventListener("click", () => scrollMatches(list, "right"));
+
+      if (matches.length < 3) {
+        leftArrow.style.display = "none";
+        rightArrow.style.display = "none";
+      } else {
+        leftArrow.style.display = "inline-block";
+        rightArrow.style.display = "inline-block";
+      }
+
+      section.appendChild(leftArrow);
+      section.appendChild(rightArrow);
       section.appendChild(wrapper);
       matchCategories.appendChild(section);
+    }
+
+    function scrollMatches(list, direction) {
+      const scrollAmount = 300;
+      const currentTransform = list.style.transform.match(/translateX\((-?\d+)px\)/);
+      let currentX = currentTransform ? parseInt(currentTransform[1]) : 0;
+
+      if (direction === "right") {
+        currentX -= scrollAmount;
+      } else if (direction === "left") {
+        currentX += scrollAmount;
+      }
+
+      // Prevent scrolling past the start or end
+      const maxScrollX = list.scrollWidth - list.clientWidth;
+      if (currentX > 0) currentX = 0; // Can't scroll beyond the left
+      if (currentX < -maxScrollX) currentX = -maxScrollX; // Can't scroll beyond the right
+
+      list.style.transform = `translateX(${currentX}px)`;
+
+      // Hide the left arrow when at the leftmost position
+      const leftArrow = list.previousElementSibling.querySelector('.arrow-button.left');
+      const rightArrow = list.previousElementSibling.querySelector('.arrow-button.right');
+      
+      if (currentX === 0) {
+        leftArrow.style.display = "none";  // Hide left arrow at the start
+      } else {
+        leftArrow.style.display = "inline-block";  // Show left arrow when scrolled right
+      }
+
+      // Show/hide right arrow based on scroll position
+      if (currentX === -maxScrollX) {
+        rightArrow.style.display = "none";  // Hide right arrow at the end
+      } else {
+        rightArrow.style.display = "inline-block";  // Show right arrow when not at the end
+      }
     }
 
     function setHeaderBackground(matches) {
@@ -306,23 +377,96 @@
 
     function playMatch(match) {
       currentMatchName = match.match_name;
-      const m3u8Url = match.adfree_url;  // The M3U8 URL for the match
-      
-      // Construct the URL for the new page
-      const playerUrl = `https://shz.al/Sffb/livecricplayer.html?dtv=${encodeURIComponent(m3u8Url)}`;
-      
-      // Open the new page with the M3U8 URL
-      window.open(playerUrl, '_blank');
+      if (Hls.isSupported()) {
+        hls = new Hls();
+        hls.loadSource(match.adfree_url);
+        hls.attachMedia(player);
+
+        hls.on(Hls.Events.MANIFEST_PARSED, function() {
+          populateQualitySelector();
+        });
+      } else {
+        player.src = match.adfree_url;
+      }
+
+      videoPlayer.style.display = "flex";
+      player.play();
+      pauseOverlay.style.display = "none";
     }
+
+    function populateQualitySelector() {
+      if (hls && hls.levels.length > 1) {
+        lowQualityButton.style.display = "inline-block";
+        highQualityButton.style.display = "inline-block";
+      }
+    }
+
+    lowQualityButton.addEventListener("click", () => {
+      if (hls) {
+        hls.currentLevel = 0; 
+        console.log("Quality set to Low");
+      }
+    });
+
+    highQualityButton.addEventListener("click", () => {
+      if (hls) {
+        hls.currentLevel = hls.levels.length - 1; 
+        console.log("Quality set to High");
+      }
+    });
+
+    player.addEventListener("pause", () => {
+      pauseOverlay.textContent = `You're watching: ${currentMatchName}`;
+      pauseOverlay.style.display = "block";
+      videoPlayer.style.background = "rgba(0, 0, 0, 0.6)";
+    });
+
+    player.addEventListener("play", () => {
+      pauseOverlay.style.display = "none";
+      videoPlayer.style.background = "rgba(0, 0, 0, 0.8)";
+    });
 
     function closeVideoPlayer() {
       videoPlayer.style.display = "none";
       player.pause();
       player.src = "";
-      if (hls) hls.destroy();
-      hls = null;
       currentMatchName = "";
+      if (hls) hls.destroy();
+      lowQualityButton.style.display = "none";
+      highQualityButton.style.display = "none";
+      videoPlayer.style.background = "rgba(0, 0, 0, 0.8)";
     }
+
+    // Enable swipe navigation for mobile users
+    function enableSwipeNavigation() {
+      const matchWrappers = document.querySelectorAll('.matches-list-wrapper');
+
+      matchWrappers.forEach(wrapper => {
+        let startX = 0;
+        let endX = 0;
+
+        wrapper.addEventListener('touchstart', function (e) {
+          startX = e.touches[0].clientX;
+        });
+
+        wrapper.addEventListener('touchmove', function (e) {
+          endX = e.touches[0].clientX;
+        });
+
+        wrapper.addEventListener('touchend', function () {
+          if (startX - endX > 50) {
+            // Swipe left
+            scrollMatches(wrapper.querySelector('.matches-list'), 'right');
+          } else if (endX - startX > 50) {
+            // Swipe right
+            scrollMatches(wrapper.querySelector('.matches-list'), 'left');
+          }
+        });
+      });
+    }
+
+    // Call this function to enable swipe navigation
+    enableSwipeNavigation();
 
     fetchMatchData();
   </script>
