@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:18:37 AM 18-12-2024",
+    "last update time": "09:28:44 AM 18-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "08:45:00 AM 18-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/AAKpnDKtQjuoXZt0Mn78Tw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113752_english_hls_6842ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mumbai Aces vs Varanasi Warriors (Actors Cricket Bash)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mumbai-Aces-Vs-Varanasi-Warriors_OLD_1734427267485.jpg",
+            "team_1": "Mumbai Aces",
+            "team_2": "Varanasi Warriors",
+            "status": "LIVE",
+            "event_name": "Actors Cricket Bash",
+            "match_name": "Mumbai Aces vs Varanasi Warriors",
+            "match_id": 115344,
+            "startTime": "09:40:00 AM 18-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/gLjcYCYNSzec32ulDJDvhg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115344_english_hls_7242ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -74,16 +88,18 @@
             "adfree_url": "https://dai.fancode.com/primary/114938_english_hls_7402ta-di/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Mumbai Aces vs Varanasi Warriors (Actors Cricket Bash)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mumbai-Aces-Vs-Varanasi-Warriors_OLD_1734427267485.jpg",
-            "team_1": "Mumbai Aces",
-            "team_2": "Varanasi Warriors",
-            "status": "UPCOMING",
-            "event_name": "Actors Cricket Bash",
-            "match_name": "Mumbai Aces vs Varanasi Warriors",
-            "match_id": 115344,
-            "startTime": "09:40:00 AM 18-12-2024"
+            "event_category": "Live Events",
+            "title": "Final vs CCI, Brabourne Stadium (MSSA Harris Shield)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Harris-Shield_old.jpg",
+            "team_1": "Final",
+            "team_2": "CCI, Brabourne Stadium",
+            "status": "LIVE",
+            "event_name": "MSSA Harris Shield",
+            "match_name": "Final",
+            "match_id": 115084,
+            "startTime": "09:45:00 AM 16-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/JXXJJsKITJe8FVTlgj5oZw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115084_english_hls_8739ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -144,18 +160,6 @@
             "match_name": "Jaffna Titans vs Hambantota Bangla Tigers",
             "match_id": 114009,
             "startTime": "04:00:00 PM 18-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Galle Marvels vs Kandy Bolts (Lanka T10 Super League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Galle Marvels",
-            "team_2": "Kandy Bolts",
-            "status": "UPCOMING",
-            "event_name": "Lanka T10 Super League, 2024",
-            "match_name": "Galle Marvels vs Kandy Bolts",
-            "match_id": 114010,
-            "startTime": "06:15:00 PM 18-12-2024"
         }
     ]
 }
