@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:37:18 PM 19-12-2024",
+    "last update time": "12:47:29 PM 19-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/114943_english_hls_203ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Dhaka Division vs Barisal Division (National Cricket League T20, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/115627_CASACARDS_APP.png",
+            "team_1": "Dhaka Division",
+            "team_2": "Barisal Division",
+            "status": "LIVE",
+            "event_name": "National Cricket League T20, 2024",
+            "match_name": "Dhaka Division vs Barisal Division",
+            "match_id": 115627,
+            "startTime": "01:00:00 PM 19-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/niNOWxiYRJCDtv_8U9Imzw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115627_english_hls_1050ta-no/index.m3u8"
+        },
+        {
             "event_category": "Volleyball",
             "title": "LP Bank Ninh Binh vs Dentil Praia Clube (Women's Club World Champs 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115158_4703_LBN_DPC_fc-web.jpg",
@@ -72,20 +86,6 @@
             "startTime": "12:30:00 PM 19-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/ZYxjm6_5QNWep6ffs6IEuA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115158_english_hls_4484ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rajshahi Division vs Sylhet Division (National Cricket League T20, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114942_4691_SD_RAD_fc-web_1733857502376.jpg",
-            "team_1": "Rajshahi Division",
-            "team_2": "Sylhet Division",
-            "status": "LIVE",
-            "event_name": "National Cricket League T20, 2024",
-            "match_name": "Rajshahi Division vs Sylhet Division",
-            "match_id": 114942,
-            "startTime": "09:00:00 AM 19-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/0crkoztgSHWSYl4aJwn9Ug/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114942_english_hls_7282ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -149,15 +149,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Dhaka Division vs Barisal Division (National Cricket League T20, 2024)",
-            "src": "https://images.fancode.com/aig/match/v1/115627_CASACARDS_APP.png",
-            "team_1": "Dhaka Division",
-            "team_2": "Barisal Division",
+            "title": "West Indies vs Bangladesh (Bangladesh tour of West Indies, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-West-Indies-T20-old-match-card.png",
+            "team_1": "West Indies",
+            "team_2": "Bangladesh",
             "status": "UPCOMING",
-            "event_name": "National Cricket League T20, 2024",
-            "match_name": "Dhaka Division vs Barisal Division",
-            "match_id": 115627,
-            "startTime": "01:00:00 PM 19-12-2024"
+            "event_name": "Bangladesh tour of West Indies, 2024",
+            "match_name": "West Indies vs Bangladesh",
+            "match_id": 112351,
+            "startTime": "05:30:00 AM 20-12-2024"
         }
     ]
 }
