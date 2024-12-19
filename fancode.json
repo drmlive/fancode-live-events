@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:17:54 AM 20-12-2024",
+    "last update time": "03:28:00 AM 20-12-2024",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "01:15:00 AM 20-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/kG0k1E9cR6GyiSuV68RmQQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/112442_english_hls_5991ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Real Madrid vs Monaco (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/115586_CASACARDS_APP.png",
-            "team_1": "Real Madrid",
-            "team_2": "Monaco",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Real Madrid vs Monaco",
-            "match_id": 115586,
-            "startTime": "01:15:00 AM 20-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/jJNaqInTQVWVqBXQZm_auw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115586_english_hls_9518ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "ABL Stallions vs UMT Markhors",
             "match_id": 114606,
             "startTime": "11:30:00 AM 20-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Scotland XI-W vs Ireland XI-W (European Cricket Championship-W, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Scotland XI-W",
+            "team_2": "Ireland XI-W",
+            "status": "UPCOMING",
+            "event_name": "European Cricket Championship-W, 2024",
+            "match_name": "Scotland XI-W vs Ireland XI-W",
+            "match_id": 114672,
+            "startTime": "02:05:00 PM 20-12-2024"
         }
     ]
 }
