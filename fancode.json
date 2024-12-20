@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:26:18 PM 20-12-2024",
+    "last update time": "03:36:32 PM 20-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Scotland XI-W vs Ireland XI-W (European Cricket Championship-W, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114653_4684_SCXI-W_IRXI-W_fc-web.jpg",
-            "team_1": "Scotland XI-W",
-            "team_2": "Ireland XI-W",
-            "status": "LIVE",
-            "event_name": "European Cricket Championship-W, 2024",
-            "match_name": "Scotland XI-W vs Ireland XI-W",
-            "match_id": 114672,
-            "startTime": "02:05:00 PM 20-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/6bK7hDORTPumJXdapC2g3w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114672_english_hls_9666ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Oman vs Kuwait (Men's Gulf Cricket T20I Championship 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115025_4695_OMN_KUW_fc-Web.jpg",
             "team_1": "Oman",
@@ -44,6 +30,20 @@
             "startTime": "03:00:00 PM 20-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/FsjUXX5PQJmjbj3ljQAWng/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115025_english_hls_881ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Dehradun Dynamos vs Ranchi Rangers (Yuva Kabaddi Series Edition 11 - Division Rounds)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114764_4687_DDS_RRS_fc-web.jpg",
+            "team_1": "Dehradun Dynamos",
+            "team_2": "Ranchi Rangers",
+            "status": "LIVE",
+            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+            "match_name": "Dehradun Dynamos vs Ranchi Rangers",
+            "match_id": 114764,
+            "startTime": "03:45:00 PM 20-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/i0B0O23VS4CMXK74yDgd0g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114764_english_hls_6069ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -89,13 +89,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ai Octopus Challengers vs Phoenix Riders (KCC T20 Challengers A League, 2024-25)",
+            "title": "Phoenix Riders vs Ai Octopus Challengers (KCC T20 Challengers A League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112444_4616_SZN_PHR_fc-web_1731569490136.jpg",
-            "team_1": "Ai Octopus Challengers",
-            "team_2": "Phoenix Riders",
+            "team_1": "Phoenix Riders",
+            "team_2": "Ai Octopus Challengers",
             "status": "UPCOMING",
             "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "Ai Octopus Challengers vs Phoenix Riders",
+            "match_name": "Phoenix Riders vs Ai Octopus Challengers",
             "match_id": 112444,
             "startTime": "04:00:00 PM 20-12-2024"
         },
@@ -113,6 +113,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Sharjah vs Dubai (Emirates D10 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115456_4713_SHA_DUB_fc-web.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10 2024",
+            "match_name": "Sharjah vs Dubai",
+            "match_id": 115456,
+            "startTime": "04:30:00 PM 20-12-2024"
+        },
+        {
+            "event_category": "Cricket",
             "title": "TBC vs TBC (Actors Cricket Bash)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "TBC",
@@ -122,18 +134,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 115353,
             "startTime": "09:40:00 AM 21-12-2024"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Dehradun Dynamos vs Ranchi Rangers (Yuva Kabaddi Series Edition 11 - Division Rounds)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114764_4687_DDS_RRS_fc-web.jpg",
-            "team_1": "Dehradun Dynamos",
-            "team_2": "Ranchi Rangers",
-            "status": "UPCOMING",
-            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-            "match_name": "Dehradun Dynamos vs Ranchi Rangers",
-            "match_id": 114764,
-            "startTime": "03:45:00 PM 20-12-2024"
         },
         {
             "event_category": "Cricket",
@@ -146,6 +146,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 115354,
             "startTime": "12:10:00 PM 21-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sudurpaschim Royals vs Janakpur Bolts (Nepal Premier League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nepal-Premier-League-Final-old-match-card.png",
+            "team_1": "Sudurpaschim Royals",
+            "team_2": "Janakpur Bolts",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2024",
+            "match_name": "Sudurpaschim Royals vs Janakpur Bolts",
+            "match_id": 113755,
+            "startTime": "12:15:00 PM 21-12-2024"
         }
     ]
 }
