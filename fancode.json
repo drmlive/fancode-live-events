@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:16:11 PM 20-12-2024",
+    "last update time": "03:26:18 PM 20-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "02:40:00 PM 20-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/ho5d19KjSgO8sh65NKTlIg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115352_english_hls_6678ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "ABL Stallions vs UMT Markhors (Champions T20 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114606_4681_AST_UMA_fc-web.jpg",
-            "team_1": "ABL Stallions",
-            "team_2": "UMT Markhors",
-            "status": "LIVE",
-            "event_name": "Champions T20 Cup, 2024",
-            "match_name": "ABL Stallions vs UMT Markhors",
-            "match_id": 114606,
-            "startTime": "11:30:00 AM 20-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/8Qm45pRTRqqA5KA0lUSQ6A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114606_english_hls_5906ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,20 +88,6 @@
             "adfree_url": null
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Himalayan Tahrs vs Tadoba Tigers (Yuva Kabaddi Series Edition 11 - Division Rounds)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114767_4687_HIM_TTS_fc-web.jpg",
-            "team_1": "Himalayan Tahrs",
-            "team_2": "Tadoba Tigers",
-            "status": "LIVE",
-            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-            "match_name": "Himalayan Tahrs vs Tadoba Tigers",
-            "match_id": 114767,
-            "startTime": "02:15:00 PM 20-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/ybbkSZaITlisZ7JbA15X2A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114767_english_hls_3894ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Ai Octopus Challengers vs Phoenix Riders (KCC T20 Challengers A League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/112444_4616_SZN_PHR_fc-web_1731569490136.jpg",
@@ -162,6 +134,18 @@
             "match_name": "Dehradun Dynamos vs Ranchi Rangers",
             "match_id": 114764,
             "startTime": "03:45:00 PM 20-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Actors Cricket Bash)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Actors Cricket Bash",
+            "match_name": "TBC vs TBC",
+            "match_id": 115354,
+            "startTime": "12:10:00 PM 21-12-2024"
         }
     ]
 }
