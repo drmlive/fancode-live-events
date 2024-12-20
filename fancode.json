@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:12:39 PM 20-12-2024",
+    "last update time": "11:22:44 PM 20-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "10:30:00 PM 20-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/av5IF7ooTjOK0GL_frAOvQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115086_english_hls_5675ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Zalgiris Kaunas vs LDLC ASVEL Villeurbanne (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/115587_CASACARDS_APP.png",
+            "team_1": "Zalgiris Kaunas",
+            "team_2": "LDLC ASVEL Villeurbanne",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Zalgiris Kaunas vs LDLC ASVEL Villeurbanne",
+            "match_id": 115587,
+            "startTime": "11:30:00 PM 20-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/kmzFv3REQI26vHFwW3Eozg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115587_english_hls_5949ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -109,30 +123,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "CECC-B vs SBS CC (KCC T20 Challengers A League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112446_4616_CEC-B_SBS_fc-web_1731569490117.jpg",
-            "team_1": "CECC-B",
-            "team_2": "SBS CC",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "CECC-B vs SBS CC",
-            "match_id": 112446,
-            "startTime": "12:00:00 AM 21-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Indian River Rowers vs Titou Gorge Splashers (Dream11 Nature Isle T10, 6th Edition, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream11-Nature-Isle-T10_old_v1.jpg",
-            "team_1": "Indian River Rowers",
-            "team_2": "Titou Gorge Splashers",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Nature Isle T10, 6th Edition, 2024",
-            "match_name": "Indian River Rowers vs Titou Gorge Splashers",
-            "match_id": 114173,
-            "startTime": "12:00:00 AM 21-12-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Actors Cricket Bash)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "TBC",
@@ -154,6 +144,18 @@
             "match_name": "MP Tigers vs Mumbai Marines",
             "match_id": 114852,
             "startTime": "03:00:00 PM 21-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "CECC-B vs SBS CC (KCC T20 Challengers A League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112446_4616_CEC-B_SBS_fc-web_1731569490117.jpg",
+            "team_1": "CECC-B",
+            "team_2": "SBS CC",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers A League, 2024-25",
+            "match_name": "CECC-B vs SBS CC",
+            "match_id": 112446,
+            "startTime": "12:00:00 AM 21-12-2024"
         }
     ]
 }
