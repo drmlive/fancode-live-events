@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:06:54 PM 20-12-2024",
+    "last update time": "04:17:02 PM 20-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/112444_english_hls_7166ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Dubai vs Sharjah (Emirates D10 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115456_4713_SHA_DUB_fc-web.jpg",
+            "team_1": "Dubai",
+            "team_2": "Sharjah",
+            "status": "LIVE",
+            "event_name": "Emirates D10 2024",
+            "match_name": "Dubai vs Sharjah",
+            "match_id": 115456,
+            "startTime": "04:30:00 PM 20-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/OP2YKJqjSAOl_VqjMY6D9Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115456_english_hls_7379ta-no/index.m3u8"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "Dehradun Dynamos vs Ranchi Rangers (Yuva Kabaddi Series Edition 11 - Division Rounds)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114764_4687_DDS_RRS_fc-web.jpg",
@@ -102,40 +116,14 @@
             "adfree_url": null
         },
         {
-            "event_category": "Football",
-            "title": "Adelaide United vs Sydney FC (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110940_4567_ADL_SYD_fc-web_1728983128913.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Sydney FC",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Adelaide United vs Sydney FC",
-            "match_id": 110940,
-            "startTime": "02:05:00 PM 20-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/3-NrNXamRRq_BqIvHXjhHA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110940_english_hls_6857ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
-            "title": "Dubai vs Sharjah (Emirates D10 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115456_4713_SHA_DUB_fc-web.jpg",
-            "team_1": "Dubai",
-            "team_2": "Sharjah",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10 2024",
-            "match_name": "Dubai vs Sharjah",
-            "match_id": 115456,
-            "startTime": "04:30:00 PM 20-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Netherlands XI-W vs Ireland XI-W (European Cricket Championship-W, 2024)",
+            "title": "Ireland XI-W vs Netherlands XI-W (European Cricket Championship-W, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114669_4684_NDXI-W_IRXI-W_fc-web.jpg",
-            "team_1": "Netherlands XI-W",
-            "team_2": "Ireland XI-W",
+            "team_1": "Ireland XI-W",
+            "team_2": "Netherlands XI-W",
             "status": "UPCOMING",
             "event_name": "European Cricket Championship-W, 2024",
-            "match_name": "Netherlands XI-W vs Ireland XI-W",
+            "match_name": "Ireland XI-W vs Netherlands XI-W",
             "match_id": 114673,
             "startTime": "05:05:00 PM 20-12-2024"
         },
