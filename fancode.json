@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:35:51 PM 21-12-2024",
+    "last update time": "06:45:58 PM 21-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,20 +32,6 @@
             "adfree_url": "https://dai.fancode.com/primary/114609_english_hls_5751ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Portsmouth vs Coventry City (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109901_4352_PRM_CVC_fc-web.jpg",
-            "team_1": "Portsmouth",
-            "team_2": "Coventry City",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Portsmouth vs Coventry City",
-            "match_id": 109901,
-            "startTime": "06:00:00 PM 21-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/MUiPlEh-R96NPSXeEA0EJw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109901_english_hls_5583ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Dubai vs Ajman (Emirates D10 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115461_4713_AJM_DUB_fc-web.jpg",
@@ -60,6 +46,20 @@
             "adfree_url": "https://dai.fancode.com/primary/115461_english_hls_5395ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Portsmouth vs Coventry City (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109901_4352_PRM_CVC_fc-web.jpg",
+            "team_1": "Portsmouth",
+            "team_2": "Coventry City",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Portsmouth vs Coventry City",
+            "match_id": 109901,
+            "startTime": "06:00:00 PM 21-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/MUiPlEh-R96NPSXeEA0EJw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109901_english_hls_5583ta-di/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3 vs Heritage La R\u00e9serve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-open-old.jpg",
@@ -72,20 +72,6 @@
             "startTime": "02:30:00 PM 21-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/BTA3KQUaTUytQSmKi15sCQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114582_english_hls_5718ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Volleyball",
-            "title": "Prosecco Doc Imoco Conegliano vs Numia Vero Volley Milano (Women's Club World Champs 2024)",
-            "src": "https://images.fancode.com/aig/match/v1/115164_CASACARDS_APP.png",
-            "team_1": "Prosecco Doc Imoco Conegliano",
-            "team_2": "Numia Vero Volley Milano",
-            "status": "LIVE",
-            "event_name": "Women's Club World Champs 2024",
-            "match_name": "Prosecco Doc Imoco Conegliano vs Numia Vero Volley Milano",
-            "match_id": 115164,
-            "startTime": "05:00:00 PM 21-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/nDTaG8wxT6WhC973wY1iWA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115164_english_hls_5948ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +144,18 @@
             "match_name": "Barana Aute Warriors vs Indian River Rowers",
             "match_id": 114174,
             "startTime": "12:00:00 AM 22-12-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Queens Park Rangers vs Preston North End (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109902_4352_QPR_PST_fc-web.jpg",
+            "team_1": "Queens Park Rangers",
+            "team_2": "Preston North End",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Queens Park Rangers vs Preston North End",
+            "match_id": 109902,
+            "startTime": "08:30:00 PM 21-12-2024"
         }
     ]
 }
