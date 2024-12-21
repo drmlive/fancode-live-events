@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:50:10 AM 21-12-2024",
+    "last update time": "11:00:25 AM 21-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "09:30:00 AM 21-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/Gxt6bqtXRNeS0kL751u8VA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110941_english_hls_5804ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Brisbane Roar vs Perth Glory (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110942_4567_BRB_PG_fc-web_1728983128175.jpg",
+            "team_1": "Brisbane Roar",
+            "team_2": "Perth Glory",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Brisbane Roar vs Perth Glory",
+            "match_id": 110942,
+            "startTime": "11:30:00 AM 21-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/dG4ZoRkaRr-WfIg4sU5WNQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110942_english_hls_5160ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "Dhaka Metropolis vs Rangpur Division",
             "match_id": 114946,
             "startTime": "01:00:00 PM 21-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "ABL Stallions vs Engro Dolphins (Champions T20 Cup, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114609_4681_AST_END_fc-web.jpg",
-            "team_1": "ABL Stallions",
-            "team_2": "Engro Dolphins",
-            "status": "UPCOMING",
-            "event_name": "Champions T20 Cup, 2024",
-            "match_name": "ABL Stallions vs Engro Dolphins",
-            "match_id": 114609,
-            "startTime": "04:00:00 PM 21-12-2024"
         }
     ]
 }
