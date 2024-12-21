@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:09:10 PM 21-12-2024",
+    "last update time": "11:19:16 PM 21-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Northern Challengers vs Southern Spartans (Big Cricket League, 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114837_4688_SS_NC_fc-Web.jpg",
-            "team_1": "Northern Challengers",
-            "team_2": "Southern Spartans",
-            "status": "LIVE",
-            "event_name": "Big Cricket League, 2024",
-            "match_name": "Northern Challengers vs Southern Spartans",
-            "match_id": 114853,
-            "startTime": "07:30:00 PM 21-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/4ore2di3RtSOf4W9UcPrJA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114853_english_hls_5737ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "United Arab Emirates vs Kuwait (Men's Gulf Cricket T20I Championship 2024)",
@@ -46,18 +32,32 @@
             "adfree_url": "https://dai.fancode.com/primary/115463_english_hls_4967ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Emirates Red vs Fujairah (Emirates D10 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115462_4713_FUJ_EMR_fc-web.jpg",
-            "team_1": "Emirates Red",
-            "team_2": "Fujairah",
+            "event_category": "Golf",
+            "title": "Day 2 vs Orlando, FL (PNC Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship-old-Match-card.png",
+            "team_1": "Day 2",
+            "team_2": "Orlando, FL",
             "status": "LIVE",
-            "event_name": "Emirates D10 2024",
-            "match_name": "Emirates Red vs Fujairah",
-            "match_id": 115462,
-            "startTime": "09:00:00 PM 21-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/6vrBsfJPTPWWEW5yUC1Arg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115462_english_hls_5704ta-di/index.m3u8"
+            "event_name": "PNC Championship",
+            "match_name": "Day 2",
+            "match_id": 115087,
+            "startTime": "11:30:00 PM 21-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/sPQrkct9TgyiwByeXWgV1Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115087_english_hls_5096ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Northern Challengers vs Southern Spartans (Big Cricket League, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114837_4688_SS_NC_fc-Web.jpg",
+            "team_1": "Northern Challengers",
+            "team_2": "Southern Spartans",
+            "status": "LIVE",
+            "event_name": "Big Cricket League, 2024",
+            "match_name": "Northern Challengers vs Southern Spartans",
+            "match_id": 114853,
+            "startTime": "07:30:00 PM 21-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/4ore2di3RtSOf4W9UcPrJA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114853_english_hls_5737ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -144,16 +144,16 @@
             "startTime": "07:00:00 PM 22-12-2024"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Orlando, FL (PNC Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship-old-Match-card.png",
-            "team_1": "Day 2",
-            "team_2": "Orlando, FL",
+            "event_category": "Football",
+            "title": "West Bromwich Albion vs Bristol City (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109903_4352_WBA_BRI_fc-web.jpg",
+            "team_1": "West Bromwich Albion",
+            "team_2": "Bristol City",
             "status": "UPCOMING",
-            "event_name": "PNC Championship",
-            "match_name": "Day 2",
-            "match_id": 115087,
-            "startTime": "11:30:00 PM 21-12-2024"
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "West Bromwich Albion vs Bristol City",
+            "match_id": 109903,
+            "startTime": "08:30:00 PM 22-12-2024"
         }
     ]
 }
