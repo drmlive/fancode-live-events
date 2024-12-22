@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:30:44 AM 23-12-2024",
+    "last update time": "04:40:50 AM 23-12-2024",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 3 vs Orlando, FL (PNC Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship-old-Match-card.png",
-            "team_1": "Day 3",
-            "team_2": "Orlando, FL",
-            "status": "LIVE",
-            "event_name": "PNC Championship",
-            "match_name": "Day 3",
-            "match_id": 115088,
-            "startTime": "10:00:00 PM 22-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/J5fR4RuNQgmpJ8XX7BdcdA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115088_english_hls_4646ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "UMT Markhors vs Nurpur Lions (Champions T20 Cup, 2024)",
@@ -148,6 +134,18 @@
             "match_name": "Crawley Town FC vs Birmingham City",
             "match_id": 110107,
             "startTime": "01:30:00 AM 24-12-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Macarthur vs Central Coast Mariners (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110945_4567_MAC_CCM_fc-web_1728983127237.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Central Coast Mariners",
+            "status": "UPCOMING",
+            "event_name": "A League 2024-25",
+            "match_name": "Macarthur vs Central Coast Mariners",
+            "match_id": 110945,
+            "startTime": "01:30:00 PM 23-12-2024"
         }
     ]
 }
