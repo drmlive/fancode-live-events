@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:09:03 PM 22-12-2024",
+    "last update time": "02:19:15 PM 22-12-2024",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Chandigarh Mavericks vs Delhi Titans (Actors Cricket Bash)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Delhi-Titans_OLD_1734109340198.jpg",
+            "team_1": "Chandigarh Mavericks",
+            "team_2": "Delhi Titans",
+            "status": "LIVE",
+            "event_name": "Actors Cricket Bash",
+            "match_name": "Chandigarh Mavericks vs Delhi Titans",
+            "match_id": 115356,
+            "startTime": "02:30:00 PM 22-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/9iuwnFVuQIqjCohDJ9YC5Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115356_english_hls_4613ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Dhaka Metropolis vs Khulna Division (National Cricket League T20, 2024)",
@@ -30,18 +44,6 @@
             "startTime": "11:30:00 AM 22-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/zkX0fDFmTISiiT_O6zvZLw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114583_english_hls_8687ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chandigarh Mavericks vs Delhi Titans (Actors Cricket Bash)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-Mavericks-Vs-Delhi-Titans_OLD_1734109340198.jpg",
-            "team_1": "Chandigarh Mavericks",
-            "team_2": "Delhi Titans",
-            "status": "UPCOMING",
-            "event_name": "Actors Cricket Bash",
-            "match_name": "Chandigarh Mavericks vs Delhi Titans",
-            "match_id": 115356,
-            "startTime": "02:30:00 PM 22-12-2024"
         },
         {
             "event_category": "Cricket",
@@ -116,18 +118,6 @@
             "startTime": "11:15:00 PM 22-12-2024"
         },
         {
-            "event_category": "Football",
-            "title": "West Bromwich Albion vs Bristol City (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109903_4352_WBA_BRI_fc-web.jpg",
-            "team_1": "West Bromwich Albion",
-            "team_2": "Bristol City",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "West Bromwich Albion vs Bristol City",
-            "match_id": 109903,
-            "startTime": "08:30:00 PM 22-12-2024"
-        },
-        {
             "event_category": "Cricket",
             "title": "Champagne Reef Divers vs TBC (Dream11 Nature Isle T10, 6th Edition, 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -138,6 +128,18 @@
             "match_name": "Champagne Reef Divers vs TBC",
             "match_id": 114175,
             "startTime": "12:00:00 AM 23-12-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "West Bromwich Albion vs Bristol City (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109903_4352_WBA_BRI_fc-web.jpg",
+            "team_1": "West Bromwich Albion",
+            "team_2": "Bristol City",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "West Bromwich Albion vs Bristol City",
+            "match_id": 109903,
+            "startTime": "08:30:00 PM 22-12-2024"
         },
         {
             "event_category": "Kabaddi",
