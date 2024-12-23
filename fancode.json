@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:15:24 AM 23-12-2024",
+    "last update time": "11:25:43 AM 23-12-2024",
     "matches": [
         {
             "event_category": "Kabaddi",
@@ -9,11 +9,13 @@
             "src": "https://images.fancode.com/aig/match/v1/114770_CASACARDS_APP.png",
             "team_1": "Sindh Sonics",
             "team_2": "UP Falcons",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
             "match_name": "Sindh Sonics vs UP Falcons",
             "match_id": 114770,
-            "startTime": "11:30:00 AM 23-12-2024"
+            "startTime": "11:30:00 AM 23-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/kGZ7g7liRIyyyPPGxpj1Lw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114770_english_hls_5263ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,7 +104,7 @@
         {
             "event_category": "Kabaddi",
             "title": "Chandigarh Chargers vs Chola Veerans (Yuva Kabaddi Series Edition 11 - Division Rounds)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/114771_CASACARDS_APP.png",
             "team_1": "Chandigarh Chargers",
             "team_2": "Chola Veerans",
             "status": "UPCOMING",
