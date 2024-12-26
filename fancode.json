@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:07:48 PM 26-12-2024",
+    "last update time": "01:17:55 PM 26-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
             "team_1": "Zimbabwe",
             "team_2": "Afghanistan",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
             "match_name": "Zimbabwe vs Afghanistan",
             "match_id": 113545,
-            "startTime": "01:30:00 PM 26-12-2024"
+            "startTime": "01:30:00 PM 26-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/ywWXxndBSCqCYCrMhhAc5g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113545_english_hls_5220ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -101,18 +103,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Going Global vs Strikers Afghan (KCC T20 Challengers A League, 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/112452_CASACARDS_APP.png",
-            "team_1": "Going Global",
-            "team_2": "Strikers Afghan",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2024-25",
-            "match_name": "Going Global vs Strikers Afghan",
-            "match_id": 112452,
-            "startTime": "10:00:00 PM 26-12-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Perak Women vs Kuala Lumpur Women (MCA Women's T20 Inter-State Championship, 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/115894_CASACARDS_APP.png",
             "team_1": "Perak Women",
@@ -122,6 +112,18 @@
             "match_name": "Perak Women vs Kuala Lumpur Women",
             "match_id": 115894,
             "startTime": "11:00:00 AM 27-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Going Global vs Strikers Afghan (KCC T20 Challengers A League, 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/112452_CASACARDS_APP.png",
+            "team_1": "Going Global",
+            "team_2": "Strikers Afghan",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers A League, 2024-25",
+            "match_name": "Going Global vs Strikers Afghan",
+            "match_id": 112452,
+            "startTime": "10:00:00 PM 26-12-2024"
         },
         {
             "event_category": "Cricket",
