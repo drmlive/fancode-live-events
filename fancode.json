@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:36:42 AM 26-12-2024",
+    "last update time": "11:46:56 AM 26-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Northern Districts vs Auckland Aces (Dream11 Super Smash, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114471_4676_ND_AA_fc-web.jpg",
-            "team_1": "Northern Districts",
-            "team_2": "Auckland Aces",
-            "status": "LIVE",
-            "event_name": "Dream11 Super Smash, 2024-25",
-            "match_name": "Northern Districts vs Auckland Aces",
-            "match_id": 114471,
-            "startTime": "10:25:00 AM 26-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/SZVU1IGSQX25pHfMDMcHWg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114471_english_hls_5425ta-di/index.m3u8"
-        },
         {
             "event_category": "Kabaddi",
             "title": "Delhi Dhurandhars vs Vizag Victors (Yuva Kabaddi Series Edition 11 - Division Rounds)",
@@ -129,18 +115,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115479_4713_ABD_EMB_fc-web.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10 2024",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "match_id": 115479,
-            "startTime": "11:15:00 PM 26-12-2024"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Johor Women vs Pahang Women (MCA Women's T20 Inter-State Championship, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Johor Women",
@@ -150,6 +124,30 @@
             "match_name": "Johor Women vs Pahang Women",
             "match_id": 115892,
             "startTime": "07:00:00 AM 27-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Selangor Women vs Negeri Sembilan Women (MCA Women's T20 Inter-State Championship, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Selangor Women",
+            "team_2": "Negeri Sembilan Women",
+            "status": "UPCOMING",
+            "event_name": "MCA Women's T20 Inter-State Championship, 2024-25",
+            "match_name": "Selangor Women vs Negeri Sembilan Women",
+            "match_id": 115893,
+            "startTime": "07:00:00 AM 27-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115479_4713_ABD_EMB_fc-web.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10 2024",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "match_id": 115479,
+            "startTime": "11:15:00 PM 26-12-2024"
         }
     ]
 }
