@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:35:38 AM 27-12-2024",
+    "last update time": "12:45:47 AM 27-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "11:30:00 PM 26-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/cghv5vCpQWmeJLfMZD7W2Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115589_english_hls_5888ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Olimpia Milano vs Olympiacos Piraeus (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/115590_CASACARDS_APP.png",
+            "team_1": "Olimpia Milano",
+            "team_2": "Olympiacos Piraeus",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Olimpia Milano vs Olympiacos Piraeus",
+            "match_id": 115590,
+            "startTime": "01:00:00 AM 27-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/9fmrxyE-R66n1VVSe328hA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115590_english_hls_5606ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "GAT vs Kuwait Mavericks",
             "match_id": 112453,
             "startTime": "01:15:00 AM 27-12-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Stoke City vs Leeds United (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111992_4352_STK_LU_fc-web.jpg",
-            "team_1": "Stoke City",
-            "team_2": "Leeds United",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Stoke City vs Leeds United",
-            "match_id": 111992,
-            "startTime": "01:30:00 AM 27-12-2024"
         }
     ]
 }
