@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:13:28 PM 27-12-2024",
+    "last update time": "04:23:34 PM 27-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,6 +46,20 @@
             "adfree_url": "https://dai.fancode.com/primary/115667_english_hls_5108ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Sharjah vs Dubai (Emirates D10 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115480_4713_SHA_DUB_fc-web.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Dubai",
+            "status": "LIVE",
+            "event_name": "Emirates D10 2024",
+            "match_name": "Sharjah vs Dubai",
+            "match_id": 115480,
+            "startTime": "04:30:00 PM 27-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/DIHy4pT2SnaBB303JeEOXw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115480_english_hls_5479ta-no/index.m3u8"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "Chola Veerans vs Delhi Dhurandhars (Yuva Kabaddi Series Edition 11 - Division Rounds)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114787_4687_COV_DDD_fc-web.jpg",
@@ -84,16 +98,16 @@
             "startTime": "12:15:00 AM 28-12-2024"
         },
         {
-            "event_category": "Cricket",
-            "title": "Sharjah vs Dubai (Emirates D10 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115480_4713_SHA_DUB_fc-web.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Dubai",
+            "event_category": "Kabaddi",
+            "title": "Sindh Sonics vs Vizag Victors (Yuva Kabaddi Series Edition 11 - Division Rounds)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114788_4687_SS_VVZ_fc-web.jpg",
+            "team_1": "Sindh Sonics",
+            "team_2": "Vizag Victors",
             "status": "UPCOMING",
-            "event_name": "Emirates D10 2024",
-            "match_name": "Sharjah vs Dubai",
-            "match_id": 115480,
-            "startTime": "04:30:00 PM 27-12-2024"
+            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+            "match_name": "Sindh Sonics vs Vizag Victors",
+            "match_id": 114788,
+            "startTime": "05:15:00 PM 27-12-2024"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +156,6 @@
             "match_name": "Settlers vs Voyagers",
             "match_id": 115727,
             "startTime": "09:30:00 PM 27-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fujairah vs Emirates Red (Emirates D10 2024)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115483_4713_FUJ_EMR_fc-web.jpg",
-            "team_1": "Fujairah",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10 2024",
-            "match_name": "Fujairah vs Emirates Red",
-            "match_id": 115483,
-            "startTime": "11:15:00 PM 27-12-2024"
         }
     ]
 }
