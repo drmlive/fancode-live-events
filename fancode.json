@@ -1,50 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:40:30 AM 28-12-2024",
+    "last update time": "03:50:36 AM 28-12-2024",
     "matches": [
-        {
-            "event_category": "Basketball",
-            "title": "Vitoria Gasteiz Baskonia vs Paris (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/115591_CASACARDS_APP.png",
-            "team_1": "Vitoria Gasteiz Baskonia",
-            "team_2": "Paris",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Vitoria Gasteiz Baskonia vs Paris",
-            "match_id": 115591,
-            "startTime": "01:00:00 AM 28-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/AMkr8q0YRw61f7dsfsx2Vw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115591_english_hls_5637ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "YSSC vs Team TGS (KCC T20 Challengers B League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115691_4721_TGS_YSS_fc-web.jpg",
-            "team_1": "YSSC",
-            "team_2": "Team TGS",
-            "status": "LIVE",
-            "event_name": "KCC T20 Challengers B League, 2024-25",
-            "match_name": "YSSC vs Team TGS",
-            "match_id": 115691,
-            "startTime": "12:15:00 AM 28-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/DzmSboKSQGSVekCnz4L9kw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115691_english_hls_5752ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Titans vs Pelicans (Barbados T10, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115728_4722_PEL_TIT_fc-web.jpg",
-            "team_1": "Titans",
-            "team_2": "Pelicans",
-            "status": "LIVE",
-            "event_name": "Barbados T10, 2024-25",
-            "match_name": "Titans vs Pelicans",
-            "match_id": 115728,
-            "startTime": "12:00:00 AM 28-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/XNz3hq6RRE-PTp7oUwjaBg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115728_english_hls_5553ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2024-25)",
@@ -152,6 +110,30 @@
             "match_name": "Warriors vs Guardians",
             "match_id": 115729,
             "startTime": "07:00:00 PM 28-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Fujairah vs Sharjah (Emirates D10 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115485_4713_FUJ_SHA_fc-web.jpg",
+            "team_1": "Fujairah",
+            "team_2": "Sharjah",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10 2024",
+            "match_name": "Fujairah vs Sharjah",
+            "match_id": 115485,
+            "startTime": "09:00:00 PM 28-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Titans vs Settlers (Barbados T10, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115730_4722_TIT_SET_fc-web.jpg",
+            "team_1": "Titans",
+            "team_2": "Settlers",
+            "status": "UPCOMING",
+            "event_name": "Barbados T10, 2024-25",
+            "match_name": "Titans vs Settlers",
+            "match_id": 115730,
+            "startTime": "09:30:00 PM 28-12-2024"
         }
     ]
 }
