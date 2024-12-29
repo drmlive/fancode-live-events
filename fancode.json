@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:08:04 PM 29-12-2024",
+    "last update time": "08:18:10 PM 29-12-2024",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Afghanistan",
-            "status": "LIVE",
-            "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-            "match_name": "Zimbabwe vs Afghanistan",
-            "match_id": 113545,
-            "startTime": "01:30:00 PM 26-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/0P1A6SqpRPCaaUvGThCHww/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113545_english_hls_5405ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Emirates Blues vs Fujairah (Emirates D10 2024)",
@@ -46,6 +32,32 @@
             "adfree_url": "https://dai.fancode.com/primary/115672_english_hls_5666ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Stoke City vs Sunderland (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109908_4352_STK_SUN_fc-web_1734938760136.jpg",
+            "team_1": "Stoke City",
+            "team_2": "Sunderland",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Stoke City vs Sunderland",
+            "match_id": 109908,
+            "startTime": "08:30:00 PM 29-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/_nn7u6zkQQuAdKEqdITaMA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109908_english_hls_4950ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs Afghanistan (Afghanistan tour of Zimbabwe, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "Afghanistan",
+            "status": "PAUSED",
+            "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
+            "match_name": "Zimbabwe vs Afghanistan",
+            "match_id": 113545,
+            "startTime": "01:30:00 PM 26-12-2024"
+        },
+        {
             "event_category": "Cricket",
             "title": "Ajman vs Sharjah (Emirates D10 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115488_4713_AJM_SHA_fc-web.jpg",
@@ -56,18 +68,6 @@
             "match_name": "Ajman vs Sharjah",
             "match_id": 115488,
             "startTime": "09:00:00 PM 29-12-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Stoke City vs Sunderland (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109908_4352_STK_SUN_fc-web_1734938760136.jpg",
-            "team_1": "Stoke City",
-            "team_2": "Sunderland",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Stoke City vs Sunderland",
-            "match_id": 109908,
-            "startTime": "08:30:00 PM 29-12-2024"
         },
         {
             "event_category": "Cricket",
@@ -130,6 +130,18 @@
             "startTime": "12:00:00 AM 30-12-2024"
         },
         {
+            "event_category": "Cricket",
+            "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113349_4644_RAN_DC_fc-web.jpg",
+            "team_1": "Rangpur Riders",
+            "team_2": "Dhaka Capitals",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2024-25",
+            "match_name": "Rangpur Riders vs Dhaka Capitals",
+            "match_id": 113349,
+            "startTime": "06:00:00 PM 30-12-2024"
+        },
+        {
             "event_category": "Football",
             "title": "Derby County vs Leeds United (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/109905_4352_DER_LU_fc-web_1734938759105.jpg",
@@ -140,18 +152,6 @@
             "match_name": "Derby County vs Leeds United",
             "match_id": 109905,
             "startTime": "11:15:00 PM 29-12-2024"
-        },
-        {
-            "event_category": "Football",
-            "title": "Middlesbrough vs Burnley (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109906_4352_MIDD_BUR_fc-web_1734938758998.jpg",
-            "team_1": "Middlesbrough",
-            "team_2": "Burnley",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Middlesbrough vs Burnley",
-            "match_id": 109906,
-            "startTime": "01:30:00 AM 30-12-2024"
         }
     ]
 }
