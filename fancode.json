@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:23:34 PM 29-12-2024",
+    "last update time": "01:33:40 PM 29-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "11:00:00 AM 29-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/bHrTFd5rS7iL9IxcI4OByw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115901_english_hls_5203ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Western United vs Brisbane Roar (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110951_4567_WST_BRB_fc-web_1728983127209.jpg",
-            "team_1": "Western United",
-            "team_2": "Brisbane Roar",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Western United vs Brisbane Roar",
-            "match_id": 110951,
-            "startTime": "11:30:00 AM 29-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/UcWRxhHoTsCdQXoCLFdMHg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110951_english_hls_5877ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -106,18 +92,6 @@
             "startTime": "09:30:00 PM 29-12-2024"
         },
         {
-            "event_category": "Football",
-            "title": "Sheffield United vs West Bromwich Albion (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109907_4352_SHF_WBA_fc-web_1734938759260.jpg",
-            "team_1": "Sheffield United",
-            "team_2": "West Bromwich Albion",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Sheffield United vs West Bromwich Albion",
-            "match_id": 109907,
-            "startTime": "06:00:00 PM 29-12-2024"
-        },
-        {
             "event_category": "Cricket",
             "title": "Cochin Hurricanes vs Kuwait Mavericks (KCC T20 Challengers A League, 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/112455_CASACARDS_APP.png",
@@ -128,6 +102,18 @@
             "match_name": "Cochin Hurricanes vs Kuwait Mavericks",
             "match_id": 112455,
             "startTime": "10:30:00 PM 29-12-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sheffield United vs West Bromwich Albion (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109907_4352_SHF_WBA_fc-web_1734938759260.jpg",
+            "team_1": "Sheffield United",
+            "team_2": "West Bromwich Albion",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Sheffield United vs West Bromwich Albion",
+            "match_id": 109907,
+            "startTime": "06:00:00 PM 29-12-2024"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Stoke City vs Sunderland",
             "match_id": 109908,
             "startTime": "08:30:00 PM 29-12-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Settlers vs Guardians (Barbados T10, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115733_4722_SET_GUA_fc-web.jpg",
+            "team_1": "Settlers",
+            "team_2": "Guardians",
+            "status": "UPCOMING",
+            "event_name": "Barbados T10, 2024-25",
+            "match_name": "Settlers vs Guardians",
+            "match_id": 115733,
+            "startTime": "12:00:00 AM 30-12-2024"
         }
     ]
 }
