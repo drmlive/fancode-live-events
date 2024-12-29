@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:48:30 PM 29-12-2024",
+    "last update time": "08:58:35 PM 29-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,20 +18,6 @@
             "adfree_url": "https://dai.fancode.com/primary/115672_english_hls_5666ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Stoke City vs Sunderland (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109908_4352_STK_SUN_fc-web_1734938760136.jpg",
-            "team_1": "Stoke City",
-            "team_2": "Sunderland",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Stoke City vs Sunderland",
-            "match_id": 109908,
-            "startTime": "08:30:00 PM 29-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/_nn7u6zkQQuAdKEqdITaMA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109908_english_hls_4950ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Ajman vs Sharjah (Emirates D10 2024)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115488_4713_AJM_SHA_fc-web.jpg",
@@ -44,6 +30,20 @@
             "startTime": "09:00:00 PM 29-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/hCQDbzjQQEGYKQj0Uulobw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115488_english_hls_5153ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Stoke City vs Sunderland (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109908_4352_STK_SUN_fc-web_1734938760136.jpg",
+            "team_1": "Stoke City",
+            "team_2": "Sunderland",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Stoke City vs Sunderland",
+            "match_id": 109908,
+            "startTime": "08:30:00 PM 29-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/_nn7u6zkQQuAdKEqdITaMA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109908_english_hls_4950ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,6 +140,18 @@
             "match_name": "Derby County vs Leeds United",
             "match_id": 109905,
             "startTime": "11:15:00 PM 29-12-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "Middlesbrough vs Burnley (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109906_4352_MIDD_BUR_fc-web_1734938758998.jpg",
+            "team_1": "Middlesbrough",
+            "team_2": "Burnley",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Middlesbrough vs Burnley",
+            "match_id": 109906,
+            "startTime": "01:30:00 AM 30-12-2024"
         }
     ]
 }
