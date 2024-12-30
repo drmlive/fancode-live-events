@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:40:43 PM 30-12-2024",
+    "last update time": "11:50:50 PM 30-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,6 +47,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Voyagers vs Pelicans (Barbados T10, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115735_4722_VOY_PEL_fc-web.jpg",
+            "team_1": "Voyagers",
+            "team_2": "Pelicans",
+            "status": "LIVE",
+            "event_name": "Barbados T10, 2024-25",
+            "match_name": "Voyagers vs Pelicans",
+            "match_id": 115735,
+            "startTime": "12:00:00 AM 31-12-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/Bu0wOzOpSpeyrp7jLXTl8g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115735_english_hls_5008ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Otago Sparks vs Central Hinds (Dream11 Women's Super Smash, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114505_4677_OS-W_CH-W_fc-web_1735211254585.jpg",
             "team_1": "Otago Sparks",
@@ -80,18 +94,6 @@
             "match_name": "Khulna Tigers vs Chittagong Kings",
             "match_id": 113350,
             "startTime": "11:30:00 AM 31-12-2024"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Voyagers vs Pelicans (Barbados T10, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115735_4722_VOY_PEL_fc-web.jpg",
-            "team_1": "Voyagers",
-            "team_2": "Pelicans",
-            "status": "UPCOMING",
-            "event_name": "Barbados T10, 2024-25",
-            "match_name": "Voyagers vs Pelicans",
-            "match_id": 115735,
-            "startTime": "12:00:00 AM 31-12-2024"
         },
         {
             "event_category": "Cricket",
@@ -130,18 +132,6 @@
             "startTime": "11:00:00 PM 31-12-2024"
         },
         {
-            "event_category": "Football",
-            "title": "AFC Wimbledon vs Gillingham (League Two 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",
-            "team_1": "AFC Wimbledon",
-            "team_2": "Gillingham",
-            "status": "UPCOMING",
-            "event_name": "League Two 2024-25",
-            "match_name": "AFC Wimbledon vs Gillingham",
-            "match_id": 110105,
-            "startTime": "01:30:00 AM 31-12-2024"
-        },
-        {
             "event_category": "Cricket",
             "title": "Karur vs Salem (TNCA S S Rajan T20 Trophy 2024-2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115676_4720_KAR_SAE_fc-web.jpg",
@@ -152,6 +142,18 @@
             "match_name": "Karur vs Salem",
             "match_id": 115676,
             "startTime": "07:00:00 PM 31-12-2024"
+        },
+        {
+            "event_category": "Football",
+            "title": "AFC Wimbledon vs Gillingham (League Two 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",
+            "team_1": "AFC Wimbledon",
+            "team_2": "Gillingham",
+            "status": "UPCOMING",
+            "event_name": "League Two 2024-25",
+            "match_name": "AFC Wimbledon vs Gillingham",
+            "match_id": 110105,
+            "startTime": "01:30:00 AM 31-12-2024"
         }
     ]
 }
