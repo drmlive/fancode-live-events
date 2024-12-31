@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:22:01 PM 31-12-2024",
+    "last update time": "06:32:07 PM 31-12-2024",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,34 +16,6 @@
             "startTime": "04:30:00 PM 31-12-2024",
             "dai_url": "https://dai.google.com/linear/hls/event/-qyGGcLySiG5RlWJJuJAGw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113351_english_hls_5150ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Coimbatore vs Thiruvallur (TNCA S S Rajan T20 Trophy 2024-2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115675_4720_COM_THR_fc-web.jpg",
-            "team_1": "Coimbatore",
-            "team_2": "Thiruvallur",
-            "status": "LIVE",
-            "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
-            "match_name": "Coimbatore vs Thiruvallur",
-            "match_id": 115675,
-            "startTime": "03:00:00 PM 31-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/qqywLhxgT7OgyEnFSpybqg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115675_english_hls_5304ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Hyderabad Hurricanes vs Vizag Victors (Yuva Kabaddi Series Edition 11 - Division Rounds)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114804_4687_HH_VVZ_fc-web.jpg",
-            "team_1": "Hyderabad Hurricanes",
-            "team_2": "Vizag Victors",
-            "status": "LIVE",
-            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-            "match_name": "Hyderabad Hurricanes vs Vizag Victors",
-            "match_id": 114804,
-            "startTime": "05:15:00 PM 31-12-2024",
-            "dai_url": "https://dai.google.com/linear/hls/event/brlsjtCgR2Oy1-WKEZVtyQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114804_english_hls_5129ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -119,18 +91,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Kuala Lumpur Women vs Sabah Women (MCA Women's T20 Inter-State Championship, 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/115905_CASACARDS_APP.png",
-            "team_1": "Kuala Lumpur Women",
-            "team_2": "Sabah Women",
-            "status": "UPCOMING",
-            "event_name": "MCA Women's T20 Inter-State Championship, 2024-25",
-            "match_name": "Kuala Lumpur Women vs Sabah Women",
-            "match_id": 115905,
-            "startTime": "07:00:00 AM 01-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Johor Women vs Negeri Sembilan Women (MCA Women's T20 Inter-State Championship, 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/115904_CASACARDS_APP.png",
             "team_1": "Johor Women",
@@ -143,6 +103,30 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Kuala Lumpur Women vs Sabah Women (MCA Women's T20 Inter-State Championship, 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/115905_CASACARDS_APP.png",
+            "team_1": "Kuala Lumpur Women",
+            "team_2": "Sabah Women",
+            "status": "UPCOMING",
+            "event_name": "MCA Women's T20 Inter-State Championship, 2024-25",
+            "match_name": "Kuala Lumpur Women vs Sabah Women",
+            "match_id": 115905,
+            "startTime": "07:00:00 AM 01-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Selangor Women vs Perak Women (MCA Women's T20 Inter-State Championship, 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/115906_CASACARDS_APP.png",
+            "team_1": "Selangor Women",
+            "team_2": "Perak Women",
+            "status": "UPCOMING",
+            "event_name": "MCA Women's T20 Inter-State Championship, 2024-25",
+            "match_name": "Selangor Women vs Perak Women",
+            "match_id": 115906,
+            "startTime": "11:00:00 AM 01-01-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Sarawak Women vs Pahang Women (MCA Women's T20 Inter-State Championship, 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/115907_CASACARDS_APP.png",
             "team_1": "Sarawak Women",
@@ -152,6 +136,18 @@
             "match_name": "Sarawak Women vs Pahang Women",
             "match_id": 115907,
             "startTime": "11:00:00 AM 01-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (TNCA S S Rajan T20 Trophy 2024-2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 115677,
+            "startTime": "03:00:00 PM 01-01-2025"
         }
     ]
 }
