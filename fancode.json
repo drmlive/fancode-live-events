@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:53:07 AM 01-01-2025",
+    "last update time": "12:03:22 PM 01-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "11:00:00 AM 01-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/xvSoF6hoSIabMsm1W_18Vw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115906_english_hls_8739ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Macarthur (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110954_4567_SYW_MAC_fc-web_1728983127386.jpg",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Macarthur",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Western Sydney Wanderers vs Macarthur",
+            "match_id": 110954,
+            "startTime": "12:30:00 PM 01-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZTW81cLKQUW78K1Jo2BxVw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110954_english_hls_5207ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -130,18 +144,6 @@
             "startTime": "01:30:00 AM 02-01-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Macarthur (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110954_4567_SYW_MAC_fc-web_1728983127386.jpg",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Macarthur",
-            "status": "UPCOMING",
-            "event_name": "A League 2024-25",
-            "match_name": "Western Sydney Wanderers vs Macarthur",
-            "match_id": 110954,
-            "startTime": "12:30:00 PM 01-01-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (MCA Women's T20 Inter-State Championship, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -150,7 +152,7 @@
             "status": "UPCOMING",
             "event_name": "MCA Women's T20 Inter-State Championship, 2024-25",
             "match_name": "TBC vs TBC",
-            "match_id": 115908,
+            "match_id": 115909,
             "startTime": "07:00:00 AM 02-01-2025"
         }
     ]
