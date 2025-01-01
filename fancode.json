@@ -1,33 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:39:43 PM 01-01-2025",
+    "last update time": "10:49:48 PM 01-01-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Swindon Town vs Colchester United (League Two 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",
-            "team_1": "Swindon Town",
-            "team_2": "Colchester United",
-            "status": "LIVE",
-            "event_name": "League Two 2024-25",
-            "match_name": "Swindon Town vs Colchester United",
-            "match_id": 110106,
-            "startTime": "08:30:00 PM 01-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/4g1km2r5TJWuhxQAxDfGqA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110106_english_hls_8418ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "MEC Study Group vs Mangaf Warriors (KCC T20 Challengers B League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115694_4721_MAW_MEC_fc-web.jpg",
             "team_1": "MEC Study Group",
             "team_2": "Mangaf Warriors",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "KCC T20 Challengers B League, 2024-25",
             "match_name": "MEC Study Group vs Mangaf Warriors",
             "match_id": 115694,
-            "startTime": "11:00:00 PM 01-01-2025"
+            "startTime": "11:00:00 PM 01-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/GX45Gi-ITRyctEKeRA0sGQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115694_english_hls_8367ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Hull City vs Middlesbrough (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109909_4352_HUL_MIDD_fc-web_1734938760038.jpg",
+            "team_1": "Hull City",
+            "team_2": "Middlesbrough",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Hull City vs Middlesbrough",
+            "match_id": 109909,
+            "startTime": "11:00:00 PM 01-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HrmuWPbsSl66MG9jIzuSqA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109909_english_hls_4662ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -52,18 +54,6 @@
             "match_name": "Zimbabwe vs Afghanistan",
             "match_id": 113546,
             "startTime": "01:30:00 PM 02-01-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Hull City vs Middlesbrough (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109909_4352_HUL_MIDD_fc-web_1734938760038.jpg",
-            "team_1": "Hull City",
-            "team_2": "Middlesbrough",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Hull City vs Middlesbrough",
-            "match_id": 109909,
-            "startTime": "11:00:00 PM 01-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -116,7 +106,7 @@
         {
             "event_category": "Cricket",
             "title": "Negeri Sembilan Women vs Pahang Women (MCA Women's T20 Inter-State Championship, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/115909_CASACARDS_APP.png",
             "team_1": "Negeri Sembilan Women",
             "team_2": "Pahang Women",
             "status": "UPCOMING",
@@ -128,7 +118,7 @@
         {
             "event_category": "Cricket",
             "title": "Johor Women vs Sarawak Women (MCA Women's T20 Inter-State Championship, 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/115908_CASACARDS_APP.png",
+            "src": "https://images.fancode.com/aig/match/v2/115908_CASACARDS_APP.png",
             "team_1": "Johor Women",
             "team_2": "Sarawak Women",
             "status": "UPCOMING",
@@ -148,6 +138,18 @@
             "match_name": "Tirunelveli vs Chengalpattu",
             "match_id": 115680,
             "startTime": "07:00:00 PM 02-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Perak Women vs Sabah Women (MCA Women's T20 Inter-State Championship, 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/115911_CASACARDS_APP.png",
+            "team_1": "Perak Women",
+            "team_2": "Sabah Women",
+            "status": "UPCOMING",
+            "event_name": "MCA Women's T20 Inter-State Championship, 2024-25",
+            "match_name": "Perak Women vs Sabah Women",
+            "match_id": 115911,
+            "startTime": "11:00:00 AM 02-01-2025"
         }
     ]
 }
