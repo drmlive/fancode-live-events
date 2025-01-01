@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:22:51 AM 01-01-2025",
+    "last update time": "11:32:56 AM 01-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "11:00:00 AM 01-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/xvSoF6hoSIabMsm1W_18Vw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115906_english_hls_8739ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Auckland vs Melbourne Victory (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110953_4567_AFC_MLV_fc-web_1728983127347.jpg",
-            "team_1": "Auckland",
-            "team_2": "Melbourne Victory",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Auckland vs Melbourne Victory",
-            "match_id": 110953,
-            "startTime": "09:30:00 AM 01-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/TWQUKQy8R-qkbFeMHZE30Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110953_english_hls_5152ta-di/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -156,6 +142,18 @@
             "match_name": "Sunderland vs Sheffield United",
             "match_id": 109912,
             "startTime": "01:30:00 AM 02-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Macarthur (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110954_4567_SYW_MAC_fc-web_1728983127386.jpg",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Macarthur",
+            "status": "UPCOMING",
+            "event_name": "A League 2024-25",
+            "match_name": "Western Sydney Wanderers vs Macarthur",
+            "match_id": 110954,
+            "startTime": "12:30:00 PM 01-01-2025"
         }
     ]
 }
