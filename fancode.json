@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:05:18 AM 03-01-2025",
+    "last update time": "12:15:29 AM 03-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,16 +46,18 @@
             "adfree_url": "https://dai.fancode.com/primary/116252_english_hls_6208ta-di/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "Zimbabwe",
-            "status": "PAUSED",
-            "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-            "match_name": "Afghanistan vs Zimbabwe",
-            "match_id": 113546,
-            "startTime": "01:30:00 PM 02-01-2025"
+            "event_category": "Basketball",
+            "title": "LDLC ASVEL Villeurbanne vs EA7 EMPORIO ARMANI MILAN (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/115592_CASACARDS_APP.png",
+            "team_1": "LDLC ASVEL Villeurbanne",
+            "team_2": "EA7 EMPORIO ARMANI MILAN",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "LDLC ASVEL Villeurbanne vs EA7 EMPORIO ARMANI MILAN",
+            "match_id": 115592,
+            "startTime": "12:30:00 AM 03-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/0_ABujhmQLWbh6D2p6ObUw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115592_english_hls_5568ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -68,6 +70,18 @@
             "match_name": "Thundercats vs YSSC",
             "match_id": 115696,
             "startTime": "01:15:00 AM 03-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Zimbabwe",
+            "status": "PAUSED",
+            "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
+            "match_name": "Afghanistan vs Zimbabwe",
+            "match_id": 113546,
+            "startTime": "01:30:00 PM 02-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -128,18 +142,6 @@
             "match_name": "Dhaka Capitals vs Khulna Tigers",
             "match_id": 113355,
             "startTime": "06:30:00 PM 03-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Coimbatore vs Tirupur (TNCA S S Rajan T20 Trophy 2024-2025)",
-            "src": "https://images.fancode.com/aig/match/v1/115681_CASACARDS_APP.png",
-            "team_1": "Coimbatore",
-            "team_2": "Tirupur",
-            "status": "UPCOMING",
-            "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
-            "match_name": "Coimbatore vs Tirupur",
-            "match_id": 115681,
-            "startTime": "03:00:00 PM 03-01-2025"
         }
     ]
 }
