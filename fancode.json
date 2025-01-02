@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:53:50 PM 02-01-2025",
+    "last update time": "10:03:55 PM 02-01-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "Zimbabwe",
-            "status": "LIVE",
-            "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
-            "match_name": "Afghanistan vs Zimbabwe",
-            "match_id": 113546,
-            "startTime": "01:30:00 PM 02-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113546_english_hls_5531ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Global Champs vs Phoenix Cricketers (KCC T20 Challengers B League, 2024-25)",
@@ -58,6 +44,18 @@
             "startTime": "08:00:00 PM 02-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/PCp_4dDwQmyupnvJTl-bbA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116272_english_hls_5709ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Zimbabwe",
+            "status": "PAUSED",
+            "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
+            "match_name": "Afghanistan vs Zimbabwe",
+            "match_id": 113546,
+            "startTime": "01:30:00 PM 02-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -142,6 +140,18 @@
             "match_name": "Settlers vs Pelicans",
             "match_id": 115739,
             "startTime": "12:00:00 AM 03-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Coimbatore vs Tirupur (TNCA S S Rajan T20 Trophy 2024-2025)",
+            "src": "https://images.fancode.com/aig/match/v1/115681_CASACARDS_APP.png",
+            "team_1": "Coimbatore",
+            "team_2": "Tirupur",
+            "status": "UPCOMING",
+            "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
+            "match_name": "Coimbatore vs Tirupur",
+            "match_id": 115681,
+            "startTime": "03:00:00 PM 03-01-2025"
         }
     ]
 }
