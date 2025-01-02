@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:08:19 PM 02-01-2025",
+    "last update time": "01:18:25 PM 02-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
             "team_1": "Zimbabwe",
             "team_2": "Afghanistan",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
             "match_name": "Zimbabwe vs Afghanistan",
             "match_id": 113546,
-            "startTime": "01:30:00 PM 02-01-2025"
+            "startTime": "01:30:00 PM 02-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/EeqomKkkQ4q63UoBuiI0Bg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113546_english_hls_5531ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -119,18 +121,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Dindigul vs Sivagangai (TNCA S S Rajan T20 Trophy 2024-2025)",
-            "src": "https://images.fancode.com/aig/match/v2/115679_CASACARDS_APP.png",
-            "team_1": "Dindigul",
-            "team_2": "Sivagangai",
-            "status": "UPCOMING",
-            "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
-            "match_name": "Dindigul vs Sivagangai",
-            "match_id": 115679,
-            "startTime": "03:00:00 PM 02-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Royal Lions CC vs Super Lanka (KCC T20 Challengers B League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115697_4721_RLC_SUL_fc-web.jpg",
             "team_1": "Royal Lions CC",
@@ -140,6 +130,18 @@
             "match_name": "Royal Lions CC vs Super Lanka",
             "match_id": 115697,
             "startTime": "10:30:00 AM 03-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dindigul vs Sivagangai (TNCA S S Rajan T20 Trophy 2024-2025)",
+            "src": "https://images.fancode.com/aig/match/v2/115679_CASACARDS_APP.png",
+            "team_1": "Dindigul",
+            "team_2": "Sivagangai",
+            "status": "UPCOMING",
+            "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
+            "match_name": "Dindigul vs Sivagangai",
+            "match_id": 115679,
+            "startTime": "03:00:00 PM 02-01-2025"
         },
         {
             "event_category": "Cricket",
