@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:26:31 AM 04-01-2025",
+    "last update time": "02:36:37 AM 04-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "01:30:00 AM 04-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yIqBIAk0RnumY1h2uvlVlA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115594_english_hls_5155ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Granada CF vs Getafe (Copa del Rey 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Granada-CF-VS-Getafe_old.jpg",
-            "team_1": "Granada CF",
-            "team_2": "Getafe",
-            "status": "LIVE",
-            "event_name": "Copa del Rey 2024-25",
-            "match_name": "Granada CF vs Getafe",
-            "match_id": 115606,
-            "startTime": "11:30:00 PM 03-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/AUCZ_sloTomc9SQHW3gA_A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115606_english_hls_9629ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -121,6 +107,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Coimbatore vs Dindigul (TNCA S S Rajan T20 Trophy 2024-2025)",
+            "src": "https://images.fancode.com/aig/match/v1/115683_CASACARDS_APP.png",
+            "team_1": "Coimbatore",
+            "team_2": "Dindigul",
+            "status": "UPCOMING",
+            "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
+            "match_name": "Coimbatore vs Dindigul",
+            "match_id": 115683,
+            "startTime": "03:00:00 PM 04-01-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Marwar Warriors vs Victory Lions (SPL T12)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Marwar Warriors",
@@ -132,16 +130,28 @@
             "startTime": "03:00:00 PM 04-01-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Blackburn Rovers vs Burnley (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109913_4352_BLK_BUR_fc-web_1734938759599.jpg",
+            "team_1": "Blackburn Rovers",
+            "team_2": "Burnley",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Blackburn Rovers vs Burnley",
+            "match_id": 109913,
+            "startTime": "06:00:00 PM 04-01-2025"
+        },
+        {
             "event_category": "Cricket",
-            "title": "Coimbatore vs Dindigul (TNCA S S Rajan T20 Trophy 2024-2025)",
-            "src": "https://images.fancode.com/aig/match/v1/115683_CASACARDS_APP.png",
-            "team_1": "Coimbatore",
-            "team_2": "Dindigul",
+            "title": "Thoothukudi vs Chengalpattu (TNCA S S Rajan T20 Trophy 2024-2025)",
+            "src": "https://images.fancode.com/aig/match/v1/115684_CASACARDS_APP.png",
+            "team_1": "Thoothukudi",
+            "team_2": "Chengalpattu",
             "status": "UPCOMING",
             "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
-            "match_name": "Coimbatore vs Dindigul",
-            "match_id": 115683,
-            "startTime": "03:00:00 PM 04-01-2025"
+            "match_name": "Thoothukudi vs Chengalpattu",
+            "match_id": 115684,
+            "startTime": "07:00:00 PM 04-01-2025"
         }
     ]
 }
