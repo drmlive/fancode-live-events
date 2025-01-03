@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:54:10 PM 03-01-2025",
+    "last update time": "11:04:16 PM 03-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,18 +32,32 @@
             "adfree_url": "https://dai.fancode.com/primary/115740_english_hls_5314ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Seven United vs UFC (BOX Office Hundred Ball)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
-            "team_1": "Seven United",
-            "team_2": "UFC",
+            "event_category": "Basketball",
+            "title": "Fenerbahce Beko Istanbul vs Anadolu Efes Istanbul (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/115593_CASACARDS_APP.png",
+            "team_1": "Fenerbahce Beko Istanbul",
+            "team_2": "Anadolu Efes Istanbul",
             "status": "LIVE",
-            "event_name": "BOX Office Hundred Ball",
-            "match_name": "Seven United vs UFC",
-            "match_id": 116277,
-            "startTime": "08:00:00 PM 03-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/nwlGLC19R-CCxNxvPHS5Kw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116277_english_hls_9256ta-di/index.m3u8"
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Fenerbahce Beko Istanbul vs Anadolu Efes Istanbul",
+            "match_id": 115593,
+            "startTime": "11:15:00 PM 03-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/8UF-CdaEQfWRohyABRdDhw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115593_english_hls_5706ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Kapalua Plantation Course, Hawaii (The Sentry)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The_Sentry_match-card.jpg",
+            "team_1": "Day 2",
+            "team_2": "Kapalua Plantation Course, Hawaii",
+            "status": "LIVE",
+            "event_name": "The Sentry",
+            "match_name": "Day 2",
+            "match_id": 116253,
+            "startTime": "11:15:00 PM 03-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/XgOhSrQmRtGOCcZ1HghsQA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116253_english_hls_9405ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -67,7 +81,7 @@
             "event_name": "KCC T20 Challengers B League, 2024-25",
             "match_name": "Osmani CC vs Karavali United Cricket Club",
             "match_id": 115698,
-            "startTime": "12:00:00 AM 04-01-2025"
+            "startTime": "12:15:00 AM 04-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -92,6 +106,18 @@
             "match_name": "Central Stags vs Wellington Firebirds",
             "match_id": 114477,
             "startTime": "08:55:00 AM 04-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guardians vs Titans (Barbados T10, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115741_4722_GUA_TIT_fc-web.jpg",
+            "team_1": "Guardians",
+            "team_2": "Titans",
+            "status": "UPCOMING",
+            "event_name": "Barbados T10, 2024-25",
+            "match_name": "Guardians vs Titans",
+            "match_id": 115741,
+            "startTime": "12:00:00 AM 04-01-2025"
         },
         {
             "event_category": "Football",
@@ -128,30 +154,6 @@
             "match_name": "Racing Ferrol vs Rayo Vallecano",
             "match_id": 115609,
             "startTime": "11:30:00 PM 03-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guardians vs Titans (Barbados T10, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115741_4722_GUA_TIT_fc-web.jpg",
-            "team_1": "Guardians",
-            "team_2": "Titans",
-            "status": "UPCOMING",
-            "event_name": "Barbados T10, 2024-25",
-            "match_name": "Guardians vs Titans",
-            "match_id": 115741,
-            "startTime": "12:00:00 AM 04-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Desert Eagles vs Thunder Blasters (SPL T12)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Desert Eagles",
-            "team_2": "Thunder Blasters",
-            "status": "UPCOMING",
-            "event_name": "SPL T12",
-            "match_name": "Desert Eagles vs Thunder Blasters",
-            "match_id": 116342,
-            "startTime": "12:30:00 PM 04-01-2025"
         }
     ]
 }
