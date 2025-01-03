@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:06:19 AM 04-01-2025",
+    "last update time": "02:16:25 AM 04-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "12:00:00 AM 04-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/dswU8IqjQaG81Uyll_y1FQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115741_english_hls_343ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Granada CF vs Getafe (Copa del Rey 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Granada-CF-VS-Getafe_old.jpg",
-            "team_1": "Granada CF",
-            "team_2": "Getafe",
-            "status": "LIVE",
-            "event_name": "Copa del Rey 2024-25",
-            "match_name": "Granada CF vs Getafe",
-            "match_id": 115606,
-            "startTime": "11:30:00 PM 03-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/AUCZ_sloTomc9SQHW3gA_A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115606_english_hls_9629ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -75,17 +61,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Racing Ferrol vs Rayo Vallecano (Copa del Rey 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Racing-Ferrol-VS--Rayo-Vallecano_old.jpg",
-            "team_1": "Racing Ferrol",
-            "team_2": "Rayo Vallecano",
+            "title": "Granada CF vs Getafe (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Granada-CF-VS-Getafe_old.jpg",
+            "team_1": "Granada CF",
+            "team_2": "Getafe",
             "status": "LIVE",
             "event_name": "Copa del Rey 2024-25",
-            "match_name": "Racing Ferrol vs Rayo Vallecano",
-            "match_id": 115609,
+            "match_name": "Granada CF vs Getafe",
+            "match_id": 115606,
             "startTime": "11:30:00 PM 03-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Y8_0UTLwTLCRJT1mC228Eg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115609_english_hls_5684ta-di/index.m3u8"
+            "dai_url": "https://dai.google.com/linear/hls/event/AUCZ_sloTomc9SQHW3gA_A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115606_english_hls_9629ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -160,6 +146,18 @@
             "match_name": "Desert Eagles vs Thunder Blasters",
             "match_id": 116342,
             "startTime": "12:30:00 PM 04-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Marwar Warriors vs Victory Lions (SPL T12)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Marwar Warriors",
+            "team_2": "Victory Lions",
+            "status": "UPCOMING",
+            "event_name": "SPL T12",
+            "match_name": "Marwar Warriors vs Victory Lions",
+            "match_id": 116343,
+            "startTime": "03:00:00 PM 04-01-2025"
         }
     ]
 }
