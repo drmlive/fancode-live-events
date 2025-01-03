@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:27:08 AM 04-01-2025",
+    "last update time": "03:37:14 AM 04-01-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -16,20 +16,6 @@
             "startTime": "11:15:00 PM 03-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/XgOhSrQmRtGOCcZ1HghsQA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116253_english_hls_9405ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Real Madrid vs Bayern Munich (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/115594_CASACARDS_APP.png",
-            "team_1": "Real Madrid",
-            "team_2": "Bayern Munich",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Real Madrid vs Bayern Munich",
-            "match_id": 115594,
-            "startTime": "01:30:00 AM 04-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/yIqBIAk0RnumY1h2uvlVlA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115594_english_hls_5155ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -116,6 +102,30 @@
             "startTime": "03:00:00 PM 04-01-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Thoothukudi vs Chengalpattu (TNCA S S Rajan T20 Trophy 2024-2025)",
+            "src": "https://images.fancode.com/aig/match/v1/115684_CASACARDS_APP.png",
+            "team_1": "Thoothukudi",
+            "team_2": "Chengalpattu",
+            "status": "UPCOMING",
+            "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
+            "match_name": "Thoothukudi vs Chengalpattu",
+            "match_id": 115684,
+            "startTime": "07:00:00 PM 04-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guardians vs Warriors (Barbados T10, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115742_4722_GUA_WAR_fc-web.jpg",
+            "team_1": "Guardians",
+            "team_2": "Warriors",
+            "status": "UPCOMING",
+            "event_name": "Barbados T10, 2024-25",
+            "match_name": "Guardians vs Warriors",
+            "match_id": 115742,
+            "startTime": "07:00:00 PM 04-01-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Blackburn Rovers vs Burnley (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/109913_4352_BLK_BUR_fc-web_1734938759599.jpg",
@@ -128,16 +138,16 @@
             "startTime": "06:00:00 PM 04-01-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Thoothukudi vs Chengalpattu (TNCA S S Rajan T20 Trophy 2024-2025)",
-            "src": "https://images.fancode.com/aig/match/v1/115684_CASACARDS_APP.png",
-            "team_1": "Thoothukudi",
-            "team_2": "Chengalpattu",
+            "event_category": "Football",
+            "title": "Huesca vs Real Betis (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Huesca-VS-Real-Betis_old.jpg",
+            "team_1": "Huesca",
+            "team_2": "Real Betis",
             "status": "UPCOMING",
-            "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
-            "match_name": "Thoothukudi vs Chengalpattu",
-            "match_id": 115684,
-            "startTime": "07:00:00 PM 04-01-2025"
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Huesca vs Real Betis",
+            "match_id": 115607,
+            "startTime": "08:00:00 PM 04-01-2025"
         }
     ]
 }
