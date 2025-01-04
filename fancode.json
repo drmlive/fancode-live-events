@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:07:19 PM 04-01-2025",
+    "last update time": "10:17:25 PM 04-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -70,20 +70,6 @@
             "startTime": "08:30:00 PM 04-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/K-daK2V2QKKZ6IdBgNRTDg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109916_english_hls_5093ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Huesca vs Real Betis (Copa del Rey 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Huesca-VS-Real-Betis_old.jpg",
-            "team_1": "Huesca",
-            "team_2": "Real Betis",
-            "status": "LIVE",
-            "event_name": "Copa del Rey 2024-25",
-            "match_name": "Huesca vs Real Betis",
-            "match_id": 115607,
-            "startTime": "08:00:00 PM 04-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8qnReHh2Sm-jDhEGfAg01g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115607_english_hls_5287ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -156,6 +142,18 @@
             "match_name": "Elche vs Las Palmas",
             "match_id": 115612,
             "startTime": "04:30:00 PM 05-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-tour-of-Zimbabwe_Test_old.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Zimbabwe",
+            "status": "PAUSED",
+            "event_name": "Afghanistan tour of Zimbabwe, 2024-25",
+            "match_name": "Afghanistan vs Zimbabwe",
+            "match_id": 113546,
+            "startTime": "01:30:00 PM 02-01-2025"
         }
     ]
 }
