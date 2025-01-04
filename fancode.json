@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:52:58 PM 04-01-2025",
+    "last update time": "01:03:08 PM 04-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "Afghanistan vs Zimbabwe",
             "match_id": 113546,
             "startTime": "01:30:00 PM 02-01-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/vl0kt74WTl-IiP6RDEUrQg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113546_english_hls_6082ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -46,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/110960_english_hls_5076ta-di/index.m3u8"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Sonipat Spartans vs Aravalli Arrows (Yuva Kabaddi Series Edition 11 - Division Rounds)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114811_4687_SPS_AAS_fc-web.jpg",
-            "team_1": "Sonipat Spartans",
-            "team_2": "Aravalli Arrows",
-            "status": "LIVE",
-            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-            "match_name": "Sonipat Spartans vs Aravalli Arrows",
-            "match_id": 114811,
-            "startTime": "11:30:00 AM 04-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Eu9hgOj5R-u6G2CbhaGmsw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114811_english_hls_8650ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Al-Rashed Shipping Co vs Chennai Kings CA (KCC T20 Challengers B League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115699_4721_ARI_CHK_fc-web.jpg",
@@ -85,18 +71,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Marwar Warriors vs Victory Lions (SPL T12)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116343_4747_MWS_VLS_fc-Web.jpg",
-            "team_1": "Marwar Warriors",
-            "team_2": "Victory Lions",
-            "status": "UPCOMING",
-            "event_name": "SPL T12",
-            "match_name": "Marwar Warriors vs Victory Lions",
-            "match_id": 116343,
-            "startTime": "03:00:00 PM 04-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Coimbatore vs Dindigul (TNCA S S Rajan T20 Trophy 2024-2025)",
             "src": "https://images.fancode.com/aig/match/v1/115683_CASACARDS_APP.png",
             "team_1": "Coimbatore",
@@ -109,15 +83,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Guardians vs Warriors (Barbados T10, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115742_4722_GUA_WAR_fc-web.jpg",
-            "team_1": "Guardians",
-            "team_2": "Warriors",
+            "title": "Marwar Warriors vs Victory Lions (SPL T12)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116343_4747_MWS_VLS_fc-Web.jpg",
+            "team_1": "Marwar Warriors",
+            "team_2": "Victory Lions",
             "status": "UPCOMING",
-            "event_name": "Barbados T10, 2024-25",
-            "match_name": "Guardians vs Warriors",
-            "match_id": 115742,
-            "startTime": "07:00:00 PM 04-01-2025"
+            "event_name": "SPL T12",
+            "match_name": "Marwar Warriors vs Victory Lions",
+            "match_id": 116343,
+            "startTime": "03:00:00 PM 04-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -129,6 +103,18 @@
             "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
             "match_name": "Thoothukudi vs Chengalpattu",
             "match_id": 115684,
+            "startTime": "07:00:00 PM 04-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guardians vs Warriors (Barbados T10, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115742_4722_GUA_WAR_fc-web.jpg",
+            "team_1": "Guardians",
+            "team_2": "Warriors",
+            "status": "UPCOMING",
+            "event_name": "Barbados T10, 2024-25",
+            "match_name": "Guardians vs Warriors",
+            "match_id": 115742,
             "startTime": "07:00:00 PM 04-01-2025"
         },
         {
@@ -154,6 +140,18 @@
             "match_name": "Blackburn Rovers vs Burnley",
             "match_id": 109913,
             "startTime": "06:00:00 PM 04-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Huesca vs Real Betis (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Huesca-VS-Real-Betis_old.jpg",
+            "team_1": "Huesca",
+            "team_2": "Real Betis",
+            "status": "UPCOMING",
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Huesca vs Real Betis",
+            "match_id": 115607,
+            "startTime": "08:00:00 PM 04-01-2025"
         }
     ]
 }
