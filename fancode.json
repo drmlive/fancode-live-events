@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:25:10 AM 05-01-2025",
+    "last update time": "10:35:16 AM 05-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,6 +28,20 @@
             "startTime": "08:30:00 AM 05-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/-SVFnTGPQcajmHs23P0tsA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116344_english_hls_5139ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Gladiators vs Sun City Strikers (SPL T12)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116345_4747_RGS_SCSS_fc-Web.jpg",
+            "team_1": "Royal Gladiators",
+            "team_2": "Sun City Strikers",
+            "status": "LIVE",
+            "event_name": "SPL T12",
+            "match_name": "Royal Gladiators vs Sun City Strikers",
+            "match_id": 116345,
+            "startTime": "10:45:00 AM 05-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/oDGMepLUTKOYFWEI5dN-4Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116345_english_hls_5352ta-di/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -57,18 +71,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Royal Gladiators vs Sun City Strikers (SPL T12)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116345_4747_RGS_SCSS_fc-Web.jpg",
-            "team_1": "Royal Gladiators",
-            "team_2": "Sun City Strikers",
-            "status": "UPCOMING",
-            "event_name": "SPL T12",
-            "match_name": "Royal Gladiators vs Sun City Strikers",
-            "match_id": 116345,
-            "startTime": "10:45:00 AM 05-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Central Hinds vs Northern Brave Women (Dream11 Women's Super Smash, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114510_4677_CH-W_NB-W_fc-web.jpg",
             "team_1": "Central Hinds",
@@ -78,6 +80,18 @@
             "match_name": "Central Hinds vs Northern Brave Women",
             "match_id": 114510,
             "startTime": "05:10:00 AM 06-01-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Murthal Magnets vs Aravalli Arrows (Yuva Kabaddi Series Edition 11 - Division Rounds)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114815_4687_MMGL_AAS_fc-web.jpg",
+            "team_1": "Murthal Magnets",
+            "team_2": "Aravalli Arrows",
+            "status": "UPCOMING",
+            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+            "match_name": "Murthal Magnets vs Aravalli Arrows",
+            "match_id": 114815,
+            "startTime": "11:30:00 AM 05-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -117,18 +131,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Ourense CF vs Real Valladolid (Copa del Rey 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ourense-CF-VS-Real-Valladolid_old.jpg",
-            "team_1": "Ourense CF",
-            "team_2": "Real Valladolid",
-            "status": "UPCOMING",
-            "event_name": "Copa del Rey 2024-25",
-            "match_name": "Ourense CF vs Real Valladolid",
-            "match_id": 115604,
-            "startTime": "04:30:00 PM 05-01-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Elche vs Las Palmas (Copa del Rey 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Elche-VS-Las-Palmas_old.jpg",
             "team_1": "Elche",
@@ -140,16 +142,16 @@
             "startTime": "04:30:00 PM 05-01-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Settlers vs Titans (Barbados T10, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115745_4722_SET_TIT_fc-web.jpg",
-            "team_1": "Settlers",
-            "team_2": "Titans",
+            "event_category": "Football",
+            "title": "Ourense CF vs Real Valladolid (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ourense-CF-VS-Real-Valladolid_old.jpg",
+            "team_1": "Ourense CF",
+            "team_2": "Real Valladolid",
             "status": "UPCOMING",
-            "event_name": "Barbados T10, 2024-25",
-            "match_name": "Settlers vs Titans",
-            "match_id": 115745,
-            "startTime": "09:30:00 PM 05-01-2025"
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Ourense CF vs Real Valladolid",
+            "match_id": 115604,
+            "startTime": "04:30:00 PM 05-01-2025"
         }
     ]
 }
