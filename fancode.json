@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:29:01 PM 05-01-2025",
+    "last update time": "10:39:07 PM 05-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,18 +18,28 @@
             "adfree_url": "https://dai.fancode.com/primary/115745_english_hls_4998ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Coimbatore vs Chengalpattu (TNCA S S Rajan T20 Trophy 2024-2025)",
-            "src": "https://images.fancode.com/aig/match/v1/115685_CASACARDS_APP.png",
-            "team_1": "Coimbatore",
-            "team_2": "Chengalpattu",
-            "status": "LIVE",
-            "event_name": "TNCA S S Rajan T20 Trophy 2024-2025",
-            "match_name": "Coimbatore vs Chengalpattu",
-            "match_id": 115685,
-            "startTime": "07:00:00 PM 05-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/aXi3ZTbeT8ObESHRWj0vPQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115685_english_hls_4641ta-no/index.m3u8"
+            "event_category": "Football",
+            "title": "Deportiva Minera vs Real Madrid (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Deportiva Minera",
+            "team_2": "Real Madrid",
+            "status": "UPCOMING",
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Deportiva Minera vs Real Madrid",
+            "match_id": 115601,
+            "startTime": "11:30:00 PM 06-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Eldense vs Valencia CF (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Eldense-VS-Valencia-CF_old.jpg",
+            "team_1": "Eldense",
+            "team_2": "Valencia CF",
+            "status": "UPCOMING",
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Eldense vs Valencia CF",
+            "match_id": 115611,
+            "startTime": "01:30:00 AM 07-01-2025"
         }
     ]
 }
