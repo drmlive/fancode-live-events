@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:58:54 PM 06-01-2025",
+    "last update time": "02:09:00 PM 06-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:00:00 PM 06-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/e_lXzBwyQQWEAR8J71Aujg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113356_english_hls_6633ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Thunder Blasters vs Fearless Bulls (SPL T12)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116349_4747_TBS_FBS_fc-Web.jpg",
-            "team_1": "Thunder Blasters",
-            "team_2": "Fearless Bulls",
-            "status": "LIVE",
-            "event_name": "SPL T12",
-            "match_name": "Thunder Blasters vs Fearless Bulls",
-            "match_id": 116349,
-            "startTime": "10:45:00 AM 06-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/wMUXYW5ARJKuuWkJp13wKQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116349_english_hls_5186ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +140,18 @@
             "match_name": "Deportiva Minera vs Real Madrid",
             "match_id": 115601,
             "startTime": "11:30:00 PM 06-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Eldense vs Valencia CF (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Eldense-VS-Valencia-CF_old.jpg",
+            "team_1": "Eldense",
+            "team_2": "Valencia CF",
+            "status": "UPCOMING",
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Eldense vs Valencia CF",
+            "match_id": 115611,
+            "startTime": "01:30:00 AM 07-01-2025"
         }
     ]
 }
