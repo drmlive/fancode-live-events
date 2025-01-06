@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:26:11 AM 06-01-2025",
+    "last update time": "10:36:21 AM 06-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "08:30:00 AM 06-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/3yVGPzgEST6UMfCGkwiEJQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116348_english_hls_4901ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Thunder Blasters vs Fearless Bulls (SPL T12)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116349_4747_TBS_FBS_fc-Web.jpg",
+            "team_1": "Thunder Blasters",
+            "team_2": "Fearless Bulls",
+            "status": "LIVE",
+            "event_name": "SPL T12",
+            "match_name": "Thunder Blasters vs Fearless Bulls",
+            "match_id": 116349,
+            "startTime": "10:45:00 AM 06-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/wMUXYW5ARJKuuWkJp13wKQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116349_english_hls_5186ta-no/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -95,18 +109,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Thunder Blasters vs Fearless Bulls (SPL T12)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116349_4747_TBS_FBS_fc-Web.jpg",
-            "team_1": "Thunder Blasters",
-            "team_2": "Fearless Bulls",
-            "status": "UPCOMING",
-            "event_name": "SPL T12",
-            "match_name": "Thunder Blasters vs Fearless Bulls",
-            "match_id": 116349,
-            "startTime": "10:45:00 AM 06-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Canterbury vs Otago Volts (Dream11 Super Smash, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114479_4676_CTB_OV_fc-Web_1735207965443.jpg",
             "team_1": "Canterbury",
@@ -116,6 +118,18 @@
             "match_name": "Canterbury vs Otago Volts",
             "match_id": 114479,
             "startTime": "06:40:00 AM 07-01-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Aravalli Arrows vs Karpagam Raiders (Yuva Kabaddi Series Edition 11 - Division Rounds)",
+            "src": "https://images.fancode.com/aig/match/v1/114819_CASACARDS_APP.png",
+            "team_1": "Aravalli Arrows",
+            "team_2": "Karpagam Raiders",
+            "status": "UPCOMING",
+            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+            "match_name": "Aravalli Arrows vs Karpagam Raiders",
+            "match_id": 114819,
+            "startTime": "11:30:00 AM 06-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "Victory Lions vs Sun City Strikers",
             "match_id": 116351,
             "startTime": "03:15:00 PM 06-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pelicans vs Warriors (Barbados T10, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115747_4722_PEL_WAR_fc-web.jpg",
-            "team_1": "Pelicans",
-            "team_2": "Warriors",
-            "status": "UPCOMING",
-            "event_name": "Barbados T10, 2024-25",
-            "match_name": "Pelicans vs Warriors",
-            "match_id": 115747,
-            "startTime": "09:30:00 PM 06-01-2025"
         }
     ]
 }
