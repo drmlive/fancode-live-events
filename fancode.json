@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:26:50 PM 07-01-2025",
+    "last update time": "02:36:56 PM 07-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:00:00 PM 07-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/LpprNreISJKnSBdbY0-yqw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113358_english_hls_6564ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Marwar Warriors vs Sun City Strikers (SPL T12)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116353_4747_MWS_SCSS_fc-Web.jpg",
-            "team_1": "Marwar Warriors",
-            "team_2": "Sun City Strikers",
-            "status": "LIVE",
-            "event_name": "SPL T12",
-            "match_name": "Marwar Warriors vs Sun City Strikers",
-            "match_id": 116353,
-            "startTime": "12:00:00 PM 07-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/zKFq51QGQnutl-X9A2E6qQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116353_english_hls_5608ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -58,20 +44,6 @@
             "startTime": "02:30:00 PM 07-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/3uKc2B5mRyWnwnDqWprpvw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110955_english_hls_5205ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne City vs Western United (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110986_4567_MLC_WST_fc-web_1728983129122.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Western United",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Melbourne City vs Western United",
-            "match_id": 110986,
-            "startTime": "12:30:00 PM 07-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/tdiJJeZfR8yYYAvefcLNNQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110986_english_hls_5729ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +128,30 @@
             "match_name": "Eldense vs Valencia CF",
             "match_id": 115611,
             "startTime": "01:30:00 AM 08-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Arsenal vs Newcastle United (Carabao Cup 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Newcastle-United_Old.jpg",
+            "team_1": "Arsenal",
+            "team_2": "Newcastle United",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2024-25",
+            "match_name": "Arsenal vs Newcastle United",
+            "match_id": 115999,
+            "startTime": "01:30:00 AM 08-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Thar Defenders vs TBC (SPL T12)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Thar Defenders",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "SPL T12",
+            "match_name": "Thar Defenders vs TBC",
+            "match_id": 116355,
+            "startTime": "08:30:00 AM 08-01-2025"
         }
     ]
 }
