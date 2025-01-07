@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:56:30 PM 07-01-2025",
+    "last update time": "02:06:37 PM 07-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/110986_english_hls_5729ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Brisbane Roar vs Newcastle Jets (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110955_4567_BRB_NJ_fc-web_1728983127588.jpg",
+            "team_1": "Brisbane Roar",
+            "team_2": "Newcastle Jets",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Brisbane Roar vs Newcastle Jets",
+            "match_id": 110955,
+            "startTime": "02:30:00 PM 07-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/3uKc2B5mRyWnwnDqWprpvw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110955_english_hls_5205ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Fortune Barishal vs Sylhet Strikers (Bangladesh Premier League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113359_4644_FBA_SYL_fc-web.jpg",
@@ -97,18 +111,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New Zealand vs Sri Lanka (Sri Lanka tour of New Zealand, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-New-Zealand-ODI_2025_Old_match-card_02.jpg",
-            "team_1": "New Zealand",
-            "team_2": "Sri Lanka",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka tour of New Zealand, 2024-25",
-            "match_name": "New Zealand vs Sri Lanka",
-            "match_id": 115624,
-            "startTime": "06:30:00 AM 08-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Yanam XI vs Pondicherry South XI (CAP Masters T10 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
             "team_1": "Yanam XI",
@@ -118,6 +120,18 @@
             "match_name": "Yanam XI vs Pondicherry South XI",
             "match_id": 116222,
             "startTime": "03:00:00 PM 07-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand vs Sri Lanka (Sri Lanka tour of New Zealand, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-New-Zealand-ODI_2025_Old_match-card_02.jpg",
+            "team_1": "New Zealand",
+            "team_2": "Sri Lanka",
+            "status": "UPCOMING",
+            "event_name": "Sri Lanka tour of New Zealand, 2024-25",
+            "match_name": "New Zealand vs Sri Lanka",
+            "match_id": 115624,
+            "startTime": "06:30:00 AM 08-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +156,6 @@
             "match_name": "Pelicans vs Voyagers",
             "match_id": 115750,
             "startTime": "12:00:00 AM 08-01-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Eldense vs Valencia CF (Copa del Rey 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Eldense-VS-Valencia-CF_old.jpg",
-            "team_1": "Eldense",
-            "team_2": "Valencia CF",
-            "status": "UPCOMING",
-            "event_name": "Copa del Rey 2024-25",
-            "match_name": "Eldense vs Valencia CF",
-            "match_id": 115611,
-            "startTime": "01:30:00 AM 08-01-2025"
         }
     ]
 }
