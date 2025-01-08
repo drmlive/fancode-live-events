@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:41:02 PM 08-01-2025",
+    "last update time": "12:51:08 PM 08-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "06:30:00 AM 08-01-2025",
             "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/SLVSNZ/master.m3u8?hdnea=exp=1736346250~acl=*~id=155678448410001965141736296249109~hmac=f504578b824c536fe5c15c1d98bd40079eab54121f247d8b46664f6bd909d816",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/SLVSNZ/master.m3u8?hdnea=exp=1736346250~acl=*~id=155678448410001965141736296249109~hmac=f504578b824c536fe5c15c1d98bd40079eab54121f247d8b46664f6bd909d816"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Marwar Warriors vs Thar Defenders (SPL T12)",
-            "src": "https://images.fancode.com/aig/match/v1/116355_CASACARDS_APP.png",
-            "team_1": "Marwar Warriors",
-            "team_2": "Thar Defenders",
-            "status": "LIVE",
-            "event_name": "SPL T12",
-            "match_name": "Marwar Warriors vs Thar Defenders",
-            "match_id": 116355,
-            "startTime": "08:30:00 AM 08-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/p5SjBh8bTW2NLGWyXskQag/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116355_english_hls_5473ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Tottenham Hotspur vs Liverpool",
             "match_id": 116000,
             "startTime": "01:30:00 AM 09-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Perth Glory (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110956_4567_SYD_PG_fc-web_1728983128933.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2024-25",
+            "match_name": "Sydney FC vs Perth Glory",
+            "match_id": 110956,
+            "startTime": "01:30:00 PM 08-01-2025"
         }
     ]
 }
