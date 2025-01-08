@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:49:30 AM 09-01-2025",
+    "last update time": "01:59:35 AM 09-01-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "12:30:00 AM 09-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/tClcY9vERFeWdcQOxILXBQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116003_english_hls_5399ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Team TGS vs Thunder Cats (KCC T20 Challengers B League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115703_4721_THN_TGS_fc-web.jpg",
-            "team_1": "Team TGS",
-            "team_2": "Thunder Cats",
-            "status": "LIVE",
-            "event_name": "KCC T20 Challengers B League, 2024-25",
-            "match_name": "Team TGS vs Thunder Cats",
-            "match_id": 115703,
-            "startTime": "11:00:00 PM 08-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/6AJTpZalSD2QyrlxxNiHpw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115703_english_hls_5451ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +140,18 @@
             "match_name": "Aravalli Arrows vs Jaipur Thunders",
             "match_id": 114830,
             "startTime": "10:00:00 AM 09-01-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Karpagam Raiders vs Kurukshetra Warriors (Yuva Kabaddi Series Edition 11 - Division Rounds)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114831_4687_KRS_KWS_fc-web.jpg",
+            "team_1": "Karpagam Raiders",
+            "team_2": "Kurukshetra Warriors",
+            "status": "UPCOMING",
+            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
+            "match_name": "Karpagam Raiders vs Kurukshetra Warriors",
+            "match_id": 114831,
+            "startTime": "11:30:00 AM 09-01-2025"
         }
     ]
 }
