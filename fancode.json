@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:50:45 AM 09-01-2025",
+    "last update time": "04:00:51 AM 09-01-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Tottenham Hotspur vs Liverpool (Carabao Cup 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tottenham-Hotspur-VS-Liverpool_Old.jpg",
-            "team_1": "Tottenham Hotspur",
-            "team_2": "Liverpool",
-            "status": "LIVE",
-            "event_name": "Carabao Cup 2024-25",
-            "match_name": "Tottenham Hotspur vs Liverpool",
-            "match_id": 116000,
-            "startTime": "01:30:00 AM 09-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/XBQgK74CS4CIK_4-EK3X3g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116000_english_hls_4606ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Wellington Blaze vs Central Hinds (Dream11 Women's Super Smash, 2024-25)",
@@ -148,6 +134,18 @@
             "match_name": "Palani Tuskers vs Murthal Magnets",
             "match_id": 114833,
             "startTime": "05:15:00 PM 09-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Madrid vs Mallorca (Supercopa de Espana)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercopa-de-Espana,-Semi-final-2-old-match-card.png",
+            "team_1": "Real Madrid",
+            "team_2": "Mallorca",
+            "status": "UPCOMING",
+            "event_name": "Supercopa de Espana",
+            "match_name": "Real Madrid vs Mallorca",
+            "match_id": 116004,
+            "startTime": "12:30:00 AM 10-01-2025"
         }
     ]
 }
