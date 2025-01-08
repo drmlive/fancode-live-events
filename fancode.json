@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:50:29 AM 08-01-2025",
+    "last update time": "12:00:35 PM 08-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "08:30:00 AM 08-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/p5SjBh8bTW2NLGWyXskQag/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116355_english_hls_5473ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mahe XI vs Pondicherry South XI (CAP Masters T10 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",
-            "team_1": "Mahe XI",
-            "team_2": "Pondicherry South XI",
-            "status": "LIVE",
-            "event_name": "CAP Masters T10 Tournament, 2025",
-            "match_name": "Mahe XI vs Pondicherry South XI",
-            "match_id": 116224,
-            "startTime": "10:00:00 AM 08-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/5jENnYGCSyOIuq9EOIBqnA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116224_english_hls_8474ta-no/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -154,6 +140,18 @@
             "match_name": "Guardians vs Pelicans",
             "match_id": 115752,
             "startTime": "12:00:00 AM 09-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club vs Barcelona (Supercopa de Espana)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercopa-de-Espana,-Semi-final-1-old-match-card.png",
+            "team_1": "Athletic Club",
+            "team_2": "Barcelona",
+            "status": "UPCOMING",
+            "event_name": "Supercopa de Espana",
+            "match_name": "Athletic Club vs Barcelona",
+            "match_id": 116003,
+            "startTime": "12:30:00 AM 09-01-2025"
         }
     ]
 }
