@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:51:08 PM 08-01-2025",
+    "last update time": "01:01:15 PM 08-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://dai.fancode.com/primary/116226_english_hls_5690ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Sydney FC vs Perth Glory (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110956_4567_SYD_PG_fc-web_1728983128933.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Perth Glory",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Sydney FC vs Perth Glory",
+            "match_id": 110956,
+            "startTime": "01:30:00 PM 08-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZH1TsiBiQ52FBuWVeuxUiw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110956_english_hls_5071ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Thunder Cats vs Team TGS (KCC T20 Challengers B League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115703_4721_THN_TGS_fc-web.jpg",
@@ -42,6 +56,18 @@
             "match_name": "Thunder Cats vs Team TGS",
             "match_id": 115703,
             "startTime": "11:00:00 PM 08-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Thar Defenders vs Royal Gladiators (SPL T12)",
+            "src": "https://images.fancode.com/aig/match/v2/116356_CASACARDS_APP.png",
+            "team_1": "Thar Defenders",
+            "team_2": "Royal Gladiators",
+            "status": "UPCOMING",
+            "event_name": "SPL T12",
+            "match_name": "Thar Defenders vs Royal Gladiators",
+            "match_id": 116356,
+            "startTime": "02:00:00 PM 08-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -66,18 +92,6 @@
             "match_name": "Wellington Firebirds vs Central Stags",
             "match_id": 114480,
             "startTime": "08:55:00 AM 09-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (SPL T12)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "SPL T12",
-            "match_name": "TBC vs TBC",
-            "match_id": 116356,
-            "startTime": "02:00:00 PM 08-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +152,6 @@
             "match_name": "Tottenham Hotspur vs Liverpool",
             "match_id": 116000,
             "startTime": "01:30:00 AM 09-01-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Perth Glory (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110956_4567_SYD_PG_fc-web_1728983128933.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "event_name": "A League 2024-25",
-            "match_name": "Sydney FC vs Perth Glory",
-            "match_id": 110956,
-            "startTime": "01:30:00 PM 08-01-2025"
         }
     ]
 }
