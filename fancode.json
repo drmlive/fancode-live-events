@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:47:12 AM 10-01-2025",
+    "last update time": "02:57:18 AM 10-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "10:30:00 PM 09-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/3SZXz_1GT9C7mcdL2ULXWA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116625_english_hls_6036ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Panathinaikos OPAP Athens vs Partizan NIS Belgrade (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/115596_CASACARDS_APP.png",
-            "team_1": "Panathinaikos OPAP Athens",
-            "team_2": "Partizan NIS Belgrade",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Panathinaikos OPAP Athens vs Partizan NIS Belgrade",
-            "match_id": 115596,
-            "startTime": "12:45:00 AM 10-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/saoapttyT_uRBxJYxh1ttQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115596_english_hls_5129ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -121,18 +107,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pondicherry South XI vs Karaikal XI (CAP Masters T10 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
-            "team_1": "Pondicherry South XI",
-            "team_2": "Karaikal XI",
-            "status": "UPCOMING",
-            "event_name": "CAP Masters T10 Tournament, 2025",
-            "match_name": "Pondicherry South XI vs Karaikal XI",
-            "match_id": 116231,
-            "startTime": "10:00:00 AM 10-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Middlesex United Stars vs Surrey Kings (Jamaica T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/116298_4745_UNS_SKI_fc-Web.jpg",
             "team_1": "Middlesex United Stars",
@@ -145,6 +119,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Pondicherry South XI vs Karaikal XI (CAP Masters T10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
+            "team_1": "Pondicherry South XI",
+            "team_2": "Karaikal XI",
+            "status": "UPCOMING",
+            "event_name": "CAP Masters T10 Tournament, 2025",
+            "match_name": "Pondicherry South XI vs Karaikal XI",
+            "match_id": 116231,
+            "startTime": "10:00:00 AM 10-01-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Pondicherry North XI vs Yanam XI (CAP Masters T10 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",
             "team_1": "Pondicherry North XI",
@@ -154,6 +140,18 @@
             "match_name": "Pondicherry North XI vs Yanam XI",
             "match_id": 116230,
             "startTime": "12:30:00 PM 10-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pondicherry West XI vs Mahe XI (CAP Masters T10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-3.png",
+            "team_1": "Pondicherry West XI",
+            "team_2": "Mahe XI",
+            "status": "UPCOMING",
+            "event_name": "CAP Masters T10 Tournament, 2025",
+            "match_name": "Pondicherry West XI vs Mahe XI",
+            "match_id": 116232,
+            "startTime": "03:00:00 PM 10-01-2025"
         }
     ]
 }
