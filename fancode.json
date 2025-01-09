@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:36:44 PM 09-01-2025",
+    "last update time": "12:46:50 PM 09-01-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Fortune Barishal vs Rangpur Riders (Bangladesh Premier League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113360_4644_FBA_RAN_fc-web.jpg",
+            "team_1": "Fortune Barishal",
+            "team_2": "Rangpur Riders",
+            "status": "LIVE",
+            "event_name": "Bangladesh Premier League, 2024-25",
+            "match_name": "Fortune Barishal vs Rangpur Riders",
+            "match_id": 113360,
+            "startTime": "01:00:00 PM 09-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/A6dRx9RVROOkkbFRTt6i2Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/113360_english_hls_6031ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Pondicherry North XI vs Pondicherry South XI (CAP Masters T10 Tournament, 2025)",
@@ -16,32 +30,6 @@
             "startTime": "12:30:00 PM 09-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/r738SR6OSwegmCLL_9P0jA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116227_english_hls_5693ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Karpagam Raiders vs Kurukshetra Warriors (Yuva Kabaddi Series Edition 11 - Division Rounds)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114831_4687_KRS_KWS_fc-web.jpg",
-            "team_1": "Karpagam Raiders",
-            "team_2": "Kurukshetra Warriors",
-            "status": "LIVE",
-            "event_name": "Yuva Kabaddi Series Edition 11 - Division Rounds",
-            "match_name": "Karpagam Raiders vs Kurukshetra Warriors",
-            "match_id": 114831,
-            "startTime": "11:30:00 AM 09-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/JfXS402aSRa2K2niZ_K5kw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114831_english_hls_5328ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fortune Barishal vs Rangpur Riders (Bangladesh Premier League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113360_4644_FBA_RAN_fc-web.jpg",
-            "team_1": "Fortune Barishal",
-            "team_2": "Rangpur Riders",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2024-25",
-            "match_name": "Fortune Barishal vs Rangpur Riders",
-            "match_id": 113360,
-            "startTime": "01:00:00 PM 09-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +138,18 @@
             "match_name": "Karavali United vs MEC Study Group",
             "match_id": 115704,
             "startTime": "10:00:00 PM 09-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pelicans vs Settlers (Barbados T10, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115754_4722_PEL_SET_fc-web.jpg",
+            "team_1": "Pelicans",
+            "team_2": "Settlers",
+            "status": "UPCOMING",
+            "event_name": "Barbados T10, 2024-25",
+            "match_name": "Pelicans vs Settlers",
+            "match_id": 115754,
+            "startTime": "12:00:00 AM 10-01-2025"
         }
     ]
 }
