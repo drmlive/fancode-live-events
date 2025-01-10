@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:09:33 PM 10-01-2025",
+    "last update time": "11:19:39 PM 10-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "10:00:00 PM 10-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/z5Q-CbqhQEedkkbieRgfUA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116297_english_hls_5183ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Super Lanka vs YSSC (KCC T20 Challengers B League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115708_4721_SUL_YSS_fc-web.jpg",
-            "team_1": "Super Lanka",
-            "team_2": "YSSC",
-            "status": "LIVE",
-            "event_name": "KCC T20 Challengers B League, 2024-25",
-            "match_name": "Super Lanka vs YSSC",
-            "match_id": 115708,
-            "startTime": "08:00:00 PM 10-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/3XEf5jgWRa-9ruWyOFAP2Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115708_english_hls_5276ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -58,6 +44,20 @@
             "startTime": "10:30:00 PM 10-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ZkLA_XAQTJSDH8CJEy-usA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116626_english_hls_6293ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Zalgiris Kaunas vs Real Madrid (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/115597_CASACARDS_APP.png",
+            "team_1": "Zalgiris Kaunas",
+            "team_2": "Real Madrid",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Zalgiris Kaunas vs Real Madrid",
+            "match_id": 115597,
+            "startTime": "11:30:00 PM 10-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/oTJRFGDeTFyiSc8b9EW51g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115597_english_hls_4982ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -97,6 +97,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Team TGS vs Global Champs (KCC T20 Challengers B League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115709_4721_TGS_GC_fc-web.jpg",
+            "team_1": "Team TGS",
+            "team_2": "Global Champs",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers B League, 2024-25",
+            "match_name": "Team TGS vs Global Champs",
+            "match_id": 115709,
+            "startTime": "12:15:00 AM 11-01-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Dubai Capitals vs MI Emirates (DP World International League T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115952_4730_DC_MIE_fc-web.jpg",
             "team_1": "Dubai Capitals",
@@ -130,30 +142,6 @@
             "match_name": "Yanam XI vs Mahe XI",
             "match_id": 116234,
             "startTime": "12:30:00 PM 11-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Middlesex Titans vs Surrey Risers (Jamaica T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116299_4745_MIT_SRI_fc-Web.jpg",
-            "team_1": "Middlesex Titans",
-            "team_2": "Surrey Risers",
-            "status": "UPCOMING",
-            "event_name": "Jamaica T10, 2025",
-            "match_name": "Middlesex Titans vs Surrey Risers",
-            "match_id": 116299,
-            "startTime": "10:00:00 PM 11-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pondicherry North XI vs Karaikal XI (CAP Masters T10 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",
-            "team_1": "Pondicherry North XI",
-            "team_2": "Karaikal XI",
-            "status": "UPCOMING",
-            "event_name": "CAP Masters T10 Tournament, 2025",
-            "match_name": "Pondicherry North XI vs Karaikal XI",
-            "match_id": 116233,
-            "startTime": "03:00:00 PM 11-01-2025"
         }
     ]
 }
