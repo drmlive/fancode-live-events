@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:21:21 AM 11-01-2025",
+    "last update time": "02:31:26 AM 11-01-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Guardians vs Titans (Barbados T10, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115756_4722_TIT_GUA_fc-web.jpg",
-            "team_1": "Guardians",
-            "team_2": "Titans",
-            "status": "LIVE",
-            "event_name": "Barbados T10, 2024-25",
-            "match_name": "Guardians vs Titans",
-            "match_id": 115756,
-            "startTime": "12:00:00 AM 11-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/zJqdZh5HRFyWzGr854Pyjg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115756_english_hls_5714ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Global Champs vs Team TGS (KCC T20 Challengers B League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115709_4721_TGS_GC_fc-web.jpg",
-            "team_1": "Global Champs",
-            "team_2": "Team TGS",
-            "status": "LIVE",
-            "event_name": "KCC T20 Challengers B League, 2024-25",
-            "match_name": "Global Champs vs Team TGS",
-            "match_id": 115709,
-            "startTime": "12:15:00 AM 11-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/2SJ5S4zYTNaY6iUE9PAedA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115709_english_hls_5234ta-di/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Feed - Day 2 vs Hawaii (Sony Open in Hawaii)",
@@ -140,6 +112,42 @@
             "match_name": "Walsall vs Tranmere Rovers",
             "match_id": 116577,
             "startTime": "06:00:00 PM 11-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Barbados T10, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Barbados T10, 2024-25",
+            "match_name": "TBC vs TBC",
+            "match_id": 115757,
+            "startTime": "07:00:00 PM 11-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Central Hinds vs Otago Sparks (Dream11 Women's Super Smash, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114514_4677_CH-W_OS-W_fc-web.jpg",
+            "team_1": "Central Hinds",
+            "team_2": "Otago Sparks",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Women's Super Smash, 2024-25",
+            "match_name": "Central Hinds vs Otago Sparks",
+            "match_id": 114514,
+            "startTime": "05:10:00 AM 12-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Al-Rashed Shipping Co vs Lexus CC (KCC T20 Challengers B League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115710_4721_ARI_LEX_fc-web.jpg",
+            "team_1": "Al-Rashed Shipping Co",
+            "team_2": "Lexus CC",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers B League, 2024-25",
+            "match_name": "Al-Rashed Shipping Co vs Lexus CC",
+            "match_id": 115710,
+            "startTime": "11:00:00 PM 11-01-2025"
         }
     ]
 }
