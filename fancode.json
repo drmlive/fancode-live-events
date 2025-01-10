@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:36:38 PM 10-01-2025",
+    "last update time": "06:46:45 PM 10-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "04:00:00 PM 10-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_YgzvAX7TrGLYSKeTMBFZA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115707_english_hls_5657ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Abu Dhabi Golf Resort (Team Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Team-Cup-Old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "Abu Dhabi Golf Resort",
-            "status": "LIVE",
-            "event_name": "Team Cup",
-            "match_name": "Day 1",
-            "match_id": 116629,
-            "startTime": "12:30:00 PM 10-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/j_K4s-NlRU2mUTZLsSgYoA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116629_english_hls_8449ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Team TGS vs Global Champs",
             "match_id": 115709,
             "startTime": "12:15:00 AM 11-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pondicherry North XI vs Karaikal XI (CAP Masters T10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",
+            "team_1": "Pondicherry North XI",
+            "team_2": "Karaikal XI",
+            "status": "UPCOMING",
+            "event_name": "CAP Masters T10 Tournament, 2025",
+            "match_name": "Pondicherry North XI vs Karaikal XI",
+            "match_id": 116233,
+            "startTime": "03:00:00 PM 11-01-2025"
         }
     ]
 }
