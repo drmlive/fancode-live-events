@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:05:08 AM 11-01-2025",
+    "last update time": "09:15:13 AM 11-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "06:30:00 AM 11-01-2025",
             "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/SLVSNZ/master.m3u8?hdnea=exp=1736574365~acl=*~id=155678448410001965141736524365289~hmac=793192a6a42c14de1ba4511d3743b97dd60d18c86d6cb12573d0ce25a4125263",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/SLVSNZ/master.m3u8?hdnea=exp=1736574365~acl=*~id=155678448410001965141736524365289~hmac=793192a6a42c14de1ba4511d3743b97dd60d18c86d6cb12573d0ce25a4125263"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Feed - Day 2 vs Hawaii (Sony Open in Hawaii)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-in-Hawaii_Old.jpg",
-            "team_1": "Featured Feed - Day 2",
-            "team_2": "Hawaii",
-            "status": "LIVE",
-            "event_name": "Sony Open in Hawaii",
-            "match_name": "Featured Feed - Day 2",
-            "match_id": 116626,
-            "startTime": "10:30:00 PM 10-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ZkLA_XAQTJSDH8CJEy-usA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116626_english_hls_6293ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -97,13 +83,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pondicherry South XI vs Pondicherry West XI (CAP Masters T10 Tournament, 2025)",
+            "title": "Pondicherry West XI vs Pondicherry South XI (CAP Masters T10 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-3.png",
-            "team_1": "Pondicherry South XI",
-            "team_2": "Pondicherry West XI",
+            "team_1": "Pondicherry West XI",
+            "team_2": "Pondicherry South XI",
             "status": "UPCOMING",
             "event_name": "CAP Masters T10 Tournament, 2025",
-            "match_name": "Pondicherry South XI vs Pondicherry West XI",
+            "match_name": "Pondicherry West XI vs Pondicherry South XI",
             "match_id": 116235,
             "startTime": "10:00:00 AM 11-01-2025"
         },
@@ -154,6 +140,18 @@
             "match_name": "Central Stags vs Otago Volts",
             "match_id": 114482,
             "startTime": "08:55:00 AM 12-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ACT Meteors vs Victoria Women (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109399_4508_ACTM_VCTW_fc-web.jpg",
+            "team_1": "ACT Meteors",
+            "team_2": "Victoria Women",
+            "status": "UPCOMING",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "ACT Meteors vs Victoria Women",
+            "match_id": 109399,
+            "startTime": "04:30:00 AM 12-01-2025"
         }
     ]
 }
