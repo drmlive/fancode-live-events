@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:26:25 AM 11-01-2025",
+    "last update time": "11:36:30 AM 11-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "10:00:00 AM 11-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/N7FqUMZrSsm1Q68uADrluw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116235_english_hls_5379ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Wellington Phoenix vs Adelaide United (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110964_4567_WEL_ADL_fc-web_1728983128664.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Adelaide United",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Wellington Phoenix vs Adelaide United",
-            "match_id": 110964,
-            "startTime": "09:30:00 AM 11-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/bQmAOkFESCmPDWCugSnKDA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110964_english_hls_4745ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -111,6 +97,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Yanam XI vs Mahe XI (CAP Masters T10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
+            "team_1": "Yanam XI",
+            "team_2": "Mahe XI",
+            "status": "UPCOMING",
+            "event_name": "CAP Masters T10 Tournament, 2025",
+            "match_name": "Yanam XI vs Mahe XI",
+            "match_id": 116234,
+            "startTime": "12:30:00 PM 11-01-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Central Hinds vs Otago Sparks (Dream11 Women's Super Smash, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114514_4677_CH-W_OS-W_fc-web.jpg",
             "team_1": "Central Hinds",
@@ -123,15 +121,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Yanam XI vs Mahe XI (CAP Masters T10 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
-            "team_1": "Yanam XI",
-            "team_2": "Mahe XI",
+            "title": "Central Stags vs Otago Volts (Dream11 Super Smash, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114482_4676_CS_OV_fc-Web_1735207965260.jpg",
+            "team_1": "Central Stags",
+            "team_2": "Otago Volts",
             "status": "UPCOMING",
-            "event_name": "CAP Masters T10 Tournament, 2025",
-            "match_name": "Yanam XI vs Mahe XI",
-            "match_id": 116234,
-            "startTime": "12:30:00 PM 11-01-2025"
+            "event_name": "Dream11 Super Smash, 2024-25",
+            "match_name": "Central Stags vs Otago Volts",
+            "match_id": 114482,
+            "startTime": "08:55:00 AM 12-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -147,15 +145,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Central Stags vs Otago Volts (Dream11 Super Smash, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114482_4676_CS_OV_fc-Web_1735207965260.jpg",
-            "team_1": "Central Stags",
-            "team_2": "Otago Volts",
+            "title": "ACT Meteors vs Victoria Women (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109399_4508_ACTM_VCTW_fc-web.jpg",
+            "team_1": "ACT Meteors",
+            "team_2": "Victoria Women",
             "status": "UPCOMING",
-            "event_name": "Dream11 Super Smash, 2024-25",
-            "match_name": "Central Stags vs Otago Volts",
-            "match_id": 114482,
-            "startTime": "08:55:00 AM 12-01-2025"
+            "event_name": "WNCL, 2024-25",
+            "match_name": "ACT Meteors vs Victoria Women",
+            "match_id": 109399,
+            "startTime": "04:30:00 AM 12-01-2025"
         }
     ]
 }
