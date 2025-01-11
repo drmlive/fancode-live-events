@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:40:41 PM 11-01-2025",
+    "last update time": "06:50:46 PM 11-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,34 +28,6 @@
             "startTime": "06:00:00 PM 11-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/QBgPURypTM6-4q74T57o1g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116577_english_hls_4828ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 2 vs Abu Dhabi Golf Resort (Team Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Team-Cup-Old-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "Abu Dhabi Golf Resort",
-            "status": "LIVE",
-            "event_name": "Team Cup",
-            "match_name": "Day 2",
-            "match_id": 116630,
-            "startTime": "09:00:00 AM 11-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/WaLJC6_pT6mT3rh9D7i-HQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116630_english_hls_4945ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Perth Glory vs Auckland (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110967_4567_PG_AFC_fc-web_1728983129976.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Perth Glory vs Auckland",
-            "match_id": 110967,
-            "startTime": "04:15:00 PM 11-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/c2AZMEQaSMONw40-DLt_HA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110967_english_hls_4760ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +124,30 @@
             "match_name": "ACT Meteors vs Victoria Women",
             "match_id": 109399,
             "startTime": "04:30:00 AM 12-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland Fire vs Tasmania Women (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109400_4508_QLF_TASW_fc-web.jpg",
+            "team_1": "Queensland Fire",
+            "team_2": "Tasmania Women",
+            "status": "UPCOMING",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "Queensland Fire vs Tasmania Women",
+            "match_id": 109400,
+            "startTime": "05:00:00 AM 12-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia Women vs New South Wales Breakers (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109401_4508_WA-W_NSWB_fc-web.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "New South Wales Breakers",
+            "status": "UPCOMING",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "Western Australia Women vs New South Wales Breakers",
+            "match_id": 109401,
+            "startTime": "07:30:00 AM 12-01-2025"
         }
     ]
 }
