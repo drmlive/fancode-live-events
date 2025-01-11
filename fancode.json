@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:55:03 AM 11-01-2025",
+    "last update time": "09:05:08 AM 11-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Day 2 vs Hawaii (Sony Open in Hawaii)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-in-Hawaii_Old.jpg",
-            "team_1": "Day 2",
-            "team_2": "Hawaii",
-            "status": "LIVE",
-            "event_name": "Sony Open in Hawaii",
-            "match_name": "Day 2",
-            "match_id": 116621,
-            "startTime": "05:30:00 AM 11-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-LVTlBEyTf6s7TXq2WdByA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116621_english_hls_4947ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "Day 2 vs Abu Dhabi Golf Resort (Team Cup)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Team-Cup-Old-match-card.png",
             "team_1": "Day 2",
@@ -58,6 +44,20 @@
             "startTime": "09:00:00 AM 11-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/WaLJC6_pT6mT3rh9D7i-HQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116630_english_hls_4945ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Adelaide United (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110964_4567_WEL_ADL_fc-web_1728983128664.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Adelaide United",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Wellington Phoenix vs Adelaide United",
+            "match_id": 110964,
+            "startTime": "09:30:00 AM 11-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/bQmAOkFESCmPDWCugSnKDA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110964_english_hls_4745ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -97,18 +97,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Central Hinds vs Otago Sparks (Dream11 Women's Super Smash, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114514_4677_CH-W_OS-W_fc-web.jpg",
-            "team_1": "Central Hinds",
-            "team_2": "Otago Sparks",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Women's Super Smash, 2024-25",
-            "match_name": "Central Hinds vs Otago Sparks",
-            "match_id": 114514,
-            "startTime": "05:10:00 AM 12-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Pondicherry South XI vs Pondicherry West XI (CAP Masters T10 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-3.png",
             "team_1": "Pondicherry South XI",
@@ -118,6 +106,18 @@
             "match_name": "Pondicherry South XI vs Pondicherry West XI",
             "match_id": 116235,
             "startTime": "10:00:00 AM 11-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Central Hinds vs Otago Sparks (Dream11 Women's Super Smash, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114514_4677_CH-W_OS-W_fc-web.jpg",
+            "team_1": "Central Hinds",
+            "team_2": "Otago Sparks",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Women's Super Smash, 2024-25",
+            "match_name": "Central Hinds vs Otago Sparks",
+            "match_id": 114514,
+            "startTime": "05:10:00 AM 12-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -144,16 +144,16 @@
             "startTime": "03:00:00 PM 11-01-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Wellington Phoenix vs Adelaide United (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110964_4567_WEL_ADL_fc-web_1728983128664.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Adelaide United",
+            "event_category": "Cricket",
+            "title": "Central Stags vs Otago Volts (Dream11 Super Smash, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114482_4676_CS_OV_fc-Web_1735207965260.jpg",
+            "team_1": "Central Stags",
+            "team_2": "Otago Volts",
             "status": "UPCOMING",
-            "event_name": "A League 2024-25",
-            "match_name": "Wellington Phoenix vs Adelaide United",
-            "match_id": 110964,
-            "startTime": "09:30:00 AM 11-01-2025"
+            "event_name": "Dream11 Super Smash, 2024-25",
+            "match_name": "Central Stags vs Otago Volts",
+            "match_id": 114482,
+            "startTime": "08:55:00 AM 12-01-2025"
         }
     ]
 }
