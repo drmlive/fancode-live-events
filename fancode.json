@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:27:04 AM 12-01-2025",
+    "last update time": "02:37:09 AM 12-01-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Titans vs Warriors (Barbados T10, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115749_4722_WAR_TIT_fc-web.jpg",
-            "team_1": "Titans",
-            "team_2": "Warriors",
-            "status": "LIVE",
-            "event_name": "Barbados T10, 2024-25",
-            "match_name": "Titans vs Warriors",
-            "match_id": 115758,
-            "startTime": "12:00:00 AM 12-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/y58xdRRBRiiWgM6hGuwabQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115758_english_hls_5733ta-di/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Feed - Day 3 vs Hawaii (Sony Open in Hawaii)",
@@ -140,6 +126,30 @@
             "match_name": "Middlesex United Stars vs Middlesex Titans",
             "match_id": 116301,
             "startTime": "09:30:00 PM 12-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ACT Meteors vs Victoria Women (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109399_4508_ACTM_VCTW_fc-web.jpg",
+            "team_1": "ACT Meteors",
+            "team_2": "Victoria Women",
+            "status": "UPCOMING",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "ACT Meteors vs Victoria Women",
+            "match_id": 109399,
+            "startTime": "04:30:00 AM 12-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland Fire vs Tasmania Women (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109400_4508_QLF_TASW_fc-web.jpg",
+            "team_1": "Queensland Fire",
+            "team_2": "Tasmania Women",
+            "status": "UPCOMING",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "Queensland Fire vs Tasmania Women",
+            "match_id": 109400,
+            "startTime": "05:00:00 AM 12-01-2025"
         }
     ]
 }
