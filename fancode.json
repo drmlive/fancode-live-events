@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:37:40 PM 11-01-2025",
+    "last update time": "01:47:46 PM 11-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "02:05:00 PM 11-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/TuRTDxNhSVOxajaiJlsvow/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110966_english_hls_4683ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne City vs Brisbane Roar (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110965_4567_MLC_BRB_fc-web_1728983128718.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Brisbane Roar",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Melbourne City vs Brisbane Roar",
-            "match_id": 110965,
-            "startTime": "11:30:00 AM 11-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/DdDGQ77VTrOPV8iqI37zBA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110965_english_hls_4844ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,6 +128,18 @@
             "match_name": "ACT Meteors vs Victoria Women",
             "match_id": 109399,
             "startTime": "04:30:00 AM 12-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland Fire vs Tasmania Women (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109400_4508_QLF_TASW_fc-web.jpg",
+            "team_1": "Queensland Fire",
+            "team_2": "Tasmania Women",
+            "status": "UPCOMING",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "Queensland Fire vs Tasmania Women",
+            "match_id": 109400,
+            "startTime": "05:00:00 AM 12-01-2025"
         }
     ]
 }
