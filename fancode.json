@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:12:29 PM 12-01-2025",
+    "last update time": "12:22:34 PM 12-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,6 +56,20 @@
             "startTime": "10:00:00 AM 12-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ATDxG8weTSSCuhNpiCs4Zg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116747_english_hls_9001ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mahe XI vs Pondicherry North XI (CAP Masters T10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-1.png",
+            "team_1": "Mahe XI",
+            "team_2": "Pondicherry North XI",
+            "status": "LIVE",
+            "event_name": "CAP Masters T10 Tournament, 2025",
+            "match_name": "Mahe XI vs Pondicherry North XI",
+            "match_id": 116236,
+            "startTime": "12:30:00 PM 12-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HctsrRJiTZqCbo6f9kF73A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116236_english_hls_5273ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -144,18 +158,6 @@
             "match_name": "Middlesex United Stars vs Middlesex Titans",
             "match_id": 116301,
             "startTime": "09:30:00 PM 12-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Surrey Royals vs Surrey Risers (Jamaica T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116302_4745_SRO_SRI_fc-Web.jpg",
-            "team_1": "Surrey Royals",
-            "team_2": "Surrey Risers",
-            "status": "UPCOMING",
-            "event_name": "Jamaica T10, 2025",
-            "match_name": "Surrey Royals vs Surrey Risers",
-            "match_id": 116302,
-            "startTime": "12:00:00 AM 13-01-2025"
         }
     ]
 }
