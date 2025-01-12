@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:05:44 PM 12-01-2025",
+    "last update time": "06:15:49 PM 12-01-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi Knight Riders vs Desert Vipers (DP World International League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115953_4730_ADKR_DV_fc-web.jpg",
-            "team_1": "Abu Dhabi Knight Riders",
-            "team_2": "Desert Vipers",
-            "status": "LIVE",
-            "event_name": "DP World International League T20, 2025",
-            "match_name": "Abu Dhabi Knight Riders vs Desert Vipers",
-            "match_id": 115953,
-            "startTime": "03:30:00 PM 12-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/TFqwX8-wRyagoTqjvXsqZA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115953_english_hls_5068ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Muscat Thunders vs Majees Titans (Oman D50 League, 2025)",
@@ -33,6 +19,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Abu Dhabi Knight Riders vs Desert Vipers (DP World International League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115953_4730_ADKR_DV_fc-web.jpg",
+            "team_1": "Abu Dhabi Knight Riders",
+            "team_2": "Desert Vipers",
+            "status": "LIVE",
+            "event_name": "DP World International League T20, 2025",
+            "match_name": "Abu Dhabi Knight Riders vs Desert Vipers",
+            "match_id": 115953,
+            "startTime": "03:30:00 PM 12-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/TFqwX8-wRyagoTqjvXsqZA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115953_english_hls_5068ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Dhaka Capitals vs Durbar Rajshahi (Bangladesh Premier League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113365_4644_DBR_DC_fc-web.jpg",
             "team_1": "Dhaka Capitals",
@@ -44,20 +44,6 @@
             "startTime": "06:00:00 PM 12-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/OSlNnd4jQzianBJNURJt2Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113365_english_hls_4687ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3 vs Abu Dhabi Golf Resort (Team Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Team-Cup-Old-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "Abu Dhabi Golf Resort",
-            "status": "LIVE",
-            "event_name": "Team Cup",
-            "match_name": "Day 3",
-            "match_id": 116631,
-            "startTime": "12:00:00 PM 12-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/FehuskAxREK-eKdhkCgQgg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116631_english_hls_5648ta-no/index.m3u8"
         },
         {
             "event_category": "Hockey",
@@ -156,6 +142,18 @@
             "match_name": "Royal Oman Stallions vs IAS Invincibles",
             "match_id": 116761,
             "startTime": "03:30:00 PM 13-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Barcelona vs Real Madrid (Supercopa de Espana)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercopa-de-Espana,-final-old-match-card-1.png",
+            "team_1": "Barcelona",
+            "team_2": "Real Madrid",
+            "status": "UPCOMING",
+            "event_name": "Supercopa de Espana",
+            "match_name": "Barcelona vs Real Madrid",
+            "match_id": 116005,
+            "startTime": "12:30:00 AM 13-01-2025"
         }
     ]
 }
