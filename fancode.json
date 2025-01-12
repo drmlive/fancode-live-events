@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:19:16 PM 12-01-2025",
+    "last update time": "11:29:23 PM 12-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "03:30:00 PM 12-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/BvUMQujMSWKj-oOOXsQWaQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116760_english_hls_8801ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Barcelona vs Real Madrid (Supercopa de Espana)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercopa-de-Espana,-final-old-match-card-1.png",
+            "team_1": "Barcelona",
+            "team_2": "Real Madrid",
+            "status": "LIVE",
+            "event_name": "Supercopa de Espana",
+            "match_name": "Barcelona vs Real Madrid",
+            "match_id": 116005,
+            "startTime": "12:30:00 AM 13-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/J7FeIMeNTaKq5J-wjZxXEQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116005_english_hls_5555ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -146,18 +160,6 @@
             "match_name": "Rangpur Riders vs Khulna Tigers",
             "match_id": 113367,
             "startTime": "06:00:00 PM 13-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "MI Emirates vs Dubai Capitals (DP World International League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115955_4730_MIE_DC_fc-web.jpg",
-            "team_1": "MI Emirates",
-            "team_2": "Dubai Capitals",
-            "status": "UPCOMING",
-            "event_name": "DP World International League T20, 2025",
-            "match_name": "MI Emirates vs Dubai Capitals",
-            "match_id": 115955,
-            "startTime": "08:00:00 PM 13-01-2025"
         }
     ]
 }
