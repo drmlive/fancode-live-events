@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:51:43 AM 12-01-2025",
+    "last update time": "11:01:50 AM 12-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/116747_english_hls_9001ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Macarthur (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110968_4567_NJ_MAC_fc-web_1728983128422.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Macarthur",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Newcastle Jets vs Macarthur",
+            "match_id": 110968,
+            "startTime": "11:30:00 AM 12-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/dJZSFMTqQ_63iT0-VIPzrA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110968_english_hls_5285ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Khulna Tigers vs Sylhet Strikers (Bangladesh Premier League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113364_4644_KHT_SYL_fc-web.jpg",
@@ -146,18 +160,6 @@
             "match_name": "Gulf Giants vs Sharjah Warriorz",
             "match_id": 115954,
             "startTime": "07:30:00 PM 12-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Middlesex United Stars vs Middlesex Titans (Jamaica T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116301_4745_UNS_MIT_fc-Web.jpg",
-            "team_1": "Middlesex United Stars",
-            "team_2": "Middlesex Titans",
-            "status": "UPCOMING",
-            "event_name": "Jamaica T10, 2025",
-            "match_name": "Middlesex United Stars vs Middlesex Titans",
-            "match_id": 116301,
-            "startTime": "09:30:00 PM 12-01-2025"
         }
     ]
 }
