@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:52:06 AM 13-01-2025",
+    "last update time": "04:02:11 AM 13-01-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -30,20 +30,6 @@
             "startTime": "02:30:00 AM 13-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/QW54x3_kQuqeMbxjqw1JVg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116623_english_hls_4817ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Barcelona vs Real Madrid (Supercopa de Espana)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Supercopa-de-Espana,-final-old-match-card-1.png",
-            "team_1": "Barcelona",
-            "team_2": "Real Madrid",
-            "status": "LIVE",
-            "event_name": "Supercopa de Espana",
-            "match_name": "Barcelona vs Real Madrid",
-            "match_id": 116005,
-            "startTime": "12:30:00 AM 13-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/J7FeIMeNTaKq5J-wjZxXEQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116005_english_hls_5555ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Yanam XI vs Karaikal XI",
             "match_id": 116241,
             "startTime": "10:00:00 AM 13-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pondicherry South XI vs Mahe XI (CAP Masters T10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
+            "team_1": "Pondicherry South XI",
+            "team_2": "Mahe XI",
+            "status": "UPCOMING",
+            "event_name": "CAP Masters T10 Tournament, 2025",
+            "match_name": "Pondicherry South XI vs Mahe XI",
+            "match_id": 116240,
+            "startTime": "12:30:00 PM 13-01-2025"
         }
     ]
 }
