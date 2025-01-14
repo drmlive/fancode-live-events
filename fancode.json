@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:39:12 PM 14-01-2025",
+    "last update time": "03:50:57 PM 14-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -70,6 +70,20 @@
             "startTime": "01:15:00 PM 14-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Ar4rjYpLSiW_ws-DI2pP2A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116777_english_hls_5462ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory vs Western Sydney Wanderers (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110969_4567_PG_SYW_fc-web_1728983127792.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Western Sydney Wanderers",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Perth Glory vs Western Sydney Wanderers",
+            "match_id": 110969,
+            "startTime": "04:15:00 PM 14-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/vPQzR_69RHWoyH0DkpwkxQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110969_english_hls_5437ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +156,6 @@
             "match_name": "Ourense CF vs Valencia CF",
             "match_id": 116841,
             "startTime": "01:30:00 AM 15-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan PD vs England PD (PD Champions Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116751_4758_PAK_ENG_fc-web.jpg",
-            "team_1": "Pakistan PD",
-            "team_2": "England PD",
-            "status": "UPCOMING",
-            "event_name": "PD Champions Trophy",
-            "match_name": "Pakistan PD vs England PD",
-            "match_id": 116751,
-            "startTime": "09:00:00 AM 15-01-2025"
         }
     ]
 }
