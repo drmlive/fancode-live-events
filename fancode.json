@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:35:56 AM 15-01-2025",
+    "last update time": "12:46:01 AM 15-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "11:00:00 PM 14-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ktgfL57dRU2AGaE5xce9dw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115713_english_hls_5496ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Paris vs Anadolu Efes Istanbul (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/116260_CASACARDS_APP.png",
+            "team_1": "Paris",
+            "team_2": "Anadolu Efes Istanbul",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Paris vs Anadolu Efes Istanbul",
+            "match_id": 116260,
+            "startTime": "01:00:00 AM 15-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/INHlFiJpTmG0Fi2Skqiang/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116260_english_hls_5677ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -126,18 +140,6 @@
             "match_name": "Karaikal XI vs Pondicherry South XI",
             "match_id": 116246,
             "startTime": "12:30:00 PM 15-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "India PD vs Sri Lanka PD (PD Champions Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116752_4758_IND_SL_fc-web.jpg",
-            "team_1": "India PD",
-            "team_2": "Sri Lanka PD",
-            "status": "UPCOMING",
-            "event_name": "PD Champions Trophy",
-            "match_name": "India PD vs Sri Lanka PD",
-            "match_id": 116752,
-            "startTime": "01:00:00 PM 15-01-2025"
         }
     ]
 }
