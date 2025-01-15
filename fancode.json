@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:26:43 AM 16-01-2025",
+    "last update time": "04:36:48 AM 16-01-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "02:00:00 AM 16-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/6fVJjWSQRkiVI5PUtqeUKg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116843_english_hls_6638ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Barcelona vs Panathinaikos OPAP Athens (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/116262_CASACARDS_APP.png",
-            "team_1": "Barcelona",
-            "team_2": "Panathinaikos OPAP Athens",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Barcelona vs Panathinaikos OPAP Athens",
-            "match_id": 116262,
-            "startTime": "01:00:00 AM 16-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ZINmGYE6QESQJ3SeHKC8fg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116262_english_hls_6121ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -128,6 +114,18 @@
             "match_name": "Khulna Tigers vs Chittagong Kings",
             "match_id": 113369,
             "startTime": "06:00:00 PM 16-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Desert Vipers vs MI Emirates (DP World International League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115958_4730_DV_MIE_fc-web.jpg",
+            "team_1": "Desert Vipers",
+            "team_2": "MI Emirates",
+            "status": "UPCOMING",
+            "event_name": "DP World International League T20, 2025",
+            "match_name": "Desert Vipers vs MI Emirates",
+            "match_id": 115958,
+            "startTime": "08:00:00 PM 16-01-2025"
         }
     ]
 }
