@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:12:35 PM 15-01-2025",
+    "last update time": "12:22:40 PM 15-01-2025",
     "matches": [
         {
             "event_category": "Live Events",
@@ -30,6 +30,20 @@
             "startTime": "09:00:00 AM 15-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/PR9dLrRNTOaSBdic4CPY0A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116751_english_hls_8921ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Karaikal XI vs Pondicherry South XI (CAP Masters T10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
+            "team_1": "Karaikal XI",
+            "team_2": "Pondicherry South XI",
+            "status": "LIVE",
+            "event_name": "CAP Masters T10 Tournament, 2025",
+            "match_name": "Karaikal XI vs Pondicherry South XI",
+            "match_id": 116246,
+            "startTime": "12:30:00 PM 15-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/C6NNZ7wgRVaad0C3j8JZOw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116246_english_hls_5140ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -75,20 +89,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Auckland Aces vs Central Stags (Dream11 Super Smash, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114485_4676_AA_CS_fc-Web_1735207964821.jpg",
-            "team_1": "Auckland Aces",
-            "team_2": "Central Stags",
-            "status": "LIVE",
-            "event_name": "Dream11 Super Smash, 2024-25",
-            "match_name": "Auckland Aces vs Central Stags",
-            "match_id": 114485,
-            "startTime": "08:55:00 AM 15-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/T69kxpHlQoWNsvvfLT_bkA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/114485_english_hls_5768ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Abu Dhabi Knight Riders vs Sharjah Warriorz (DP World International League T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115957_4730_ADKR_SWR_fc-web.jpg",
             "team_1": "Abu Dhabi Knight Riders",
@@ -125,18 +125,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Karaikal XI vs Pondicherry South XI (CAP Masters T10 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Masters-T10-old-2.png",
-            "team_1": "Karaikal XI",
-            "team_2": "Pondicherry South XI",
-            "status": "UPCOMING",
-            "event_name": "CAP Masters T10 Tournament, 2025",
-            "match_name": "Karaikal XI vs Pondicherry South XI",
-            "match_id": 116246,
-            "startTime": "12:30:00 PM 15-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "India PD vs Sri Lanka PD (PD Champions Trophy)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/116752_4758_IND_SL_fc-web.jpg",
             "team_1": "India PD",
@@ -158,6 +146,18 @@
             "match_name": "Otago Sparks vs Northern Brave Women",
             "match_id": 114518,
             "startTime": "05:10:00 AM 16-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Otago Volts vs Northern Districts (Dream11 Super Smash, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114486_4676_OV_ND_fc-Web_1735207964893.jpg",
+            "team_1": "Otago Volts",
+            "team_2": "Northern Districts",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Super Smash, 2024-25",
+            "match_name": "Otago Volts vs Northern Districts",
+            "match_id": 114486,
+            "startTime": "08:55:00 AM 16-01-2025"
         }
     ]
 }
