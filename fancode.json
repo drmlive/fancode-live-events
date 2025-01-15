@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:13:35 PM 15-01-2025",
+    "last update time": "11:23:40 PM 15-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,6 +58,20 @@
             "startTime": "11:00:00 PM 15-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Afb-ucCLTJCIp7dWpdD7eA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115714_english_hls_6897ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Zalgiris Kaunas vs Virtus Bologna (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/116261_CASACARDS_APP.png",
+            "team_1": "Zalgiris Kaunas",
+            "team_2": "Virtus Bologna",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Zalgiris Kaunas vs Virtus Bologna",
+            "match_id": 116261,
+            "startTime": "11:30:00 PM 15-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/gKiGS9zDRfu1YaOX7biwAw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116261_english_hls_6038ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +156,6 @@
             "match_name": "Khulna Tigers vs Chittagong Kings",
             "match_id": 113369,
             "startTime": "06:00:00 PM 16-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Desert Vipers vs MI Emirates (DP World International League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115958_4730_DV_MIE_fc-web.jpg",
-            "team_1": "Desert Vipers",
-            "team_2": "MI Emirates",
-            "status": "UPCOMING",
-            "event_name": "DP World International League T20, 2025",
-            "match_name": "Desert Vipers vs MI Emirates",
-            "match_id": 115958,
-            "startTime": "08:00:00 PM 16-01-2025"
         }
     ]
 }
