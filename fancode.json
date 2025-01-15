@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:51:45 AM 15-01-2025",
+    "last update time": "11:01:56 AM 15-01-2025",
     "matches": [
         {
             "event_category": "Live Events",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/116778_english_hls_6751ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Sydney FC (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110970_4567_WEL_SYD_fc-web_1728983127895.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Sydney FC",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Wellington Phoenix vs Sydney FC",
+            "match_id": 110970,
+            "startTime": "11:30:00 AM 15-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/vs49TCUMQB6ckftUVzRsew/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110970_english_hls_5736ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Abu Dhabi Knight Riders vs Sharjah Warriorz (DP World International League T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115957_4730_ADKR_SWR_fc-web.jpg",
@@ -146,18 +160,6 @@
             "match_name": "Karaikal XI vs Pondicherry South XI",
             "match_id": 116246,
             "startTime": "12:30:00 PM 15-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "India PD vs Sri Lanka PD (PD Champions Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116752_4758_IND_SL_fc-web.jpg",
-            "team_1": "India PD",
-            "team_2": "Sri Lanka PD",
-            "status": "UPCOMING",
-            "event_name": "PD Champions Trophy",
-            "match_name": "India PD vs Sri Lanka PD",
-            "match_id": 116752,
-            "startTime": "01:00:00 PM 15-01-2025"
         }
     ]
 }
