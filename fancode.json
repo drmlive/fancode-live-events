@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:20:36 AM 16-01-2025",
+    "last update time": "11:30:41 AM 16-01-2025",
     "matches": [
         {
             "event_category": "Badminton",
@@ -16,6 +16,20 @@
             "startTime": "09:00:00 AM 16-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/GO0HiOC6S7iVBQTt8U-yXw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117044_english_hls_4102ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Badminton",
+            "title": "Round of 16, Court 2 vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_OLD_v1.jpg",
+            "team_1": "Round of 16, Court 2",
+            "team_2": "IGI Sports Complex, New Delhi",
+            "status": "LIVE",
+            "event_name": "Yonex Sunrise India Open, 2025",
+            "match_name": "Round of 16, Court 2",
+            "match_id": 117045,
+            "startTime": "09:00:00 AM 16-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/x1aTBAR_TMea7so3YDmCkQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117045_english_hls_8746ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -75,17 +89,27 @@
         },
         {
             "event_category": "Badminton",
-            "title": "Round of 16, Court 2 vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_OLD_v1.jpg",
-            "team_1": "Round of 16, Court 2",
+            "title": "Court 2 vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg",
+            "team_1": "Court 2",
             "team_2": "IGI Sports Complex, New Delhi",
-            "status": "LIVE",
+            "status": "UPCOMING",
             "event_name": "Yonex Sunrise India Open, 2025",
-            "match_name": "Round of 16, Court 2",
-            "match_id": 117045,
-            "startTime": "09:00:00 AM 16-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/x1aTBAR_TMea7so3YDmCkQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117045_english_hls_8746ta-di/index.m3u8"
+            "match_name": "Court 2",
+            "match_id": 117047,
+            "startTime": "12:00:00 PM 17-01-2025"
+        },
+        {
+            "event_category": "Badminton",
+            "title": "Court 1 vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Live-Event.jpg",
+            "team_1": "Court 1",
+            "team_2": "IGI Sports Complex, New Delhi",
+            "status": "UPCOMING",
+            "event_name": "Yonex Sunrise India Open, 2025",
+            "match_name": "Court 1",
+            "match_id": 117046,
+            "startTime": "12:00:00 PM 17-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -134,30 +158,6 @@
             "match_name": "Middlesex United Stars vs Surrey Royals",
             "match_id": 116309,
             "startTime": "09:30:00 PM 16-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Surrey Risers vs Cornwall Warriors (Jamaica T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116310_4745_SRI_CWA_fc-Web.jpg",
-            "team_1": "Surrey Risers",
-            "team_2": "Cornwall Warriors",
-            "status": "UPCOMING",
-            "event_name": "Jamaica T10, 2025",
-            "match_name": "Surrey Risers vs Cornwall Warriors",
-            "match_id": 116310,
-            "startTime": "12:00:00 AM 17-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Central Hinds vs Canterbury Magicians (Dream11 Women's Super Smash, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114519_4677_CH-W_CM-W_fc-web.jpg",
-            "team_1": "Central Hinds",
-            "team_2": "Canterbury Magicians",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Women's Super Smash, 2024-25",
-            "match_name": "Central Hinds vs Canterbury Magicians",
-            "match_id": 114519,
-            "startTime": "06:40:00 AM 17-01-2025"
         }
     ]
 }
