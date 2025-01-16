@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:16:48 PM 16-01-2025",
+    "last update time": "07:26:54 PM 16-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,20 +32,6 @@
             "adfree_url": "https://dai.fancode.com/primary/117041_english_hls_5693ta-no/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Emirates GC, Dubai, UAE (Hero Dubai Desert Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-Dubai-Desert-Classic-old-Match-card.png",
-            "team_1": "Day 1",
-            "team_2": "Emirates GC, Dubai, UAE",
-            "status": "LIVE",
-            "event_name": "Hero Dubai Desert Classic",
-            "match_name": "Day 1",
-            "match_id": 116850,
-            "startTime": "01:00:00 PM 16-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Uni46ZEiSGSBb7UplbUaHQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116850_english_hls_3754ta-di/index.m3u8"
-        },
-        {
             "event_category": "Badminton",
             "title": "Court 2 vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_OLD_v1.jpg",
@@ -71,13 +57,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Desert Vipers vs MI Emirates (DP World International League T20, 2025)",
+            "title": "MI Emirates vs Desert Vipers (DP World International League T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115958_4730_DV_MIE_fc-web.jpg",
-            "team_1": "Desert Vipers",
-            "team_2": "MI Emirates",
+            "team_1": "MI Emirates",
+            "team_2": "Desert Vipers",
             "status": "UPCOMING",
             "event_name": "DP World International League T20, 2025",
-            "match_name": "Desert Vipers vs MI Emirates",
+            "match_name": "MI Emirates vs Desert Vipers",
             "match_id": 115958,
             "startTime": "08:00:00 PM 16-01-2025"
         },
@@ -152,6 +138,18 @@
             "match_name": "Starboys vs Vishal Brothers",
             "match_id": 117039,
             "startTime": "08:00:00 PM 16-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club vs Osasuna (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Athletic-Club-vs-Osasuna_old_1736834562998.jpg",
+            "team_1": "Athletic Club",
+            "team_2": "Osasuna",
+            "status": "UPCOMING",
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Athletic Club vs Osasuna",
+            "match_id": 116847,
+            "startTime": "12:00:00 AM 17-01-2025"
         }
     ]
 }
