@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:22:50 AM 17-01-2025",
+    "last update time": "05:32:56 AM 17-01-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Feed D - Day 1 vs LA Quinta, CA, USA (The American Express)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_3_1737009689550.jpg",
-            "team_1": "Feed D - Day 1",
-            "team_2": "LA Quinta, CA, USA",
-            "status": "LIVE",
-            "event_name": "The American Express",
-            "match_name": "Feed D - Day 1",
-            "match_id": 116950,
-            "startTime": "10:45:00 PM 16-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/oRCnBnCnSKyeapqgxv-7QQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116950_english_hls_6337ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Feed A - Day 1 vs LA Quinta, CA, USA (The American Express)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/American_Express_golf_2025_Match_Card_Old_matchcard_2_1737009689566.jpg",
-            "team_1": "Feed A - Day 1",
-            "team_2": "LA Quinta, CA, USA",
-            "status": "LIVE",
-            "event_name": "The American Express",
-            "match_name": "Feed A - Day 1",
-            "match_id": 116947,
-            "startTime": "02:30:00 AM 17-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/vOF0g23PQ2CvK9wHftCoxA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116947_english_hls_6033ta-di/index.m3u8"
-        },
         {
             "event_category": "Badminton",
             "title": "Court 2 vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)",
@@ -116,6 +88,18 @@
             "startTime": "08:00:00 PM 17-01-2025"
         },
         {
+            "event_category": "Badminton",
+            "title": "Court 1 vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_OLD_v1.jpg",
+            "team_1": "Court 1",
+            "team_2": "IGI Sports Complex, New Delhi",
+            "status": "UPCOMING",
+            "event_name": "Yonex Sunrise India Open, 2025",
+            "match_name": "Court 1",
+            "match_id": 117048,
+            "startTime": "12:00:00 PM 18-01-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Surrey Kings vs Middlesex Titans (Jamaica T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/116311_4745_SKI_MIT_fc-Web.jpg",
@@ -128,16 +112,40 @@
             "startTime": "09:30:00 PM 17-01-2025"
         },
         {
-            "event_category": "Badminton",
-            "title": "Court 1 vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_OLD_v1.jpg",
-            "team_1": "Court 1",
-            "team_2": "IGI Sports Complex, New Delhi",
+            "event_category": "Cricket",
+            "title": "Cornwall Warriors vs Surrey Royals (Jamaica T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116312_4745_CWA_SRO_fc-Web.jpg",
+            "team_1": "Cornwall Warriors",
+            "team_2": "Surrey Royals",
             "status": "UPCOMING",
-            "event_name": "Yonex Sunrise India Open, 2025",
-            "match_name": "Court 1",
-            "match_id": 117048,
-            "startTime": "12:00:00 PM 18-01-2025"
+            "event_name": "Jamaica T10, 2025",
+            "match_name": "Cornwall Warriors vs Surrey Royals",
+            "match_id": 116312,
+            "startTime": "12:00:00 AM 18-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gauhati Town Club vs Sath Gaon Club (Guwahati Sixes Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117013_4767_GTC_SGC_fc-web.jpg",
+            "team_1": "Gauhati Town Club",
+            "team_2": "Sath Gaon Club",
+            "status": "UPCOMING",
+            "event_name": "Guwahati Sixes Tournament, 2025",
+            "match_name": "Gauhati Town Club vs Sath Gaon Club",
+            "match_id": 117013,
+            "startTime": "08:30:00 AM 17-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Saraighat Hundai vs Corner Kick (Guwahati Sixes Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117014_4767_SGH_CRK_fc-web.jpg",
+            "team_1": "Saraighat Hundai",
+            "team_2": "Corner Kick",
+            "status": "UPCOMING",
+            "event_name": "Guwahati Sixes Tournament, 2025",
+            "match_name": "Saraighat Hundai vs Corner Kick",
+            "match_id": 117014,
+            "startTime": "09:45:00 AM 17-01-2025"
         }
     ]
 }
