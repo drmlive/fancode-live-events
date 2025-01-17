@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:59:22 AM 17-01-2025",
+    "last update time": "11:09:30 AM 17-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "10:30:00 AM 17-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/gfXXH1zqSm2GuZmT5_LZ_A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115717_english_hls_9567ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Western United vs Newcastle Jets (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110977_4567_WST_NJ_fc-web_1728983129984.jpg",
+            "team_1": "Western United",
+            "team_2": "Newcastle Jets",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Western United vs Newcastle Jets",
+            "match_id": 110977,
+            "startTime": "11:30:00 AM 17-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/A_a80IEyS3WYa-qgfgbhjg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110977_english_hls_6610ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -111,11 +125,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117015_4767_CCD_SPS_fc-web.jpg",
             "team_1": "Cricket Club of Dibrugarh",
             "team_2": "Super Striker",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Guwahati Sixes Tournament, 2025",
             "match_name": "Cricket Club of Dibrugarh vs Super Striker",
             "match_id": 117015,
-            "startTime": "11:00:00 AM 17-01-2025"
+            "startTime": "11:00:00 AM 17-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/VgAk6P9IQ8e9VaVkD5Av5Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117015_english_hls_7387ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +156,6 @@
             "match_name": "Otago Sparks vs Wellington Blaze",
             "match_id": 114520,
             "startTime": "03:10:00 AM 18-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Otago Volts vs Wellington Firebirds (Dream11 Super Smash, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114488_4676_OV_WF_fc-Web_1735207965550.jpg",
-            "team_1": "Otago Volts",
-            "team_2": "Wellington Firebirds",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Super Smash, 2024-25",
-            "match_name": "Otago Volts vs Wellington Firebirds",
-            "match_id": 114488,
-            "startTime": "06:55:00 AM 18-01-2025"
         }
     ]
 }
