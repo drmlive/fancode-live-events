@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:38:09 PM 18-01-2025",
+    "last update time": "12:48:17 PM 18-01-2025",
     "matches": [
         {
             "event_category": "Badminton",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "India PD vs England PD (PD Champions Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116755_4758_IND_ENG_fc-web.jpg",
-            "team_1": "India PD",
-            "team_2": "England PD",
-            "status": "LIVE",
-            "event_name": "PD Champions Trophy",
-            "match_name": "India PD vs England PD",
-            "match_id": 116755,
-            "startTime": "09:00:00 AM 18-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ZmOlFI8_SoCD8qZROqyNiw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116755_english_hls_5693ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Saraighat Hundai vs Red River Blue Hill (Guwahati Sixes Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117022_4767_RBH_SGH_fc-web.jpg",
             "team_1": "Saraighat Hundai",
@@ -58,6 +44,20 @@
             "startTime": "12:15:00 PM 18-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/xY-ZZEMPQky3pGPbJr7cyw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117022_english_hls_5999ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan PD vs Sri Lanka PD (PD Champions Trophy)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116756_4758_PAK_SL_fc-web.jpg",
+            "team_1": "Pakistan PD",
+            "team_2": "Sri Lanka PD",
+            "status": "LIVE",
+            "event_name": "PD Champions Trophy",
+            "match_name": "Pakistan PD vs Sri Lanka PD",
+            "match_id": 116756,
+            "startTime": "01:00:00 PM 18-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/N96nA7hCQ266pRrfNK3ERg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116756_english_hls_6261ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -137,18 +137,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pakistan PD vs Sri Lanka PD (PD Champions Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116756_4758_PAK_SL_fc-web.jpg",
-            "team_1": "Pakistan PD",
-            "team_2": "Sri Lanka PD",
-            "status": "UPCOMING",
-            "event_name": "PD Champions Trophy",
-            "match_name": "Pakistan PD vs Sri Lanka PD",
-            "match_id": 116756,
-            "startTime": "01:00:00 PM 18-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Northern Brave Women vs Canterbury Magicians (Dream11 Women's Super Smash, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114521_4677_NB-W_CM-W_fc-web.jpg",
             "team_1": "Northern Brave Women",
@@ -158,6 +146,18 @@
             "match_name": "Northern Brave Women vs Canterbury Magicians",
             "match_id": 114521,
             "startTime": "05:10:00 AM 19-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Northern Districts vs Canterbury (Dream11 Super Smash, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114489_4676_ND_CTB_fc-Web_1735207964925.jpg",
+            "team_1": "Northern Districts",
+            "team_2": "Canterbury",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Super Smash, 2024-25",
+            "match_name": "Northern Districts vs Canterbury",
+            "match_id": 114489,
+            "startTime": "08:55:00 AM 19-01-2025"
         }
     ]
 }
