@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:54:21 AM 18-01-2025",
+    "last update time": "09:04:26 AM 18-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "09:00:00 AM 18-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ZmOlFI8_SoCD8qZROqyNiw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116755_english_hls_5693ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland vs Melbourne City (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110975_4567_AFC_MLC_fc-web_1728983128197.jpg",
+            "team_1": "Auckland",
+            "team_2": "Melbourne City",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Auckland vs Melbourne City",
+            "match_id": 110975,
+            "startTime": "09:30:00 AM 18-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/bBnpPMKBRa2SktBBZD7wYw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110975_english_hls_6106ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "New Star Club vs Gauhati Town Club",
             "match_id": 117021,
             "startTime": "11:00:00 AM 18-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Red River Blue Hill vs Saraighat Hundai (Guwahati Sixes Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117022_4767_RBH_SGH_fc-web.jpg",
-            "team_1": "Red River Blue Hill",
-            "team_2": "Saraighat Hundai",
-            "status": "UPCOMING",
-            "event_name": "Guwahati Sixes Tournament, 2025",
-            "match_name": "Red River Blue Hill vs Saraighat Hundai",
-            "match_id": 117022,
-            "startTime": "12:15:00 PM 18-01-2025"
         }
     ]
 }
