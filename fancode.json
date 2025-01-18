@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:44:50 PM 18-01-2025",
+    "last update time": "05:55:02 PM 18-01-2025",
     "matches": [
         {
             "event_category": "Badminton",
@@ -33,18 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pakistan vs West Indies (West Indies tour of Pakistan, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png",
-            "team_1": "Pakistan",
-            "team_2": "West Indies",
-            "status": "PAUSED",
-            "event_name": "West Indies tour of Pakistan, 2025",
-            "match_name": "Pakistan vs West Indies",
-            "match_id": 116279,
-            "startTime": "10:00:00 AM 17-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Royal Oman Stallions vs Yalla Shabab Giants (Oman D50 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/116765_4759_ROS_YSG_fc-Web.jpg",
             "team_1": "Royal Oman Stallions",
@@ -68,8 +56,8 @@
             "match_name": "Cardiff City vs Swansea City",
             "match_id": 116541,
             "startTime": "06:00:00 PM 18-01-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/kd0zP4BjQEK_gq92LE3LjA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116541_english_hls_5748ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -84,6 +72,18 @@
             "startTime": "12:30:00 PM 18-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/GoOjX3fYSWa3GKwpxOO7Lw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116852_english_hls_5846ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs West Indies (West Indies tour of Pakistan, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png",
+            "team_1": "Pakistan",
+            "team_2": "West Indies",
+            "status": "PAUSED",
+            "event_name": "West Indies tour of Pakistan, 2025",
+            "match_name": "Pakistan vs West Indies",
+            "match_id": 116279,
+            "startTime": "10:00:00 AM 17-01-2025"
         },
         {
             "event_category": "Cricket",
