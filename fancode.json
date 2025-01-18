@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:30:26 PM 18-01-2025",
+    "last update time": "01:40:33 PM 18-01-2025",
     "matches": [
         {
             "event_category": "Badminton",
@@ -46,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/116756_english_hls_6261ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Sydney FC vs Brisbane Roar (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110976_4567_SYD_BRB_fc-web_1728983128321.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Brisbane Roar",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Sydney FC vs Brisbane Roar",
-            "match_id": 110976,
-            "startTime": "11:30:00 AM 18-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/wUSsbetbTZ-IEecS-3F0eQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110976_english_hls_5617ta-no/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 3 vs Emirates GC, Dubai, UAE (Hero Dubai Desert Classic)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-Dubai-Desert-Classic-old-Match-card.png",
@@ -86,6 +72,20 @@
             "startTime": "02:05:00 PM 18-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/dJqLjNOhQ76hLRvwCm1PdA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110978_english_hls_5187ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Brisbane Roar (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110976_4567_SYD_BRB_fc-web_1728983128321.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Brisbane Roar",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Sydney FC vs Brisbane Roar",
+            "match_id": 110976,
+            "startTime": "11:30:00 AM 18-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/wUSsbetbTZ-IEecS-3F0eQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110976_english_hls_5617ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -137,18 +137,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Legend Sporting Club vs Cricket Club of Dibrugarh (Guwahati Sixes Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117023_4767_LSC_CCD_fc-web.jpg",
-            "team_1": "Legend Sporting Club",
-            "team_2": "Cricket Club of Dibrugarh",
-            "status": "UPCOMING",
-            "event_name": "Guwahati Sixes Tournament, 2025",
-            "match_name": "Legend Sporting Club vs Cricket Club of Dibrugarh",
-            "match_id": 117023,
-            "startTime": "02:00:00 PM 18-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Northern Brave Women vs Canterbury Magicians (Dream11 Women's Super Smash, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114521_4677_NB-W_CM-W_fc-web.jpg",
             "team_1": "Northern Brave Women",
@@ -158,6 +146,18 @@
             "match_name": "Northern Brave Women vs Canterbury Magicians",
             "match_id": 114521,
             "startTime": "05:10:00 AM 19-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Legend Sporting Club vs Cricket Club of Dibrugarh (Guwahati Sixes Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117023_4767_LSC_CCD_fc-web.jpg",
+            "team_1": "Legend Sporting Club",
+            "team_2": "Cricket Club of Dibrugarh",
+            "status": "UPCOMING",
+            "event_name": "Guwahati Sixes Tournament, 2025",
+            "match_name": "Legend Sporting Club vs Cricket Club of Dibrugarh",
+            "match_id": 117023,
+            "startTime": "02:00:00 PM 18-01-2025"
         }
     ]
 }
