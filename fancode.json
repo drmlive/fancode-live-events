@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:08:05 PM 19-01-2025",
+    "last update time": "03:18:18 PM 19-01-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs West Indies (West Indies tour of Pakistan, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-Pakistan-test--old-match-card.png",
-            "team_1": "Pakistan",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "West Indies tour of Pakistan, 2025",
-            "match_name": "Pakistan vs West Indies",
-            "match_id": 116279,
-            "startTime": "10:00:00 AM 17-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/5Z7w5f2JTpmgSA0IMpQieg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116279_english_hls_6366ta-no/index.m3u8"
-        },
         {
             "event_category": "Badminton",
             "title": "Final vs IGI Sports Complex, New Delhi (Yonex Sunrise India Open, 2025)",
@@ -88,6 +74,20 @@
             "adfree_url": "https://dai.fancode.com/primary/117030_english_hls_5125ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "IAS Invincibles vs Muscat Thunders (Oman D50 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116766_4759_IAI_MUT_fc-Web.jpg",
+            "team_1": "IAS Invincibles",
+            "team_2": "Muscat Thunders",
+            "status": "LIVE",
+            "event_name": "Oman D50 League, 2025",
+            "match_name": "IAS Invincibles vs Muscat Thunders",
+            "match_id": 116766,
+            "startTime": "03:30:00 PM 19-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/USkCK6TcQfO1ELRAgO__4g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116766_english_hls_8606ta-no/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 4 vs Emirates GC, Dubai, UAE (Hero Dubai Desert Classic)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-Dubai-Desert-Classic-old-Match-card-op-2-(1)_1736509613633.png",
@@ -148,6 +148,18 @@
             "match_name": "West Indies Women vs Bangladesh Women",
             "match_id": 116648,
             "startTime": "11:30:00 PM 19-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Surrey Risers vs Surrey Royals (Jamaica T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116316_4745_SRI_SRO_fc-Web.jpg",
+            "team_1": "Surrey Risers",
+            "team_2": "Surrey Royals",
+            "status": "UPCOMING",
+            "event_name": "Jamaica T10, 2025",
+            "match_name": "Surrey Risers vs Surrey Royals",
+            "match_id": 116316,
+            "startTime": "12:00:00 AM 20-01-2025"
         }
     ]
 }
