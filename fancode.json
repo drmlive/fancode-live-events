@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:34:41 PM 20-01-2025",
+    "last update time": "11:44:52 PM 20-01-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Surrey Risers vs Surrey Kings (Jamaica T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116318_4745_SRI_SKI_fc-Web.jpg",
+            "team_1": "Surrey Risers",
+            "team_2": "Surrey Kings",
+            "status": "LIVE",
+            "event_name": "Jamaica T10, 2025",
+            "match_name": "Surrey Risers vs Surrey Kings",
+            "match_id": 116318,
+            "startTime": "12:00:00 AM 21-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/F0rI6n8pT8CWEtHcZdiRIA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116318_english_hls_5245ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Lexus vs Osmani CC (KCC T20 Challengers B League, 2024-25)",
@@ -16,32 +30,6 @@
             "startTime": "11:00:00 PM 20-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/67qs7WuvT9yW7a8OvFxaTA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115723_english_hls_4670ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Desert Vipers vs Dubai Capitals (DP World International League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115964_4730_DC_DV_fc-web.jpg",
-            "team_1": "Desert Vipers",
-            "team_2": "Dubai Capitals",
-            "status": "LIVE",
-            "event_name": "DP World International League T20, 2025",
-            "match_name": "Desert Vipers vs Dubai Capitals",
-            "match_id": 115964,
-            "startTime": "08:00:00 PM 20-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/yqvJ_AM3T0ik8gDcwAmGqA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/115964_english_hls_4518ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Surrey Risers vs Surrey Kings (Jamaica T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116318_4745_SRI_SKI_fc-Web.jpg",
-            "team_1": "Surrey Risers",
-            "team_2": "Surrey Kings",
-            "status": "UPCOMING",
-            "event_name": "Jamaica T10, 2025",
-            "match_name": "Surrey Risers vs Surrey Kings",
-            "match_id": 116318,
-            "startTime": "12:00:00 AM 21-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -128,18 +116,6 @@
             "startTime": "12:00:00 AM 22-01-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Al-Rashed Shipping Co vs Karavali United (KCC T20 Challengers B League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115724_4721_ARI_KUCC_fc-web.jpg",
-            "team_1": "Al-Rashed Shipping Co",
-            "team_2": "Karavali United",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers B League, 2024-25",
-            "match_name": "Al-Rashed Shipping Co vs Karavali United",
-            "match_id": 115724,
-            "startTime": "11:00:00 PM 21-01-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Millwall vs Cardiff City (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/116544_4352_MLW_CAR_fc-web.jpg",
@@ -150,6 +126,18 @@
             "match_name": "Millwall vs Cardiff City",
             "match_id": 116544,
             "startTime": "01:30:00 AM 22-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Al-Rashed Shipping Co vs Karavali United (KCC T20 Challengers B League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115724_4721_ARI_KUCC_fc-web.jpg",
+            "team_1": "Al-Rashed Shipping Co",
+            "team_2": "Karavali United",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers B League, 2024-25",
+            "match_name": "Al-Rashed Shipping Co vs Karavali United",
+            "match_id": 115724,
+            "startTime": "11:00:00 PM 21-01-2025"
         }
     ]
 }
