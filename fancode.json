@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:56:09 AM 22-01-2025",
+    "last update time": "05:06:15 AM 22-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114524_4677_WB-W_CM-W_fc-web.jpg",
             "team_1": "Wellington Blaze",
             "team_2": "Canterbury Magicians",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Dream11 Women's Super Smash, 2024-25",
             "match_name": "Wellington Blaze vs Canterbury Magicians",
             "match_id": 114524,
-            "startTime": "05:10:00 AM 22-01-2025"
+            "startTime": "05:10:00 AM 22-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/TQ21AUN3S0SvxquyOGZjyA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114524_english_hls_4848ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -124,6 +126,18 @@
             "match_name": "Auckland Hearts vs Otago Sparks",
             "match_id": 114525,
             "startTime": "05:10:00 AM 23-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Plymouth Argyle vs Burnley (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116545_4352_PLY_BUR_fc-web.jpg",
+            "team_1": "Plymouth Argyle",
+            "team_2": "Burnley",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Plymouth Argyle vs Burnley",
+            "match_id": 116545,
+            "startTime": "01:30:00 AM 23-01-2025"
         }
     ]
 }
