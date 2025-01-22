@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:37:58 PM 22-01-2025",
+    "last update time": "11:48:04 PM 22-01-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Surrey Risers vs Middlesex United Stars (Jamaica T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116322_4745_UNS_SRI_fc-Web.jpg",
+            "team_1": "Surrey Risers",
+            "team_2": "Middlesex United Stars",
+            "status": "LIVE",
+            "event_name": "Jamaica T10, 2025",
+            "match_name": "Surrey Risers vs Middlesex United Stars",
+            "match_id": 116322,
+            "startTime": "12:00:00 AM 23-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/wBCVoBbQQtO_iKjZ3hqE8Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116322_english_hls_5839ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Gulf Cable vs MEC Study Group (KCC T20 Challengers B League, 2024-25)",
@@ -75,32 +89,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Surrey Kings vs Surrey Royals (Jamaica T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116321_4745_SKI_SRO_fc-Web.jpg",
-            "team_1": "Surrey Kings",
-            "team_2": "Surrey Royals",
-            "status": "LIVE",
-            "event_name": "Jamaica T10, 2025",
-            "match_name": "Surrey Kings vs Surrey Royals",
-            "match_id": 116321,
-            "startTime": "09:30:00 PM 22-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/yE4Stju-RZiB9ikEo8EKUg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116321_english_hls_4862ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Middlesex United Stars vs Surrey Risers (Jamaica T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116322_4745_UNS_SRI_fc-Web.jpg",
-            "team_1": "Middlesex United Stars",
-            "team_2": "Surrey Risers",
-            "status": "UPCOMING",
-            "event_name": "Jamaica T10, 2025",
-            "match_name": "Middlesex United Stars vs Surrey Risers",
-            "match_id": 116322,
-            "startTime": "12:00:00 AM 23-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Auckland Hearts vs Otago Sparks (Dream11 Women's Super Smash, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114525_4677_AH-W_OS-W_fc-web.jpg",
             "team_1": "Auckland Hearts",
@@ -158,6 +146,18 @@
             "match_name": "Dubai Capitals vs Gulf Giants",
             "match_id": 115967,
             "startTime": "08:00:00 PM 23-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Plymouth Argyle vs Burnley (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116545_4352_PLY_BUR_fc-web.jpg",
+            "team_1": "Plymouth Argyle",
+            "team_2": "Burnley",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Plymouth Argyle vs Burnley",
+            "match_id": 116545,
+            "startTime": "01:30:00 AM 23-01-2025"
         }
     ]
 }
