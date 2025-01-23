@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:31:37 AM 23-01-2025",
+    "last update time": "05:41:43 AM 23-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "05:10:00 AM 23-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/nesw6Em3RWWucoZtRhB9qA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/114525_english_hls_5359ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Feed A - Day 1 vs San Diego, CA (Farmers Insurance Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Farmers-Insurance-Open_old_v2_1737382574241.jpg",
-            "team_1": "Feed A - Day 1",
-            "team_2": "San Diego, CA",
-            "status": "LIVE",
-            "event_name": "Farmers Insurance Open",
-            "match_name": "Feed A - Day 1",
-            "match_id": 117312,
-            "startTime": "01:30:00 AM 23-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/sYb6W88BSxaxBYyDBQywvg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117312_english_hls_9167ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +136,18 @@
             "match_name": "Chennai Kings CA vs Lexus",
             "match_id": 115814,
             "startTime": "01:15:00 AM 24-01-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wrexham vs Birmingham City (League One 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png",
+            "team_1": "Wrexham",
+            "team_2": "Birmingham City",
+            "status": "UPCOMING",
+            "event_name": "League One 2024-25",
+            "match_name": "Wrexham vs Birmingham City",
+            "match_id": 116570,
+            "startTime": "01:30:00 AM 24-01-2025"
         }
     ]
 }
