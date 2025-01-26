@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:56:49 PM 26-01-2025",
+    "last update time": "07:06:57 PM 26-01-2025",
     "matches": [
+        {
+            "event_category": "Pickleball",
+            "title": "Chennai vs Delhi (World Pickleball League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117089_4773_CN_DL_fc-Web_1737710236115.jpg",
+            "team_1": "Chennai",
+            "team_2": "Delhi",
+            "status": "LIVE",
+            "event_name": "World Pickleball League",
+            "match_name": "Chennai vs Delhi",
+            "match_id": 117089,
+            "startTime": "05:00:00 PM 26-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/PHOicgqsQT6B9Bb48cRexg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117089_english_hls_5443ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Pickleball",
+            "title": "Pune vs Hyderabad (World Pickleball League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117081_4773_PN_HB_fc-Web_1737710235355.jpg",
+            "team_1": "Pune",
+            "team_2": "Hyderabad",
+            "status": "LIVE",
+            "event_name": "World Pickleball League",
+            "match_name": "Pune vs Hyderabad",
+            "match_id": 117081,
+            "startTime": "07:00:00 PM 26-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/mQsln7iWR2SSVz4FJuFv5A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117081_english_hls_5190ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Abu Dhabi Knight Riders vs Dubai Capitals (DP World International League T20, 2025)",
@@ -30,6 +58,20 @@
             "startTime": "06:00:00 PM 26-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/o-dwEDeaRCSP_YnybgQJTA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113381_english_hls_5405ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sharjah Warriorz vs Gulf Giants (DP World International League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115972_4730_SWR_GG_fc-web.jpg",
+            "team_1": "Sharjah Warriorz",
+            "team_2": "Gulf Giants",
+            "status": "LIVE",
+            "event_name": "DP World International League T20, 2025",
+            "match_name": "Sharjah Warriorz vs Gulf Giants",
+            "match_id": 115972,
+            "startTime": "07:30:00 PM 26-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/txd2Xor1SlCBBMrMv934aA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115972_english_hls_5085ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -61,43 +103,27 @@
         },
         {
             "event_category": "Pickleball",
-            "title": "Chennai vs Delhi (World Pickleball League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117089_4773_CN_DL_fc-Web_1737710236115.jpg",
-            "team_1": "Chennai",
-            "team_2": "Delhi",
-            "status": "LIVE",
+            "title": "Hyderabad vs Mumbai (World Pickleball League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117088_4773_HB_MB_fc-Web_1737710235388.jpg",
+            "team_1": "Hyderabad",
+            "team_2": "Mumbai",
+            "status": "UPCOMING",
             "event_name": "World Pickleball League",
-            "match_name": "Chennai vs Delhi",
-            "match_id": 117089,
-            "startTime": "05:00:00 PM 26-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/PHOicgqsQT6B9Bb48cRexg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117089_english_hls_5443ta-di/index.m3u8"
+            "match_name": "Hyderabad vs Mumbai",
+            "match_id": 117088,
+            "startTime": "05:00:00 PM 27-01-2025"
         },
         {
             "event_category": "Pickleball",
-            "title": "Pune vs Hyderabad (World Pickleball League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117081_4773_PN_HB_fc-Web_1737710235355.jpg",
+            "title": "Pune vs Bengaluru (World Pickleball League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117083_4773_PN_BB_fc-Web_1737710235341.jpg",
             "team_1": "Pune",
-            "team_2": "Hyderabad",
-            "status": "LIVE",
-            "event_name": "World Pickleball League",
-            "match_name": "Pune vs Hyderabad",
-            "match_id": 117081,
-            "startTime": "07:00:00 PM 26-01-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sharjah Warriorz vs Gulf Giants (DP World International League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115972_4730_SWR_GG_fc-web.jpg",
-            "team_1": "Sharjah Warriorz",
-            "team_2": "Gulf Giants",
+            "team_2": "Bengaluru",
             "status": "UPCOMING",
-            "event_name": "DP World International League T20, 2025",
-            "match_name": "Sharjah Warriorz vs Gulf Giants",
-            "match_id": 115972,
-            "startTime": "07:30:00 PM 26-01-2025"
+            "event_name": "World Pickleball League",
+            "match_name": "Pune vs Bengaluru",
+            "match_id": 117083,
+            "startTime": "07:00:00 PM 27-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -134,30 +160,6 @@
             "match_name": "Auckland Hearts vs Wellington Blaze",
             "match_id": 114529,
             "startTime": "09:20:00 AM 27-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fortune Barishal vs Khulna Tigers (Bangladesh Premier League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113382_4644_FBA_KHT_fc-web.jpg",
-            "team_1": "Fortune Barishal",
-            "team_2": "Khulna Tigers",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2024-25",
-            "match_name": "Fortune Barishal vs Khulna Tigers",
-            "match_id": 113382,
-            "startTime": "01:00:00 PM 27-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria Women vs Western Australia Women (WNCL, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109405_4508_VCTW_WA-W_fc-web.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "Western Australia Women",
-            "status": "UPCOMING",
-            "event_name": "WNCL, 2024-25",
-            "match_name": "Victoria Women vs Western Australia Women",
-            "match_id": 109405,
-            "startTime": "04:30:00 AM 27-01-2025"
         }
     ]
 }
