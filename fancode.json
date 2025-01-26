@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:44:51 PM 26-01-2025",
+    "last update time": "03:54:57 PM 26-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/116857_english_hls_5054ta-no/index.m3u8"
         },
         {
+            "event_category": "SP Jain",
+            "title": "Day 3 vs SP Jain (SPrint Football Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SPrint-Football-Tournament-Men's-old-match-catd-.png",
+            "team_1": "Day 3",
+            "team_2": "SP Jain",
+            "status": "LIVE",
+            "event_name": "SPrint Football Tournament",
+            "match_name": "Day 3",
+            "match_id": 117467,
+            "startTime": "04:00:00 PM 26-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/TCSWLjf_REOQuG2llT1qPA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117467_english_hls_5033ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Durbar Rajshahi vs Rangpur Riders (Bangladesh Premier League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113381_4644_DBR_RAN_fc-web.jpg",
@@ -146,18 +160,6 @@
             "match_name": "Vishal Brothers vs Phonex",
             "match_id": 117633,
             "startTime": "04:15:00 PM 26-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fortune Barishal vs Khulna Tigers (Bangladesh Premier League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113382_4644_FBA_KHT_fc-web.jpg",
-            "team_1": "Fortune Barishal",
-            "team_2": "Khulna Tigers",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2024-25",
-            "match_name": "Fortune Barishal vs Khulna Tigers",
-            "match_id": 113382,
-            "startTime": "01:00:00 PM 27-01-2025"
         }
     ]
 }
