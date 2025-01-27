@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:04:55 AM 27-01-2025",
+    "last update time": "09:15:03 AM 27-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,6 +14,20 @@
             "match_name": "West Indies vs Pakistan",
             "match_id": 116280,
             "startTime": "10:00:00 AM 25-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Auckland Hearts vs Wellington Blaze (Dream11 Women's Super Smash, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/114529_4677_AH-W_WB-W_fc-web.jpg",
+            "team_1": "Auckland Hearts",
+            "team_2": "Wellington Blaze",
+            "status": "LIVE",
+            "event_name": "Dream11 Women's Super Smash, 2024-25",
+            "match_name": "Auckland Hearts vs Wellington Blaze",
+            "match_id": 114529,
+            "startTime": "09:20:00 AM 27-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Z6LQDIgdTeaLAl9wbVOUUw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114529_english_hls_5459ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -42,18 +56,6 @@
             "startTime": "10:00:00 AM 27-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/qJk43sy1TQCFNIA1R1ZKug/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117627_english_hls_4588ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Auckland Hearts vs Wellington Blaze (Dream11 Women's Super Smash, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/114529_4677_AH-W_WB-W_fc-web.jpg",
-            "team_1": "Auckland Hearts",
-            "team_2": "Wellington Blaze",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Women's Super Smash, 2024-25",
-            "match_name": "Auckland Hearts vs Wellington Blaze",
-            "match_id": 114529,
-            "startTime": "09:20:00 AM 27-01-2025"
         },
         {
             "event_category": "Cricket",
@@ -93,15 +95,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mangalore Lions vs Karavali Tigers (Karnataka Coastal Big Bash League T20)",
+            "title": "Karavali Tigers vs Mangalore Lions (Karnataka Coastal Big Bash League T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg",
-            "team_1": "Mangalore Lions",
-            "team_2": "Karavali Tigers",
-            "status": "UPCOMING",
+            "team_1": "Karavali Tigers",
+            "team_2": "Mangalore Lions",
+            "status": "LIVE",
             "event_name": "Karnataka Coastal Big Bash League T20",
-            "match_name": "Mangalore Lions vs Karavali Tigers",
+            "match_name": "Karavali Tigers vs Mangalore Lions",
             "match_id": 117062,
-            "startTime": "09:30:00 AM 27-01-2025"
+            "startTime": "09:30:00 AM 27-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/xYrhI69fRFKD7omAiM7i_A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117062_english_hls_9376ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -129,18 +133,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "IAS Invincibles vs Renaissance Challengers (Oman D50 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/116772_4759_IAI_RNC_fc-Web.jpg",
-            "team_1": "IAS Invincibles",
-            "team_2": "Renaissance Challengers",
-            "status": "UPCOMING",
-            "event_name": "Oman D50 League, 2025",
-            "match_name": "IAS Invincibles vs Renaissance Challengers",
-            "match_id": 116772,
-            "startTime": "03:30:00 PM 27-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Canterbury Magicians vs Northern Brave Women (Dream11 Women's Super Smash, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114530_4677_CM-W_NB-W_fc-web.jpg",
             "team_1": "Canterbury Magicians",
@@ -150,6 +142,18 @@
             "match_name": "Canterbury Magicians vs Northern Brave Women",
             "match_id": 114530,
             "startTime": "06:40:00 AM 28-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "IAS Invincibles vs Renaissance Challengers (Oman D50 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/116772_4759_IAI_RNC_fc-Web.jpg",
+            "team_1": "IAS Invincibles",
+            "team_2": "Renaissance Challengers",
+            "status": "UPCOMING",
+            "event_name": "Oman D50 League, 2025",
+            "match_name": "IAS Invincibles vs Renaissance Challengers",
+            "match_id": 116772,
+            "startTime": "03:30:00 PM 27-01-2025"
         }
     ]
 }
