@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:57:04 PM 28-01-2025",
+    "last update time": "09:07:09 PM 28-01-2025",
     "matches": [
-        {
-            "event_category": "Pickleball",
-            "title": "Mumbai vs Chennai (World Pickleball League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117085_4773_MB_CN_fc-Web_1737710235272.jpg",
-            "team_1": "Mumbai",
-            "team_2": "Chennai",
-            "status": "LIVE",
-            "event_name": "World Pickleball League",
-            "match_name": "Mumbai vs Chennai",
-            "match_id": 117085,
-            "startTime": "07:00:00 PM 28-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ppe5wiewR5-T-JnUYFfxAQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117085_english_hls_5158ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Dubai Capitals vs Sharjah Warriorz (DP World International League T20, 2025)",
@@ -140,6 +126,30 @@
             "match_name": "Bokakhat Town Cricket Club vs BDMTCC",
             "match_id": 117432,
             "startTime": "10:00:00 AM 29-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Desert Vipers vs Gulf Giants (DP World International League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115975_4730_DV_GG_fc-web.jpg",
+            "team_1": "Desert Vipers",
+            "team_2": "Gulf Giants",
+            "status": "UPCOMING",
+            "event_name": "DP World International League T20, 2025",
+            "match_name": "Desert Vipers vs Gulf Giants",
+            "match_id": 115975,
+            "startTime": "08:00:00 PM 29-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mangalore Lions vs Mathsyaraj Trescon Malpe (Karnataka Coastal Big Bash League T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v2.jpg",
+            "team_1": "Mangalore Lions",
+            "team_2": "Mathsyaraj Trescon Malpe",
+            "status": "UPCOMING",
+            "event_name": "Karnataka Coastal Big Bash League T20",
+            "match_name": "Mangalore Lions vs Mathsyaraj Trescon Malpe",
+            "match_id": 117069,
+            "startTime": "01:30:00 PM 29-01-2025"
         }
     ]
 }
