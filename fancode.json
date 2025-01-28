@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:55:47 PM 28-01-2025",
+    "last update time": "07:05:54 PM 28-01-2025",
     "matches": [
         {
             "event_category": "Pickleball",
@@ -58,6 +58,20 @@
             "startTime": "04:30:00 PM 28-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HnynxNVASBmzQAzGUzlhug/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117679_english_hls_6066ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Pickleball",
+            "title": "Mumbai vs Chennai (World Pickleball League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117085_4773_MB_CN_fc-Web_1737710235272.jpg",
+            "team_1": "Mumbai",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "World Pickleball League",
+            "match_name": "Mumbai vs Chennai",
+            "match_id": 117085,
+            "startTime": "07:00:00 PM 28-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ppe5wiewR5-T-JnUYFfxAQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117085_english_hls_5158ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -121,27 +135,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Victoria Women vs Western Australia Women (WNCL, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109407_4508_VCTW_WA-W_fc-web.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "Western Australia Women",
+            "title": "Cathex vs Aspex 2 (Box Office ASL T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
+            "team_1": "Cathex",
+            "team_2": "Aspex 2",
             "status": "UPCOMING",
-            "event_name": "WNCL, 2024-25",
-            "match_name": "Victoria Women vs Western Australia Women",
-            "match_id": 109407,
-            "startTime": "04:30:00 AM 29-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kulai Red Hawks vs Team Bava Surathkal (Karnataka Coastal Big Bash League T20)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg",
-            "team_1": "Kulai Red Hawks",
-            "team_2": "Team Bava Surathkal",
-            "status": "UPCOMING",
-            "event_name": "Karnataka Coastal Big Bash League T20",
-            "match_name": "Kulai Red Hawks vs Team Bava Surathkal",
-            "match_id": 117068,
-            "startTime": "09:30:00 AM 29-01-2025"
+            "event_name": "Box Office ASL T20",
+            "match_name": "Cathex vs Aspex 2",
+            "match_id": 117745,
+            "startTime": "08:00:00 PM 28-01-2025"
         }
     ]
 }
