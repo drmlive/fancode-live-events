@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:02:15 PM 30-01-2025",
+    "last update time": "05:12:20 PM 30-01-2025",
     "matches": [
+        {
+            "event_category": "Pickleball",
+            "title": "Mumbai vs Bengaluru (World Pickleball League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117092_4773_MB_BB_fc-Web_1738154983864.jpg",
+            "team_1": "Mumbai",
+            "team_2": "Bengaluru",
+            "status": "LIVE",
+            "event_name": "World Pickleball League",
+            "match_name": "Mumbai vs Bengaluru",
+            "match_id": 117092,
+            "startTime": "05:00:00 PM 30-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/eY7nrPJQRGa7qUTcMYODAA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117092_english_hls_6043ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Australia vs Sri Lanka (Australia tour of Sri Lanka, 2025)",
@@ -16,20 +30,6 @@
             "startTime": "09:30:00 AM 29-01-2025",
             "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?hdnea=exp=1738253311~acl=*~id=1556784483112233~hmac=7f12df3c727b9ddc04ce285fbf89777956e997077bad2e24d2e811ea7fc81a5f",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?hdnea=exp=1738253311~acl=*~id=1556784483112233~hmac=7f12df3c727b9ddc04ce285fbf89777956e997077bad2e24d2e811ea7fc81a5f"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Khulna Tigers vs Rangpur Riders (Bangladesh Premier League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113386_4644_RAN_KHT_fc-web.jpg",
-            "team_1": "Khulna Tigers",
-            "team_2": "Rangpur Riders",
-            "status": "LIVE",
-            "event_name": "Bangladesh Premier League, 2024-25",
-            "match_name": "Khulna Tigers vs Rangpur Riders",
-            "match_id": 113386,
-            "startTime": "01:00:00 PM 30-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/3LKygId4RAiIVzhgXOT6TA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113386_english_hls_6052ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -60,20 +60,6 @@
             "adfree_url": "https://dai.fancode.com/primary/117829_english_hls_5519ta-di/index.m3u8"
         },
         {
-            "event_category": "University Inter-collegiate Football",
-            "title": "Day 4 - University Football vs VIVA College, Virar (University Football)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/University-Inter-collegiate-Zone-2-Football_match-card.jpg",
-            "team_1": "Day 4 - University Football",
-            "team_2": "VIVA College, Virar",
-            "status": "LIVE",
-            "event_name": "University Football",
-            "match_name": "Day 4 - University Football",
-            "match_id": 117630,
-            "startTime": "09:00:00 AM 30-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/0cpZjrXiS-K2wpSTLBdrkg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117630_english_hls_9370ta-no/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 1 vs Royal GC, Kingdom of Bahrain, Bahrain (Bahrain Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v1.jpg",
@@ -86,20 +72,6 @@
             "startTime": "02:00:00 PM 30-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/uE0ffx0zQ2eJgBi-HX-pGw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117645_english_hls_6303ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Pickleball",
-            "title": "Mumbai vs Bengaluru (World Pickleball League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117092_4773_MB_BB_fc-Web_1738154983864.jpg",
-            "team_1": "Mumbai",
-            "team_2": "Bengaluru",
-            "status": "LIVE",
-            "event_name": "World Pickleball League",
-            "match_name": "Mumbai vs Bengaluru",
-            "match_id": 117092,
-            "startTime": "05:00:00 PM 30-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/eY7nrPJQRGa7qUTcMYODAA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117092_english_hls_6043ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -127,13 +99,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mangalore Lions vs United Ullal (Karnataka Coastal Big Bash League T20)",
+            "title": "United Ullal vs Mangalore Lions (Karnataka Coastal Big Bash League T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v3.jpg",
-            "team_1": "Mangalore Lions",
-            "team_2": "United Ullal",
+            "team_1": "United Ullal",
+            "team_2": "Mangalore Lions",
             "status": "UPCOMING",
             "event_name": "Karnataka Coastal Big Bash League T20",
-            "match_name": "Mangalore Lions vs United Ullal",
+            "match_name": "United Ullal vs Mangalore Lions",
             "match_id": 117073,
             "startTime": "05:30:00 PM 30-01-2025"
         },
@@ -160,6 +132,30 @@
             "match_name": "TBC vs TBC",
             "match_id": 117074,
             "startTime": "09:30:00 AM 31-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Star Club vs Sath Gaon Club (Guwahati Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117436_4781_NSC_SGC_fc-web.jpg",
+            "team_1": "New Star Club",
+            "team_2": "Sath Gaon Club",
+            "status": "UPCOMING",
+            "event_name": "Guwahati Premier League, 2025",
+            "match_name": "New Star Club vs Sath Gaon Club",
+            "match_id": 117436,
+            "startTime": "10:00:00 AM 31-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Barbados Pride vs Guyana Harpy Eagles (West Indies Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117749_4799_GUY_BAR_fc-Web_1738071641349.jpg",
+            "team_1": "Barbados Pride",
+            "team_2": "Guyana Harpy Eagles",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship, 2025",
+            "match_name": "Barbados Pride vs Guyana Harpy Eagles",
+            "match_id": 117749,
+            "startTime": "07:30:00 PM 29-01-2025"
         }
     ]
 }
