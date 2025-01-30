@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:54:31 PM 30-01-2025",
+    "last update time": "09:04:36 PM 30-01-2025",
     "matches": [
-        {
-            "event_category": "Pickleball",
-            "title": "Pune vs Delhi (World Pickleball League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117093_4773_PN_DL_fc-Web_1738154983221.jpg",
-            "team_1": "Pune",
-            "team_2": "Delhi",
-            "status": "LIVE",
-            "event_name": "World Pickleball League",
-            "match_name": "Pune vs Delhi",
-            "match_id": 117093,
-            "startTime": "07:00:00 PM 30-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/243ILQ9XSgCOWPsvifl_4g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117093_english_hls_6114ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Chittagong Kings vs Sylhet Strikers (Bangladesh Premier League, 2024-25)",
@@ -44,20 +30,6 @@
             "startTime": "08:00:00 PM 30-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/3YSNks09Rqqa_qvNShxVvA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/115976_english_hls_6046ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "United Ullal vs Mangalore Lions (Karnataka Coastal Big Bash League T20)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v3.jpg",
-            "team_1": "United Ullal",
-            "team_2": "Mangalore Lions",
-            "status": "LIVE",
-            "event_name": "Karnataka Coastal Big Bash League T20",
-            "match_name": "United Ullal vs Mangalore Lions",
-            "match_id": 117073,
-            "startTime": "05:30:00 PM 30-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/26StmixDQeqqPiRxQoBA0A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117073_english_hls_6171ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -113,13 +85,25 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Karnataka Coastal Big Bash League T20)",
+            "title": "Mangaf Warriors vs Al-Rashed Shipping Co (KCC T20 Challengers B League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115823_4721_MAW_ARI_fc-web.jpg",
+            "team_1": "Mangaf Warriors",
+            "team_2": "Al-Rashed Shipping Co",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers B League, 2024-25",
+            "match_name": "Mangaf Warriors vs Al-Rashed Shipping Co",
+            "match_id": 115823,
+            "startTime": "10:00:00 PM 30-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kulai Red Hawks vs Mangalore Lions (Karnataka Coastal Big Bash League T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Kulai Red Hawks",
+            "team_2": "Mangalore Lions",
             "status": "UPCOMING",
             "event_name": "Karnataka Coastal Big Bash League T20",
-            "match_name": "TBC vs TBC",
+            "match_name": "Kulai Red Hawks vs Mangalore Lions",
             "match_id": 117074,
             "startTime": "09:30:00 AM 31-01-2025"
         },
@@ -137,18 +121,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Netherlands Women vs Thailand Women (Nepal Women's T20I Triangular Series)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nepal-Women's-T20I-Triangular-Series-old-match-2.png",
-            "team_1": "Netherlands Women",
-            "team_2": "Thailand Women",
-            "status": "UPCOMING",
-            "event_name": "Nepal Women's T20I Triangular Series",
-            "match_name": "Netherlands Women vs Thailand Women",
-            "match_id": 117637,
-            "startTime": "12:00:00 PM 31-01-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Gulf Giants vs MI Emirates (DP World International League T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115977_4730_GG_MIE_fc-web.jpg",
             "team_1": "Gulf Giants",
@@ -158,6 +130,18 @@
             "match_name": "Gulf Giants vs MI Emirates",
             "match_id": 115977,
             "startTime": "08:00:00 PM 31-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Netherlands Women vs Thailand Women (Nepal Women's T20I Triangular Series)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nepal-Women's-T20I-Triangular-Series-old-match-2.png",
+            "team_1": "Netherlands Women",
+            "team_2": "Thailand Women",
+            "status": "UPCOMING",
+            "event_name": "Nepal Women's T20I Triangular Series",
+            "match_name": "Netherlands Women vs Thailand Women",
+            "match_id": 117637,
+            "startTime": "12:00:00 PM 31-01-2025"
         }
     ]
 }
