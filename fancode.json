@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:42:39 PM 30-01-2025",
+    "last update time": "05:52:45 PM 30-01-2025",
     "matches": [
         {
             "event_category": "Pickleball",
@@ -30,20 +30,6 @@
             "startTime": "06:00:00 PM 30-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/A189MjZzTKSTiWg5Vj-faA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113387_english_hls_6109ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Australia vs Sri Lanka (Australia tour of Sri Lanka, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
-            "team_1": "Australia",
-            "team_2": "Sri Lanka",
-            "status": "LIVE",
-            "event_name": "Australia tour of Sri Lanka, 2025",
-            "match_name": "Australia vs Sri Lanka",
-            "match_id": 115615,
-            "startTime": "09:30:00 AM 29-01-2025",
-            "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?hdnea=exp=1738278560~acl=*~id=1556784483112233~hmac=8c43118f97eeff2f4c1a5ca37df7ff12e1d191c2c944d9cfbc8c84700d1a9fac",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?hdnea=exp=1738278560~acl=*~id=1556784483112233~hmac=8c43118f97eeff2f4c1a5ca37df7ff12e1d191c2c944d9cfbc8c84700d1a9fac"
         },
         {
             "event_category": "Cricket",
@@ -100,6 +86,18 @@
             "startTime": "02:00:00 PM 30-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/uE0ffx0zQ2eJgBi-HX-pGw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117645_english_hls_6303ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Australia vs Sri Lanka (Australia tour of Sri Lanka, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
+            "team_1": "Australia",
+            "team_2": "Sri Lanka",
+            "status": "PAUSED",
+            "event_name": "Australia tour of Sri Lanka, 2025",
+            "match_name": "Australia vs Sri Lanka",
+            "match_id": 115615,
+            "startTime": "09:30:00 AM 29-01-2025"
         },
         {
             "event_category": "Cricket",
