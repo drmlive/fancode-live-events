@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:53:21 PM 30-01-2025",
+    "last update time": "07:03:27 PM 30-01-2025",
     "matches": [
-        {
-            "event_category": "Pickleball",
-            "title": "Mumbai vs Bengaluru (World Pickleball League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117092_4773_MB_BB_fc-Web_1738154983864.jpg",
-            "team_1": "Mumbai",
-            "team_2": "Bengaluru",
-            "status": "LIVE",
-            "event_name": "World Pickleball League",
-            "match_name": "Mumbai vs Bengaluru",
-            "match_id": 117092,
-            "startTime": "05:00:00 PM 30-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/eY7nrPJQRGa7qUTcMYODAA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117092_english_hls_6043ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Chittagong Kings vs Sylhet Strikers (Bangladesh Premier League, 2024-25)",
@@ -74,6 +60,32 @@
             "adfree_url": "https://dai.fancode.com/primary/117645_english_hls_6303ta-di/index.m3u8"
         },
         {
+            "event_category": "Pickleball",
+            "title": "Pune vs Delhi (World Pickleball League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117093_4773_PN_DL_fc-Web_1738154983221.jpg",
+            "team_1": "Pune",
+            "team_2": "Delhi",
+            "status": "LIVE",
+            "event_name": "World Pickleball League",
+            "match_name": "Pune vs Delhi",
+            "match_id": 117093,
+            "startTime": "07:00:00 PM 30-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/243ILQ9XSgCOWPsvifl_4g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117093_english_hls_6114ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sharjah Warriorz vs Abu Dhabi Knight Riders (DP World International League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115976_4730_SWR_ADKR_fc-web.jpg",
+            "team_1": "Sharjah Warriorz",
+            "team_2": "Abu Dhabi Knight Riders",
+            "status": "UPCOMING",
+            "event_name": "DP World International League T20, 2025",
+            "match_name": "Sharjah Warriorz vs Abu Dhabi Knight Riders",
+            "match_id": 115976,
+            "startTime": "08:00:00 PM 30-01-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Australia vs Sri Lanka (Australia tour of Sri Lanka, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
@@ -87,14 +99,14 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sharjah Warriorz vs Abu Dhabi Knight Riders (DP World International League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115976_4730_SWR_ADKR_fc-web.jpg",
-            "team_1": "Sharjah Warriorz",
-            "team_2": "Abu Dhabi Knight Riders",
+            "title": "St Thomas Day vs Aspex 1 (Box Office ASL T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
+            "team_1": "St Thomas Day",
+            "team_2": "Aspex 1",
             "status": "UPCOMING",
-            "event_name": "DP World International League T20, 2025",
-            "match_name": "Sharjah Warriorz vs Abu Dhabi Knight Riders",
-            "match_id": 115976,
+            "event_name": "Box Office ASL T20",
+            "match_name": "St Thomas Day vs Aspex 1",
+            "match_id": 117827,
             "startTime": "08:00:00 PM 30-01-2025"
         },
         {
@@ -144,18 +156,6 @@
             "match_name": "Barbados Pride vs Guyana Harpy Eagles",
             "match_id": 117749,
             "startTime": "07:30:00 PM 29-01-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trinidad & Tobago Red Force vs Combined Campuses and Colleges (West Indies Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117750_4799_TNT_CCC_fc-Web_1738071641353.jpg",
-            "team_1": "Trinidad & Tobago Red Force",
-            "team_2": "Combined Campuses and Colleges",
-            "status": "PAUSED",
-            "event_name": "West Indies Championship, 2025",
-            "match_name": "Trinidad & Tobago Red Force vs Combined Campuses and Colleges",
-            "match_id": 117750,
-            "startTime": "10:30:00 PM 29-01-2025"
         }
     ]
 }
