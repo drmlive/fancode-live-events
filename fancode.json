@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:57:01 AM 31-01-2025",
+    "last update time": "01:07:07 AM 31-01-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "07:30:00 PM 29-01-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ME6BV83ETxmqkDKQ9L-40w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117749_english_hls_6597ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chennai Kings CA vs Karavali United (KCC T20 Challengers B League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115824_4721_CHK_KUCC_fc-web.jpg",
+            "team_1": "Chennai Kings CA",
+            "team_2": "Karavali United",
+            "status": "LIVE",
+            "event_name": "KCC T20 Challengers B League, 2024-25",
+            "match_name": "Chennai Kings CA vs Karavali United",
+            "match_id": 115824,
+            "startTime": "01:15:00 AM 31-01-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/RIXFdWIjR6OpqzTjNG2cpg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115824_english_hls_5529ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -103,20 +117,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Worcester United vs Giflo Young Peoples CC (Boland T20 Super League Finals, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117482_4787_YPS_WUT_Fc-Web.jpg",
-            "team_1": "Worcester United",
-            "team_2": "Giflo Young Peoples CC",
-            "status": "LIVE",
-            "event_name": "Boland T20 Super League Finals, 2025",
-            "match_name": "Worcester United vs Giflo Young Peoples CC",
-            "match_id": 117482,
-            "startTime": "10:00:00 PM 30-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/uDxZg2tqRqKaPsaQEgXe3Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117482_english_hls_9822ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Australia vs Sri Lanka (Australia tour of Sri Lanka, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
             "team_1": "Australia",
@@ -141,15 +141,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Chennai Kings CA vs Karavali United (KCC T20 Challengers B League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115824_4721_CHK_KUCC_fc-web.jpg",
-            "team_1": "Chennai Kings CA",
-            "team_2": "Karavali United",
+            "title": "Kulai Red Hawks vs Mangalore Lions (Karnataka Coastal Big Bash League T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg",
+            "team_1": "Kulai Red Hawks",
+            "team_2": "Mangalore Lions",
             "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers B League, 2024-25",
-            "match_name": "Chennai Kings CA vs Karavali United",
-            "match_id": 115824,
-            "startTime": "01:15:00 AM 31-01-2025"
+            "event_name": "Karnataka Coastal Big Bash League T20",
+            "match_name": "Kulai Red Hawks vs Mangalore Lions",
+            "match_id": 117074,
+            "startTime": "09:30:00 AM 31-01-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Star Club vs Sath Gaon Club (Guwahati Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117436_4781_NSC_SGC_fc-web.jpg",
+            "team_1": "New Star Club",
+            "team_2": "Sath Gaon Club",
+            "status": "UPCOMING",
+            "event_name": "Guwahati Premier League, 2025",
+            "match_name": "New Star Club vs Sath Gaon Club",
+            "match_id": 117436,
+            "startTime": "10:00:00 AM 31-01-2025"
         }
     ]
 }
