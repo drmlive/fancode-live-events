@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:18:17 PM 31-01-2025",
+    "last update time": "07:28:32 PM 31-01-2025",
     "matches": [
         {
             "event_category": "Pickleball",
@@ -88,30 +88,18 @@
             "adfree_url": "https://dai.fancode.com/primary/117749_english_hls_6240ta-di/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Royal GC, Kingdom of Bahrain, Bahrain (Bahrain Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v2.jpg",
-            "team_1": "Day 2",
-            "team_2": "Royal GC, Kingdom of Bahrain, Bahrain",
-            "status": "LIVE",
-            "event_name": "Bahrain Championship",
-            "match_name": "Day 2",
-            "match_id": 117646,
-            "startTime": "02:00:00 PM 31-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/g1NtIHjyQCSuGtZwZpmrlQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117646_english_hls_5822ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gulf Giants vs MI Emirates (DP World International League T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/115977_4730_GG_MIE_fc-web.jpg",
             "team_1": "Gulf Giants",
             "team_2": "MI Emirates",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "DP World International League T20, 2025",
             "match_name": "Gulf Giants vs MI Emirates",
             "match_id": 115977,
-            "startTime": "08:00:00 PM 31-01-2025"
+            "startTime": "08:00:00 PM 31-01-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -160,6 +148,18 @@
             "match_name": "Northern Districts vs Canterbury",
             "match_id": 114501,
             "startTime": "08:55:00 AM 01-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dhaka Capitals vs Khulna Tigers (Bangladesh Premier League, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/113388_4644_DC_KHT_fc-web.jpg",
+            "team_1": "Dhaka Capitals",
+            "team_2": "Khulna Tigers",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2024-25",
+            "match_name": "Dhaka Capitals vs Khulna Tigers",
+            "match_id": 113388,
+            "startTime": "01:00:00 PM 01-02-2025"
         }
     ]
 }
