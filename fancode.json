@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:44:12 AM 01-02-2025",
+    "last update time": "04:54:19 AM 01-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -61,20 +61,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Feed D - Day 2 vs Pebble Beach, CA (Pebble Beach Pro-AM)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v3.jpg",
-            "team_1": "Feed D - Day 2",
-            "team_2": "Pebble Beach, CA",
-            "status": "LIVE",
-            "event_name": "Pebble Beach Pro-AM",
-            "match_name": "Feed D - Day 2",
-            "match_id": 117710,
-            "startTime": "11:00:00 PM 31-01-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/GxpRpbWyTKSv9gEWBp8hpA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117710_english_hls_520ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "Feed C - Day 2 vs Pebble Beach, CA (Pebble Beach Pro-AM)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v1.jpg",
             "team_1": "Feed C - Day 2",
@@ -107,11 +93,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/114532_4677_WB-W_NB-W_fc-web.jpg",
             "team_1": "Wellington Blaze",
             "team_2": "Northern Brave Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Dream11 Women's Super Smash, 2024-25",
             "match_name": "Wellington Blaze vs Northern Brave Women",
             "match_id": 114533,
-            "startTime": "05:10:00 AM 01-02-2025"
+            "startTime": "05:10:00 AM 01-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/pantYKO5RASFOn31TrN6_g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/114533_english_hls_5844ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -160,6 +148,18 @@
             "match_name": "Fortune Barishal vs Chittagong Kings",
             "match_id": 113389,
             "startTime": "06:00:00 PM 01-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Abu Dhabi Knight Riders vs Gulf Giants (DP World International League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115978_4730_ADKR_GG_fc-web.jpg",
+            "team_1": "Abu Dhabi Knight Riders",
+            "team_2": "Gulf Giants",
+            "status": "UPCOMING",
+            "event_name": "DP World International League T20, 2025",
+            "match_name": "Abu Dhabi Knight Riders vs Gulf Giants",
+            "match_id": 115978,
+            "startTime": "07:30:00 PM 01-02-2025"
         }
     ]
 }
