@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:10:42 PM 01-02-2025",
+    "last update time": "04:20:47 PM 01-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/117441_english_hls_6248ta-no/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Royal GC, Kingdom of Bahrain, Bahrain (Bahrain Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v1.jpg",
-            "team_1": "Day 3",
-            "team_2": "Royal GC, Kingdom of Bahrain, Bahrain",
-            "status": "LIVE",
-            "event_name": "Bahrain Championship",
-            "match_name": "Day 3",
-            "match_id": 117647,
-            "startTime": "02:30:00 PM 01-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/VTVX8HKUQO-rZzRfMgKgZQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117647_english_hls_5642ta-no/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Perth Glory vs Melbourne Victory (A League 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110991_4567_PG_MLV_fc-web_1728983130629.jpg",
@@ -74,18 +60,18 @@
             "adfree_url": "https://dai.fancode.com/primary/110991_english_hls_4922ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Central Coast Mariners vs Newcastle Jets (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110990_4567_CCM_NJ_fc-web_1728983129174.jpg",
-            "team_1": "Central Coast Mariners",
-            "team_2": "Newcastle Jets",
+            "event_category": "Golf",
+            "title": "Day 3 vs Royal GC, Kingdom of Bahrain, Bahrain (Bahrain Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v1.jpg",
+            "team_1": "Day 3",
+            "team_2": "Royal GC, Kingdom of Bahrain, Bahrain",
             "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Central Coast Mariners vs Newcastle Jets",
-            "match_id": 110990,
-            "startTime": "02:05:00 PM 01-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/UPp9JEs9QsSitmUQmr0x3g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110990_english_hls_5446ta-no/index.m3u8"
+            "event_name": "Bahrain Championship",
+            "match_name": "Day 3",
+            "match_id": 117647,
+            "startTime": "02:30:00 PM 01-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/VTVX8HKUQO-rZzRfMgKgZQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117647_english_hls_5642ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +144,18 @@
             "match_name": "Mangalore Lions vs Karavali Tigers",
             "match_id": 117076,
             "startTime": "06:30:00 PM 01-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Portugal vs Spain (ECN Porto T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1).jpg",
+            "team_1": "Portugal",
+            "team_2": "Spain",
+            "status": "UPCOMING",
+            "event_name": "ECN Porto T20, 2025",
+            "match_name": "Portugal vs Spain",
+            "match_id": 117797,
+            "startTime": "06:45:00 PM 01-02-2025"
         }
     ]
 }
