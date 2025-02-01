@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:26:57 AM 01-02-2025",
+    "last update time": "09:37:02 AM 01-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
             "team_1": "Australia",
             "team_2": "Sri Lanka",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "Australia tour of Sri Lanka, 2025",
             "match_name": "Australia vs Sri Lanka",
             "match_id": 115615,
-            "startTime": "09:30:00 AM 29-01-2025"
+            "startTime": "09:30:00 AM 29-01-2025",
+            "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?hdnea=exp=1738431338~acl=*~id=1556784483112233~hmac=c5504a8331240a31e755d65d12071b3da6072f20e8abfbcb66d9946bf2763a4c",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?hdnea=exp=1738431338~acl=*~id=1556784483112233~hmac=c5504a8331240a31e755d65d12071b3da6072f20e8abfbcb66d9946bf2763a4c"
         },
         {
             "event_category": "Cricket",
@@ -31,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Queensland Fire vs South Australian Scorpions (WNCL, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109406_4508_SASC_QLF_fc-web.jpg",
-            "team_1": "Queensland Fire",
-            "team_2": "South Australian Scorpions",
-            "status": "LIVE",
-            "event_name": "WNCL, 2024-25",
-            "match_name": "Queensland Fire vs South Australian Scorpions",
-            "match_id": 109406,
-            "startTime": "05:00:00 AM 01-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/5JCFjU0hTe-Xwp4NdhXwVA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109406_english_hls_5451ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Tasmania Women vs ACT Meteors (WNCL, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/109408_4508_TASW_ACTM_fc-web.jpg",
             "team_1": "Tasmania Women",
@@ -56,6 +44,20 @@
             "startTime": "05:00:00 AM 01-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/s9jHbRyBTECmRGlnrCox9Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109408_english_hls_9124ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland Fire vs South Australian Scorpions (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109406_4508_SASC_QLF_fc-web.jpg",
+            "team_1": "Queensland Fire",
+            "team_2": "South Australian Scorpions",
+            "status": "LIVE",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "Queensland Fire vs South Australian Scorpions",
+            "match_id": 109406,
+            "startTime": "05:00:00 AM 01-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/5JCFjU0hTe-Xwp4NdhXwVA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109406_english_hls_5451ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
