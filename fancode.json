@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:02:17 PM 01-02-2025",
+    "last update time": "07:12:23 PM 01-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "06:00:00 PM 01-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kXV7X-KfRDe9XwRDl4zvUg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/113389_english_hls_6099ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Abu Dhabi Knight Riders vs Gulf Giants (DP World International League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115978_4730_ADKR_GG_fc-web.jpg",
+            "team_1": "Abu Dhabi Knight Riders",
+            "team_2": "Gulf Giants",
+            "status": "LIVE",
+            "event_name": "DP World International League T20, 2025",
+            "match_name": "Abu Dhabi Knight Riders vs Gulf Giants",
+            "match_id": 115978,
+            "startTime": "07:30:00 PM 01-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/NIgeBKf1QIeXYjtHjukokA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/115978_english_hls_6434ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -74,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/116552_english_hls_9871ta-di/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Royal GC, Kingdom of Bahrain, Bahrain (Bahrain Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v1.jpg",
-            "team_1": "Day 3",
-            "team_2": "Royal GC, Kingdom of Bahrain, Bahrain",
-            "status": "LIVE",
-            "event_name": "Bahrain Championship",
-            "match_name": "Day 3",
-            "match_id": 117647,
-            "startTime": "02:30:00 PM 01-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/VTVX8HKUQO-rZzRfMgKgZQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117647_english_hls_5642ta-no/index.m3u8"
-        },
-        {
             "event_category": "Pickleball",
             "title": "Mumbai vs Pune (World Pickleball League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117087_4773_MB_PN_fc-Web_1738154983118.jpg",
@@ -100,18 +100,6 @@
             "startTime": "07:00:00 PM 01-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/h082fc-fS8SXiGec9K8bZA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117096_english_hls_6313ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi Knight Riders vs Gulf Giants (DP World International League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115978_4730_ADKR_GG_fc-web.jpg",
-            "team_1": "Abu Dhabi Knight Riders",
-            "team_2": "Gulf Giants",
-            "status": "UPCOMING",
-            "event_name": "DP World International League T20, 2025",
-            "match_name": "Abu Dhabi Knight Riders vs Gulf Giants",
-            "match_id": 115978,
-            "startTime": "07:30:00 PM 01-02-2025"
         },
         {
             "event_category": "Cricket",
@@ -160,6 +148,18 @@
             "match_name": "Paarl CC vs Vredenburg/Saldanha CC",
             "match_id": 117486,
             "startTime": "10:00:00 PM 01-02-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Swansea City vs Coventry City (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Swansea-City-vs-Conventry-city_fc_app_fc-web.jpg",
+            "team_1": "Swansea City",
+            "team_2": "Coventry City",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Swansea City vs Coventry City",
+            "match_id": 116553,
+            "startTime": "08:30:00 PM 01-02-2025"
         }
     ]
 }
