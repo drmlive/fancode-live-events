@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:46:27 PM 01-02-2025",
+    "last update time": "10:56:35 PM 01-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -112,22 +112,8 @@
             "match_name": "Feed C - Day 3",
             "match_id": 117736,
             "startTime": "11:00:00 PM 01-02-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Spain vs Portugal (ECN Porto T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1).jpg",
-            "team_1": "Spain",
-            "team_2": "Portugal",
-            "status": "LIVE",
-            "event_name": "ECN Porto T20, 2025",
-            "match_name": "Spain vs Portugal",
-            "match_id": 117797,
-            "startTime": "06:45:00 PM 01-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/gYd_yFIITs-jVfjp2HVPSg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117797_english_hls_6266ta-no/index.m3u8"
+            "dai_url": "https://dai.google.com/linear/hls/event/kGvIUXdGSo6wMM_3zi5VLg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117736_english_hls_393ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -164,6 +150,18 @@
             "match_name": "MI Emirates vs Sharjah Warriorz",
             "match_id": 115979,
             "startTime": "03:30:00 PM 02-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dubai Capitals vs Abu Dhabi Knight Riders (DP World International League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/115980_4730_DC_ADKR_fc-web.jpg",
+            "team_1": "Dubai Capitals",
+            "team_2": "Abu Dhabi Knight Riders",
+            "status": "UPCOMING",
+            "event_name": "DP World International League T20, 2025",
+            "match_name": "Dubai Capitals vs Abu Dhabi Knight Riders",
+            "match_id": 115980,
+            "startTime": "07:30:00 PM 02-02-2025"
         }
     ]
 }
