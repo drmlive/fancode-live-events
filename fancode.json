@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:09:34 PM 01-02-2025",
+    "last update time": "02:19:39 PM 01-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,6 +46,20 @@
             "adfree_url": "https://dai.fancode.com/primary/117636_english_hls_5375ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Portugal vs Spain (ECN Porto T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1)_1738318156453.jpg",
+            "team_1": "Portugal",
+            "team_2": "Spain",
+            "status": "LIVE",
+            "event_name": "ECN Porto T20, 2025",
+            "match_name": "Portugal vs Spain",
+            "match_id": 117796,
+            "startTime": "02:30:00 PM 01-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/puZWbbgyTVqKaw69CZxK_w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117796_english_hls_9427ta-no/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Central Coast Mariners vs Newcastle Jets (A League 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110990_4567_CCM_NJ_fc-web_1728983129174.jpg",
@@ -58,6 +72,20 @@
             "startTime": "02:05:00 PM 01-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/UPp9JEs9QsSitmUQmr0x3g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110990_english_hls_5446ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Royal GC, Kingdom of Bahrain, Bahrain (Bahrain Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-Championship_old_v1.jpg",
+            "team_1": "Day 3",
+            "team_2": "Royal GC, Kingdom of Bahrain, Bahrain",
+            "status": "LIVE",
+            "event_name": "Bahrain Championship",
+            "match_name": "Day 3",
+            "match_id": 117647,
+            "startTime": "02:30:00 PM 01-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/VTVX8HKUQO-rZzRfMgKgZQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117647_english_hls_5642ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -111,18 +139,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Portugal vs Spain (ECN Porto T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1)_1738318156453.jpg",
-            "team_1": "Portugal",
-            "team_2": "Spain",
-            "status": "UPCOMING",
-            "event_name": "ECN Porto T20, 2025",
-            "match_name": "Portugal vs Spain",
-            "match_id": 117796,
-            "startTime": "02:30:00 PM 01-02-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Legend Sporting Club vs Ankurjyoti Club (Guwahati Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117441_4781_LSC_AC_fc-web.jpg",
             "team_1": "Legend Sporting Club",
@@ -144,18 +160,6 @@
             "match_name": "Central Stags vs Canterbury",
             "match_id": 114502,
             "startTime": "08:55:00 AM 02-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Maties Cricket Club vs Worcester United (Boland T20 Super League Finals, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117485_4787_MAT_WUT_Fc-Web.jpg",
-            "team_1": "Maties Cricket Club",
-            "team_2": "Worcester United",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals, 2025",
-            "match_name": "Maties Cricket Club vs Worcester United",
-            "match_id": 117485,
-            "startTime": "05:30:00 PM 01-02-2025"
         }
     ]
 }
