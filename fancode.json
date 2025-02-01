@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:51:03 PM 01-02-2025",
+    "last update time": "05:01:09 PM 01-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,6 +58,20 @@
             "startTime": "02:30:00 PM 01-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/VTVX8HKUQO-rZzRfMgKgZQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117647_english_hls_5642ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Pickleball",
+            "title": "Bengaluru vs Hyderabad (World Pickleball League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117086_4773_HB_BB_fc-Web_1738154983876.jpg",
+            "team_1": "Bengaluru",
+            "team_2": "Hyderabad",
+            "status": "LIVE",
+            "event_name": "World Pickleball League",
+            "match_name": "Bengaluru vs Hyderabad",
+            "match_id": 117095,
+            "startTime": "05:00:00 PM 01-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/NB0ixtd_Tr6ViywiY_gHhQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117095_english_hls_5686ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -120,6 +134,18 @@
             "startTime": "08:55:00 AM 02-02-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Plymouth Argyle vs West Bromwich Albion (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Plymouth-Argyle-vs-west-bronwich-albion_fc-web.jpg",
+            "team_1": "Plymouth Argyle",
+            "team_2": "West Bromwich Albion",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Plymouth Argyle vs West Bromwich Albion",
+            "match_id": 116552,
+            "startTime": "06:00:00 PM 01-02-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Mangalore Lions vs Karavali Tigers (Karnataka Coastal Big Bash League T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Coastal-Big-Bash-League-T20_old_v1.jpg",
@@ -130,30 +156,6 @@
             "match_name": "Mangalore Lions vs Karavali Tigers",
             "match_id": 117076,
             "startTime": "06:30:00 PM 01-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Portugal vs Spain (ECN Porto T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1).jpg",
-            "team_1": "Portugal",
-            "team_2": "Spain",
-            "status": "UPCOMING",
-            "event_name": "ECN Porto T20, 2025",
-            "match_name": "Portugal vs Spain",
-            "match_id": 117797,
-            "startTime": "06:45:00 PM 01-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Paarl CC vs Vredenburg/Saldanha CC (Boland T20 Super League Finals, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117486_4787_PRC_VDS_Fc-Web.jpg",
-            "team_1": "Paarl CC",
-            "team_2": "Vredenburg/Saldanha CC",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals, 2025",
-            "match_name": "Paarl CC vs Vredenburg/Saldanha CC",
-            "match_id": 117486,
-            "startTime": "10:00:00 PM 01-02-2025"
         }
     ]
 }
