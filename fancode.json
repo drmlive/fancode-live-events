@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:56:24 PM 02-02-2025",
+    "last update time": "04:06:29 PM 02-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,13 +19,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Portugal vs Spain (ECN Porto T20, 2025)",
+            "title": "Spain vs Portugal (ECN Porto T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Spain_2025_match-card-(1).jpg",
-            "team_1": "Portugal",
-            "team_2": "Spain",
+            "team_1": "Spain",
+            "team_2": "Portugal",
             "status": "LIVE",
             "event_name": "ECN Porto T20, 2025",
-            "match_name": "Portugal vs Spain",
+            "match_name": "Spain vs Portugal",
             "match_id": 117798,
             "startTime": "02:30:00 PM 02-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/wKg13icFRqajBi88IP3OUw/master.m3u8",
@@ -58,6 +58,20 @@
             "startTime": "02:00:00 PM 02-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/OAuUrOMiR2aS893VvgFSEQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117648_english_hls_5598ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "DSBK Superbikes Race 2 vs Yas Marina (North Circuit) (DSBK Racing Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DSBK-Racing-old-1.jpg",
+            "team_1": "DSBK Superbikes Race 2",
+            "team_2": "Yas Marina (North Circuit)",
+            "status": "LIVE",
+            "event_name": "DSBK Racing Championship",
+            "match_name": "DSBK Superbikes Race 2",
+            "match_id": 117386,
+            "startTime": "04:15:00 PM 02-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/2NPs0xtwRaCfjiL5YQBxQA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117386_english_hls_5507ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -121,18 +135,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "South Australian Scorpions vs Queensland Fire (WNCL, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109409_4508_SASC_QLF_fc-web.jpg",
-            "team_1": "South Australian Scorpions",
-            "team_2": "Queensland Fire",
-            "status": "UPCOMING",
-            "event_name": "WNCL, 2024-25",
-            "match_name": "South Australian Scorpions vs Queensland Fire",
-            "match_id": 109409,
-            "startTime": "05:00:00 AM 03-02-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Tasmania Women vs ACT Meteors (WNCL, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/109410_4508_TASW_ACTM_fc-web.jpg",
             "team_1": "Tasmania Women",
@@ -145,15 +147,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "BDMTCC vs City Cricket Club (Guwahati Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117442_4781_BDM_CCC_fc-web.jpg",
-            "team_1": "BDMTCC",
-            "team_2": "City Cricket Club",
+            "title": "South Australian Scorpions vs Queensland Fire (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109409_4508_SASC_QLF_fc-web.jpg",
+            "team_1": "South Australian Scorpions",
+            "team_2": "Queensland Fire",
             "status": "UPCOMING",
-            "event_name": "Guwahati Premier League, 2025",
-            "match_name": "BDMTCC vs City Cricket Club",
-            "match_id": 117442,
-            "startTime": "10:00:00 AM 03-02-2025"
+            "event_name": "WNCL, 2024-25",
+            "match_name": "South Australian Scorpions vs Queensland Fire",
+            "match_id": 109409,
+            "startTime": "05:00:00 AM 03-02-2025"
         }
     ]
 }
