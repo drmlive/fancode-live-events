@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:57:32 PM 03-02-2025",
+    "last update time": "04:07:38 PM 03-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "03:00:00 PM 03-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Nzq-8_tyT6qnQUn2oBBMJg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117443_english_hls_5407ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rangpur Riders vs Khulna Tigers (Bangladesh Premier League, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/113367_4644_RAN_KHT_fc-web.jpg",
-            "team_1": "Rangpur Riders",
-            "team_2": "Khulna Tigers",
-            "status": "LIVE",
-            "event_name": "Bangladesh Premier League, 2024-25",
-            "match_name": "Rangpur Riders vs Khulna Tigers",
-            "match_id": 113390,
-            "startTime": "01:00:00 PM 03-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/e6Q8tfZ8RnCH9OeIgkrGxQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/113390_english_hls_5548ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -118,6 +104,18 @@
             "startTime": "07:30:00 PM 03-02-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Coimbra Knights vs Lisbon Capitals (ECSN Portugal, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Coimbra Knights",
+            "team_2": "Lisbon Capitals",
+            "status": "UPCOMING",
+            "event_name": "ECSN Portugal, 2025",
+            "match_name": "Coimbra Knights vs Lisbon Capitals",
+            "match_id": 117758,
+            "startTime": "01:30:00 AM 04-02-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Esteghlal FC vs Al Shorta (AFC Champions League Elite 2024-25)",
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108700_4475_ESG_SHR_fc-web.jpg",
@@ -142,16 +140,16 @@
             "startTime": "09:30:00 PM 03-02-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Coimbra Knights vs Lisbon Capitals (ECSN Portugal, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Coimbra Knights",
-            "team_2": "Lisbon Capitals",
+            "event_category": "Football",
+            "title": "Al-Nassr vs Al Wasl (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108702_4475_ANF_AWL_fc-web.jpg",
+            "team_1": "Al-Nassr",
+            "team_2": "Al Wasl",
             "status": "UPCOMING",
-            "event_name": "ECSN Portugal, 2025",
-            "match_name": "Coimbra Knights vs Lisbon Capitals",
-            "match_id": 117758,
-            "startTime": "01:30:00 AM 04-02-2025"
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al-Nassr vs Al Wasl",
+            "match_id": 108702,
+            "startTime": "11:30:00 PM 03-02-2025"
         }
     ]
 }
