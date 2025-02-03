@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:10:53 PM 03-02-2025",
+    "last update time": "09:20:59 PM 03-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,28 +60,18 @@
             "adfree_url": "https://mls3.fancode.com/38f668fa-bcbb-4924-b2c6-8471d8f8b98a/master.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Worcester United vs Vredenburg/Saldanha CC (Boland T20 Super League Finals, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117489_4787_WUT_VDS_Fc-Web.jpg",
-            "team_1": "Worcester United",
-            "team_2": "Vredenburg/Saldanha CC",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals, 2025",
-            "match_name": "Worcester United vs Vredenburg/Saldanha CC",
-            "match_id": 117489,
-            "startTime": "10:00:00 PM 03-02-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Al Sadd vs Al-Ahli (AFC Champions League Elite 2024-25)",
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108701_4475_SDD_AAS_fc-web.jpg",
             "team_1": "Al Sadd",
             "team_2": "Al-Ahli",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Elite 2024-25",
             "match_name": "Al Sadd vs Al-Ahli",
             "match_id": 108701,
-            "startTime": "09:30:00 PM 03-02-2025"
+            "startTime": "09:30:00 PM 03-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/AOQfvW-oQQWPp-BPHamorA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108701_english_hls_5394ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -89,11 +79,25 @@
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108700_4475_ESG_SHR_fc-web.jpg",
             "team_1": "Esteghlal FC",
             "team_2": "Al Shorta",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Elite 2024-25",
             "match_name": "Esteghlal FC vs Al Shorta",
             "match_id": 108700,
-            "startTime": "09:30:00 PM 03-02-2025"
+            "startTime": "09:30:00 PM 03-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-eJID3ozSk6vBRctcRKzQg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108700_english_hls_9496ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Vredenburg/Saldanha CC vs Worcester United (Boland T20 Super League Finals, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117489_4787_WUT_VDS_Fc-Web.jpg",
+            "team_1": "Vredenburg/Saldanha CC",
+            "team_2": "Worcester United",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals, 2025",
+            "match_name": "Vredenburg/Saldanha CC vs Worcester United",
+            "match_id": 117489,
+            "startTime": "10:00:00 PM 03-02-2025"
         },
         {
             "event_category": "Cricket",
