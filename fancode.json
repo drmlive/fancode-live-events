@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:03:48 AM 04-02-2025",
+    "last update time": "01:14:03 AM 04-02-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Vredenburg/Saldanha CC vs Worcester United (Boland T20 Super League Finals, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117489_4787_WUT_VDS_Fc-Web.jpg",
-            "team_1": "Vredenburg/Saldanha CC",
-            "team_2": "Worcester United",
-            "status": "LIVE",
-            "event_name": "Boland T20 Super League Finals, 2025",
-            "match_name": "Vredenburg/Saldanha CC vs Worcester United",
-            "match_id": 117489,
-            "startTime": "10:00:00 PM 03-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/455sBTEuSnCSfjgws-9CVg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117489_english_hls_6509ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Lisbon Capitals vs Coimbra Knights (ECSN Portugal, 2025)",
@@ -63,11 +49,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-vs-Sunderland_fc_web.jpg",
             "team_1": "Middlesbrough",
             "team_2": "Sunderland",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2024-25",
             "match_name": "Middlesbrough vs Sunderland",
             "match_id": 116551,
-            "startTime": "01:30:00 AM 04-02-2025"
+            "startTime": "01:30:00 AM 04-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/TzaQD1zjRMynK5gmCQAAFw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116551_english_hls_5500ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,6 +128,18 @@
             "match_name": "Al Gharafa vs Pakhtakor Tashkent",
             "match_id": 108703,
             "startTime": "09:30:00 PM 04-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Giflo Young Peoples CC vs Maties Cricket Club (Boland T20 Super League Finals, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117490_4787_YPS_MAT_Fc-Web.jpg",
+            "team_1": "Giflo Young Peoples CC",
+            "team_2": "Maties Cricket Club",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals, 2025",
+            "match_name": "Giflo Young Peoples CC vs Maties Cricket Club",
+            "match_id": 117490,
+            "startTime": "10:00:00 PM 04-02-2025"
         }
     ]
 }
