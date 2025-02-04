@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:14:00 PM 04-02-2025",
+    "last update time": "01:24:06 PM 04-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "12:00:00 PM 04-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/svWuurJiTzSEREjv4vTxDw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117639_english_hls_6449ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hungary vs Austria (ECN Malta T20I Tri-Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Hungary_old-Match-card.jpg",
+            "team_1": "Hungary",
+            "team_2": "Austria",
+            "status": "LIVE",
+            "event_name": "ECN Malta T20I Tri-Series, 2025",
+            "match_name": "Hungary vs Austria",
+            "match_id": 117813,
+            "startTime": "01:30:00 PM 04-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/6Z6hw2bnSSi_neU_LPRb4Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117813_english_hls_5794ta-di/index.m3u8"
         },
         {
             "event_category": "Pickleball",
@@ -44,18 +58,6 @@
             "startTime": "11:00:00 AM 04-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/7G_9Zc-cR4OLE0Cffuw0LA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118163_english_hls_6046ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Austria vs Hungary (ECN Malta T20I Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Hungary_old-Match-card.jpg",
-            "team_1": "Austria",
-            "team_2": "Hungary",
-            "status": "UPCOMING",
-            "event_name": "ECN Malta T20I Tri-Series, 2025",
-            "match_name": "Austria vs Hungary",
-            "match_id": 117813,
-            "startTime": "01:30:00 PM 04-02-2025"
         },
         {
             "event_category": "Cricket",
@@ -130,18 +132,6 @@
             "startTime": "09:30:00 PM 04-02-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Al-Hilal vs Persepolis FC (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108704_4475_AHS_PPL_fc-web.jpg",
-            "team_1": "Al-Hilal",
-            "team_2": "Persepolis FC",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al-Hilal vs Persepolis FC",
-            "match_id": 108704,
-            "startTime": "11:30:00 PM 04-02-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Malo vs Gorkha XI (ECSN Portugal, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117760_4800_MAL_GOR_fc-web.jpg",
@@ -152,6 +142,18 @@
             "match_name": "Malo vs Gorkha XI",
             "match_id": 117760,
             "startTime": "01:30:00 AM 05-02-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Hilal vs Persepolis FC (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108704_4475_AHS_PPL_fc-web.jpg",
+            "team_1": "Al-Hilal",
+            "team_2": "Persepolis FC",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al-Hilal vs Persepolis FC",
+            "match_id": 108704,
+            "startTime": "11:30:00 PM 04-02-2025"
         }
     ]
 }
