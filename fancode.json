@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:03:02 AM 05-02-2025",
+    "last update time": "01:13:07 AM 05-02-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Malo vs Gorkha XI (ECSN Portugal, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117759_4800_MAL_GOR_fc-web.jpg",
-            "team_1": "Malo",
-            "team_2": "Gorkha XI",
-            "status": "LIVE",
-            "event_name": "ECSN Portugal, 2025",
-            "match_name": "Malo vs Gorkha XI",
-            "match_id": 117759,
-            "startTime": "11:30:00 PM 04-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/vOu4FeAERhik1l9MbcjM-Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117759_english_hls_9553ta-di/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al-Hilal vs Persepolis FC (AFC Champions League Elite 2024-25)",
@@ -72,6 +58,20 @@
             "startTime": "12:45:00 AM 05-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/b9TWhz-pSZaQ9OGaNYkTsQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118361_english_hls_5655ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malo vs Gorkha XI (ECSN Portugal, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117759_4800_MAL_GOR_fc-web.jpg",
+            "team_1": "Malo",
+            "team_2": "Gorkha XI",
+            "status": "LIVE",
+            "event_name": "ECSN Portugal, 2025",
+            "match_name": "Malo vs Gorkha XI",
+            "match_id": 117759,
+            "startTime": "11:30:00 PM 04-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/vOu4FeAERhik1l9MbcjM-Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117759_english_hls_9553ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -144,6 +144,18 @@
             "match_name": "Sath Gaon Club vs Bud Cricket Club",
             "match_id": 117446,
             "startTime": "10:00:00 AM 05-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nepal Women vs Netherlands Women (Nepal Women's T20I Triangular Series)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nepal-Women's-T20I-Triangular-Series-old-match-7.png",
+            "team_1": "Nepal Women",
+            "team_2": "Netherlands Women",
+            "status": "UPCOMING",
+            "event_name": "Nepal Women's T20I Triangular Series",
+            "match_name": "Nepal Women vs Netherlands Women",
+            "match_id": 117641,
+            "startTime": "12:00:00 PM 05-02-2025"
         }
     ]
 }
