@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:25:19 PM 04-02-2025",
+    "last update time": "03:35:24 PM 04-02-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Thailand Women vs Nepal Women (Nepal Women's T20I Triangular Series)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nepal-Women's-T20I-Triangular-Series-old-match-6.png",
-            "team_1": "Thailand Women",
-            "team_2": "Nepal Women",
-            "status": "LIVE",
-            "event_name": "Nepal Women's T20I Triangular Series",
-            "match_name": "Thailand Women vs Nepal Women",
-            "match_id": 117639,
-            "startTime": "12:00:00 PM 04-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/svWuurJiTzSEREjv4vTxDw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117639_english_hls_6449ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Hungary vs Austria (ECN Malta T20I Tri-Series, 2025)",
@@ -75,6 +61,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Thailand Women vs Nepal Women (Nepal Women's T20I Triangular Series)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nepal-Women's-T20I-Triangular-Series-old-match-6.png",
+            "team_1": "Thailand Women",
+            "team_2": "Nepal Women",
+            "status": "LIVE",
+            "event_name": "Nepal Women's T20I Triangular Series",
+            "match_name": "Thailand Women vs Nepal Women",
+            "match_id": 117639,
+            "startTime": "12:00:00 PM 04-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/svWuurJiTzSEREjv4vTxDw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117639_english_hls_6449ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Tasmania vs New South Wales (One Day Cup, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/109151_4492_TAS_NSW_fc-web.jpg",
             "team_1": "Tasmania",
@@ -84,6 +84,18 @@
             "match_name": "Tasmania vs New South Wales",
             "match_id": 109151,
             "startTime": "05:35:00 AM 05-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Team Krishshil vs Red Wings (Box Office T20 Red Ball)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Box-Office-T20-Red-Ball_match-card.jpg",
+            "team_1": "Team Krishshil",
+            "team_2": "Red Wings",
+            "status": "UPCOMING",
+            "event_name": "Box Office T20 Red Ball",
+            "match_name": "Team Krishshil vs Red Wings",
+            "match_id": 118150,
+            "startTime": "04:30:00 PM 04-02-2025"
         },
         {
             "event_category": "Cricket",
@@ -144,18 +156,6 @@
             "match_name": "Malo vs Gorkha XI",
             "match_id": 117760,
             "startTime": "01:30:00 AM 05-02-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Hilal vs Persepolis FC (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108704_4475_AHS_PPL_fc-web.jpg",
-            "team_1": "Al-Hilal",
-            "team_2": "Persepolis FC",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al-Hilal vs Persepolis FC",
-            "match_id": 108704,
-            "startTime": "11:30:00 PM 04-02-2025"
         }
     ]
 }
