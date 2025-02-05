@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:11:06 AM 06-02-2025",
+    "last update time": "01:21:12 AM 06-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,20 @@
             "adfree_url": "https://dai.fancode.com/primary/117761_english_hls_6732ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Punjab CC Amadora vs Fighters CC (ECSN Portugal, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117762_4800_PNJ_FIG_fc-web.jpg",
+            "team_1": "Punjab CC Amadora",
+            "team_2": "Fighters CC",
+            "status": "LIVE",
+            "event_name": "ECSN Portugal, 2025",
+            "match_name": "Punjab CC Amadora vs Fighters CC",
+            "match_id": 117762,
+            "startTime": "01:30:00 AM 06-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ITTaz7UUTNS0HuLE5yzQCw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117762_english_hls_3062ta-no/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Bayer 04 Leverkusen vs 1. FC K\u00f6ln (DFB Pokal)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bayer-04-Leverkusen-vs-1.-FC-Koln.jpg",
@@ -30,6 +44,20 @@
             "startTime": "01:15:00 AM 06-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/dNsVeJzcR2CI6fldAW3RwA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116539_english_hls_6496ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle United vs Arsenal (Carabao Cup 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Newcastle-United_Old.jpg",
+            "team_1": "Newcastle United",
+            "team_2": "Arsenal",
+            "status": "LIVE",
+            "event_name": "Carabao Cup 2024-25",
+            "match_name": "Newcastle United vs Arsenal",
+            "match_id": 116001,
+            "startTime": "01:30:00 AM 06-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/N2xTzt5gTIGxeXU39KHWvQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/116001_english_hls_6274ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -138,30 +166,6 @@
             "match_name": "Zimbabwe vs Ireland",
             "match_id": 116935,
             "startTime": "01:30:00 PM 06-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Punjab CC Amadora vs Fighters CC (ECSN Portugal, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117762_4800_PNJ_FIG_fc-web.jpg",
-            "team_1": "Punjab CC Amadora",
-            "team_2": "Fighters CC",
-            "status": "UPCOMING",
-            "event_name": "ECSN Portugal, 2025",
-            "match_name": "Punjab CC Amadora vs Fighters CC",
-            "match_id": 117762,
-            "startTime": "01:30:00 AM 06-02-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Newcastle United vs Arsenal (Carabao Cup 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Newcastle-United_Old.jpg",
-            "team_1": "Newcastle United",
-            "team_2": "Arsenal",
-            "status": "UPCOMING",
-            "event_name": "Carabao Cup 2024-25",
-            "match_name": "Newcastle United vs Arsenal",
-            "match_id": 116001,
-            "startTime": "01:30:00 AM 06-02-2025"
         }
     ]
 }
