@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:08:27 PM 05-02-2025",
+    "last update time": "10:18:33 PM 05-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,6 +58,20 @@
             "startTime": "08:00:00 PM 05-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/CmzsyNwKShKtdeQHwLWUQg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118157_english_hls_9681ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Barbados Pride vs West Indies Academy (West Indies Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117752_4799_BAR_WIC_fc-Web_1738071641413.jpg",
+            "team_1": "Barbados Pride",
+            "team_2": "West Indies Academy",
+            "status": "LIVE",
+            "event_name": "West Indies Championship, 2025",
+            "match_name": "Barbados Pride vs West Indies Academy",
+            "match_id": 117752,
+            "startTime": "10:30:00 PM 05-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/DOLyOqY2QiaU5dArVB3qJw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117752_english_hls_7287ta-di/index.m3u8"
         },
         {
             "event_category": "Padel",
@@ -127,18 +141,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Barbados Pride vs West Indies Academy (West Indies Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117752_4799_BAR_WIC_fc-Web_1738071641413.jpg",
-            "team_1": "Barbados Pride",
-            "team_2": "West Indies Academy",
-            "status": "UPCOMING",
-            "event_name": "West Indies Championship, 2025",
-            "match_name": "Barbados Pride vs West Indies Academy",
-            "match_id": 117752,
-            "startTime": "10:30:00 PM 05-02-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Lexus vs Phoenix Cricketers (KCC T20 Challengers B League, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Lexus",
@@ -148,6 +150,18 @@
             "match_name": "Lexus vs Phoenix Cricketers",
             "match_id": 115832,
             "startTime": "11:00:00 PM 05-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chhattisgarh Warriors vs Delhi Royals (Legend 90, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/118225_4824_CW_DLR_fc-Web.jpg",
+            "team_1": "Chhattisgarh Warriors",
+            "team_2": "Delhi Royals",
+            "status": "UPCOMING",
+            "event_name": "Legend 90, 2025",
+            "match_name": "Chhattisgarh Warriors vs Delhi Royals",
+            "match_id": 118225,
+            "startTime": "07:00:00 PM 06-02-2025"
         }
     ]
 }
