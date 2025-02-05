@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:02:28 AM 06-02-2025",
+    "last update time": "03:12:34 AM 06-02-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Punjab CC Amadora vs Fighters CC (ECSN Portugal, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117762_4800_PNJ_FIG_fc-web.jpg",
-            "team_1": "Punjab CC Amadora",
-            "team_2": "Fighters CC",
-            "status": "LIVE",
-            "event_name": "ECSN Portugal, 2025",
-            "match_name": "Punjab CC Amadora vs Fighters CC",
-            "match_id": 117762,
-            "startTime": "01:30:00 AM 06-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ITTaz7UUTNS0HuLE5yzQCw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117762_english_hls_3062ta-no/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Bayer 04 Leverkusen vs 1. FC K\u00f6ln (DFB Pokal)",
@@ -89,6 +75,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Punjab CC Amadora vs Fighters CC (ECSN Portugal, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117762_4800_PNJ_FIG_fc-web.jpg",
+            "team_1": "Punjab CC Amadora",
+            "team_2": "Fighters CC",
+            "status": "LIVE",
+            "event_name": "ECSN Portugal, 2025",
+            "match_name": "Punjab CC Amadora vs Fighters CC",
+            "match_id": 117762,
+            "startTime": "01:30:00 AM 06-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ITTaz7UUTNS0HuLE5yzQCw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117762_english_hls_3062ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
             "team_1": "Sri Lanka",
@@ -137,15 +137,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Combined Campuses and Colleges vs Guyana Harpy Eagles (West Indies Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg",
-            "team_1": "Combined Campuses and Colleges",
-            "team_2": "Guyana Harpy Eagles",
-            "status": "PAUSED",
-            "event_name": "West Indies Championship, 2025",
-            "match_name": "Combined Campuses and Colleges vs Guyana Harpy Eagles",
-            "match_id": 117751,
-            "startTime": "07:30:00 PM 05-02-2025"
+            "title": "Hong Kong, China vs Singapore (ICC CWC Challenge League B, 2024-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Hong Kong, China",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC Challenge League B, 2024-26",
+            "match_name": "Hong Kong, China vs Singapore",
+            "match_id": 118002,
+            "startTime": "06:30:00 AM 06-02-2025"
         }
     ]
 }
