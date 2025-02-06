@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:54:05 AM 06-02-2025",
+    "last update time": "06:04:10 AM 06-02-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Barbados Pride vs West Indies Academy (West Indies Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117752_4799_BAR_WIC_fc-Web_1738071641413.jpg",
-            "team_1": "Barbados Pride",
-            "team_2": "West Indies Academy",
-            "status": "LIVE",
-            "event_name": "West Indies Championship, 2025",
-            "match_name": "Barbados Pride vs West Indies Academy",
-            "match_id": 117752,
-            "startTime": "10:30:00 PM 05-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/DOLyOqY2QiaU5dArVB3qJw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117752_english_hls_7287ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
@@ -67,15 +53,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Hong Kong, China vs Singapore (ICC CWC Challenge League B, 2024-26)",
+            "title": "Singapore vs Hong Kong, China (ICC CWC Challenge League B, 2024-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Hong Kong, China",
-            "team_2": "Singapore",
+            "team_1": "Singapore",
+            "team_2": "Hong Kong, China",
             "status": "UPCOMING",
             "event_name": "ICC CWC Challenge League B, 2024-26",
-            "match_name": "Hong Kong, China vs Singapore",
+            "match_name": "Singapore vs Hong Kong, China",
             "match_id": 118002,
             "startTime": "06:30:00 AM 06-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Barbados Pride vs West Indies Academy (West Indies Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117752_4799_BAR_WIC_fc-Web_1738071641413.jpg",
+            "team_1": "Barbados Pride",
+            "team_2": "West Indies Academy",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship, 2025",
+            "match_name": "Barbados Pride vs West Indies Academy",
+            "match_id": 117752,
+            "startTime": "10:30:00 PM 05-02-2025"
         },
         {
             "event_category": "Cricket",
