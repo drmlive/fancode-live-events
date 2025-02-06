@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:32:58 PM 06-02-2025",
+    "last update time": "06:43:06 PM 06-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -130,16 +130,32 @@
             "adfree_url": "https://dai.fancode.com/primary/118055_english_hls_9424ta-no/index.m3u8"
         },
         {
+            "event_category": "Padel",
+            "title": "Jaguars vs Lions (World Padel League - Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Jaguars-vs-Game-Changer-Lion_old-Match-card_1738595237846.jpg",
+            "team_1": "Jaguars",
+            "team_2": "Lions",
+            "status": "LIVE",
+            "event_name": "World Padel League - Season 2",
+            "match_name": "Jaguars vs Lions",
+            "match_id": 117983,
+            "startTime": "07:00:00 PM 06-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/7Ua9RrX9Qrap1aAlrhkRtQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117983_english_hls_6361ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
-            "title": "Chhattisgarh Warriors vs Delhi Royals (Legend 90, 2025)",
+            "title": "Delhi Royals vs Chhattisgarh Warriors (Legend 90, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118225_4824_CW_DLR_fc-Web.jpg",
-            "team_1": "Chhattisgarh Warriors",
-            "team_2": "Delhi Royals",
-            "status": "UPCOMING",
+            "team_1": "Delhi Royals",
+            "team_2": "Chhattisgarh Warriors",
+            "status": "LIVE",
             "event_name": "Legend 90, 2025",
-            "match_name": "Chhattisgarh Warriors vs Delhi Royals",
+            "match_name": "Delhi Royals vs Chhattisgarh Warriors",
             "match_id": 118225,
-            "startTime": "07:00:00 PM 06-02-2025"
+            "startTime": "07:00:00 PM 06-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/bP6HHd0fSlK1ec_QWlQlzQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118225_english_hls_9751ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,18 +168,6 @@
             "match_name": "Sri Lanka vs Australia",
             "match_id": 115616,
             "startTime": "10:00:00 AM 06-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "MI Emirates vs Sharjah Warriorz (DP World International League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115979_4730_MIE_SWR_fc-web.jpg",
-            "team_1": "MI Emirates",
-            "team_2": "Sharjah Warriorz",
-            "status": "UPCOMING",
-            "event_name": "DP World International League T20, 2025",
-            "match_name": "MI Emirates vs Sharjah Warriorz",
-            "match_id": 115983,
-            "startTime": "08:00:00 PM 06-02-2025"
         }
     ]
 }
