@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:37:57 PM 06-02-2025",
+    "last update time": "11:48:22 PM 06-02-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Osasuna (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-VS-Osasuna_old-(1).jpg",
+            "team_1": "Real Sociedad",
+            "team_2": "Osasuna",
+            "status": "LIVE",
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Real Sociedad vs Osasuna",
+            "match_id": 117369,
+            "startTime": "12:00:00 AM 07-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/zi4tAbc-RMSLFxXO61X7_A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117369_english_hls_6548ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "MI Emirates vs Sharjah Warriorz (DP World International League T20, 2025)",
@@ -156,18 +170,6 @@
             "startTime": "11:00:00 PM 06-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kEvvFlWlR3m5JHY9kwkgPQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118364_english_hls_6779ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
-            "team_1": "Sri Lanka",
-            "team_2": "Australia",
-            "status": "PAUSED",
-            "event_name": "Australia tour of Sri Lanka, 2025",
-            "match_name": "Sri Lanka vs Australia",
-            "match_id": 115616,
-            "startTime": "10:00:00 AM 06-02-2025"
         }
     ]
 }
