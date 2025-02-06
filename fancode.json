@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:19:34 PM 06-02-2025",
+    "last update time": "03:29:56 PM 06-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -131,11 +131,25 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117818_4805_MAL_HUN_fc-Web.jpg",
             "team_1": "Hungary",
             "team_2": "Malta",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECI Malta, 2025",
             "match_name": "Hungary vs Malta",
             "match_id": 117818,
-            "startTime": "03:45:00 PM 06-02-2025"
+            "startTime": "03:45:00 PM 06-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/QrsbriBHRPyjVky-CXrm8Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117818_english_hls_6324ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Blue Boys vs Avenida Titans (BOX Office Hundred Ball)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
+            "team_1": "Blue Boys",
+            "team_2": "Avenida Titans",
+            "status": "UPCOMING",
+            "event_name": "BOX Office Hundred Ball",
+            "match_name": "Blue Boys vs Avenida Titans",
+            "match_id": 118162,
+            "startTime": "04:30:00 PM 06-02-2025"
         },
         {
             "event_category": "Cricket",
@@ -148,18 +162,6 @@
             "match_name": "Hungary vs Austria",
             "match_id": 117819,
             "startTime": "05:45:00 PM 06-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malta vs Austria (ECI Malta, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117820_4805_MAL_AUT_fc-Web.jpg",
-            "team_1": "Malta",
-            "team_2": "Austria",
-            "status": "UPCOMING",
-            "event_name": "ECI Malta, 2025",
-            "match_name": "Malta vs Austria",
-            "match_id": 117820,
-            "startTime": "07:45:00 PM 06-02-2025"
         }
     ]
 }
