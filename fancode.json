@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:31:30 PM 06-02-2025",
+    "last update time": "05:41:38 PM 06-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:30:00 PM 06-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/1fNCotbvT4-xpT71DmtyWg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116935_english_hls_6774ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
-            "team_1": "Sri Lanka",
-            "team_2": "Australia",
-            "status": "LIVE",
-            "event_name": "Australia tour of Sri Lanka, 2025",
-            "match_name": "Sri Lanka vs Australia",
-            "match_id": 115616,
-            "startTime": "10:00:00 AM 06-02-2025",
-            "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?No 'dashUrl' found in the response.",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?No 'dashUrl' found in the response."
         },
         {
             "event_category": "Cricket",
@@ -117,17 +103,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Hungary vs Malta (ECI Malta, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117818_4805_MAL_HUN_fc-Web.jpg",
-            "team_1": "Hungary",
-            "team_2": "Malta",
-            "status": "LIVE",
-            "event_name": "ECI Malta, 2025",
-            "match_name": "Hungary vs Malta",
-            "match_id": 117818,
-            "startTime": "03:45:00 PM 06-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/QrsbriBHRPyjVky-CXrm8Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117818_english_hls_6324ta-di/index.m3u8"
+            "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
+            "team_1": "Sri Lanka",
+            "team_2": "Australia",
+            "status": "PAUSED",
+            "event_name": "Australia tour of Sri Lanka, 2025",
+            "match_name": "Sri Lanka vs Australia",
+            "match_id": 115616,
+            "startTime": "10:00:00 AM 06-02-2025"
         },
         {
             "event_category": "Cricket",
@@ -164,6 +148,18 @@
             "match_name": "Malta vs Austria",
             "match_id": 117820,
             "startTime": "07:45:00 PM 06-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Giflo Young Peoples CC vs Worcester United (Boland T20 Super League Finals, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117492_4787_YPS_WUT_Fc-Web.jpg",
+            "team_1": "Giflo Young Peoples CC",
+            "team_2": "Worcester United",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals, 2025",
+            "match_name": "Giflo Young Peoples CC vs Worcester United",
+            "match_id": 117492,
+            "startTime": "10:00:00 PM 06-02-2025"
         }
     ]
 }
