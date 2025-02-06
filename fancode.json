@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:12:13 AM 07-02-2025",
+    "last update time": "03:22:19 AM 07-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -116,20 +116,6 @@
             "adfree_url": "https://dai.fancode.com/primary/118131_english_hls_6456ta-di/index.m3u8"
         },
         {
-            "event_category": "Basketball",
-            "title": "Bayern Munich vs LDLC ASVEL Villeurbanne (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/118365_CASACARDS_APP.png",
-            "team_1": "Bayern Munich",
-            "team_2": "LDLC ASVEL Villeurbanne",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Bayern Munich vs LDLC ASVEL Villeurbanne",
-            "match_id": 118365,
-            "startTime": "01:00:00 AM 07-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ZdNKv9EDQKa_XnWU6Uwprw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118365_english_hls_7249ta-di/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Feed E - Day 1 vs Arizona, United States (WM Phoenix Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",
@@ -159,17 +145,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malo vs Coimbra Knights (ECSN Portugal, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117764_4800_CK_MAL_fc-web.jpg",
-            "team_1": "Malo",
-            "team_2": "Coimbra Knights",
-            "status": "LIVE",
-            "event_name": "ECSN Portugal, 2025",
-            "match_name": "Malo vs Coimbra Knights",
-            "match_id": 117764,
-            "startTime": "01:30:00 AM 07-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/rgw_2M_IS1eBG2xS3NDd-w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117764_english_hls_9912ta-di/index.m3u8"
+            "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
+            "team_1": "Sri Lanka",
+            "team_2": "Australia",
+            "status": "PAUSED",
+            "event_name": "Australia tour of Sri Lanka, 2025",
+            "match_name": "Sri Lanka vs Australia",
+            "match_id": 115616,
+            "startTime": "10:00:00 AM 06-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland vs Zimbabwe (Ireland tour of Zimbabwe, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",
+            "team_1": "Ireland",
+            "team_2": "Zimbabwe",
+            "status": "PAUSED",
+            "event_name": "Ireland tour of Zimbabwe, 2025",
+            "match_name": "Ireland vs Zimbabwe",
+            "match_id": 116935,
+            "startTime": "01:30:00 PM 06-02-2025"
         }
     ]
 }
