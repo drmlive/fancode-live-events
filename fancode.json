@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:32:24 AM 07-02-2025",
+    "last update time": "03:42:30 AM 07-02-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Liverpool vs Tottenham Hotspur (Carabao Cup 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tottenham-Hotspur-VS-Liverpool_Old.jpg",
-            "team_1": "Liverpool",
-            "team_2": "Tottenham Hotspur",
-            "status": "LIVE",
-            "event_name": "Carabao Cup 2024-25",
-            "match_name": "Liverpool vs Tottenham Hotspur",
-            "match_id": 116002,
-            "startTime": "01:30:00 AM 07-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/iKkg6lqwR6KKoaviCVyzMA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116002_english_hls_6593ta-di/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Valencia CF vs Barcelona (Copa del Rey 2024-25)",
@@ -30,20 +16,6 @@
             "startTime": "02:00:00 AM 07-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ZlxrGffxThCaSIk1jHeprA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117370_english_hls_6280ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Combined Campuses and Colleges vs Guyana Harpy Eagles (West Indies Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117751_4799_GUY_CCC_fc-Web_1738071641408.jpg",
-            "team_1": "Combined Campuses and Colleges",
-            "team_2": "Guyana Harpy Eagles",
-            "status": "LIVE",
-            "event_name": "West Indies Championship, 2025",
-            "match_name": "Combined Campuses and Colleges vs Guyana Harpy Eagles",
-            "match_id": 117751,
-            "startTime": "07:30:00 PM 05-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/K3SC4NEnRumbpnto8HZjJw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117751_english_hls_6568ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -166,6 +138,18 @@
             "match_name": "Ireland vs Zimbabwe",
             "match_id": 116935,
             "startTime": "01:30:00 PM 06-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rajasthan Kings vs Dubai Giants (Legend 90, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/118226_4824_RK_DG_fc-Web.jpg",
+            "team_1": "Rajasthan Kings",
+            "team_2": "Dubai Giants",
+            "status": "UPCOMING",
+            "event_name": "Legend 90, 2025",
+            "match_name": "Rajasthan Kings vs Dubai Giants",
+            "match_id": 118226,
+            "startTime": "04:00:00 PM 07-02-2025"
         }
     ]
 }
