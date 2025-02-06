@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:29:42 AM 07-02-2025",
+    "last update time": "01:39:49 AM 07-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -44,6 +44,20 @@
             "startTime": "12:00:00 AM 07-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/zi4tAbc-RMSLFxXO61X7_A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117369_english_hls_6548ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Valencia CF vs Barcelona (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valencia-CF-VS-Barcelona_old.jpg",
+            "team_1": "Valencia CF",
+            "team_2": "Barcelona",
+            "status": "LIVE",
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Valencia CF vs Barcelona",
+            "match_id": 117370,
+            "startTime": "02:00:00 AM 07-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZlxrGffxThCaSIk1jHeprA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117370_english_hls_6280ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,18 +168,6 @@
             "match_name": "Sri Lanka vs Australia",
             "match_id": 115616,
             "startTime": "10:00:00 AM 06-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ireland vs Zimbabwe (Ireland tour of Zimbabwe, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",
-            "team_1": "Ireland",
-            "team_2": "Zimbabwe",
-            "status": "PAUSED",
-            "event_name": "Ireland tour of Zimbabwe, 2025",
-            "match_name": "Ireland vs Zimbabwe",
-            "match_id": 116935,
-            "startTime": "01:30:00 PM 06-02-2025"
         }
     ]
 }
