@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:45:56 AM 07-02-2025",
+    "last update time": "09:56:02 AM 07-02-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
+            "team_1": "Sri Lanka",
+            "team_2": "Australia",
+            "status": "LIVE",
+            "event_name": "Australia tour of Sri Lanka, 2025",
+            "match_name": "Sri Lanka vs Australia",
+            "match_id": 115616,
+            "startTime": "10:00:00 AM 06-02-2025",
+            "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?hdnea=exp=1738950813~acl=*~id=1556784483112233~hmac=438681afbddbcc3477e5ef69e6efc4ed4170ec786a658eec15c629616bd103a1",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/AUSVSSL/master.m3u8?hdnea=exp=1738950813~acl=*~id=1556784483112233~hmac=438681afbddbcc3477e5ef69e6efc4ed4170ec786a658eec15c629616bd103a1"
+        },
         {
             "event_category": "Cricket",
             "title": "New South Wales Breakers vs South Australian Scorpions (WNCL, 2024-25)",
@@ -44,20 +58,6 @@
             "startTime": "04:30:00 AM 07-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/XhpHwsddRsOip53O-3AH4g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109412_english_hls_9571ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tanzania vs Italy (ICC CWC Challenge League B, 2024-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/112298_4607_ITA_TAN_fc-web.jpg",
-            "team_1": "Tanzania",
-            "team_2": "Italy",
-            "status": "LIVE",
-            "event_name": "ICC CWC Challenge League B, 2024-26",
-            "match_name": "Tanzania vs Italy",
-            "match_id": 118004,
-            "startTime": "06:30:00 AM 07-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/mF4g1_3SRnqeFq4JLatZ-w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118004_english_hls_5912ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -131,15 +131,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
-            "team_1": "Sri Lanka",
-            "team_2": "Australia",
-            "status": "PAUSED",
-            "event_name": "Australia tour of Sri Lanka, 2025",
-            "match_name": "Sri Lanka vs Australia",
-            "match_id": 115616,
-            "startTime": "10:00:00 AM 06-02-2025"
+            "title": "Tanzania vs Italy (ICC CWC Challenge League B, 2024-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/112298_4607_ITA_TAN_fc-web.jpg",
+            "team_1": "Tanzania",
+            "team_2": "Italy",
+            "status": "LIVE",
+            "event_name": "ICC CWC Challenge League B, 2024-26",
+            "match_name": "Tanzania vs Italy",
+            "match_id": 118004,
+            "startTime": "06:30:00 AM 07-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/mF4g1_3SRnqeFq4JLatZ-w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118004_english_hls_5912ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
