@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:08:37 AM 08-02-2025",
+    "last update time": "02:18:43 AM 08-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -116,6 +116,34 @@
             "adfree_url": "https://dai.fancode.com/primary/118366_english_hls_6594ta-no/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Feed A - Day 2 vs Arizona, United States (WM Phoenix Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",
+            "team_1": "Feed A - Day 2",
+            "team_2": "Arizona, United States",
+            "status": "LIVE",
+            "event_name": "WM Phoenix Open",
+            "match_name": "Feed A - Day 2",
+            "match_id": 118138,
+            "startTime": "02:30:00 AM 08-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/e2cjphEcTKuNFNrSwATx5Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118138_english_hls_9371ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Feed E - Day 2 vs Arizona, United States (WM Phoenix Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",
+            "team_1": "Feed E - Day 2",
+            "team_2": "Arizona, United States",
+            "status": "LIVE",
+            "event_name": "WM Phoenix Open",
+            "match_name": "Feed E - Day 2",
+            "match_id": 118139,
+            "startTime": "02:30:00 AM 08-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/KJVxr2xuSBae9YNMZQGn3w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118139_english_hls_6568ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
@@ -138,30 +166,6 @@
             "match_name": "Ireland vs Zimbabwe",
             "match_id": 116935,
             "startTime": "01:30:00 PM 06-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs Victoria (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Victoria",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Tasmania vs Victoria",
-            "match_id": 110409,
-            "startTime": "05:00:00 AM 08-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs New South Wales (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "New South Wales",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs New South Wales",
-            "match_id": 110410,
-            "startTime": "05:30:00 AM 08-02-2025"
         }
     ]
 }
