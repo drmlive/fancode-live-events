@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:37:16 AM 08-02-2025",
+    "last update time": "12:47:26 AM 08-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -102,6 +102,20 @@
             "adfree_url": "https://dai.fancode.com/primary/118136_english_hls_5703ta-no/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Barcelona vs Olympiacos Piraeus (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/118366_CASACARDS_APP.png",
+            "team_1": "Barcelona",
+            "team_2": "Olympiacos Piraeus",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Barcelona vs Olympiacos Piraeus",
+            "match_id": 118366,
+            "startTime": "01:00:00 AM 08-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/zk7iLfiPSmOEsoI9M6vdmw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118366_english_hls_6594ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
@@ -148,18 +162,6 @@
             "match_name": "Queensland vs New South Wales",
             "match_id": 110410,
             "startTime": "05:30:00 AM 08-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia vs South Australia (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110411_4543_WAU_SAU_fc-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "South Australia",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Western Australia vs South Australia",
-            "match_id": 110411,
-            "startTime": "08:00:00 AM 08-02-2025"
         }
     ]
 }
