@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:43:05 AM 09-02-2025",
+    "last update time": "12:53:11 AM 09-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "11:00:00 PM 08-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/eBuWfbJtRnyH_i9yvju7PA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118069_english_hls_5946ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Gorkha XI vs Fighters CC (ECSN Portugal, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117767_4800_GOR_FIG_fc-web.jpg",
-            "team_1": "Gorkha XI",
-            "team_2": "Fighters CC",
-            "status": "LIVE",
-            "event_name": "ECSN Portugal, 2025",
-            "match_name": "Gorkha XI vs Fighters CC",
-            "match_id": 117767,
-            "startTime": "11:30:00 PM 08-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/NBydyLyHS12mqJKJf4Idyg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117767_english_hls_5339ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -164,6 +150,18 @@
             "match_name": "Tasmania vs Victoria",
             "match_id": 110409,
             "startTime": "05:00:00 AM 08-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs New South Wales (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "New South Wales",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Queensland vs New South Wales",
+            "match_id": 110410,
+            "startTime": "05:30:00 AM 08-02-2025"
         }
     ]
 }
