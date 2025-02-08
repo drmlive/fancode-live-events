@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:53:54 AM 08-02-2025",
+    "last update time": "11:04:00 AM 08-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -116,16 +116,18 @@
             "adfree_url": "https://dai.fancode.com/primary/118171_english_hls_9678ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Ireland vs Zimbabwe (Ireland tour of Zimbabwe, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",
-            "team_1": "Ireland",
-            "team_2": "Zimbabwe",
-            "status": "PAUSED",
-            "event_name": "Ireland tour of Zimbabwe, 2025",
-            "match_name": "Ireland vs Zimbabwe",
-            "match_id": 116935,
-            "startTime": "01:30:00 PM 06-02-2025"
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Melbourne Victory (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110995_4567_NJ_MLV_fc-web_1728983129296.jpg",
+            "team_1": "Newcastle Jets",
+            "team_2": "Melbourne Victory",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Newcastle Jets vs Melbourne Victory",
+            "match_id": 110995,
+            "startTime": "11:30:00 AM 08-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/lNxxgrtKSoSzo-YxDil_hQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110995_english_hls_5472ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -141,6 +143,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Ireland vs Zimbabwe (Ireland tour of Zimbabwe, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",
+            "team_1": "Ireland",
+            "team_2": "Zimbabwe",
+            "status": "PAUSED",
+            "event_name": "Ireland tour of Zimbabwe, 2025",
+            "match_name": "Ireland vs Zimbabwe",
+            "match_id": 116935,
+            "startTime": "01:30:00 PM 06-02-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Pakistan vs New Zealand (New Zealand and South Africa tour of Pakistan 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_1738894392220.jpg",
             "team_1": "Pakistan",
@@ -150,18 +164,6 @@
             "match_name": "Pakistan vs New Zealand",
             "match_id": 117416,
             "startTime": "02:30:00 PM 08-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chhattisgarh Warriors vs Dubai Giants (Legend 90, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/118229_4824_CW_DG_fc-Web.jpg",
-            "team_1": "Chhattisgarh Warriors",
-            "team_2": "Dubai Giants",
-            "status": "UPCOMING",
-            "event_name": "Legend 90, 2025",
-            "match_name": "Chhattisgarh Warriors vs Dubai Giants",
-            "match_id": 118229,
-            "startTime": "03:00:00 PM 08-02-2025"
         }
     ]
 }
