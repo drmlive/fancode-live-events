@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:55:48 PM 08-02-2025",
+    "last update time": "02:05:55 PM 08-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_1738894392220.jpg",
             "team_1": "Pakistan",
             "team_2": "New Zealand",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "New Zealand and South Africa tour of Pakistan 2025",
             "match_name": "Pakistan vs New Zealand",
             "match_id": 117416,
-            "startTime": "02:30:00 PM 08-02-2025"
+            "startTime": "02:30:00 PM 08-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/30_U2W1zRQmlR3_nGJr3Pw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117416_english_hls_5961ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -73,20 +75,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "City Challengers vs Hiims Hawks (Chandigarh T20)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",
-            "team_1": "City Challengers",
-            "team_2": "Hiims Hawks",
-            "status": "LIVE",
-            "event_name": "Chandigarh T20",
-            "match_name": "City Challengers vs Hiims Hawks",
-            "match_id": 118099,
-            "startTime": "12:30:00 PM 08-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/d9gQ_RJtT7ayW0NmxaQU8w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118099_english_hls_9178ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "JP Sports vs Lightning Legends (Tillo Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117988_4815_JPS_LGT_fc-Web.jpg",
             "team_1": "JP Sports",
@@ -98,6 +86,20 @@
             "startTime": "12:30:00 PM 08-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/nJhYBfhTRxelwQL2RbWmRg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117988_english_hls_6016ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "City Challengers vs Hiims Hawks (Chandigarh T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",
+            "team_1": "City Challengers",
+            "team_2": "Hiims Hawks",
+            "status": "LIVE",
+            "event_name": "Chandigarh T20",
+            "match_name": "City Challengers vs Hiims Hawks",
+            "match_id": 118099,
+            "startTime": "12:30:00 PM 08-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/d9gQ_RJtT7ayW0NmxaQU8w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118099_english_hls_9178ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
