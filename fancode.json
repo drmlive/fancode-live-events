@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:24:41 AM 09-02-2025",
+    "last update time": "03:34:47 AM 09-02-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Feed B - Day 3 vs Arizona, United States (WM Phoenix Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",
-            "team_1": "Feed B - Day 3",
-            "team_2": "Arizona, United States",
-            "status": "LIVE",
-            "event_name": "WM Phoenix Open",
-            "match_name": "Feed B - Day 3",
-            "match_id": 118140,
-            "startTime": "09:30:00 PM 08-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/zhaNIWEaSMqomNRL4P-X3Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118140_english_hls_5244ta-di/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Feed D - Day 3 vs Arizona, United States (WM Phoenix Open)",
@@ -145,15 +131,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Dubai Capitals vs Desert Vipers (DP World International League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/115964_4730_DC_DV_fc-web.jpg",
-            "team_1": "Dubai Capitals",
-            "team_2": "Desert Vipers",
+            "title": "Victoria Women vs Queensland Fire (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109416_4508_VCTW_QLF_fc-web.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "Queensland Fire",
             "status": "UPCOMING",
-            "event_name": "DP World International League T20, 2025",
-            "match_name": "Dubai Capitals vs Desert Vipers",
-            "match_id": 115985,
-            "startTime": "07:30:00 PM 09-02-2025"
+            "event_name": "WNCL, 2024-25",
+            "match_name": "Victoria Women vs Queensland Fire",
+            "match_id": 109416,
+            "startTime": "04:30:00 AM 09-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ACT Meteors vs Western Australia Women (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109415_4508_ACTM_WA-W_fc-web.jpg",
+            "team_1": "ACT Meteors",
+            "team_2": "Western Australia Women",
+            "status": "UPCOMING",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "ACT Meteors vs Western Australia Women",
+            "match_id": 109415,
+            "startTime": "04:30:00 AM 09-02-2025"
         }
     ]
 }
