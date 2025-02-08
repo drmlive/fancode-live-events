@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:51:22 PM 08-02-2025",
+    "last update time": "10:01:28 PM 08-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -130,6 +130,20 @@
             "adfree_url": "https://dai.fancode.com/primary/118140_english_hls_5244ta-di/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Feed D - Day 3 vs Arizona, United States (WM Phoenix Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",
+            "team_1": "Feed D - Day 3",
+            "team_2": "Arizona, United States",
+            "status": "LIVE",
+            "event_name": "WM Phoenix Open",
+            "match_name": "Feed D - Day 3",
+            "match_id": 118142,
+            "startTime": "10:15:00 PM 08-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Z7S4Z-FOQfSZF3ff6OVfIQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118142_english_hls_4891ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_Old_1738055651553.jpg",
@@ -152,18 +166,6 @@
             "match_name": "Ireland vs Zimbabwe",
             "match_id": 116935,
             "startTime": "01:30:00 PM 06-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs Victoria (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110409_4543_TAS_VCT_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Victoria",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Tasmania vs Victoria",
-            "match_id": 110409,
-            "startTime": "05:00:00 AM 08-02-2025"
         }
     ]
 }
