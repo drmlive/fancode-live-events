@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:06:50 PM 09-02-2025",
+    "last update time": "11:16:56 PM 09-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "10:00:00 PM 09-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/6oH7yOtHSfW-yyQHeDVGvA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117498_english_hls_5164ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Coimbra Knights vs Punjab CC Amadora (ECSN Portugal, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117769_4800_CK_PNJ_fc-web.jpg",
+            "team_1": "Coimbra Knights",
+            "team_2": "Punjab CC Amadora",
+            "status": "LIVE",
+            "event_name": "ECSN Portugal, 2025",
+            "match_name": "Coimbra Knights vs Punjab CC Amadora",
+            "match_id": 117769,
+            "startTime": "11:30:00 PM 09-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/GuWvkJKoQfWBZtSnpqUL9w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117769_english_hls_4968ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,6 +116,34 @@
             "adfree_url": "https://dai.fancode.com/primary/118146_english_hls_9330ta-di/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Feed E - Day 4 vs Arizona, United States (WM Phoenix Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",
+            "team_1": "Feed E - Day 4",
+            "team_2": "Arizona, United States",
+            "status": "LIVE",
+            "event_name": "WM Phoenix Open",
+            "match_name": "Feed E - Day 4",
+            "match_id": 118149,
+            "startTime": "11:30:00 PM 09-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/eNXPMFOLRgG0I8iiGdWgng/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118149_english_hls_8471ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Feed A - Day 4 vs Arizona, United States (WM Phoenix Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-old-match-card.png",
+            "team_1": "Feed A - Day 4",
+            "team_2": "Arizona, United States",
+            "status": "LIVE",
+            "event_name": "WM Phoenix Open",
+            "match_name": "Feed A - Day 4",
+            "match_id": 118148,
+            "startTime": "11:30:00 PM 09-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/UmUguyUGSPulLlLlUXpCoA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118148_english_hls_2134ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Ireland vs Zimbabwe (Ireland tour of Zimbabwe, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-Test_OLD_1738767396284.jpg",
@@ -124,42 +166,6 @@
             "match_name": "Tasmania vs Victoria",
             "match_id": 110409,
             "startTime": "05:00:00 AM 08-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs New South Wales (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "New South Wales",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs New South Wales",
-            "match_id": 110410,
-            "startTime": "05:30:00 AM 08-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand vs South Africa (New Zealand and South Africa tour of Pakistan 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_2_1739082641620.jpg",
-            "team_1": "New Zealand",
-            "team_2": "South Africa",
-            "status": "UPCOMING",
-            "event_name": "New Zealand and South Africa tour of Pakistan 2025",
-            "match_name": "New Zealand vs South Africa",
-            "match_id": 117417,
-            "startTime": "10:00:00 AM 10-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Coimbra Knights vs Punjab CC Amadora (ECSN Portugal, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117769_4800_CK_PNJ_fc-web.jpg",
-            "team_1": "Coimbra Knights",
-            "team_2": "Punjab CC Amadora",
-            "status": "UPCOMING",
-            "event_name": "ECSN Portugal, 2025",
-            "match_name": "Coimbra Knights vs Punjab CC Amadora",
-            "match_id": 117769,
-            "startTime": "11:30:00 PM 09-02-2025"
         }
     ]
 }
