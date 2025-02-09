@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:30:27 AM 09-02-2025",
+    "last update time": "11:40:32 AM 09-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -144,6 +144,20 @@
             "adfree_url": "https://dai.fancode.com/primary/118548_english_hls_7436ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Macarthur vs Western United (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110997_4567_MAC_WST_fc-web_1728983128657.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Western United",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Macarthur vs Western United",
+            "match_id": 110997,
+            "startTime": "11:30:00 AM 09-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/SNCBpm3qQ0Cgeb-nmq6S9w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110997_english_hls_4914ta-di/index.m3u8"
+        },
+        {
             "event_category": "Pickleball",
             "title": "Indian Open 2025 vs Mix Doubles Pro Final (Indian Open 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Global-Sports-Pickleball-Indian-Open-old_1738949933129.jpg",
@@ -156,20 +170,6 @@
             "startTime": "09:00:00 AM 09-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/-zSaeREdReGqgV2xBXTomA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118188_english_hls_8565ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Pickleball",
-            "title": "Hyderabad Vikings vs Jaipur Jawans (Challenger Pickleball League)",
-            "src": "https://images.fancode.com/aig/match/v1/118759_CASACARDS_APP.png",
-            "team_1": "Hyderabad Vikings",
-            "team_2": "Jaipur Jawans",
-            "status": "LIVE",
-            "event_name": "Challenger Pickleball League",
-            "match_name": "Hyderabad Vikings vs Jaipur Jawans",
-            "match_id": 118759,
-            "startTime": "10:15:00 AM 09-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/nU_SKN4nQ0WbPuI54wXFXg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118759_english_hls_5323ta-no/index.m3u8"
         }
     ]
 }
