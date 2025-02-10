@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:05:07 PM 10-02-2025",
+    "last update time": "01:15:15 PM 10-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Queensland vs New South Wales (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "New South Wales",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs New South Wales",
-            "match_id": 110410,
-            "startTime": "05:30:00 AM 08-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/VxVScZdYTiGDl8dBwpe5mQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110410_english_hls_4920ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Singapore vs Uganda (ICC CWC Challenge League B, 2024-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118008_4607_SIN_UGA_fc-web.jpg",
             "team_1": "Singapore",
@@ -58,20 +44,6 @@
             "startTime": "06:30:00 AM 10-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Fn_Ak8fdQWGKY-bCCTHRFg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118008_english_hls_4646ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Lightning Legends vs Union Sporting (Tillo Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117991_4815_LGT_US_fc-Web.jpg",
-            "team_1": "Lightning Legends",
-            "team_2": "Union Sporting",
-            "status": "LIVE",
-            "event_name": "Tillo Cup, 2025",
-            "match_name": "Lightning Legends vs Union Sporting",
-            "match_id": 117991,
-            "startTime": "09:00:00 AM 10-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/exc7soLSQz291H8W_5AmZQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117991_english_hls_4829ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -143,6 +115,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Queensland vs New South Wales (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110410_4543_QUN_NSW_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "New South Wales",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Queensland vs New South Wales",
+            "match_id": 110410,
+            "startTime": "05:30:00 AM 08-02-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Chhattisgarh Warriors vs Big Boys (Legend 90, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118232_4824_CW_BBY_fc-Web.jpg",
             "team_1": "Chhattisgarh Warriors",
@@ -164,6 +148,18 @@
             "match_name": "Rajasthan Kings vs Gujarat Samp Army",
             "match_id": 118233,
             "startTime": "07:00:00 PM 10-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Edex Knights vs Swieqi United (ECS Malta, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/118255_4825_EDK_SWU_fc-web.jpg",
+            "team_1": "Edex Knights",
+            "team_2": "Swieqi United",
+            "status": "UPCOMING",
+            "event_name": "ECS Malta, 2025",
+            "match_name": "Edex Knights vs Swieqi United",
+            "match_id": 118255,
+            "startTime": "01:45:00 PM 10-02-2025"
         }
     ]
 }
