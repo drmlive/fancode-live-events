@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:05:45 PM 11-02-2025",
+    "last update time": "07:15:59 PM 11-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,6 +74,20 @@
             "adfree_url": "https://dai.fancode.com/primary/118886_english_hls_5483ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Khaldiya vs Tractor (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/108742_Old.jpg",
+            "team_1": "Khaldiya",
+            "team_2": "Tractor",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Khaldiya vs Tractor",
+            "match_id": 117658,
+            "startTime": "07:30:00 PM 11-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/GZIDqswoRQKlxb9AjYrc5g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117658_english_hls_5230ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_ODI_old-(1).jpg",
@@ -110,18 +124,6 @@
             "startTime": "02:30:00 PM 12-02-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Khaldiya vs Tractor (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/108742_Old.jpg",
-            "team_1": "Khaldiya",
-            "team_2": "Tractor",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Khaldiya vs Tractor",
-            "match_id": 117658,
-            "startTime": "07:30:00 PM 11-02-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Ling Liang vs Aspex 2 (Box Office ASL T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png",
@@ -144,6 +146,18 @@
             "match_name": "Rajasthan Kings vs Big Boys",
             "match_id": 118236,
             "startTime": "04:00:00 PM 12-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Uttarakhand vs Rajasthan (Rani Suryamukhi Devi T-20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117970_4813_UT_RJS_fc-web.jpg",
+            "team_1": "Uttarakhand",
+            "team_2": "Rajasthan",
+            "status": "UPCOMING",
+            "event_name": "Rani Suryamukhi Devi T-20 Tournament",
+            "match_name": "Uttarakhand vs Rajasthan",
+            "match_id": 117970,
+            "startTime": "08:30:00 PM 11-02-2025"
         }
     ]
 }
