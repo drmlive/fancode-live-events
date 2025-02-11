@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:21:27 PM 11-02-2025",
+    "last update time": "12:31:33 PM 11-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Punjab Panthers vs Hiims Hawks (Chandigarh T20)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg",
-            "team_1": "Punjab Panthers",
-            "team_2": "Hiims Hawks",
-            "status": "LIVE",
-            "event_name": "Chandigarh T20",
-            "match_name": "Punjab Panthers vs Hiims Hawks",
-            "match_id": 118104,
-            "startTime": "08:30:00 AM 11-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/D8GZ6t2rTZGQE5YrVgH7gA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118104_english_hls_5188ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Wonder Cement vs SPJ Cargo (Tillo Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117993_4815_WC_SPJ_fc-Web.jpg",
             "team_1": "Wonder Cement",
@@ -75,17 +61,31 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Wild Woods Warriors vs City Challengers (Chandigarh T20)",
+            "title": "City Challengers vs Wild Woods Warriors (Chandigarh T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",
-            "team_1": "Wild Woods Warriors",
-            "team_2": "City Challengers",
+            "team_1": "City Challengers",
+            "team_2": "Wild Woods Warriors",
             "status": "LIVE",
             "event_name": "Chandigarh T20",
-            "match_name": "Wild Woods Warriors vs City Challengers",
+            "match_name": "City Challengers vs Wild Woods Warriors",
             "match_id": 118105,
             "startTime": "12:30:00 PM 11-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/zE81jx7mR82LliLuJlHkUA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118105_english_hls_5044ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Punjab Panthers vs Hiims Hawks (Chandigarh T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg",
+            "team_1": "Punjab Panthers",
+            "team_2": "Hiims Hawks",
+            "status": "LIVE",
+            "event_name": "Chandigarh T20",
+            "match_name": "Punjab Panthers vs Hiims Hawks",
+            "match_id": 118104,
+            "startTime": "08:30:00 AM 11-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/D8GZ6t2rTZGQE5YrVgH7gA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118104_english_hls_5188ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -124,6 +124,18 @@
             "startTime": "01:00:00 PM 11-02-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Central Coast Mariners vs Johor Darul Ta'zim (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108705_4475_CCM_JDT_fc-web.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Johor Darul Ta'zim",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Central Coast Mariners vs Johor Darul Ta'zim",
+            "match_id": 108705,
+            "startTime": "01:30:00 PM 11-02-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Hamrun Stallions vs American University of Malta (ECS Malta, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118259_4825_HST_AUM_fc-web.jpg",
@@ -146,18 +158,6 @@
             "match_name": "Bud Cricket Club vs Nabajyoti Club",
             "match_id": 117459,
             "startTime": "03:00:00 PM 11-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hamrun Stallions vs American University of Malta (ECS Malta, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/118260_4825_HST_AUM_fc-web.jpg",
-            "team_1": "Hamrun Stallions",
-            "team_2": "American University of Malta",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, 2025",
-            "match_name": "Hamrun Stallions vs American University of Malta",
-            "match_id": 118260,
-            "startTime": "03:45:00 PM 11-02-2025"
         }
     ]
 }
