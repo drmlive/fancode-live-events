@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:30:27 PM 12-02-2025",
+    "last update time": "02:40:33 PM 12-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -102,6 +102,20 @@
             "adfree_url": "https://dai.fancode.com/primary/117660_english_hls_5708ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Australia vs Kyrgyz Republic (AFC U20 Asian Cup China, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/118815_4882_AUS_KYG_fc-Web.jpg",
+            "team_1": "Australia",
+            "team_2": "Kyrgyz Republic",
+            "status": "LIVE",
+            "event_name": "AFC U20 Asian Cup China, 2025",
+            "match_name": "Australia vs Kyrgyz Republic",
+            "match_id": 118815,
+            "startTime": "02:45:00 PM 12-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/9bzTqWDQSmSVzm2dGmGsgg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118815_english_hls_5496ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Rajasthan Kings vs Big Boys (Legend 90, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118236_4824_RK_BBY_fc-Web.jpg",
@@ -148,18 +162,6 @@
             "match_name": "Guwahati Giants vs 91 Yards Club",
             "match_id": 117461,
             "startTime": "03:00:00 PM 12-02-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Yokohama F. Marinos vs Shanghai Shenhua (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108709_4475_YKFM_SHN_fc-web.jpg",
-            "team_1": "Yokohama F. Marinos",
-            "team_2": "Shanghai Shenhua",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Yokohama F. Marinos vs Shanghai Shenhua",
-            "match_id": 108709,
-            "startTime": "03:30:00 PM 12-02-2025"
         }
     ]
 }
