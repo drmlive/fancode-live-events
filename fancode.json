@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:41:55 PM 12-02-2025",
+    "last update time": "04:52:02 PM 12-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -130,18 +130,32 @@
             "adfree_url": "https://dai.fancode.com/primary/118177_english_hls_5943ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Phonex vs Alviva Sporting Club (BOX Office T20 Test Pink Ball)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-T20-Test-Pink-Ball-old-Match-card--.png",
+            "team_1": "Phonex",
+            "team_2": "Alviva Sporting Club",
+            "status": "LIVE",
+            "event_name": "BOX Office T20 Test Pink Ball",
+            "match_name": "Phonex vs Alviva Sporting Club",
+            "match_id": 118957,
+            "startTime": "05:00:00 PM 12-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/IEozjoGKT_G3O_3AgeksGg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118957_english_hls_9027ta-no/index.m3u8"
+        },
+        {
             "event_category": "Football",
-            "title": "Australia vs Kyrgyz Republic (AFC U20 Asian Cup China, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/118815_4882_AUS_KYG_fc-Web.jpg",
-            "team_1": "Australia",
-            "team_2": "Kyrgyz Republic",
+            "title": "China PR vs Qatar (AFC U20 Asian Cup China, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/118816_4882_CHN_QAT_fc-Web.jpg",
+            "team_1": "China PR",
+            "team_2": "Qatar",
             "status": "LIVE",
             "event_name": "AFC U20 Asian Cup China, 2025",
-            "match_name": "Australia vs Kyrgyz Republic",
-            "match_id": 118815,
-            "startTime": "02:45:00 PM 12-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/9bzTqWDQSmSVzm2dGmGsgg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118815_english_hls_5496ta-no/index.m3u8"
+            "match_name": "China PR vs Qatar",
+            "match_id": 118816,
+            "startTime": "05:00:00 PM 12-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/c2qQqcjxQTm_xxiGfZjFcw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118816_english_hls_5753ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,18 +168,6 @@
             "match_name": "Punjabi Sher vs Chhattisgarh Warriors",
             "match_id": 118237,
             "startTime": "07:00:00 PM 12-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs New South Wales (One Day Cup, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109152_4492_QUN_NSW_fc-web.jpg",
-            "team_1": "Queensland",
-            "team_2": "New South Wales",
-            "status": "UPCOMING",
-            "event_name": "One Day Cup, 2024-25",
-            "match_name": "Queensland vs New South Wales",
-            "match_id": 109152,
-            "startTime": "05:30:00 AM 13-02-2025"
         }
     ]
 }
