@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:13:06 PM 13-02-2025",
+    "last update time": "09:23:32 PM 13-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,20 +60,6 @@
             "adfree_url": null
         },
         {
-            "event_category": "Cricket",
-            "title": "Vishal Brothers vs Alviva Sporting Club (BOX Office White Ball T20)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-            "team_1": "Vishal Brothers",
-            "team_2": "Alviva Sporting Club",
-            "status": "LIVE",
-            "event_name": "BOX Office White Ball T20",
-            "match_name": "Vishal Brothers vs Alviva Sporting Club",
-            "match_id": 119140,
-            "startTime": "05:00:00 PM 13-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/JgC6x07BRN-KHQfuOFmf4g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119140_english_hls_3150ta-di/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Muangthong United vs Lion City Sailors (AFC Champions League Two 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
@@ -129,6 +115,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "Ireland",
+            "status": "UPCOMING",
+            "event_name": "Ireland tour of Zimbabwe, 2025",
+            "match_name": "Zimbabwe vs Ireland",
+            "match_id": 116936,
+            "startTime": "01:00:00 PM 14-02-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Paarl CC vs Vredenburg/Saldanha CC (Boland T20 Super League Finals, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117486_4787_PRC_VDS_Fc-Web.jpg",
             "team_1": "Paarl CC",
@@ -153,15 +151,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Ireland",
+            "title": "New Zealand vs Pakistan (New Zealand and South Africa tour of Pakistan 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan_ODI_Tri_Series_2025_match-card_1738894392220.jpg",
+            "team_1": "New Zealand",
+            "team_2": "Pakistan",
             "status": "UPCOMING",
-            "event_name": "Ireland tour of Zimbabwe, 2025",
-            "match_name": "Zimbabwe vs Ireland",
-            "match_id": 116936,
-            "startTime": "01:00:00 PM 14-02-2025"
+            "event_name": "New Zealand and South Africa tour of Pakistan 2025",
+            "match_name": "New Zealand vs Pakistan",
+            "match_id": 117419,
+            "startTime": "02:30:00 PM 14-02-2025"
         }
     ]
 }
