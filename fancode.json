@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:34:46 PM 13-02-2025",
+    "last update time": "12:44:56 PM 13-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -131,11 +131,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117998_4815_INO_SPJ_fc-Web.jpg",
             "team_1": "Indian Oil",
             "team_2": "SPJ Cargo",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Tillo Cup, 2025",
             "match_name": "Indian Oil vs SPJ Cargo",
             "match_id": 117998,
-            "startTime": "01:00:00 PM 13-02-2025"
+            "startTime": "01:00:00 PM 13-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/vpRcl96WTeWQMiqnRaTVVg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117998_english_hls_6134ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -151,15 +153,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Guwahati Giants vs Bokakhat Town Cricket Club (Guwahati Premier League, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/117463_CASACARDS_APP.png",
-            "team_1": "Guwahati Giants",
-            "team_2": "Bokakhat Town Cricket Club",
+            "title": "Sri Lanka vs Australia (Australia tour of Sri Lanka, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Tour-of-Sri-Lanka_ODI_old-(1).jpg",
+            "team_1": "Sri Lanka",
+            "team_2": "Australia",
             "status": "UPCOMING",
-            "event_name": "Guwahati Premier League, 2025",
-            "match_name": "Guwahati Giants vs Bokakhat Town Cricket Club",
-            "match_id": 117463,
-            "startTime": "03:00:00 PM 13-02-2025"
+            "event_name": "Australia tour of Sri Lanka, 2025",
+            "match_name": "Sri Lanka vs Australia",
+            "match_id": 117415,
+            "startTime": "10:00:00 AM 14-02-2025"
         }
     ]
 }
