@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:26:01 PM 13-02-2025",
+    "last update time": "02:36:07 PM 13-02-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Western Australia (One Day Cup, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109153_4492_WAU_SAU_fc-web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Western Australia",
-            "status": "LIVE",
-            "event_name": "One Day Cup, 2024-25",
-            "match_name": "South Australia vs Western Australia",
-            "match_id": 109153,
-            "startTime": "07:30:00 AM 13-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/XxrQf8mPTbKqZqOHhngluw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109153_english_hls_5797ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Victoria vs Tasmania (One Day Cup, 2024-25)",
@@ -74,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/118267_english_hls_5491ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Uzbekistan U20 vs Yemen U20 (AFC U20 Asian Cup China, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/118818_4882_UZB_YMN_fc-Web.jpg",
+            "team_1": "Uzbekistan U20",
+            "team_2": "Yemen U20",
+            "status": "LIVE",
+            "event_name": "AFC U20 Asian Cup China, 2025",
+            "match_name": "Uzbekistan U20 vs Yemen U20",
+            "match_id": 118818,
+            "startTime": "02:45:00 PM 13-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/B6Oor_5pTk2mYWxwWbRxLg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118818_english_hls_6657ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Delhi Royals vs Dubai Giants (Legend 90, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118238_4824_DLR_DG_fc-Web.jpg",
@@ -122,18 +122,6 @@
             "startTime": "10:00:00 AM 14-02-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Uzbekistan U20 vs Yemen U20 (AFC U20 Asian Cup China, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/118818_4882_UZB_YMN_fc-Web.jpg",
-            "team_1": "Uzbekistan U20",
-            "team_2": "Yemen U20",
-            "status": "UPCOMING",
-            "event_name": "AFC U20 Asian Cup China, 2025",
-            "match_name": "Uzbekistan U20 vs Yemen U20",
-            "match_id": 118818,
-            "startTime": "02:45:00 PM 13-02-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Southern Crusaders vs Gzira United (ECS Malta, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118268_4825_SOC_GZU_fc-web.jpg",
@@ -144,6 +132,18 @@
             "match_name": "Southern Crusaders vs Gzira United",
             "match_id": 118268,
             "startTime": "03:45:00 PM 13-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rajnandgaon vs Uttarakhand (Rani Suryamukhi Devi T-20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117973_4813_RAJ_UT_fc-web.jpg",
+            "team_1": "Rajnandgaon",
+            "team_2": "Uttarakhand",
+            "status": "UPCOMING",
+            "event_name": "Rani Suryamukhi Devi T-20 Tournament",
+            "match_name": "Rajnandgaon vs Uttarakhand",
+            "match_id": 117973,
+            "startTime": "04:30:00 PM 13-02-2025"
         }
     ]
 }
