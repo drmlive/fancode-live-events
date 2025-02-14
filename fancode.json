@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:32:56 AM 15-02-2025",
+    "last update time": "03:43:22 AM 15-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "10:30:00 PM 12-02-2025",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Golf",
-            "title": "Feed B - Day 2 vs Pacific Palisades, CA (The Genesis Inivitational Pacific Palisades, CA)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Genesis-Invitational-old.png",
-            "team_1": "Feed B - Day 2",
-            "team_2": "Pacific Palisades, CA",
-            "status": "LIVE",
-            "event_name": "The Genesis Inivitational Pacific Palisades, CA",
-            "match_name": "Feed B - Day 2",
-            "match_id": 118880,
-            "startTime": "09:00:00 PM 14-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/08z5A1rHQc6E8MsSw1GvOg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118880_english_hls_5692ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -134,6 +120,30 @@
             "match_name": "Tanzania vs Uganda",
             "match_id": 118013,
             "startTime": "06:30:00 AM 15-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Punjab Panthers vs Hiims Hawks (Chandigarh T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg",
+            "team_1": "Punjab Panthers",
+            "team_2": "Hiims Hawks",
+            "status": "UPCOMING",
+            "event_name": "Chandigarh T20",
+            "match_name": "Punjab Panthers vs Hiims Hawks",
+            "match_id": 118112,
+            "startTime": "08:30:00 AM 15-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Canara Bank vs Sapience (Tillo Cup, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/118000_CASACARDS_APP.png",
+            "team_1": "Canara Bank",
+            "team_2": "Sapience",
+            "status": "UPCOMING",
+            "event_name": "Tillo Cup, 2025",
+            "match_name": "Canara Bank vs Sapience",
+            "match_id": 118000,
+            "startTime": "12:30:00 PM 15-02-2025"
         }
     ]
 }
