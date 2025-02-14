@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:12:15 PM 14-02-2025",
+    "last update time": "03:22:20 PM 14-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -117,6 +117,20 @@
         },
         {
             "event_category": "Football",
+            "title": "Gamba Osaka vs Cerezo Osaka (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/117863_CASACARDS_APP.png",
+            "team_1": "Gamba Osaka",
+            "team_2": "Cerezo Osaka",
+            "status": "LIVE",
+            "event_name": "J League 2025",
+            "match_name": "Gamba Osaka vs Cerezo Osaka",
+            "match_id": 117863,
+            "startTime": "03:30:00 PM 14-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HdVku8KhT3ig88GwKaJotg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117863_english_hls_6072ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Melbourne Victory vs Wellington Phoenix (A League 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110998_4567_MLV_WEL_fc-web_1728983130651.jpg",
             "team_1": "Melbourne Victory",
@@ -152,18 +166,6 @@
             "match_name": "Chhattisgarh Warriors vs Rajasthan Kings",
             "match_id": 118243,
             "startTime": "07:00:00 PM 14-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Power Hitters vs Red Stars (ECS Malta, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/118272_4825_PWH_RS_fc-web.jpg",
-            "team_1": "Power Hitters",
-            "team_2": "Red Stars",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, 2025",
-            "match_name": "Power Hitters vs Red Stars",
-            "match_id": 118272,
-            "startTime": "03:45:00 PM 14-02-2025"
         }
     ]
 }
