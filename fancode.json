@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:55:31 PM 15-02-2025",
+    "last update time": "05:05:37 PM 15-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/119423_english_hls_5320ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "ER Tigers vs Kolkata Incredibles (BOX Office White Ball T20)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
-            "team_1": "ER Tigers",
-            "team_2": "Kolkata Incredibles",
-            "status": "LIVE",
-            "event_name": "BOX Office White Ball T20",
-            "match_name": "ER Tigers vs Kolkata Incredibles",
-            "match_id": 119424,
-            "startTime": "04:30:00 PM 15-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/GcylaY5yRluvJBstmo0FPg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119424_english_hls_5300ta-no/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Kyrgyz Republic U20 vs China PR U20 (AFC U20 Asian Cup China, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118824_4882_KYG_CHN_fc-Web.jpg",
@@ -72,6 +58,20 @@
             "startTime": "05:00:00 PM 15-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Pa6kZCx0SUSOSWBOBqmVRg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118824_english_hls_5062ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ER Tigers vs Kolkata Incredibles (BOX Office White Ball T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-White-Ball-T20-old-Match-card.png",
+            "team_1": "ER Tigers",
+            "team_2": "Kolkata Incredibles",
+            "status": "LIVE",
+            "event_name": "BOX Office White Ball T20",
+            "match_name": "ER Tigers vs Kolkata Incredibles",
+            "match_id": 119424,
+            "startTime": "04:30:00 PM 15-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/GcylaY5yRluvJBstmo0FPg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119424_english_hls_5300ta-no/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -127,18 +127,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Ireland",
-            "status": "UPCOMING",
-            "event_name": "Ireland tour of Zimbabwe, 2025",
-            "match_name": "Zimbabwe vs Ireland",
-            "match_id": 116937,
-            "startTime": "01:00:00 PM 16-02-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bin Dilmah vs JCA (Saudi Foundation T20 Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118939_4891_BD_JCA_fc-web.jpg",
             "team_1": "Bin Dilmah",
@@ -150,16 +138,28 @@
             "startTime": "06:00:00 PM 15-02-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Gzira United vs American University of Malta (ECS Malta, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/118278_4825_GZU_AUM_fc-web.jpg",
-            "team_1": "Gzira United",
-            "team_2": "American University of Malta",
+            "event_category": "Football",
+            "title": "Preston North End vs Burnley (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Preston-North-End-VS-Burnley_fc-web.jpg",
+            "team_1": "Preston North End",
+            "team_2": "Burnley",
             "status": "UPCOMING",
-            "event_name": "ECS Malta, 2025",
-            "match_name": "Gzira United vs American University of Malta",
-            "match_id": 118278,
-            "startTime": "07:45:00 PM 15-02-2025"
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Preston North End vs Burnley",
+            "match_id": 116562,
+            "startTime": "06:00:00 PM 15-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "Ireland",
+            "status": "UPCOMING",
+            "event_name": "Ireland tour of Zimbabwe, 2025",
+            "match_name": "Zimbabwe vs Ireland",
+            "match_id": 116937,
+            "startTime": "01:00:00 PM 16-02-2025"
         }
     ]
 }
