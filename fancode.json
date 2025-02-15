@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:51:04 AM 15-02-2025",
+    "last update time": "11:01:18 AM 15-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,6 +74,20 @@
             "adfree_url": "https://dai.fancode.com/primary/119210_english_hls_8732ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Melbourne City vs Perth Glory (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110999_4567_MLC_PG_fc-web_1728983129386.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Perth Glory",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Melbourne City vs Perth Glory",
+            "match_id": 110999,
+            "startTime": "11:30:00 AM 15-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/c9TvqckFTw2pB8cFqiEaeA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110999_english_hls_5548ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Delhi Royals vs Gujarat Samp Army (Legend 90, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118235_4824_DLR_GJS_fc-Web.jpg",
@@ -144,18 +158,6 @@
             "match_name": "Victoria Lions vs Southern Crusaders",
             "match_id": 118275,
             "startTime": "01:45:00 PM 15-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria Lions vs Southern Crusaders (ECS Malta, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/118276_4825_VLS_SOC_fc-web.jpg",
-            "team_1": "Victoria Lions",
-            "team_2": "Southern Crusaders",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, 2025",
-            "match_name": "Victoria Lions vs Southern Crusaders",
-            "match_id": 118276,
-            "startTime": "03:45:00 PM 15-02-2025"
         }
     ]
 }
