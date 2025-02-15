@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:41:12 PM 15-02-2025",
+    "last update time": "10:51:38 PM 15-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "10:30:00 PM 15-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/UsoghM71RU2Q07ZzEta8MA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118947_english_hls_4908ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "GAT vs SBS CC (KCC T20 Challengers A League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",
+            "team_1": "GAT",
+            "team_2": "SBS CC",
+            "status": "LIVE",
+            "event_name": "KCC T20 Challengers A League, 2025",
+            "match_name": "GAT vs SBS CC",
+            "match_id": 118076,
+            "startTime": "11:00:00 PM 15-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/CWsxrqrMQhWuNptwcCjfzQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118076_english_hls_4862ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -116,20 +130,6 @@
             "adfree_url": "https://dai.fancode.com/primary/118891_english_hls_4834ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Millwall vs West Bromwich Albion (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Millwall-VS-West-Bromwich-Albion_fc-web.jpg",
-            "team_1": "Millwall",
-            "team_2": "West Bromwich Albion",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Millwall vs West Bromwich Albion",
-            "match_id": 116561,
-            "startTime": "08:30:00 PM 15-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qCDONRyeT8W0B12WoxFWeQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/116561_english_hls_4902ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe--ODIs_old.jpg",
@@ -143,18 +143,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "GAT vs SBS CC (KCC T20 Challengers A League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",
-            "team_1": "GAT",
-            "team_2": "SBS CC",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2025",
-            "match_name": "GAT vs SBS CC",
-            "match_id": 118076,
-            "startTime": "11:00:00 PM 15-02-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Lisbon Capitals vs Fighters CC (ECSN Portugal, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117781_4800_LCA_FIG_fc-web_1738606398668.jpg",
             "team_1": "Lisbon Capitals",
@@ -164,6 +152,18 @@
             "match_name": "Lisbon Capitals vs Fighters CC",
             "match_id": 117781,
             "startTime": "11:30:00 PM 15-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Delhi Royals vs Rajasthan Kings (Legend 90, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Delhi Royals",
+            "team_2": "Rajasthan Kings",
+            "status": "UPCOMING",
+            "event_name": "Legend 90, 2025",
+            "match_name": "Delhi Royals vs Rajasthan Kings",
+            "match_id": 119414,
+            "startTime": "07:00:00 PM 16-02-2025"
         }
     ]
 }
