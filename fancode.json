@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:04:40 PM 15-02-2025",
+    "last update time": "04:14:56 PM 15-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,20 +74,6 @@
             "adfree_url": "https://dai.fancode.com/primary/118823_english_hls_5126ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Adelaide United vs Newcastle Jets (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111001_4567_ADL_NJ_fc-web_1728983131333.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Newcastle Jets",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Adelaide United vs Newcastle Jets",
-            "match_id": 111001,
-            "startTime": "02:05:00 PM 15-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/WgDXdQ-ORU62Qx71IG9OKA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111001_english_hls_5316ta-di/index.m3u8"
-        },
-        {
             "event_category": "Live Events",
             "title": "TNPL Auction vs KMK Lobby, M A Chidambaram Stadium (TNPL Auction 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Auction_match-card.jpg",
@@ -116,6 +102,20 @@
             "adfree_url": "https://dai.fancode.com/primary/118865_english_hls_5085ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Adelaide United vs Newcastle Jets (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111001_4567_ADL_NJ_fc-web_1728983131333.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Newcastle Jets",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Adelaide United vs Newcastle Jets",
+            "match_id": 111001,
+            "startTime": "02:05:00 PM 15-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/WgDXdQ-ORU62Qx71IG9OKA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111001_english_hls_5316ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Chhattisgarh Warriors vs Rajasthan Kings (Legend 90, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4824_Chhatisgarh_Rajasthan-Kings_fc-Web.jpg",
@@ -133,11 +133,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "ER Tigers",
             "team_2": "Kolkata Incredibles",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "BOX Office White Ball T20",
             "match_name": "ER Tigers vs Kolkata Incredibles",
             "match_id": 119424,
-            "startTime": "04:30:00 PM 15-02-2025"
+            "startTime": "04:30:00 PM 15-02-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
