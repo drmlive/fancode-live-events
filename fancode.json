@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:23:50 AM 18-02-2025",
+    "last update time": "01:33:56 AM 18-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,20 +47,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Al-Ahli vs Al Gharafa (AFC Champions League Elite 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108714_4475_AAS_AGH_fc-web.jpg",
-            "team_1": "Al-Ahli",
-            "team_2": "Al Gharafa",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al-Ahli vs Al Gharafa",
-            "match_id": 108714,
-            "startTime": "11:30:00 PM 17-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/kTWT2rc2T4-27MuK_Gzfww/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/108714_english_hls_5355ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Leeds United vs Sunderland (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Leeds-United-VS-Sunderland_fc-web.jpg",
             "team_1": "Leeds United",
@@ -72,6 +58,20 @@
             "startTime": "01:30:00 AM 18-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/uNXdEqxsQNOe5MNUQ7qVvg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116560_english_hls_5275ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Ahli vs Al Gharafa (AFC Champions League Elite 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/09/108714_4475_AAS_AGH_fc-web.jpg",
+            "team_1": "Al-Ahli",
+            "team_2": "Al Gharafa",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al-Ahli vs Al Gharafa",
+            "match_id": 108714,
+            "startTime": "11:30:00 PM 17-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/kTWT2rc2T4-27MuK_Gzfww/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/108714_english_hls_5355ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -122,18 +122,6 @@
             "startTime": "01:00:00 PM 18-02-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Birmingham City vs Bradford City (EFL Vertu Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Birmingham-City-VS-Bradford-City-Trophy_old.jpg",
-            "team_1": "Birmingham City",
-            "team_2": "Bradford City",
-            "status": "UPCOMING",
-            "event_name": "EFL Vertu Trophy",
-            "match_name": "Birmingham City vs Bradford City",
-            "match_id": 119343,
-            "startTime": "02:00:00 AM 18-02-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Hiims Hawks vs Manohar Mavericks (Chandigarh T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg",
@@ -156,6 +144,18 @@
             "match_name": "Namuna Blasters vs Bhokraha Narsing Arnas",
             "match_id": 119468,
             "startTime": "08:45:00 AM 18-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "City Challengers vs Punjab Panthers (Chandigarh T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg",
+            "team_1": "City Challengers",
+            "team_2": "Punjab Panthers",
+            "status": "UPCOMING",
+            "event_name": "Chandigarh T20",
+            "match_name": "City Challengers vs Punjab Panthers",
+            "match_id": 118119,
+            "startTime": "12:30:00 PM 18-02-2025"
         }
     ]
 }
