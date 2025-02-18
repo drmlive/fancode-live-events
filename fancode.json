@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:30:56 AM 19-02-2025",
+    "last update time": "01:41:02 AM 19-02-2025",
     "matches": [
         {
             "event_category": "Live Events",
@@ -59,18 +59,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",
-            "team_1": "South Australia",
-            "team_2": "Tasmania",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "South Australia vs Tasmania",
-            "match_id": 110419,
-            "startTime": "05:30:00 AM 18-02-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Queensland vs Western Australia (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110413_4543_QUN_WAU_fc-Web_1739782530557.jpg",
             "team_1": "Queensland",
@@ -83,13 +71,25 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Punjab CC Amadora vs TBC (ECSN Portugal, 2025)",
+            "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",
+            "team_1": "South Australia",
+            "team_2": "Tasmania",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "South Australia vs Tasmania",
+            "match_id": 110419,
+            "startTime": "05:30:00 AM 18-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Punjab CC Amadora vs Lisbon Capitals (ECSN Portugal, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Punjab CC Amadora",
-            "team_2": "TBC",
+            "team_2": "Lisbon Capitals",
             "status": "UPCOMING",
             "event_name": "ECSN Portugal, 2025",
-            "match_name": "Punjab CC Amadora vs TBC",
+            "match_name": "Punjab CC Amadora vs Lisbon Capitals",
             "match_id": 117788,
             "startTime": "02:30:00 AM 19-02-2025"
         },
@@ -128,6 +128,18 @@
             "match_name": "Western Australia Women vs South Australian Scorpions",
             "match_id": 109419,
             "startTime": "07:30:00 AM 19-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Talanoa Tigers vs Manohar Mavericks (Chandigarh T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",
+            "team_1": "Talanoa Tigers",
+            "team_2": "Manohar Mavericks",
+            "status": "UPCOMING",
+            "event_name": "Chandigarh T20",
+            "match_name": "Talanoa Tigers vs Manohar Mavericks",
+            "match_id": 118120,
+            "startTime": "08:30:00 AM 19-02-2025"
         }
     ]
 }
