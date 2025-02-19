@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:44:24 AM 20-02-2025",
+    "last update time": "04:54:50 AM 20-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -21,11 +21,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg",
             "team_1": "New South Wales",
             "team_2": "Victoria",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "Sheffield Shield, 2024-25",
             "match_name": "New South Wales vs Victoria",
             "match_id": 110412,
-            "startTime": "05:00:00 AM 18-02-2025"
+            "startTime": "05:00:00 AM 18-02-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Football",
+            "title": "Herediano vs Real Salt Lake (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Herediano_vs_Real-Salt_Old_match-card.jpg",
+            "team_1": "Herediano",
+            "team_2": "Real Salt Lake",
+            "status": "LIVE",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Herediano vs Real Salt Lake",
+            "match_id": 119702,
+            "startTime": "05:00:00 AM 20-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/XP6Z-haeSK2X8mbDHxPnWg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119702_english_hls_4627ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -50,18 +66,6 @@
             "match_name": "South Australia vs Tasmania",
             "match_id": 110419,
             "startTime": "05:30:00 AM 18-02-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Herediano vs Real Salt Lake (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Herediano_vs_Real-Salt_Old_match-card.jpg",
-            "team_1": "Herediano",
-            "team_2": "Real Salt Lake",
-            "status": "UPCOMING",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Herediano vs Real Salt Lake",
-            "match_id": 119702,
-            "startTime": "05:00:00 AM 20-02-2025"
         },
         {
             "event_category": "Cricket",
@@ -100,18 +104,6 @@
             "startTime": "06:30:00 AM 20-02-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Motagua vs FC Cincinnati (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Motagua_vs_Cincinnati_Old_match-card.jpg",
-            "team_1": "Motagua",
-            "team_2": "FC Cincinnati",
-            "status": "UPCOMING",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Motagua vs FC Cincinnati",
-            "match_id": 119356,
-            "startTime": "08:30:00 AM 20-02-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Cloud 7 vs Kanoo Strikers (Saudi Foundation T20 Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/118952_4891_CLO_KS_fc-web.jpg",
@@ -122,6 +114,18 @@
             "match_name": "Cloud 7 vs Kanoo Strikers",
             "match_id": 118952,
             "startTime": "01:30:00 PM 20-02-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Motagua vs FC Cincinnati (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Motagua_vs_Cincinnati_Old_match-card.jpg",
+            "team_1": "Motagua",
+            "team_2": "FC Cincinnati",
+            "status": "UPCOMING",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Motagua vs FC Cincinnati",
+            "match_id": 119356,
+            "startTime": "08:30:00 AM 20-02-2025"
         },
         {
             "event_category": "Cricket",
