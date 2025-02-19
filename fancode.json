@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:54 PM 19-02-2025",
+    "last update time": "11:21:00 PM 19-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://dai.fancode.com/primary/118080_english_hls_5744ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Asian XI vs World XI (Weston Shield, Feb 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/119492_4967_ASX_WXI_fc-web.jpg",
+            "team_1": "Asian XI",
+            "team_2": "World XI",
+            "status": "LIVE",
+            "event_name": "Weston Shield, Feb 2025",
+            "match_name": "Asian XI vs World XI",
+            "match_id": 119492,
+            "startTime": "11:30:00 PM 19-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/bhpgrt8KSSmfFKJUaKRSPQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119492_english_hls_8547ta-di/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Shabab Al Ahli vs Al Wehdat (AFC Champions League Two 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117670_4476_SAA_ALW_fc-Web.jpg",
@@ -44,6 +58,20 @@
             "startTime": "09:30:00 PM 19-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/uZymW84oRE2a4PeAUYpboA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117670_english_hls_5536ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Taawoun vs Al Wakrah (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117671_4476_ALTW_WAK_fc-Web.jpg",
+            "team_1": "Al Taawoun",
+            "team_2": "Al Wakrah",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Al Taawoun vs Al Wakrah",
+            "match_id": 117671,
+            "startTime": "11:30:00 PM 19-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/c3Rkh0RrTEi4ikN_4zLmOw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117671_english_hls_6474ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -83,30 +111,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Asian XI vs World XI (Weston Shield, Feb 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/119492_4967_ASX_WXI_fc-web.jpg",
-            "team_1": "Asian XI",
-            "team_2": "World XI",
-            "status": "UPCOMING",
-            "event_name": "Weston Shield, Feb 2025",
-            "match_name": "Asian XI vs World XI",
-            "match_id": 119492,
-            "startTime": "11:30:00 PM 19-02-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Taawoun vs Al Wakrah (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117671_4476_ALTW_WAK_fc-Web.jpg",
-            "team_1": "Al Taawoun",
-            "team_2": "Al Wakrah",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Al Taawoun vs Al Wakrah",
-            "match_id": 117671,
-            "startTime": "11:30:00 PM 19-02-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Hiims Hawks vs Wild Woods Warriors (Chandigarh T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg",
             "team_1": "Hiims Hawks",
@@ -139,6 +143,18 @@
             "event_name": "Concacaf Champions Cup 2025",
             "match_name": "Antigua vs Seattle Sounders FC",
             "match_id": 119351,
+            "startTime": "06:30:00 AM 20-02-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting Kansas City vs Inter Miami CF (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Sporting_KC_vs_Inter_Miami_Old-match-cad-2.jpg",
+            "team_1": "Sporting Kansas City",
+            "team_2": "Inter Miami CF",
+            "status": "UPCOMING",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Sporting Kansas City vs Inter Miami CF",
+            "match_id": 119349,
             "startTime": "06:30:00 AM 20-02-2025"
         }
     ]
