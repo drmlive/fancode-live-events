@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:02:45 PM 19-02-2025",
+    "last update time": "04:12:51 PM 19-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,20 +60,6 @@
             "adfree_url": "https://dai.fancode.com/primary/117669_english_hls_2360ta-di/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "NTT DATA Pro Am vs Western Cape, South Africa (NTT DATA Pro Am)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NTT-DATA-Pro-Am_2025_OLd_match-card.jpg",
-            "team_1": "NTT DATA Pro Am",
-            "team_2": "Western Cape, South Africa",
-            "status": "LIVE",
-            "event_name": "NTT DATA Pro Am",
-            "match_name": "NTT DATA Pro Am",
-            "match_id": 119444,
-            "startTime": "03:25:00 PM 19-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/rYXbehW3R-qmGTI8b3-sVQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119444_english_hls_5286ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "New South Wales vs Victoria (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110412_4543_NSW_VCT_fc-Web_1739782530659.jpg",
@@ -111,13 +97,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Asian XI vs European XI (Weston Shield, Feb 2025)",
+            "title": "European XI vs Asian XI (Weston Shield, Feb 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/119489_4967_ASX_TEP_fc-web.jpg",
-            "team_1": "Asian XI",
-            "team_2": "European XI",
+            "team_1": "European XI",
+            "team_2": "Asian XI",
             "status": "UPCOMING",
             "event_name": "Weston Shield, Feb 2025",
-            "match_name": "Asian XI vs European XI",
+            "match_name": "European XI vs Asian XI",
             "match_id": 119489,
             "startTime": "05:00:00 PM 19-02-2025"
         },
@@ -156,6 +142,18 @@
             "match_name": "Tamimi Group vs JCA",
             "match_id": 118951,
             "startTime": "06:00:00 PM 19-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "World XI vs British and Irish XI (Weston Shield, Feb 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/119490_4967_WXI_BIK_fc-web.jpg",
+            "team_1": "World XI",
+            "team_2": "British and Irish XI",
+            "status": "UPCOMING",
+            "event_name": "Weston Shield, Feb 2025",
+            "match_name": "World XI vs British and Irish XI",
+            "match_id": 119490,
+            "startTime": "07:00:00 PM 19-02-2025"
         }
     ]
 }
