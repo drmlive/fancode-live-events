@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:53:18 AM 20-02-2025",
+    "last update time": "03:03:24 AM 20-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,20 +14,6 @@
             "match_name": "Sporting Kansas City vs Inter Miami CF",
             "match_id": 119349,
             "startTime": "06:30:00 AM 20-02-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Taawoun vs Al Wakrah (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117671_4476_ALTW_WAK_fc-Web.jpg",
-            "team_1": "Al Taawoun",
-            "team_2": "Al Wakrah",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Al Taawoun vs Al Wakrah",
-            "match_id": 117671,
-            "startTime": "11:30:00 PM 19-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/c3Rkh0RrTEi4ikN_4zLmOw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117671_english_hls_6474ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -148,6 +134,18 @@
             "match_name": "World XI vs Asian XI",
             "match_id": 119493,
             "startTime": "03:00:00 PM 20-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Oman vs USA (USA tour of Oman, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-v-USA-T20I-Series-old-match-card-.png",
+            "team_1": "Oman",
+            "team_2": "USA",
+            "status": "UPCOMING",
+            "event_name": "USA tour of Oman, 2025",
+            "match_name": "Oman vs USA",
+            "match_id": 119426,
+            "startTime": "03:30:00 PM 20-02-2025"
         }
     ]
 }
