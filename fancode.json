@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:23:13 AM 19-02-2025",
+    "last update time": "08:34:19 AM 19-02-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Colorado Rapids vs Los Angeles Football Club (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Old_match-card.jpg",
+            "team_1": "Colorado Rapids",
+            "team_2": "Los Angeles Football Club",
+            "status": "LIVE",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Colorado Rapids vs Los Angeles Football Club",
+            "match_id": 119350,
+            "startTime": "08:30:00 AM 19-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/FBz7uWPfSXaIxJOcOkpYJA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119350_english_hls_8048ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "New South Wales vs Victoria (Sheffield Shield, 2024-25)",
@@ -102,30 +116,18 @@
             "adfree_url": "https://dai.fancode.com/primary/118120_english_hls_5269ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Colorado Rapids vs Los Angeles Football Club (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Old_match-card.jpg",
-            "team_1": "Colorado Rapids",
-            "team_2": "Los Angeles Football Club",
-            "status": "LIVE",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Colorado Rapids vs Los Angeles Football Club",
-            "match_id": 119350,
-            "startTime": "08:30:00 AM 19-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/FBz7uWPfSXaIxJOcOkpYJA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119350_english_hls_8048ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Purbali Super Kings vs Itahari Adarsha Giants (Koshi Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/119470_4966_PSK_IAG_fc-web.jpg",
             "team_1": "Purbali Super Kings",
             "team_2": "Itahari Adarsha Giants",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Koshi Premier League, 2025",
             "match_name": "Purbali Super Kings vs Itahari Adarsha Giants",
             "match_id": 119470,
-            "startTime": "08:45:00 AM 19-02-2025"
+            "startTime": "08:45:00 AM 19-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LcpyF08MTUGf_eNjRta70w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119470_english_hls_5061ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
