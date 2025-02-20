@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:09:39 PM 20-02-2025",
+    "last update time": "11:19:46 PM 20-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "10:30:00 PM 20-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/3RnmuLbUQXGabXHJ7gAfIg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118949_english_hls_5614ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Asian XI vs European XI (Weston Shield, Feb 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/119497_4967_TEP_ASX_fc-web_1740043669192.jpg",
+            "team_1": "Asian XI",
+            "team_2": "European XI",
+            "status": "LIVE",
+            "event_name": "Weston Shield, Feb 2025",
+            "match_name": "Asian XI vs European XI",
+            "match_id": 119497,
+            "startTime": "11:30:00 PM 20-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Wif8oP7nTASPSPjBW1adjg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119497_english_hls_5728ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -115,18 +129,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Asian XI vs European XI (Weston Shield, Feb 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/119497_4967_TEP_ASX_fc-web_1740043669192.jpg",
-            "team_1": "Asian XI",
-            "team_2": "European XI",
-            "status": "UPCOMING",
-            "event_name": "Weston Shield, Feb 2025",
-            "match_name": "Asian XI vs European XI",
-            "match_id": 119497,
-            "startTime": "11:30:00 PM 20-02-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Oman vs USA (USA tour of Oman, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-v-USA-T20I-Series-old-match-card-.png",
             "team_1": "Oman",
@@ -148,6 +150,18 @@
             "match_name": "Kuwait Mavericks vs Lexus",
             "match_id": 118082,
             "startTime": "01:15:00 AM 21-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New South Wales Breakers vs ACT Meteors (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109420_4508_NSWB_ACTM_fc-web.jpg",
+            "team_1": "New South Wales Breakers",
+            "team_2": "ACT Meteors",
+            "status": "UPCOMING",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "New South Wales Breakers vs ACT Meteors",
+            "match_id": 109420,
+            "startTime": "04:30:00 AM 21-02-2025"
         }
     ]
 }
