@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:01:30 AM 21-02-2025",
+    "last update time": "02:11:36 AM 21-02-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "JCA vs Cloud 7 (Saudi Foundation T20 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/118949_4891_CLO_JCA_fc-web.jpg",
-            "team_1": "JCA",
-            "team_2": "Cloud 7",
-            "status": "LIVE",
-            "event_name": "Saudi Foundation T20 Cup, 2025",
-            "match_name": "JCA vs Cloud 7",
-            "match_id": 118949,
-            "startTime": "10:30:00 PM 20-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/3RnmuLbUQXGabXHJ7gAfIg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118949_english_hls_5614ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Lexus vs Kuwait Mavericks (KCC T20 Challengers A League, 2025)",
@@ -75,6 +61,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "JCA vs Cloud 7 (Saudi Foundation T20 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/118949_4891_CLO_JCA_fc-web.jpg",
+            "team_1": "JCA",
+            "team_2": "Cloud 7",
+            "status": "LIVE",
+            "event_name": "Saudi Foundation T20 Cup, 2025",
+            "match_name": "JCA vs Cloud 7",
+            "match_id": 118949,
+            "startTime": "10:30:00 PM 20-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/3RnmuLbUQXGabXHJ7gAfIg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118949_english_hls_5614ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",
             "team_1": "South Australia",
@@ -123,18 +123,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Tasmania Women vs Victoria Women (WNCL, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/109422_4508_TASW_VCTW_fc-web.jpg",
-            "team_1": "Tasmania Women",
-            "team_2": "Victoria Women",
-            "status": "UPCOMING",
-            "event_name": "WNCL, 2024-25",
-            "match_name": "Tasmania Women vs Victoria Women",
-            "match_id": 109422,
-            "startTime": "08:30:00 AM 21-02-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Punjab Panthers vs Manohar Mavericks (Chandigarh T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v2.jpg",
             "team_1": "Punjab Panthers",
@@ -143,6 +131,18 @@
             "event_name": "Chandigarh T20",
             "match_name": "Punjab Panthers vs Manohar Mavericks",
             "match_id": 118124,
+            "startTime": "08:30:00 AM 21-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania Women vs Victoria Women (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/109422_4508_TASW_VCTW_fc-web.jpg",
+            "team_1": "Tasmania Women",
+            "team_2": "Victoria Women",
+            "status": "UPCOMING",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "Tasmania Women vs Victoria Women",
+            "match_id": 109422,
             "startTime": "08:30:00 AM 21-02-2025"
         }
     ]
