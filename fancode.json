@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:14:12 PM 20-02-2025",
+    "last update time": "03:24:19 PM 20-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-v-USA-T20I-Series-old-match-card-.png",
             "team_1": "Oman",
             "team_2": "USA",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "USA tour of Oman, 2025",
             "match_name": "Oman vs USA",
             "match_id": 119426,
-            "startTime": "03:30:00 PM 20-02-2025"
+            "startTime": "03:30:00 PM 20-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/zS0giRI0QYOZRAiscxWDjA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119426_english_hls_8379ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -58,6 +60,34 @@
             "adfree_url": "https://dai.fancode.com/primary/119493_english_hls_5227ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Jeonbuk Motors vs Port (AFC Champions League Two 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/117672_4476_JNB_POR_fc-Web.jpg",
+            "team_1": "Jeonbuk Motors",
+            "team_2": "Port",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Jeonbuk Motors vs Port",
+            "match_id": 117672,
+            "startTime": "03:30:00 PM 20-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/s2Vni3bwRq24-wPbyb9eSg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117672_english_hls_5150ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Muthaiga GC, Nairobi (Magical Kenya Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Magical-Kenya-Open_old_v1.jpg",
+            "team_1": "Day 1",
+            "team_2": "Muthaiga GC, Nairobi",
+            "status": "LIVE",
+            "event_name": "Magical Kenya Open",
+            "match_name": "Day 1",
+            "match_id": 119859,
+            "startTime": "03:30:00 PM 20-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/NUw8KiY7TJqk9DHYnO6n-g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119859_english_hls_2030ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "South Australia vs Tasmania (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",
@@ -68,18 +98,6 @@
             "match_name": "South Australia vs Tasmania",
             "match_id": 110419,
             "startTime": "05:30:00 AM 18-02-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Jeonbuk Motors vs Port (AFC Champions League Two 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117672_4476_JNB_POR_fc-Web.jpg",
-            "team_1": "Jeonbuk Motors",
-            "team_2": "Port",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Jeonbuk Motors vs Port",
-            "match_id": 117672,
-            "startTime": "03:30:00 PM 20-02-2025"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +158,6 @@
             "match_name": "Lexington Shotguns vs Altrad",
             "match_id": 119869,
             "startTime": "09:30:00 PM 20-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Team TGS vs ACE KRM Panthers (KCC T20 Challengers A League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",
-            "team_1": "Team TGS",
-            "team_2": "ACE KRM Panthers",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2025",
-            "match_name": "Team TGS vs ACE KRM Panthers",
-            "match_id": 118081,
-            "startTime": "10:00:00 PM 20-02-2025"
         }
     ]
 }
