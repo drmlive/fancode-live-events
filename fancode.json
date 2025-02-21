@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:19:50 PM 21-02-2025",
+    "last update time": "07:30:00 PM 21-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,6 +72,20 @@
             "startTime": "06:45:00 PM 21-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/2ujx_zdATKycNAsJKHgMZw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119690_english_hls_5650ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Feed C - Day 2 vs VidantaWorld, Mexico (Mexico Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",
+            "team_1": "Feed C - Day 2",
+            "team_2": "VidantaWorld, Mexico",
+            "status": "LIVE",
+            "event_name": "Mexico Open",
+            "match_name": "Feed C - Day 2",
+            "match_id": 119848,
+            "startTime": "07:45:00 PM 21-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/RBBtRSDeSkm4rMuaLaH7NA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119848_english_hls_5120ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -146,18 +160,6 @@
             "match_name": "Team TGS vs Lexus",
             "match_id": 118086,
             "startTime": "12:15:00 AM 22-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-T20_old.jpg",
-            "team_1": "Zimbabwe",
-            "team_2": "Ireland",
-            "status": "UPCOMING",
-            "event_name": "Ireland tour of Zimbabwe, 2025",
-            "match_name": "Zimbabwe vs Ireland",
-            "match_id": 116939,
-            "startTime": "05:00:00 PM 22-02-2025"
         }
     ]
 }
