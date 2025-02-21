@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:09:43 PM 21-02-2025",
+    "last update time": "07:19:50 PM 21-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,25 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-v-USA-T20I-Series-old-match-card-.png",
             "team_1": "Oman",
             "team_2": "USA",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "USA tour of Oman, 2025",
             "match_name": "Oman vs USA",
             "match_id": 119427,
-            "startTime": "07:30:00 PM 21-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "GAT vs Strikers Afghan (KCC T20 Challengers A League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1739168693257.jpg",
-            "team_1": "GAT",
-            "team_2": "Strikers Afghan",
-            "status": "LIVE",
-            "event_name": "KCC T20 Challengers A League, 2025",
-            "match_name": "GAT vs Strikers Afghan",
-            "match_id": 118084,
-            "startTime": "04:00:00 PM 21-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/VmCX0laDQ2mAXa-KP98fyw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118084_english_hls_5459ta-di/index.m3u8"
+            "startTime": "07:30:00 PM 21-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/QVf1ooDbShC74064FFKP0Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119427_english_hls_6043ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +146,18 @@
             "match_name": "Team TGS vs Lexus",
             "match_id": 118086,
             "startTime": "12:15:00 AM 22-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-T20_old.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "Ireland",
+            "status": "UPCOMING",
+            "event_name": "Ireland tour of Zimbabwe, 2025",
+            "match_name": "Zimbabwe vs Ireland",
+            "match_id": 116939,
+            "startTime": "05:00:00 PM 22-02-2025"
         }
     ]
 }
