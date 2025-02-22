@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:36:26 PM 22-02-2025",
+    "last update time": "01:46:38 PM 22-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,20 @@
         },
         {
             "event_category": "Football",
+            "title": "Melbourne Victory vs Melbourne City (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111006_4567_MLV_MLC_fc-web_1728983129342.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Melbourne City",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Melbourne Victory vs Melbourne City",
+            "match_id": 111006,
+            "startTime": "02:05:00 PM 22-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ekNJrHZURjWWni4dO2hSuQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111006_english_hls_5049ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "FC Tokyo vs Machida Zelvia (J League 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117867_4795_TKY_MZ_fc-web.jpg",
             "team_1": "FC Tokyo",
@@ -44,20 +58,6 @@
             "startTime": "11:30:00 AM 22-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/laKyC305QImLw6gvFKtOkQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117867_english_hls_2075ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Cerezo Osaka vs Shonan Bellmare (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117869_4795_OSA_BLM_fc-web.jpg",
-            "team_1": "Cerezo Osaka",
-            "team_2": "Shonan Bellmare",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Cerezo Osaka vs Shonan Bellmare",
-            "match_id": 117869,
-            "startTime": "11:30:00 AM 22-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ze4Xs18qR8iBzWBL9aeUqQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117869_english_hls_8341ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,6 +142,18 @@
             "match_name": "European XI vs British and Irish XI",
             "match_id": 119505,
             "startTime": "07:00:00 PM 22-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Asian XI vs World XI (Weston Shield, Feb 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/119506_4967_ASX_WXI_fc-web_1740043669270.jpg",
+            "team_1": "Asian XI",
+            "team_2": "World XI",
+            "status": "UPCOMING",
+            "event_name": "Weston Shield, Feb 2025",
+            "match_name": "Asian XI vs World XI",
+            "match_id": 119506,
+            "startTime": "09:30:00 PM 22-02-2025"
         }
     ]
 }
