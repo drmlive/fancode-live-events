@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:54:25 AM 22-02-2025",
+    "last update time": "11:04:35 AM 22-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "09:30:00 AM 22-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Z98NwxxHT8iptxigAzC-Ew/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111004_english_hls_5122ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Central Coast Mariners vs Western Sydney Wanderers (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111005_4567_CCM_SYW_fc-web_1728983128720.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Western Sydney Wanderers",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Central Coast Mariners vs Western Sydney Wanderers",
+            "match_id": 111005,
+            "startTime": "11:30:00 AM 22-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/c1pmwK2_QomR8QQXZljU8A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111005_english_hls_5190ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "World XI vs European XI",
             "match_id": 119503,
             "startTime": "03:00:00 PM 22-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Asian XI vs British and Irish XI (Weston Shield, Feb 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/119504_4967_ASX_BIK_fc-web_1740043669118.jpg",
-            "team_1": "Asian XI",
-            "team_2": "British and Irish XI",
-            "status": "UPCOMING",
-            "event_name": "Weston Shield, Feb 2025",
-            "match_name": "Asian XI vs British and Irish XI",
-            "match_id": 119504,
-            "startTime": "05:00:00 PM 22-02-2025"
         }
     ]
 }
