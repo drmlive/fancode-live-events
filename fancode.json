@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:05:29 PM 22-02-2025",
+    "last update time": "12:15:37 PM 22-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "08:30:00 AM 22-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/NklDVe30QfaYf-5SAJZrBA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118126_english_hls_4807ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hiims Hawks vs City Challengers (Chandigarh T20)",
+            "src": "https://images.fancode.com/aig/match/v1/118127_CASACARDS_APP.png",
+            "team_1": "Hiims Hawks",
+            "team_2": "City Challengers",
+            "status": "LIVE",
+            "event_name": "Chandigarh T20",
+            "match_name": "Hiims Hawks vs City Challengers",
+            "match_id": 118127,
+            "startTime": "12:30:00 PM 22-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/FQOWrljaTAyADO9jXWayIQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118127_english_hls_5016ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -74,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/111005_english_hls_5190ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Auckland vs Wellington Phoenix (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111004_4567_AFC_WEL_fc-web_1728983129321.jpg",
-            "team_1": "Auckland",
-            "team_2": "Wellington Phoenix",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Auckland vs Wellington Phoenix",
-            "match_id": 111004,
-            "startTime": "09:30:00 AM 22-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Z98NwxxHT8iptxigAzC-Ew/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111004_english_hls_5122ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-Tour-of-Zimbabwe-T20_old.jpg",
@@ -98,18 +98,6 @@
             "match_name": "Zimbabwe vs Ireland",
             "match_id": 116939,
             "startTime": "05:00:00 PM 22-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hiims Hawks vs City Challengers (Chandigarh T20)",
-            "src": "https://images.fancode.com/aig/match/v1/118127_CASACARDS_APP.png",
-            "team_1": "Hiims Hawks",
-            "team_2": "City Challengers",
-            "status": "UPCOMING",
-            "event_name": "Chandigarh T20",
-            "match_name": "Hiims Hawks vs City Challengers",
-            "match_id": 118127,
-            "startTime": "12:30:00 PM 22-02-2025"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +146,18 @@
             "match_name": "World XI vs European XI",
             "match_id": 119503,
             "startTime": "03:00:00 PM 22-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Asian XI vs British and Irish XI (Weston Shield, Feb 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/119504_4967_ASX_BIK_fc-web_1740043669118.jpg",
+            "team_1": "Asian XI",
+            "team_2": "British and Irish XI",
+            "status": "UPCOMING",
+            "event_name": "Weston Shield, Feb 2025",
+            "match_name": "Asian XI vs British and Irish XI",
+            "match_id": 119504,
+            "startTime": "05:00:00 PM 22-02-2025"
         }
     ]
 }
