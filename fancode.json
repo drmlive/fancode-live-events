@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:21:13 PM 22-02-2025",
+    "last update time": "07:31:19 PM 22-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -102,6 +102,20 @@
             "adfree_url": "https://dai.fancode.com/primary/119851_english_hls_8329ta-di/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Feed D - Day 3 vs VidantaWorld, Mexico (Mexico Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",
+            "team_1": "Feed D - Day 3",
+            "team_2": "VidantaWorld, Mexico",
+            "status": "LIVE",
+            "event_name": "Mexico Open",
+            "match_name": "Feed D - Day 3",
+            "match_id": 119853,
+            "startTime": "07:45:00 PM 22-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/wP7APZBTStGv2IPRVSvnwA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119853_english_hls_4521ta-no/index.m3u8"
+        },
+        {
             "event_category": "Horse Racing",
             "title": "Saudi Cup vs King Abdulaziz Racecourse, Riyadh (Saudi Cup)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Saudi_cup_old_1740033539971.jpg",
@@ -150,18 +164,6 @@
             "match_name": "South Australia vs Tasmania",
             "match_id": 109156,
             "startTime": "06:00:00 AM 23-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Oman vs USA (USA tour of Oman, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-v-USA-T20I-Series-old-match-card-.png",
-            "team_1": "Oman",
-            "team_2": "USA",
-            "status": "UPCOMING",
-            "event_name": "USA tour of Oman, 2025",
-            "match_name": "Oman vs USA",
-            "match_id": 119428,
-            "startTime": "03:30:00 PM 23-02-2025"
         }
     ]
 }
