@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:59:14 PM 23-02-2025",
+    "last update time": "11:09:21 PM 23-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Feed C - Day 4 vs VidantaWorld, Mexico (Mexico Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",
-            "team_1": "Feed C - Day 4",
-            "team_2": "VidantaWorld, Mexico",
-            "status": "LIVE",
-            "event_name": "Mexico Open",
-            "match_name": "Feed C - Day 4",
-            "match_id": 119856,
-            "startTime": "09:00:00 PM 23-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/g8MKisAHRDq04_gkUDf8UQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119856_english_hls_4923ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "Feed B - Day 4 vs VidantaWorld, Mexico (Mexico Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",
             "team_1": "Feed B - Day 4",
@@ -58,6 +44,20 @@
             "startTime": "09:00:00 PM 23-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/pNkKlsQTTquduVLqmLLtNw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119855_english_hls_7903ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Feed C - Day 4 vs VidantaWorld, Mexico (Mexico Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mexico-open-old.png",
+            "team_1": "Feed C - Day 4",
+            "team_2": "VidantaWorld, Mexico",
+            "status": "LIVE",
+            "event_name": "Mexico Open",
+            "match_name": "Feed C - Day 4",
+            "match_id": 119856,
+            "startTime": "09:00:00 PM 23-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/g8MKisAHRDq04_gkUDf8UQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119856_english_hls_4923ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -75,27 +75,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "British and Irish XI vs World XI (Weston Shield, Feb 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/119511_4967_BIK_WXI_fc-web_1740043669086.jpg",
-            "team_1": "British and Irish XI",
-            "team_2": "World XI",
-            "status": "LIVE",
-            "event_name": "Weston Shield, Feb 2025",
-            "match_name": "British and Irish XI vs World XI",
-            "match_id": 119511,
-            "startTime": "09:00:00 PM 23-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/UEfWklqwSICeOuTuib-R5w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119511_english_hls_4556ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "European XI vs British and Irish XI (Weston Shield, Feb 2025)",
+            "title": "British and Irish XI vs European XI (Weston Shield, Feb 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/119488_4967_TEP_BIK_fc-web_1740043668956.jpg",
-            "team_1": "European XI",
-            "team_2": "British and Irish XI",
+            "team_1": "British and Irish XI",
+            "team_2": "European XI",
             "status": "UPCOMING",
             "event_name": "Weston Shield, Feb 2025",
-            "match_name": "European XI vs British and Irish XI",
+            "match_name": "British and Irish XI vs European XI",
             "match_id": 119512,
             "startTime": "12:00:00 AM 24-02-2025"
         },
@@ -146,6 +132,18 @@
             "match_name": "ACCB vs Stari Grad",
             "match_id": 119721,
             "startTime": "05:00:00 PM 24-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Peel & St Johns vs Darmstadt CC (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1.jpg",
+            "team_1": "Peel & St Johns",
+            "team_2": "Darmstadt CC",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Peel & St Johns vs Darmstadt CC",
+            "match_id": 119722,
+            "startTime": "07:00:00 PM 24-02-2025"
         }
     ]
 }
