@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:39:42 AM 23-02-2025",
+    "last update time": "08:49:48 AM 23-02-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "06:00:00 AM 23-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/LvM8c-nQTRmyj-6JfL6Hwg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109156_english_hls_4300ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hiims Hawks vs Wild Woods Warriors (Chandigarh T20)",
+            "src": "https://images.fancode.com/aig/match/v1/118128_CASACARDS_APP.png",
+            "team_1": "Hiims Hawks",
+            "team_2": "Wild Woods Warriors",
+            "status": "LIVE",
+            "event_name": "Chandigarh T20",
+            "match_name": "Hiims Hawks vs Wild Woods Warriors",
+            "match_id": 118128,
+            "startTime": "09:00:00 AM 23-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/auI58S6rQAeDLAFWwg7j-w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118128_english_hls_4783ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -128,18 +142,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 119512,
             "startTime": "12:00:00 AM 24-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Wild Woods Warriors vs Hiims Hawks (Chandigarh T20)",
-            "src": "https://images.fancode.com/aig/match/v1/118128_CASACARDS_APP.png",
-            "team_1": "Wild Woods Warriors",
-            "team_2": "Hiims Hawks",
-            "status": "UPCOMING",
-            "event_name": "Chandigarh T20",
-            "match_name": "Wild Woods Warriors vs Hiims Hawks",
-            "match_id": 118128,
-            "startTime": "09:00:00 AM 23-02-2025"
         }
     ]
 }
