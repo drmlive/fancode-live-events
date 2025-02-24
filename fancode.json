@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:47:51 PM 24-02-2025",
+    "last update time": "12:57:56 PM 24-02-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Sharks XI vs Panthers XI (CAP Siechem T20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1.jpg",
-            "team_1": "Sharks XI",
-            "team_2": "Panthers XI",
-            "status": "LIVE",
-            "event_name": "CAP Siechem T20 Tournament, 2025",
-            "match_name": "Sharks XI vs Panthers XI",
-            "match_id": 119988,
-            "startTime": "09:30:00 AM 24-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/fv5HIm0fSRmMqaZb_z4n_A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119988_english_hls_4747ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Bulls XI vs Lions XI (CAP Siechem T20 Tournament, 2025)",
@@ -148,6 +134,18 @@
             "match_name": "ACCB vs Peel & St Johns",
             "match_id": 119724,
             "startTime": "11:30:00 PM 24-02-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sheffield United vs Leeds United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-United-vs-Leeds-United_fc_web.jpg",
+            "team_1": "Sheffield United",
+            "team_2": "Leeds United",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Sheffield United vs Leeds United",
+            "match_id": 116566,
+            "startTime": "01:30:00 AM 25-02-2025"
         }
     ]
 }
