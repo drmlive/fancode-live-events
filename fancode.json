@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:22:46 AM 26-02-2025",
+    "last update time": "01:32:52 AM 26-02-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Barcelona vs Atl\u00e9tico de Madrid (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-VS-Madrid_old.jpg",
+            "team_1": "Barcelona",
+            "team_2": "Atl\u00e9tico de Madrid",
+            "status": "LIVE",
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Barcelona vs Atl\u00e9tico de Madrid",
+            "match_id": 119314,
+            "startTime": "02:00:00 AM 26-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/oqiTz3ksTDWSLblhe93mpQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119314_english_hls_5523ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Zimbabwe vs Ireland (Ireland tour of Zimbabwe, 2025)",
@@ -16,20 +30,6 @@
             "startTime": "10:00:00 PM 25-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/NlzLassmQeGajuuCTqNPFg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116941_english_hls_5663ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Darmstadt CC vs Stari Grad (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
-            "team_1": "Darmstadt CC",
-            "team_2": "Stari Grad",
-            "status": "LIVE",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Darmstadt CC vs Stari Grad",
-            "match_id": 119729,
-            "startTime": "11:30:00 PM 25-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/N8RMAC_aTEKH76Pe-IDP4g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119729_english_hls_5292ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -60,16 +60,18 @@
             "adfree_url": "https://dai.fancode.com/primary/116537_english_hls_5186ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Barcelona vs Atl\u00e9tico de Madrid (Copa del Rey 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-VS-Madrid_old.jpg",
-            "team_1": "Barcelona",
-            "team_2": "Atl\u00e9tico de Madrid",
-            "status": "UPCOMING",
-            "event_name": "Copa del Rey 2024-25",
-            "match_name": "Barcelona vs Atl\u00e9tico de Madrid",
-            "match_id": 119314,
-            "startTime": "02:00:00 AM 26-02-2025"
+            "event_category": "Cricket",
+            "title": "Darmstadt CC vs Stari Grad (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
+            "team_1": "Darmstadt CC",
+            "team_2": "Stari Grad",
+            "status": "LIVE",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Darmstadt CC vs Stari Grad",
+            "match_id": 119729,
+            "startTime": "11:30:00 PM 25-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/N8RMAC_aTEKH76Pe-IDP4g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119729_english_hls_5292ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -121,25 +123,25 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (European Cricket League, 2025)",
+            "title": "ACC Bucharest vs Peel & St Johns (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "ACC Bucharest",
+            "team_2": "Peel & St Johns",
             "status": "UPCOMING",
             "event_name": "European Cricket League, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "ACC Bucharest vs Peel & St Johns",
             "match_id": 119730,
             "startTime": "03:30:00 PM 26-02-2025"
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (European Cricket League, 2025)",
+            "title": "Dreux vs Darmstadt CC (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Dreux",
+            "team_2": "Darmstadt CC",
             "status": "UPCOMING",
             "event_name": "European Cricket League, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "Dreux vs Darmstadt CC",
             "match_id": 119731,
             "startTime": "05:30:00 PM 26-02-2025"
         },
