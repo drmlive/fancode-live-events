@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:25:44 PM 26-02-2025",
+    "last update time": "07:35:50 PM 26-02-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Windward Islands Women vs Barbados Women (CG United Women's Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/119939_4977_WWI-W_BAR-W_fc-web.jpg",
+            "team_1": "Windward Islands Women",
+            "team_2": "Barbados Women",
+            "status": "LIVE",
+            "event_name": "CG United Women's Super50 Cup, 2025",
+            "match_name": "Windward Islands Women vs Barbados Women",
+            "match_id": 119939,
+            "startTime": "07:30:00 PM 26-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/S0mTm1T4SwuhgrUh3pRi6w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119939_english_hls_5331ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Trinidad and Tobago Women vs Leeward Islands Women (CG United Women's Super50 Cup, 2025)",
@@ -32,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/119937_english_hls_2292ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Windward Islands Women vs Barbados Women (CG United Women's Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/119939_4977_WWI-W_BAR-W_fc-web.jpg",
-            "team_1": "Windward Islands Women",
-            "team_2": "Barbados Women",
-            "status": "LIVE",
-            "event_name": "CG United Women's Super50 Cup, 2025",
-            "match_name": "Windward Islands Women vs Barbados Women",
-            "match_id": 119939,
-            "startTime": "07:30:00 PM 26-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/S0mTm1T4SwuhgrUh3pRi6w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119939_english_hls_5331ta-di/index.m3u8"
-        },
-        {
             "event_category": "Formula 1",
             "title": "Day 1 - PM vs Bahrain International Circuit (F1 Aramco Pre-Season Testing)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Racing_Old_match-card_1740487406816.jpg",
@@ -73,6 +73,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Dreux vs Peel & St Johns (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
+            "team_1": "Dreux",
+            "team_2": "Peel & St Johns",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Dreux vs Peel & St Johns",
+            "match_id": 119732,
+            "startTime": "08:30:00 PM 26-02-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Sharks XI vs Tigers XI (Pondicherry T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v2.jpg",
             "team_1": "Sharks XI",
@@ -82,18 +94,6 @@
             "match_name": "Sharks XI vs Tigers XI",
             "match_id": 119995,
             "startTime": "01:30:00 PM 27-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs Peel & St Johns (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
-            "team_1": "TBC",
-            "team_2": "Peel & St Johns",
-            "status": "UPCOMING",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "TBC vs Peel & St Johns",
-            "match_id": 119732,
-            "startTime": "08:30:00 PM 26-02-2025"
         },
         {
             "event_category": "Cricket",
@@ -109,13 +109,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (European Cricket League, 2025)",
+            "title": "Darmstadt CC vs TBC (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
-            "team_1": "TBC",
+            "team_1": "Darmstadt CC",
             "team_2": "TBC",
             "status": "UPCOMING",
             "event_name": "European Cricket League, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "Darmstadt CC vs TBC",
             "match_id": 119733,
             "startTime": "11:30:00 PM 26-02-2025"
         },
