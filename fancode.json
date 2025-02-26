@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:03:53 PM 26-02-2025",
+    "last update time": "05:14:02 PM 26-02-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Peel & St Johns vs ACC Bucharest (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
-            "team_1": "Peel & St Johns",
-            "team_2": "ACC Bucharest",
-            "status": "LIVE",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Peel & St Johns vs ACC Bucharest",
-            "match_id": 119730,
-            "startTime": "03:30:00 PM 26-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/2eDrUTifRRq_1MP2IUtHQQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119730_english_hls_7444ta-di/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Avispa Fukuoka vs Kawasaki Frontale (J League 2025)",
@@ -88,30 +74,18 @@
             "adfree_url": "https://dai.fancode.com/primary/118844_english_hls_5152ta-no/index.m3u8"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 vs Somaiya Cricket Ground, Sion (Lakshya)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Lakshya--old-Match-card-.png",
-            "team_1": "Day 2",
-            "team_2": "Somaiya Cricket Ground, Sion",
-            "status": "LIVE",
-            "event_name": "Lakshya",
-            "match_name": "Day 2",
-            "match_id": 120099,
-            "startTime": "08:30:00 AM 26-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/TMB-0GO6RIuuVrQS1KN_rg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120099_english_hls_8276ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Dreux vs Darmstadt CC (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
             "team_1": "Dreux",
             "team_2": "Darmstadt CC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "European Cricket League, 2025",
             "match_name": "Dreux vs Darmstadt CC",
             "match_id": 119731,
-            "startTime": "05:30:00 PM 26-02-2025"
+            "startTime": "05:30:00 PM 26-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-h3NK8RWQOmhltu2okWZgg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119731_english_hls_8346ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -160,6 +134,30 @@
             "match_name": "Trinidad and Tobago Women vs Leeward Islands Women",
             "match_id": 119938,
             "startTime": "07:30:00 PM 26-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guyana Women vs Jamaica Women (CG United Women's Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/119937_4977_GY-W_JAM-W_fc-web.jpg",
+            "team_1": "Guyana Women",
+            "team_2": "Jamaica Women",
+            "status": "UPCOMING",
+            "event_name": "CG United Women's Super50 Cup, 2025",
+            "match_name": "Guyana Women vs Jamaica Women",
+            "match_id": 119937,
+            "startTime": "07:30:00 PM 26-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 119732,
+            "startTime": "08:30:00 PM 26-02-2025"
         }
     ]
 }
