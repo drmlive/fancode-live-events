@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:33:21 AM 27-02-2025",
+    "last update time": "04:43:36 AM 27-02-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_FC_Cincinnati_vs_Motagua_Old_match-card.jpg",
             "team_1": "FC Cincinnati",
             "team_2": "Motagua",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Concacaf Champions Cup 2025",
             "match_name": "FC Cincinnati vs Motagua",
             "match_id": 119700,
-            "startTime": "05:00:00 AM 27-02-2025"
+            "startTime": "05:00:00 AM 27-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LEnb0fneTimUXY_myX11Ag/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119700_english_hls_5550ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -38,20 +40,6 @@
             "match_name": "Seattle Sounders FC vs Antigua",
             "match_id": 119699,
             "startTime": "09:00:00 AM 27-02-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs Real Madrid (Copa del Rey 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-VS-Real-Madrid-old.jpg",
-            "team_1": "Real Sociedad",
-            "team_2": "Real Madrid",
-            "status": "LIVE",
-            "event_name": "Copa del Rey 2024-25",
-            "match_name": "Real Sociedad vs Real Madrid",
-            "match_id": 119315,
-            "startTime": "02:00:00 AM 27-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/2WgkhLtWR1eZ9zmJ2QATlw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119315_english_hls_5467ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -112,6 +100,18 @@
             "match_name": "Hornchurch vs Byron",
             "match_id": 119735,
             "startTime": "05:00:00 PM 27-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Al Fatah vs Austrian Cricket Tigers (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
+            "team_1": "Al Fatah",
+            "team_2": "Austrian Cricket Tigers",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Al Fatah vs Austrian Cricket Tigers",
+            "match_id": 119736,
+            "startTime": "07:00:00 PM 27-02-2025"
         }
     ]
 }
