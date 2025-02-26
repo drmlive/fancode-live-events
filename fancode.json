@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:29:45 AM 27-02-2025",
+    "last update time": "01:39:51 AM 27-02-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Real Madrid (Copa del Rey 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-VS-Real-Madrid-old.jpg",
+            "team_1": "Real Sociedad",
+            "team_2": "Real Madrid",
+            "status": "LIVE",
+            "event_name": "Copa del Rey 2024-25",
+            "match_name": "Real Sociedad vs Real Madrid",
+            "match_id": 119315,
+            "startTime": "02:00:00 AM 27-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/2WgkhLtWR1eZ9zmJ2QATlw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119315_english_hls_5467ta-no/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "RB Leipzig vs VfL Wolfsburg (DFB Pokal)",
@@ -16,18 +30,6 @@
             "startTime": "01:15:00 AM 27-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kg1v8-oxRCysgFAhG0Oa4w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/116536_english_hls_6184ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs Real Madrid (Copa del Rey 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-VS-Real-Madrid-old.jpg",
-            "team_1": "Real Sociedad",
-            "team_2": "Real Madrid",
-            "status": "UPCOMING",
-            "event_name": "Copa del Rey 2024-25",
-            "match_name": "Real Sociedad vs Real Madrid",
-            "match_id": 119315,
-            "startTime": "02:00:00 AM 27-02-2025"
         },
         {
             "event_category": "Cricket",
@@ -86,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/118092_english_hls_5696ta-di/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Dreux vs Darmstadt CC (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
-            "team_1": "Dreux",
-            "team_2": "Darmstadt CC",
-            "status": "LIVE",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Dreux vs Darmstadt CC",
-            "match_id": 119733,
-            "startTime": "11:30:00 PM 26-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/FBG1qJ4SSrGsmWuS8ZL3YQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119733_english_hls_5463ta-no/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Wrexham vs Peterborough United (EFL Vertu Trophy)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Wrexham-VS-Peterborough-United_old.jpg",
@@ -148,6 +136,18 @@
             "match_name": "FC Cincinnati vs Motagua",
             "match_id": 119700,
             "startTime": "05:00:00 AM 27-02-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Salt Lake vs Herediano (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Real-Salt_vs_Herediano_Old_match-card.jpg",
+            "team_1": "Real Salt Lake",
+            "team_2": "Herediano",
+            "status": "UPCOMING",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Real Salt Lake vs Herediano",
+            "match_id": 119701,
+            "startTime": "07:00:00 AM 27-02-2025"
         }
     ]
 }
