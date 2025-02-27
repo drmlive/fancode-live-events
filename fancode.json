@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:07:50 AM 27-02-2025",
+    "last update time": "11:18:02 AM 27-02-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Seattle Sounders FC vs Antigua (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_FC_Seattle_vs_Antigua_Old_match-card.jpg",
-            "team_1": "Seattle Sounders FC",
-            "team_2": "Antigua",
-            "status": "LIVE",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Seattle Sounders FC vs Antigua",
-            "match_id": 119699,
-            "startTime": "09:00:00 AM 27-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/xxBNBupZQi6cpp5xsSb6Sw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119699_english_hls_5408ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Tuskers XI vs Lions XI (Pondicherry T20, 2025)",
@@ -44,6 +30,20 @@
             "startTime": "07:00:00 AM 27-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/BDdiKPqDSv-0HpoI24FQxw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120143_english_hls_8921ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 3 vs Somaiya Cricket Ground, Sion (Lakshya)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Lakshya--old-Match-card-.png",
+            "team_1": "Day 3",
+            "team_2": "Somaiya Cricket Ground, Sion",
+            "status": "LIVE",
+            "event_name": "Lakshya",
+            "match_name": "Day 3",
+            "match_id": 120100,
+            "startTime": "11:30:00 AM 27-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/3-EoVTr-SmivPNTPs7-95w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120100_english_hls_5756ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -119,18 +119,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Hornchurch vs Al Fatah (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
-            "team_1": "Hornchurch",
-            "team_2": "Al Fatah",
-            "status": "UPCOMING",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Hornchurch vs Al Fatah",
-            "match_id": 119738,
-            "startTime": "11:30:00 PM 27-02-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bulls XI vs Panthers XI (Pondicherry T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v3.jpg",
             "team_1": "Bulls XI",
@@ -143,15 +131,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "ACE KRM Panthers vs MEC Study Group (KCC T20 Challengers A League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-A_league_match-card_1738900931883.jpg",
-            "team_1": "ACE KRM Panthers",
-            "team_2": "MEC Study Group",
+            "title": "Hornchurch vs Al Fatah (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
+            "team_1": "Hornchurch",
+            "team_2": "Al Fatah",
             "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 2025",
-            "match_name": "ACE KRM Panthers vs MEC Study Group",
-            "match_id": 118094,
-            "startTime": "01:15:00 AM 28-02-2025"
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Hornchurch vs Al Fatah",
+            "match_id": 119738,
+            "startTime": "11:30:00 PM 27-02-2025"
         }
     ]
 }
