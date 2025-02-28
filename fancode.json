@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:01:46 AM 28-02-2025",
+    "last update time": "08:11:52 AM 28-02-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -42,6 +42,34 @@
             "startTime": "07:30:00 AM 28-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_mdW1REbSnCacdwuzpnZ6A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118615_english_hls_5285ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Free Practice 1 vs Chang International Circuit (Moto2 Thailand)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Free Practice 1",
+            "team_2": "Chang International Circuit",
+            "status": "LIVE",
+            "event_name": "Moto2 Thailand",
+            "match_name": "Free Practice 1",
+            "match_id": 118610,
+            "startTime": "08:20:00 AM 28-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/6j0gUEr5SIeLCvj9ZZ2K_g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118610_english_hls_5520ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 4 vs Somaiya Cricket Ground, Sion (Lakshya)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Lakshya--old-Match-card-.png",
+            "team_1": "Day 4",
+            "team_2": "Somaiya Cricket Ground, Sion",
+            "status": "LIVE",
+            "event_name": "Lakshya",
+            "match_name": "Day 4",
+            "match_id": 120101,
+            "startTime": "08:30:00 AM 28-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/O6-gQA8kSTal7tZ7BOqxaw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120101_english_hls_2692ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -126,30 +154,6 @@
             "match_name": "Byron vs Al Fatah",
             "match_id": 119741,
             "startTime": "07:00:00 PM 28-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trinidad and Tobago Women vs Windward Islands Women (CG United Women's Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/119942_4977_TT-W_WWI-W_fc-web.jpg",
-            "team_1": "Trinidad and Tobago Women",
-            "team_2": "Windward Islands Women",
-            "status": "UPCOMING",
-            "event_name": "CG United Women's Super50 Cup, 2025",
-            "match_name": "Trinidad and Tobago Women vs Windward Islands Women",
-            "match_id": 119942,
-            "startTime": "07:30:00 PM 28-02-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Leeward Islands Women vs Guyana Women (CG United Women's Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/119941_4977_LWI-W_GY-W_fc-web.jpg",
-            "team_1": "Leeward Islands Women",
-            "team_2": "Guyana Women",
-            "status": "UPCOMING",
-            "event_name": "CG United Women's Super50 Cup, 2025",
-            "match_name": "Leeward Islands Women vs Guyana Women",
-            "match_id": 119941,
-            "startTime": "07:30:00 PM 28-02-2025"
         }
     ]
 }
