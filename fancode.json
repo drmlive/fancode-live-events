@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:14:45 AM 01-03-2025",
+    "last update time": "01:24:54 AM 01-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Sheffield Wednesday vs Sunderland",
             "match_id": 119967,
             "startTime": "01:30:00 AM 01-03-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Q9Bj3TOaQZC5SIr6t9hYDQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119967_english_hls_5326ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,20 +102,6 @@
             "adfree_url": "https://dai.fancode.com/primary/119905_english_hls_5003ta-no/index.m3u8"
         },
         {
-            "event_category": "Basketball",
-            "title": "Anadolu Efes Istanbul vs Alba Berlin (EuroLeague 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
-            "team_1": "Anadolu Efes Istanbul",
-            "team_2": "Alba Berlin",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Anadolu Efes Istanbul vs Alba Berlin",
-            "match_id": 120232,
-            "startTime": "11:00:00 PM 28-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/w86-6rFXSzu1T3-CI5gfzQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120232_english_hls_5507ta-di/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "World Feed - Day 2 vs Palm Beach Garden (Cognizant Classic in The Palm Beaches)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-classic-in-the-palm-beaches-old.jpg",
@@ -166,6 +152,18 @@
             "match_name": "Lions XI vs Tigers XI",
             "match_id": 119994,
             "startTime": "09:30:00 AM 01-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bulls XI vs Tuskers XI (Pondicherry T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v3.jpg",
+            "team_1": "Bulls XI",
+            "team_2": "Tuskers XI",
+            "status": "UPCOMING",
+            "event_name": "Pondicherry T20, 2025",
+            "match_name": "Bulls XI vs Tuskers XI",
+            "match_id": 120116,
+            "startTime": "01:30:00 PM 01-03-2025"
         }
     ]
 }
