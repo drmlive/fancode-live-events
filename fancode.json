@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:35:30 AM 01-03-2025",
+    "last update time": "02:45:39 AM 01-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -117,6 +117,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Otago Sparks vs Auckland Hearts (Hallyburton Johnstone Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hallyburton-Johnstone-Final_2025_Old_match-card.jpg",
+            "team_1": "Otago Sparks",
+            "team_2": "Auckland Hearts",
+            "status": "LIVE",
+            "event_name": "Hallyburton Johnstone Shield, 2024-25",
+            "match_name": "Otago Sparks vs Auckland Hearts",
+            "match_id": 112881,
+            "startTime": "03:00:00 AM 01-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/NKb9xGkJQCeq5M8TPG_ffw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/112881_english_hls_5519ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "South Australia vs Victoria (One Day Cup, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/One-Day-Cup_old-Final-Match-card.jpg",
             "team_1": "South Australia",
@@ -150,18 +164,6 @@
             "match_name": "Bulls XI vs Tuskers XI",
             "match_id": 120116,
             "startTime": "01:30:00 PM 01-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Austrian Cricket Tigers vs Al Fatah (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
-            "team_1": "Austrian Cricket Tigers",
-            "team_2": "Al Fatah",
-            "status": "UPCOMING",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Austrian Cricket Tigers vs Al Fatah",
-            "match_id": 119744,
-            "startTime": "03:30:00 PM 01-03-2025"
         }
     ]
 }
