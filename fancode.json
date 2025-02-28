@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:04:26 AM 01-03-2025",
+    "last update time": "01:14:45 AM 01-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "07:30:00 PM 28-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/MGP8QOw-TjqmAlbCUHBzXg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119940_english_hls_2264ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sheffield Wednesday vs Sunderland (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-wed-vs-sunderland_fc-web.jpg",
+            "team_1": "Sheffield Wednesday",
+            "team_2": "Sunderland",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Sheffield Wednesday vs Sunderland",
+            "match_id": 119967,
+            "startTime": "01:30:00 AM 01-03-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -116,6 +130,20 @@
             "adfree_url": "https://dai.fancode.com/primary/119901_english_hls_5063ta-di/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "LDLC ASVEL Villeurbanne vs Panathinaikos OPAP Athens (EuroLeague 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
+            "team_1": "LDLC ASVEL Villeurbanne",
+            "team_2": "Panathinaikos OPAP Athens",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "LDLC ASVEL Villeurbanne vs Panathinaikos OPAP Athens",
+            "match_id": 120233,
+            "startTime": "01:30:00 AM 01-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/JSJXBdW8QGSrGJjBehALnQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120233_english_hls_8796ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "South Australia vs Victoria (One Day Cup, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/One-Day-Cup_old-Final-Match-card.jpg",
@@ -138,30 +166,6 @@
             "match_name": "Lions XI vs Tigers XI",
             "match_id": 119994,
             "startTime": "09:30:00 AM 01-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bulls XI vs Tuskers XI (Pondicherry T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v3.jpg",
-            "team_1": "Bulls XI",
-            "team_2": "Tuskers XI",
-            "status": "UPCOMING",
-            "event_name": "Pondicherry T20, 2025",
-            "match_name": "Bulls XI vs Tuskers XI",
-            "match_id": 120116,
-            "startTime": "01:30:00 PM 01-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield Wednesday vs Sunderland (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-wed-vs-sunderland_fc-web.jpg",
-            "team_1": "Sheffield Wednesday",
-            "team_2": "Sunderland",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Sheffield Wednesday vs Sunderland",
-            "match_id": 119967,
-            "startTime": "01:30:00 AM 01-03-2025"
         }
     ]
 }
