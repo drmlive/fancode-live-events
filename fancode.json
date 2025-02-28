@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:09:22 PM 28-02-2025",
+    "last update time": "05:19:48 PM 28-02-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Racing_Old_match-card_1740487406816.jpg",
             "team_1": "Day 3 - PM",
             "team_2": "Bahrain International Circuit",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F1 Aramco Pre-Season Testing",
             "match_name": "Day 3 - PM Session ",
             "match_id": 120412,
-            "startTime": "05:25:00 PM 28-02-2025"
+            "startTime": "05:25:00 PM 28-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/mLprN09UQpOgSfjyCDGToQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120412_english_hls_5276ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -42,20 +44,6 @@
             "startTime": "05:00:00 PM 28-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/6152kCPXShq_n9xNSYZk2A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119740_english_hls_5373ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 4 vs Somaiya Cricket Ground, Sion (Lakshya)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Lakshya--old-Match-card-.png",
-            "team_1": "Day 4",
-            "team_2": "Somaiya Cricket Ground, Sion",
-            "status": "LIVE",
-            "event_name": "Lakshya",
-            "match_name": "Day 4",
-            "match_id": 120101,
-            "startTime": "08:30:00 AM 28-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/O6-gQA8kSTal7tZ7BOqxaw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120101_english_hls_2692ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -155,6 +143,18 @@
             "event_name": "CG United Women's Super50 Cup, 2025",
             "match_name": "Leeward Islands Women vs Guyana Women",
             "match_id": 119941,
+            "startTime": "07:30:00 PM 28-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jamaica Women vs Barbados Women (CG United Women's Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/119940_4977_JAM-W_BAR-W_fc-web.jpg",
+            "team_1": "Jamaica Women",
+            "team_2": "Barbados Women",
+            "status": "UPCOMING",
+            "event_name": "CG United Women's Super50 Cup, 2025",
+            "match_name": "Jamaica Women vs Barbados Women",
+            "match_id": 119940,
             "startTime": "07:30:00 PM 28-02-2025"
         }
     ]
