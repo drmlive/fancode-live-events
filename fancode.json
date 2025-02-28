@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:15:03 PM 28-02-2025",
+    "last update time": "01:25:08 PM 28-02-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -16,6 +16,20 @@
             "startTime": "01:30:00 PM 28-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/oFou6s4ITwyjl_g1nYCQeA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117892_english_hls_6486ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tuskers XI vs Sharks XI (Pondicherry T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1.jpg",
+            "team_1": "Tuskers XI",
+            "team_2": "Sharks XI",
+            "status": "LIVE",
+            "event_name": "Pondicherry T20, 2025",
+            "match_name": "Tuskers XI vs Sharks XI",
+            "match_id": 120115,
+            "startTime": "01:30:00 PM 28-02-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-nGQbRhrQyy4kesaJhKBnQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120115_english_hls_8667ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -58,34 +72,6 @@
             "startTime": "12:25:00 PM 28-02-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/oKNvpxwfSAaT3mlxMHfzQQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119209_english_hls_5971ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Practice vs Chang International Circuit (Moto2 Thailand)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto2-thailand-old_1740712116984.jpg",
-            "team_1": "Practice",
-            "team_2": "Chang International Circuit",
-            "status": "LIVE",
-            "event_name": "Moto2 Thailand",
-            "match_name": "Practice",
-            "match_id": 118611,
-            "startTime": "12:35:00 PM 28-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/OuTTosjSRxyXL4i-cHkLtQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118611_english_hls_5396ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tuskers XI vs Sharks XI (Pondicherry T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1.jpg",
-            "team_1": "Tuskers XI",
-            "team_2": "Sharks XI",
-            "status": "LIVE",
-            "event_name": "Pondicherry T20, 2025",
-            "match_name": "Tuskers XI vs Sharks XI",
-            "match_id": 120115,
-            "startTime": "01:30:00 PM 28-02-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-nGQbRhrQyy4kesaJhKBnQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120115_english_hls_8667ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +144,18 @@
             "match_name": "Austrian Cricket Tigers vs Hornchurch",
             "match_id": 119740,
             "startTime": "05:00:00 PM 28-02-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Byron vs Al Fatah (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
+            "team_1": "Byron",
+            "team_2": "Al Fatah",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Byron vs Al Fatah",
+            "match_id": 119741,
+            "startTime": "07:00:00 PM 28-02-2025"
         }
     ]
 }
