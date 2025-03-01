@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:24:54 AM 02-03-2025",
+    "last update time": "01:35:01 AM 02-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Northern CC vs Hornchurch (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
-            "team_1": "Northern CC",
-            "team_2": "Hornchurch",
-            "status": "LIVE",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Northern CC vs Hornchurch",
-            "match_id": 119747,
-            "startTime": "11:30:00 PM 01-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ktq-W1pNTcOOPrwR3ck9xA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119747_english_hls_4976ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Stack CC vs Al Mulla Exchange (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)",
@@ -117,6 +103,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Northern CC vs Hornchurch (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
+            "team_1": "Northern CC",
+            "team_2": "Hornchurch",
+            "status": "LIVE",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Northern CC vs Hornchurch",
+            "match_id": 119747,
+            "startTime": "11:30:00 PM 01-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ktq-W1pNTcOOPrwR3ck9xA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119747_english_hls_4976ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Panthers XI vs Tuskers XI (Pondicherry T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1_1740819220652.jpg",
             "team_1": "Panthers XI",
@@ -150,6 +150,18 @@
             "match_name": "Canterbury vs Auckland Aces",
             "match_id": 111093,
             "startTime": "03:00:00 AM 02-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland Fire vs New South Wales Breakers (WNCL, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Queensland Fire",
+            "team_2": "New South Wales Breakers",
+            "status": "UPCOMING",
+            "event_name": "WNCL, 2024-25",
+            "match_name": "Queensland Fire vs New South Wales Breakers",
+            "match_id": 109423,
+            "startTime": "09:05:00 AM 02-03-2025"
         }
     ]
 }
