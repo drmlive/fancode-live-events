@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:09:02 AM 01-03-2025",
+    "last update time": "09:19:17 AM 01-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "09:05:00 AM 01-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/v3z7J4vUTSKFmJVjH6NAYQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109158_english_hls_6345ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lions XI vs Tigers XI (Pondicherry T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1.jpg",
+            "team_1": "Lions XI",
+            "team_2": "Tigers XI",
+            "status": "LIVE",
+            "event_name": "Pondicherry T20, 2025",
+            "match_name": "Lions XI vs Tigers XI",
+            "match_id": 119994,
+            "startTime": "09:30:00 AM 01-03-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -74,16 +88,18 @@
             "adfree_url": "https://dai.fancode.com/primary/117893_english_hls_4960ta-di/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Lions XI vs Tigers XI (Pondicherry T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1.jpg",
-            "team_1": "Lions XI",
-            "team_2": "Tigers XI",
-            "status": "UPCOMING",
-            "event_name": "Pondicherry T20, 2025",
-            "match_name": "Lions XI vs Tigers XI",
-            "match_id": 119994,
-            "startTime": "09:30:00 AM 01-03-2025"
+            "event_category": "MotoGP",
+            "title": "Qualifying vs Chang International Circuit (PT GRAND PRIX OF THAILAND)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-thailand-old-match-card-New_1740761448260.png",
+            "team_1": "Qualifying",
+            "team_2": "Chang International Circuit",
+            "status": "LIVE",
+            "event_name": "PT GRAND PRIX OF THAILAND",
+            "match_name": "Qualifying",
+            "match_id": 117894,
+            "startTime": "09:20:00 AM 01-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/OWw1TyxTQvKK7zadsbT0dg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117894_english_hls_5210ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -143,18 +159,6 @@
             "event_name": "European Cricket League, 2025",
             "match_name": "TBC vs TBC",
             "match_id": 119746,
-            "startTime": "08:30:00 PM 01-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Middlesbrough vs Derby County (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-vs-Derby-County_fc_web.jpg",
-            "team_1": "Middlesbrough",
-            "team_2": "Derby County",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Middlesbrough vs Derby County",
-            "match_id": 119966,
             "startTime": "08:30:00 PM 01-03-2025"
         }
     ]
