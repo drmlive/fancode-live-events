@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:39:11 PM 01-03-2025",
+    "last update time": "04:49:16 PM 01-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,20 @@
             "adfree_url": "https://dai.fancode.com/primary/119744_english_hls_5002ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Australia U20 vs Saudi Arabia U20 (AFC U20 Asian Cup China, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/118845_CASACARDS_APP.png",
+            "team_1": "Australia U20",
+            "team_2": "Saudi Arabia U20",
+            "status": "LIVE",
+            "event_name": "AFC U20 Asian Cup China, 2025",
+            "match_name": "Australia U20 vs Saudi Arabia U20",
+            "match_id": 118845,
+            "startTime": "05:00:00 PM 01-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/hNqE2zP5SFya6ERJKqz2Wg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118845_english_hls_5666ta-no/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3 vs Durban CC, Durban (Investec South African Open Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Investec-South-African-Open-Championship_old.jpg",
@@ -30,20 +44,6 @@
             "startTime": "04:00:00 PM 01-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/j2pnRC4aR6G_ANa5JK5a4g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120149_english_hls_5296ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Victoria (One Day Cup, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/One-Day-Cup_old-Final-Match-card.jpg",
-            "team_1": "South Australia",
-            "team_2": "Victoria",
-            "status": "LIVE",
-            "event_name": "One Day Cup, 2024-25",
-            "match_name": "South Australia vs Victoria",
-            "match_id": 109158,
-            "startTime": "09:05:00 AM 01-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/v3z7J4vUTSKFmJVjH6NAYQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109158_english_hls_6345ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -68,18 +68,6 @@
             "match_name": "Panthers XI vs Tuskers XI",
             "match_id": 119993,
             "startTime": "09:30:00 AM 02-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Australia U20 vs Saudi Arabia U20 (AFC U20 Asian Cup China, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "Australia U20",
-            "team_2": "Saudi Arabia U20",
-            "status": "UPCOMING",
-            "event_name": "AFC U20 Asian Cup China, 2025",
-            "match_name": "Australia U20 vs Saudi Arabia U20",
-            "match_id": 118845,
-            "startTime": "05:00:00 PM 01-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +140,18 @@
             "match_name": "Stack CC vs Al Mulla Exchange",
             "match_id": 120363,
             "startTime": "01:00:00 AM 02-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Middlesbrough vs Derby County (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-vs-Derby-County_fc_web.jpg",
+            "team_1": "Middlesbrough",
+            "team_2": "Derby County",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Middlesbrough vs Derby County",
+            "match_id": 119966,
+            "startTime": "08:30:00 PM 01-03-2025"
         }
     ]
 }
