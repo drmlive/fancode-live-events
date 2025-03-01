@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:29:06 PM 01-03-2025",
+    "last update time": "04:39:11 PM 01-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Victoria (One Day Cup, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/One-Day-Cup_old-Final-Match-card.jpg",
-            "team_1": "South Australia",
-            "team_2": "Victoria",
-            "status": "LIVE",
-            "event_name": "One Day Cup, 2024-25",
-            "match_name": "South Australia vs Victoria",
-            "match_id": 109158,
-            "startTime": "09:05:00 AM 01-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/v3z7J4vUTSKFmJVjH6NAYQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/109158_english_hls_6345ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tuskers XI vs Bulls XI (Pondicherry T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v3.jpg",
-            "team_1": "Tuskers XI",
-            "team_2": "Bulls XI",
-            "status": "LIVE",
-            "event_name": "Pondicherry T20, 2025",
-            "match_name": "Tuskers XI vs Bulls XI",
-            "match_id": 120116,
-            "startTime": "01:30:00 PM 01-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/KPrRwJtmS0ydV41XApsDoQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120116_english_hls_8182ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Austrian Cricket Tigers vs Al Fatah (European Cricket League, 2025)",
@@ -58,6 +30,32 @@
             "startTime": "04:00:00 PM 01-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/j2pnRC4aR6G_ANa5JK5a4g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120149_english_hls_5296ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs Victoria (One Day Cup, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/One-Day-Cup_old-Final-Match-card.jpg",
+            "team_1": "South Australia",
+            "team_2": "Victoria",
+            "status": "LIVE",
+            "event_name": "One Day Cup, 2024-25",
+            "match_name": "South Australia vs Victoria",
+            "match_id": 109158,
+            "startTime": "09:05:00 AM 01-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/v3z7J4vUTSKFmJVjH6NAYQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109158_english_hls_6345ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hornchurch vs Northern CC (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
+            "team_1": "Hornchurch",
+            "team_2": "Northern CC",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Hornchurch vs Northern CC",
+            "match_id": 119745,
+            "startTime": "05:30:00 PM 01-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -94,18 +92,6 @@
             "match_name": "Sharks XI vs Lions XI",
             "match_id": 119991,
             "startTime": "01:30:00 PM 02-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hornchurch vs Northern CC (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
-            "team_1": "Hornchurch",
-            "team_2": "Northern CC",
-            "status": "UPCOMING",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Hornchurch vs Northern CC",
-            "match_id": 119745,
-            "startTime": "05:30:00 PM 01-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +140,18 @@
             "match_name": "Leeds United vs West Bromwich Albion",
             "match_id": 119965,
             "startTime": "06:00:00 PM 01-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Stack CC vs Al Mulla Exchange (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120363_4996_STAX_AEC_fc-web.jpg",
+            "team_1": "Stack CC",
+            "team_2": "Al Mulla Exchange",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Riaz Choudhry Ramadan Trophy, 2025",
+            "match_name": "Stack CC vs Al Mulla Exchange",
+            "match_id": 120363,
+            "startTime": "01:00:00 AM 02-03-2025"
         }
     ]
 }
