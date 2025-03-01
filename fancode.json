@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:01:05 PM 01-03-2025",
+    "last update time": "08:11:23 PM 01-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -88,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/119910_english_hls_5201ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Leeds United vs West Bromwich Albion (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Leeds-United-vs-West-Bromwich-Albion_-fc_web.jpg",
-            "team_1": "Leeds United",
-            "team_2": "West Bromwich Albion",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Leeds United vs West Bromwich Albion",
-            "match_id": 119965,
-            "startTime": "06:00:00 PM 01-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/lF1oAY89QxCJO7bYwxsWPA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119965_english_hls_8133ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Panthers XI vs Tuskers XI (Pondicherry T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1_1740819220652.jpg",
@@ -119,11 +105,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
             "team_1": "Austrian Cricket Tigers",
             "team_2": "Northern CC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "European Cricket League, 2025",
             "match_name": "Austrian Cricket Tigers vs Northern CC",
             "match_id": 119746,
-            "startTime": "08:30:00 PM 01-03-2025"
+            "startTime": "08:30:00 PM 01-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/_mzO7MnpQfeZE9wpa2uMhg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119746_english_hls_4991ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -131,11 +119,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Middlesbrough-vs-Derby-County_fc_web.jpg",
             "team_1": "Middlesbrough",
             "team_2": "Derby County",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2024-25",
             "match_name": "Middlesbrough vs Derby County",
             "match_id": 119966,
-            "startTime": "08:30:00 PM 01-03-2025"
+            "startTime": "08:30:00 PM 01-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/JhTo67ZtR4ianeBKtf-yqw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119966_english_hls_8495ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -160,6 +150,18 @@
             "match_name": "Kuwait Swedish vs Al Hajery Team XI",
             "match_id": 120362,
             "startTime": "11:00:00 PM 01-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hornchurch vs TBC (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
+            "team_1": "Hornchurch",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Hornchurch vs TBC",
+            "match_id": 119747,
+            "startTime": "11:30:00 PM 01-03-2025"
         }
     ]
 }
