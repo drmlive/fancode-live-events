@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:02:52 PM 01-03-2025",
+    "last update time": "10:12:59 PM 01-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Austrian Cricket Tigers vs Northern CC (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1739949400706.jpg",
-            "team_1": "Austrian Cricket Tigers",
-            "team_2": "Northern CC",
-            "status": "LIVE",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Austrian Cricket Tigers vs Northern CC",
-            "match_id": 119746,
-            "startTime": "08:30:00 PM 01-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/_mzO7MnpQfeZE9wpa2uMhg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119746_english_hls_4991ta-di/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Middlesbrough vs Derby County (EFL Championship 2024-25)",
@@ -44,20 +30,6 @@
             "startTime": "09:00:00 PM 01-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/GOdyAkyKTXuc1YOMmSeruw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119883_english_hls_4698ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3 vs Durban CC, Durban (Investec South African Open Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Investec-South-African-Open-Championship_old.jpg",
-            "team_1": "Day 3",
-            "team_2": "Durban CC, Durban",
-            "status": "LIVE",
-            "event_name": "Investec South African Open Championship",
-            "match_name": "Day 3",
-            "match_id": 120149,
-            "startTime": "04:00:00 PM 01-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/j2pnRC4aR6G_ANa5JK5a4g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120149_english_hls_5296ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -150,6 +122,30 @@
             "match_name": "Kuwait Swedish vs Al Hajery Team XI",
             "match_id": 120362,
             "startTime": "11:00:00 PM 01-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hornchurch vs Northern CC (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1739949400683.jpg",
+            "team_1": "Hornchurch",
+            "team_2": "Northern CC",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Hornchurch vs Northern CC",
+            "match_id": 119747,
+            "startTime": "11:30:00 PM 01-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Stack CC vs Al Mulla Exchange (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120363_4996_STAX_AEC_fc-web.jpg",
+            "team_1": "Stack CC",
+            "team_2": "Al Mulla Exchange",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Riaz Choudhry Ramadan Trophy, 2025",
+            "match_name": "Stack CC vs Al Mulla Exchange",
+            "match_id": 120363,
+            "startTime": "01:00:00 AM 02-03-2025"
         }
     ]
 }
