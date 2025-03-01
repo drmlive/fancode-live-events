@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:57:12 PM 01-03-2025",
+    "last update time": "01:07:17 PM 01-03-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-thailand-old-match-card-New_1740761448260.png",
             "team_1": "Sprint",
             "team_2": "Chang International Circuit",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "PT GRAND PRIX OF THAILAND",
             "match_name": "Sprint",
             "match_id": 117895,
-            "startTime": "01:30:00 PM 01-03-2025"
+            "startTime": "01:30:00 PM 01-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/c3KhwCqWRZC43oQ0tCQGhQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/117895_english_hls_5226ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -58,20 +60,6 @@
             "adfree_url": "https://dai.fancode.com/primary/117877_english_hls_2508ta-no/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Qualifying vs Chang International Circuit (Moto2 Thailand)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto2-thailand-old_1740712116984.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Chang International Circuit",
-            "status": "LIVE",
-            "event_name": "Moto2 Thailand",
-            "match_name": "Qualifying",
-            "match_id": 118613,
-            "startTime": "12:15:00 PM 01-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/bzFKvUIXTUi-fukaJSyaAA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118613_english_hls_5031ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Tuskers XI vs Bulls XI (Pondicherry T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v3.jpg",
@@ -94,6 +82,18 @@
             "match_name": "Panthers XI vs Tuskers XI",
             "match_id": 119993,
             "startTime": "09:30:00 AM 02-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Macarthur vs Sydney FC (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111013_4567_MAC_SYD_fc-web_1728983129308.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Sydney FC",
+            "status": "UPCOMING",
+            "event_name": "A League 2024-25",
+            "match_name": "Macarthur vs Sydney FC",
+            "match_id": 111013,
+            "startTime": "02:05:00 PM 01-03-2025"
         },
         {
             "event_category": "Cricket",
