@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:36:51 PM 01-03-2025",
+    "last update time": "12:47:06 PM 01-03-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -28,20 +28,6 @@
             "startTime": "09:05:00 AM 01-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/v3z7J4vUTSKFmJVjH6NAYQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109158_english_hls_6345ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Lions XI vs Tigers XI (Pondicherry T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v1.jpg",
-            "team_1": "Lions XI",
-            "team_2": "Tigers XI",
-            "status": "LIVE",
-            "event_name": "Pondicherry T20, 2025",
-            "match_name": "Lions XI vs Tigers XI",
-            "match_id": 119994,
-            "startTime": "09:30:00 AM 01-03-2025",
-            "dai_url": null,
-            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -86,28 +72,14 @@
             "adfree_url": "https://dai.fancode.com/primary/118613_english_hls_5031ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Kashima Antlers vs FC Tokyo (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117874_4795_ANL_TKY_fc-web.jpg",
-            "team_1": "Kashima Antlers",
-            "team_2": "FC Tokyo",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Kashima Antlers vs FC Tokyo",
-            "match_id": 117874,
-            "startTime": "10:30:00 AM 01-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/AOKX8nvYSrCPa1wimOQvHA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117874_english_hls_5710ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
-            "title": "Bulls XI vs Tuskers XI (Pondicherry T20, 2025)",
+            "title": "Tuskers XI vs Bulls XI (Pondicherry T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v3.jpg",
-            "team_1": "Bulls XI",
-            "team_2": "Tuskers XI",
+            "team_1": "Tuskers XI",
+            "team_2": "Bulls XI",
             "status": "UPCOMING",
             "event_name": "Pondicherry T20, 2025",
-            "match_name": "Bulls XI vs Tuskers XI",
+            "match_name": "Tuskers XI vs Bulls XI",
             "match_id": 120116,
             "startTime": "01:30:00 PM 01-03-2025"
         },
@@ -158,6 +130,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 119746,
             "startTime": "08:30:00 PM 01-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Leeds United vs West Bromwich Albion (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Leeds-United-vs-West-Bromwich-Albion_-fc_web.jpg",
+            "team_1": "Leeds United",
+            "team_2": "West Bromwich Albion",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Leeds United vs West Bromwich Albion",
+            "match_id": 119965,
+            "startTime": "06:00:00 PM 01-03-2025"
         }
     ]
 }
