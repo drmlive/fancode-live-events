@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:31:28 PM 02-03-2025",
+    "last update time": "01:41:34 PM 02-03-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -44,34 +44,6 @@
             "startTime": "09:05:00 AM 02-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/pdGsqUsLQlS1xEMhpg1XXw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/109423_english_hls_5061ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Perth Glory (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111014_4567_SYW_PG_fc-web_1728983130104.jpg",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Perth Glory",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Western Sydney Wanderers vs Perth Glory",
-            "match_id": 111014,
-            "startTime": "11:30:00 AM 02-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/zYmCKBIiRyq-tJkPYEnGyw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111014_english_hls_4877ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Urawa Red Diamonds vs Kashiwa Reysol (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117875_4795_URW_REY_fc-web.jpg",
-            "team_1": "Urawa Red Diamonds",
-            "team_2": "Kashiwa Reysol",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Urawa Red Diamonds vs Kashiwa Reysol",
-            "match_id": 117875,
-            "startTime": "11:30:00 AM 02-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/7OypSColQMS_Jb4Wiu1ryQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117875_english_hls_8070ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +128,30 @@
             "match_name": "Grange vs Royal Strikers",
             "match_id": 119752,
             "startTime": "11:30:00 PM 02-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Legends vs Al Hajery XI (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120299_4995_BD-L_ALH_fc-Web_1740894370313.jpg",
+            "team_1": "Bangladesh Legends",
+            "team_2": "Al Hajery XI",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "Bangladesh Legends vs Al Hajery XI",
+            "match_id": 120299,
+            "startTime": "01:00:00 AM 03-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Abu Dhabi Smashers vs Etihad Shaheen (Abu Dhabi Ramadan Rumble, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-Ramadan-Rumble_old_v1.jpg",
+            "team_1": "Abu Dhabi Smashers",
+            "team_2": "Etihad Shaheen",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi Ramadan Rumble, 2025",
+            "match_name": "Abu Dhabi Smashers vs Etihad Shaheen",
+            "match_id": 119885,
+            "startTime": "09:00:00 PM 02-03-2025"
         }
     ]
 }
