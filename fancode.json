@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:04:26 PM 04-03-2025",
+    "last update time": "01:14:33 PM 04-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v2.jpg",
             "team_1": "Sharks XI",
             "team_2": "Tuskers XI",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Pondicherry T20, 2025",
             "match_name": "Sharks XI vs Tuskers XI",
             "match_id": 120004,
-            "startTime": "01:30:00 PM 04-03-2025"
+            "startTime": "01:30:00 PM 04-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-8_TjZoiR3SatnV_jE_yFA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120004_english_hls_5586ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -64,18 +66,6 @@
             "startTime": "05:30:00 PM 04-03-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Buriram United vs Johor Darul Ta'zim (AFC Champions League Elite 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-RO16-04_1741019772795.jpg",
-            "team_1": "Buriram United",
-            "team_2": "Johor Darul Ta'zim",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Buriram United vs Johor Darul Ta'zim",
-            "match_id": 120266,
-            "startTime": "07:30:00 PM 04-03-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Cochin Hurricanes vs ACE KRM Panthers (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120364_4996_COH_KRM_fc-web.jpg",
@@ -86,6 +76,18 @@
             "match_name": "Cochin Hurricanes vs ACE KRM Panthers",
             "match_id": 120364,
             "startTime": "11:00:00 PM 04-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Buriram United vs Johor Darul Ta'zim (AFC Champions League Elite 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-RO16-04_1741019772795.jpg",
+            "team_1": "Buriram United",
+            "team_2": "Johor Darul Ta'zim",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Buriram United vs Johor Darul Ta'zim",
+            "match_id": 120266,
+            "startTime": "07:30:00 PM 04-03-2025"
         },
         {
             "event_category": "Cricket",
