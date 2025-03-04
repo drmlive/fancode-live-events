@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:46:44 PM 04-03-2025",
+    "last update time": "04:56:51 PM 04-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Sharks XI vs Tuskers XI (Pondicherry T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAP-Siechem-Mens-T20-Tournamen_old_v2.jpg",
-            "team_1": "Sharks XI",
-            "team_2": "Tuskers XI",
-            "status": "LIVE",
-            "event_name": "Pondicherry T20, 2025",
-            "match_name": "Sharks XI vs Tuskers XI",
-            "match_id": 120004,
-            "startTime": "01:30:00 PM 04-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-8_TjZoiR3SatnV_jE_yFA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120004_english_hls_5586ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Christiania vs Sofia Stars (European Cricket League, 2025)",
@@ -150,6 +136,18 @@
             "match_name": "Al Rayyan vs Al-Ahli",
             "match_id": 120263,
             "startTime": "11:30:00 PM 04-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Cincinnati vs Tigres (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "FC Cincinnati",
+            "team_2": "Tigres",
+            "status": "UPCOMING",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "FC Cincinnati vs Tigres",
+            "match_id": 119717,
+            "startTime": "05:00:00 AM 05-03-2025"
         }
     ]
 }
