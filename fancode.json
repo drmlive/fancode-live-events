@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:06:33 AM 05-03-2025",
+    "last update time": "07:16:39 AM 05-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "07:00:00 AM 05-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yy_dZ8mpSbmfcUovSp-XYA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119708_english_hls_6223ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Cincinnati vs Tigres (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC-Cincinnati-vs-Tigres-old_1741088317272.jpg",
-            "team_1": "FC Cincinnati",
-            "team_2": "Tigres",
-            "status": "LIVE",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "FC Cincinnati vs Tigres",
-            "match_id": 119717,
-            "startTime": "05:00:00 AM 05-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ECH__vbtT7etBSjubPR0Ig/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119717_english_hls_5826ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -93,18 +79,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Zagreb Assassins vs Budapest Blinders (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
-            "team_1": "Zagreb Assassins",
-            "team_2": "Budapest Blinders",
-            "status": "UPCOMING",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Zagreb Assassins vs Budapest Blinders",
-            "match_id": 119763,
-            "startTime": "05:00:00 PM 05-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Victoria vs South Australia (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",
             "team_1": "Victoria",
@@ -126,6 +100,18 @@
             "match_name": "Tasmania vs Queensland",
             "match_id": 110415,
             "startTime": "05:00:00 AM 06-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zagreb Assassins vs Budapest Blinders (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
+            "team_1": "Zagreb Assassins",
+            "team_2": "Budapest Blinders",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Zagreb Assassins vs Budapest Blinders",
+            "match_id": 119763,
+            "startTime": "05:00:00 PM 05-03-2025"
         },
         {
             "event_category": "Football",
@@ -150,6 +136,18 @@
             "match_name": "Pak I Care Badalona vs Brno",
             "match_id": 119764,
             "startTime": "07:00:00 PM 05-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Shanghai Shenhua vs Kawasaki Frontale (AFC Champions League Elite 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-RO16-08_1741019772808.jpg",
+            "team_1": "Shanghai Shenhua",
+            "team_2": "Kawasaki Frontale",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Shanghai Shenhua vs Kawasaki Frontale",
+            "match_id": 120268,
+            "startTime": "05:30:00 PM 05-03-2025"
         }
     ]
 }
