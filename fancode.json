@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:43:18 PM 05-03-2025",
+    "last update time": "06:53:24 PM 05-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,25 +9,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Challenge-League_old.jpg",
             "team_1": "East Bengal",
             "team_2": "FC Arkadag",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Challenge League",
             "match_name": "East Bengal vs FC Arkadag",
             "match_id": 120870,
-            "startTime": "07:00:00 PM 05-03-2025"
+            "startTime": "07:00:00 PM 05-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ay1ltKeWSaibslVRA2jNsw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120870_english_hls_9070ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "Zagreb Assassins vs Budapest Blinders (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
-            "team_1": "Zagreb Assassins",
-            "team_2": "Budapest Blinders",
+            "title": "Brno vs Pak I Care Badalona (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740031925351.jpg",
+            "team_1": "Brno",
+            "team_2": "Pak I Care Badalona",
             "status": "LIVE",
             "event_name": "European Cricket League, 2025",
-            "match_name": "Zagreb Assassins vs Budapest Blinders",
-            "match_id": 119763,
-            "startTime": "05:00:00 PM 05-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/mc2cL_aHSdup58O0DIK_ew/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119763_english_hls_6153ta-di/index.m3u8"
+            "match_name": "Brno vs Pak I Care Badalona",
+            "match_id": 119764,
+            "startTime": "07:00:00 PM 05-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/kBAFYsZfQ0CzJV-jcKTRew/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119764_english_hls_6794ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -78,18 +80,6 @@
             "match_name": "Western Australia vs New South Wales",
             "match_id": 110416,
             "startTime": "08:00:00 AM 06-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brno vs Pak I Care Badalona (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740031925351.jpg",
-            "team_1": "Brno",
-            "team_2": "Pak I Care Badalona",
-            "status": "UPCOMING",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Brno vs Pak I Care Badalona",
-            "match_id": 119764,
-            "startTime": "07:00:00 PM 05-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +140,18 @@
             "match_name": "Barbados Pride vs Combined Campuses and Colleges",
             "match_id": 117801,
             "startTime": "07:30:00 PM 05-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Budapest Blinders vs Zurich Nomads (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
+            "team_1": "Budapest Blinders",
+            "team_2": "Zurich Nomads",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Budapest Blinders vs Zurich Nomads",
+            "match_id": 119765,
+            "startTime": "09:30:00 PM 05-03-2025"
         }
     ]
 }
