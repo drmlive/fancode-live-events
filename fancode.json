@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:23:36 AM 07-03-2025",
+    "last update time": "04:33:42 AM 07-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -45,20 +45,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Feature Groups - Day 1 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",
-            "team_1": "Feature Groups - Day 1",
-            "team_2": "Orlando, Florida",
-            "status": "LIVE",
-            "event_name": "Arnold Palmer Invitational presented by Mastercard",
-            "match_name": "Feature Groups - Day 1",
-            "match_id": 120211,
-            "startTime": "08:15:00 PM 06-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/pQCIjN-TSdWlo0u5Q0seeQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120211_english_hls_5881ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "World Feed - Day 1 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",
             "team_1": "World Feed - Day 1",
@@ -70,20 +56,6 @@
             "startTime": "12:30:00 AM 07-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/gQBhXKVkTBGNiEMfCfgxtg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120227_english_hls_5967ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Yorkshire Cricket Club vs Central Sports Club (Trinidad T20 Festival 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120165_4989_CS_YCC_fc-web_1740662491631.jpg",
-            "team_1": "Yorkshire Cricket Club",
-            "team_2": "Central Sports Club",
-            "status": "LIVE",
-            "event_name": "Trinidad T20 Festival 2025",
-            "match_name": "Yorkshire Cricket Club vs Central Sports Club",
-            "match_id": 120165,
-            "startTime": "12:00:00 AM 07-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/IrWPkM61RrGPv9eHQOpg2w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120165_english_hls_6454ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -144,6 +116,42 @@
             "match_name": "Sanpada Scorpions vs Mira Bhayandar Lions",
             "match_id": 120441,
             "startTime": "10:00:00 AM 07-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "KCA Panthers vs KCA Lions (KCA TCM Presidents Cup T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120495_5006_PAN_LIO_fc-Web.jpg",
+            "team_1": "KCA Panthers",
+            "team_2": "KCA Lions",
+            "status": "UPCOMING",
+            "event_name": "KCA TCM Presidents Cup T20, 2025",
+            "match_name": "KCA Panthers vs KCA Lions",
+            "match_id": 120495,
+            "startTime": "01:00:00 PM 07-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Budapest Blinders vs Brno (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740031925351.jpg",
+            "team_1": "Budapest Blinders",
+            "team_2": "Brno",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Budapest Blinders vs Brno",
+            "match_id": 119772,
+            "startTime": "03:30:00 PM 07-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zurich Nomads vs Pak I Care Badalona (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
+            "team_1": "Zurich Nomads",
+            "team_2": "Pak I Care Badalona",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Zurich Nomads vs Pak I Care Badalona",
+            "match_id": 119773,
+            "startTime": "05:30:00 PM 07-03-2025"
         }
     ]
 }
