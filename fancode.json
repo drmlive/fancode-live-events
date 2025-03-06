@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:16:23 PM 06-03-2025",
+    "last update time": "04:26:29 PM 06-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110416_4543_WAU_NSW_fc-Web_1739782530677.jpg",
-            "team_1": "Western Australia",
-            "team_2": "New South Wales",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Western Australia vs New South Wales",
-            "match_id": 110416,
-            "startTime": "08:00:00 AM 06-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-wN1Z6kST5echYRXbL9qKQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110416_english_hls_8766ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "KCA Eagles vs KCA Panthers (KCA TCM Presidents Cup T20, 2025)",
@@ -113,6 +99,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110416_4543_WAU_NSW_fc-Web_1739782530677.jpg",
+            "team_1": "Western Australia",
+            "team_2": "New South Wales",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Western Australia vs New South Wales",
+            "match_id": 110416,
+            "startTime": "08:00:00 AM 06-03-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "New Zealand Women vs Sri Lanka Women (Sri Lanka Women tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women's-Tour-of-New-Zealand-ODIs-old-match-card.png",
             "team_1": "New Zealand Women",
@@ -125,13 +123,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Brno vs Zagreb Assassins (European Cricket League, 2025)",
+            "title": "Zagreb Assassins vs Brno (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740031925351.jpg",
-            "team_1": "Brno",
-            "team_2": "Zagreb Assassins",
+            "team_1": "Zagreb Assassins",
+            "team_2": "Brno",
             "status": "UPCOMING",
             "event_name": "European Cricket League, 2025",
-            "match_name": "Brno vs Zagreb Assassins",
+            "match_name": "Zagreb Assassins vs Brno",
             "match_id": 119768,
             "startTime": "05:00:00 PM 06-03-2025"
         },
