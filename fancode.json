@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:50:46 AM 07-03-2025",
+    "last update time": "01:01:32 AM 07-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Brno vs Budapest Blinders (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
-            "team_1": "Brno",
-            "team_2": "Budapest Blinders",
-            "status": "LIVE",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Brno vs Budapest Blinders",
-            "match_id": 119771,
-            "startTime": "11:30:00 PM 06-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/UA5Dj411TGGsj3pHMGaKTQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119771_english_hls_5742ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Yorkshire Cricket Club vs Central Sports Club (Trinidad T20 Festival 2025)",
@@ -158,16 +144,32 @@
             "adfree_url": "https://dai.fancode.com/primary/120227_english_hls_5967ta-no/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Panathinaikos OPAP Athens vs Real Madrid (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/120235_CASACARDS_APP.png",
+            "team_1": "Panathinaikos OPAP Athens",
+            "team_2": "Real Madrid",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Panathinaikos OPAP Athens vs Real Madrid",
+            "match_id": 120235,
+            "startTime": "01:15:00 AM 07-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Y8FaIazpRve6N1pKCv5rpw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120235_english_hls_5865ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
-            "title": "Queensland vs Tasmania (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",
-            "team_1": "Queensland",
-            "team_2": "Tasmania",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs Tasmania",
-            "match_id": 110415,
-            "startTime": "05:00:00 AM 06-03-2025"
+            "title": "Brno vs Budapest Blinders (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
+            "team_1": "Brno",
+            "team_2": "Budapest Blinders",
+            "status": "LIVE",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Brno vs Budapest Blinders",
+            "match_id": 119771,
+            "startTime": "11:30:00 PM 06-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/UA5Dj411TGGsj3pHMGaKTQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119771_english_hls_5742ta-no/index.m3u8"
         }
     ]
 }
