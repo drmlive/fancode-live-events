@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:06:17 PM 06-03-2025",
+    "last update time": "04:16:23 PM 06-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,6 +74,20 @@
             "adfree_url": "https://dai.fancode.com/primary/120758_english_hls_5945ta-di/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 1 vs Houghton GC, Johannesburg (Joburg Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/_Joburg-Open-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "Houghton GC, Johannesburg",
+            "status": "LIVE",
+            "event_name": "Joburg Open",
+            "match_name": "Day 1",
+            "match_id": 120151,
+            "startTime": "04:30:00 PM 06-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/O4YpMLXsRA2Abejd_2ai6A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120151_english_hls_5933ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Victoria vs South Australia (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",
@@ -144,18 +158,6 @@
             "match_name": "Zagreb Assassins vs Zurich Nomads",
             "match_id": 119770,
             "startTime": "09:30:00 PM 06-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "MEC Study Group vs SBS CC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120304_4995_MEC_SBS_fc-Web_1740894370434.jpg",
-            "team_1": "MEC Study Group",
-            "team_2": "SBS CC",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "MEC Study Group vs SBS CC",
-            "match_id": 120304,
-            "startTime": "11:00:00 PM 06-03-2025"
         }
     ]
 }
