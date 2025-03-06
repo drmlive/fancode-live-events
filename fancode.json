@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:33:55 PM 06-03-2025",
+    "last update time": "12:44:01 PM 06-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs Tasmania (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",
-            "team_1": "Queensland",
-            "team_2": "Tasmania",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs Tasmania",
-            "match_id": 110415,
-            "startTime": "05:00:00 AM 06-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/FQq8T4lyRzi7lSN83tIkoQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110415_english_hls_6186ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Victoria vs South Australia (Sheffield Shield, 2024-25)",
@@ -74,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/120492_english_hls_3019ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "KCA Panthers vs KCA Eagles (KCA TCM Presidents Cup T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120493_5006_PAN_EAG_fc-Web.jpg",
+            "team_1": "KCA Panthers",
+            "team_2": "KCA Eagles",
+            "status": "LIVE",
+            "event_name": "KCA TCM Presidents Cup T20, 2025",
+            "match_name": "KCA Panthers vs KCA Eagles",
+            "match_id": 120493,
+            "startTime": "01:00:00 PM 06-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/wFoDyFTdRNmppbNfy-Zd6w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120493_english_hls_5920ta-di/index.m3u8"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "UP Falcons vs Junior Steelers (Yuva All Stars Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120757_5012_UPF_JSS_fc-Web.jpg",
@@ -89,6 +89,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Queensland vs Tasmania (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",
+            "team_1": "Queensland",
+            "team_2": "Tasmania",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Queensland vs Tasmania",
+            "match_id": 110415,
+            "startTime": "05:00:00 AM 06-03-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "New Zealand Women vs Sri Lanka Women (Sri Lanka Women tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women's-Tour-of-New-Zealand-ODIs-old-match-card.png",
             "team_1": "New Zealand Women",
@@ -98,18 +110,6 @@
             "match_name": "New Zealand Women vs Sri Lanka Women",
             "match_id": 120203,
             "startTime": "03:30:00 AM 07-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "KCA Panthers vs KCA Eagles (KCA TCM Presidents Cup T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120493_5006_PAN_EAG_fc-Web.jpg",
-            "team_1": "KCA Panthers",
-            "team_2": "KCA Eagles",
-            "status": "UPCOMING",
-            "event_name": "KCA TCM Presidents Cup T20, 2025",
-            "match_name": "KCA Panthers vs KCA Eagles",
-            "match_id": 120493,
-            "startTime": "01:00:00 PM 06-03-2025"
         },
         {
             "event_category": "Cricket",
