@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:14:35 AM 08-03-2025",
+    "last update time": "12:25:21 AM 08-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -144,16 +144,18 @@
             "adfree_url": "https://dai.fancode.com/primary/120236_english_hls_6392ta-di/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Queensland vs Tasmania (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",
-            "team_1": "Queensland",
-            "team_2": "Tasmania",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs Tasmania",
-            "match_id": 110415,
-            "startTime": "05:00:00 AM 06-03-2025"
+            "event_category": "Golf",
+            "title": "World Feed - Day 2 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",
+            "team_1": "World Feed - Day 2",
+            "team_2": "Orlando, Florida",
+            "status": "LIVE",
+            "event_name": "Arnold Palmer Invitational presented by Mastercard",
+            "match_name": "World Feed - Day 2",
+            "match_id": 120228,
+            "startTime": "12:30:00 AM 08-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HYCzK6uKSNGJnueUo1vnYQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120228_english_hls_5753ta-no/index.m3u8"
         }
     ]
 }
