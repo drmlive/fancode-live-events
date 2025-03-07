@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:44:40 PM 07-03-2025",
+    "last update time": "12:55:06 PM 07-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,6 +47,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Namibia vs Netherlands (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-VS-Netherlands_OLD.jpg",
+            "team_1": "Namibia",
+            "team_2": "Netherlands",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "Namibia vs Netherlands",
+            "match_id": 120402,
+            "startTime": "01:00:00 PM 07-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Mc0yS1VmQHq005NoTJVMwA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120402_english_hls_6316ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Kolkata Strikers vs DFS Daredevils (TBCPL10 Aviation Premier League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120856_5013_KSR_DFS_fc-web.jpg",
             "team_1": "Kolkata Strikers",
@@ -88,18 +102,16 @@
             "adfree_url": "https://dai.fancode.com/primary/120884_english_hls_5597ta-di/index.m3u8"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Yuva Mumba vs Vasco Vipers (Yuva All Stars Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120761_5012_YMA_VVS_fc-Web.jpg",
-            "team_1": "Yuva Mumba",
-            "team_2": "Vasco Vipers",
-            "status": "LIVE",
-            "event_name": "Yuva All Stars Championship",
-            "match_name": "Yuva Mumba vs Vasco Vipers",
-            "match_id": 120761,
-            "startTime": "11:45:00 AM 07-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/VyWzsmAPRw-aiMOo04JJVA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120761_english_hls_5461ta-di/index.m3u8"
+            "event_category": "Cricket",
+            "title": "Victoria vs South Australia (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Victoria vs South Australia",
+            "match_id": 110414,
+            "startTime": "05:00:00 AM 06-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -115,32 +127,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Victoria vs South Australia (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Victoria vs South Australia",
-            "match_id": 110414,
-            "startTime": "05:00:00 AM 06-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Netherlands (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-VS-Netherlands_OLD.jpg",
-            "team_1": "Namibia",
-            "team_2": "Netherlands",
-            "status": "LIVE",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Namibia vs Netherlands",
-            "match_id": 120402,
-            "startTime": "01:00:00 PM 07-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Mc0yS1VmQHq005NoTJVMwA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120402_english_hls_6316ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Budapest Blinders vs Brno (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740031925351.jpg",
             "team_1": "Budapest Blinders",
@@ -150,6 +136,18 @@
             "match_name": "Budapest Blinders vs Brno",
             "match_id": 119772,
             "startTime": "03:30:00 PM 07-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zurich Nomads vs Pak I Care Badalona (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
+            "team_1": "Zurich Nomads",
+            "team_2": "Pak I Care Badalona",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Zurich Nomads vs Pak I Care Badalona",
+            "match_id": 119773,
+            "startTime": "05:30:00 PM 07-03-2025"
         }
     ]
 }
