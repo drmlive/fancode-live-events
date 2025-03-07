@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:37:38 PM 07-03-2025",
+    "last update time": "10:48:24 PM 07-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -130,6 +130,20 @@
             "adfree_url": "https://dai.fancode.com/primary/120214_english_hls_9003ta-di/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Anadolu Efes Istanbul vs Virtus Bologna (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/120236_CASACARDS_APP.png",
+            "team_1": "Anadolu Efes Istanbul",
+            "team_2": "Virtus Bologna",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Anadolu Efes Istanbul vs Virtus Bologna",
+            "match_id": 120236,
+            "startTime": "11:00:00 PM 07-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/JLGe3OfiQa6mh1jcArqx2w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120236_english_hls_6392ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Queensland vs Tasmania (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",
@@ -139,18 +153,6 @@
             "event_name": "Sheffield Shield, 2024-25",
             "match_name": "Queensland vs Tasmania",
             "match_id": 110415,
-            "startTime": "05:00:00 AM 06-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria vs South Australia (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Victoria vs South Australia",
-            "match_id": 110414,
             "startTime": "05:00:00 AM 06-03-2025"
         }
     ]
