@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:12:12 PM 07-03-2025",
+    "last update time": "04:22:18 PM 07-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/120855_english_hls_6435ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Ahmedabad Titans vs Customs Challengers (TBCPL10 Aviation Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120853_5013_AT_CCH_fc-web.jpg",
+            "team_1": "Ahmedabad Titans",
+            "team_2": "Customs Challengers",
+            "status": "LIVE",
+            "event_name": "TBCPL10 Aviation Premier League",
+            "match_name": "Ahmedabad Titans vs Customs Challengers",
+            "match_id": 120853,
+            "startTime": "04:30:00 PM 07-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/N4op8U8aRzS2555fRS-G4w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120853_english_hls_9435ta-di/index.m3u8"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "Yuva Yoddhas vs Warriorz K.C (Yuva All Stars Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120762_5012_YYS_WKC_fc-Web.jpg",
@@ -72,6 +86,20 @@
             "startTime": "04:00:00 PM 07-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ASsj--qdT7eFiRXYyf1jlw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120762_english_hls_5838ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Houghton GC, Johannesburg (Joburg Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/_Joburg-Open-old-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "Houghton GC, Johannesburg",
+            "status": "LIVE",
+            "event_name": "Joburg Open",
+            "match_name": "Day 2",
+            "match_id": 120152,
+            "startTime": "04:30:00 PM 07-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/mHovPpvnRiClwiL1A9bphA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120152_english_hls_5984ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -120,30 +148,6 @@
             "match_name": "Zurich Nomads vs Pak I Care Badalona",
             "match_id": 119773,
             "startTime": "05:30:00 PM 07-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vashi Warriors vs Koparkhairne Titans (Navi Mumbai Premier League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120442_5001_VAW_KOT_fc-web_1741330697204.jpg",
-            "team_1": "Vashi Warriors",
-            "team_2": "Koparkhairne Titans",
-            "status": "UPCOMING",
-            "event_name": "Navi Mumbai Premier League T20, 2025",
-            "match_name": "Vashi Warriors vs Koparkhairne Titans",
-            "match_id": 120442,
-            "startTime": "06:00:00 PM 07-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Amazon Warriors Women vs Jamaica Women (CG United Women's Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/119937_4977_GY-W_JAM-W_fc-web.jpg",
-            "team_1": "Guyana Amazon Warriors Women",
-            "team_2": "Jamaica Women",
-            "status": "UPCOMING",
-            "event_name": "CG United Women's Super50 Cup, 2025",
-            "match_name": "Guyana Amazon Warriors Women vs Jamaica Women",
-            "match_id": 119950,
-            "startTime": "07:30:00 PM 07-03-2025"
         }
     ]
 }
