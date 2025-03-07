@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:36:09 AM 08-03-2025",
+    "last update time": "03:46:34 AM 08-03-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Clarke Road United vs Profilbau Victoria United SC (Trinidad T20 Festival 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120168_4989_PVU_CRU_fc-web_1741341461924.jpg",
+            "team_1": "Clarke Road United",
+            "team_2": "Profilbau Victoria United SC",
+            "status": "LIVE",
+            "event_name": "Trinidad T20 Festival 2025",
+            "match_name": "Clarke Road United vs Profilbau Victoria United SC",
+            "match_id": 120168,
+            "startTime": "04:00:00 AM 08-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Lfyp2CtdRzmbe4SMxB89uw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120168_english_hls_6555ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Guyana Harpy Eagles vs Jamaica Scorpions (West Indies Championship, 2025)",
@@ -97,18 +111,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Profilbau Victoria United SC vs Clarke Road United (Trinidad T20 Festival 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120168_4989_PVU_CRU_fc-web_1741341461924.jpg",
-            "team_1": "Profilbau Victoria United SC",
-            "team_2": "Clarke Road United",
-            "status": "UPCOMING",
-            "event_name": "Trinidad T20 Festival 2025",
-            "match_name": "Profilbau Victoria United SC vs Clarke Road United",
-            "match_id": 120168,
-            "startTime": "04:00:00 AM 08-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "KCA Tigers vs KCA Panthers (KCA Presidents Cup T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120496_5006_TIG_PAN_fc-Web.jpg",
             "team_1": "KCA Tigers",
@@ -130,6 +132,18 @@
             "match_name": "Belapur Blasters vs Ambernath Avengers",
             "match_id": 120443,
             "startTime": "10:00:00 AM 08-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "KCA Lions vs KCA Eagles (KCA Presidents Cup T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120497_5006_LIO_EAG_fc-Web.jpg",
+            "team_1": "KCA Lions",
+            "team_2": "KCA Eagles",
+            "status": "UPCOMING",
+            "event_name": "KCA Presidents Cup T20, 2025",
+            "match_name": "KCA Lions vs KCA Eagles",
+            "match_id": 120497,
+            "startTime": "01:00:00 PM 08-03-2025"
         }
     ]
 }
