@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:37:11 PM 08-03-2025",
+    "last update time": "03:47:39 PM 08-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110416_4543_WAU_NSW_fc-Web_1739782530677.jpg",
-            "team_1": "Western Australia",
-            "team_2": "New South Wales",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Western Australia vs New South Wales",
-            "match_id": 110416,
-            "startTime": "08:00:00 AM 06-03-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "KCA Lions vs KCA Eagles (KCA Presidents Cup T20, 2025)",
@@ -60,6 +46,34 @@
             "adfree_url": "https://dai.fancode.com/primary/120860_english_hls_5720ta-di/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 3 vs Houghton GC, Johannesburg (Joburg Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/_Joburg-Open-old-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "Houghton GC, Johannesburg",
+            "status": "LIVE",
+            "event_name": "Joburg Open",
+            "match_name": "Day 3",
+            "match_id": 120153,
+            "startTime": "04:00:00 PM 08-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/z9c1dauRROuf7ZOIld_BdQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120153_english_hls_5660ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Sonipat Spartans vs Yuva Mumba (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120766_5012_SPS_YMA_fc-Web.jpg",
+            "team_1": "Sonipat Spartans",
+            "team_2": "Yuva Mumba",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Sonipat Spartans vs Yuva Mumba",
+            "match_id": 120766,
+            "startTime": "04:00:00 PM 08-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/PxyGtInmR2uN80PTWD7-wQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120766_english_hls_9021ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Victoria vs South Australia (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",
@@ -82,6 +96,18 @@
             "match_name": "Queensland vs Tasmania",
             "match_id": 110415,
             "startTime": "05:00:00 AM 06-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110416_4543_WAU_NSW_fc-Web_1739782530677.jpg",
+            "team_1": "Western Australia",
+            "team_2": "New South Wales",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Western Australia vs New South Wales",
+            "match_id": 110416,
+            "startTime": "08:00:00 AM 06-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -130,30 +156,6 @@
             "match_name": "Lisburn vs Empire CC",
             "match_id": 119779,
             "startTime": "09:30:00 PM 08-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "GAT vs Winning FKP (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120308_4995_GAT_WFK_fc-Web_1740894370411.jpg",
-            "team_1": "GAT",
-            "team_2": "Winning FKP",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "GAT vs Winning FKP",
-            "match_id": 120308,
-            "startTime": "11:00:00 PM 08-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ahmedabad Titans vs Target Thunderbolts (TBCPL10 Aviation Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120861_5013_AT_TTB_fc-web.jpg",
-            "team_1": "Ahmedabad Titans",
-            "team_2": "Target Thunderbolts",
-            "status": "UPCOMING",
-            "event_name": "TBCPL10 Aviation Premier League",
-            "match_name": "Ahmedabad Titans vs Target Thunderbolts",
-            "match_id": 120861,
-            "startTime": "04:30:00 PM 08-03-2025"
         }
     ]
 }
