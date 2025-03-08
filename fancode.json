@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:21:43 AM 09-03-2025",
+    "last update time": "04:31:48 AM 09-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "04:00:00 AM 09-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/lG5uvFCcSIyTmc4pGBuobQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120170_english_hls_5397ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs Orlando, Florida (Arnold Palmer Invitational presented by Mastercard)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arnold-Palmer-Invitational-old.jpg",
-            "team_1": "World Feed - Day 3",
-            "team_2": "Orlando, Florida",
-            "status": "LIVE",
-            "event_name": "Arnold Palmer Invitational presented by Mastercard",
-            "match_name": "World Feed - Day 3",
-            "match_id": 120229,
-            "startTime": "11:00:00 PM 08-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/XlDOKvxbQU69yj0vMyUQGg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120229_english_hls_5105ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Ambernath Avengers vs Mira Bhayandar Lions",
             "match_id": 120446,
             "startTime": "06:00:00 PM 09-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Portsmouth vs Leeds United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Portsmouth-vs-Leeds-United_fc-web.jpg",
+            "team_1": "Portsmouth",
+            "team_2": "Leeds United",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Portsmouth vs Leeds United",
+            "match_id": 119971,
+            "startTime": "05:30:00 PM 09-03-2025"
         }
     ]
 }
