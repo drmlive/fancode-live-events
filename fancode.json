@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:39:50 PM 08-03-2025",
+    "last update time": "12:50:26 PM 08-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,34 +14,6 @@
             "match_name": "Western Australia vs New South Wales",
             "match_id": 110416,
             "startTime": "08:00:00 AM 06-03-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs Tasmania (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",
-            "team_1": "Queensland",
-            "team_2": "Tasmania",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs Tasmania",
-            "match_id": 110415,
-            "startTime": "05:00:00 AM 06-03-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria vs South Australia (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Victoria vs South Australia",
-            "match_id": 110414,
-            "startTime": "05:00:00 AM 06-03-2025",
             "dai_url": null,
             "adfree_url": null
         },
@@ -72,6 +44,20 @@
             "startTime": "10:00:00 AM 08-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/8u3LWnLdTQCPdnkV0_3Jcw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120443_english_hls_5741ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "KCA Lions vs KCA Eagles (KCA Presidents Cup T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120497_5006_LIO_EAG_fc-Web.jpg",
+            "team_1": "KCA Lions",
+            "team_2": "KCA Eagles",
+            "status": "LIVE",
+            "event_name": "KCA Presidents Cup T20, 2025",
+            "match_name": "KCA Lions vs KCA Eagles",
+            "match_id": 120497,
+            "startTime": "01:00:00 PM 08-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/UsdtpfHhQZK2qIrTXV3ehA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120497_english_hls_5769ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -170,6 +156,18 @@
             "startTime": "11:45:00 AM 08-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/KtSiq9SWQbye0Kj3hSccxg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120765_english_hls_5392ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs Tasmania (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",
+            "team_1": "Queensland",
+            "team_2": "Tasmania",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Queensland vs Tasmania",
+            "match_id": 110415,
+            "startTime": "05:00:00 AM 06-03-2025"
         }
     ]
 }
