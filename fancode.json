@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:50:26 PM 08-03-2025",
+    "last update time": "01:00:51 PM 08-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -61,20 +61,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Adelaide United vs Brisbane Roar (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111016_4567_ADL_BRB_fc-web_1728983128876.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Brisbane Roar",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Adelaide United vs Brisbane Roar",
-            "match_id": 111016,
-            "startTime": "11:30:00 AM 08-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8NvT2UGkTdWLQvwVev_YlQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111016_english_hls_5462ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Gamba Osaka vs Shimizu S-Pulse (J League 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/117879_4795_OSK_PUL_fc-web.jpg",
             "team_1": "Gamba Osaka",
@@ -86,6 +72,20 @@
             "startTime": "11:30:00 AM 08-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ClLgML7yRVO7-RHqN06lmg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117879_english_hls_8643ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United vs Brisbane Roar (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111016_4567_ADL_BRB_fc-web_1728983128876.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Brisbane Roar",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Adelaide United vs Brisbane Roar",
+            "match_id": 111016,
+            "startTime": "11:30:00 AM 08-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/8NvT2UGkTdWLQvwVev_YlQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111016_english_hls_5462ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -144,20 +144,6 @@
             "adfree_url": "https://dai.fancode.com/primary/120885_english_hls_5621ta-no/index.m3u8"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Kurukshetra Warriors vs Jaipur\u00a0Pink\u00a0Cubs (Yuva All Stars Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120765_5012_KWS_JPC_fc-Web.jpg",
-            "team_1": "Kurukshetra Warriors",
-            "team_2": "Jaipur\u00a0Pink\u00a0Cubs",
-            "status": "LIVE",
-            "event_name": "Yuva All Stars Championship",
-            "match_name": "Kurukshetra Warriors vs Jaipur\u00a0Pink\u00a0Cubs",
-            "match_id": 120765,
-            "startTime": "11:45:00 AM 08-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/KtSiq9SWQbye0Kj3hSccxg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120765_english_hls_5392ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Queensland vs Tasmania (Sheffield Shield, 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/110415_4543_TAS_QUN_fc-Web_1739782530679.jpg",
@@ -167,6 +153,18 @@
             "event_name": "Sheffield Shield, 2024-25",
             "match_name": "Queensland vs Tasmania",
             "match_id": 110415,
+            "startTime": "05:00:00 AM 06-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Victoria vs South Australia (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110414_4543_VCT_SAU_fc-Web_1739782531213.jpg",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Victoria vs South Australia",
+            "match_id": 110414,
             "startTime": "05:00:00 AM 06-03-2025"
         }
     ]
