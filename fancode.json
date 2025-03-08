@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:09:09 PM 08-03-2025",
+    "last update time": "06:19:14 PM 08-03-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand Women vs Sri Lanka Women (Sri Lanka Women tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women's-Tour-of-New-Zealand-ODIs-old-match-card.png",
+            "team_1": "New Zealand Women",
+            "team_2": "Sri Lanka Women",
+            "status": "UPCOMING",
+            "event_name": "Sri Lanka Women tour of New Zealand, 2025",
+            "match_name": "New Zealand Women vs Sri Lanka Women",
+            "match_id": 120204,
+            "startTime": "03:30:00 AM 09-03-2025"
+        },
         {
             "event_category": "Cricket",
             "title": "Thane Tigers vs Kalyan Tuskers (Navi Mumbai Premier League T20, 2025)",
@@ -30,20 +42,6 @@
             "startTime": "06:00:00 PM 08-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Qf6DYpDETjGN7FW9QIxx0Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119968_english_hls_5372ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ahmedabad Titans vs Target Thunderbolts (TBCPL10 Aviation Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120861_5013_AT_TTB_fc-web.jpg",
-            "team_1": "Ahmedabad Titans",
-            "team_2": "Target Thunderbolts",
-            "status": "LIVE",
-            "event_name": "TBCPL10 Aviation Premier League",
-            "match_name": "Ahmedabad Titans vs Target Thunderbolts",
-            "match_id": 120861,
-            "startTime": "04:30:00 PM 08-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/q5H9RDZvSyS9On7IX9rUhw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120861_english_hls_5534ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -111,18 +109,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New Zealand Women vs Sri Lanka Women (Sri Lanka Women tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women's-Tour-of-New-Zealand-ODIs-old-match-card.png",
-            "team_1": "New Zealand Women",
-            "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka Women tour of New Zealand, 2025",
-            "match_name": "New Zealand Women vs Sri Lanka Women",
-            "match_id": 120204,
-            "startTime": "03:30:00 AM 09-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Lisburn vs Empire CC (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
             "team_1": "Lisburn",
@@ -156,6 +142,18 @@
             "match_name": "Ariana CC vs Voorburg",
             "match_id": 119780,
             "startTime": "11:30:00 PM 08-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Yorkshire Cricket Club vs Preysal SC (Trinidad T20 Festival 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120169_4989_YCC_PSC_fc-web_1741341462079.jpg",
+            "team_1": "Yorkshire Cricket Club",
+            "team_2": "Preysal SC",
+            "status": "UPCOMING",
+            "event_name": "Trinidad T20 Festival 2025",
+            "match_name": "Yorkshire Cricket Club vs Preysal SC",
+            "match_id": 120169,
+            "startTime": "12:00:00 AM 09-03-2025"
         }
     ]
 }
