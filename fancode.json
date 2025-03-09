@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:33:41 PM 09-03-2025",
+    "last update time": "01:44:07 PM 09-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,20 +74,6 @@
             "adfree_url": "https://dai.fancode.com/primary/120886_english_hls_5440ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Newcastle Jets vs Auckland (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111019_4567_NJ_AFC_fc-web_1728983132336.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Newcastle Jets vs Auckland",
-            "match_id": 111019,
-            "startTime": "11:30:00 AM 09-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/OYg_aRRqS8WCzcodcuxEvQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111019_english_hls_5303ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Voorburg vs Empire CC (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
@@ -158,6 +144,18 @@
             "match_name": "Ariana CC vs Empire CC",
             "match_id": 119784,
             "startTime": "09:30:00 PM 09-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Portsmouth vs Leeds United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Portsmouth-vs-Leeds-United_fc-web.jpg",
+            "team_1": "Portsmouth",
+            "team_2": "Leeds United",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Portsmouth vs Leeds United",
+            "match_id": 119971,
+            "startTime": "05:30:00 PM 09-03-2025"
         }
     ]
 }
