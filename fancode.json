@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:41:30 PM 09-03-2025",
+    "last update time": "12:51:56 PM 09-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "08:00:00 AM 06-03-2025",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "KCA Lions vs KCA Royals (KCA Presidents Cup T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120498_5006_LIO_ROY_fc-Web.jpg",
-            "team_1": "KCA Lions",
-            "team_2": "KCA Royals",
-            "status": "LIVE",
-            "event_name": "KCA Presidents Cup T20, 2025",
-            "match_name": "KCA Lions vs KCA Royals",
-            "match_id": 120498,
-            "startTime": "09:00:00 AM 09-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/2DyjRlh9TNGIhizmBNWWRQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120498_english_hls_5466ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -75,6 +61,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Namibia vs Canada (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-VS-canada_OLD.jpg",
+            "team_1": "Namibia",
+            "team_2": "Canada",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "Namibia vs Canada",
+            "match_id": 120403,
+            "startTime": "01:00:00 PM 09-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/m7uFBlsvRJanY6oDg3JbgQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120403_english_hls_5813ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "DFS Daredevils vs Ahmedabad Titans (TBCPL10 Aviation Premier League)",
             "src": "https://images.fancode.com/aig/match/v1/120864_CASACARDS_APP.png",
             "team_1": "DFS Daredevils",
@@ -116,32 +116,6 @@
             "adfree_url": "https://dai.fancode.com/primary/120769_english_hls_5181ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Kyoto Sanga vs Avispa Fukuoka (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/120533_CASACARDS_APP.png",
-            "team_1": "Kyoto Sanga",
-            "team_2": "Avispa Fukuoka",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Kyoto Sanga vs Avispa Fukuoka",
-            "match_id": 120533,
-            "startTime": "10:30:00 AM 09-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/9mQy8nsgSPiiDiN_1K5bbA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120533_english_hls_8714ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Canada (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-VS-canada_OLD.jpg",
-            "team_1": "Namibia",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Namibia vs Canada",
-            "match_id": 120403,
-            "startTime": "01:00:00 PM 09-03-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Voorburg vs Empire CC (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
@@ -164,6 +138,30 @@
             "match_name": "Tallinn Strikers vs Ariana CC",
             "match_id": 119782,
             "startTime": "05:00:00 PM 09-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ambernath Avengers vs Mira Bhayandar Lions (Navi Mumbai Premier League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120446_5001_AMA_MBL_fc-web_1741330697191.jpg",
+            "team_1": "Ambernath Avengers",
+            "team_2": "Mira Bhayandar Lions",
+            "status": "UPCOMING",
+            "event_name": "Navi Mumbai Premier League T20, 2025",
+            "match_name": "Ambernath Avengers vs Mira Bhayandar Lions",
+            "match_id": 120446,
+            "startTime": "06:00:00 PM 09-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lisburn vs Voorburg (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
+            "team_1": "Lisburn",
+            "team_2": "Voorburg",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Lisburn vs Voorburg",
+            "match_id": 119783,
+            "startTime": "07:00:00 PM 09-03-2025"
         }
     ]
 }
