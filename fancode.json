@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:38:52 PM 09-03-2025",
+    "last update time": "03:49:08 PM 09-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110416_4543_WAU_NSW_fc-Web_1739782530677.jpg",
-            "team_1": "Western Australia",
-            "team_2": "New South Wales",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Western Australia vs New South Wales",
-            "match_id": 110416,
-            "startTime": "08:00:00 AM 06-03-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "KCA Tigers vs KCA Eagles (KCA Presidents Cup T20, 2025)",
@@ -61,20 +47,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Day 3 vs Hong Kong (LIV Golf Hong Kong)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Hong-Kong_old_Match_card-(2).jpg",
-            "team_1": "Day 3",
-            "team_2": "Hong Kong",
-            "status": "LIVE",
-            "event_name": "LIV Golf Hong Kong",
-            "match_name": "Day 3",
-            "match_id": 120886,
-            "startTime": "10:05:00 AM 09-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/TXG3RMr4TfyBklw7zUYCxg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120886_english_hls_5440ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "Day 4 vs Houghton GC, Johannesburg (Joburg Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/_Joburg-Open-old-match-card.png",
             "team_1": "Day 4",
@@ -86,6 +58,32 @@
             "startTime": "03:00:00 PM 09-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/8PDkXlzuSaefd6JozXPn6Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120154_english_hls_8302ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Yuva Paltan vs Palani Tuskers (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120770_5012_YPA_PAL_fc-Web.jpg",
+            "team_1": "Yuva Paltan",
+            "team_2": "Palani Tuskers",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Yuva Paltan vs Palani Tuskers",
+            "match_id": 120770,
+            "startTime": "04:00:00 PM 09-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/jR2qlUoMTlmm2AXIaOIPyA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120770_english_hls_5313ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs New South Wales (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110416_4543_WAU_NSW_fc-Web_1739782530677.jpg",
+            "team_1": "Western Australia",
+            "team_2": "New South Wales",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Western Australia vs New South Wales",
+            "match_id": 110416,
+            "startTime": "08:00:00 AM 06-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -137,18 +135,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (TBCPL10 Aviation Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "TBCPL10 Aviation Premier League",
-            "match_name": "TBC vs TBC",
-            "match_id": 120866,
-            "startTime": "04:30:00 PM 09-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Tallinn Strikers vs Lisburn (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
             "team_1": "Tallinn Strikers",
@@ -158,6 +144,18 @@
             "match_name": "Tallinn Strikers vs Lisburn",
             "match_id": 119785,
             "startTime": "11:30:00 PM 09-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (TBCPL10 Aviation Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "TBCPL10 Aviation Premier League",
+            "match_name": "TBC vs TBC",
+            "match_id": 120866,
+            "startTime": "04:30:00 PM 09-03-2025"
         }
     ]
 }
