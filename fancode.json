@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:13:02 AM 09-03-2025",
+    "last update time": "10:23:47 AM 09-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "New Zealand Women vs Sri Lanka Women",
             "match_id": 120204,
             "startTime": "03:30:00 AM 09-03-2025",
-            "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/SLWVSNZW/master.m3u8?hdnea=exp=1741535977~acl=/*~id=91915732625730341350365643508117~hmac=fd3a239880f62636ba29695256e3a8c6e00ffe38a1f0e39b2aecc95ca26d50c2",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/SLWVSNZW/master.m3u8?hdnea=exp=1741535977~acl=/*~id=91915732625730341350365643508117~hmac=fd3a239880f62636ba29695256e3a8c6e00ffe38a1f0e39b2aecc95ca26d50c2"
+            "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/SLWVSNZW/master.m3u8?hdnea=exp=1741539114~acl=/*~id=90022764103795245476223172001130~hmac=da774f899444a76f3240a2a68a003fcc4068ce8c957dfddf916c07feaffb427d",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2094588/SLWVSNZW/master.m3u8?hdnea=exp=1741539114~acl=/*~id=90022764103795245476223172001130~hmac=da774f899444a76f3240a2a68a003fcc4068ce8c957dfddf916c07feaffb427d"
         },
         {
             "event_category": "Cricket",
@@ -88,6 +88,34 @@
             "adfree_url": "https://dai.fancode.com/primary/120862_english_hls_5110ta-no/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Kyoto Sanga vs Avispa Fukuoka (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/120533_CASACARDS_APP.png",
+            "team_1": "Kyoto Sanga",
+            "team_2": "Avispa Fukuoka",
+            "status": "LIVE",
+            "event_name": "J League 2025",
+            "match_name": "Kyoto Sanga vs Avispa Fukuoka",
+            "match_id": 120533,
+            "startTime": "10:30:00 AM 09-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/9mQy8nsgSPiiDiN_1K5bbA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120533_english_hls_8714ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mial Mavericks vs Customs Challengers (TBCPL10 Aviation Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120863_5013_MMV_CCH_fc-web.jpg",
+            "team_1": "Mial Mavericks",
+            "team_2": "Customs Challengers",
+            "status": "LIVE",
+            "event_name": "TBCPL10 Aviation Premier League",
+            "match_name": "Mial Mavericks vs Customs Challengers",
+            "match_id": 120863,
+            "startTime": "10:30:00 AM 09-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/wK56b-baQZimlZR8LzntpQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120863_english_hls_1320ta-no/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3 vs Hong Kong (LIV Golf Hong Kong)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Hong-Kong_old_Match_card-(2).jpg",
@@ -116,18 +144,6 @@
             "adfree_url": "https://dai.fancode.com/primary/120768_english_hls_8240ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Kyoto Sanga vs Avispa Fukuoka (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/120533_CASACARDS_APP.png",
-            "team_1": "Kyoto Sanga",
-            "team_2": "Avispa Fukuoka",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Kyoto Sanga vs Avispa Fukuoka",
-            "match_id": 120533,
-            "startTime": "10:30:00 AM 09-03-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "KCA Tigers vs KCA Eagles (KCA Presidents Cup T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120499_5006_TIG_EAG_fc-Web.jpg",
@@ -150,18 +166,6 @@
             "match_name": "Voorburg vs Empire CC",
             "match_id": 119781,
             "startTime": "03:00:00 PM 09-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tallinn Strikers vs Ariana CC (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740031925351.jpg",
-            "team_1": "Tallinn Strikers",
-            "team_2": "Ariana CC",
-            "status": "UPCOMING",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Tallinn Strikers vs Ariana CC",
-            "match_id": 119782,
-            "startTime": "05:00:00 PM 09-03-2025"
         }
     ]
 }
