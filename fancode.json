@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:06:12 PM 10-03-2025",
+    "last update time": "05:16:48 PM 10-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "02:30:00 PM 10-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/zha7Plf8R2SZYGngbLJ9yw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121042_english_hls_5350ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Yuva Mumba vs Palani Tuskers (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120775_5012_YMA_PAL_fc-Web.jpg",
+            "team_1": "Yuva Mumba",
+            "team_2": "Palani Tuskers",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Yuva Mumba vs Palani Tuskers",
+            "match_id": 120775,
+            "startTime": "05:30:00 PM 10-03-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Kabaddi",
@@ -57,18 +71,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Canada Women vs USA Women (ICC Women's T20 World Cup Americas Qualifier, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/120419_CASACARDS_APP.png",
-            "team_1": "Canada Women",
-            "team_2": "USA Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Americas Qualifier, 2025",
-            "match_name": "Canada Women vs USA Women",
-            "match_id": 120419,
-            "startTime": "07:30:00 PM 10-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bangladesh Tigers vs Afghanistan Pathans (Asian Legends League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121044_5019_BAT_AFP_fc-Web_1741422833771.jpg",
             "team_1": "Bangladesh Tigers",
@@ -78,6 +80,18 @@
             "match_name": "Bangladesh Tigers vs Afghanistan Pathans",
             "match_id": 121044,
             "startTime": "02:30:00 PM 11-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Canada Women vs USA Women (ICC Women's T20 World Cup Americas Qualifier, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/120419_CASACARDS_APP.png",
+            "team_1": "Canada Women",
+            "team_2": "USA Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20 World Cup Americas Qualifier, 2025",
+            "match_name": "Canada Women vs USA Women",
+            "match_id": 120419,
+            "startTime": "07:30:00 PM 10-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -117,18 +131,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Al Sadd vs Al Wasl (AFC Champions League Elite 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-al-sadd-vs-al-was-old_1741597022267.jpg",
-            "team_1": "Al Sadd",
-            "team_2": "Al Wasl",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al Sadd vs Al Wasl",
-            "match_id": 120260,
-            "startTime": "11:30:00 PM 10-03-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Al-Nassr vs Esteghlal FC (AFC Champions League Elite 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-alnassr-vs-esteghlal-fc-old_1741597022270.jpg",
             "team_1": "Al-Nassr",
@@ -140,16 +142,16 @@
             "startTime": "11:30:00 PM 10-03-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Bahrain vs Hong Kong, China (Bahrain and Hong Kong, China tour of Malaysia)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bah_HK-old.jpg",
-            "team_1": "Bahrain",
-            "team_2": "Hong Kong, China",
+            "event_category": "Football",
+            "title": "Al Sadd vs Al Wasl (AFC Champions League Elite 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-al-sadd-vs-al-was-old_1741597022267.jpg",
+            "team_1": "Al Sadd",
+            "team_2": "Al Wasl",
             "status": "UPCOMING",
-            "event_name": "Bahrain and Hong Kong, China tour of Malaysia",
-            "match_name": "Bahrain vs Hong Kong, China",
-            "match_id": 120475,
-            "startTime": "08:30:00 AM 11-03-2025"
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al Sadd vs Al Wasl",
+            "match_id": 120260,
+            "startTime": "11:30:00 PM 10-03-2025"
         }
     ]
 }
