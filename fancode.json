@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:15 AM 10-03-2025",
+    "last update time": "11:20:20 AM 10-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "10:00:00 AM 10-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/PS0YgrlRR7GNHiiK9V7oxA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120447_english_hls_6003ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "UP Falcons vs Vasco Vipers (Yuva All Stars Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120772_5012_UPF_VVS_fc-Web.jpg",
-            "team_1": "UP Falcons",
-            "team_2": "Vasco Vipers",
-            "status": "LIVE",
-            "event_name": "Yuva All Stars Championship",
-            "match_name": "UP Falcons vs Vasco Vipers",
-            "match_id": 120772,
-            "startTime": "10:15:00 AM 10-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/cKLo4W9rQs6wbPZQ0LWkVA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120772_english_hls_5386ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +140,18 @@
             "match_name": "Belapur Blasters vs Thane Tigers",
             "match_id": 120448,
             "startTime": "06:00:00 PM 10-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ariana CC vs Voorburg (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",
+            "team_1": "Ariana CC",
+            "team_2": "Voorburg",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Ariana CC vs Voorburg",
+            "match_id": 121101,
+            "startTime": "07:00:00 PM 10-03-2025"
         }
     ]
 }
