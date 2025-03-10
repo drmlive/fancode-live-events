@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:22:14 AM 11-03-2025",
+    "last update time": "01:32:19 AM 11-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,34 +30,6 @@
             "startTime": "01:30:00 AM 11-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/tXi94Gd8RjOONd9HNoNH5Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120369_english_hls_4843ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Sadd vs Al Wasl (AFC Champions League Elite 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-al-sadd-vs-al-was-old_1741597022267.jpg",
-            "team_1": "Al Sadd",
-            "team_2": "Al Wasl",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al Sadd vs Al Wasl",
-            "match_id": 120260,
-            "startTime": "11:30:00 PM 10-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/_aX9MVuvTLKtkHY7SeGXWA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120260_english_hls_5725ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Nassr vs Esteghlal FC (AFC Champions League Elite 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-alnassr-vs-esteghlal-fc-old_1741597022270.jpg",
-            "team_1": "Al-Nassr",
-            "team_2": "Esteghlal FC",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al-Nassr vs Esteghlal FC",
-            "match_id": 120259,
-            "startTime": "11:30:00 PM 10-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/1eAlt-_pTv-R88a6mn2yvg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120259_english_hls_8965ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,6 +114,30 @@
             "match_name": "Istanbul KSK vs Ljubljana",
             "match_id": 119790,
             "startTime": "03:00:00 PM 11-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Yokohama F. Marinos vs Shanghai Port (AFC Champions League Elite 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-yokohama-f-marinos-vs-shanghai-port-old_1741597356776.jpg",
+            "team_1": "Yokohama F. Marinos",
+            "team_2": "Shanghai Port",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Yokohama F. Marinos vs Shanghai Port",
+            "match_id": 120265,
+            "startTime": "03:30:00 PM 11-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Walferdange Optimists vs Old Victorians (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
+            "team_1": "Walferdange Optimists",
+            "team_2": "Old Victorians",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Walferdange Optimists vs Old Victorians",
+            "match_id": 119791,
+            "startTime": "05:00:00 PM 11-03-2025"
         }
     ]
 }
