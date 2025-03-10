@@ -1,45 +1,49 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:51 PM 10-03-2025",
+    "last update time": "11:21:06 PM 10-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Canada Women vs USA Women (ICC Women's T20 World Cup Americas Qualifier, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/120419_CASACARDS_APP.png",
-            "team_1": "Canada Women",
-            "team_2": "USA Women",
-            "status": "LIVE",
-            "event_name": "ICC Women's T20 World Cup Americas Qualifier, 2025",
-            "match_name": "Canada Women vs USA Women",
-            "match_id": 120419,
-            "startTime": "07:30:00 PM 10-03-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Kuwait Swedish vs Al Mulla Exchange (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120368_4996_KS_AEC_fc-web.jpg",
             "team_1": "Kuwait Swedish",
             "team_2": "Al Mulla Exchange",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "KCC T10 Riaz Choudhry Ramadan Trophy, 2025",
             "match_name": "Kuwait Swedish vs Al Mulla Exchange",
             "match_id": 120368,
-            "startTime": "11:30:00 PM 10-03-2025"
+            "startTime": "11:30:00 PM 10-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/TdX1OTyoR8aNTYLDNweyDA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120368_english_hls_2391ta-di/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Argentina Women vs Brazil Women (ICC Women's T20 World Cup Americas Qualifier, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/120420_CASACARDS_APP.png",
-            "team_1": "Argentina Women",
-            "team_2": "Brazil Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Americas Qualifier, 2025",
-            "match_name": "Argentina Women vs Brazil Women",
-            "match_id": 120420,
-            "startTime": "12:00:00 AM 11-03-2025"
+            "event_category": "Football",
+            "title": "Al Sadd vs Al Wasl (AFC Champions League Elite 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-al-sadd-vs-al-was-old_1741597022267.jpg",
+            "team_1": "Al Sadd",
+            "team_2": "Al Wasl",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al Sadd vs Al Wasl",
+            "match_id": 120260,
+            "startTime": "11:30:00 PM 10-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/_aX9MVuvTLKtkHY7SeGXWA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120260_english_hls_5725ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Nassr vs Esteghlal FC (AFC Champions League Elite 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-alnassr-vs-esteghlal-fc-old_1741597022270.jpg",
+            "team_1": "Al-Nassr",
+            "team_2": "Esteghlal FC",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al-Nassr vs Esteghlal FC",
+            "match_id": 120259,
+            "startTime": "11:30:00 PM 10-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/1eAlt-_pTv-R88a6mn2yvg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120259_english_hls_8965ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -54,28 +58,16 @@
             "startTime": "03:00:00 PM 11-03-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Al Sadd vs Al Wasl (AFC Champions League Elite 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-al-sadd-vs-al-was-old_1741597022267.jpg",
-            "team_1": "Al Sadd",
-            "team_2": "Al Wasl",
+            "event_category": "Cricket",
+            "title": "Argentina Women vs Brazil Women (ICC Women's T20 World Cup Americas Qualifier, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/120420_CASACARDS_APP.png",
+            "team_1": "Argentina Women",
+            "team_2": "Brazil Women",
             "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al Sadd vs Al Wasl",
-            "match_id": 120260,
-            "startTime": "11:30:00 PM 10-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Nassr vs Esteghlal FC (AFC Champions League Elite 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-alnassr-vs-esteghlal-fc-old_1741597022270.jpg",
-            "team_1": "Al-Nassr",
-            "team_2": "Esteghlal FC",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al-Nassr vs Esteghlal FC",
-            "match_id": 120259,
-            "startTime": "11:30:00 PM 10-03-2025"
+            "event_name": "ICC Women's T20 World Cup Americas Qualifier, 2025",
+            "match_name": "Argentina Women vs Brazil Women",
+            "match_id": 120420,
+            "startTime": "12:00:00 AM 11-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -148,6 +140,18 @@
             "match_name": "KCA Lions vs KCA Tigers",
             "match_id": 120503,
             "startTime": "01:00:00 PM 11-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Istanbul KSK vs Ljubljana (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740031925351.jpg",
+            "team_1": "Istanbul KSK",
+            "team_2": "Ljubljana",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Istanbul KSK vs Ljubljana",
+            "match_id": 119790,
+            "startTime": "03:00:00 PM 11-03-2025"
         }
     ]
 }
