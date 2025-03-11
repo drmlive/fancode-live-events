@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:45:35 PM 11-03-2025",
+    "last update time": "03:55:50 PM 11-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "01:00:00 PM 11-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/G4HK6GKhQZOYeucgfKQjxA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120404_english_hls_5500ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Palani Tuskers vs UP Falcons (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120778_5012_PAL_UPF_fc-Web.jpg",
+            "team_1": "Palani Tuskers",
+            "team_2": "UP Falcons",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Palani Tuskers vs UP Falcons",
+            "match_id": 120778,
+            "startTime": "04:00:00 PM 11-03-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -139,18 +153,6 @@
             "event_name": "AFC Champions League Elite 2024-25",
             "match_name": "Al-Hilal vs Pakhtakor Tashkent",
             "match_id": 120262,
-            "startTime": "01:30:00 AM 12-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield United vs Bristol City (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-united-vs-Bristol-city_fc-web.jpg",
-            "team_1": "Sheffield United",
-            "team_2": "Bristol City",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Sheffield United vs Bristol City",
-            "match_id": 119973,
             "startTime": "01:30:00 AM 12-03-2025"
         }
     ]
