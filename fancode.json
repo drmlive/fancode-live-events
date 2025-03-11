@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:38:06 AM 12-03-2025",
+    "last update time": "03:49:50 AM 12-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "01:30:00 AM 12-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/c_iPvV1XRLqQHxNgwOCm7w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120272_english_hls_8870ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield United vs Bristol City (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-united-vs-Bristol-city_fc-web.jpg",
-            "team_1": "Sheffield United",
-            "team_2": "Bristol City",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Sheffield United vs Bristol City",
-            "match_id": 119973,
-            "startTime": "01:30:00 AM 12-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/JtbbrWYCRnyiYopAzWGPZg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119973_english_hls_5625ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +136,18 @@
             "match_name": "Walferdange Optimists vs Old Victorians",
             "match_id": 121214,
             "startTime": "04:00:00 PM 12-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Farmers vs Istanbul KSK (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",
+            "team_1": "Farmers",
+            "team_2": "Istanbul KSK",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Farmers vs Istanbul KSK",
+            "match_id": 121215,
+            "startTime": "05:00:00 PM 12-03-2025"
         }
     ]
 }
