@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:56:42 AM 11-03-2025",
+    "last update time": "10:06:57 AM 11-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "10:00:00 AM 11-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Mrp5K-t4TM2sxgkNyXsiPw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120449_english_hls_5412ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Yuva Yoddhas vs Kurukshetra Warriors (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120776_5012_YYS_KWS_fc-Web.jpg",
+            "team_1": "Yuva Yoddhas",
+            "team_2": "Kurukshetra Warriors",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Yuva Yoddhas vs Kurukshetra Warriors",
+            "match_id": 120776,
+            "startTime": "10:15:00 AM 11-03-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "Yokohama F. Marinos vs Shanghai Port",
             "match_id": 120265,
             "startTime": "03:30:00 PM 11-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brazil Women vs USA Women (ICC Women's T20 World Cup Americas Qualifier, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/120421_CASACARDS_APP.png",
-            "team_1": "Brazil Women",
-            "team_2": "USA Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Americas Qualifier, 2025",
-            "match_name": "Brazil Women vs USA Women",
-            "match_id": 120421,
-            "startTime": "07:30:00 PM 11-03-2025"
         }
     ]
 }
