@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:06:04 PM 12-03-2025",
+    "last update time": "06:16:30 PM 12-03-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "FC Arkadag vs East Bengal (AFC Challenge League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Challenge-League_old.jpg",
-            "team_1": "FC Arkadag",
-            "team_2": "East Bengal",
-            "status": "LIVE",
-            "event_name": "AFC Challenge League",
-            "match_name": "FC Arkadag vs East Bengal",
-            "match_id": 120871,
-            "startTime": "04:00:00 PM 12-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/d4KopXoBQyqLY_J_PCkDeQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120871_english_hls_9370ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Sri Lankan Lions vs Afghanistan Pathans (Asian Legends League, 2025)",
@@ -30,20 +16,6 @@
             "startTime": "02:30:00 PM 12-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/UYVm_EaVQI2En8Wuur6uxQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121046_english_hls_5672ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Farmers vs Istanbul KSK (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",
-            "team_1": "Farmers",
-            "team_2": "Istanbul KSK",
-            "status": "LIVE",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Farmers vs Istanbul KSK",
-            "match_id": 121215,
-            "startTime": "05:00:00 PM 12-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/fKaBCKP2RHmkc78M72RyCQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121215_english_hls_6223ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -72,20 +44,6 @@
             "startTime": "06:00:00 PM 12-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/BQjuOwVzSaOhiDWdI714OA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121216_english_hls_9000ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Gwangju vs Vissel Kobe (AFC Champions League Elite 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-gwangju-vs-vissel-kobe-old.jpg",
-            "team_1": "Gwangju",
-            "team_2": "Vissel Kobe",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Gwangju vs Vissel Kobe",
-            "match_id": 120271,
-            "startTime": "03:30:00 PM 12-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/4bn2pNOkQr6L1jTOE84WfQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120271_english_hls_6027ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -162,6 +120,30 @@
             "match_name": "Istanbul KSK vs Walferdange Optimists",
             "match_id": 119796,
             "startTime": "09:00:00 PM 12-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Old Victorians vs Farmers (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740031925329.jpg",
+            "team_1": "Old Victorians",
+            "team_2": "Farmers",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Old Victorians vs Farmers",
+            "match_id": 119797,
+            "startTime": "10:00:00 PM 12-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Walferdange Optimists vs Ljubljana (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740031925351.jpg",
+            "team_1": "Walferdange Optimists",
+            "team_2": "Ljubljana",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Walferdange Optimists vs Ljubljana",
+            "match_id": 119798,
+            "startTime": "11:00:00 PM 12-03-2025"
         }
     ]
 }
