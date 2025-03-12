@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:14:32 AM 12-03-2025",
+    "last update time": "10:24:57 AM 12-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "10:15:00 AM 12-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/6D7G0gl1QJedqNpF6zwXhQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120780_english_hls_5642ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tigres vs FC Cincinnati (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Tigres_vs_Cincinnati_Old_match-card.jpg",
-            "team_1": "Tigres",
-            "team_2": "FC Cincinnati",
-            "status": "LIVE",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Tigres vs FC Cincinnati",
-            "match_id": 119718,
-            "startTime": "08:00:00 AM 12-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/NwuukrK4TJyFdLipKE2tFQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119718_english_hls_5632ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +142,18 @@
             "match_name": "Old Victorians vs Ljubljana",
             "match_id": 121216,
             "startTime": "06:00:00 PM 12-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Walferdange Optimists vs Farmers (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",
+            "team_1": "Walferdange Optimists",
+            "team_2": "Farmers",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Walferdange Optimists vs Farmers",
+            "match_id": 121217,
+            "startTime": "07:00:00 PM 12-03-2025"
         }
     ]
 }
