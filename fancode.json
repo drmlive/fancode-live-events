@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:38:07 PM 13-03-2025",
+    "last update time": "05:48:43 PM 13-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,8 +56,22 @@
             "match_name": "Featured Group - Day 1",
             "match_id": 120383,
             "startTime": "05:45:00 PM 13-03-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/xOBUDXSUQ8O8QXlZdeE2oQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120383_english_hls_6317ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group - Day 1 vs Ponte Vedra Beach (The Players Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",
+            "team_1": "Marquee Group - Day 1",
+            "team_2": "Ponte Vedra Beach",
+            "status": "LIVE",
+            "event_name": "The Players Championship",
+            "match_name": "Marquee Group - Day 1",
+            "match_id": 120382,
+            "startTime": "06:00:00 PM 13-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Irj23NhdSvKphGuVPCQ_HA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120382_english_hls_7212ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -144,18 +158,6 @@
             "match_name": "Keraniganj Challengers vs Royal Lions",
             "match_id": 120316,
             "startTime": "11:00:00 PM 13-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Farmers vs Walferdange Optimists (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",
-            "team_1": "Farmers",
-            "team_2": "Walferdange Optimists",
-            "status": "UPCOMING",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Farmers vs Walferdange Optimists",
-            "match_id": 119803,
-            "startTime": "11:30:00 PM 13-03-2025"
         }
     ]
 }
