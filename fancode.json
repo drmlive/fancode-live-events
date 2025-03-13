@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:09:18 AM 14-03-2025",
+    "last update time": "05:19:50 AM 14-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Inter-Miami-vs-Cavalier-old.jpg",
             "team_1": "Cavalier",
             "team_2": "Inter Miami CF",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Concacaf Champions Cup 2025",
             "match_name": "Cavalier vs Inter Miami CF",
             "match_id": 119705,
-            "startTime": "05:30:00 AM 14-03-2025"
+            "startTime": "05:30:00 AM 14-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/oOj9y7X0SFeaJy5U0qw-Dg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119705_english_hls_6081ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,6 +140,18 @@
             "match_name": "KCA Lions vs KCA Royals",
             "match_id": 120509,
             "startTime": "01:00:00 PM 14-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Alajuelense vs Pumas UNAM (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pumas-vs-Alajuelense-old.jpg",
+            "team_1": "Alajuelense",
+            "team_2": "Pumas UNAM",
+            "status": "UPCOMING",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Alajuelense vs Pumas UNAM",
+            "match_id": 119707,
+            "startTime": "07:30:00 AM 14-03-2025"
         }
     ]
 }
