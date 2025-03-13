@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:35:45 AM 14-03-2025",
+    "last update time": "03:46:16 AM 14-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -42,6 +42,20 @@
             "startTime": "03:30:00 AM 14-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/rxH_quGtSQ2t5aMd-0-t1g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120371_english_hls_9673ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Prisons SC vs Clarke Road United (Trinidad T20 Festival 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120176_4989_PSSC_CRU_fc-web_1741341462213.jpg",
+            "team_1": "Prisons SC",
+            "team_2": "Clarke Road United",
+            "status": "LIVE",
+            "event_name": "Trinidad T20 Festival 2025",
+            "match_name": "Prisons SC vs Clarke Road United",
+            "match_id": 120176,
+            "startTime": "04:00:00 AM 14-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/y0k8rRmWTQqItoVzr5owPg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120176_english_hls_6521ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -150,18 +164,6 @@
             "match_name": "Indian Royals vs Rest of Asian Stars",
             "match_id": 121051,
             "startTime": "06:30:00 PM 14-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Prisons SC vs Clarke Road United (Trinidad T20 Festival 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120176_4989_PSSC_CRU_fc-web_1741341462213.jpg",
-            "team_1": "Prisons SC",
-            "team_2": "Clarke Road United",
-            "status": "UPCOMING",
-            "event_name": "Trinidad T20 Festival 2025",
-            "match_name": "Prisons SC vs Clarke Road United",
-            "match_id": 120176,
-            "startTime": "04:00:00 AM 14-03-2025"
         }
     ]
 }
