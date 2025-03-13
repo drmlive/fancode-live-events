@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:07:07 AM 14-03-2025",
+    "last update time": "04:17:22 AM 14-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -59,20 +59,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Main Feed - Day 1 vs Ponte Vedra Beach (The Players Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "Ponte Vedra Beach",
-            "status": "LIVE",
-            "event_name": "The Players Championship",
-            "match_name": "Main Feed - Day 1",
-            "match_id": 120381,
-            "startTime": "06:00:00 PM 13-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/oRecBdmCTQC5IcOw2B9qIQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120381_english_hls_5998ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "Marquee Group - Day 1 vs Ponte Vedra Beach (The Players Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",
             "team_1": "Marquee Group - Day 1",
@@ -114,20 +100,6 @@
             "adfree_url": "https://dai.fancode.com/primary/120385_english_hls_6098ta-no/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Practice vs Melbourne  (F3 AUSTRALIA 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
-            "team_1": "Practice",
-            "team_2": "Melbourne ",
-            "status": "LIVE",
-            "event_name": "F3 AUSTRALIA 2025",
-            "match_name": "Practice",
-            "match_id": 119025,
-            "startTime": "03:20:00 AM 14-03-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
             "event_category": "Cricket",
             "title": "New Zealand Women vs Sri Lanka Women (Sri Lanka Women tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women's-Tour-of-New-Zealand-T20Is-old-match-card.png",
@@ -162,6 +134,30 @@
             "match_name": "Bahrain vs Hong Kong, China",
             "match_id": 120478,
             "startTime": "08:30:00 AM 14-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "KCA Tigers vs KCA Eagles (KCA Presidents Cup T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120508_5006_TIG_EAG_fc-Web.jpg",
+            "team_1": "KCA Tigers",
+            "team_2": "KCA Eagles",
+            "status": "UPCOMING",
+            "event_name": "KCA Presidents Cup T20, 2025",
+            "match_name": "KCA Tigers vs KCA Eagles",
+            "match_id": 120508,
+            "startTime": "09:00:00 AM 14-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Belapur Blasters vs Koparkhairne Titans (Navi Mumbai Premier League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120455_5001_BEB_KOT_fc-web_1741330697209.jpg",
+            "team_1": "Belapur Blasters",
+            "team_2": "Koparkhairne Titans",
+            "status": "UPCOMING",
+            "event_name": "Navi Mumbai Premier League T20, 2025",
+            "match_name": "Belapur Blasters vs Koparkhairne Titans",
+            "match_id": 120455,
+            "startTime": "10:00:00 AM 14-03-2025"
         }
     ]
 }
