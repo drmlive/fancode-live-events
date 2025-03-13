@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:34:03 AM 13-03-2025",
+    "last update time": "07:44:22 AM 13-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -73,11 +73,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Guadalajara-vs-Club-America-old.jpg",
             "team_1": "Club Am\u00e9rica",
             "team_2": "Guadalajara",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Concacaf Champions Cup 2025",
             "match_name": "Club Am\u00e9rica vs Guadalajara",
             "match_id": 119709,
-            "startTime": "08:00:00 AM 13-03-2025"
+            "startTime": "08:00:00 AM 13-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/2j-gwhgZRiSwAdVuRfI_aw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119709_english_hls_9373ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -85,11 +87,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Herediano-vs-LA-Galaxy-old.jpg",
             "team_1": "LA Galaxy",
             "team_2": "Herediano",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Concacaf Champions Cup 2025",
             "match_name": "LA Galaxy vs Herediano",
             "match_id": 119711,
-            "startTime": "08:00:00 AM 13-03-2025"
+            "startTime": "08:00:00 AM 13-03-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
