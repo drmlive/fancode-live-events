@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:00:57 PM 14-03-2025",
+    "last update time": "03:11:03 PM 14-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Somerset vs South Asian Cricket Academy (Abu Dhabi T20 Counties Super Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121062_5022_SOM_SACA_fc-Web.jpg",
-            "team_1": "Somerset",
-            "team_2": "South Asian Cricket Academy",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T20 Counties Super Cup, 2025",
-            "match_name": "Somerset vs South Asian Cricket Academy",
-            "match_id": 121062,
-            "startTime": "12:00:00 PM 14-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LVR3-PykTo2Kk1BSITlu2A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121062_english_hls_3328ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Gold vs Sapphire (Uganda Maxx T20, 2025)",
@@ -147,15 +133,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malo vs Mediterranean Vikings (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",
-            "team_1": "Malo",
-            "team_2": "Mediterranean Vikings",
+            "title": "Mira Bhayandar Lions vs Vashi Warriors (Navi Mumbai Premier League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120456_5001_MBL_VAW_fc-web_1741330697106.jpg",
+            "team_1": "Mira Bhayandar Lions",
+            "team_2": "Vashi Warriors",
+            "status": "UPCOMING",
+            "event_name": "Navi Mumbai Premier League T20, 2025",
+            "match_name": "Mira Bhayandar Lions vs Vashi Warriors",
+            "match_id": 120456,
+            "startTime": "06:00:00 PM 14-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Independents CC vs Roma CC (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740114746958.jpg",
+            "team_1": "Independents CC",
+            "team_2": "Roma CC",
             "status": "UPCOMING",
             "event_name": "European Cricket League, 2025",
-            "match_name": "Malo vs Mediterranean Vikings",
-            "match_id": 119805,
-            "startTime": "05:00:00 PM 14-03-2025"
+            "match_name": "Independents CC vs Roma CC",
+            "match_id": 119806,
+            "startTime": "07:00:00 PM 14-03-2025"
         }
     ]
 }
