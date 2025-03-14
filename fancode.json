@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:41:40 AM 14-03-2025",
+    "last update time": "09:51:52 AM 14-03-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -44,6 +44,20 @@
             "adfree_url": "https://dai.fancode.com/primary/120508_english_hls_6329ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Belapur Blasters vs Koparkhairne Titans (Navi Mumbai Premier League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120455_5001_BEB_KOT_fc-web_1741330697209.jpg",
+            "team_1": "Belapur Blasters",
+            "team_2": "Koparkhairne Titans",
+            "status": "LIVE",
+            "event_name": "Navi Mumbai Premier League T20, 2025",
+            "match_name": "Belapur Blasters vs Koparkhairne Titans",
+            "match_id": 120455,
+            "startTime": "10:00:00 AM 14-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/i4AD3uc9T16OnBJRukWegw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120455_english_hls_6242ta-di/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 1 vs Singapore (LIV Golf Singapore)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Singapore-old-match-card.png",
@@ -56,20 +70,6 @@
             "startTime": "06:45:00 AM 14-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/madsrYdZScKe2r9fExUR-A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120887_english_hls_5864ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Alajuelense vs Pumas UNAM (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pumas-vs-Alajuelense-old.jpg",
-            "team_1": "Alajuelense",
-            "team_2": "Pumas UNAM",
-            "status": "LIVE",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Alajuelense vs Pumas UNAM",
-            "match_id": 119707,
-            "startTime": "07:30:00 AM 14-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qX0Z-oE7QruDgV9w8hsKfw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119707_english_hls_6411ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -94,18 +94,6 @@
             "match_name": "Indian Royals vs Rest of Asian Stars",
             "match_id": 121051,
             "startTime": "06:30:00 PM 14-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Belapur Blasters vs Koparkhairne Titans (Navi Mumbai Premier League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120455_5001_BEB_KOT_fc-web_1741330697209.jpg",
-            "team_1": "Belapur Blasters",
-            "team_2": "Koparkhairne Titans",
-            "status": "UPCOMING",
-            "event_name": "Navi Mumbai Premier League T20, 2025",
-            "match_name": "Belapur Blasters vs Koparkhairne Titans",
-            "match_id": 120455,
-            "startTime": "10:00:00 AM 14-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +142,18 @@
             "match_name": "Sapphire vs Gold",
             "match_id": 121071,
             "startTime": "12:00:00 PM 14-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "KCA Lions vs KCA Royals (KCA Presidents Cup T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120509_5006_LIO_ROY_fc-Web.jpg",
+            "team_1": "KCA Lions",
+            "team_2": "KCA Royals",
+            "status": "UPCOMING",
+            "event_name": "KCA Presidents Cup T20, 2025",
+            "match_name": "KCA Lions vs KCA Royals",
+            "match_id": 120509,
+            "startTime": "01:00:00 PM 14-03-2025"
         }
     ]
 }
