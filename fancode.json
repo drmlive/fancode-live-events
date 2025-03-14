@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:16:44 AM 14-03-2025",
+    "last update time": "08:27:20 AM 14-03-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -9,25 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula3_Old_match-card-(1).jpg",
             "team_1": "Qualifying",
             "team_2": "Melbourne ",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F3 AUSTRALIA 2025",
             "match_name": "Qualifying",
             "match_id": 119026,
-            "startTime": "08:30:00 AM 14-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Alajuelense vs Pumas UNAM (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pumas-vs-Alajuelense-old.jpg",
-            "team_1": "Alajuelense",
-            "team_2": "Pumas UNAM",
-            "status": "LIVE",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Alajuelense vs Pumas UNAM",
-            "match_id": 119707,
-            "startTime": "07:30:00 AM 14-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qX0Z-oE7QruDgV9w8hsKfw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119707_english_hls_6411ta-no/index.m3u8"
+            "startTime": "08:30:00 AM 14-03-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -42,6 +30,20 @@
             "startTime": "08:30:00 AM 14-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HtmaNf0sSt-P5VnMbs_JrA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120478_english_hls_9507ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Alajuelense vs Pumas UNAM (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pumas-vs-Alajuelense-old.jpg",
+            "team_1": "Alajuelense",
+            "team_2": "Pumas UNAM",
+            "status": "LIVE",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Alajuelense vs Pumas UNAM",
+            "match_id": 119707,
+            "startTime": "07:30:00 AM 14-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/qX0Z-oE7QruDgV9w8hsKfw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119707_english_hls_6411ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
