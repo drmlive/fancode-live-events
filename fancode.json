@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:05:14 PM 15-03-2025",
+    "last update time": "09:15:22 PM 15-03-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MotoGP_3_Old_match-card_1741858444076.jpg",
             "team_1": "Qualifying",
             "team_2": "Termas De Rio Hondo",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Moto3 Argentina",
             "match_name": "Qualifying",
             "match_id": 118652,
-            "startTime": "09:20:00 PM 15-03-2025"
+            "startTime": "09:20:00 PM 15-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/KYCEpNuLRP68vHLyZDJFYQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118652_english_hls_5291ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -42,20 +44,6 @@
             "startTime": "07:30:00 PM 15-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/miXfr6thRsOzV-ntevth1A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121191_english_hls_8733ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kalyan Tuskers vs Belapur Blasters (Navi Mumbai Premier League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120458_5001_BEB_KLT_fc-web_1741330697309.jpg",
-            "team_1": "Kalyan Tuskers",
-            "team_2": "Belapur Blasters",
-            "status": "LIVE",
-            "event_name": "Navi Mumbai Premier League T20, 2025",
-            "match_name": "Kalyan Tuskers vs Belapur Blasters",
-            "match_id": 120458,
-            "startTime": "06:00:00 PM 15-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LsHlnmhPQE6iQPbqhYhpxw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120458_english_hls_3664ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -100,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/119976_english_hls_5150ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Namibia vs Canada (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canada-vs-Namibia_OLD.jpg",
-            "team_1": "Namibia",
-            "team_2": "Canada",
-            "status": "LIVE",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Namibia vs Canada",
-            "match_id": 120406,
-            "startTime": "01:00:00 PM 15-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/q6-MPubcQjqSW5t4vBra8Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120406_english_hls_5809ta-no/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Main Feed - Day 3 vs Ponte Vedra Beach (The Players Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",
@@ -154,6 +128,34 @@
             "startTime": "06:30:00 PM 15-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/PiQWG4UMSWmACQftK40xyA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120392_english_hls_8473ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kalyan Tuskers vs Belapur Blasters (Navi Mumbai Premier League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120458_5001_BEB_KLT_fc-web_1741330697309.jpg",
+            "team_1": "Kalyan Tuskers",
+            "team_2": "Belapur Blasters",
+            "status": "LIVE",
+            "event_name": "Navi Mumbai Premier League T20, 2025",
+            "match_name": "Kalyan Tuskers vs Belapur Blasters",
+            "match_id": 120458,
+            "startTime": "06:00:00 PM 15-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LsHlnmhPQE6iQPbqhYhpxw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120458_english_hls_3664ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Canada (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canada-vs-Namibia_OLD.jpg",
+            "team_1": "Namibia",
+            "team_2": "Canada",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "Namibia vs Canada",
+            "match_id": 120406,
+            "startTime": "01:00:00 PM 15-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/q6-MPubcQjqSW5t4vBra8Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120406_english_hls_5809ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
