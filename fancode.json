@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:25:43 AM 15-03-2025",
+    "last update time": "10:36:08 AM 15-03-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -103,20 +103,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Day 1 vs Coffs Harbour Golf Club (Australian Women\u2019s Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic--old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "Coffs Harbour Golf Club",
-            "status": "LIVE",
-            "event_name": "Australian Women\u2019s Classic",
-            "match_name": "Day 1",
-            "match_id": 120472,
-            "startTime": "05:30:00 AM 15-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/IwktMtFpSiGZBcrikUMOJA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120472_english_hls_9195ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "Day 2 vs Singapore (LIV Golf Singapore)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Singapore-old-match-card.png",
             "team_1": "Day 2",
@@ -166,6 +152,18 @@
             "match_name": "Indian Royals vs Rest of Asian Stars",
             "match_id": 121053,
             "startTime": "06:30:00 PM 15-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lahore Whites vs Peshawar (National T20 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121191_5026_LW_PES_fc-web.jpg",
+            "team_1": "Lahore Whites",
+            "team_2": "Peshawar",
+            "status": "UPCOMING",
+            "event_name": "National T20 Cup, 2025",
+            "match_name": "Lahore Whites vs Peshawar",
+            "match_id": 121191,
+            "startTime": "07:30:00 PM 15-03-2025"
         }
     ]
 }
