@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:37:24 PM 15-03-2025",
+    "last update time": "10:47:42 PM 15-03-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -58,6 +58,34 @@
             "startTime": "10:00:00 PM 15-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/q6eYHZv3Sjyyau8TQwLPYQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119811_english_hls_5320ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Winning FKP vs Super Lanka (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120320_4995_WFK_SUL_fc-Web_1740894371170.jpg",
+            "team_1": "Winning FKP",
+            "team_2": "Super Lanka",
+            "status": "LIVE",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "Winning FKP vs Super Lanka",
+            "match_id": 120320,
+            "startTime": "11:00:00 PM 15-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/hAvhqLoVRMe7FBAthZuAtQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120320_english_hls_9001ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malo vs Beveren (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740114746958.jpg",
+            "team_1": "Malo",
+            "team_2": "Beveren",
+            "status": "LIVE",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Malo vs Beveren",
+            "match_id": 119812,
+            "startTime": "11:00:00 PM 15-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Vva8QInyQEC1nFcdkomeBQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119812_english_hls_5289ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -136,30 +164,6 @@
             "match_name": "New Zealand vs Pakistan",
             "match_id": 120194,
             "startTime": "06:45:00 AM 16-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Winning FKP vs Super Lanka (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120320_4995_WFK_SUL_fc-Web_1740894371170.jpg",
-            "team_1": "Winning FKP",
-            "team_2": "Super Lanka",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "Winning FKP vs Super Lanka",
-            "match_id": 120320,
-            "startTime": "11:00:00 PM 15-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malo vs Beveren (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740114746958.jpg",
-            "team_1": "Malo",
-            "team_2": "Beveren",
-            "status": "UPCOMING",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Malo vs Beveren",
-            "match_id": 119812,
-            "startTime": "11:00:00 PM 15-03-2025"
         }
     ]
 }
