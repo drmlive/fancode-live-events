@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:02:40 PM 15-03-2025",
+    "last update time": "01:13:06 PM 15-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110418_4543_SAU_QUN_fc-Web_1739782530665.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "South Australia vs Queensland",
-            "match_id": 110418,
-            "startTime": "05:30:00 AM 15-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/uXKSab0pQUOD092y4gyy2g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110418_english_hls_5802ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Victoria vs Western Australia (Sheffield Shield, 2024-25)",
@@ -103,13 +89,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Canada vs Namibia (ICC CWC League 2, 2023-27)",
+            "title": "Namibia vs Canada (ICC CWC League 2, 2023-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Canada-vs-Namibia_OLD.jpg",
-            "team_1": "Canada",
-            "team_2": "Namibia",
+            "team_1": "Namibia",
+            "team_2": "Canada",
             "status": "LIVE",
             "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Canada vs Namibia",
+            "match_name": "Namibia vs Canada",
             "match_id": 120406,
             "startTime": "01:00:00 PM 15-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/q6-MPubcQjqSW5t4vBra8Q/master.m3u8",
@@ -162,6 +148,18 @@
             "match_name": "Karachi Blues vs Larkana Region",
             "match_id": 121192,
             "startTime": "11:30:00 PM 15-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand Women vs Sri Lanka Women (Sri Lanka Women tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women's-Tour-of-New-Zealand-T20Is-old-match-card.png",
+            "team_1": "New Zealand Women",
+            "team_2": "Sri Lanka Women",
+            "status": "UPCOMING",
+            "event_name": "Sri Lanka Women tour of New Zealand, 2025",
+            "match_name": "New Zealand Women vs Sri Lanka Women",
+            "match_id": 120206,
+            "startTime": "02:45:00 AM 16-03-2025"
         }
     ]
 }
