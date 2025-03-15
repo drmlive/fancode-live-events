@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:43:23 PM 15-03-2025",
+    "last update time": "06:53:30 PM 15-03-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/119807_english_hls_8056ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Independents CC vs Malo (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740114746958.jpg",
+            "team_1": "Independents CC",
+            "team_2": "Malo",
+            "status": "LIVE",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Independents CC vs Malo",
+            "match_id": 119808,
+            "startTime": "07:00:00 PM 15-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Soz8lMOhTdaG5UbwRwIDcQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119808_english_hls_5805ta-no/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Millwall vs Stoke City (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Millwall-vs-Strok-city_fc-web.jpg",
@@ -156,20 +170,6 @@
             "startTime": "06:30:00 PM 15-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/PiQWG4UMSWmACQftK40xyA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120392_english_hls_8473ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Yuva Yoddhas vs Yuva Mumba (Yuva All Stars Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120795_5012_YYS_YMA_fc-Web.jpg",
-            "team_1": "Yuva Yoddhas",
-            "team_2": "Yuva Mumba",
-            "status": "LIVE",
-            "event_name": "Yuva All Stars Championship",
-            "match_name": "Yuva Yoddhas vs Yuva Mumba",
-            "match_id": 120795,
-            "startTime": "05:30:00 PM 15-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/F3RNJ6MdRHST74vshcJ0hg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120795_english_hls_5812ta-di/index.m3u8"
         }
     ]
 }
