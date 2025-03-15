@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:56:15 PM 15-03-2025",
+    "last update time": "10:06:38 PM 15-03-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -28,8 +28,8 @@
             "match_name": "Sri Lankan Lions vs Afghanistan Pathans",
             "match_id": 121052,
             "startTime": "06:30:00 PM 15-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/755T5PwaRjKCsXciTZlCyQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121052_english_hls_7180ta-no/index.m3u8"
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -144,6 +144,20 @@
             "adfree_url": "https://dai.fancode.com/primary/120392_english_hls_8473ta-no/index.m3u8"
         },
         {
+            "event_category": "Motorsports",
+            "title": "Qualifying vs Argentina  (Moto2 Argentina)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto2-Argentina-old.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Argentina ",
+            "status": "LIVE",
+            "event_name": "Moto2 Argentina",
+            "match_name": "Qualifying",
+            "match_id": 118647,
+            "startTime": "10:15:00 PM 15-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/bjMN82mLTaSjQqFOvt1E4A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118647_english_hls_5228ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Karachi Blues vs Larkana Region (National T20 Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121192_5026_KAB_LAR_fc-web.jpg",
@@ -154,18 +168,6 @@
             "match_name": "Karachi Blues vs Larkana Region",
             "match_id": 121192,
             "startTime": "11:30:00 PM 15-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand Women vs Sri Lanka Women (Sri Lanka Women tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women's-Tour-of-New-Zealand-T20Is-old-match-card.png",
-            "team_1": "New Zealand Women",
-            "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka Women tour of New Zealand, 2025",
-            "match_name": "New Zealand Women vs Sri Lanka Women",
-            "match_id": 120206,
-            "startTime": "02:45:00 AM 16-03-2025"
         }
     ]
 }
