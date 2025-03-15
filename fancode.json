@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:11:01 PM 15-03-2025",
+    "last update time": "04:21:20 PM 15-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110417_4543_TAS_NSW_fc-Web_1739782530450.jpg",
-            "team_1": "Tasmania",
-            "team_2": "New South Wales",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Tasmania vs New South Wales",
-            "match_id": 110417,
-            "startTime": "09:00:00 AM 15-03-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Malo vs Mediterranean Vikings (European Cricket League, 2025)",
@@ -44,6 +30,20 @@
             "startTime": "04:00:00 PM 15-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/wH4wtU9nSqCxUI7kW9OcLQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121066_english_hls_2894ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ruby vs Sapphire (Uganda Maxx T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121074_5023_SAP_RUBY_FC-WEB.jpg",
+            "team_1": "Ruby",
+            "team_2": "Sapphire",
+            "status": "LIVE",
+            "event_name": "Uganda Maxx T20, 2025",
+            "match_name": "Ruby vs Sapphire",
+            "match_id": 121074,
+            "startTime": "04:30:00 PM 15-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ilr_He9URr6vK4uBm6NDow/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121074_english_hls_5712ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -125,6 +125,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Tasmania vs New South Wales (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110417_4543_TAS_NSW_fc-Web_1739782530450.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Tasmania vs New South Wales",
+            "match_id": 110417,
+            "startTime": "09:00:00 AM 15-03-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "New Zealand Women vs Sri Lanka Women (Sri Lanka Women tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women's-Tour-of-New-Zealand-T20Is-old-match-card.png",
             "team_1": "New Zealand Women",
@@ -146,18 +158,6 @@
             "match_name": "New Zealand vs Pakistan",
             "match_id": 120194,
             "startTime": "06:45:00 AM 16-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ruby vs Sapphire (Uganda Maxx T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121074_5023_SAP_RUBY_FC-WEB.jpg",
-            "team_1": "Ruby",
-            "team_2": "Sapphire",
-            "status": "UPCOMING",
-            "event_name": "Uganda Maxx T20, 2025",
-            "match_name": "Ruby vs Sapphire",
-            "match_id": 121074,
-            "startTime": "04:30:00 PM 15-03-2025"
         }
     ]
 }
