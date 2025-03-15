@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:24:45 AM 15-03-2025",
+    "last update time": "06:35:18 AM 15-03-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -58,6 +58,20 @@
             "startTime": "05:30:00 AM 15-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/IwktMtFpSiGZBcrikUMOJA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120472_english_hls_9195ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Singapore (LIV Golf Singapore)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Singapore-old-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "Singapore",
+            "status": "LIVE",
+            "event_name": "LIV Golf Singapore",
+            "match_name": "Day 2",
+            "match_id": 120888,
+            "startTime": "06:45:00 AM 15-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/b14K6L5XTaqraEAOOiCKZQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120888_english_hls_5864ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +156,6 @@
             "match_name": "New Zealand Women vs Sri Lanka Women",
             "match_id": 120206,
             "startTime": "02:45:00 AM 16-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia vs Hong Kong, China (Bahrain and Hong Kong, China tour of Malaysia)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mal_HK-old-1.jpg",
-            "team_1": "Malaysia",
-            "team_2": "Hong Kong, China",
-            "status": "UPCOMING",
-            "event_name": "Bahrain and Hong Kong, China tour of Malaysia",
-            "match_name": "Malaysia vs Hong Kong, China",
-            "match_id": 120479,
-            "startTime": "08:30:00 AM 15-03-2025"
         }
     ]
 }
