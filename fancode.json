@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:10:12 PM 15-03-2025",
+    "last update time": "12:20:38 PM 15-03-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -130,20 +130,6 @@
             "adfree_url": "https://dai.fancode.com/primary/117882_english_hls_9531ta-no/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Singapore (LIV Golf Singapore)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Singapore-old-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "Singapore",
-            "status": "LIVE",
-            "event_name": "LIV Golf Singapore",
-            "match_name": "Day 2",
-            "match_id": 120888,
-            "startTime": "06:45:00 AM 15-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/b14K6L5XTaqraEAOOiCKZQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120888_english_hls_5864ta-no/index.m3u8"
-        },
-        {
             "event_category": "Kabaddi",
             "title": "Vasco Vipers vs Palani Tuskers (Yuva All Stars Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120793_5012_VVS_PAL_fc-Web.jpg",
@@ -168,6 +154,18 @@
             "match_name": "Sri Lankan Lions vs Afghanistan Pathans",
             "match_id": 121052,
             "startTime": "02:30:00 PM 15-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indian Royals vs Rest of Asian Stars (Asian Legends League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121051_5019_INR_ASS_fc-Web_1741422833987.jpg",
+            "team_1": "Indian Royals",
+            "team_2": "Rest of Asian Stars",
+            "status": "UPCOMING",
+            "event_name": "Asian Legends League, 2025",
+            "match_name": "Indian Royals vs Rest of Asian Stars",
+            "match_id": 121053,
+            "startTime": "06:30:00 PM 15-03-2025"
         }
     ]
 }
