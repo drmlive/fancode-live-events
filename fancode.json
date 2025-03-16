@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:41:49 AM 17-03-2025",
+    "last update time": "12:52:01 AM 17-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "10:00:00 PM 16-03-2025",
             "dai_url": "https://d1cb86acgeue33.cloudfront.net/out/v1/8aa06ad423a14b168c929c5517be59cd/index.m3u8",
             "adfree_url": "https://d1cb86acgeue33.cloudfront.net/out/v1/8aa06ad423a14b168c929c5517be59cd/index.m3u8"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Race vs Termas de R\u00edo Hondo (GRAN PREMIO DE LA REP\u00daBLICA ARGENTINA)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_ARGENTINA_Old-Match-card.jpg",
-            "team_1": "Race",
-            "team_2": "Termas de R\u00edo Hondo",
-            "status": "LIVE",
-            "event_name": "GRAN PREMIO DE LA REP\u00daBLICA ARGENTINA",
-            "match_name": "Race",
-            "match_id": 118512,
-            "startTime": "11:30:00 PM 16-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8qXHp-ZQTiGK6dx9vRsbxA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118512_english_hls_4589ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -86,6 +72,20 @@
             "startTime": "12:00:00 AM 17-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/JeqJEmZ1RW6UWfAs6_bwzw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120181_english_hls_4787ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Keraniganj Challengers vs Al Hajery XI (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120323_4995_ALH_KGC_fc-Web_1740894370545.jpg",
+            "team_1": "Keraniganj Challengers",
+            "team_2": "Al Hajery XI",
+            "status": "LIVE",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "Keraniganj Challengers vs Al Hajery XI",
+            "match_id": 120323,
+            "startTime": "01:00:00 AM 17-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/0qxzlY1FTUy_BEEtzC4cVg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120323_english_hls_4922ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -156,6 +156,18 @@
             "startTime": "07:30:00 PM 16-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/seBVwdyfQ2i-1cpk4N3G_g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120400_english_hls_4590ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs Queensland (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110418_4543_SAU_QUN_fc-Web_1739782530665.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "South Australia vs Queensland",
+            "match_id": 110418,
+            "startTime": "05:30:00 AM 15-03-2025"
         }
     ]
 }
