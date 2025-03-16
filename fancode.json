@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:21:59 PM 16-03-2025",
+    "last update time": "03:32:45 PM 16-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "09:00:00 AM 15-03-2025",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Yorkshire vs South Asian Cricket Academy (Abu Dhabi T20 Counties Super Cup, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/121068_CASACARDS_APP.png",
-            "team_1": "Yorkshire",
-            "team_2": "South Asian Cricket Academy",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T20 Counties Super Cup, 2025",
-            "match_name": "Yorkshire vs South Asian Cricket Academy",
-            "match_id": 121068,
-            "startTime": "12:00:00 PM 16-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LZIn8zhBTfKjHTB8TAjkPA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121068_english_hls_8513ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -111,27 +97,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Essex vs Somerset (Abu Dhabi T20 Counties Super Cup, 2025)",
+            "title": "Somerset vs Essex (Abu Dhabi T20 Counties Super Cup, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/121069_CASACARDS_APP.png",
-            "team_1": "Essex",
-            "team_2": "Somerset",
+            "team_1": "Somerset",
+            "team_2": "Essex",
             "status": "UPCOMING",
             "event_name": "Abu Dhabi T20 Counties Super Cup, 2025",
-            "match_name": "Essex vs Somerset",
+            "match_name": "Somerset vs Essex",
             "match_id": 121069,
             "startTime": "04:00:00 PM 16-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110418_4543_SAU_QUN_fc-Web_1739782530665.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "South Australia vs Queensland",
-            "match_id": 110418,
-            "startTime": "05:30:00 AM 15-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -147,6 +121,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "South Australia vs Queensland (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110418_4543_SAU_QUN_fc-Web_1739782530665.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "South Australia vs Queensland",
+            "match_id": 110418,
+            "startTime": "05:30:00 AM 15-03-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Roma CC vs Malo (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",
             "team_1": "Roma CC",
@@ -156,6 +142,18 @@
             "match_name": "Roma CC vs Malo",
             "match_id": 119815,
             "startTime": "05:30:00 PM 16-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Koparkhairne Titans vs Mira Bhayandar Lions (Navi Mumbai Premier League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120460_5001_KOT_MBL_fc-web_1741330697124.jpg",
+            "team_1": "Koparkhairne Titans",
+            "team_2": "Mira Bhayandar Lions",
+            "status": "UPCOMING",
+            "event_name": "Navi Mumbai Premier League T20, 2025",
+            "match_name": "Koparkhairne Titans vs Mira Bhayandar Lions",
+            "match_id": 120460,
+            "startTime": "06:00:00 PM 16-03-2025"
         }
     ]
 }
