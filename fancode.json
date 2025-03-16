@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:28:39 PM 16-03-2025",
+    "last update time": "12:39:55 PM 16-03-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -14,8 +14,8 @@
             "match_name": "Race",
             "match_id": 114690,
             "startTime": "09:30:00 AM 16-03-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://d2s3bi74zzoo9y.cloudfront.net/out/v1/617b7c74e42440bbbeedc0e83adb3265/index.m3u8",
+            "adfree_url": "https://d2s3bi74zzoo9y.cloudfront.net/out/v1/617b7c74e42440bbbeedc0e83adb3265/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -75,20 +75,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Yorkshire vs South Asian Cricket Academy (Abu Dhabi T20 Counties Super Cup, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/121068_CASACARDS_APP.png",
-            "team_1": "Yorkshire",
-            "team_2": "South Asian Cricket Academy",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T20 Counties Super Cup, 2025",
-            "match_name": "Yorkshire vs South Asian Cricket Academy",
-            "match_id": 121068,
-            "startTime": "12:00:00 PM 16-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LZIn8zhBTfKjHTB8TAjkPA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121068_english_hls_8513ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Ruby vs Gold (Uganda Maxx T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121075_5023_RUBY_GOLD_FC-WEB.jpg",
             "team_1": "Ruby",
@@ -102,18 +88,18 @@
             "adfree_url": "https://dai.fancode.com/primary/121075_english_hls_4974ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Yokohama F. Marinos vs Gamba Osaka (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/117881_4795_YKFM_OSK_fc-web.jpg",
-            "team_1": "Yokohama F. Marinos",
-            "team_2": "Gamba Osaka",
+            "event_category": "Cricket",
+            "title": "Yorkshire vs South Asian Cricket Academy (Abu Dhabi T20 Counties Super Cup, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/121068_CASACARDS_APP.png",
+            "team_1": "Yorkshire",
+            "team_2": "South Asian Cricket Academy",
             "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Yokohama F. Marinos vs Gamba Osaka",
-            "match_id": 117881,
-            "startTime": "10:30:00 AM 16-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/OmcXGSdSSAGPOXLXV05Lnw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117881_english_hls_5589ta-no/index.m3u8"
+            "event_name": "Abu Dhabi T20 Counties Super Cup, 2025",
+            "match_name": "Yorkshire vs South Asian Cricket Academy",
+            "match_id": 121068,
+            "startTime": "12:00:00 PM 16-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LZIn8zhBTfKjHTB8TAjkPA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121068_english_hls_8513ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -168,6 +154,18 @@
             "match_name": "Indian Royals vs Rest of Asian Stars",
             "match_id": 121053,
             "startTime": "06:30:00 PM 16-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lahore Blues vs Bahawalpur (National T20 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121194_5026_LB_BAH_fc-web.jpg",
+            "team_1": "Lahore Blues",
+            "team_2": "Bahawalpur",
+            "status": "UPCOMING",
+            "event_name": "National T20 Cup, 2025",
+            "match_name": "Lahore Blues vs Bahawalpur",
+            "match_id": 121194,
+            "startTime": "07:30:00 PM 16-03-2025"
         }
     ]
 }
