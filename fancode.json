@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:33:42 AM 17-03-2025",
+    "last update time": "03:43:57 AM 17-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs Ponte Vedra Beach (The Players Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "Ponte Vedra Beach",
-            "status": "LIVE",
-            "event_name": "The Players Championship",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 120396,
-            "startTime": "05:30:00 PM 16-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/afBHVWqvQrWaP7AbG5X7lg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120396_english_hls_4616ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
             "title": "Featured Group - Day 4 vs Ponte Vedra Beach (The Players Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",
             "team_1": "Featured Group - Day 4",
@@ -44,20 +30,6 @@
             "startTime": "05:30:00 PM 16-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/WEbtFAKbSJShd5_8ELl8HQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120398_english_hls_4783ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Group - Day 4 vs Ponte Vedra Beach (The Players Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",
-            "team_1": "Marquee Group - Day 4",
-            "team_2": "Ponte Vedra Beach",
-            "status": "LIVE",
-            "event_name": "The Players Championship",
-            "match_name": "Marquee Group - Day 4",
-            "match_id": 120397,
-            "startTime": "06:15:00 PM 16-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/az9o-KvkQLWXxe0JCptmoA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120397_english_hls_5101ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -93,11 +65,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120182_4989_MPSC_YCC_fc-web_1741341462412.jpg",
             "team_1": "Bess Motors Marchin Patriots",
             "team_2": "Yorkshire Cricket Club",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Trinidad T20 Festival 2025",
             "match_name": "Bess Motors Marchin Patriots vs Yorkshire Cricket Club",
             "match_id": 120182,
-            "startTime": "04:00:00 AM 17-03-2025"
+            "startTime": "04:00:00 AM 17-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/orTfhXZ3T8CW8jDNqHpoIg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120182_english_hls_4754ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +132,30 @@
             "match_name": "Belapur Blasters vs Sanpada Scorpions",
             "match_id": 120461,
             "startTime": "10:00:00 AM 17-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Titan XI vs Riders XI (Birsa Munda Trophy T20 Championship)",
+            "src": "https://images.fancode.com/aig/match/v1/119651_CASACARDS_APP.png",
+            "team_1": "Titan XI",
+            "team_2": "Riders XI",
+            "status": "UPCOMING",
+            "event_name": "Birsa Munda Trophy T20 Championship",
+            "match_name": "Titan XI vs Riders XI",
+            "match_id": 119651,
+            "startTime": "01:00:00 PM 17-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Darmstadt CC vs Hornchurch (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740114746958.jpg",
+            "team_1": "Darmstadt CC",
+            "team_2": "Hornchurch",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Darmstadt CC vs Hornchurch",
+            "match_id": 119818,
+            "startTime": "03:00:00 PM 17-03-2025"
         }
     ]
 }
