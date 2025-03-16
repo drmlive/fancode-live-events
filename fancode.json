@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:18:08 AM 16-03-2025",
+    "last update time": "06:28:58 AM 16-03-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs New Zealand (Pakistan tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card.png",
+            "team_1": "Pakistan",
+            "team_2": "New Zealand",
+            "status": "LIVE",
+            "event_name": "Pakistan tour of New Zealand, 2025",
+            "match_name": "Pakistan vs New Zealand",
+            "match_id": 120194,
+            "startTime": "06:45:00 AM 16-03-2025",
+            "dai_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/PAKVSNZ/master.m3u8?hdnea=exp=1742129914~acl=/*~id=72693110752649915832362596857305~hmac=17f4184f8c224836c2b7bdf8b8074fa5dca4656a9cdb4ec8243c1d1661900c0c",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/PAKVSNZ/master.m3u8?hdnea=exp=1742129914~acl=/*~id=72693110752649915832362596857305~hmac=17f4184f8c224836c2b7bdf8b8074fa5dca4656a9cdb4ec8243c1d1661900c0c"
+        },
         {
             "event_category": "Motorsports",
             "title": "Feature Race vs Melbourne  (F2 AUSTRALIA 2025)",
@@ -16,18 +30,6 @@
             "startTime": "06:00:00 AM 16-03-2025",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand vs Pakistan (Pakistan tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card.png",
-            "team_1": "New Zealand",
-            "team_2": "Pakistan",
-            "status": "UPCOMING",
-            "event_name": "Pakistan tour of New Zealand, 2025",
-            "match_name": "New Zealand vs Pakistan",
-            "match_id": 120194,
-            "startTime": "06:45:00 AM 16-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -70,6 +72,20 @@
             "startTime": "05:30:00 AM 16-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/-IR8CXdVRs6_m8_6azCtDg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120473_english_hls_5573ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Singapore (LIV Golf Singapore)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Singapore-old-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "Singapore",
+            "status": "LIVE",
+            "event_name": "LIV Golf Singapore",
+            "match_name": "Day 3",
+            "match_id": 120889,
+            "startTime": "06:35:00 AM 16-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-MKcZTwtT2yreM-hlZ7MkQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120889_english_hls_5020ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +158,6 @@
             "match_name": "Ambernath Avengers vs Vashi Warriors",
             "match_id": 120459,
             "startTime": "10:00:00 AM 16-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Yorkshire vs South Asian Cricket Academy (Abu Dhabi T20 Counties Super Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Yorkshire",
-            "team_2": "South Asian Cricket Academy",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T20 Counties Super Cup, 2025",
-            "match_name": "Yorkshire vs South Asian Cricket Academy",
-            "match_id": 121068,
-            "startTime": "12:00:00 PM 16-03-2025"
         }
     ]
 }
