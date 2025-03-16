@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:32:45 PM 16-03-2025",
+    "last update time": "03:43:21 PM 16-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Victoria vs Western Australia (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110420_4543_WAU_VCT_fc-Web_1739782530616.jpg",
-            "team_1": "Victoria",
-            "team_2": "Western Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Victoria vs Western Australia",
-            "match_id": 110420,
-            "startTime": "08:00:00 AM 15-03-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Tasmania vs New South Wales (Sheffield Shield, 2024-25)",
@@ -44,20 +30,6 @@
             "startTime": "03:30:00 PM 16-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/H2TjjZAKRnCrRA8BWo07GA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119814_english_hls_5039ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Wellington Phoenix (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111021_4567_SYD_WEL_fc-web_1728983131481.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Wellington Phoenix",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Sydney FC vs Wellington Phoenix",
-            "match_id": 111021,
-            "startTime": "01:30:00 PM 16-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/lIhTRhuzRaW87op-6d2fnA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111021_english_hls_5090ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -133,6 +105,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Victoria vs Western Australia (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110420_4543_WAU_VCT_fc-Web_1739782530616.jpg",
+            "team_1": "Victoria",
+            "team_2": "Western Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Victoria vs Western Australia",
+            "match_id": 110420,
+            "startTime": "08:00:00 AM 15-03-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Roma CC vs Malo (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",
             "team_1": "Roma CC",
@@ -153,6 +137,18 @@
             "event_name": "Navi Mumbai Premier League T20, 2025",
             "match_name": "Koparkhairne Titans vs Mira Bhayandar Lions",
             "match_id": 120460,
+            "startTime": "06:00:00 PM 16-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Saffron XI vs Birsa Warriors XI (Birsa Munda Trophy T20 Championship)",
+            "src": "https://images.fancode.com/aig/match/v1/119650_CASACARDS_APP.png",
+            "team_1": "Saffron XI",
+            "team_2": "Birsa Warriors XI",
+            "status": "UPCOMING",
+            "event_name": "Birsa Munda Trophy T20 Championship",
+            "match_name": "Saffron XI vs Birsa Warriors XI",
+            "match_id": 119650,
             "startTime": "06:00:00 PM 16-03-2025"
         }
     ]
