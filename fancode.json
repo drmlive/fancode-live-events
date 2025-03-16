@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:46:52 PM 16-03-2025",
+    "last update time": "05:57:01 PM 16-03-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -26,6 +26,20 @@
             "match_name": "Liverpool vs Newcastle United",
             "match_id": 119422,
             "startTime": "10:00:00 PM 16-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indian Royals vs Rest of Asian Stars (Asian Legends League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121051_5019_INR_ASS_fc-Web_1741422833987.jpg",
+            "team_1": "Indian Royals",
+            "team_2": "Rest of Asian Stars",
+            "status": "LIVE",
+            "event_name": "Asian Legends League, 2025",
+            "match_name": "Indian Royals vs Rest of Asian Stars",
+            "match_id": 121053,
+            "startTime": "06:30:00 PM 16-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/nzW_bzGUStS-GXSGKIHhBg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121053_english_hls_5018ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -112,20 +126,6 @@
             "adfree_url": "https://dai.fancode.com/primary/120396_english_hls_4616ta-di/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Group - Day 4 vs Ponte Vedra Beach (The Players Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",
-            "team_1": "Featured Group - Day 4",
-            "team_2": "Ponte Vedra Beach",
-            "status": "LIVE",
-            "event_name": "The Players Championship",
-            "match_name": "Featured Group - Day 4",
-            "match_id": 120398,
-            "startTime": "05:30:00 PM 16-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/WEbtFAKbSJShd5_8ELl8HQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120398_english_hls_4783ta-di/index.m3u8"
-        },
-        {
             "event_category": "Kabaddi",
             "title": "Yuva Mumba vs Junior Steelers (Yuva All Stars Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120799_5012_YMA_JSS_fc-Web.jpg",
@@ -140,16 +140,18 @@
             "adfree_url": "https://dai.fancode.com/primary/120799_english_hls_8581ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Indian Royals vs Rest of Asian Stars (Asian Legends League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121051_5019_INR_ASS_fc-Web_1741422833987.jpg",
-            "team_1": "Indian Royals",
-            "team_2": "Rest of Asian Stars",
-            "status": "UPCOMING",
-            "event_name": "Asian Legends League, 2025",
-            "match_name": "Indian Royals vs Rest of Asian Stars",
-            "match_id": 121053,
-            "startTime": "06:30:00 PM 16-03-2025"
+            "event_category": "Golf",
+            "title": "Featured Group - Day 4 vs Ponte Vedra Beach (The Players Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The_Players_Championship_2025_Old_match-card.jpg",
+            "team_1": "Featured Group - Day 4",
+            "team_2": "Ponte Vedra Beach",
+            "status": "LIVE",
+            "event_name": "The Players Championship",
+            "match_name": "Featured Group - Day 4",
+            "match_id": 120398,
+            "startTime": "05:30:00 PM 16-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/WEbtFAKbSJShd5_8ELl8HQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120398_english_hls_4783ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
