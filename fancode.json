@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:55:55 PM 16-03-2025",
+    "last update time": "05:06:05 PM 16-03-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -68,6 +68,20 @@
             "startTime": "04:30:00 PM 16-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Z2dd9exJS_Cn9qC5bjeo4Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121076_english_hls_4703ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Saffron XI vs Birsa Warriors XI (Birsa Munda Trophy T20 Championship)",
+            "src": "https://images.fancode.com/aig/match/v1/119650_CASACARDS_APP.png",
+            "team_1": "Saffron XI",
+            "team_2": "Birsa Warriors XI",
+            "status": "LIVE",
+            "event_name": "Birsa Munda Trophy T20 Championship",
+            "match_name": "Saffron XI vs Birsa Warriors XI",
+            "match_id": 119650,
+            "startTime": "06:00:00 PM 16-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/qMNAMim2RXKjRjLRXxnITQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119650_english_hls_8506ta-di/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -142,18 +156,6 @@
             "match_name": "Malo vs Roma CC",
             "match_id": 119815,
             "startTime": "05:30:00 PM 16-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110418_4543_SAU_QUN_fc-Web_1739782530665.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "South Australia vs Queensland",
-            "match_id": 110418,
-            "startTime": "05:30:00 AM 15-03-2025"
         }
     ]
 }
