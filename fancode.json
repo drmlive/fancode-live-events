@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:41:42 PM 17-03-2025",
+    "last update time": "03:52:10 PM 17-03-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -42,6 +42,20 @@
             "startTime": "03:00:00 PM 17-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Z7UOEH23SQieG-cQPoJh8g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119651_english_hls_5051ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Kurukshetra Warriors vs Palani Tuskers (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120802_5012_KWS_PAL_fc-Web.jpg",
+            "team_1": "Kurukshetra Warriors",
+            "team_2": "Palani Tuskers",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Kurukshetra Warriors vs Palani Tuskers",
+            "match_id": 120802,
+            "startTime": "04:00:00 PM 17-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/W2XUyMHrSxaikK_zHhpH6g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120802_english_hls_5090ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +152,6 @@
             "match_name": "Riders XI vs Saffron XI",
             "match_id": 119652,
             "startTime": "07:00:00 PM 17-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brazil Women vs Argentina Women (ICC Women's T20 World Cup Americas Qualifier, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/120429_CASACARDS_APP.png",
-            "team_1": "Brazil Women",
-            "team_2": "Argentina Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20 World Cup Americas Qualifier, 2025",
-            "match_name": "Brazil Women vs Argentina Women",
-            "match_id": 120429,
-            "startTime": "07:30:00 PM 17-03-2025"
         }
     ]
 }
