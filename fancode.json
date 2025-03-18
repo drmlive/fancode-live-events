@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:11:31 PM 18-03-2025",
+    "last update time": "05:21:42 PM 18-03-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Canada (Canada tour of Namibia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canada-tour-of-Namibia_2025match-card.jpg",
+            "team_1": "Namibia",
+            "team_2": "Canada",
+            "status": "LIVE",
+            "event_name": "Canada tour of Namibia, 2025",
+            "match_name": "Namibia vs Canada",
+            "match_id": 120188,
+            "startTime": "05:30:00 PM 18-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/UdRfM3bVTmWmxArOaGMIYA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120188_english_hls_5405ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Birsa Warriors XI vs Titan XI (Birsa Munda Trophy T20 Championship)",
@@ -32,16 +46,18 @@
             "adfree_url": "https://dai.fancode.com/primary/121078_english_hls_4795ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Namibia vs Canada (Canada tour of Namibia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canada-tour-of-Namibia_2025match-card.jpg",
-            "team_1": "Namibia",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "event_name": "Canada tour of Namibia, 2025",
-            "match_name": "Namibia vs Canada",
-            "match_id": 120188,
-            "startTime": "05:30:00 PM 18-03-2025"
+            "event_category": "Kabaddi",
+            "title": "Yuva Paltan vs Yuva Mumba (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120807_5012_YPA_YMA_fc-Web.jpg",
+            "team_1": "Yuva Paltan",
+            "team_2": "Yuva Mumba",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Yuva Paltan vs Yuva Mumba",
+            "match_id": 120807,
+            "startTime": "05:30:00 PM 18-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/zNBhKCg4TpalZcwFmBNgfQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120807_english_hls_8539ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -126,18 +142,6 @@
             "match_name": "Stack CC vs Al Hajery Team XI",
             "match_id": 120372,
             "startTime": "11:00:00 PM 18-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zurich Nomads vs Farmers (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",
-            "team_1": "Zurich Nomads",
-            "team_2": "Farmers",
-            "status": "UPCOMING",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Zurich Nomads vs Farmers",
-            "match_id": 119827,
-            "startTime": "11:30:00 PM 18-03-2025"
         }
     ]
 }
