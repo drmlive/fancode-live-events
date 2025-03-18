@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:52:48 PM 18-03-2025",
+    "last update time": "07:03:00 PM 18-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121051_5019_INR_ASS_fc-Web_1741422833987.jpg",
             "team_1": "Rest of Asian Stars",
             "team_2": "Indian Royals",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Asian Legends League, 2025",
             "match_name": "Rest of Asian Stars vs Indian Royals",
             "match_id": 121056,
-            "startTime": "07:30:00 PM 18-03-2025"
+            "startTime": "07:30:00 PM 18-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/_DT4-N8rTjOIlMETo8vW2A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121056_english_hls_6386ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -86,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/119654_english_hls_5321ta-no/index.m3u8"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Yuva Paltan vs Yuva Mumba (Yuva All Stars Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120807_5012_YPA_YMA_fc-Web.jpg",
-            "team_1": "Yuva Paltan",
-            "team_2": "Yuva Mumba",
-            "status": "LIVE",
-            "event_name": "Yuva All Stars Championship",
-            "match_name": "Yuva Paltan vs Yuva Mumba",
-            "match_id": 120807,
-            "startTime": "05:30:00 PM 18-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/zNBhKCg4TpalZcwFmBNgfQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120807_english_hls_8539ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Rawalpindi vs Faisalabad (National T20 Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121197_5026_RW_FAI_fc-web.jpg",
@@ -146,6 +134,18 @@
             "match_name": "Stack CC vs Al Hajery Team XI",
             "match_id": 120372,
             "startTime": "11:00:00 PM 18-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zurich Nomads vs Farmers (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",
+            "team_1": "Zurich Nomads",
+            "team_2": "Farmers",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Zurich Nomads vs Farmers",
+            "match_id": 119827,
+            "startTime": "11:30:00 PM 18-03-2025"
         }
     ]
 }
