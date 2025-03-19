@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:23:33 AM 20-03-2025",
+    "last update time": "12:33:42 AM 20-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Roma CC vs Hornchurch (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",
-            "team_1": "Roma CC",
-            "team_2": "Hornchurch",
-            "status": "LIVE",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Roma CC vs Hornchurch",
-            "match_id": 121603,
-            "startTime": "10:45:00 PM 19-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/eePI7sfhSiuGrvwiGLjSkg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121603_english_hls_5811ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Fakhr-E-Kashmir vs MEC Study Group (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
@@ -65,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",
             "team_1": "Voorburg",
             "team_2": "Roma CC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "European Cricket League, 2025",
             "match_name": "Voorburg vs Roma CC",
             "match_id": 121605,
-            "startTime": "12:45:00 AM 20-03-2025"
+            "startTime": "12:45:00 AM 20-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/gcKKxz1vTcC3UXKICsEWJQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121605_english_hls_5726ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -121,18 +109,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Birsa Warriors XI vs Riders XI (Birsa Munda Trophy T20 Championship)",
-            "src": "https://images.fancode.com/aig/match/v1/119657_CASACARDS_APP.png",
-            "team_1": "Birsa Warriors XI",
-            "team_2": "Riders XI",
-            "status": "UPCOMING",
-            "event_name": "Birsa Munda Trophy T20 Championship",
-            "match_name": "Birsa Warriors XI vs Riders XI",
-            "match_id": 119657,
-            "startTime": "03:00:00 PM 20-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Darmstadt CC vs Farmers (European Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Darmstadt CC",
@@ -141,6 +117,18 @@
             "event_name": "European Cricket League, 2025",
             "match_name": "Darmstadt CC vs Farmers",
             "match_id": 121606,
+            "startTime": "03:00:00 PM 20-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Birsa Warriors XI vs Riders XI (Birsa Munda Trophy T20 Championship)",
+            "src": "https://images.fancode.com/aig/match/v1/119657_CASACARDS_APP.png",
+            "team_1": "Birsa Warriors XI",
+            "team_2": "Riders XI",
+            "status": "UPCOMING",
+            "event_name": "Birsa Munda Trophy T20 Championship",
+            "match_name": "Birsa Warriors XI vs Riders XI",
+            "match_id": 119657,
             "startTime": "03:00:00 PM 20-03-2025"
         },
         {
@@ -154,6 +142,18 @@
             "match_name": "Roma CC vs Zurich Nomads",
             "match_id": 121607,
             "startTime": "04:00:00 PM 20-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Emerald vs Sapphire (Uganda Maxx T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121082_5023_EMD_SAP_FC-WEB.jpg",
+            "team_1": "Emerald",
+            "team_2": "Sapphire",
+            "status": "UPCOMING",
+            "event_name": "Uganda Maxx T20, 2025",
+            "match_name": "Emerald vs Sapphire",
+            "match_id": 121082,
+            "startTime": "04:30:00 PM 20-03-2025"
         }
     ]
 }
