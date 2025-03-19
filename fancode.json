@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:22:32 AM 19-03-2025",
+    "last update time": "11:32:40 AM 19-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "10:00:00 AM 19-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ql7Uv_t9SG6Br3HnjymOWA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120466_english_hls_6180ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Yuva Mumba vs Kurukshetra Warriors (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120809_5012_YMA_KWS_fc-Web.jpg",
+            "team_1": "Yuva Mumba",
+            "team_2": "Kurukshetra Warriors",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Yuva Mumba vs Kurukshetra Warriors",
+            "match_id": 120809,
+            "startTime": "11:45:00 AM 19-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/4FtEm78cScyDUhw26L3C2w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120809_english_hls_5922ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Darmstadt CC vs Voorburg",
             "match_id": 121599,
             "startTime": "05:45:00 PM 19-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sanpada Scorpions vs Vashi Warriors (Navi Mumbai Premier League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120465_5001_SAS_VAW_fc-web_1741330697249.jpg",
-            "team_1": "Sanpada Scorpions",
-            "team_2": "Vashi Warriors",
-            "status": "UPCOMING",
-            "event_name": "Navi Mumbai Premier League T20, 2025",
-            "match_name": "Sanpada Scorpions vs Vashi Warriors",
-            "match_id": 120465,
-            "startTime": "06:00:00 PM 19-03-2025"
         }
     ]
 }
