@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:36:35 PM 20-03-2025",
+    "last update time": "06:46:44 PM 20-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/121609_english_hls_6205ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Saffron XI vs Rangers XI (Birsa Munda Trophy T20 Championship)",
+            "src": "https://images.fancode.com/aig/match/v1/119658_CASACARDS_APP.png",
+            "team_1": "Saffron XI",
+            "team_2": "Rangers XI",
+            "status": "LIVE",
+            "event_name": "Birsa Munda Trophy T20 Championship",
+            "match_name": "Saffron XI vs Rangers XI",
+            "match_id": 119658,
+            "startTime": "07:00:00 PM 20-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ih_hR2dTT6CvgBObVBngYg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119658_english_hls_6234ta-no/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "IR Iran vs United Arab Emirates (FIFA World Cup Asian Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FIFA-Asian-Qualifiers-IRN_UAE-old.jpg",
@@ -82,20 +96,6 @@
             "match_name": "Uzbekistan vs Kyrgyz Republic",
             "match_id": 121182,
             "startTime": "09:30:00 PM 20-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mozambique vs Uganda (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121109_3741_MOZ_UGN_FC-WEB.jpg",
-            "team_1": "Mozambique",
-            "team_2": "Uganda",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Mozambique vs Uganda",
-            "match_id": 121109,
-            "startTime": "06:30:00 PM 20-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/GQxogUgVTkK4UrBh2JhcPw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121109_english_hls_6248ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -146,18 +146,18 @@
             "startTime": "11:45:00 PM 20-03-2025"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 1 - Table 2 vs Mumbai (DSC Table Tennis)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Table_T_Old_match-card_2.jpg",
-            "team_1": "Day 1 - Table 2",
-            "team_2": "Mumbai",
+            "event_category": "Football",
+            "title": "Mozambique vs Uganda (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121109_3741_MOZ_UGN_FC-WEB.jpg",
+            "team_1": "Mozambique",
+            "team_2": "Uganda",
             "status": "LIVE",
-            "event_name": "DSC Table Tennis",
-            "match_name": "Day 1 - Table 2",
-            "match_id": 121622,
-            "startTime": "02:00:00 PM 20-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/7AqR4WEqRcCVHPubFy0-Xw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121622_english_hls_9555ta-di/index.m3u8"
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Mozambique vs Uganda",
+            "match_id": 121109,
+            "startTime": "06:30:00 PM 20-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/GQxogUgVTkK4UrBh2JhcPw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121109_english_hls_6248ta-di/index.m3u8"
         }
     ]
 }
