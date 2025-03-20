@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:35:49 PM 20-03-2025",
+    "last update time": "05:45:57 PM 20-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -74,6 +74,20 @@
             "adfree_url": "https://dai.fancode.com/primary/121608_english_hls_9475ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Ambernath Avengers vs Kalyan Tuskers (Navi Mumbai Premier League T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120468_5001_KLT_AMA_fc-web_1742453043194.jpg",
+            "team_1": "Ambernath Avengers",
+            "team_2": "Kalyan Tuskers",
+            "status": "LIVE",
+            "event_name": "Navi Mumbai Premier League T20, 2025",
+            "match_name": "Ambernath Avengers vs Kalyan Tuskers",
+            "match_id": 120468,
+            "startTime": "06:00:00 PM 20-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/_FjW4XNiQLGyMv_gO6YlDw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120468_english_hls_5930ta-no/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "IR Iran vs United Arab Emirates (FIFA World Cup Asian Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FIFA-Asian-Qualifiers-IRN_UAE-old.jpg",
@@ -144,20 +158,6 @@
             "match_name": "Qatar vs DPR Korea",
             "match_id": 121180,
             "startTime": "11:45:00 PM 20-03-2025"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 1 - Table 4 vs Mumbai (DSC Table Tennis)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Table_T_Old_match-card_2.jpg",
-            "team_1": "Day 1 - Table 4",
-            "team_2": "Mumbai",
-            "status": "LIVE",
-            "event_name": "DSC Table Tennis",
-            "match_name": "Day 1 - Table 4",
-            "match_id": 121620,
-            "startTime": "02:00:00 PM 20-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Xe9k8UncQBKdkJNn1emb-A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121620_english_hls_8673ta-di/index.m3u8"
         }
     ]
 }
