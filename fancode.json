@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:33:39 PM 20-03-2025",
+    "last update time": "02:43:46 PM 20-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,6 +30,20 @@
             "startTime": "12:00:00 PM 20-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/2LUGyMqwRBWmHB1G-1OahA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121081_english_hls_5896ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Birsa Warriors XI vs Riders XI (Birsa Munda Trophy T20 Championship)",
+            "src": "https://images.fancode.com/aig/match/v1/119657_CASACARDS_APP.png",
+            "team_1": "Birsa Warriors XI",
+            "team_2": "Riders XI",
+            "status": "LIVE",
+            "event_name": "Birsa Munda Trophy T20 Championship",
+            "match_name": "Birsa Warriors XI vs Riders XI",
+            "match_id": 119657,
+            "startTime": "03:00:00 PM 20-03-2025",
+            "dai_url": "https://d3ol07h4wab26a.cloudfront.net/out/v1/7856ef011d1e409bae3a631a4ed53297/index.m3u8",
+            "adfree_url": "https://d3ol07h4wab26a.cloudfront.net/out/v1/7856ef011d1e409bae3a631a4ed53297/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -140,20 +154,6 @@
             "startTime": "02:00:00 PM 20-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/CRRHwKXeTf-h-eAz8iWaJA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121623_english_hls_6451ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 1 - Table 4 vs Mumbai (DSC Table Tennis)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Table_T_Old_match-card_2.jpg",
-            "team_1": "Day 1 - Table 4",
-            "team_2": "Mumbai",
-            "status": "LIVE",
-            "event_name": "DSC Table Tennis",
-            "match_name": "Day 1 - Table 4",
-            "match_id": 121620,
-            "startTime": "02:00:00 PM 20-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Xe9k8UncQBKdkJNn1emb-A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121620_english_hls_8673ta-di/index.m3u8"
         }
     ]
 }
