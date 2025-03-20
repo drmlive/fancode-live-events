@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:42:51 AM 21-03-2025",
+    "last update time": "02:52:59 AM 21-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,6 +28,20 @@
             "startTime": "12:00:00 AM 21-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/sFuW7QnwTeKuIoYxrt_qQg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120728_english_hls_6675ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "SBS CC vs Tally DRFS (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120330_4995_SBS_TCC_fc-Web_1740894370833.jpg",
+            "team_1": "SBS CC",
+            "team_2": "Tally DRFS",
+            "status": "LIVE",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "SBS CC vs Tally DRFS",
+            "match_id": 120330,
+            "startTime": "03:00:00 AM 21-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/a6fjEwCcQ9agY-DTmRfBtQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120330_english_hls_5814ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -128,20 +142,6 @@
             "adfree_url": "https://dai.fancode.com/primary/121588_english_hls_5994ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Libya vs Angola (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121115_3741_LIB_AGL_FC-WEB.jpg",
-            "team_1": "Libya",
-            "team_2": "Angola",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Libya vs Angola",
-            "match_id": 121115,
-            "startTime": "12:30:00 AM 21-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/F-zINyi2Tki_w9ERTs_mnQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121115_english_hls_9764ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "New Zealand vs Pakistan (Pakistan tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card.png",
@@ -152,6 +152,18 @@
             "match_name": "New Zealand vs Pakistan",
             "match_id": 120196,
             "startTime": "11:45:00 AM 21-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Canada (Canada tour of Namibia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canada-tour-of-Namibia_2025match-card.jpg",
+            "team_1": "Namibia",
+            "team_2": "Canada",
+            "status": "UPCOMING",
+            "event_name": "Canada tour of Namibia, 2025",
+            "match_name": "Namibia vs Canada",
+            "match_id": 120190,
+            "startTime": "05:30:00 PM 21-03-2025"
         }
     ]
 }
