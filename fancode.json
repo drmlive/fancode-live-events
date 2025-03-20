@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:24:00 AM 21-03-2025",
+    "last update time": "04:34:06 AM 21-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,20 +42,6 @@
             "startTime": "04:30:00 AM 21-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/utaS1BMvRCipJsl_lPLUZw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121168_english_hls_5430ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Comoros vs Mali (CAF World Cup Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/121117_CASACARDS_APP.png",
-            "team_1": "Comoros",
-            "team_2": "Mali",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Comoros vs Mali",
-            "match_id": 121117,
-            "startTime": "02:30:00 AM 21-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/0TDugMfLTQy1oRHeG5UHgQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121117_english_hls_6184ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Gold vs Sapphire",
             "match_id": 121084,
             "startTime": "04:30:00 PM 21-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Skanderborg vs Farmers (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1740114746958.jpg",
+            "team_1": "Skanderborg",
+            "team_2": "Farmers",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Skanderborg vs Farmers",
+            "match_id": 119840,
+            "startTime": "05:30:00 PM 21-03-2025"
         }
     ]
 }
