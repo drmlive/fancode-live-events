@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:44:24 PM 20-03-2025",
+    "last update time": "03:54:36 PM 20-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/108269_3740_JPN_QAT_fc-WEB.jpg",
             "team_1": "Japan",
             "team_2": "Bahrain",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "FIFA World Cup Asian Qualifiers",
             "match_name": "Japan vs Bahrain",
             "match_id": 121177,
-            "startTime": "04:05:00 PM 20-03-2025"
+            "startTime": "04:05:00 PM 20-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/NWF7I2BMRiOtIzZ5o92EMQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121177_english_hls_6243ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -82,6 +84,20 @@
             "startTime": "03:00:00 PM 20-03-2025",
             "dai_url": "https://d3ol07h4wab26a.cloudfront.net/out/v1/7856ef011d1e409bae3a631a4ed53297/index.m3u8",
             "adfree_url": "https://d3ol07h4wab26a.cloudfront.net/out/v1/7856ef011d1e409bae3a631a4ed53297/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zurich Nomads vs Roma CC (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",
+            "team_1": "Zurich Nomads",
+            "team_2": "Roma CC",
+            "status": "LIVE",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Zurich Nomads vs Roma CC",
+            "match_id": 121607,
+            "startTime": "04:00:00 PM 20-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/JaC_mTQdRjO3xr9huPjX_w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121607_english_hls_9791ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -141,18 +157,6 @@
             "event_name": "FIFA World Cup Asian Qualifiers",
             "match_name": "Saudi Arabia vs China PR",
             "match_id": 121181,
-            "startTime": "11:45:00 PM 20-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Iraq vs Kuwait (FIFA World Cup Asian Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/121176_CASACARDS_APP.png",
-            "team_1": "Iraq",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Iraq vs Kuwait",
-            "match_id": 121176,
             "startTime": "11:45:00 PM 20-03-2025"
         }
     ]
