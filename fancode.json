@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:55:25 PM 20-03-2025",
+    "last update time": "05:05:31 PM 20-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -44,20 +44,6 @@
             "startTime": "03:00:00 PM 20-03-2025",
             "dai_url": "https://d3ol07h4wab26a.cloudfront.net/out/v1/7856ef011d1e409bae3a631a4ed53297/index.m3u8",
             "adfree_url": "https://d3ol07h4wab26a.cloudfront.net/out/v1/7856ef011d1e409bae3a631a4ed53297/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zurich Nomads vs Roma CC (European Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2.jpg",
-            "team_1": "Zurich Nomads",
-            "team_2": "Roma CC",
-            "status": "LIVE",
-            "event_name": "European Cricket League, 2025",
-            "match_name": "Zurich Nomads vs Roma CC",
-            "match_id": 121607,
-            "startTime": "04:00:00 PM 20-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/JaC_mTQdRjO3xr9huPjX_w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121607_english_hls_9791ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +144,20 @@
             "match_name": "Saudi Arabia vs China PR",
             "match_id": 121181,
             "startTime": "11:45:00 PM 20-03-2025"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 1 - Table 4 vs Mumbai (DSC Table Tennis)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Table_T_Old_match-card_2.jpg",
+            "team_1": "Day 1 - Table 4",
+            "team_2": "Mumbai",
+            "status": "LIVE",
+            "event_name": "DSC Table Tennis",
+            "match_name": "Day 1 - Table 4",
+            "match_id": 121620,
+            "startTime": "02:00:00 PM 20-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Xe9k8UncQBKdkJNn1emb-A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121620_english_hls_8673ta-di/index.m3u8"
         }
     ]
 }
