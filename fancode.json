@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:41:22 AM 22-03-2025",
+    "last update time": "04:51:30 AM 22-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,25 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-URU_ARG-Old.jpg",
             "team_1": "Uruguay",
             "team_2": "Argentina",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "CONMEBOL World Cup Qualifiers",
             "match_name": "Uruguay vs Argentina",
             "match_id": 121170,
-            "startTime": "05:00:00 AM 22-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fakhr-E-Kashmir vs Super XI (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120333_4995_SXI_FEK_fc-Web_1740894370788.jpg",
-            "team_1": "Fakhr-E-Kashmir",
-            "team_2": "Super XI",
-            "status": "LIVE",
-            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "Fakhr-E-Kashmir vs Super XI",
-            "match_id": 120333,
-            "startTime": "03:00:00 AM 22-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/lash3lexT56UXbmOizSyAw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120333_english_hls_5498ta-di/index.m3u8"
+            "startTime": "05:00:00 AM 22-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/FDOmTDypRVqbCu-K6Imh3g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121170_english_hls_5411ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +140,18 @@
             "match_name": "Friendship CC vs Werewolves CC",
             "match_id": 121516,
             "startTime": "06:30:00 PM 22-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Riders XI vs Rangers XI (Birsa Munda Trophy T20 Championship)",
+            "src": "https://images.fancode.com/aig/match/v1/119662_CASACARDS_APP.png",
+            "team_1": "Riders XI",
+            "team_2": "Rangers XI",
+            "status": "UPCOMING",
+            "event_name": "Birsa Munda Trophy T20 Championship",
+            "match_name": "Riders XI vs Rangers XI",
+            "match_id": 119662,
+            "startTime": "07:00:00 PM 22-03-2025"
         }
     ]
 }
