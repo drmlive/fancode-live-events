@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:40:05 AM 22-03-2025",
+    "last update time": "02:50:14 AM 22-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,6 +30,20 @@
             "adfree_url": "https://dai.fancode.com/primary/120185_english_hls_5636ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Fakhr-E-Kashmir vs Super XI (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120333_4995_SXI_FEK_fc-Web_1740894370788.jpg",
+            "team_1": "Fakhr-E-Kashmir",
+            "team_2": "Super XI",
+            "status": "LIVE",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "Fakhr-E-Kashmir vs Super XI",
+            "match_id": 120333,
+            "startTime": "03:00:00 AM 22-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/lash3lexT56UXbmOizSyAw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120333_english_hls_5498ta-di/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Ethiopia vs Egypt (CAF World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121158_3741_ETH_EGY_fc-web.jpg",
@@ -56,6 +70,20 @@
             "startTime": "02:30:00 AM 22-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/B8ixi5hjTlG0PFxqcBa1UA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121160_english_hls_5352ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Niger vs Morocco (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121161_3741_NGR_MOR_fc-web.jpg",
+            "team_1": "Niger",
+            "team_2": "Morocco",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Niger vs Morocco",
+            "match_id": 121161,
+            "startTime": "03:00:00 AM 22-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/VCQ_jaJnQwG0VxkLuEoJag/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121161_english_hls_8720ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -140,18 +168,6 @@
             "startTime": "01:15:00 AM 22-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/RdS8u7-ZScaZ30Q1nnIL0Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121589_english_hls_5265ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Canada (Canada tour of Namibia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canada-tour-of-Namibia_2025match-card.jpg",
-            "team_1": "Namibia",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "event_name": "Canada tour of Namibia, 2025",
-            "match_name": "Namibia vs Canada",
-            "match_id": 120191,
-            "startTime": "05:30:00 PM 22-03-2025"
         }
     ]
 }
