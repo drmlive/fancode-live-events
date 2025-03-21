@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:38:26 AM 22-03-2025",
+    "last update time": "12:48:35 AM 22-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -58,6 +58,20 @@
             "startTime": "12:15:00 AM 22-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/RblSoaYiTLuKr0blYyR6EQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119842_english_hls_5725ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "MEC Study Group vs CECC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120332_4995_CEC-A_MEC_fc-Web_1740894371174.jpg",
+            "team_1": "MEC Study Group",
+            "team_2": "CECC",
+            "status": "LIVE",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "MEC Study Group vs CECC",
+            "match_id": 120332,
+            "startTime": "01:00:00 AM 22-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/yojEtMYERT2h6EA6mFEj-Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120332_english_hls_6034ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -150,20 +164,6 @@
             "startTime": "06:00:00 PM 21-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/fYgCa5KbTzWMpLajMk9Y7w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121404_english_hls_8971ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 2 vs Palm Harbor (Valspar Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valspur-championship-old.png",
-            "team_1": "World Feed - Day 2",
-            "team_2": "Palm Harbor",
-            "status": "LIVE",
-            "event_name": "Valspar Championship",
-            "match_name": "World Feed - Day 2",
-            "match_id": 121402,
-            "startTime": "11:30:00 PM 21-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/C5dF6IaeSka5t_Q_I1qOPw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121402_english_hls_5387ta-di/index.m3u8"
         }
     ]
 }
