@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:57:12 PM 21-03-2025",
+    "last update time": "11:07:18 PM 21-03-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Rwanda vs Nigeria (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121162_3741_RWN_NGA_fc-web.jpg",
-            "team_1": "Rwanda",
-            "team_2": "Nigeria",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Rwanda vs Nigeria",
-            "match_id": 121162,
-            "startTime": "09:30:00 PM 21-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ep9d5IJVQO22ERCFSRodRg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121162_english_hls_9276ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "South Africa vs Lesotho (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121163_3741_SA_LES_fc-web.jpg",
-            "team_1": "South Africa",
-            "team_2": "Lesotho",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "South Africa vs Lesotho",
-            "match_id": 121163,
-            "startTime": "09:30:00 PM 21-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ABFennE9RW25fuQrkWIvag/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121163_english_hls_5773ta-di/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Burkina Faso vs Djibouti (CAF World Cup Qualifiers)",
@@ -58,6 +30,34 @@
             "startTime": "09:30:00 PM 21-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/j0lUDlp0RN2m6HHvm2nxKQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121156_english_hls_2925ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rwanda vs Nigeria (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121162_3741_RWN_NGA_fc-web.jpg",
+            "team_1": "Rwanda",
+            "team_2": "Nigeria",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Rwanda vs Nigeria",
+            "match_id": 121162,
+            "startTime": "09:30:00 PM 21-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ep9d5IJVQO22ERCFSRodRg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121162_english_hls_9276ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "South Africa vs Lesotho (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121163_3741_SA_LES_fc-web.jpg",
+            "team_1": "South Africa",
+            "team_2": "Lesotho",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "South Africa vs Lesotho",
+            "match_id": 121163,
+            "startTime": "09:30:00 PM 21-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ABFennE9RW25fuQrkWIvag/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121163_english_hls_5773ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -113,18 +113,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Guinea vs Somalia (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121160_3741_GNA_SOM_fc-web.jpg",
-            "team_1": "Guinea",
-            "team_2": "Somalia",
-            "status": "UPCOMING",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Guinea vs Somalia",
-            "match_id": 121160,
-            "startTime": "02:30:00 AM 22-03-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Ethiopia vs Egypt (CAF World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121158_3741_ETH_EGY_fc-web.jpg",
             "team_1": "Ethiopia",
@@ -133,6 +121,18 @@
             "event_name": "CAF World Cup Qualifiers",
             "match_name": "Ethiopia vs Egypt",
             "match_id": 121158,
+            "startTime": "02:30:00 AM 22-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Guinea vs Somalia (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121160_3741_GNA_SOM_fc-web.jpg",
+            "team_1": "Guinea",
+            "team_2": "Somalia",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Guinea vs Somalia",
+            "match_id": 121160,
             "startTime": "02:30:00 AM 22-03-2025"
         },
         {
