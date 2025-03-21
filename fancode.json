@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:05:51 PM 21-03-2025",
+    "last update time": "09:16:04 PM 21-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121163_3741_SA_LES_fc-web.jpg",
             "team_1": "South Africa",
             "team_2": "Lesotho",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "CAF World Cup Qualifiers",
             "match_name": "South Africa vs Lesotho",
             "match_id": 121163,
-            "startTime": "09:30:00 PM 21-03-2025"
+            "startTime": "09:30:00 PM 21-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ABFennE9RW25fuQrkWIvag/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121163_english_hls_5773ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -45,25 +47,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121162_3741_RWN_NGA_fc-web.jpg",
             "team_1": "Rwanda",
             "team_2": "Nigeria",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "CAF World Cup Qualifiers",
             "match_name": "Rwanda vs Nigeria",
             "match_id": 121162,
-            "startTime": "09:30:00 PM 21-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vashi Warriors vs Thane Tigers (Navi Mumbai Premier League T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120462_5001_VAW_THT_fc-web_1741330697164.jpg",
-            "team_1": "Vashi Warriors",
-            "team_2": "Thane Tigers",
-            "status": "LIVE",
-            "event_name": "Navi Mumbai Premier League T20, 2025",
-            "match_name": "Vashi Warriors vs Thane Tigers",
-            "match_id": 120470,
-            "startTime": "06:00:00 PM 21-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/S94L2U_ETjWa3_l8sljD1w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120470_english_hls_5625ta-no/index.m3u8"
+            "startTime": "09:30:00 PM 21-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ep9d5IJVQO22ERCFSRodRg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121162_english_hls_9276ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -78,6 +68,20 @@
             "startTime": "07:00:00 PM 21-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/6IECDXCVT4yNST5nRiiuZQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119660_english_hls_6381ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Skanderborg vs Roma CC (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",
+            "team_1": "Skanderborg",
+            "team_2": "Roma CC",
+            "status": "LIVE",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Skanderborg vs Roma CC",
+            "match_id": 119841,
+            "startTime": "09:15:00 PM 21-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/E6VejzLVSCS-cLg9Lun5iQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119841_english_hls_5709ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
