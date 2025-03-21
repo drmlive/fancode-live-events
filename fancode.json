@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:56:35 PM 21-03-2025",
+    "last update time": "10:06:42 PM 21-03-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Congo DR vs South Sudan (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121156_3741_CNG_SS_fc-web.jpg",
-            "team_1": "Congo DR",
-            "team_2": "South Sudan",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Congo DR vs South Sudan",
-            "match_id": 121156,
-            "startTime": "09:30:00 PM 21-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/j0lUDlp0RN2m6HHvm2nxKQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121156_english_hls_2925ta-no/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Rwanda vs Nigeria (CAF World Cup Qualifiers)",
@@ -58,6 +44,20 @@
             "startTime": "09:30:00 PM 21-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/sNkywmc8QU-t4pTXS8lSIA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121154_english_hls_8407ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Congo DR vs South Sudan (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121156_3741_CNG_SS_fc-web.jpg",
+            "team_1": "Congo DR",
+            "team_2": "South Sudan",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Congo DR vs South Sudan",
+            "match_id": 121156,
+            "startTime": "09:30:00 PM 21-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/j0lUDlp0RN2m6HHvm2nxKQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121156_english_hls_2925ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -113,18 +113,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Ethiopia vs Egypt (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121158_3741_ETH_EGY_fc-web.jpg",
-            "team_1": "Ethiopia",
-            "team_2": "Egypt",
-            "status": "UPCOMING",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Ethiopia vs Egypt",
-            "match_id": 121158,
-            "startTime": "02:30:00 AM 22-03-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Guinea vs Somalia (CAF World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121160_3741_GNA_SOM_fc-web.jpg",
             "team_1": "Guinea",
@@ -133,6 +121,18 @@
             "event_name": "CAF World Cup Qualifiers",
             "match_name": "Guinea vs Somalia",
             "match_id": 121160,
+            "startTime": "02:30:00 AM 22-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Ethiopia vs Egypt (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121158_3741_ETH_EGY_fc-web.jpg",
+            "team_1": "Ethiopia",
+            "team_2": "Egypt",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Ethiopia vs Egypt",
+            "match_id": 121158,
             "startTime": "02:30:00 AM 22-03-2025"
         },
         {
