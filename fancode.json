@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:08:47 PM 21-03-2025",
+    "last update time": "12:18:55 PM 21-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-CHINESE-GRAND-PRIX_Old-Match-card.jpg",
             "team_1": "Sprint Qualifying",
             "team_2": "China",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2025",
             "match_name": "Sprint Qualifying",
             "match_id": 118387,
-            "startTime": "01:00:00 PM 21-03-2025"
+            "startTime": "01:00:00 PM 21-03-2025",
+            "dai_url": "https://d1jlzitdvmtak8.cloudfront.net/out/v1/ad6926f0d62b4b97aee62c4cf9745244/index.m3u8",
+            "adfree_url": "https://d1jlzitdvmtak8.cloudfront.net/out/v1/ad6926f0d62b4b97aee62c4cf9745244/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -44,6 +46,20 @@
             "adfree_url": "https://dai.fancode.com/primary/120469_english_hls_6024ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Emerald vs Ruby (Uganda Maxx T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121078_5023_RUBY_EMD_FC-WEB.jpg",
+            "team_1": "Emerald",
+            "team_2": "Ruby",
+            "status": "LIVE",
+            "event_name": "Uganda Maxx T20, 2025",
+            "match_name": "Emerald vs Ruby",
+            "match_id": 121083,
+            "startTime": "12:30:00 PM 21-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/vpjVw0tjRjyI-IMXVJzeGQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121083_english_hls_5549ta-no/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 2 vs Laguna National Golf Resort Club (Porsche Singapore Classic)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Singapore-Classic-old--match-card.png",
@@ -56,20 +72,6 @@
             "startTime": "09:30:00 AM 21-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Wx8l-aBQS-6qwGsyCKWslg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120156_english_hls_5762ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Qualifying vs Shanghai (F1 ACADEMY CHINA 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_China_Old_match-card.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Shanghai",
-            "status": "LIVE",
-            "event_name": "F1 ACADEMY CHINA 2025",
-            "match_name": "Qualifying",
-            "match_id": 119113,
-            "startTime": "11:35:00 AM 21-03-2025",
-            "dai_url": "https://d1utwa9h2ecf5k.cloudfront.net/out/v1/e3f1b6810078441e9304beb32d4add4b/index.m3u8",
-            "adfree_url": "https://d1utwa9h2ecf5k.cloudfront.net/out/v1/e3f1b6810078441e9304beb32d4add4b/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -123,18 +125,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Emerald vs Ruby (Uganda Maxx T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121078_5023_RUBY_EMD_FC-WEB.jpg",
-            "team_1": "Emerald",
-            "team_2": "Ruby",
-            "status": "UPCOMING",
-            "event_name": "Uganda Maxx T20, 2025",
-            "match_name": "Emerald vs Ruby",
-            "match_id": 121083,
-            "startTime": "12:30:00 PM 21-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Royal XI vs Titan XI (Birsa Munda Trophy T20 Championship)",
             "src": "https://images.fancode.com/aig/match/v1/119659_CASACARDS_APP.png",
             "team_1": "Royal XI",
@@ -144,6 +134,18 @@
             "match_name": "Royal XI vs Titan XI",
             "match_id": 119659,
             "startTime": "03:00:00 PM 21-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Roma CC vs Zurich Nomads (European Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1740114746966.jpg",
+            "team_1": "Roma CC",
+            "team_2": "Zurich Nomads",
+            "status": "UPCOMING",
+            "event_name": "European Cricket League, 2025",
+            "match_name": "Roma CC vs Zurich Nomads",
+            "match_id": 119839,
+            "startTime": "03:30:00 PM 21-03-2025"
         }
     ]
 }
