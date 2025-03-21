@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:12:00 PM 21-03-2025",
+    "last update time": "05:22:12 PM 21-03-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Canada (Canada tour of Namibia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canada-tour-of-Namibia_2025match-card.jpg",
+            "team_1": "Namibia",
+            "team_2": "Canada",
+            "status": "LIVE",
+            "event_name": "Canada tour of Namibia, 2025",
+            "match_name": "Namibia vs Canada",
+            "match_id": 120190,
+            "startTime": "05:30:00 PM 21-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/AwRoEwzKSR-7uM5wzfKjoA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120190_english_hls_5294ta-no/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Royal XI vs Titan XI (Birsa Munda Trophy T20 Championship)",
@@ -74,16 +88,18 @@
             "adfree_url": "https://dai.fancode.com/primary/121403_english_hls_5731ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Namibia vs Canada (Canada tour of Namibia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canada-tour-of-Namibia_2025match-card.jpg",
-            "team_1": "Namibia",
-            "team_2": "Canada",
-            "status": "UPCOMING",
-            "event_name": "Canada tour of Namibia, 2025",
-            "match_name": "Namibia vs Canada",
-            "match_id": 120190,
-            "startTime": "05:30:00 PM 21-03-2025"
+            "event_category": "Kabaddi",
+            "title": "Yuva Yoddhas vs Junior Steelers (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120819_5012_YYS_JSS_fc-Web.jpg",
+            "team_1": "Yuva Yoddhas",
+            "team_2": "Junior Steelers",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Yuva Yoddhas vs Junior Steelers",
+            "match_id": 120819,
+            "startTime": "05:30:00 PM 21-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/WZbDox6gRAiTiWEIIo6SzQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120819_english_hls_8812ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -144,18 +160,6 @@
             "match_name": "Ai Octopus Challengers vs Bangladesh Legends",
             "match_id": 120331,
             "startTime": "11:00:00 PM 21-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bess Motors Marchin Patriots vs Clarke Road United (Trinidad T20 Festival 2025)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/01/ECS_Spain_2024_Old_match-card.jpg",
-            "team_1": "Bess Motors Marchin Patriots",
-            "team_2": "Clarke Road United",
-            "status": "UPCOMING",
-            "event_name": "Trinidad T20 Festival 2025",
-            "match_name": "Bess Motors Marchin Patriots vs Clarke Road United",
-            "match_id": 120185,
-            "startTime": "12:00:00 AM 22-03-2025"
         }
     ]
 }
