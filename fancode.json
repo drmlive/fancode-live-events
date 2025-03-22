@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:20:55 PM 22-03-2025",
+    "last update time": "09:31:01 PM 22-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,6 +72,20 @@
             "startTime": "06:00:00 PM 22-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/cJ33BPNBR_i5mXRrKxlLUA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121711_english_hls_8467ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Togo vs Mauritania (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121165_3741_TGO_MAU_fc-web.jpg",
+            "team_1": "Togo",
+            "team_2": "Mauritania",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Togo vs Mauritania",
+            "match_id": 121165,
+            "startTime": "09:30:00 PM 22-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YWascltISKGEysSev68SPA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121165_english_hls_8749ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -152,18 +166,6 @@
             "match_name": "New Zealand Women vs Australia Women",
             "match_id": 120415,
             "startTime": "07:15:00 AM 23-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand vs Pakistan (Pakistan tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card.png",
-            "team_1": "New Zealand",
-            "team_2": "Pakistan",
-            "status": "UPCOMING",
-            "event_name": "Pakistan tour of New Zealand, 2025",
-            "match_name": "New Zealand vs Pakistan",
-            "match_id": 120197,
-            "startTime": "11:45:00 AM 23-03-2025"
         }
     ]
 }
