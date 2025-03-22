@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:43:05 AM 22-03-2025",
+    "last update time": "07:53:10 AM 22-03-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -30,6 +30,20 @@
             "startTime": "07:00:00 AM 22-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/8Vn3ZN_wRue4SlZvJm5m-g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120157_english_hls_5577ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Sprint vs China (F1 HEINEKEN CHINESE GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-CHINESE-GRAND-PRIX_Old-Match-card.jpg",
+            "team_1": "Sprint",
+            "team_2": "China",
+            "status": "LIVE",
+            "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2025",
+            "match_name": "Sprint",
+            "match_id": 118388,
+            "startTime": "08:30:00 AM 22-03-2025",
+            "dai_url": "https://d175perwixl9og.cloudfront.net/out/v1/4550198f16d246f3804dfd4ac7bf7360/index.m3u8",
+            "adfree_url": "https://d175perwixl9og.cloudfront.net/out/v1/4550198f16d246f3804dfd4ac7bf7360/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -126,18 +140,6 @@
             "match_name": "Friendship CC vs Werewolves CC",
             "match_id": 121516,
             "startTime": "06:30:00 PM 22-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Riders XI vs Rangers XI (Birsa Munda Trophy T20 Championship)",
-            "src": "https://images.fancode.com/aig/match/v1/119662_CASACARDS_APP.png",
-            "team_1": "Riders XI",
-            "team_2": "Rangers XI",
-            "status": "UPCOMING",
-            "event_name": "Birsa Munda Trophy T20 Championship",
-            "match_name": "Riders XI vs Rangers XI",
-            "match_id": 119662,
-            "startTime": "07:00:00 PM 22-03-2025"
         }
     ]
 }
