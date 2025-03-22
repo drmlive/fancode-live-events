@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:44:35 AM 22-03-2025",
+    "last update time": "10:54:42 AM 22-03-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -42,6 +42,20 @@
             "startTime": "10:15:00 AM 22-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/TdlE_DgER-G6Z7HpZl1cag/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120820_english_hls_5731ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 3 - Semi Finals vs Chennai (DSC Table Tennis)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Table_T_Old_match-card_2.jpg",
+            "team_1": "Day 3 - Semi Finals",
+            "team_2": "Chennai",
+            "status": "LIVE",
+            "event_name": "DSC Table Tennis",
+            "match_name": "Day 3 - Semi Finals",
+            "match_id": 121625,
+            "startTime": "11:00:00 AM 22-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/mqKM6IDBRj63uwW1-BLVnA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121625_english_hls_5857ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +152,6 @@
             "match_name": "Mira Bhayandar Lions vs Vashi Warriors",
             "match_id": 120471,
             "startTime": "06:00:00 PM 22-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Friendship CC vs Werewolves CC (European Cricket Series Portugal, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",
-            "team_1": "Friendship CC",
-            "team_2": "Werewolves CC",
-            "status": "UPCOMING",
-            "event_name": "European Cricket Series Portugal, 2025",
-            "match_name": "Friendship CC vs Werewolves CC",
-            "match_id": 121516,
-            "startTime": "06:30:00 PM 22-03-2025"
         }
     ]
 }
