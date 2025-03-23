@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:11:16 PM 23-03-2025",
+    "last update time": "04:21:26 PM 23-03-2025",
     "matches": [
-        {
-            "event_category": "Formula 1",
-            "title": "Race vs China (F1 HEINEKEN CHINESE GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-CHINESE-GRAND-PRIX_Old-Match-card.jpg",
-            "team_1": "Race",
-            "team_2": "China",
-            "status": "LIVE",
-            "event_name": "F1 HEINEKEN CHINESE GRAND PRIX 2025",
-            "match_name": "Race",
-            "match_id": 118390,
-            "startTime": "12:30:00 PM 23-03-2025",
-            "dai_url": "https://d2odfqekvl7hg1.cloudfront.net/out/v1/c9652c9228c246738c797bf3da40a9f6/index.m3u8",
-            "adfree_url": "https://d2odfqekvl7hg1.cloudfront.net/out/v1/c9652c9228c246738c797bf3da40a9f6/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brothers XI Portugal vs Coimbra Knights (European Cricket Series Portugal, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",
-            "team_1": "Brothers XI Portugal",
-            "team_2": "Coimbra Knights",
-            "status": "LIVE",
-            "event_name": "European Cricket Series Portugal, 2025",
-            "match_name": "Brothers XI Portugal vs Coimbra Knights",
-            "match_id": 121519,
-            "startTime": "02:30:00 PM 23-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/uaYRHw3MQnWL1E6WmOBHzw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121519_english_hls_4903ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Royal XI vs Birsa Warriors XI (Birsa Munda Trophy T20 Championship)",
@@ -44,6 +16,34 @@
             "startTime": "03:00:00 PM 23-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/klOdc0b4S5-j6tg9N1rB3Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119663_english_hls_4839ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Friendship CC vs Team Tigers Portugal (European Cricket Series Portugal, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",
+            "team_1": "Friendship CC",
+            "team_2": "Team Tigers Portugal",
+            "status": "LIVE",
+            "event_name": "European Cricket Series Portugal, 2025",
+            "match_name": "Friendship CC vs Team Tigers Portugal",
+            "match_id": 121520,
+            "startTime": "04:30:00 PM 23-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/msa_UMNeS9K6QV-L8DKhQw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121520_english_hls_8127ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Emerald vs Gold (Uganda Maxx T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121073_5023_GOLD_EMD_FC-WEB.jpg",
+            "team_1": "Emerald",
+            "team_2": "Gold",
+            "status": "LIVE",
+            "event_name": "Uganda Maxx T20, 2025",
+            "match_name": "Emerald vs Gold",
+            "match_id": 121085,
+            "startTime": "04:30:00 PM 23-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/W0I5oB2aSEqfMEPxT6lJgA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121085_english_hls_4756ta-di/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -97,30 +97,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Emerald vs Gold (Uganda Maxx T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121073_5023_GOLD_EMD_FC-WEB.jpg",
-            "team_1": "Emerald",
-            "team_2": "Gold",
-            "status": "UPCOMING",
-            "event_name": "Uganda Maxx T20, 2025",
-            "match_name": "Emerald vs Gold",
-            "match_id": 121085,
-            "startTime": "04:30:00 PM 23-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Friendship CC vs Team Tigers Portugal (European Cricket Series Portugal, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",
-            "team_1": "Friendship CC",
-            "team_2": "Team Tigers Portugal",
-            "status": "UPCOMING",
-            "event_name": "European Cricket Series Portugal, 2025",
-            "match_name": "Friendship CC vs Team Tigers Portugal",
-            "match_id": 121520,
-            "startTime": "04:30:00 PM 23-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Coimbra Knights vs Lisbon Super Giants (European Cricket Series Portugal, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",
             "team_1": "Coimbra Knights",
@@ -154,6 +130,18 @@
             "match_name": "Werewolves CC vs Brothers XI Portugal",
             "match_id": 121522,
             "startTime": "08:30:00 PM 23-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Friendship CC vs Lisbon Super Giants (European Cricket Series Portugal, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",
+            "team_1": "Friendship CC",
+            "team_2": "Lisbon Super Giants",
+            "status": "UPCOMING",
+            "event_name": "European Cricket Series Portugal, 2025",
+            "match_name": "Friendship CC vs Lisbon Super Giants",
+            "match_id": 121523,
+            "startTime": "10:30:00 PM 23-03-2025"
         }
     ]
 }
