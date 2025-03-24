@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:50:51 AM 24-03-2025",
+    "last update time": "10:00:59 AM 24-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "09:00:00 AM 24-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/lXK02fcrQoOyeiW2S6mz6Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121434_english_hls_5752ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Sonipat Spartans vs UP Falcons (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120828_5012_SPS_UPF_fc-Web.jpg",
+            "team_1": "Sonipat Spartans",
+            "team_2": "UP Falcons",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Sonipat Spartans vs UP Falcons",
+            "match_id": 120828,
+            "startTime": "10:15:00 AM 24-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Po16y5PtRh6MmL7Jq-5ckw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120828_english_hls_5706ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Lisbon Super Giants vs Werewolves CC",
             "match_id": 121528,
             "startTime": "10:30:00 PM 24-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "SBS CC vs Thunder Cats (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120336_4995_SBS_THN_fc-Web_1740894370643.jpg",
-            "team_1": "SBS CC",
-            "team_2": "Thunder Cats",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "SBS CC vs Thunder Cats",
-            "match_id": 120336,
-            "startTime": "11:00:00 PM 24-03-2025"
         }
     ]
 }
