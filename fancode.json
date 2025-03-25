@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:31:44 AM 26-03-2025",
+    "last update time": "04:41:48 AM 26-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "03:00:00 AM 26-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/5raq7UbPQPCOguqNnldwzQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121761_english_hls_5807ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Algeria vs Mozambique (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121760_3741_ALG_MOZ_fc-web.jpg",
-            "team_1": "Algeria",
-            "team_2": "Mozambique",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Algeria vs Mozambique",
-            "match_id": 121760,
-            "startTime": "02:30:00 AM 26-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/k4s3YcdNRBy2txTAYebUgg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121760_english_hls_5122ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -56,6 +42,30 @@
             "startTime": "11:45:00 AM 26-03-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "South Australia vs Queensland (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "South Australia vs Queensland",
+            "match_id": 110421,
+            "startTime": "05:35:00 AM 26-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Venezuela vs Peru (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-VEN_PER-Old.jpg",
+            "team_1": "Venezuela",
+            "team_2": "Peru",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Venezuela vs Peru",
+            "match_id": 121173,
+            "startTime": "05:30:00 AM 26-03-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Chile vs Ecuador (CONMEBOL World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-CHI_ECU-Old.jpg",
@@ -77,18 +87,6 @@
             "event_name": "CONMEBOL World Cup Qualifiers",
             "match_name": "Colombia vs Paraguay",
             "match_id": 121172,
-            "startTime": "05:30:00 AM 26-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Venezuela vs Peru (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-VEN_PER-Old.jpg",
-            "team_1": "Venezuela",
-            "team_2": "Peru",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Venezuela vs Peru",
-            "match_id": 121173,
             "startTime": "05:30:00 AM 26-03-2025"
         },
         {
@@ -117,18 +115,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "South Australia vs Queensland",
-            "match_id": 110421,
-            "startTime": "05:35:00 AM 26-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Kalimpong Falcons vs Purba Medinipur Dragons (Kolkata NCC T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121438_5037_KF_PMD_fc-Web.jpg",
             "team_1": "Kalimpong Falcons",
@@ -150,6 +136,18 @@
             "match_name": "Alipurduar Thunders vs Combined Avengers",
             "match_id": 121439,
             "startTime": "01:00:00 PM 26-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Legends vs Winning FKP (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120340_4995_BD-L_WFK_fc-Web_1740894371182.jpg",
+            "team_1": "Bangladesh Legends",
+            "team_2": "Winning FKP",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "Bangladesh Legends vs Winning FKP",
+            "match_id": 120340,
+            "startTime": "11:00:00 PM 26-03-2025"
         }
     ]
 }
