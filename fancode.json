@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:49:58 AM 26-03-2025",
+    "last update time": "02:00:04 AM 26-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "01:00:00 AM 26-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/2tMema5qR-eGioZ76F2Mkw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120339_english_hls_5297ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "DPR Korea vs United Arab Emirates (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FIFA-Asian-Qualifiers-DPK_UAE-old.jpg",
-            "team_1": "DPR Korea",
-            "team_2": "United Arab Emirates",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "DPR Korea vs United Arab Emirates",
-            "match_id": 121582,
-            "startTime": "11:45:00 PM 25-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/GCJb9diMQUWULLvkv0_R7w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121582_english_hls_2609ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -164,6 +150,18 @@
             "match_name": "Kings Bay Royals vs Pigeon Point Skiers",
             "match_id": 120698,
             "startTime": "09:30:00 PM 26-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Algeria vs Mozambique (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121760_3741_ALG_MOZ_fc-web.jpg",
+            "team_1": "Algeria",
+            "team_2": "Mozambique",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Algeria vs Mozambique",
+            "match_id": 121760,
+            "startTime": "02:30:00 AM 26-03-2025"
         }
     ]
 }
