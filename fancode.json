@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:11:03 AM 26-03-2025",
+    "last update time": "03:21:08 AM 26-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -74,20 +74,6 @@
             "adfree_url": "https://dai.fancode.com/primary/121761_english_hls_5807ta-no/index.m3u8"
         },
         {
-            "event_category": "Basketball",
-            "title": "Barcelona vs Bayern Munich (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/121591_CASACARDS_APP.png",
-            "team_1": "Barcelona",
-            "team_2": "Bayern Munich",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Barcelona vs Bayern Munich",
-            "match_id": 121591,
-            "startTime": "01:00:00 AM 26-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-uAxlPUNTK6MIOsU_QMPNg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121591_english_hls_9185ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "New Zealand Women vs Australia Women (Australia Women tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-Women's-Tour-of-New-Zealand-old-match-card.png",
@@ -158,6 +144,18 @@
             "match_name": "Kalimpong Falcons vs Purba Medinipur Dragons",
             "match_id": 121438,
             "startTime": "09:00:00 AM 26-03-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chile vs Ecuador (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-CHI_ECU-Old.jpg",
+            "team_1": "Chile",
+            "team_2": "Ecuador",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Chile vs Ecuador",
+            "match_id": 121171,
+            "startTime": "05:30:00 AM 26-03-2025"
         }
     ]
 }
