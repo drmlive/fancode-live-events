@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:00:04 AM 26-03-2025",
+    "last update time": "02:10:10 AM 26-03-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Mt Irvine Surfers vs Pigeon Point Skiers (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120697_5010_MIS_PPS_fc-web.jpg",
-            "team_1": "Mt Irvine Surfers",
-            "team_2": "Pigeon Point Skiers",
-            "status": "LIVE",
-            "event_name": "Dream11 Bago T10 Blast, 3rd Edition, 2025",
-            "match_name": "Mt Irvine Surfers vs Pigeon Point Skiers",
-            "match_id": 120697,
-            "startTime": "12:00:00 AM 26-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/gIoiGtjyQG29ftYysU90LA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120697_english_hls_5232ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Keraniganj Challengers vs Ai Octopus Challengers (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
@@ -30,6 +16,34 @@
             "startTime": "01:00:00 AM 26-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/2tMema5qR-eGioZ76F2Mkw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120339_english_hls_5297ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cameroon vs Libya (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121755_3741_CMR_LIB_fc-web.jpg",
+            "team_1": "Cameroon",
+            "team_2": "Libya",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Cameroon vs Libya",
+            "match_id": 121755,
+            "startTime": "12:30:00 AM 26-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/yRaqBwhpTUqGF0BZ3jbx3g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121755_english_hls_2422ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Burundi vs Seychelles (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121756_3741_BRD_SEY_fc-web.jpg",
+            "team_1": "Burundi",
+            "team_2": "Seychelles",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Burundi vs Seychelles",
+            "match_id": 121756,
+            "startTime": "12:30:00 AM 26-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/7z_9F1fXTVinbhLb9q44OQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121756_english_hls_8813ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -72,34 +86,6 @@
             "startTime": "12:30:00 AM 26-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/UTPRsIfhQBGo9vGHTjubjg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121754_english_hls_7683ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Cameroon vs Libya (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121755_3741_CMR_LIB_fc-web.jpg",
-            "team_1": "Cameroon",
-            "team_2": "Libya",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Cameroon vs Libya",
-            "match_id": 121755,
-            "startTime": "12:30:00 AM 26-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/yRaqBwhpTUqGF0BZ3jbx3g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121755_english_hls_2422ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Burundi vs Seychelles (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121756_3741_BRD_SEY_fc-web.jpg",
-            "team_1": "Burundi",
-            "team_2": "Seychelles",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Burundi vs Seychelles",
-            "match_id": 121756,
-            "startTime": "12:30:00 AM 26-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/7z_9F1fXTVinbhLb9q44OQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121756_english_hls_8813ta-no/index.m3u8"
         },
         {
             "event_category": "Basketball",
@@ -153,14 +139,14 @@
         },
         {
             "event_category": "Football",
-            "title": "Algeria vs Mozambique (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121760_3741_ALG_MOZ_fc-web.jpg",
-            "team_1": "Algeria",
-            "team_2": "Mozambique",
+            "title": "Mauritania vs Congo DR (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121758_3741_MAU_CNG_fc-web.jpg",
+            "team_1": "Mauritania",
+            "team_2": "Congo DR",
             "status": "UPCOMING",
             "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Algeria vs Mozambique",
-            "match_id": 121760,
+            "match_name": "Mauritania vs Congo DR",
+            "match_id": 121758,
             "startTime": "02:30:00 AM 26-03-2025"
         }
     ]
