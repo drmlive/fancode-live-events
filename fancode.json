@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:25:26 AM 26-03-2025",
+    "last update time": "11:35:35 AM 26-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card.png",
             "team_1": "Pakistan",
             "team_2": "New Zealand",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Pakistan tour of New Zealand, 2025",
             "match_name": "Pakistan vs New Zealand",
             "match_id": 120198,
-            "startTime": "11:45:00 AM 26-03-2025"
+            "startTime": "11:45:00 AM 26-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/PAKVSNZ/master.m3u8?hdnea=exp=1743012332~acl=/*~id=50483611385033947791526719637024~hmac=bcc8bc1a9cd75eb6b304a21a528391cc452d6db4197751a52272db01e85ee5d1"
         },
         {
             "event_category": "Cricket",
@@ -42,6 +44,20 @@
             "startTime": "09:00:00 AM 26-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Yu2CDslVQO6VpacyMyAmtg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121438_english_hls_4819ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "UP Falcons vs Jaipur\u00a0Pink\u00a0Cubs (Yuva All Stars Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120837_5012_UPF_JPC_fc-Web.jpg",
+            "team_1": "UP Falcons",
+            "team_2": "Jaipur\u00a0Pink\u00a0Cubs",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "UP Falcons vs Jaipur\u00a0Pink\u00a0Cubs",
+            "match_id": 120837,
+            "startTime": "11:45:00 AM 26-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Fh-BGzV1Th6zqM6Q1vjCqQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120837_english_hls_5667ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +154,6 @@
             "match_name": "Coimbra Knights vs Lisbon Super Giants",
             "match_id": 121536,
             "startTime": "06:30:00 PM 26-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Werewolves CC vs Brothers XI Portugal (ECS Santarem Challenger)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",
-            "team_1": "Werewolves CC",
-            "team_2": "Brothers XI Portugal",
-            "status": "UPCOMING",
-            "event_name": "ECS Santarem Challenger",
-            "match_name": "Werewolves CC vs Brothers XI Portugal",
-            "match_id": 121537,
-            "startTime": "08:30:00 PM 26-03-2025"
         }
     ]
 }
