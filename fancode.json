@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:16:28 PM 26-03-2025",
+    "last update time": "01:26:32 PM 26-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Queensland vs South Australia (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",
-            "team_1": "Queensland",
-            "team_2": "South Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs South Australia",
-            "match_id": 110421,
-            "startTime": "05:35:00 AM 26-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HJsevRadSm2_Ke-e63EarA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/110421_english_hls_5270ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Kings Bay Royals vs Pigeon Point Skiers (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120698_5010_KBR_PPS_fc-web.jpg",
             "team_1": "Kings Bay Royals",
@@ -68,6 +54,18 @@
             "match_name": "Pirates Bay Raiders vs Mt Irvine Surfers",
             "match_id": 120699,
             "startTime": "12:00:00 AM 27-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs South Australia (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",
+            "team_1": "Queensland",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Queensland vs South Australia",
+            "match_id": 110421,
+            "startTime": "05:35:00 AM 26-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -131,18 +129,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Werewolves CC vs Brothers XI Portugal (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",
-            "team_1": "Werewolves CC",
-            "team_2": "Brothers XI Portugal",
-            "status": "UPCOMING",
-            "event_name": "ECS Santarem",
-            "match_name": "Werewolves CC vs Brothers XI Portugal",
-            "match_id": 121537,
-            "startTime": "08:30:00 PM 26-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Kalimpong Falcons vs Jhargram Firebolts (Kolkata NCC T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121440_5037_KF_JF_fc-Web.jpg",
             "team_1": "Kalimpong Falcons",
@@ -152,6 +138,18 @@
             "match_name": "Kalimpong Falcons vs Jhargram Firebolts",
             "match_id": 121440,
             "startTime": "09:00:00 AM 27-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Werewolves CC vs Brothers XI Portugal (ECS Santarem)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",
+            "team_1": "Werewolves CC",
+            "team_2": "Brothers XI Portugal",
+            "status": "UPCOMING",
+            "event_name": "ECS Santarem",
+            "match_name": "Werewolves CC vs Brothers XI Portugal",
+            "match_id": 121537,
+            "startTime": "08:30:00 PM 26-03-2025"
         }
     ]
 }
