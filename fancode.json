@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:08:04 PM 26-03-2025",
+    "last update time": "04:18:12 PM 26-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "01:00:00 PM 26-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/fkjh8thzTqi79PVsMtaTSw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121439_english_hls_5284ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Team Tigers Portugal vs Friendship CC (ECS Santarem)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",
+            "team_1": "Team Tigers Portugal",
+            "team_2": "Friendship CC",
+            "status": "LIVE",
+            "event_name": "ECS Santarem",
+            "match_name": "Team Tigers Portugal vs Friendship CC",
+            "match_id": 121535,
+            "startTime": "04:30:00 PM 26-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/z-p49tauQhCx9cxNsOjutA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121535_english_hls_4973ta-di/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -66,18 +80,6 @@
             "match_name": "Queensland vs South Australia",
             "match_id": 110421,
             "startTime": "05:35:00 AM 26-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Team Tigers Portugal vs Friendship CC (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",
-            "team_1": "Team Tigers Portugal",
-            "team_2": "Friendship CC",
-            "status": "UPCOMING",
-            "event_name": "ECS Santarem",
-            "match_name": "Team Tigers Portugal vs Friendship CC",
-            "match_id": 121535,
-            "startTime": "04:30:00 PM 26-03-2025"
         },
         {
             "event_category": "Cricket",
@@ -138,6 +140,18 @@
             "match_name": "Werewolves CC vs Brothers XI Portugal",
             "match_id": 121537,
             "startTime": "08:30:00 PM 26-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Friendship CC vs Lisbon Super Giants (ECS Santarem)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",
+            "team_1": "Friendship CC",
+            "team_2": "Lisbon Super Giants",
+            "status": "UPCOMING",
+            "event_name": "ECS Santarem",
+            "match_name": "Friendship CC vs Lisbon Super Giants",
+            "match_id": 121538,
+            "startTime": "10:30:00 PM 26-03-2025"
         }
     ]
 }
