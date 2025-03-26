@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:07:26 PM 26-03-2025",
+    "last update time": "03:17:35 PM 26-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "02:30:00 PM 26-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/hy2hwBs6TmSK4fsEsz4DUA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121534_english_hls_4859ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Classic Golf & Country Club (Delhi Challenge)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Challenge_old.png",
+            "team_1": "Day 1",
+            "team_2": "Classic Golf & Country Club",
+            "status": "LIVE",
+            "event_name": "Delhi Challenge",
+            "match_name": "Day 1",
+            "match_id": 121395,
+            "startTime": "03:25:00 PM 26-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/bovk-W8IQwaZgbmID5K-Rg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121395_english_hls_5248ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +152,6 @@
             "match_name": "Werewolves CC vs Brothers XI Portugal",
             "match_id": 121537,
             "startTime": "08:30:00 PM 26-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Friendship CC vs Lisbon Super Giants (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v1_1742473139101.jpg",
-            "team_1": "Friendship CC",
-            "team_2": "Lisbon Super Giants",
-            "status": "UPCOMING",
-            "event_name": "ECS Santarem",
-            "match_name": "Friendship CC vs Lisbon Super Giants",
-            "match_id": 121538,
-            "startTime": "10:30:00 PM 26-03-2025"
         }
     ]
 }
