@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:38:26 AM 28-03-2025",
+    "last update time": "02:48:34 AM 28-03-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Fakhr-E-Kashmir vs Tally DRFS (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120343_4995_TCC_FEK_fc-Web_1740894370931.jpg",
+            "team_1": "Fakhr-E-Kashmir",
+            "team_2": "Tally DRFS",
+            "status": "LIVE",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "Fakhr-E-Kashmir vs Tally DRFS",
+            "match_id": 120343,
+            "startTime": "03:00:00 AM 28-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-nRy-G4sSUCZbGWTmjU0zQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120343_english_hls_6160ta-di/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "Leyton Orient vs Stevenage (League One 2024-25)",
@@ -117,18 +131,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Fakhr-E-Kashmir vs Tally DRFS (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120343_4995_TCC_FEK_fc-Web_1740894370931.jpg",
-            "team_1": "Fakhr-E-Kashmir",
-            "team_2": "Tally DRFS",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "Fakhr-E-Kashmir vs Tally DRFS",
-            "match_id": 120343,
-            "startTime": "03:00:00 AM 28-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Mt Irvine Surfers vs Pigeon Point Skiers (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120702_5010_MIS_PPS_fc-web_1743068837788.jpg",
             "team_1": "Mt Irvine Surfers",
@@ -150,6 +152,18 @@
             "match_name": "Queensland vs South Australia",
             "match_id": 110421,
             "startTime": "05:35:00 AM 26-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Store Bay Snorkelers vs Kings Bay Royals (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120703_5010_SBS_KBR_fc-web_1743068837653.jpg",
+            "team_1": "Store Bay Snorkelers",
+            "team_2": "Kings Bay Royals",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Bago T10 Blast, 3rd Edition, 2025",
+            "match_name": "Store Bay Snorkelers vs Kings Bay Royals",
+            "match_id": 120703,
+            "startTime": "12:00:00 AM 29-03-2025"
         }
     ]
 }
