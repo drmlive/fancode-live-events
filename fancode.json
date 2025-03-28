@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:11:42 AM 29-03-2025",
+    "last update time": "01:21:54 AM 29-03-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -44,6 +44,20 @@
             "startTime": "01:00:00 AM 29-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Jj1VO4LeSuK4Ncp4ATTm9w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120345_english_hls_5725ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sheffield United vs Coventry City (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121664_4352_SHF_CVC_fc-web.jpg",
+            "team_1": "Sheffield United",
+            "team_2": "Coventry City",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Sheffield United vs Coventry City",
+            "match_id": 121664,
+            "startTime": "01:30:00 AM 29-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/6Lid2HVVSCOFjGmwDwVg-g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121664_english_hls_6209ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -130,6 +144,20 @@
             "adfree_url": "https://dai.fancode.com/primary/121595_english_hls_5372ta-di/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 2 - World Feed vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",
+            "team_1": "Day 2 - World Feed",
+            "team_2": "Memorial Park Golf Course - Houston, Texas",
+            "status": "LIVE",
+            "event_name": "Texas Children's Houston Open",
+            "match_name": "Day 2 - World Feed",
+            "match_id": 121913,
+            "startTime": "01:30:00 AM 29-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-IHKLIs0SCCTLhQ_1BDfKQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121913_english_hls_9071ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "New Zealand vs Pakistan (Pakistan tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card_1742914880209.png",
@@ -140,30 +168,6 @@
             "match_name": "New Zealand vs Pakistan",
             "match_id": 120199,
             "startTime": "03:30:00 AM 29-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield United vs Coventry City (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121664_4352_SHF_CVC_fc-web.jpg",
-            "team_1": "Sheffield United",
-            "team_2": "Coventry City",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Sheffield United vs Coventry City",
-            "match_id": 121664,
-            "startTime": "01:30:00 AM 29-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs South Australia (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",
-            "team_1": "Queensland",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs South Australia",
-            "match_id": 110421,
-            "startTime": "05:35:00 AM 26-03-2025"
         }
     ]
 }
