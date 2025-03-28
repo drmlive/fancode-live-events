@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:32:43 AM 29-03-2025",
+    "last update time": "02:42:52 AM 29-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -86,20 +86,6 @@
             "adfree_url": "https://dai.fancode.com/primary/121915_english_hls_5971ta-di/index.m3u8"
         },
         {
-            "event_category": "MotoGP",
-            "title": "USA GP - Day 1 vs Circuit  Of The Americas (RED BULL GRAND PRIX OF THE AMERICAS)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/America_GP_Old_match-card_2.jpg",
-            "team_1": "USA GP - Day 1",
-            "team_2": "Circuit  Of The Americas",
-            "status": "LIVE",
-            "event_name": "RED BULL GRAND PRIX OF THE AMERICAS",
-            "match_name": "USA GP - Day 1",
-            "match_id": 118513,
-            "startTime": "07:30:00 PM 28-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8xa7jWvPS26uLKkzOplQAw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118513_english_hls_5496ta-no/index.m3u8"
-        },
-        {
             "event_category": "Basketball",
             "title": "Crvena Zvezda mts Belgrade vs Real Madrid (EuroLeague 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/121595_CASACARDS_APP.png",
@@ -164,6 +150,18 @@
             "match_name": "Pigeon Point Skiers vs Store Bay Snorkelers",
             "match_id": 120704,
             "startTime": "09:30:00 PM 29-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs South Australia (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",
+            "team_1": "Queensland",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Queensland vs South Australia",
+            "match_id": 110421,
+            "startTime": "05:35:00 AM 26-03-2025"
         }
     ]
 }
