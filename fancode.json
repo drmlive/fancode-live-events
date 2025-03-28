@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:40:07 PM 28-03-2025",
+    "last update time": "10:50:18 PM 28-03-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -44,6 +44,20 @@
             "startTime": "08:15:00 PM 28-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/0yLwG2FqQ2GvldhHPTezVA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121427_english_hls_5628ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "YSSC vs SBS CC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120344_4995_YSS_SBS_fc-Web_1740894370694.jpg",
+            "team_1": "YSSC",
+            "team_2": "SBS CC",
+            "status": "LIVE",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "YSSC vs SBS CC",
+            "match_id": 120344,
+            "startTime": "11:00:00 PM 28-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/xuDkU5nUTkOdlnkB_y32XA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120344_english_hls_5475ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -116,6 +130,20 @@
             "adfree_url": "https://dai.fancode.com/primary/121915_english_hls_5971ta-di/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Anadolu Efes Istanbul vs Maccabi Tel Aviv (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/121594_CASACARDS_APP.png",
+            "team_1": "Anadolu Efes Istanbul",
+            "team_2": "Maccabi Tel Aviv",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Anadolu Efes Istanbul vs Maccabi Tel Aviv",
+            "match_id": 121594,
+            "startTime": "11:00:00 PM 28-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/oFWdjqHaT_ePBaj1ePyPpg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121594_english_hls_8865ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Store Bay Snorkelers vs Kings Bay Royals (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120703_5010_SBS_KBR_fc-web_1743068837653.jpg",
@@ -138,30 +166,6 @@
             "match_name": "New Zealand vs Pakistan",
             "match_id": 120199,
             "startTime": "03:30:00 AM 29-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "YSSC vs SBS CC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120344_4995_YSS_SBS_fc-Web_1740894370694.jpg",
-            "team_1": "YSSC",
-            "team_2": "SBS CC",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "YSSC vs SBS CC",
-            "match_id": 120344,
-            "startTime": "11:00:00 PM 28-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs South Australia (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",
-            "team_1": "Queensland",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs South Australia",
-            "match_id": 110421,
-            "startTime": "05:35:00 AM 26-03-2025"
         }
     ]
 }
