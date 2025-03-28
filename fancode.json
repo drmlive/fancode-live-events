@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:53:00 AM 29-03-2025",
+    "last update time": "03:03:06 AM 29-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card_1742914880209.png",
             "team_1": "New Zealand",
             "team_2": "Pakistan",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Pakistan tour of New Zealand, 2025",
             "match_name": "New Zealand vs Pakistan",
             "match_id": 120199,
-            "startTime": "03:30:00 AM 29-03-2025"
+            "startTime": "03:30:00 AM 29-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/PAKVSNZ/master.m3u8?hdnea=exp=1743240786~acl=/*~id=96878220163984878856002873604138~hmac=f32e64bb2c1c7508a824cbe852abd77b1d822e1f5280c7af23b3d373e479fd6e"
         },
         {
             "event_category": "Cricket",
@@ -100,20 +102,6 @@
             "adfree_url": "https://dai.fancode.com/primary/121915_english_hls_5971ta-di/index.m3u8"
         },
         {
-            "event_category": "Basketball",
-            "title": "Crvena Zvezda mts Belgrade vs Real Madrid (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/121595_CASACARDS_APP.png",
-            "team_1": "Crvena Zvezda mts Belgrade",
-            "team_2": "Real Madrid",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Crvena Zvezda mts Belgrade vs Real Madrid",
-            "match_id": 121595,
-            "startTime": "12:30:00 AM 29-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/tvPWm661TSuxvMCtabUQyA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121595_english_hls_5372ta-di/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 2 - World Feed vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",
@@ -164,6 +152,18 @@
             "match_name": "Queensland vs South Australia",
             "match_id": 110421,
             "startTime": "05:35:00 AM 26-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "No Mans Land Explorers vs Mt Irvine Surfers (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120705_5010_NML_MIS_fc-web_1743068837749.jpg",
+            "team_1": "No Mans Land Explorers",
+            "team_2": "Mt Irvine Surfers",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Bago T10 Blast, 3rd Edition, 2025",
+            "match_name": "No Mans Land Explorers vs Mt Irvine Surfers",
+            "match_id": 120705,
+            "startTime": "12:00:00 AM 30-03-2025"
         }
     ]
 }
