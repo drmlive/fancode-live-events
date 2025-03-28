@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:20:49 AM 28-03-2025",
+    "last update time": "07:30:58 AM 28-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "05:35:00 AM 26-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/23ARuqfmTJGlwrURU8dqIA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110421_english_hls_5955ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Oakland Athletics (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121839_5028_SEM_OA_fc-web.jpg",
+            "team_1": "Seattle Mariners",
+            "team_2": "Oakland Athletics",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Oakland Athletics",
+            "match_id": 121839,
+            "startTime": "07:40:00 AM 28-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/GXfsPMLAQwedd1iPwaEYVw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121839_english_hls_6669ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "MEC Study Group vs Super XI",
             "match_id": 120345,
             "startTime": "01:00:00 AM 29-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield United vs Coventry City (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121664_4352_SHF_CVC_fc-web.jpg",
-            "team_1": "Sheffield United",
-            "team_2": "Coventry City",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Sheffield United vs Coventry City",
-            "match_id": 121664,
-            "startTime": "01:30:00 AM 29-03-2025"
         }
     ]
 }
