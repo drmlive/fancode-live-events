@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:11:04 AM 29-03-2025",
+    "last update time": "12:21:13 AM 29-03-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -44,20 +44,6 @@
             "startTime": "11:00:00 PM 28-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/xuDkU5nUTkOdlnkB_y32XA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120344_english_hls_5475ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brothers XI Portugal vs Lisbon Super Giants (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",
-            "team_1": "Brothers XI Portugal",
-            "team_2": "Lisbon Super Giants",
-            "status": "LIVE",
-            "event_name": "ECS Santarem",
-            "match_name": "Brothers XI Portugal vs Lisbon Super Giants",
-            "match_id": 121547,
-            "startTime": "10:45:00 PM 28-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/R8yIOX3iRfG3yi7dr4NKPg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121547_english_hls_5323ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -130,6 +116,34 @@
             "adfree_url": "https://dai.fancode.com/primary/121594_english_hls_8865ta-no/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Crvena Zvezda mts Belgrade vs Real Madrid (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/121595_CASACARDS_APP.png",
+            "team_1": "Crvena Zvezda mts Belgrade",
+            "team_2": "Real Madrid",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Crvena Zvezda mts Belgrade vs Real Madrid",
+            "match_id": 121595,
+            "startTime": "12:30:00 AM 29-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/tvPWm661TSuxvMCtabUQyA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121595_english_hls_5372ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Brothers XI Portugal vs Lisbon Super Giants (ECS Santarem)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/European-Cricket-League_old_v2_1742473139138.jpg",
+            "team_1": "Brothers XI Portugal",
+            "team_2": "Lisbon Super Giants",
+            "status": "LIVE",
+            "event_name": "ECS Santarem",
+            "match_name": "Brothers XI Portugal vs Lisbon Super Giants",
+            "match_id": 121547,
+            "startTime": "10:45:00 PM 28-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/R8yIOX3iRfG3yi7dr4NKPg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121547_english_hls_5323ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "New Zealand vs Pakistan (Pakistan tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card_1742914880209.png",
@@ -152,18 +166,6 @@
             "match_name": "MEC Study Group vs Super XI",
             "match_id": 120345,
             "startTime": "01:00:00 AM 29-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs South Australia (Sheffield Shield, 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",
-            "team_1": "Queensland",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2024-25",
-            "match_name": "Queensland vs South Australia",
-            "match_id": 110421,
-            "startTime": "05:35:00 AM 26-03-2025"
         }
     ]
 }
