@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:28 PM 28-03-2025",
+    "last update time": "11:20:34 PM 28-03-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -30,20 +30,6 @@
             "startTime": "09:30:00 PM 28-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/rWyXZLppQymmWjGLmMynvA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120702_english_hls_6075ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "The Blaze vs Surrey Women (Abu Dhabi Women's T20 Counties Super Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121427_5036_TBZ_SUR-W_fc-web.jpg",
-            "team_1": "The Blaze",
-            "team_2": "Surrey Women",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi Women's T20 Counties Super Cup, 2025",
-            "match_name": "The Blaze vs Surrey Women",
-            "match_id": 121427,
-            "startTime": "08:15:00 PM 28-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/0yLwG2FqQ2GvldhHPTezVA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121427_english_hls_5628ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -166,6 +152,18 @@
             "match_name": "New Zealand vs Pakistan",
             "match_id": 120199,
             "startTime": "03:30:00 AM 29-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs South Australia (Sheffield Shield, 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-Shield-2024-25-old-final.png",
+            "team_1": "Queensland",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2024-25",
+            "match_name": "Queensland vs South Australia",
+            "match_id": 110421,
+            "startTime": "05:35:00 AM 26-03-2025"
         }
     ]
 }
