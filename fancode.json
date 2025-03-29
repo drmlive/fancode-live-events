@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:44:57 AM 29-03-2025",
+    "last update time": "06:55:05 AM 29-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "05:35:00 AM 26-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/p7SWComGQjWEqN681Bg_gA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/110421_english_hls_5840ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Diego Padres vs Atlanta Braves (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121841_5028_SDP_AB_fc-web.jpg",
+            "team_1": "San Diego Padres",
+            "team_2": "Atlanta Braves",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Diego Padres vs Atlanta Braves",
+            "match_id": 121841,
+            "startTime": "07:10:00 AM 29-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/0Kc0f_WMS7iIs2Y1cTs3XA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121841_english_hls_5680ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +152,6 @@
             "match_name": "Burnley vs Bristol City",
             "match_id": 121663,
             "startTime": "08:30:00 PM 29-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ai Octopus Challengers vs Winning FKP (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120347_4995_AIOC_WFK_fc-Web_1740894371058.jpg",
-            "team_1": "Ai Octopus Challengers",
-            "team_2": "Winning FKP",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "Ai Octopus Challengers vs Winning FKP",
-            "match_id": 120347,
-            "startTime": "11:00:00 PM 29-03-2025"
         }
     ]
 }
