@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:56:45 AM 30-03-2025",
+    "last update time": "02:06:50 AM 30-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "01:00:00 AM 30-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kOxBU6B0Twqpp_gnGgRx9Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120348_english_hls_4848ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 - Marquee Group vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",
+            "team_1": "Day 3 - Marquee Group",
+            "team_2": "Memorial Park Golf Course - Houston, Texas",
+            "status": "LIVE",
+            "event_name": "Texas Children's Houston Open",
+            "match_name": "Day 3 - Marquee Group",
+            "match_id": 121920,
+            "startTime": "06:00:00 PM 29-03-2025",
+            "dai_url": "https://mls3.fancode.com/b6f588bf-2a06-45ae-a7d4-21c12e6ddf10/master.m3u8",
+            "adfree_url": "https://mls3.fancode.com/b6f588bf-2a06-45ae-a7d4-21c12e6ddf10/master.m3u8"
         },
         {
             "event_category": "Golf",
@@ -72,20 +86,6 @@
             "startTime": "06:00:00 PM 29-03-2025",
             "dai_url": "https://mls3.fancode.com/46dcfe5b-039f-44ba-ae22-64fdd7bb1579/master.m3u8",
             "adfree_url": "https://mls3.fancode.com/46dcfe5b-039f-44ba-ae22-64fdd7bb1579/master.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3 - Marquee Group vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",
-            "team_1": "Day 3 - Marquee Group",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "LIVE",
-            "event_name": "Texas Children's Houston Open",
-            "match_name": "Day 3 - Marquee Group",
-            "match_id": 121920,
-            "startTime": "06:00:00 PM 29-03-2025",
-            "dai_url": "https://mls3.fancode.com/b6f588bf-2a06-45ae-a7d4-21c12e6ddf10/master.m3u8",
-            "adfree_url": "https://mls3.fancode.com/b6f588bf-2a06-45ae-a7d4-21c12e6ddf10/master.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -145,18 +145,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Kings Bay Royals vs No Mans Land Explorers (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120706_5010_KBR_NML_fc-web_1742474744928.jpg",
-            "team_1": "Kings Bay Royals",
-            "team_2": "No Mans Land Explorers",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Bago T10 Blast, 3rd Edition, 2025",
-            "match_name": "Kings Bay Royals vs No Mans Land Explorers",
-            "match_id": 120706,
-            "startTime": "09:30:00 PM 30-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Tally DRFS vs Thunder Cats (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120349_4995_TCC_THN_fc-Web_1740894370928.jpg",
             "team_1": "Tally DRFS",
@@ -166,6 +154,18 @@
             "match_name": "Tally DRFS vs Thunder Cats",
             "match_id": 120349,
             "startTime": "03:00:00 AM 30-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kings Bay Royals vs No Mans Land Explorers (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120706_5010_KBR_NML_fc-web_1742474744928.jpg",
+            "team_1": "Kings Bay Royals",
+            "team_2": "No Mans Land Explorers",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Bago T10 Blast, 3rd Edition, 2025",
+            "match_name": "Kings Bay Royals vs No Mans Land Explorers",
+            "match_id": 120706,
+            "startTime": "09:30:00 PM 30-03-2025"
         }
     ]
 }
