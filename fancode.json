@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:10:42 PM 29-03-2025",
+    "last update time": "04:20:53 PM 29-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,20 +32,6 @@
             "adfree_url": "https://dai.fancode.com/primary/121429_english_hls_8871ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Adelaide United (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111029_4567_MLV_ADL_fc-web_1728983130086.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Adelaide United",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Melbourne Victory vs Adelaide United",
-            "match_id": 111029,
-            "startTime": "02:05:00 PM 29-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/xnqmTCIjT0aEVjp0F1juRQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111029_english_hls_5121ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gorkha XI vs Punjab CC Amadora (ECS Santarem)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v1.jpg",
@@ -58,6 +44,20 @@
             "startTime": "02:30:00 PM 29-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/mWBlYFZ9SpaItdCLs9aq3w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121801_english_hls_5592ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Oeiras vs Malo (ECS Santarem)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v2.jpg",
+            "team_1": "Oeiras",
+            "team_2": "Malo",
+            "status": "LIVE",
+            "event_name": "ECS Santarem",
+            "match_name": "Oeiras vs Malo",
+            "match_id": 121802,
+            "startTime": "04:30:00 PM 29-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/doljCyBxSgimgNP_p-4mDg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121802_english_hls_4964ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -113,18 +113,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Oeiras vs Malo (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v2.jpg",
-            "team_1": "Oeiras",
-            "team_2": "Malo",
-            "status": "UPCOMING",
-            "event_name": "ECS Santarem",
-            "match_name": "Oeiras vs Malo",
-            "match_id": 121802,
-            "startTime": "04:30:00 PM 29-03-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Yorkshire Women vs ECB Women (Abu Dhabi Women's T20 Counties Super Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121430_5036_YKW_ECB-W_fc-web.jpg",
             "team_1": "Yorkshire Women",
@@ -158,6 +146,18 @@
             "match_name": "Watford vs Plymouth Argyle",
             "match_id": 121665,
             "startTime": "06:00:00 PM 29-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "CECC vs Super XI (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120348_4995_CEC-A_SXI_fc-Web_1740894371008.jpg",
+            "team_1": "CECC",
+            "team_2": "Super XI",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "CECC vs Super XI",
+            "match_id": 120348,
+            "startTime": "01:00:00 AM 30-03-2025"
         }
     ]
 }
