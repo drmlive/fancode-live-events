@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:06:50 AM 30-03-2025",
+    "last update time": "02:16:54 AM 30-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,20 +88,6 @@
             "adfree_url": "https://mls3.fancode.com/46dcfe5b-039f-44ba-ae22-64fdd7bb1579/master.m3u8"
         },
         {
-            "event_category": "MotoGP",
-            "title": "USA GP - Day 2 vs Circuit  Of The Americas (RED BULL GRAND PRIX OF THE AMERICAS)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/America_GP_Old_match-card_2.jpg",
-            "team_1": "USA GP - Day 2",
-            "team_2": "Circuit  Of The Americas",
-            "status": "LIVE",
-            "event_name": "RED BULL GRAND PRIX OF THE AMERICAS",
-            "match_name": "USA GP - Day 2",
-            "match_id": 118515,
-            "startTime": "07:10:00 PM 29-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/3YUIQoMtSzK5btddj_5QwA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118515_english_hls_4979ta-no/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 3 - World Feed vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-old.png",
@@ -114,20 +100,6 @@
             "startTime": "10:30:00 PM 29-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ENkmemyfSx6CuYvjHxvV9Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121918_english_hls_7996ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Chicago White Sox vs Los Angeles Angels (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121842_5028_CWS_LAA_fc-web.jpg",
-            "team_1": "Chicago White Sox",
-            "team_2": "Los Angeles Angels",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Chicago White Sox vs Los Angeles Angels",
-            "match_id": 121842,
-            "startTime": "11:40:00 PM 29-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qrRK3q-gQ7S2yyYlmlM8yg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121842_english_hls_5289ta-no/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -166,6 +138,18 @@
             "match_name": "Kings Bay Royals vs No Mans Land Explorers",
             "match_id": 120706,
             "startTime": "09:30:00 PM 30-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Darjeeling Unstoppables vs Jhargram Firebolts (Kolkata NCC T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121446_5037_DU_JF_fc-Web.jpg",
+            "team_1": "Darjeeling Unstoppables",
+            "team_2": "Jhargram Firebolts",
+            "status": "UPCOMING",
+            "event_name": "Kolkata NCC T20",
+            "match_name": "Darjeeling Unstoppables vs Jhargram Firebolts",
+            "match_id": 121446,
+            "startTime": "09:00:00 AM 30-03-2025"
         }
     ]
 }
