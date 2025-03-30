@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:18:54 AM 30-03-2025",
+    "last update time": "06:29:05 AM 30-03-2025",
     "matches": [
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Detroit Tigers (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121844_5028_LAD_DET_fc-web.jpg",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Detroit Tigers",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Detroit Tigers",
+            "match_id": 121844,
+            "startTime": "06:40:00 AM 30-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/dJn_msCRQ-eNdhS9ubksPA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121844_english_hls_5057ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Kings Bay Royals vs No Mans Land Explorers (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
@@ -134,18 +148,6 @@
             "match_name": "Central Coast Mariners vs Perth Glory",
             "match_id": 111030,
             "startTime": "09:30:00 AM 30-03-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Brisbane Roar vs Auckland (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111031_4567_BRB_AFC_fc-web_1728983129503.jpg",
-            "team_1": "Brisbane Roar",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "A League 2024-25",
-            "match_name": "Brisbane Roar vs Auckland",
-            "match_id": 111031,
-            "startTime": "11:30:00 AM 30-03-2025"
         }
     ]
 }
