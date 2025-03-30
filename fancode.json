@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:01:07 PM 30-03-2025",
+    "last update time": "08:11:12 PM 30-03-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -33,6 +33,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Yorkshire Women vs The Blaze (Abu Dhabi Women's T20 Counties Super Cup, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/121433_CASACARDS_APP.png",
+            "team_1": "Yorkshire Women",
+            "team_2": "The Blaze",
+            "status": "LIVE",
+            "event_name": "Abu Dhabi Women's T20 Counties Super Cup, 2025",
+            "match_name": "Yorkshire Women vs The Blaze",
+            "match_id": 121433,
+            "startTime": "08:15:00 PM 30-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Zi_ybe09RFOw7Hr_e4iacw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121433_english_hls_4891ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Gorkha XI vs Malo (ECS Santarem)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v2.jpg",
             "team_1": "Gorkha XI",
@@ -44,20 +58,6 @@
             "startTime": "06:30:00 PM 30-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/3ZsGPqVPQEyeIxSSrr-Lxg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121808_english_hls_4128ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Dehradun Dynamos vs Haridwar Hunters (Uttarakhand Kabaddi Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122125_5054_DDS_HH_fc-Web.jpg",
-            "team_1": "Dehradun Dynamos",
-            "team_2": "Haridwar Hunters",
-            "status": "LIVE",
-            "event_name": "Uttarakhand Kabaddi Championship",
-            "match_name": "Dehradun Dynamos vs Haridwar Hunters",
-            "match_id": 122125,
-            "startTime": "07:00:00 PM 30-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/kk3Jt0b2SSW4OqlfsUXjhA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122125_english_hls_8378ta-no/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -113,20 +113,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Yorkshire Women vs The Blaze (Abu Dhabi Women's T20 Counties Super Cup, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/121433_CASACARDS_APP.png",
-            "team_1": "Yorkshire Women",
-            "team_2": "The Blaze",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi Women's T20 Counties Super Cup, 2025",
-            "match_name": "Yorkshire Women vs The Blaze",
-            "match_id": 121433,
-            "startTime": "08:15:00 PM 30-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Zi_ybe09RFOw7Hr_e4iacw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121433_english_hls_4891ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Gamblers SC vs Lisbon Capitals (ECS Santarem)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v3.jpg",
             "team_1": "Gamblers SC",
@@ -160,6 +146,18 @@
             "match_name": "Al Hajery XI vs GAT",
             "match_id": 120351,
             "startTime": "01:00:00 AM 31-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Purba Medinipur Dragons vs Combined Avengers (Kolkata NCC T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121448_5037_PMD_CA_fc-Web.jpg",
+            "team_1": "Purba Medinipur Dragons",
+            "team_2": "Combined Avengers",
+            "status": "UPCOMING",
+            "event_name": "Kolkata NCC T20",
+            "match_name": "Purba Medinipur Dragons vs Combined Avengers",
+            "match_id": 121448,
+            "startTime": "09:00:00 AM 31-03-2025"
         }
     ]
 }
