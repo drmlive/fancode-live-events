@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:02:29 AM 31-03-2025",
+    "last update time": "02:12:34 AM 31-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -103,20 +103,6 @@
         },
         {
             "event_category": "Baseball",
-            "title": "Washington Nationals vs Philadelphia Phillies (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/122248_CASACARDS_APP.png",
-            "team_1": "Washington Nationals",
-            "team_2": "Philadelphia Phillies",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Washington Nationals vs Philadelphia Phillies",
-            "match_id": 122248,
-            "startTime": "11:05:00 PM 30-03-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/SBqKuIiQSp2RtNI0k8m_HA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122248_english_hls_6045ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
             "title": "Arizona Diamondbacks vs Chicago Cubs (Major League Baseball, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121845_5028_AD_CHC_fc-web.jpg",
             "team_1": "Arizona Diamondbacks",
@@ -164,6 +150,18 @@
             "match_name": "Purba Medinipur Dragons vs Combined Avengers",
             "match_id": 121448,
             "startTime": "09:00:00 AM 31-03-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Alipurduar Thunders vs Darjeeling Unstoppables (Kolkata NCC T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121449_5037_AT_DU_fc-Web.jpg",
+            "team_1": "Alipurduar Thunders",
+            "team_2": "Darjeeling Unstoppables",
+            "status": "UPCOMING",
+            "event_name": "Kolkata NCC T20",
+            "match_name": "Alipurduar Thunders vs Darjeeling Unstoppables",
+            "match_id": 121449,
+            "startTime": "01:00:00 PM 31-03-2025"
         }
     ]
 }
