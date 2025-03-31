@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:26:57 AM 31-03-2025",
+    "last update time": "11:37:04 AM 31-03-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "09:00:00 AM 31-03-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/gEGvoTItR42K1aNfIU4DpA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121448_english_hls_5387ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Palani Tuskers vs Chandigarh Chargers (Yuva All Stars Championship)",
+            "src": "https://images.fancode.com/aig/match/v1/122445_CASACARDS_APP.png",
+            "team_1": "Palani Tuskers",
+            "team_2": "Chandigarh Chargers",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Palani Tuskers vs Chandigarh Chargers",
+            "match_id": 122445,
+            "startTime": "11:45:00 AM 31-03-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/SEh9XAO6Sl2gTDRxakZjJg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122445_english_hls_4619ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Badri Kedar Bulls vs Dehradun Dynamos",
             "match_id": 122128,
             "startTime": "08:00:00 PM 31-03-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Gorkha XI vs Oeiras (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v2.jpg",
-            "team_1": "Gorkha XI",
-            "team_2": "Oeiras",
-            "status": "UPCOMING",
-            "event_name": "ECS Santarem",
-            "match_name": "Gorkha XI vs Oeiras",
-            "match_id": 121814,
-            "startTime": "08:30:00 PM 31-03-2025"
         }
     ]
 }
