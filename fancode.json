@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:29:42 AM 01-04-2025",
+    "last update time": "11:39:52 AM 01-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "09:00:00 AM 01-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_R1hi_5JRc2I_r1RH_zXEg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121450_english_hls_5946ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Palani Tuskers vs Sonipat Spartans (Yuva All Stars Championship)",
+            "src": "https://images.fancode.com/aig/match/v1/122449_CASACARDS_APP.png",
+            "team_1": "Palani Tuskers",
+            "team_2": "Sonipat Spartans",
+            "status": "LIVE",
+            "event_name": "Yuva All Stars Championship",
+            "match_name": "Palani Tuskers vs Sonipat Spartans",
+            "match_id": 122449,
+            "startTime": "11:45:00 AM 01-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/aVNEsrtZRBKRCzzRFWC0aw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122449_english_hls_5494ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Punjab CC Amadora vs Gorkha XI",
             "match_id": 121816,
             "startTime": "02:30:00 PM 01-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malo vs Oeiras (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v2.jpg",
-            "team_1": "Malo",
-            "team_2": "Oeiras",
-            "status": "UPCOMING",
-            "event_name": "ECS Santarem",
-            "match_name": "Malo vs Oeiras",
-            "match_id": 121817,
-            "startTime": "04:30:00 PM 01-04-2025"
         }
     ]
 }
