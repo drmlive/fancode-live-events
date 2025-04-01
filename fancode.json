@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:37:18 AM 02-04-2025",
+    "last update time": "12:47:25 AM 02-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-VS-Real-Sociedad_old.jpg",
             "team_1": "Real Madrid",
             "team_2": "Real Sociedad",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Copa del Rey 2024-25",
             "match_name": "Real Madrid vs Real Sociedad",
             "match_id": 119316,
-            "startTime": "01:00:00 AM 02-04-2025"
+            "startTime": "01:00:00 AM 02-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/aFcXip5sQi-lpqlvkTvykA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119316_english_hls_5532ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -58,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/122136_english_hls_5502ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Stack CC vs Al Mulla Exchange (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/120363_4996_STAX_AEC_fc-web.jpg",
+            "team_1": "Stack CC",
+            "team_2": "Al Mulla Exchange",
+            "status": "LIVE",
+            "event_name": "KCC T10 Riaz Choudhry Ramadan Trophy, 2025",
+            "match_name": "Stack CC vs Al Mulla Exchange",
+            "match_id": 120378,
+            "startTime": "01:00:00 AM 02-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/120378_english_hls_9162adfreeta-no/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120378_english_hls_9162adfreeta-no/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Bristol Rovers vs Birmingham City (League One 2024-25)",
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png",
@@ -82,18 +98,6 @@
             "match_name": "New Zealand vs Pakistan",
             "match_id": 120200,
             "startTime": "03:30:00 AM 02-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Stack CC vs Al Mulla Exchange (KCC T10 Riaz Choudhry Ramadan Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120363_4996_STAX_AEC_fc-web.jpg",
-            "team_1": "Stack CC",
-            "team_2": "Al Mulla Exchange",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Riaz Choudhry Ramadan Trophy, 2025",
-            "match_name": "Stack CC vs Al Mulla Exchange",
-            "match_id": 120378,
-            "startTime": "01:00:00 AM 02-04-2025"
         },
         {
             "event_category": "Cricket",
