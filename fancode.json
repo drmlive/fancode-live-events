@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:09:05 AM 01-04-2025",
+    "last update time": "10:19:10 AM 01-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "09:00:00 AM 01-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_R1hi_5JRc2I_r1RH_zXEg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121450_english_hls_5946ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs Atlanta Braves (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121848_5028_LAD_AB_fc-web.jpg",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "Atlanta Braves",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs Atlanta Braves",
-            "match_id": 121848,
-            "startTime": "07:40:00 AM 01-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/RYEoYX0eQKqKOgn-Z8FdEQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121848_english_hls_5093ta-di/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -152,6 +138,18 @@
             "match_name": "GAT vs Tally DRFS",
             "match_id": 120354,
             "startTime": "03:00:00 AM 02-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Punjab CC Amadora vs Gorkha XI (ECS Santarem)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v1.jpg",
+            "team_1": "Punjab CC Amadora",
+            "team_2": "Gorkha XI",
+            "status": "UPCOMING",
+            "event_name": "ECS Santarem",
+            "match_name": "Punjab CC Amadora vs Gorkha XI",
+            "match_id": 121816,
+            "startTime": "02:30:00 PM 01-04-2025"
         }
     ]
 }
