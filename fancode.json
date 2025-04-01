@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:38:24 AM 02-04-2025",
+    "last update time": "02:48:32 AM 02-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -32,18 +32,18 @@
             "adfree_url": "https://dai.fancode.com/primary/120378_english_hls_9162adfreeta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Arminia Bielefeld vs Bayer 04 Leverkusen (DFB Pokal)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arminia-Bielefeld-vs-Bayer-04-Leverkusen-old.jpg",
-            "team_1": "Arminia Bielefeld",
-            "team_2": "Bayer 04 Leverkusen",
+            "event_category": "Cricket",
+            "title": "GAT vs Tally DRFS (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/120354_CASACARDS_APP.png",
+            "team_1": "GAT",
+            "team_2": "Tally DRFS",
             "status": "LIVE",
-            "event_name": "DFB Pokal",
-            "match_name": "Arminia Bielefeld vs Bayer 04 Leverkusen",
-            "match_id": 122136,
-            "startTime": "12:15:00 AM 02-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Q8C3TZzqSrO6125ucZlrkw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122136_english_hls_5502ta-no/index.m3u8"
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "GAT vs Tally DRFS",
+            "match_id": 120354,
+            "startTime": "03:00:00 AM 02-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ay9N8imxRNq49meqgVReWA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/120354_english_hls_6112ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -56,18 +56,6 @@
             "match_name": "New Zealand vs Pakistan",
             "match_id": 120200,
             "startTime": "03:30:00 AM 02-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "GAT vs Tally DRFS (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/120354_CASACARDS_APP.png",
-            "team_1": "GAT",
-            "team_2": "Tally DRFS",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "GAT vs Tally DRFS",
-            "match_id": 120354,
-            "startTime": "03:00:00 AM 02-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -140,6 +128,18 @@
             "match_name": "Darjeeling Unstoppables vs Kalimpong Falcons",
             "match_id": 121453,
             "startTime": "01:00:00 PM 02-04-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Haridwar Hunters vs Badri Kedar Bulls (Uttarakhand Kabaddi Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+            "team_1": "Haridwar Hunters",
+            "team_2": "Badri Kedar Bulls",
+            "status": "UPCOMING",
+            "event_name": "Uttarakhand Kabaddi Championship",
+            "match_name": "Haridwar Hunters vs Badri Kedar Bulls",
+            "match_id": 122131,
+            "startTime": "10:15:00 AM 02-04-2025"
         }
     ]
 }
