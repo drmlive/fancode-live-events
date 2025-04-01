@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:49:03 AM 02-04-2025",
+    "last update time": "03:59:14 AM 02-04-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Real Madrid vs Real Sociedad (Copa del Rey 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-VS-Real-Sociedad_old.jpg",
-            "team_1": "Real Madrid",
-            "team_2": "Real Sociedad",
-            "status": "LIVE",
-            "event_name": "Copa del Rey 2024-25",
-            "match_name": "Real Madrid vs Real Sociedad",
-            "match_id": 119316,
-            "startTime": "01:00:00 AM 02-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/aFcXip5sQi-lpqlvkTvykA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119316_english_hls_5532ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "New Zealand vs Pakistan (Pakistan tour of New Zealand, 2025)",
@@ -44,6 +30,20 @@
             "startTime": "03:00:00 AM 02-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ay9N8imxRNq49meqgVReWA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120354_english_hls_6112ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Miami Marlins vs New York Mets (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121849_5028_MM_NYM_fc-web.jpg",
+            "team_1": "Miami Marlins",
+            "team_2": "New York Mets",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Miami Marlins vs New York Mets",
+            "match_id": 121849,
+            "startTime": "04:10:00 AM 02-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/33JcbXckSt2xLl-7Ti7L1A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121849_english_hls_5441ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -94,6 +94,18 @@
             "startTime": "06:45:00 AM 02-04-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Darjeeling Unstoppables vs Kalimpong Falcons (Kolkata NCC T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121453_5037_DU_KF_fc-Web.jpg",
+            "team_1": "Darjeeling Unstoppables",
+            "team_2": "Kalimpong Falcons",
+            "status": "UPCOMING",
+            "event_name": "Kolkata NCC T20",
+            "match_name": "Darjeeling Unstoppables vs Kalimpong Falcons",
+            "match_id": 121453,
+            "startTime": "01:00:00 PM 02-04-2025"
+        },
+        {
             "event_category": "Football",
             "title": "LA Galaxy vs Tigres (Concacaf Champions Cup 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/LA-Galaxy-vs-Tigres_1743137732631.jpg",
@@ -107,18 +119,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Darjeeling Unstoppables vs Kalimpong Falcons (Kolkata NCC T20)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121453_5037_DU_KF_fc-Web.jpg",
-            "team_1": "Darjeeling Unstoppables",
-            "team_2": "Kalimpong Falcons",
-            "status": "UPCOMING",
-            "event_name": "Kolkata NCC T20",
-            "match_name": "Darjeeling Unstoppables vs Kalimpong Falcons",
-            "match_id": 121453,
-            "startTime": "01:00:00 PM 02-04-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Winning FKP vs SBS CC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/120357_CASACARDS_APP.png",
             "team_1": "Winning FKP",
@@ -128,18 +128,6 @@
             "match_name": "Winning FKP vs SBS CC",
             "match_id": 120357,
             "startTime": "11:00:00 PM 02-04-2025"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Haridwar Hunters vs Badri Kedar Bulls (Uttarakhand Kabaddi Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-            "team_1": "Haridwar Hunters",
-            "team_2": "Badri Kedar Bulls",
-            "status": "UPCOMING",
-            "event_name": "Uttarakhand Kabaddi Championship",
-            "match_name": "Haridwar Hunters vs Badri Kedar Bulls",
-            "match_id": 122131,
-            "startTime": "10:15:00 AM 02-04-2025"
         }
     ]
 }
