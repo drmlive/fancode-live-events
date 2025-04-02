@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:30:27 PM 02-04-2025",
+    "last update time": "04:40:32 PM 02-04-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Tokyo Verdy vs FC Tokyo (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121929_4795_VER_TKY_fc-web_1743589592991.jpg",
+            "team_1": "Tokyo Verdy",
+            "team_2": "FC Tokyo",
+            "status": "LIVE",
+            "event_name": "J League 2025",
+            "match_name": "Tokyo Verdy vs FC Tokyo",
+            "match_id": 121929,
+            "startTime": "03:30:00 PM 02-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LTn-LCKfRwSQcidl2iqHyA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121929_english_hls_2390ta-di/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "Nagoya Grampus vs Yokohama F. Marinos (J League 2025)",
@@ -30,20 +44,6 @@
             "startTime": "03:30:00 PM 02-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/BsFFiZqhQu6wzhdmHIgJ6Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121931_english_hls_5542ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tokyo Verdy vs FC Tokyo (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121929_4795_VER_TKY_fc-web_1743589592991.jpg",
-            "team_1": "Tokyo Verdy",
-            "team_2": "FC Tokyo",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Tokyo Verdy vs FC Tokyo",
-            "match_id": 121929,
-            "startTime": "03:30:00 PM 02-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LTn-LCKfRwSQcidl2iqHyA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121929_english_hls_2390ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -146,18 +146,6 @@
             "match_name": "Keraniganj Challengers vs CECC",
             "match_id": 120356,
             "startTime": "03:00:00 AM 03-04-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "VfB Stuttgart vs RB Leipzig (DFB Pokal)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/VfB-Stuttgart-vs-RB-Leipzig-old.jpg",
-            "team_1": "VfB Stuttgart",
-            "team_2": "RB Leipzig",
-            "status": "UPCOMING",
-            "event_name": "DFB Pokal",
-            "match_name": "VfB Stuttgart vs RB Leipzig",
-            "match_id": 122135,
-            "startTime": "12:15:00 AM 03-04-2025"
         }
     ]
 }
