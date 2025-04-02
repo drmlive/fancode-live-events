@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:23:06 AM 02-04-2025",
+    "last update time": "11:33:11 AM 02-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand vs Pakistan (Pakistan tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card_1742914880209.png",
-            "team_1": "New Zealand",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "Pakistan tour of New Zealand, 2025",
-            "match_name": "New Zealand vs Pakistan",
-            "match_id": 120200,
-            "startTime": "03:30:00 AM 02-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/PAKVSNZ/master.m3u8?hdnea=exp=1743615781~acl=/*~id=53806519846218861071403090512655~hmac=f96712ee30b317bcf4f7af2e41ce38a7d809e1922d7859a084e2a6f2eb4a1544"
-        },
         {
             "event_category": "Cricket",
             "title": "Purba Medinipur Dragons vs Alipurduar Thunders (Kolkata NCC T20)",
@@ -32,18 +18,18 @@
             "adfree_url": "https://dai.fancode.com/primary/121452_english_hls_5174ta-no/index.m3u8"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Haridwar Hunters vs Badri Kedar Bulls (Uttarakhand Kabaddi Championship)",
-            "src": "https://images.fancode.com/aig/match/v1/122131_CASACARDS_APP.png",
-            "team_1": "Haridwar Hunters",
-            "team_2": "Badri Kedar Bulls",
+            "event_category": "Cricket",
+            "title": "New Zealand vs Pakistan (Pakistan tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-New-Zealand-old-match-card_1742914880209.png",
+            "team_1": "New Zealand",
+            "team_2": "Pakistan",
             "status": "LIVE",
-            "event_name": "Uttarakhand Kabaddi Championship",
-            "match_name": "Haridwar Hunters vs Badri Kedar Bulls",
-            "match_id": 122131,
-            "startTime": "10:15:00 AM 02-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/m1_MgrVeTYGB_WsNvEr8SA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122131_english_hls_5002ta-di/index.m3u8"
+            "event_name": "Pakistan tour of New Zealand, 2025",
+            "match_name": "New Zealand vs Pakistan",
+            "match_id": 120200,
+            "startTime": "03:30:00 AM 02-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/PAKVSNZ/master.m3u8?hdnea=exp=1743615781~acl=/*~id=53806519846218861071403090512655~hmac=f96712ee30b317bcf4f7af2e41ce38a7d809e1922d7859a084e2a6f2eb4a1544"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Gorkha XI vs Gamblers SC",
             "match_id": 121821,
             "startTime": "02:30:00 PM 02-04-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cerezo Osaka vs Fagiano Okayama (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Cerezo Osaka",
+            "team_2": "Fagiano Okayama",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Cerezo Osaka vs Fagiano Okayama",
+            "match_id": 121931,
+            "startTime": "03:30:00 PM 02-04-2025"
         }
     ]
 }
