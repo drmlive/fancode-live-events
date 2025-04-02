@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:55:05 AM 03-04-2025",
+    "last update time": "01:05:11 AM 03-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -32,20 +32,6 @@
             "adfree_url": "https://dai.fancode.com/primary/120713_english_hls_5113ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "VfB Stuttgart vs RB Leipzig (DFB Pokal)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/VfB-Stuttgart-vs-RB-Leipzig-old.jpg",
-            "team_1": "VfB Stuttgart",
-            "team_2": "RB Leipzig",
-            "status": "LIVE",
-            "event_name": "DFB Pokal",
-            "match_name": "VfB Stuttgart vs RB Leipzig",
-            "match_id": 122135,
-            "startTime": "12:15:00 AM 03-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/CZ4xAx1YSTGfci4t5c7t3g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122135_english_hls_5429ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Ai Octopus Challengers vs Fakhr-E-Kashmir (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/120355_CASACARDS_APP.png",
@@ -58,6 +44,20 @@
             "startTime": "01:00:00 AM 03-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/IPnI_NH6QnSmeZXB_uuA2A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/120355_english_hls_8701ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "VfB Stuttgart vs RB Leipzig (DFB Pokal)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/VfB-Stuttgart-vs-RB-Leipzig-old.jpg",
+            "team_1": "VfB Stuttgart",
+            "team_2": "RB Leipzig",
+            "status": "LIVE",
+            "event_name": "DFB Pokal",
+            "match_name": "VfB Stuttgart vs RB Leipzig",
+            "match_id": 122135,
+            "startTime": "12:15:00 AM 03-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/CZ4xAx1YSTGfci4t5c7t3g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122135_english_hls_5429ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -86,20 +86,6 @@
             "startTime": "10:30:00 PM 02-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/eELFu2w0QeOd3C15J5i1Og/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117806_english_hls_5546ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Cincinnati Reds vs Texas Rangers (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121851_5028_CR_TR_fc-web.jpg",
-            "team_1": "Cincinnati Reds",
-            "team_2": "Texas Rangers",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Cincinnati Reds vs Texas Rangers",
-            "match_id": 121851,
-            "startTime": "10:10:00 PM 02-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/jYkwNPWJTQqdh0pYIHM3hw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121851_english_hls_5585ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -160,6 +146,18 @@
             "match_name": "Los Angeles Football Club vs Inter Miami CF",
             "match_id": 122156,
             "startTime": "09:00:00 AM 03-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Combined Avengers vs Darjeeling Unstoppables (Kolkata NCC T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121455_5037_CA_DU_fc-Web.jpg",
+            "team_1": "Combined Avengers",
+            "team_2": "Darjeeling Unstoppables",
+            "status": "UPCOMING",
+            "event_name": "Kolkata NCC T20",
+            "match_name": "Combined Avengers vs Darjeeling Unstoppables",
+            "match_id": 121455,
+            "startTime": "01:00:00 PM 03-04-2025"
         }
     ]
 }
