@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:36:53 PM 02-04-2025",
+    "last update time": "07:46:58 PM 02-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -42,20 +42,6 @@
             "startTime": "07:30:00 PM 02-04-2025",
             "dai_url": "https://mls3.fancode.com/b72ef60e-527b-489d-af4c-9d040f163c2d/master.m3u8",
             "adfree_url": "https://mls3.fancode.com/b72ef60e-527b-489d-af4c-9d040f163c2d/master.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Sonipat Spartans vs Warriorz K.C (Yuva All Stars Championship)",
-            "src": "https://images.fancode.com/aig/match/v1/122452_CASACARDS_APP.png",
-            "team_1": "Sonipat Spartans",
-            "team_2": "Warriorz K.C",
-            "status": "LIVE",
-            "event_name": "Yuva All Stars Championship",
-            "match_name": "Sonipat Spartans vs Warriorz K.C",
-            "match_id": 122452,
-            "startTime": "05:30:00 PM 02-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/_I_s2C_MSSiCO1na65oLfQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122452_english_hls_5545ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Vancouver Whitecaps FC vs Pumas UNAM",
             "match_id": 122155,
             "startTime": "07:00:00 AM 03-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jhargram Firebolts vs Alipurduar Thunders (Kolkata NCC T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121454_5037_JF_AT_fc-Web.jpg",
+            "team_1": "Jhargram Firebolts",
+            "team_2": "Alipurduar Thunders",
+            "status": "UPCOMING",
+            "event_name": "Kolkata NCC T20",
+            "match_name": "Jhargram Firebolts vs Alipurduar Thunders",
+            "match_id": 121454,
+            "startTime": "09:00:00 AM 03-04-2025"
         }
     ]
 }
