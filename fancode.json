@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:10:15 PM 02-04-2025",
+    "last update time": "04:20:23 PM 02-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Gorkha XI vs Gamblers SC (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v3.jpg",
-            "team_1": "Gorkha XI",
-            "team_2": "Gamblers SC",
-            "status": "LIVE",
-            "event_name": "ECS Santarem",
-            "match_name": "Gorkha XI vs Gamblers SC",
-            "match_id": 121821,
-            "startTime": "02:30:00 PM 02-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/dJHJjkJyRWmbosm-RTINjg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121821_english_hls_4973ta-no/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Nagoya Grampus vs Yokohama F. Marinos (J League 2025)",
@@ -62,7 +48,7 @@
         {
             "event_category": "Football",
             "title": "Urawa Red Diamonds vs Shimizu S-Pulse (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/121928_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121928_4795_URW_PUL_fc-web.jpg",
             "team_1": "Urawa Red Diamonds",
             "team_2": "Shimizu S-Pulse",
             "status": "LIVE",
@@ -72,6 +58,20 @@
             "startTime": "04:00:00 PM 02-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/rBZbUIppTauy7QrKU8jkhw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121928_english_hls_5546ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Punjab CC Amadora vs Oeiras (ECS Santarem)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v1.jpg",
+            "team_1": "Punjab CC Amadora",
+            "team_2": "Oeiras",
+            "status": "LIVE",
+            "event_name": "ECS Santarem",
+            "match_name": "Punjab CC Amadora vs Oeiras",
+            "match_id": 121822,
+            "startTime": "04:30:00 PM 02-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/a5w6mKVQT3Kw4b00St5gow/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121822_english_hls_5500ta-no/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -113,18 +113,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Punjab CC Amadora vs Oeiras (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v1.jpg",
-            "team_1": "Punjab CC Amadora",
-            "team_2": "Oeiras",
-            "status": "UPCOMING",
-            "event_name": "ECS Santarem",
-            "match_name": "Punjab CC Amadora vs Oeiras",
-            "match_id": 121822,
-            "startTime": "04:30:00 PM 02-04-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Winning FKP vs SBS CC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/120357_CASACARDS_APP.png",
             "team_1": "Winning FKP",
@@ -146,6 +134,18 @@
             "match_name": "Ai Octopus Challengers vs Fakhr-E-Kashmir",
             "match_id": 120355,
             "startTime": "01:00:00 AM 03-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Keraniganj Challengers vs CECC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/120356_CASACARDS_APP.png",
+            "team_1": "Keraniganj Challengers",
+            "team_2": "CECC",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
+            "match_name": "Keraniganj Challengers vs CECC",
+            "match_id": 120356,
+            "startTime": "03:00:00 AM 03-04-2025"
         },
         {
             "event_category": "Football",
