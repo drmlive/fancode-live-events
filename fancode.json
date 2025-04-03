@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:28:03 PM 03-04-2025",
+    "last update time": "07:38:08 PM 03-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Punjab CC Amadora vs Gamblers SC (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v1.jpg",
-            "team_1": "Punjab CC Amadora",
-            "team_2": "Gamblers SC",
-            "status": "LIVE",
-            "event_name": "ECS Santarem",
-            "match_name": "Punjab CC Amadora vs Gamblers SC",
-            "match_id": 121828,
-            "startTime": "06:30:00 PM 03-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/IH7s5jOPR0mV1EH49C_QVA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121828_english_hls_5127ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Windward Islands Volcanoes vs Barbados Pride (West Indies Championship, 2025)",
@@ -30,6 +16,20 @@
             "startTime": "07:30:00 PM 02-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/xE3r4rkeRTWnX6LOchnp7g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117805_english_hls_5933ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Punjab CC Amadora vs Gamblers SC (ECS Santarem)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v1.jpg",
+            "team_1": "Punjab CC Amadora",
+            "team_2": "Gamblers SC",
+            "status": "LIVE",
+            "event_name": "ECS Santarem",
+            "match_name": "Punjab CC Amadora vs Gamblers SC",
+            "match_id": 121828,
+            "startTime": "06:30:00 PM 03-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/IH7s5jOPR0mV1EH49C_QVA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121828_english_hls_5127ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -113,6 +113,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Gorkha XI vs Oeiras (ECS Santarem)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v2.jpg",
+            "team_1": "Gorkha XI",
+            "team_2": "Oeiras",
+            "status": "UPCOMING",
+            "event_name": "ECS Santarem",
+            "match_name": "Gorkha XI vs Oeiras",
+            "match_id": 121829,
+            "startTime": "08:30:00 PM 03-04-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Tally DRFS vs Fakhr-E-Kashmir (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120343_4995_TCC_FEK_fc-Web_1740894370931.jpg",
             "team_1": "Tally DRFS",
@@ -146,18 +158,6 @@
             "match_name": "Jhargram Firebolts vs Kalimpong Falcons",
             "match_id": 121456,
             "startTime": "09:00:00 AM 04-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions vs Trinidad & Tobago Red Force (West Indies Championship, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/117806_CASACARDS_APP.png",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "PAUSED",
-            "event_name": "West Indies Championship, 2025",
-            "match_name": "Jamaica Scorpions vs Trinidad & Tobago Red Force",
-            "match_id": 117806,
-            "startTime": "10:30:00 PM 02-04-2025"
         }
     ]
 }
