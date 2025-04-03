@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:57:39 AM 03-04-2025",
+    "last update time": "06:07:44 AM 03-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions vs Trinidad & Tobago Red Force (West Indies Championship, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/117806_CASACARDS_APP.png",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "LIVE",
-            "event_name": "West Indies Championship, 2025",
-            "match_name": "Jamaica Scorpions vs Trinidad & Tobago Red Force",
-            "match_id": 117806,
-            "startTime": "10:30:00 PM 02-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/eELFu2w0QeOd3C15J5i1Og/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/117806_english_hls_5546ta-no/index.m3u8"
-        },
         {
             "event_category": "Baseball",
             "title": "Los Angeles Dodgers vs Atlanta Braves (Major League Baseball, 2025)",
@@ -44,6 +30,18 @@
             "startTime": "09:30:00 PM 03-04-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Vancouver Whitecaps FC vs Pumas UNAM (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Vancouver-vs-Pumas_1743137877736.jpg",
+            "team_1": "Vancouver Whitecaps FC",
+            "team_2": "Pumas UNAM",
+            "status": "UPCOMING",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Vancouver Whitecaps FC vs Pumas UNAM",
+            "match_id": 122155,
+            "startTime": "07:00:00 AM 03-04-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Pirates Bay Raiders vs Pigeon Point Skiers (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/120715_5010_PBR_PPS_fc-web_1743068837907.jpg",
@@ -54,6 +52,18 @@
             "match_name": "Pirates Bay Raiders vs Pigeon Point Skiers",
             "match_id": 120715,
             "startTime": "12:00:00 AM 04-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions vs Trinidad & Tobago Red Force (West Indies Championship, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/117806_CASACARDS_APP.png",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Trinidad & Tobago Red Force",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship, 2025",
+            "match_name": "Jamaica Scorpions vs Trinidad & Tobago Red Force",
+            "match_id": 117806,
+            "startTime": "10:30:00 PM 02-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -81,18 +91,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Vancouver Whitecaps FC vs Pumas UNAM (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Vancouver-vs-Pumas_1743137877736.jpg",
-            "team_1": "Vancouver Whitecaps FC",
-            "team_2": "Pumas UNAM",
-            "status": "UPCOMING",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Vancouver Whitecaps FC vs Pumas UNAM",
-            "match_id": 122155,
-            "startTime": "07:00:00 AM 03-04-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Los Angeles Football Club vs Inter Miami CF (Concacaf Champions Cup 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/LAFC-vs-Inter-Miami.jpg",
             "team_1": "Los Angeles Football Club",
@@ -117,25 +115,25 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "title": "Tally DRFS vs Fakhr-E-Kashmir (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Tally DRFS",
+            "team_2": "Fakhr-E-Kashmir",
             "status": "UPCOMING",
             "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "Tally DRFS vs Fakhr-E-Kashmir",
             "match_id": 120358,
             "startTime": "11:00:00 PM 03-04-2025"
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
+            "title": "SBS CC vs Keraniganj Challengers (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "SBS CC",
+            "team_2": "Keraniganj Challengers",
             "status": "UPCOMING",
             "event_name": "KCC T10 Anjum Raza Shah Ramadan Trophy, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "SBS CC vs Keraniganj Challengers",
             "match_id": 120359,
             "startTime": "01:00:00 AM 04-04-2025"
         },
