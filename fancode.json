@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:26:02 PM 04-04-2025",
+    "last update time": "03:36:07 PM 04-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "02:05:00 PM 04-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yFf5-9okQKupqtP0gQdz6A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111032_english_hls_6020ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Oeiras vs Lisbon Capitals (ECS Santarem)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v1.jpg",
-            "team_1": "Oeiras",
-            "team_2": "Lisbon Capitals",
-            "status": "LIVE",
-            "event_name": "ECS Santarem",
-            "match_name": "Oeiras vs Lisbon Capitals",
-            "match_id": 121831,
-            "startTime": "02:30:00 PM 04-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LrH7iGs2RLGzUpj0k1wZVw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121831_english_hls_5279ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -95,6 +81,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Malo vs Gorkha XI (ECS Santarem)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Portugal,-Premier_old-Match-card_v2.jpg",
+            "team_1": "Malo",
+            "team_2": "Gorkha XI",
+            "status": "UPCOMING",
+            "event_name": "ECS Santarem",
+            "match_name": "Malo vs Gorkha XI",
+            "match_id": 121832,
+            "startTime": "04:30:00 PM 04-04-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Fakhr-E-Kashmir vs SBS CC (KCC T10 Anjum Raza Shah Ramadan Trophy, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/120361_CASACARDS_APP.png",
             "team_1": "Fakhr-E-Kashmir",
@@ -140,18 +138,6 @@
             "match_name": "Windward Islands Volcanoes vs Barbados Pride",
             "match_id": 117805,
             "startTime": "07:30:00 PM 02-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jamaica Scorpions vs Trinidad & Tobago Red Force (West Indies Championship, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/117806_CASACARDS_APP.png",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "PAUSED",
-            "event_name": "West Indies Championship, 2025",
-            "match_name": "Jamaica Scorpions vs Trinidad & Tobago Red Force",
-            "match_id": 117806,
-            "startTime": "10:30:00 PM 02-04-2025"
         }
     ]
 }
