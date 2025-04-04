@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:46:30 AM 05-04-2025",
+    "last update time": "02:56:36 AM 05-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -114,20 +114,6 @@
             "adfree_url": "https://dai.fancode.com/primary/122718_english_hls_8185ta-di/index.m3u8"
         },
         {
-            "event_category": "Baseball",
-            "title": "Boston Red Sox vs St. Louis Cardinals (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121855_5028_BRS_SLC_fc-web.jpg",
-            "team_1": "Boston Red Sox",
-            "team_2": "St. Louis Cardinals",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Boston Red Sox vs St. Louis Cardinals",
-            "match_id": 121855,
-            "startTime": "11:40:00 PM 04-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/RN1UsW4CSmSzIBA4ROHmdw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121855_english_hls_5573ta-di/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "World Feed - Day 2 vs Oaks Course, TPC San Antonio (Valero Texas Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",
@@ -164,6 +150,18 @@
             "match_name": "Pirates Bay Raiders vs Kings Bay Royals",
             "match_id": 120719,
             "startTime": "12:00:00 AM 06-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Alipurduar Thunders vs Kalimpong Falcons (Kolkata NCC T20)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121458_5037_AT_KF_fc-Web.jpg",
+            "team_1": "Alipurduar Thunders",
+            "team_2": "Kalimpong Falcons",
+            "status": "UPCOMING",
+            "event_name": "Kolkata NCC T20",
+            "match_name": "Alipurduar Thunders vs Kalimpong Falcons",
+            "match_id": 121458,
+            "startTime": "09:00:00 AM 05-04-2025"
         }
     ]
 }
