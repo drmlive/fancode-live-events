@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:48:31 AM 05-04-2025",
+    "last update time": "06:58:41 AM 05-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "03:30:00 AM 05-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/PAKVSNZ/master.m3u8?hdnea=exp=1743845802~acl=/*~id=04210890002530780655883751121849~hmac=f476a7818996bc2005d17836393ddfc5a71bb2dcffd978cd16f6e2d9a3e78557"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Angels vs Cleveland Guardians (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121856_5028_LAA_CLE_fc-web.jpg",
+            "team_1": "Los Angeles Angels",
+            "team_2": "Cleveland Guardians",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Angels vs Cleveland Guardians",
+            "match_id": 121856,
+            "startTime": "07:08:00 AM 05-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/28v3t_nQRASQmxaOjGqfDw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121856_english_hls_5848ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Oxford United vs Sheffield United",
             "match_id": 121673,
             "startTime": "07:30:00 PM 05-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Portugal Women vs Norway Women (ECI-W Portugal-Norway, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Portugal-Norway_old_1743762610772.jpg",
-            "team_1": "Portugal Women",
-            "team_2": "Norway Women",
-            "status": "UPCOMING",
-            "event_name": "ECI-W Portugal-Norway, 2025",
-            "match_name": "Portugal Women vs Norway Women",
-            "match_id": 122694,
-            "startTime": "10:45:00 PM 05-04-2025"
         }
     ]
 }
