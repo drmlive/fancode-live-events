@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:12:18 AM 06-04-2025",
+    "last update time": "02:22:22 AM 06-04-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 3 vs Oaks Course, TPC San Antonio (Valero Texas Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",
-            "team_1": "Featured Holes - Day 3",
-            "team_2": "Oaks Course, TPC San Antonio",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open",
-            "match_name": "Featured Holes - Day 3",
-            "match_id": 122556,
-            "startTime": "08:00:00 PM 05-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/EA4vAHmyR7elUfevHKUmGw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122556_english_hls_6078ta-di/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Group - Day 3 vs Oaks Course, TPC San Antonio (Valero Texas Open)",
@@ -144,6 +130,18 @@
             "match_name": "Portugal Women vs Norway Women",
             "match_id": 122695,
             "startTime": "04:30:00 PM 06-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Portugal vs Norway (ECI Portugal-Norway, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Norway_old.jpg",
+            "team_1": "Portugal",
+            "team_2": "Norway",
+            "status": "UPCOMING",
+            "event_name": "ECI Portugal-Norway, 2025",
+            "match_name": "Portugal vs Norway",
+            "match_id": 122689,
+            "startTime": "06:30:00 PM 06-04-2025"
         }
     ]
 }
