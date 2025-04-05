@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:23:47 AM 05-04-2025",
+    "last update time": "10:33:52 AM 05-04-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-LENOVO-JAPANESE-GRAND-PRIX-2025-old-match-card--(1).png",
             "team_1": "Qualifying",
             "team_2": "Japan",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F1 LENOVO JAPANESE GRAND PRIX 2025",
             "match_name": "Qualifying",
             "match_id": 118394,
-            "startTime": "11:30:00 AM 05-04-2025"
+            "startTime": "11:30:00 AM 05-04-2025",
+            "dai_url": "https://d1bkv650dbuv10.cloudfront.net/out/v1/75a3fdbe06ec45cda11519ab5a6c6844/index.m3u8",
+            "adfree_url": "https://d1bkv650dbuv10.cloudfront.net/out/v1/75a3fdbe06ec45cda11519ab5a6c6844/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -110,6 +112,18 @@
             "startTime": "12:00:00 AM 06-04-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Melbourne City vs Central Coast Mariners (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111034_4567_MLC_CCM_fc-web_1728983130129.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Central Coast Mariners",
+            "status": "UPCOMING",
+            "event_name": "A League 2024-25",
+            "match_name": "Melbourne City vs Central Coast Mariners",
+            "match_id": 111034,
+            "startTime": "11:30:00 AM 05-04-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Purba Medinipur Dragons vs Darjeeling Unstoppables (Kolkata NCC T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121459_5037_PMD_DU_fc-Web.jpg",
@@ -144,18 +158,6 @@
             "match_name": "Portugal vs Norway",
             "match_id": 122686,
             "startTime": "04:30:00 PM 05-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Portugal Women vs Norway Women (ECI-W Portugal-Norway, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Portugal-Norway_old_1743762610772.jpg",
-            "team_1": "Portugal Women",
-            "team_2": "Norway Women",
-            "status": "UPCOMING",
-            "event_name": "ECI-W Portugal-Norway, 2025",
-            "match_name": "Portugal Women vs Norway Women",
-            "match_id": 122693,
-            "startTime": "06:30:00 PM 05-04-2025"
         }
     ]
 }
