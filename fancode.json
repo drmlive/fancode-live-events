@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:02:13 AM 06-04-2025",
+    "last update time": "02:12:18 AM 06-04-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 3 vs Oaks Course, TPC San Antonio (Valero Texas Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "Oaks Course, TPC San Antonio",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open",
-            "match_name": "Main Feed - Day 3",
-            "match_id": 122555,
-            "startTime": "07:30:00 PM 05-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/AXEpBVzUQKaUiCJvN2Tcew/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122555_english_hls_8700ta-di/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Holes - Day 3 vs Oaks Course, TPC San Antonio (Valero Texas Open)",
@@ -134,6 +120,30 @@
             "match_name": "Jhargram Firebolts vs Darjeeling Unstoppables",
             "match_id": 121461,
             "startTime": "01:00:00 PM 06-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Portugal vs Norway (ECI Portugal-Norway, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Portugal-Norway_old.jpg",
+            "team_1": "Portugal",
+            "team_2": "Norway",
+            "status": "UPCOMING",
+            "event_name": "ECI Portugal-Norway, 2025",
+            "match_name": "Portugal vs Norway",
+            "match_id": 122688,
+            "startTime": "02:30:00 PM 06-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Portugal Women vs Norway Women (ECI-W Portugal-Norway, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Portugal-Norway_old_1743762610772.jpg",
+            "team_1": "Portugal Women",
+            "team_2": "Norway Women",
+            "status": "UPCOMING",
+            "event_name": "ECI-W Portugal-Norway, 2025",
+            "match_name": "Portugal Women vs Norway Women",
+            "match_id": 122695,
+            "startTime": "04:30:00 PM 06-04-2025"
         }
     ]
 }
