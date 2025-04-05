@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:43:36 PM 05-04-2025",
+    "last update time": "04:55:22 PM 05-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Portugal Women vs Norway Women (ECI-W Portugal-Norway, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Portugal-Norway_old_1743762610772.jpg",
-            "team_1": "Portugal Women",
-            "team_2": "Norway Women",
-            "status": "LIVE",
-            "event_name": "ECI-W Portugal-Norway, 2025",
-            "match_name": "Portugal Women vs Norway Women",
-            "match_id": 122692,
-            "startTime": "02:30:00 PM 05-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LLfwrluVTSS6EuR-GDyRqA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122692_english_hls_5111ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Norway vs Portugal (ECI Portugal-Norway, 2025)",
@@ -30,6 +16,20 @@
             "startTime": "04:30:00 PM 05-04-2025",
             "dai_url": "https://mls3.fancode.com/d138d86f-c182-4ba1-8d79-06edad57d9b7/master.m3u8",
             "adfree_url": "https://mls3.fancode.com/d138d86f-c182-4ba1-8d79-06edad57d9b7/master.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Luton Town vs Leeds United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121667_4352_LUT_LU_fc-web.jpg",
+            "team_1": "Luton Town",
+            "team_2": "Leeds United",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Luton Town vs Leeds United",
+            "match_id": 121667,
+            "startTime": "05:00:00 PM 05-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/rCyaRIwwQLeobDQKTqq-JA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121667_english_hls_5745ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -68,18 +68,6 @@
             "match_name": "Pirates Bay Raiders vs Kings Bay Royals",
             "match_id": 120719,
             "startTime": "12:00:00 AM 06-04-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Luton Town vs Leeds United (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121667_4352_LUT_LU_fc-web.jpg",
-            "team_1": "Luton Town",
-            "team_2": "Leeds United",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Luton Town vs Leeds United",
-            "match_id": 121667,
-            "startTime": "05:00:00 PM 05-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +140,18 @@
             "match_name": "Combined Avengers vs Alipurduar Thunders",
             "match_id": 121460,
             "startTime": "09:00:00 AM 06-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Windward Islands Volcanoes vs Barbados Pride (West Indies Championship, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/117805_CASACARDS_APP.png",
+            "team_1": "Windward Islands Volcanoes",
+            "team_2": "Barbados Pride",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship, 2025",
+            "match_name": "Windward Islands Volcanoes vs Barbados Pride",
+            "match_id": 117805,
+            "startTime": "07:30:00 PM 02-04-2025"
         }
     ]
 }
