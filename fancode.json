@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:29:15 AM 07-04-2025",
+    "last update time": "02:39:20 AM 07-04-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs Oaks Course, TPC San Antonio (Valero Texas Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valero-Texas-Open-Old.jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "Oaks Course, TPC San Antonio",
-            "status": "LIVE",
-            "event_name": "Valero Texas Open",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 122560,
-            "startTime": "08:00:00 PM 06-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/sAX1Ki0SR2SHgVsjBGnnTQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122560_english_hls_8758ta-di/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Groups - Day 4 vs Oaks Course, TPC San Antonio (Valero Texas Open)",
@@ -58,34 +44,6 @@
             "startTime": "10:30:00 PM 06-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/nLaqeju3S4SFYOhRXdvg_A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122564_english_hls_4611ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Pittsburgh Pirates vs New York Yankees (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121859_5028_PBP_NEY_fc-web.jpg",
-            "team_1": "Pittsburgh Pirates",
-            "team_2": "New York Yankees",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Pittsburgh Pirates vs New York Yankees",
-            "match_id": 121859,
-            "startTime": "11:05:00 PM 06-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/p3LS9ooeTd22MdNxf1Oh8A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121859_english_hls_4863ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pirates Bay Raiders vs Mt Irvine Surfers (Dream11 Bago T10 Blast, 3rd Edition, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/120699_5010_PBR_MIS_fc-web_1743068837736.jpg",
-            "team_1": "Pirates Bay Raiders",
-            "team_2": "Mt Irvine Surfers",
-            "status": "LIVE",
-            "event_name": "Dream11 Bago T10 Blast, 3rd Edition, 2025",
-            "match_name": "Pirates Bay Raiders vs Mt Irvine Surfers",
-            "match_id": 120721,
-            "startTime": "12:00:00 AM 07-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ffs4dJzHS3WAFha2r9Z9gA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/120721_english_hls_4846ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,6 +116,42 @@
             "match_name": "Portugal vs Norway",
             "match_id": 122683,
             "startTime": "06:00:00 PM 07-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Grenadines Divers vs Dark View Explorers (Dream11 Vincy Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Grenadines Divers",
+            "team_2": "Dark View Explorers",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Vincy Premier League, 2025",
+            "match_name": "Grenadines Divers vs Dark View Explorers",
+            "match_id": 122249,
+            "startTime": "09:30:00 PM 07-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "YSSC vs Karavali United (KCC T20 Challengers B League Edition 2, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg",
+            "team_1": "YSSC",
+            "team_2": "Karavali United",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers B League Edition 2, 2025",
+            "match_name": "YSSC vs Karavali United",
+            "match_id": 122460,
+            "startTime": "11:00:00 PM 07-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Botanical Gardens Rangers vs Fort Charlotte Strikers (Dream11 Vincy Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Botanical Gardens Rangers",
+            "team_2": "Fort Charlotte Strikers",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Vincy Premier League, 2025",
+            "match_name": "Botanical Gardens Rangers vs Fort Charlotte Strikers",
+            "match_id": 122250,
+            "startTime": "12:00:00 AM 08-04-2025"
         }
     ]
 }
