@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:42:53 AM 08-04-2025",
+    "last update time": "12:52:59 AM 08-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "12:00:00 AM 08-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/aKBXSboVThiRFuOiBY_18w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122250_english_hls_5120ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "United Arab Emirates vs Australia (AFC U17 Asia Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122422_5057_UAE_AUS_fc-web.jpg",
-            "team_1": "United Arab Emirates",
-            "team_2": "Australia",
-            "status": "LIVE",
-            "event_name": "AFC U17 Asia Cup 2025",
-            "match_name": "United Arab Emirates vs Australia",
-            "match_id": 122422,
-            "startTime": "10:45:00 PM 07-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/PdBz2oUSQCGa9UvS6GZErQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122422_english_hls_4540ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Salt Pond Breakers vs La Soufriere Hikers",
             "match_id": 122252,
             "startTime": "12:00:00 AM 09-04-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Middlesbrough vs Leeds United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121668_4352_MIDD_LU_fc-web.jpg",
+            "team_1": "Middlesbrough",
+            "team_2": "Leeds United",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Middlesbrough vs Leeds United",
+            "match_id": 121668,
+            "startTime": "12:30:00 AM 09-04-2025"
         }
     ]
 }
