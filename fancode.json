@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:26:53 PM 08-04-2025",
+    "last update time": "05:37:00 PM 08-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Portugal Women vs Norway Women (ECN Portugal-Norway T20IW, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/122698_CASACARDS_APP.png",
-            "team_1": "Portugal Women",
-            "team_2": "Norway Women",
-            "status": "LIVE",
-            "event_name": "ECN Portugal-Norway T20IW, 2025",
-            "match_name": "Portugal Women vs Norway Women",
-            "match_id": 122698,
-            "startTime": "02:00:00 PM 08-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qeJ_sWAcR8iYM6MMo9EzXw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122698_english_hls_5397ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Madrid CC vs Sonseca Sultans (ECS Spain, Madrid, 2025)",
@@ -30,6 +16,20 @@
             "startTime": "04:15:00 PM 08-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/P8hWChJwTvCaec6bxWghUw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122593_english_hls_5598ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Norwich City FC vs Football 4 Change vs Goa (DSC Football 2025 - Boys National Finals)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_1.jpg",
+            "team_1": "Norwich City FC vs Football 4 Change",
+            "team_2": "Goa",
+            "status": "LIVE",
+            "event_name": "DSC Football 2025 - Boys National Finals",
+            "match_name": "Norwich City FC vs Football 4 Change",
+            "match_id": 122610,
+            "startTime": "05:30:00 PM 08-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-liPMpseRL2vmJuaBvxcUA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122610_english_hls_8402ta-no/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -60,28 +60,14 @@
             "adfree_url": "https://dai.fancode.com/primary/122670_english_hls_2231ta-no/index.m3u8"
         },
         {
-            "event_category": "Live Events",
-            "title": "Norwich City FC vs Football 4 Change vs Goa (DSC Football 2025 - Boys National Finals)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_1.jpg",
-            "team_1": "Norwich City FC vs Football 4 Change",
-            "team_2": "Goa",
-            "status": "LIVE",
-            "event_name": "DSC Football 2025 - Boys National Finals",
-            "match_name": "Norwich City FC vs Football 4 Change",
-            "match_id": 122610,
-            "startTime": "05:30:00 PM 08-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-liPMpseRL2vmJuaBvxcUA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122610_english_hls_8402ta-no/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
-            "title": "Portugal vs Norway (ECN Portugal-Norway T20I, 2025)",
+            "title": "Norway vs Portugal (ECN Portugal-Norway T20I, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Portugal-Norway-T20I-old.jpg",
-            "team_1": "Portugal",
-            "team_2": "Norway",
+            "team_1": "Norway",
+            "team_2": "Portugal",
             "status": "UPCOMING",
             "event_name": "ECN Portugal-Norway T20I, 2025",
-            "match_name": "Portugal vs Norway",
+            "match_name": "Norway vs Portugal",
             "match_id": 122684,
             "startTime": "06:00:00 PM 08-04-2025"
         },
@@ -156,6 +142,18 @@
             "match_name": "Middlesbrough vs Leeds United",
             "match_id": 121668,
             "startTime": "12:30:00 AM 09-04-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tigres vs LA Galaxy (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tigres-vs-LA-Galaxy.jpg",
+            "team_1": "Tigres",
+            "team_2": "LA Galaxy",
+            "status": "UPCOMING",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Tigres vs LA Galaxy",
+            "match_id": 122157,
+            "startTime": "06:30:00 AM 09-04-2025"
         }
     ]
 }
