@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:11:52 PM 08-04-2025",
+    "last update time": "08:22:01 PM 08-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "05:30:00 PM 08-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/vXFxLo1PS6KNCqwOb1JwSw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122670_english_hls_2231ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "DPR Korea vs Tajikistan (AFC U17 Asia Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/122429_5057_PRK_TAJ_fc-web.jpg",
+            "team_1": "DPR Korea",
+            "team_2": "Tajikistan",
+            "status": "LIVE",
+            "event_name": "AFC U17 Asia Cup 2025",
+            "match_name": "DPR Korea vs Tajikistan",
+            "match_id": 122429,
+            "startTime": "08:30:00 PM 08-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/jIdV7rjtT0yLl7-sd9gmgQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122429_english_hls_5007ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -80,18 +94,6 @@
             "startTime": "11:00:00 PM 08-04-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Middlesbrough vs Leeds United (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121668_4352_MIDD_LU_fc-web.jpg",
-            "team_1": "Middlesbrough",
-            "team_2": "Leeds United",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Middlesbrough vs Leeds United",
-            "match_id": 121668,
-            "startTime": "12:30:00 AM 09-04-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Portugal vs Norway (ECN Portugal-Norway T20I, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Portugal-Norway-T20I-old.jpg",
@@ -102,6 +104,18 @@
             "match_name": "Portugal vs Norway",
             "match_id": 122685,
             "startTime": "06:00:00 PM 09-04-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Middlesbrough vs Leeds United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121668_4352_MIDD_LU_fc-web.jpg",
+            "team_1": "Middlesbrough",
+            "team_2": "Leeds United",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Middlesbrough vs Leeds United",
+            "match_id": 121668,
+            "startTime": "12:30:00 AM 09-04-2025"
         },
         {
             "event_category": "Football",
@@ -138,18 +152,6 @@
             "match_name": "Purba Medinipur Dragons vs Alipurduar Thunders",
             "match_id": 121466,
             "startTime": "09:30:00 AM 09-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan Women vs Ireland Women (ICC Women's Cricket World Cup Qualifier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122655_5073_PK-W_IR-W_fc-web.jpg",
-            "team_1": "Pakistan Women",
-            "team_2": "Ireland Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's Cricket World Cup Qualifier, 2025",
-            "match_name": "Pakistan Women vs Ireland Women",
-            "match_id": 122655,
-            "startTime": "10:00:00 AM 09-04-2025"
         }
     ]
 }
