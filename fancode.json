@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:11:16 AM 08-04-2025",
+    "last update time": "10:21:21 AM 08-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Adelaide Strikers Academy vs Sydney Thunder Academy (Melbourne T10 Invitational, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122783_5086_ASA_STA_fc-web.jpg",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "Sydney Thunder Academy",
-            "status": "LIVE",
-            "event_name": "Melbourne T10 Invitational, 2025",
-            "match_name": "Adelaide Strikers Academy vs Sydney Thunder Academy",
-            "match_id": 122783,
-            "startTime": "08:30:00 AM 08-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/VbDs3Ru-TGi1D2wFlzcxrw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122783_english_hls_2171ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Combined Avengers vs Purba Medinipur Dragons (Kolkata NCC T20)",
@@ -30,20 +16,6 @@
             "startTime": "09:00:00 AM 08-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/mKaPBT46RzKWnuBE_uOjwg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121464_english_hls_5001ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Oakland Athletics vs San Diego Padres (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/121861_CASACARDS_APP.png",
-            "team_1": "Oakland Athletics",
-            "team_2": "San Diego Padres",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Oakland Athletics vs San Diego Padres",
-            "match_id": 121861,
-            "startTime": "07:35:00 AM 08-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/rJA8yv9nRGaYUbt3OR2UzQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121861_english_hls_5640ta-di/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -156,6 +128,30 @@
             "match_name": "Salt Pond Breakers vs La Soufriere Hikers",
             "match_id": 122252,
             "startTime": "12:00:00 AM 09-04-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Middlesbrough vs Leeds United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121668_4352_MIDD_LU_fc-web.jpg",
+            "team_1": "Middlesbrough",
+            "team_2": "Leeds United",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Middlesbrough vs Leeds United",
+            "match_id": 121668,
+            "startTime": "12:30:00 AM 09-04-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tigres vs LA Galaxy (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tigres-vs-LA-Galaxy.jpg",
+            "team_1": "Tigres",
+            "team_2": "LA Galaxy",
+            "status": "UPCOMING",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Tigres vs LA Galaxy",
+            "match_id": 122157,
+            "startTime": "06:30:00 AM 09-04-2025"
         }
     ]
 }
