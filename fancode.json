@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:04:21 PM 08-04-2025",
+    "last update time": "11:14:33 PM 08-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -87,11 +87,13 @@
             "src": "https://images.fancode.com/aig/match/v1/122827_CASACARDS_APP.png",
             "team_1": "Al Taawoun",
             "team_2": "Sharjah",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Two 2024-25",
             "match_name": "Al Taawoun vs Sharjah",
             "match_id": 122827,
-            "startTime": "11:30:00 PM 08-04-2025"
+            "startTime": "11:30:00 PM 08-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/IzRbbwEcSlOR2ovKTthVPg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122827_english_hls_5587ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -118,18 +120,6 @@
             "startTime": "08:30:00 AM 09-04-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Tigres vs LA Galaxy (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tigres-vs-LA-Galaxy.jpg",
-            "team_1": "Tigres",
-            "team_2": "LA Galaxy",
-            "status": "UPCOMING",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Tigres vs LA Galaxy",
-            "match_id": 122157,
-            "startTime": "06:30:00 AM 09-04-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Purba Medinipur Dragons vs Alipurduar Thunders (Kolkata NCC T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -140,6 +130,18 @@
             "match_name": "Purba Medinipur Dragons vs Alipurduar Thunders",
             "match_id": 121466,
             "startTime": "09:30:00 AM 09-04-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tigres vs LA Galaxy (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tigres-vs-LA-Galaxy.jpg",
+            "team_1": "Tigres",
+            "team_2": "LA Galaxy",
+            "status": "UPCOMING",
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Tigres vs LA Galaxy",
+            "match_id": 122157,
+            "startTime": "06:30:00 AM 09-04-2025"
         },
         {
             "event_category": "Cricket",
