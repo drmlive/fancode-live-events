@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:59:42 AM 09-04-2025",
+    "last update time": "08:09:54 AM 09-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -20,7 +20,7 @@
         {
             "event_category": "Baseball",
             "title": "Seattle Mariners vs Houston Astros (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/121862_CASACARDS_APP.png",
             "team_1": "Seattle Mariners",
             "team_2": "Houston Astros",
             "status": "LIVE",
@@ -30,6 +30,20 @@
             "startTime": "07:10:00 AM 09-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/pI36-rQGTN-BCVjVlsGg0Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121862_english_hls_6711ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Assam FA vs Karnataka FA vs Goa (DSC Football 2025 - Girls National Finals)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_2-(1).jpg",
+            "team_1": "Assam FA vs Karnataka FA",
+            "team_2": "Goa",
+            "status": "LIVE",
+            "event_name": "DSC Football 2025 - Girls National Finals",
+            "match_name": "Assam FA vs Karnataka FA",
+            "match_id": 122622,
+            "startTime": "08:30:00 AM 09-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/mm2Ogm3PQUeKBI_sbfZR7g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122622_english_hls_5468ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -69,15 +83,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Melbourne Renegades Academy vs Sydney Sixers Academy (Melbourne T10 Invitational, 2025)",
+            "title": "Sydney Sixers Academy vs Melbourne Renegades Academy (Melbourne T10 Invitational, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/122785_5086_MRA_SSA_fc-web.jpg",
-            "team_1": "Melbourne Renegades Academy",
-            "team_2": "Sydney Sixers Academy",
-            "status": "UPCOMING",
+            "team_1": "Sydney Sixers Academy",
+            "team_2": "Melbourne Renegades Academy",
+            "status": "LIVE",
             "event_name": "Melbourne T10 Invitational, 2025",
-            "match_name": "Melbourne Renegades Academy vs Sydney Sixers Academy",
+            "match_name": "Sydney Sixers Academy vs Melbourne Renegades Academy",
             "match_id": 122785,
-            "startTime": "08:30:00 AM 09-04-2025"
+            "startTime": "08:30:00 AM 09-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/uY2zt-oFQEmrEWVag7oQtw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122785_english_hls_2580ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +154,6 @@
             "match_name": "Pakistan Women vs Ireland Women",
             "match_id": 122655,
             "startTime": "10:00:00 AM 09-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sydney Sixers Academy vs Adelaide Strikers Academy (Melbourne T10 Invitational, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122786_5086_SSA_ASA_fc-web.jpg",
-            "team_1": "Sydney Sixers Academy",
-            "team_2": "Adelaide Strikers Academy",
-            "status": "UPCOMING",
-            "event_name": "Melbourne T10 Invitational, 2025",
-            "match_name": "Sydney Sixers Academy vs Adelaide Strikers Academy",
-            "match_id": 122786,
-            "startTime": "11:00:00 AM 09-04-2025"
         }
     ]
 }
