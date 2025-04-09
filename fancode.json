@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:40:13 AM 09-04-2025",
+    "last update time": "08:50:20 AM 09-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cruz-azul-vs-Club-america_1743138088108.jpg",
             "team_1": "Cruz Azul",
             "team_2": "Club Am\u00e9rica",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Concacaf Champions Cup 2025",
             "match_name": "Cruz Azul vs Club Am\u00e9rica",
             "match_id": 122158,
-            "startTime": "09:00:00 AM 09-04-2025"
+            "startTime": "09:00:00 AM 09-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/KN1tg10_QDm_dBSLyU51_w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122158_english_hls_6075ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -70,20 +72,6 @@
             "startTime": "08:30:00 AM 09-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/uCj7fQn9TuSCVmt66icW4w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122621_english_hls_9001ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tigres vs LA Galaxy (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tigres-vs-LA-Galaxy.jpg",
-            "team_1": "Tigres",
-            "team_2": "LA Galaxy",
-            "status": "LIVE",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Tigres vs LA Galaxy",
-            "match_id": 122157,
-            "startTime": "06:30:00 AM 09-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/AZGbeJsdRlqpWlKGvr9poQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122157_english_hls_5269ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -155,6 +143,18 @@
             "event_name": "ICC Women's Cricket World Cup Qualifier, 2025",
             "match_name": "West Indies Women vs Scotland Women",
             "match_id": 122656,
+            "startTime": "10:00:00 AM 09-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan Women vs Ireland Women (ICC Women's Cricket World Cup Qualifier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/122655_5073_PK-W_IR-W_fc-web.jpg",
+            "team_1": "Pakistan Women",
+            "team_2": "Ireland Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Cricket World Cup Qualifier, 2025",
+            "match_name": "Pakistan Women vs Ireland Women",
+            "match_id": 122655,
             "startTime": "10:00:00 AM 09-04-2025"
         }
     ]
