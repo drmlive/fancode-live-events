@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:43:17 PM 09-04-2025",
+    "last update time": "01:53:30 PM 09-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Norway Women vs Portugal Women (ECN Portugal-Norway T20IW, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/122699_CASACARDS_APP.png",
+            "team_1": "Norway Women",
+            "team_2": "Portugal Women",
+            "status": "LIVE",
+            "event_name": "ECN Portugal-Norway T20IW, 2025",
+            "match_name": "Norway Women vs Portugal Women",
+            "match_id": 122699,
+            "startTime": "02:00:00 PM 09-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/O9scxn1aTPKnNiQrrJal0g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122699_english_hls_5836ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Alipurduar Thunders vs Purba Medinipur Dragons (Kolkata NCC T20)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121452_5037_PMD_AT_fc-Web.jpg",
             "team_1": "Alipurduar Thunders",
@@ -44,32 +58,6 @@
             "startTime": "09:30:00 AM 09-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kohr2U3vRdahj8Hj0LLDgA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121466_english_hls_5542ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Madrid CC vs Getafe (ECS Spain, Madrid, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",
-            "team_1": "Madrid CC",
-            "team_2": "Getafe",
-            "status": "LIVE",
-            "event_name": "ECS Spain, Madrid, 2025",
-            "match_name": "Madrid CC vs Getafe",
-            "match_id": 122595,
-            "startTime": "12:15:00 PM 09-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/GEALAhBrSxiHyubZrUXReA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122595_english_hls_6213ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Norway Women vs Portugal Women (ECN Portugal-Norway T20IW, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/122699_CASACARDS_APP.png",
-            "team_1": "Norway Women",
-            "team_2": "Portugal Women",
-            "status": "UPCOMING",
-            "event_name": "ECN Portugal-Norway T20IW, 2025",
-            "match_name": "Norway Women vs Portugal Women",
-            "match_id": 122699,
-            "startTime": "02:00:00 PM 09-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +142,18 @@
             "match_name": "Sonseca Sultans vs Madrid United",
             "match_id": 122598,
             "startTime": "06:15:00 PM 09-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gulf Cable vs Lexus (KCC T20 Challengers B League Edition 2, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_02.jpg",
+            "team_1": "Gulf Cable",
+            "team_2": "Lexus",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers B League Edition 2, 2025",
+            "match_name": "Gulf Cable vs Lexus",
+            "match_id": 122462,
+            "startTime": "11:00:00 PM 09-04-2025"
         }
     ]
 }
