@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:11:45 AM 10-04-2025",
+    "last update time": "08:22:03 AM 10-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -18,6 +18,20 @@
             "adfree_url": "https://dai.fancode.com/primary/122160_english_hls_5506ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Sydney Thunder Academy vs Melbourne Stars Academy (Melbourne T10 Invitational, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/122787_5086_STA_MSA_fc-web.jpg",
+            "team_1": "Sydney Thunder Academy",
+            "team_2": "Melbourne Stars Academy",
+            "status": "LIVE",
+            "event_name": "Melbourne T10 Invitational, 2025",
+            "match_name": "Sydney Thunder Academy vs Melbourne Stars Academy",
+            "match_id": 122787,
+            "startTime": "08:30:00 AM 10-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/5q3-RpvIRv6spEgxEHP3IQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122787_english_hls_2576ta-di/index.m3u8"
+        },
+        {
             "event_category": "Baseball",
             "title": "Colorado Rockies vs Milwaukee Brewers (Major League Baseball, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
@@ -32,16 +46,32 @@
             "adfree_url": "https://dai.fancode.com/primary/121864_english_hls_5331ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Sydney Thunder Academy vs Melbourne Stars Academy (Melbourne T10 Invitational, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122787_5086_STA_MSA_fc-web.jpg",
-            "team_1": "Sydney Thunder Academy",
-            "team_2": "Melbourne Stars Academy",
-            "status": "UPCOMING",
-            "event_name": "Melbourne T10 Invitational, 2025",
-            "match_name": "Sydney Thunder Academy vs Melbourne Stars Academy",
-            "match_id": 122787,
-            "startTime": "08:30:00 AM 10-04-2025"
+            "event_category": "Live Events",
+            "title": "Mohun Bagan SG vs Chennaiyin FC vs Goa (DSC Football 2025 - Boys National Finals)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_1.jpg",
+            "team_1": "Mohun Bagan SG vs Chennaiyin FC",
+            "team_2": "Goa",
+            "status": "LIVE",
+            "event_name": "DSC Football 2025 - Boys National Finals",
+            "match_name": "Mohun Bagan SG vs Chennaiyin FC",
+            "match_id": 122613,
+            "startTime": "08:30:00 AM 10-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-b0ICXujRECkkH-IcFt8-Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122613_english_hls_5785ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Dempo SC vs Reliance Foundation YC vs Goa (DSC Football 2025 - Boys National Finals)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_1.jpg",
+            "team_1": "Dempo SC vs Reliance Foundation YC",
+            "team_2": "Goa",
+            "status": "LIVE",
+            "event_name": "DSC Football 2025 - Boys National Finals",
+            "match_name": "Dempo SC vs Reliance Foundation YC",
+            "match_id": 122612,
+            "startTime": "08:30:00 AM 10-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/hJmXwOGrSbybaXV5APZHNg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122612_english_hls_8695ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -90,30 +120,6 @@
             "match_name": "Fort Charlotte Strikers vs Grenadines Divers",
             "match_id": 122256,
             "startTime": "12:00:00 AM 11-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Madrid CC vs Madrid Stars (ECS Spain, Madrid, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",
-            "team_1": "Madrid CC",
-            "team_2": "Madrid Stars",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Madrid, 2025",
-            "match_name": "Madrid CC vs Madrid Stars",
-            "match_id": 122599,
-            "startTime": "12:15:00 PM 10-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Madrid CC vs Madrid Stars (ECS Spain, Madrid, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",
-            "team_1": "Madrid CC",
-            "team_2": "Madrid Stars",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Madrid, 2025",
-            "match_name": "Madrid CC vs Madrid Stars",
-            "match_id": 122600,
-            "startTime": "02:15:00 PM 10-04-2025"
         }
     ]
 }
