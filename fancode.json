@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:10:43 AM 11-04-2025",
+    "last update time": "01:20:49 AM 11-04-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -88,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/122149_english_hls_5310ta-di/index.m3u8"
         },
         {
-            "event_category": "Baseball",
-            "title": "Tampa Bay Rays vs Los Angeles Angels (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121865_5028_TAB_LAA_fc-web.jpg",
-            "team_1": "Tampa Bay Rays",
-            "team_2": "Los Angeles Angels",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Tampa Bay Rays vs Los Angeles Angels",
-            "match_id": 121865,
-            "startTime": "10:40:00 PM 10-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/OhLjkDWnR4eJ9ptQGS4oGA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121865_english_hls_5536ta-no/index.m3u8"
-        },
-        {
             "event_category": "Basketball",
             "title": "Bayern Munich vs Fenerbahce Beko Istanbul (EuroLeague 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/122652_CASACARDS_APP.png",
@@ -164,6 +150,18 @@
             "match_name": "Pakistan Women vs Scotland Women",
             "match_id": 122658,
             "startTime": "10:00:00 AM 11-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Melbourne Renegades Academy vs Melbourne Stars Academy (Melbourne T10 Invitational, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/122790_5086_MRA_MSA_fc-web.jpg",
+            "team_1": "Melbourne Renegades Academy",
+            "team_2": "Melbourne Stars Academy",
+            "status": "UPCOMING",
+            "event_name": "Melbourne T10 Invitational, 2025",
+            "match_name": "Melbourne Renegades Academy vs Melbourne Stars Academy",
+            "match_id": 122790,
+            "startTime": "11:00:00 AM 11-04-2025"
         }
     ]
 }
