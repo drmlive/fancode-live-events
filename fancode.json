@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:10:01 AM 11-04-2025",
+    "last update time": "12:20:13 AM 11-04-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Masters-Tournament-old.png",
             "team_1": "Day 1",
             "team_2": "Augusta National Golf Club",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "2025 Masters",
             "match_name": "Day 1",
             "match_id": 123306,
-            "startTime": "12:30:00 AM 11-04-2025"
+            "startTime": "12:30:00 AM 11-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LOJ5zjDzTtiAzhimLaVxJA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123306_english_hls_8709ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -70,6 +72,20 @@
             "startTime": "07:30:00 PM 09-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/qCip-ZGQSe2RlUanH-HiNw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/117807_english_hls_5768ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Crewe Alexandra vs Cheltenham Town (League Two 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",
+            "team_1": "Crewe Alexandra",
+            "team_2": "Cheltenham Town",
+            "status": "LIVE",
+            "event_name": "League Two 2024-25",
+            "match_name": "Crewe Alexandra vs Cheltenham Town",
+            "match_id": 122149,
+            "startTime": "12:30:00 AM 11-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/klRhPC7hTYaZCoVOoMhrtg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122149_english_hls_5310ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -152,18 +168,6 @@
             "match_name": "Sydney Thunder Academy vs Sydney Sixers Academy",
             "match_id": 122789,
             "startTime": "08:30:00 AM 11-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ireland Women vs West Indies Women (ICC Women's Cricket World Cup Qualifier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122659_5073_IR-W_WI-W_fc-web.jpg",
-            "team_1": "Ireland Women",
-            "team_2": "West Indies Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's Cricket World Cup Qualifier, 2025",
-            "match_name": "Ireland Women vs West Indies Women",
-            "match_id": 122659,
-            "startTime": "10:00:00 AM 11-04-2025"
         }
     ]
 }
