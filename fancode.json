@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:50:16 AM 10-04-2025",
+    "last update time": "06:00:30 AM 10-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -28,6 +28,20 @@
             "match_name": "Pumas UNAM vs Vancouver Whitecaps FC",
             "match_id": 122160,
             "startTime": "08:00:00 AM 10-04-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Colorado Rockies vs Milwaukee Brewers (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+            "team_1": "Colorado Rockies",
+            "team_2": "Milwaukee Brewers",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Colorado Rockies vs Milwaukee Brewers",
+            "match_id": 121864,
+            "startTime": "06:10:00 AM 10-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/yqPobpT2Tmm8kZhk_nYVEA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121864_english_hls_5331ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -112,18 +126,6 @@
             "match_name": "Madrid CC vs Madrid Stars",
             "match_id": 122600,
             "startTime": "02:15:00 PM 10-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Madrid United vs Getafe (ECS Spain, Madrid, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",
-            "team_1": "Madrid United",
-            "team_2": "Getafe",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Madrid, 2025",
-            "match_name": "Madrid United vs Getafe",
-            "match_id": 122601,
-            "startTime": "04:15:00 PM 10-04-2025"
         }
     ]
 }
