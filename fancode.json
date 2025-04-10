@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:53:00 AM 11-04-2025",
+    "last update time": "05:03:06 AM 11-04-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Augusta National Golf Club (2025 Masters)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Masters-Tournament-old.png",
-            "team_1": "Day 1",
-            "team_2": "Augusta National Golf Club",
-            "status": "LIVE",
-            "event_name": "2025 Masters",
-            "match_name": "Day 1",
-            "match_id": 123306,
-            "startTime": "12:30:00 AM 11-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LOJ5zjDzTtiAzhimLaVxJA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123306_english_hls_8709ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Boston Red Sox vs Toronto Blue Jays (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121866_5028_BRS_TOJ_fc-web.jpg",
-            "team_1": "Boston Red Sox",
-            "team_2": "Toronto Blue Jays",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Boston Red Sox vs Toronto Blue Jays",
-            "match_id": 121866,
-            "startTime": "01:40:00 AM 11-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/fdRXDep6Tku1Ku4CV7aUzw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121866_english_hls_5569ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Sydney Thunder Academy vs Sydney Sixers Academy (Melbourne T10 Invitational, 2025)",
@@ -138,6 +110,30 @@
             "match_name": "Karavali United vs Thunder Cats - B",
             "match_id": 122465,
             "startTime": "10:30:00 AM 11-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Getafe vs Sonseca Sultans (ECS Spain, Madrid, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",
+            "team_1": "Getafe",
+            "team_2": "Sonseca Sultans",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Madrid, 2025",
+            "match_name": "Getafe vs Sonseca Sultans",
+            "match_id": 122603,
+            "startTime": "12:15:00 PM 11-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Getafe vs Sonseca Sultans (ECS Spain, Madrid, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",
+            "team_1": "Getafe",
+            "team_2": "Sonseca Sultans",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Madrid, 2025",
+            "match_name": "Getafe vs Sonseca Sultans",
+            "match_id": 122604,
+            "startTime": "02:15:00 PM 11-04-2025"
         }
     ]
 }
