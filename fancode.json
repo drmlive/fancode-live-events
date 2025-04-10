@@ -1,8 +1,34 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:39:35 PM 10-04-2025",
+    "last update time": "11:49:44 PM 10-04-2025",
     "matches": [
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Augusta National Golf Club (2025 Masters)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Masters-Tournament-old.png",
+            "team_1": "Day 1",
+            "team_2": "Augusta National Golf Club",
+            "status": "UPCOMING",
+            "event_name": "2025 Masters",
+            "match_name": "Day 1",
+            "match_id": 123306,
+            "startTime": "12:30:00 AM 11-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Fort Charlotte Strikers vs Grenadines Divers (Dream11 Vincy Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/122256_5058_FCS_GRD_fc-web.jpg",
+            "team_1": "Fort Charlotte Strikers",
+            "team_2": "Grenadines Divers",
+            "status": "LIVE",
+            "event_name": "Dream11 Vincy Premier League, 2025",
+            "match_name": "Fort Charlotte Strikers vs Grenadines Divers",
+            "match_id": 122256,
+            "startTime": "12:00:00 AM 11-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/xY_DjPmbRuSb1XZ8xhyohQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122256_english_hls_5920ta-di/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Renegades CC vs MEC Study Group (KCC T20 Challengers B League Edition 2, 2025)",
@@ -100,30 +126,6 @@
             "startTime": "11:30:00 PM 10-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/rK_awB60QiuMsCCIF_vn4Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122652_english_hls_5555ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Augusta National Golf Club (2025 Masters)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Masters-Tournament-old.png",
-            "team_1": "Day 1",
-            "team_2": "Augusta National Golf Club",
-            "status": "UPCOMING",
-            "event_name": "2025 Masters",
-            "match_name": "Day 1",
-            "match_id": 123306,
-            "startTime": "12:30:00 AM 11-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fort Charlotte Strikers vs Grenadines Divers (Dream11 Vincy Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122256_5058_FCS_GRD_fc-web.jpg",
-            "team_1": "Fort Charlotte Strikers",
-            "team_2": "Grenadines Divers",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Vincy Premier League, 2025",
-            "match_name": "Fort Charlotte Strikers vs Grenadines Divers",
-            "match_id": 122256,
-            "startTime": "12:00:00 AM 11-04-2025"
         },
         {
             "event_category": "Cricket",
