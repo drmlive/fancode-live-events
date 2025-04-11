@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:58:20 PM 11-04-2025",
+    "last update time": "02:08:29 PM 11-04-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -44,6 +44,20 @@
             "startTime": "10:00:00 AM 11-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/92MblAxvTMqL-a5hHEC3CQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122658_english_hls_8636ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Getafe vs Sonseca Sultans (ECS Spain, Madrid, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",
+            "team_1": "Getafe",
+            "team_2": "Sonseca Sultans",
+            "status": "LIVE",
+            "event_name": "ECS Spain, Madrid, 2025",
+            "match_name": "Getafe vs Sonseca Sultans",
+            "match_id": 122604,
+            "startTime": "02:15:00 PM 11-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/SZQMFkGiQUG6-EJEUFgpcA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122604_english_hls_5584ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -95,18 +109,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Getafe vs Sonseca Sultans (ECS Spain, Madrid, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",
-            "team_1": "Getafe",
-            "team_2": "Sonseca Sultans",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Madrid, 2025",
-            "match_name": "Getafe vs Sonseca Sultans",
-            "match_id": 122604,
-            "startTime": "02:15:00 PM 11-04-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Adelaide Strikers Academy vs Sydney Sixers Academy (Melbourne T10 Invitational, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/122786_5086_SSA_ASA_fc-web.jpg",
             "team_1": "Adelaide Strikers Academy",
@@ -118,9 +120,21 @@
             "startTime": "08:30:00 AM 12-04-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Melbourne City vs Brisbane Roar (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111038_4567_MLC_BRB_fc-web_1728983129492.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Brisbane Roar",
+            "status": "UPCOMING",
+            "event_name": "A League 2024-25",
+            "match_name": "Melbourne City vs Brisbane Roar",
+            "match_id": 111038,
+            "startTime": "03:05:00 PM 11-04-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Melbourne Renegades Academy vs Adelaide Strikers Academy (Melbourne T10 Invitational, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://images.fancode.com/aig/match/v2/122792_CASACARDS_APP.png",
             "team_1": "Melbourne Renegades Academy",
             "team_2": "Adelaide Strikers Academy",
             "status": "UPCOMING",
@@ -140,18 +154,6 @@
             "match_name": "Global Champs vs Thunder Cats",
             "match_id": 122466,
             "startTime": "04:00:00 PM 11-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Madrid United vs Madrid Stars (ECS Spain, Madrid, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",
-            "team_1": "Madrid United",
-            "team_2": "Madrid Stars",
-            "status": "UPCOMING",
-            "event_name": "ECS Spain, Madrid, 2025",
-            "match_name": "Madrid United vs Madrid Stars",
-            "match_id": 122605,
-            "startTime": "04:15:00 PM 11-04-2025"
         }
     ]
 }
