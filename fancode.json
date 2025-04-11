@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:01:20 AM 12-04-2025",
+    "last update time": "05:11:25 AM 12-04-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 2 vs Augusta National Golf Club (2025 Masters)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Masters-2025_.jpg",
-            "team_1": "Day 2",
-            "team_2": "Augusta National Golf Club",
-            "status": "LIVE",
-            "event_name": "2025 Masters",
-            "match_name": "Day 2",
-            "match_id": 123307,
-            "startTime": "12:30:00 AM 12-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/0slL5DyIQo6UGlF-dtTVFg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123307_english_hls_415ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Adelaide Strikers Academy vs Sydney Sixers Academy (Melbourne T10 Invitational, 2025)",
@@ -148,6 +134,18 @@
             "match_name": "Plymouth Argyle vs Sheffield United",
             "match_id": 121674,
             "startTime": "05:00:00 PM 12-04-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cardiff City vs Stoke City (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121671_4352_CAR_STK_fc-web.jpg",
+            "team_1": "Cardiff City",
+            "team_2": "Stoke City",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Cardiff City vs Stoke City",
+            "match_id": 121671,
+            "startTime": "07:30:00 PM 12-04-2025"
         }
     ]
 }
