@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:48:14 PM 11-04-2025",
+    "last update time": "01:58:20 PM 11-04-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -44,34 +44,6 @@
             "startTime": "10:00:00 AM 11-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/92MblAxvTMqL-a5hHEC3CQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122658_english_hls_8636ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Thunder Cats - B vs Karavali United (KCC T20 Challengers B League Edition 2, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_02.jpg",
-            "team_1": "Thunder Cats - B",
-            "team_2": "Karavali United",
-            "status": "LIVE",
-            "event_name": "KCC T20 Challengers B League Edition 2, 2025",
-            "match_name": "Thunder Cats - B vs Karavali United",
-            "match_id": 122465,
-            "startTime": "10:30:00 AM 11-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-EgmoJYqTeu47qtJaSim4w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122465_english_hls_5337ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Getafe vs Sonseca Sultans (ECS Spain, Madrid, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",
-            "team_1": "Getafe",
-            "team_2": "Sonseca Sultans",
-            "status": "LIVE",
-            "event_name": "ECS Spain, Madrid, 2025",
-            "match_name": "Getafe vs Sonseca Sultans",
-            "match_id": 122603,
-            "startTime": "12:15:00 PM 11-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/U9dzsxpQQKC38mlV91O0ag/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122603_english_hls_5559ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +128,30 @@
             "match_name": "Melbourne Renegades Academy vs Adelaide Strikers Academy",
             "match_id": 122792,
             "startTime": "11:00:00 AM 12-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Global Champs vs Thunder Cats (KCC T20 Challengers B League Edition 2, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg",
+            "team_1": "Global Champs",
+            "team_2": "Thunder Cats",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers B League Edition 2, 2025",
+            "match_name": "Global Champs vs Thunder Cats",
+            "match_id": 122466,
+            "startTime": "04:00:00 PM 11-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Madrid United vs Madrid Stars (ECS Spain, Madrid, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",
+            "team_1": "Madrid United",
+            "team_2": "Madrid Stars",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Madrid, 2025",
+            "match_name": "Madrid United vs Madrid Stars",
+            "match_id": 122605,
+            "startTime": "04:15:00 PM 11-04-2025"
         }
     ]
 }
