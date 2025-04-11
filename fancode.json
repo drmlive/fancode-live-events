@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:19:21 PM 11-04-2025",
+    "last update time": "03:29:27 PM 11-04-2025",
     "matches": [
-        {
-            "event_category": "Motorsports",
-            "title": "Free Practice vs Sakhir (F2 BAHRAIN 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-            "team_1": "Free Practice",
-            "team_2": "Sakhir",
-            "status": "LIVE",
-            "event_name": "F2 BAHRAIN 2025",
-            "match_name": "Free Practice",
-            "match_id": 119029,
-            "startTime": "02:35:00 PM 11-04-2025",
-            "dai_url": "https://d3tdvhe6jog83p.cloudfront.net/out/v1/5b2ae537a3624dc7ad0e261c3595b057/index.m3u8",
-            "adfree_url": "https://d3tdvhe6jog83p.cloudfront.net/out/v1/5b2ae537a3624dc7ad0e261c3595b057/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "West Indies Women vs Ireland Women (ICC Women's Cricket World Cup Qualifier, 2025)",
@@ -149,15 +135,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Madrid United vs Madrid Stars (ECS Spain, Madrid, 2025)",
+            "title": "Madrid Stars vs Madrid United (ECS Spain, Madrid, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",
-            "team_1": "Madrid United",
-            "team_2": "Madrid Stars",
+            "team_1": "Madrid Stars",
+            "team_2": "Madrid United",
             "status": "UPCOMING",
             "event_name": "ECS Spain, Madrid, 2025",
-            "match_name": "Madrid United vs Madrid Stars",
+            "match_name": "Madrid Stars vs Madrid United",
             "match_id": 122605,
             "startTime": "04:15:00 PM 11-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Adelaide Strikers Academy vs Sydney Sixers Academy (Melbourne T10 Invitational, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/122786_5086_SSA_ASA_fc-web.jpg",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "Sydney Sixers Academy",
+            "status": "UPCOMING",
+            "event_name": "Melbourne T10 Invitational, 2025",
+            "match_name": "Adelaide Strikers Academy vs Sydney Sixers Academy",
+            "match_id": 122791,
+            "startTime": "08:30:00 AM 12-04-2025"
         }
     ]
 }
