@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:24:46 PM 11-04-2025",
+    "last update time": "11:34:55 PM 11-04-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/122431_english_hls_9100ta-di/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Panathinaikos OPAP Athens vs Crvena Zvezda mts Belgrade (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/122654_CASACARDS_APP.png",
+            "team_1": "Panathinaikos OPAP Athens",
+            "team_2": "Crvena Zvezda mts Belgrade",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Panathinaikos OPAP Athens vs Crvena Zvezda mts Belgrade",
+            "match_id": 122654,
+            "startTime": "11:45:00 PM 11-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/7s2Usud8S0OR6VVKvWUX8w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122654_english_hls_4785ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Dark View Explorers vs La Soufriere Hikers (Dream11 Vincy Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/122259_5058_DVE_LSH_fc-web.jpg",
@@ -125,39 +139,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Gulf Cable vs Team TGS (KCC T20 Challengers B League Edition 2, 2025)",
+            "title": "Team TGS vs Gulf Cable (KCC T20 Challengers B League Edition 2, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_02.jpg",
-            "team_1": "Gulf Cable",
-            "team_2": "Team TGS",
+            "team_1": "Team TGS",
+            "team_2": "Gulf Cable",
             "status": "UPCOMING",
             "event_name": "KCC T20 Challengers B League Edition 2, 2025",
-            "match_name": "Gulf Cable vs Team TGS",
+            "match_name": "Team TGS vs Gulf Cable",
             "match_id": 122468,
             "startTime": "12:00:00 AM 12-04-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Peshawar Zalmi vs Quetta Gladiators (Pakistan Super League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123017_5094_PES_QUE_fc-Web.jpg",
-            "team_1": "Peshawar Zalmi",
-            "team_2": "Quetta Gladiators",
+            "event_category": "Football",
+            "title": "Burnley vs Norwich City (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121670_4352_BUR_NOR_fc-web.jpg",
+            "team_1": "Burnley",
+            "team_2": "Norwich City",
             "status": "UPCOMING",
-            "event_name": "Pakistan Super League, 2025",
-            "match_name": "Peshawar Zalmi vs Quetta Gladiators",
-            "match_id": 123017,
-            "startTime": "04:00:00 PM 12-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Salt Pond Breakers vs Grenadines Divers (Dream11 Vincy Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122260_5058_SPB_GRD_fc-web.jpg",
-            "team_1": "Salt Pond Breakers",
-            "team_2": "Grenadines Divers",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Vincy Premier League, 2025",
-            "match_name": "Salt Pond Breakers vs Grenadines Divers",
-            "match_id": 122260,
-            "startTime": "07:00:00 PM 12-04-2025"
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Burnley vs Norwich City",
+            "match_id": 121670,
+            "startTime": "12:30:00 AM 12-04-2025"
         }
     ]
 }
