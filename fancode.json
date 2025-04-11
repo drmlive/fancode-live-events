@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:30:56 PM 11-04-2025",
+    "last update time": "05:41:02 PM 11-04-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -142,20 +142,6 @@
             "adfree_url": "https://dai.fancode.com/primary/122672_english_hls_7873adfreeta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "FC Tokyo vs Kashiwa Reysol (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/121936_CASACARDS_APP.png",
-            "team_1": "FC Tokyo",
-            "team_2": "Kashiwa Reysol",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "FC Tokyo vs Kashiwa Reysol",
-            "match_id": 121936,
-            "startTime": "03:30:00 PM 11-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/0z_RL2YVSH62WFjcFqTEiQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121936_english_hls_5627ta-di/index.m3u8"
-        },
-        {
             "event_category": "Formula 1",
             "title": "Practice 3 vs Bahrain (F1 GULF AIR BAHRAIN GRAND PRIX 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain_F1_GP_Old_match-card.jpg",
@@ -166,6 +152,18 @@
             "match_name": "Practice 3",
             "match_id": 118398,
             "startTime": "06:00:00 PM 12-04-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Qualifying vs Bahrain (F1 GULF AIR BAHRAIN GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain_F1_GP_Old_match-card.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Bahrain",
+            "status": "UPCOMING",
+            "event_name": "F1 GULF AIR BAHRAIN GRAND PRIX 2025",
+            "match_name": "Qualifying",
+            "match_id": 118399,
+            "startTime": "09:30:00 PM 12-04-2025"
         }
     ]
 }
