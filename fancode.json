@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:51:16 PM 11-04-2025",
+    "last update time": "06:01:27 PM 11-04-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -100,6 +100,20 @@
             "adfree_url": "https://dai.fancode.com/primary/122605_english_hls_5085ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Madrid Stars vs Madrid United (ECS Spain, Madrid, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",
+            "team_1": "Madrid Stars",
+            "team_2": "Madrid United",
+            "status": "LIVE",
+            "event_name": "ECS Spain, Madrid, 2025",
+            "match_name": "Madrid Stars vs Madrid United",
+            "match_id": 122606,
+            "startTime": "06:15:00 PM 11-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/VYHQjNCCQq-MNhZxPn_JEQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122606_english_hls_5951ta-no/index.m3u8"
+        },
+        {
             "event_category": "Live Events",
             "title": "Delhi SA vs Rajasthan FA vs Goa (DSC Football 2025 - Girls National Finals)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_2-(1).jpg",
@@ -152,18 +166,6 @@
             "match_name": "Practice 3",
             "match_id": 118398,
             "startTime": "06:00:00 PM 12-04-2025"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Qualifying vs Bahrain (F1 GULF AIR BAHRAIN GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain_F1_GP_Old_match-card.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Bahrain",
-            "status": "UPCOMING",
-            "event_name": "F1 GULF AIR BAHRAIN GRAND PRIX 2025",
-            "match_name": "Qualifying",
-            "match_id": 118399,
-            "startTime": "09:30:00 PM 12-04-2025"
         }
     ]
 }
