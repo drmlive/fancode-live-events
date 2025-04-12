@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:47:27 PM 12-04-2025",
+    "last update time": "01:57:33 PM 12-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Madrid Stars vs Madrid CC (ECS Spain, Madrid, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",
-            "team_1": "Madrid Stars",
-            "team_2": "Madrid CC",
-            "status": "LIVE",
-            "event_name": "ECS Spain, Madrid, 2025",
-            "match_name": "Madrid Stars vs Madrid CC",
-            "match_id": 122607,
-            "startTime": "12:15:00 PM 12-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/7FvuUT5CTI2PxJ3z1n5Seg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122607_english_hls_4842ta-no/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Sydney FC vs Auckland (A League 2024-25)",
@@ -32,18 +18,18 @@
             "adfree_url": "https://dai.fancode.com/primary/111040_english_hls_5070ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Cerezo Osaka vs Kashima Antlers (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/121938_CASACARDS_APP.png",
-            "team_1": "Cerezo Osaka",
-            "team_2": "Kashima Antlers",
+            "event_category": "Cricket",
+            "title": "Madrid Stars vs Madrid CC (ECS Spain, Madrid, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",
+            "team_1": "Madrid Stars",
+            "team_2": "Madrid CC",
             "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Cerezo Osaka vs Kashima Antlers",
-            "match_id": 121938,
-            "startTime": "11:33:00 AM 12-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/23DYOq-pSlOcxpzJii66xw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121938_english_hls_4787ta-di/index.m3u8"
+            "event_name": "ECS Spain, Madrid, 2025",
+            "match_name": "Madrid Stars vs Madrid CC",
+            "match_id": 122607,
+            "startTime": "12:15:00 PM 12-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/7FvuUT5CTI2PxJ3z1n5Seg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122607_english_hls_4842ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +138,18 @@
             "match_name": "Adelaide Strikers Academy vs Melbourne Stars Academy",
             "match_id": 122800,
             "startTime": "11:00:00 AM 13-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sonseca Sultans vs TBC (ECS Spain, Madrid, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",
+            "team_1": "Sonseca Sultans",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Madrid, 2025",
+            "match_name": "Sonseca Sultans vs TBC",
+            "match_id": 122608,
+            "startTime": "03:15:00 PM 12-04-2025"
         }
     ]
 }
