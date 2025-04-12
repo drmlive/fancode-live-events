@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:32:24 AM 13-04-2025",
+    "last update time": "02:42:29 AM 13-04-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -16,20 +16,6 @@
             "startTime": "09:30:00 PM 12-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Dqt0IgFIS_ewRW0cjoU1ow/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123308_english_hls_3572ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "St. Louis Cardinals vs Philadelphia Phillies (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121868_5028_SLC_PHP_fc-web.jpg",
-            "team_1": "St. Louis Cardinals",
-            "team_2": "Philadelphia Phillies",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "St. Louis Cardinals vs Philadelphia Phillies",
-            "match_id": 121868,
-            "startTime": "11:45:00 PM 12-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HZG3E_kYTNClUj4MdpbyRQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121868_english_hls_4356ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +136,18 @@
             "match_name": "Bologna vs Friends XI",
             "match_id": 123052,
             "startTime": "12:15:00 PM 13-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bologna vs Fresh Tropical (ECS Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
+            "team_1": "Bologna",
+            "team_2": "Fresh Tropical",
+            "status": "UPCOMING",
+            "event_name": "ECS Italy, Bologna, 2025",
+            "match_name": "Bologna vs Fresh Tropical",
+            "match_id": 123053,
+            "startTime": "02:15:00 PM 13-04-2025"
         }
     ]
 }
