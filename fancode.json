@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:53:41 AM 13-04-2025",
+    "last update time": "05:03:47 AM 13-04-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 3 vs Augusta National Golf Club (2025 Masters)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Masters-2025_.jpg",
-            "team_1": "Day 3",
-            "team_2": "Augusta National Golf Club",
-            "status": "LIVE",
-            "event_name": "2025 Masters",
-            "match_name": "Day 3",
-            "match_id": 123308,
-            "startTime": "09:30:00 PM 12-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Dqt0IgFIS_ewRW0cjoU1ow/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123308_english_hls_3572ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Melbourne Renegades Academy vs Sydney Thunder Academy (Melbourne T10 Invitational, 2025)",
@@ -148,6 +134,18 @@
             "match_name": "Bologna vs Fresh Tropical",
             "match_id": 123053,
             "startTime": "02:15:00 PM 13-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Friends XI vs Trentino Aquila (ECS Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
+            "team_1": "Friends XI",
+            "team_2": "Trentino Aquila",
+            "status": "UPCOMING",
+            "event_name": "ECS Italy, Bologna, 2025",
+            "match_name": "Friends XI vs Trentino Aquila",
+            "match_id": 123054,
+            "startTime": "04:15:00 PM 13-04-2025"
         }
     ]
 }
