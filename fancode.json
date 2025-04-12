@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:35:17 AM 12-04-2025",
+    "last update time": "10:45:25 AM 12-04-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Adelaide Strikers Academy vs Melbourne Renegades Academy (Melbourne T10 Invitational, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Renegades-Academy-VS-Adelaide-Strikers-Academy_fc-web.jpg",
+            "team_1": "Adelaide Strikers Academy",
+            "team_2": "Melbourne Renegades Academy",
+            "status": "LIVE",
+            "event_name": "Melbourne T10 Invitational, 2025",
+            "match_name": "Adelaide Strikers Academy vs Melbourne Renegades Academy",
+            "match_id": 122792,
+            "startTime": "11:00:00 AM 12-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/cL9LetcnS2qKdyMluFptNg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122792_english_hls_5603ta-di/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "Sanfrecce Hiroshima vs Fagiano Okayama (J League 2025)",
@@ -30,46 +44,6 @@
             "startTime": "10:30:00 AM 12-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/sEnRdYJpQTmOolE6j2QjBg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/111039_english_hls_5451ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Reliance Foundation YC vs Chennaiyin FC vs Goa (DSC Football 2025 - Boys National Finals)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_1.jpg",
-            "team_1": "Reliance Foundation YC vs Chennaiyin FC",
-            "team_2": "Goa",
-            "status": "LIVE",
-            "event_name": "DSC Football 2025 - Boys National Finals",
-            "match_name": "Reliance Foundation YC vs Chennaiyin FC",
-            "match_id": 122617,
-            "startTime": "08:30:00 AM 12-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/h2Fitf-eQcKha_0DaxstaA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122617_english_hls_5143ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Dempo SC vs Mohun Bagan SG vs Goa (DSC Football 2025 - Boys National Finals)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_1.jpg",
-            "team_1": "Dempo SC vs Mohun Bagan SG",
-            "team_2": "Goa",
-            "status": "LIVE",
-            "event_name": "DSC Football 2025 - Boys National Finals",
-            "match_name": "Dempo SC vs Mohun Bagan SG",
-            "match_id": 122616,
-            "startTime": "08:30:00 AM 12-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Av8W2BEwR027WCJIu8v_Yw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122616_english_hls_8553ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Adelaide Strikers Academy vs Melbourne Renegades Academy (Melbourne T10 Invitational, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Renegades-Academy-VS-Adelaide-Strikers-Academy_fc-web.jpg",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "Melbourne Renegades Academy",
-            "status": "UPCOMING",
-            "event_name": "Melbourne T10 Invitational, 2025",
-            "match_name": "Adelaide Strikers Academy vs Melbourne Renegades Academy",
-            "match_id": 122792,
-            "startTime": "11:00:00 AM 12-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +128,30 @@
             "match_name": "Cerezo Osaka vs Kashima Antlers",
             "match_id": 121938,
             "startTime": "11:33:00 AM 12-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Madrid Stars vs Madrid CC (ECS Spain, Madrid, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-2.png",
+            "team_1": "Madrid Stars",
+            "team_2": "Madrid CC",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Madrid, 2025",
+            "match_name": "Madrid Stars vs Madrid CC",
+            "match_id": 122607,
+            "startTime": "12:15:00 PM 12-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sonseca Sultans vs TBC (ECS Spain, Madrid, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Spain-Old-1.png",
+            "team_1": "Sonseca Sultans",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "ECS Spain, Madrid, 2025",
+            "match_name": "Sonseca Sultans vs TBC",
+            "match_id": 122608,
+            "startTime": "03:15:00 PM 12-04-2025"
         }
     ]
 }
