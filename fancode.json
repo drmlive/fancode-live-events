@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:07:48 PM 12-04-2025",
+    "last update time": "07:18:01 PM 12-04-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -86,6 +86,20 @@
             "adfree_url": "https://dai.fancode.com/primary/122609_english_hls_4731ta-di/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Cardiff City vs Stoke City (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121671_4352_CAR_STK_fc-web.jpg",
+            "team_1": "Cardiff City",
+            "team_2": "Stoke City",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Cardiff City vs Stoke City",
+            "match_id": 121671,
+            "startTime": "07:30:00 PM 12-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/nkLovstVThmlW5FCezaNUQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121671_english_hls_4876ta-di/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3 vs Erinvale Golf Course (Investec South African Women\u2019s Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Investec-South-African-Womens-Open_old_V1.jpg",
@@ -140,20 +154,6 @@
             "startTime": "05:30:00 PM 12-04-2025",
             "dai_url": "https://dai.fancode.com/primary/122673_english_hls_54795adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122673_english_hls_54795adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Plymouth Argyle vs Sheffield United (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121674_4352_PLY_SHF_fc-web.jpg",
-            "team_1": "Plymouth Argyle",
-            "team_2": "Sheffield United",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Plymouth Argyle vs Sheffield United",
-            "match_id": 121674,
-            "startTime": "05:00:00 PM 12-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/WrC5reVQRzeeWLCEZUbRmg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121674_english_hls_5377ta-di/index.m3u8"
         }
     ]
 }
