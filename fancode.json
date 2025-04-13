@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:42:31 PM 13-04-2025",
+    "last update time": "04:52:37 PM 13-04-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
             "team_1": "Feature Race",
             "team_2": "Sakhir ",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F2 BAHRAIN 2025",
             "match_name": "Feature Race",
             "match_id": 119032,
-            "startTime": "04:55:00 PM 13-04-2025"
+            "startTime": "04:55:00 PM 13-04-2025",
+            "dai_url": "https://d60lzecn8gkx5.cloudfront.net/out/v1/d6310588ba04459ead5882a061954989/index.m3u8",
+            "adfree_url": "https://d60lzecn8gkx5.cloudfront.net/out/v1/d6310588ba04459ead5882a061954989/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -70,6 +72,20 @@
             "startTime": "03:30:00 PM 13-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/bXwJzw5HTzKk4pDsYgSDjw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122715_english_hls_8296ta-di/index.m3u8"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "QAT GP - Race Day vs Lusail International Circuit (QATAR AIRWAYS GRAND PRIX OF QATAR)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar_Moto-GP_Old-Match-card.jpg",
+            "team_1": "QAT GP - Race Day",
+            "team_2": "Lusail International Circuit",
+            "status": "LIVE",
+            "event_name": "QATAR AIRWAYS GRAND PRIX OF QATAR",
+            "match_name": "QATAR GP - Race Day ",
+            "match_id": 118526,
+            "startTime": "07:30:00 PM 13-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/118526_english_hls_8527adfreeta-no/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118526_english_hls_8527adfreeta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +158,6 @@
             "match_name": "Trentino Aquila vs Fresh Tropical",
             "match_id": 123055,
             "startTime": "06:15:00 PM 13-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Friends XI vs Fresh Tropical (ECS Italy, Bologna, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
-            "team_1": "Friends XI",
-            "team_2": "Fresh Tropical",
-            "status": "UPCOMING",
-            "event_name": "ECS Italy, Bologna, 2025",
-            "match_name": "Friends XI vs Fresh Tropical",
-            "match_id": 123056,
-            "startTime": "08:15:00 PM 13-04-2025"
         }
     ]
 }
