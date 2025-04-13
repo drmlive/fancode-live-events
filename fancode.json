@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:11:36 PM 13-04-2025",
+    "last update time": "03:21:44 PM 13-04-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
             "team_1": "Feature Race",
             "team_2": "Sakhir ",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F3 BAHRAIN 2025",
             "match_name": "Feature Race",
             "match_id": 119080,
-            "startTime": "03:25:00 PM 13-04-2025"
+            "startTime": "03:25:00 PM 13-04-2025",
+            "dai_url": "https://d1mvkzouqpzobt.cloudfront.net/out/v1/004a3ed1161d4f20a3c16719c9180e09/index.m3u8",
+            "adfree_url": "https://d1mvkzouqpzobt.cloudfront.net/out/v1/004a3ed1161d4f20a3c16719c9180e09/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -72,6 +74,20 @@
             "adfree_url": "https://dai.fancode.com/primary/123053_english_hls_4906ta-no/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 4 vs Erinvale Golf Course (Investec South African Women\u2019s Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Investec-South-African-Womens-Open_old_V2.jpg",
+            "team_1": "Day 4",
+            "team_2": "Erinvale Golf Course",
+            "status": "LIVE",
+            "event_name": "Investec South African Women\u2019s Open",
+            "match_name": "Day 4",
+            "match_id": 122715,
+            "startTime": "03:30:00 PM 13-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/bXwJzw5HTzKk4pDsYgSDjw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122715_english_hls_8296ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Quetta Gladiators vs Lahore Qalandars (Pakistan Super League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123019_5094_QUE_LAH_fc-Web.jpg",
@@ -109,6 +125,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Trentino Aquila vs Friends XI (ECS Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
+            "team_1": "Trentino Aquila",
+            "team_2": "Friends XI",
+            "status": "UPCOMING",
+            "event_name": "ECS Italy, Bologna, 2025",
+            "match_name": "Trentino Aquila vs Friends XI",
+            "match_id": 123054,
+            "startTime": "04:15:00 PM 13-04-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Sydney Sixers Academy vs Melbourne Stars Academy (Melbourne T10 Invitational, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/122782_5086_SSA_MSA_fc-web.jpg",
             "team_1": "Sydney Sixers Academy",
@@ -130,30 +158,6 @@
             "match_name": "Sydney Thunder Academy vs Sydney Sixers Academy",
             "match_id": 122799,
             "startTime": "11:00:00 AM 14-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trentino Aquila vs Friends XI (ECS Italy, Bologna, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
-            "team_1": "Trentino Aquila",
-            "team_2": "Friends XI",
-            "status": "UPCOMING",
-            "event_name": "ECS Italy, Bologna, 2025",
-            "match_name": "Trentino Aquila vs Friends XI",
-            "match_id": 123054,
-            "startTime": "04:15:00 PM 13-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trentino Aquila vs Fresh Tropical (ECS Italy, Bologna, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
-            "team_1": "Trentino Aquila",
-            "team_2": "Fresh Tropical",
-            "status": "UPCOMING",
-            "event_name": "ECS Italy, Bologna, 2025",
-            "match_name": "Trentino Aquila vs Fresh Tropical",
-            "match_id": 123055,
-            "startTime": "06:15:00 PM 13-04-2025"
         }
     ]
 }
