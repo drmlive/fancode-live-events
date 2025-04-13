@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:31:14 PM 13-04-2025",
+    "last update time": "02:41:20 PM 13-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "02:15:00 PM 13-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/mvAZn4u6SzyvMFrdfdDEFA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123053_english_hls_4906ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Western United (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111043_4567_SYW_WST_fc-web_1728983129757.jpg",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Western United",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Western Sydney Wanderers vs Western United",
-            "match_id": 111043,
-            "startTime": "12:30:00 PM 13-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/axJy6xWZSESKOar8HXemcQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111043_english_hls_5007ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -144,6 +130,30 @@
             "match_name": "Friends XI vs Trentino Aquila",
             "match_id": 123054,
             "startTime": "04:15:00 PM 13-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Trentino Aquila vs Fresh Tropical (ECS Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
+            "team_1": "Trentino Aquila",
+            "team_2": "Fresh Tropical",
+            "status": "UPCOMING",
+            "event_name": "ECS Italy, Bologna, 2025",
+            "match_name": "Trentino Aquila vs Fresh Tropical",
+            "match_id": 123055,
+            "startTime": "06:15:00 PM 13-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Friends XI vs Fresh Tropical (ECS Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
+            "team_1": "Friends XI",
+            "team_2": "Fresh Tropical",
+            "status": "UPCOMING",
+            "event_name": "ECS Italy, Bologna, 2025",
+            "match_name": "Friends XI vs Fresh Tropical",
+            "match_id": 123056,
+            "startTime": "08:15:00 PM 13-04-2025"
         }
     ]
 }
