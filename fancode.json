@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:20:25 AM 14-04-2025",
+    "last update time": "05:30:30 AM 14-04-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 4 vs Augusta National Golf Club (2025 Masters)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Masters-2025_.jpg",
-            "team_1": "Day 4",
-            "team_2": "Augusta National Golf Club",
-            "status": "LIVE",
-            "event_name": "2025 Masters",
-            "match_name": "Day 4",
-            "match_id": 123309,
-            "startTime": "09:30:00 PM 13-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/PuspsG7VTDSNZ4394A-9Jg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123309_english_hls_8071ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Sydney Sixers Academy vs Melbourne Stars Academy (Melbourne T10 Invitational, 2025)",
@@ -136,6 +122,18 @@
             "match_name": "Trentino Aquila vs Friends XI",
             "match_id": 123060,
             "startTime": "06:15:00 PM 14-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Fresh Tropical vs Bologna (ECS Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
+            "team_1": "Fresh Tropical",
+            "team_2": "Bologna",
+            "status": "UPCOMING",
+            "event_name": "ECS Italy, Bologna, 2025",
+            "match_name": "Fresh Tropical vs Bologna",
+            "match_id": 123061,
+            "startTime": "08:15:00 PM 14-04-2025"
         }
     ]
 }
