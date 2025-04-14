@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:43:23 AM 14-04-2025",
+    "last update time": "10:53:31 AM 14-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/122789_5086_STA_SSA_fc-web.jpg",
             "team_1": "Sydney Thunder Academy",
             "team_2": "Sydney Sixers Academy",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Melbourne T10 Invitational, 2025",
             "match_name": "Sydney Thunder Academy vs Sydney Sixers Academy",
             "match_id": 122799,
-            "startTime": "11:00:00 AM 14-04-2025"
+            "startTime": "11:00:00 AM 14-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/N7jKxHeUSmCYqIEoYyX2Hg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122799_english_hls_5262ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -113,6 +115,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Melbourne Renegades Academy vs Adelaide Strikers Academy (Melbourne T10 Invitational, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Renegades-Academy-VS-Adelaide-Strikers-Academy_fc-web.jpg",
+            "team_1": "Melbourne Renegades Academy",
+            "team_2": "Adelaide Strikers Academy",
+            "status": "UPCOMING",
+            "event_name": "Melbourne T10 Invitational, 2025",
+            "match_name": "Melbourne Renegades Academy vs Adelaide Strikers Academy",
+            "match_id": 122798,
+            "startTime": "08:30:00 AM 15-04-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Trentino Aquila vs Friends XI (ECS Italy, Bologna, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
             "team_1": "Trentino Aquila",
@@ -122,18 +136,6 @@
             "match_name": "Trentino Aquila vs Friends XI",
             "match_id": 123060,
             "startTime": "06:15:00 PM 14-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Melbourne Renegades Academy vs Adelaide Strikers Academy (Melbourne T10 Invitational, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Melbourne Renegades Academy",
-            "team_2": "Adelaide Strikers Academy",
-            "status": "UPCOMING",
-            "event_name": "Melbourne T10 Invitational, 2025",
-            "match_name": "Melbourne Renegades Academy vs Adelaide Strikers Academy",
-            "match_id": 122798,
-            "startTime": "08:30:00 AM 15-04-2025"
         },
         {
             "event_category": "Cricket",
