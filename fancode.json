@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:38:52 AM 16-04-2025",
+    "last update time": "02:48:57 AM 16-04-2025",
     "matches": [
         {
             "event_category": "Basketball",
@@ -16,20 +16,6 @@
             "startTime": "12:30:00 AM 16-04-2025",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Real Madrid vs Paris (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/123797_CASACARDS_APP.png",
-            "team_1": "Real Madrid",
-            "team_2": "Paris",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Real Madrid vs Paris",
-            "match_id": 123797,
-            "startTime": "12:30:00 AM 16-04-2025",
-            "dai_url": "https://mls3.fancode.com/9f192a35-ea22-48e9-94d9-f698bea04dff/master.m3u8",
-            "adfree_url": "https://mls3.fancode.com/9f192a35-ea22-48e9-94d9-f698bea04dff/master.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,6 +124,18 @@
             "match_name": "Cividate vs Panjab",
             "match_id": 123066,
             "startTime": "12:15:00 PM 16-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cividate vs Markhor Milano (ECS Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
+            "team_1": "Cividate",
+            "team_2": "Markhor Milano",
+            "status": "UPCOMING",
+            "event_name": "ECS Italy, Bologna, 2025",
+            "match_name": "Cividate vs Markhor Milano",
+            "match_id": 123067,
+            "startTime": "02:15:00 PM 16-04-2025"
         }
     ]
 }
