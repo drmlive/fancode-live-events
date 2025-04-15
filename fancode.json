@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:42:50 PM 15-04-2025",
+    "last update time": "04:53:00 PM 15-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,6 +47,34 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Abu Dhabi vs Dubai (Emirates D50 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Dubai",
+            "status": "LIVE",
+            "event_name": "Emirates D50 Tournament, 2025",
+            "match_name": "Abu Dhabi vs Dubai",
+            "match_id": 123215,
+            "startTime": "05:00:00 PM 15-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/PUK605H-QuCJOkhte3htPw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123215_english_hls_8545ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Jharkhand FA vs Odisha FA vs Goa (DSC Football 2025 - Girls National Finals)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DSC_football_Old_match_card_2-(1).jpg",
+            "team_1": "Jharkhand FA vs Odisha FA",
+            "team_2": "Goa",
+            "status": "LIVE",
+            "event_name": "DSC Football 2025 - Girls National Finals",
+            "match_name": "Jharkhand FA vs Odisha FA",
+            "match_id": 122633,
+            "startTime": "05:00:00 PM 15-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/T4Mvw-zeQ9iq4GLHGb811A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122633_english_hls_5841ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Karachi Kings vs Lahore Qalandars (Pakistan Super League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123021_5094_KAR_LAH_fc-Web.jpg",
             "team_1": "Karachi Kings",
@@ -80,18 +108,6 @@
             "match_name": "Salt Pond Breakers vs Botanical Gardens Rangers",
             "match_id": 122268,
             "startTime": "12:00:00 AM 16-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi vs Dubai (Emirates D50 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "event_name": "Emirates D50 Tournament, 2025",
-            "match_name": "Abu Dhabi vs Dubai",
-            "match_id": 123215,
-            "startTime": "05:00:00 PM 15-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +156,6 @@
             "match_name": "KL Zalmi vs PAK Eagles",
             "match_id": 123080,
             "startTime": "07:00:00 AM 16-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "SNK Lions, Malaysia vs PAK Wolves (KL T20 Bash, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/123081_CASACARDS_APP.png",
-            "team_1": "SNK Lions, Malaysia",
-            "team_2": "PAK Wolves",
-            "status": "UPCOMING",
-            "event_name": "KL T20 Bash, 2025",
-            "match_name": "SNK Lions, Malaysia vs PAK Wolves",
-            "match_id": 123081,
-            "startTime": "07:30:00 AM 16-04-2025"
         }
     ]
 }
