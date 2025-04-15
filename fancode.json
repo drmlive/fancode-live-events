@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:15:38 AM 15-04-2025",
+    "last update time": "07:25:47 AM 15-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "06:00:00 AM 15-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/7NnbK88oTninlAharP3mBw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122794_english_hls_5116ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Colorado Rockies (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121872_5028_LAD_COR_fc-web.jpg",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Colorado Rockies",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Colorado Rockies",
+            "match_id": 121872,
+            "startTime": "07:40:00 AM 15-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/K89b7jw2QKOte2B_g03l3w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121872_english_hls_5317ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Bologna vs Trentino Aquila",
             "match_id": 123063,
             "startTime": "02:15:00 PM 15-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brescia CC vs Markhor Milano (ECS Italy, Bologna, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
-            "team_1": "Brescia CC",
-            "team_2": "Markhor Milano",
-            "status": "UPCOMING",
-            "event_name": "ECS Italy, Bologna, 2025",
-            "match_name": "Brescia CC vs Markhor Milano",
-            "match_id": 123064,
-            "startTime": "04:15:00 PM 15-04-2025"
         }
     ]
 }
