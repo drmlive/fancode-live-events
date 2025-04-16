@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:55:15 AM 16-04-2025",
+    "last update time": "12:05:24 PM 16-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "11:30:00 AM 16-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/-z9akszYR6Wh9yHY1fxrJA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123083_english_hls_5709ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cividate vs Panjab (ECS Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
+            "team_1": "Cividate",
+            "team_2": "Panjab",
+            "status": "LIVE",
+            "event_name": "ECS Italy, Bologna, 2025",
+            "match_name": "Cividate vs Panjab",
+            "match_id": 123066,
+            "startTime": "12:15:00 PM 16-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/EAIp7H1OQzuuyd4qZVt8pg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123066_english_hls_5998ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -66,30 +80,6 @@
             "match_name": "Dark View Explorers vs Grenadines Divers",
             "match_id": 122270,
             "startTime": "12:00:00 AM 17-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cividate vs Panjab (ECS Italy, Bologna, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
-            "team_1": "Cividate",
-            "team_2": "Panjab",
-            "status": "UPCOMING",
-            "event_name": "ECS Italy, Bologna, 2025",
-            "match_name": "Cividate vs Panjab",
-            "match_id": 123066,
-            "startTime": "12:15:00 PM 16-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Adelaide Strikers Academy vs TBC (Melbourne T10 Invitational, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Adelaide Strikers Academy",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Melbourne T10 Invitational, 2025",
-            "match_name": "Adelaide Strikers Academy vs TBC",
-            "match_id": 122780,
-            "startTime": "07:00:00 AM 17-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -138,6 +128,18 @@
             "match_name": "Markhor Milano vs Panjab",
             "match_id": 123070,
             "startTime": "08:15:00 PM 16-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh Women vs West Indies Women (ICC Women's Cricket World Cup Qualifier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/122665_5073_BD-W_WI-W_fc-web.jpg",
+            "team_1": "Bangladesh Women",
+            "team_2": "West Indies Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Cricket World Cup Qualifier, 2025",
+            "match_name": "Bangladesh Women vs West Indies Women",
+            "match_id": 122665,
+            "startTime": "10:00:00 AM 17-04-2025"
         }
     ]
 }
