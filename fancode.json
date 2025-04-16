@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:07:03 PM 16-04-2025",
+    "last update time": "03:17:12 PM 16-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,34 @@
             "startTime": "02:15:00 PM 16-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/rgsRPDpqTwmeMadiSgRc0g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123067_english_hls_5681ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Lion City Sailors (AFC Champions League Two 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/122830_CASACARDS_APP.png",
+            "team_1": "Sydney FC",
+            "team_2": "Lion City Sailors",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2024-25",
+            "match_name": "Sydney FC vs Lion City Sailors",
+            "match_id": 122830,
+            "startTime": "03:30:00 PM 16-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/uHkOZcKpST2bES-_QqCEuA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122830_english_hls_8496ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "UAE Challenge vs Saadiyat Beach Golf Club, UAE (UAE Challenge)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE-Challenge-old-match-card.png",
+            "team_1": "UAE Challenge",
+            "team_2": "Saadiyat Beach Golf Club, UAE",
+            "status": "LIVE",
+            "event_name": "UAE Challenge",
+            "match_name": "UAE Challenge",
+            "match_id": 121976,
+            "startTime": "03:25:00 PM 16-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-4fpUMryT2-U2REo9O03QA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121976_english_hls_5209ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -55,6 +83,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Panjab vs Brescia CC (ECS Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
+            "team_1": "Panjab",
+            "team_2": "Brescia CC",
+            "status": "UPCOMING",
+            "event_name": "ECS Italy, Bologna, 2025",
+            "match_name": "Panjab vs Brescia CC",
+            "match_id": 123068,
+            "startTime": "04:15:00 PM 16-04-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Adelaide Strikers Academy vs Melbourne Stars Academy (Melbourne T10 Invitational, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/122788_5086_MSA_ASA_fc-web.jpg",
             "team_1": "Adelaide Strikers Academy",
@@ -76,30 +116,6 @@
             "match_name": "Bangladesh Women vs West Indies Women",
             "match_id": 122665,
             "startTime": "10:00:00 AM 17-04-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Lion City Sailors (AFC Champions League Two 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/122830_CASACARDS_APP.png",
-            "team_1": "Sydney FC",
-            "team_2": "Lion City Sailors",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2024-25",
-            "match_name": "Sydney FC vs Lion City Sailors",
-            "match_id": 122830,
-            "startTime": "03:30:00 PM 16-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Panjab vs Brescia CC (ECS Italy, Bologna, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
-            "team_1": "Panjab",
-            "team_2": "Brescia CC",
-            "status": "UPCOMING",
-            "event_name": "ECS Italy, Bologna, 2025",
-            "match_name": "Panjab vs Brescia CC",
-            "match_id": 123068,
-            "startTime": "04:15:00 PM 16-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +152,6 @@
             "match_name": "Phoenix Cricketers vs Karavali United",
             "match_id": 122473,
             "startTime": "11:00:00 PM 16-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "PAK Wolves vs Pakistan Association Hong Kong (KL T20 Bash, 2025)",
-            "src": "https://images.fancode.com/aig/match/v3/123084_CASACARDS_APP.png",
-            "team_1": "PAK Wolves",
-            "team_2": "Pakistan Association Hong Kong",
-            "status": "UPCOMING",
-            "event_name": "KL T20 Bash, 2025",
-            "match_name": "PAK Wolves vs Pakistan Association Hong Kong",
-            "match_id": 123084,
-            "startTime": "07:00:00 AM 17-04-2025"
         }
     ]
 }
