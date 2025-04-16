@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:51:09 AM 16-04-2025",
+    "last update time": "07:01:17 AM 16-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "07:00:00 AM 16-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/cuDTm_KPR6iasSwtsFmw1A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123080_english_hls_5807ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Diego Padres vs Chicago Cubs (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121873_5028_SDP_CHC_fc-web.jpg",
+            "team_1": "San Diego Padres",
+            "team_2": "Chicago Cubs",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Diego Padres vs Chicago Cubs",
+            "match_id": 121873,
+            "startTime": "07:10:00 AM 16-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/uzK9a7TSSlCFus-n6SoDxw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121873_english_hls_5622ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -124,18 +138,6 @@
             "match_name": "Cividate vs Markhor Milano",
             "match_id": 123067,
             "startTime": "02:15:00 PM 16-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Panjab vs Brescia CC (ECS Italy, Bologna, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
-            "team_1": "Panjab",
-            "team_2": "Brescia CC",
-            "status": "UPCOMING",
-            "event_name": "ECS Italy, Bologna, 2025",
-            "match_name": "Panjab vs Brescia CC",
-            "match_id": 123068,
-            "startTime": "04:15:00 PM 16-04-2025"
         }
     ]
 }
