@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:38:48 AM 18-04-2025",
+    "last update time": "01:48:56 AM 18-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "01:15:00 AM 18-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/cSw3pSnSRY2rrFJEMsEQCQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122475_english_hls_6711ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rice University Cricket Club vs UCLA Cricket Club (Collegiate Cricket League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123807_5125_RUCC_UCLA_fc-web_1744894796608.jpg",
+            "team_1": "Rice University Cricket Club",
+            "team_2": "UCLA Cricket Club",
+            "status": "LIVE",
+            "event_name": "Collegiate Cricket League",
+            "match_name": "Rice University Cricket Club vs UCLA Cricket Club",
+            "match_id": 123807,
+            "startTime": "02:00:00 AM 18-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/xb4UAxB0TuSES2fQhcBXxg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123807_english_hls_6786ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -142,18 +156,6 @@
             "startTime": "01:35:00 AM 18-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ZQ8FHdfvQ82yKXQnYgWjaQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121877_english_hls_5809ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ireland Women vs Scotland Women (ICC Women's Cricket World Cup Qualifier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122667_5073_IR-W_SC-W_fc-web.jpg",
-            "team_1": "Ireland Women",
-            "team_2": "Scotland Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's Cricket World Cup Qualifier, 2025",
-            "match_name": "Ireland Women vs Scotland Women",
-            "match_id": 122667,
-            "startTime": "02:30:00 PM 18-04-2025"
         }
     ]
 }
