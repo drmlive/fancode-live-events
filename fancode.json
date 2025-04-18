@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:44:10 AM 19-04-2025",
+    "last update time": "12:54:18 AM 19-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "12:30:00 AM 19-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123267_english_hls_12668ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123267_english_hls_12668ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Dubai vs Fujairah (Emirates D50 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
-            "team_1": "Dubai",
-            "team_2": "Fujairah",
-            "status": "LIVE",
-            "event_name": "Emirates D50 Tournament, 2025",
-            "match_name": "Dubai vs Fujairah",
-            "match_id": 123221,
-            "startTime": "05:00:00 PM 18-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qYnH42EnTOyXBLq2gsvXgw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123221_english_hls_6092ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -158,18 +144,30 @@
             "adfree_url": null
         },
         {
-            "event_category": "Motorsports",
-            "title": "Qualifying vs Jeddah (F1 ACADEMY SAUDI ARABIA 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/_SAUDI-ARABIAN_F1-Academy_old.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Jeddah",
+            "event_category": "Basketball",
+            "title": "Real Madrid vs Bayern Munich (EuroLeague 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/123850_CASACARDS_APP.png",
+            "team_1": "Real Madrid",
+            "team_2": "Bayern Munich",
             "status": "LIVE",
-            "event_name": "F1 ACADEMY SAUDI ARABIA 2025",
-            "match_name": "Qualifying",
-            "match_id": 119117,
-            "startTime": "12:00:00 AM 19-04-2025",
-            "dai_url": "https://d36e99zzvi58x2.cloudfront.net/out/v1/eac249c1ec514714a1ec712f8f2cd474/index.m3u8",
-            "adfree_url": "https://d36e99zzvi58x2.cloudfront.net/out/v1/eac249c1ec514714a1ec712f8f2cd474/index.m3u8"
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Real Madrid vs Bayern Munich",
+            "match_id": 123850,
+            "startTime": "12:15:00 AM 19-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/fZaxI4UHSTCIQrk4fT2POQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123850_english_hls_4334ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "La Soufriere Hikers vs Grenadines Divers (Dream11 Vincy Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/122264_5058_GRD_LSH_fc-web.jpg",
+            "team_1": "La Soufriere Hikers",
+            "team_2": "Grenadines Divers",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Vincy Premier League, 2025",
+            "match_name": "La Soufriere Hikers vs Grenadines Divers",
+            "match_id": 122274,
+            "startTime": "06:00:00 AM 19-04-2025"
         }
     ]
 }
