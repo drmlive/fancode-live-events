@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:13:51 AM 19-04-2025",
+    "last update time": "12:23:57 AM 19-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "12:00:00 AM 19-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/PmX6cDg2QneQr2S59QPIIw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122273_english_hls_9883ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Karachi Kings vs Quetta Gladiators (Pakistan Super League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123023_5094_KAR_QUE_fc-Web.jpg",
-            "team_1": "Karachi Kings",
-            "team_2": "Quetta Gladiators",
-            "status": "LIVE",
-            "event_name": "Pakistan Super League, 2025",
-            "match_name": "Karachi Kings vs Quetta Gladiators",
-            "match_id": 123023,
-            "startTime": "08:30:00 PM 18-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/z1y4iiQZSDabT7yu911cJA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123023_english_hls_9256ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -58,6 +44,20 @@
             "startTime": "12:15:00 AM 19-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/wEFrSDCeQEy5C5gIVjcfmA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122479_english_hls_1127ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Oxford United vs Leeds United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Oxford United",
+            "team_2": "Leeds United",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Oxford United vs Leeds United",
+            "match_id": 123267,
+            "startTime": "12:30:00 AM 19-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123267_english_hls_12668ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123267_english_hls_12668ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,20 +156,6 @@
             "startTime": "11:50:00 PM 18-04-2025",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Qualifying vs Jeddah (F1 ACADEMY SAUDI ARABIA 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/_SAUDI-ARABIAN_F1-Academy_old.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Jeddah",
-            "status": "LIVE",
-            "event_name": "F1 ACADEMY SAUDI ARABIA 2025",
-            "match_name": "Qualifying",
-            "match_id": 119117,
-            "startTime": "12:00:00 AM 19-04-2025",
-            "dai_url": "https://d36e99zzvi58x2.cloudfront.net/out/v1/eac249c1ec514714a1ec712f8f2cd474/index.m3u8",
-            "adfree_url": "https://d36e99zzvi58x2.cloudfront.net/out/v1/eac249c1ec514714a1ec712f8f2cd474/index.m3u8"
         }
     ]
 }
