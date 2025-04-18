@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:58:55 PM 18-04-2025",
+    "last update time": "05:09:04 PM 18-04-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -46,6 +46,20 @@
             "adfree_url": "https://dai.fancode.com/primary/122477_english_hls_6899ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Markhor Milano vs Fresh Tropical (ECS Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
+            "team_1": "Markhor Milano",
+            "team_2": "Fresh Tropical",
+            "status": "LIVE",
+            "event_name": "ECS Italy, Bologna, 2025",
+            "match_name": "Markhor Milano vs Fresh Tropical",
+            "match_id": 123078,
+            "startTime": "05:15:00 PM 18-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/gAcdMRmESaKuONiKqwGCow/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123078_english_hls_6288ta-di/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Derby County vs Luton Town (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123266_4352_DER_LUT_fc-web.jpg",
@@ -60,28 +74,14 @@
             "adfree_url": "https://dai.fancode.com/primary/123266_english_hls_88234adfreeta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Adelaide United vs Wellington Phoenix (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111045_4567_ADL_WEL_fc-web_1728983129563.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Wellington Phoenix",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Adelaide United vs Wellington Phoenix",
-            "match_id": 111045,
-            "startTime": "03:05:00 PM 18-04-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
             "event_category": "Cricket",
-            "title": "Fujairah vs Dubai (Emirates D50 Tournament, 2025)",
+            "title": "Dubai vs Fujairah (Emirates D50 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
-            "team_1": "Fujairah",
-            "team_2": "Dubai",
+            "team_1": "Dubai",
+            "team_2": "Fujairah",
             "status": "LIVE",
             "event_name": "Emirates D50 Tournament, 2025",
-            "match_name": "Fujairah vs Dubai",
+            "match_name": "Dubai vs Fujairah",
             "match_id": 123221,
             "startTime": "05:00:00 PM 18-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/qYnH42EnTOyXBLq2gsvXgw/master.m3u8",
@@ -125,18 +125,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Markhor Milano vs Fresh Tropical (ECS Italy, Bologna, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Italy,-Bologna-old.png",
-            "team_1": "Markhor Milano",
-            "team_2": "Fresh Tropical",
-            "status": "UPCOMING",
-            "event_name": "ECS Italy, Bologna, 2025",
-            "match_name": "Markhor Milano vs Fresh Tropical",
-            "match_id": 123078,
-            "startTime": "05:15:00 PM 18-04-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Pakistan Women vs Bangladesh Women (ICC Women's Cricket World Cup Qualifier, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/122668_5073_PK-W_BD-W_fc-web.jpg",
             "team_1": "Pakistan Women",
@@ -148,16 +136,28 @@
             "startTime": "10:00:00 AM 19-04-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Global Champs vs Lexus (KCC T20 Challengers B League Edition 2, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Challengers-Cup_old_03.jpg",
-            "team_1": "Global Champs",
-            "team_2": "Lexus",
+            "event_category": "Kabaddi",
+            "title": "Tamil Lions vs Punjabi Tigers (Global Indian Pravasi Kabaddi League Men, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123755_5121_TL_PT_fc-web.jpg",
+            "team_1": "Tamil Lions",
+            "team_2": "Punjabi Tigers",
             "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers B League Edition 2, 2025",
-            "match_name": "Global Champs vs Lexus",
-            "match_id": 122478,
-            "startTime": "08:00:00 PM 18-04-2025"
+            "event_name": "Global Indian Pravasi Kabaddi League Men, 2025",
+            "match_name": "Tamil Lions vs Punjabi Tigers",
+            "match_id": 123755,
+            "startTime": "06:00:00 PM 18-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Women vs Thailand Women (ICC Women's Cricket World Cup Qualifier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/122669_5073_WI-W_TL-W_fc-web.jpg",
+            "team_1": "West Indies Women",
+            "team_2": "Thailand Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Cricket World Cup Qualifier, 2025",
+            "match_name": "West Indies Women vs Thailand Women",
+            "match_id": 122669,
+            "startTime": "02:30:00 PM 19-04-2025"
         }
     ]
 }
