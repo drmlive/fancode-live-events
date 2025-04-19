@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:00:35 AM 20-04-2025",
+    "last update time": "02:10:41 AM 20-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Fort Charlotte Strikers vs Salt Pond Breakers (Dream11 Vincy Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122257_5058_FCS_SPB_fc-web.jpg",
-            "team_1": "Fort Charlotte Strikers",
-            "team_2": "Salt Pond Breakers",
-            "status": "LIVE",
-            "event_name": "Dream11 Vincy Premier League, 2025",
-            "match_name": "Fort Charlotte Strikers vs Salt Pond Breakers",
-            "match_id": 122275,
-            "startTime": "12:00:00 AM 20-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/zxEI7OuoSEyHD73Id3G3-w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122275_english_hls_5598ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "University of Southern California vs University of Texas at Dallas (Collegiate Cricket League)",
@@ -44,6 +30,20 @@
             "startTime": "01:00:00 AM 20-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123774_english_hls_69741ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123774_english_hls_69741ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "University of Florida vs University of California, Irvine (Collegiate Cricket League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123828_5125_UFL_UCI_fc-web.jpg",
+            "team_1": "University of Florida",
+            "team_2": "University of California, Irvine",
+            "status": "LIVE",
+            "event_name": "Collegiate Cricket League",
+            "match_name": "University of Florida vs University of California, Irvine",
+            "match_id": 123828,
+            "startTime": "02:30:00 AM 20-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123828_english_hls_93366adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123828_english_hls_93366adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -140,18 +140,6 @@
             "match_name": "La Soufriere Hikers vs Botanical Gardens Rangers",
             "match_id": 122276,
             "startTime": "06:00:00 AM 20-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "University of Florida vs University of California, Irvine (Collegiate Cricket League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123828_5125_UFL_UCI_fc-web.jpg",
-            "team_1": "University of Florida",
-            "team_2": "University of California, Irvine",
-            "status": "UPCOMING",
-            "event_name": "Collegiate Cricket League",
-            "match_name": "University of Florida vs University of California, Irvine",
-            "match_id": 123828,
-            "startTime": "02:30:00 AM 20-04-2025"
         }
     ]
 }
