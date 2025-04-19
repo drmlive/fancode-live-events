@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:39:39 AM 20-04-2025",
+    "last update time": "12:49:45 AM 20-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "12:30:00 AM 20-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123826_english_hls_19990adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123826_english_hls_19990adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bermuda vs Canada (North American Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123774_5123_BER_CAN_fc-web.jpg",
+            "team_1": "Bermuda",
+            "team_2": "Canada",
+            "status": "LIVE",
+            "event_name": "North American Cup, 2025",
+            "match_name": "Bermuda vs Canada",
+            "match_id": 123774,
+            "startTime": "01:00:00 AM 20-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123774_english_hls_69741ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123774_english_hls_69741ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -116,20 +130,6 @@
             "adfree_url": "https://dai.fancode.com/primary/123139_english_hls_5505ta-no/index.m3u8"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Qualifying vs Saudi Arabia (F1 STC SAUDI ARABIAN GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-SAUDI-ARABIAN-GRAND-PRIX_Old_Matchcard-(1).jpg",
-            "team_1": "Qualifying",
-            "team_2": "Saudi Arabia",
-            "status": "LIVE",
-            "event_name": "F1 STC SAUDI ARABIAN GRAND PRIX 2025",
-            "match_name": "Qualifying",
-            "match_id": 118404,
-            "startTime": "10:30:00 PM 19-04-2025",
-            "dai_url": "https://d2t7x9ygg1jjmw.cloudfront.net/out/v1/632d8434fd07415d969d683e6e1c71e6/index.m3u8",
-            "adfree_url": "https://d2t7x9ygg1jjmw.cloudfront.net/out/v1/632d8434fd07415d969d683e6e1c71e6/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "World Feed - Day 3 vs Harbour Town Golf Links (RBC Heritage)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",
@@ -156,20 +156,6 @@
             "startTime": "10:40:00 PM 19-04-2025",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3 vs Puntacana Resort & Club (Corales Puntacana Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship--old-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "Puntacana Resort & Club",
-            "status": "LIVE",
-            "event_name": "Corales Puntacana Championship",
-            "match_name": "Day 3",
-            "match_id": 123151,
-            "startTime": "12:30:00 AM 20-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ejWD5FPWTfmXC53pDAaEPw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123151_english_hls_5182ta-di/index.m3u8"
         }
     ]
 }
