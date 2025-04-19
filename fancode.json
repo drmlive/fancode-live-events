@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:56:24 PM 19-04-2025",
+    "last update time": "06:06:32 PM 19-04-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -33,6 +33,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "France vs Sweden (ECI France, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/123835_CASACARDS_APP.png",
+            "team_1": "France",
+            "team_2": "Sweden",
+            "status": "LIVE",
+            "event_name": "ECI France, 2025",
+            "match_name": "France vs Sweden",
+            "match_id": 123835,
+            "startTime": "06:15:00 PM 19-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/R085IO_LTPac8HaJOMXbDQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123835_english_hls_5369ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Sharjah vs Abu Dhabi (Emirates D50 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
             "team_1": "Sharjah",
@@ -47,13 +61,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ajman vs Emirates Blues (Emirates D50 Tournament, 2025)",
+            "title": "Emirates Blues vs Ajman (Emirates D50 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Blues",
+            "team_1": "Emirates Blues",
+            "team_2": "Ajman",
             "status": "LIVE",
             "event_name": "Emirates D50 Tournament, 2025",
-            "match_name": "Ajman vs Emirates Blues",
+            "match_name": "Emirates Blues vs Ajman",
             "match_id": 123223,
             "startTime": "05:30:00 PM 19-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/BV1spMKKSw6uD2BzJJV2pA/master.m3u8",
@@ -152,18 +166,6 @@
             "match_name": "Salt Pond Breakers vs Fort Charlotte Strikers",
             "match_id": 122275,
             "startTime": "12:00:00 AM 20-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "La Soufriere Hikers vs Botanical Gardens Rangers (Dream11 Vincy Premier League, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/122276_CASACARDS_APP.png",
-            "team_1": "La Soufriere Hikers",
-            "team_2": "Botanical Gardens Rangers",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Vincy Premier League, 2025",
-            "match_name": "La Soufriere Hikers vs Botanical Gardens Rangers",
-            "match_id": 122276,
-            "startTime": "06:00:00 AM 20-04-2025"
         }
     ]
 }
