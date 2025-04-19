@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:49:45 AM 20-04-2025",
+    "last update time": "12:59:50 AM 20-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "01:00:00 AM 20-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123774_english_hls_69741ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123774_english_hls_69741ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Emirates Blues vs Ajman (Emirates D50 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Ajman",
-            "status": "LIVE",
-            "event_name": "Emirates D50 Tournament, 2025",
-            "match_name": "Emirates Blues vs Ajman",
-            "match_id": 123223,
-            "startTime": "05:30:00 PM 19-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/BV1spMKKSw6uD2BzJJV2pA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123223_english_hls_5512ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -144,18 +130,30 @@
             "adfree_url": "https://dai.fancode.com/primary/123140_english_hls_8800ta-no/index.m3u8"
         },
         {
-            "event_category": "Baseball",
-            "title": "Detroit Tigers vs Kansas City Royals (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121880_5028_DET_KCR_fc-web.jpg",
-            "team_1": "Detroit Tigers",
-            "team_2": "Kansas City Royals",
+            "event_category": "Golf",
+            "title": "Day 3 vs Puntacana Resort & Club (Corales Puntacana Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship--old-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "Puntacana Resort & Club",
             "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Detroit Tigers vs Kansas City Royals",
-            "match_id": 121880,
-            "startTime": "10:40:00 PM 19-04-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "event_name": "Corales Puntacana Championship",
+            "match_name": "Day 3",
+            "match_id": 123151,
+            "startTime": "12:30:00 AM 20-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ejWD5FPWTfmXC53pDAaEPw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123151_english_hls_5182ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "La Soufriere Hikers vs Botanical Gardens Rangers (Dream11 Vincy Premier League, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/122276_CASACARDS_APP.png",
+            "team_1": "La Soufriere Hikers",
+            "team_2": "Botanical Gardens Rangers",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Vincy Premier League, 2025",
+            "match_name": "La Soufriere Hikers vs Botanical Gardens Rangers",
+            "match_id": 122276,
+            "startTime": "06:00:00 AM 20-04-2025"
         }
     ]
 }
