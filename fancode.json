@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:08:02 PM 19-04-2025",
+    "last update time": "10:18:10 PM 19-04-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "France vs Sweden (ECI France, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/123836_CASACARDS_APP.png",
-            "team_1": "France",
-            "team_2": "Sweden",
-            "status": "LIVE",
-            "event_name": "ECI France, 2025",
-            "match_name": "France vs Sweden",
-            "match_id": 123836,
-            "startTime": "08:15:00 PM 19-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/KbbdO6HdT-uJa-MK6OB3Vw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123836_english_hls_5399ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "USA vs Cayman Islands (North American Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123773_5123_CAY_USA_fc-web.jpg",
             "team_1": "USA",
@@ -72,6 +58,20 @@
             "startTime": "08:30:00 PM 19-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123822_english_hls_77043adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123822_english_hls_77043adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "University of Florida vs University of Wisconsin Madison (Collegiate Cricket League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123824_5125_UFL_UWM_fc-web_1744894796569.jpg",
+            "team_1": "University of Florida",
+            "team_2": "University of Wisconsin Madison",
+            "status": "LIVE",
+            "event_name": "Collegiate Cricket League",
+            "match_name": "University of Florida vs University of Wisconsin Madison",
+            "match_id": 123824,
+            "startTime": "10:30:00 PM 19-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123824_english_hls_5314adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123824_english_hls_5314adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,16 +158,18 @@
             "adfree_url": "https://dai.fancode.com/primary/123139_english_hls_5505ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Salt Pond Breakers vs Fort Charlotte Strikers (Dream11 Vincy Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122257_5058_FCS_SPB_fc-web.jpg",
-            "team_1": "Salt Pond Breakers",
-            "team_2": "Fort Charlotte Strikers",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Vincy Premier League, 2025",
-            "match_name": "Salt Pond Breakers vs Fort Charlotte Strikers",
-            "match_id": 122275,
-            "startTime": "12:00:00 AM 20-04-2025"
+            "event_category": "Golf",
+            "title": "World Feed - Day 3 vs Harbour Town Golf Links (RBC Heritage)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",
+            "team_1": "World Feed - Day 3",
+            "team_2": "Harbour Town Golf Links",
+            "status": "LIVE",
+            "event_name": "RBC Heritage",
+            "match_name": "World Feed - Day 3",
+            "match_id": 123140,
+            "startTime": "10:30:00 PM 19-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/_cPTFIeWTkG0L0FphWhkjg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123140_english_hls_8800ta-no/index.m3u8"
         }
     ]
 }
