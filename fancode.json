@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:24:01 PM 19-04-2025",
+    "last update time": "02:34:14 PM 19-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,18 +88,18 @@
             "adfree_url": "https://dai.fancode.com/primary/123833_english_hls_5823ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Auckland (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111046_4567_MLV_AFC_fc-web_1728983131033.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Auckland",
+            "event_category": "Cricket",
+            "title": "Italia Sud-W vs Italia Nord-W (ECS-W Italy, Bologna, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Italy,-Bologna-old.jpg",
+            "team_1": "Italia Sud-W",
+            "team_2": "Italia Nord-W",
             "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Melbourne Victory vs Auckland",
-            "match_id": 111046,
-            "startTime": "12:30:00 PM 19-04-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "event_name": "ECS-W Italy, Bologna, 2025",
+            "match_name": "Italia Sud-W vs Italia Nord-W",
+            "match_id": 123634,
+            "startTime": "02:45:00 PM 19-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/r26HwvsjRJ-ot23uZJ-UxA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123634_english_hls_5578ta-no/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -114,6 +114,20 @@
             "startTime": "10:00:00 AM 19-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/UbTY1UFnQICjF7ereDVnmQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122977_english_hls_9059ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Auckland (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111046_4567_MLV_AFC_fc-web_1728983131033.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Auckland",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Melbourne Victory vs Auckland",
+            "match_id": 111046,
+            "startTime": "12:30:00 PM 19-04-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -150,18 +164,6 @@
             "match_name": "La Soufriere Hikers vs Botanical Gardens Rangers",
             "match_id": 122276,
             "startTime": "06:00:00 AM 20-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Italia Sud-W vs Italia Nord-W (ECS-W Italy, Bologna, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Italy,-Bologna-old.jpg",
-            "team_1": "Italia Sud-W",
-            "team_2": "Italia Nord-W",
-            "status": "UPCOMING",
-            "event_name": "ECS-W Italy, Bologna, 2025",
-            "match_name": "Italia Sud-W vs Italia Nord-W",
-            "match_id": 123634,
-            "startTime": "02:45:00 PM 19-04-2025"
         }
     ]
 }
