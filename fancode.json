@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:15:53 PM 19-04-2025",
+    "last update time": "05:25:59 PM 19-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/123136_english_hls_5206ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Melbourne City (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111047_4567_SYW_MLC_fc-web_1728983130286.jpg",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Melbourne City",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Western Sydney Wanderers vs Melbourne City",
-            "match_id": 111047,
-            "startTime": "03:05:00 PM 19-04-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
             "event_category": "Cricket",
             "title": "Peshawar Zalmi vs Multan Sultans (Pakistan Super League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123024_5094_PES_MUL_fc-Web.jpg",
@@ -160,6 +146,18 @@
             "match_name": "Marathi Falcons vs Telugu Cheetahs",
             "match_id": 123736,
             "startTime": "06:00:00 PM 19-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "University of Florida vs University of Texas at Austin (Collegiate Cricket League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123820_5125_UFL_UTA_fc-web_1744894797369.jpg",
+            "team_1": "University of Florida",
+            "team_2": "University of Texas at Austin",
+            "status": "UPCOMING",
+            "event_name": "Collegiate Cricket League",
+            "match_name": "University of Florida vs University of Texas at Austin",
+            "match_id": 123820,
+            "startTime": "06:30:00 PM 19-04-2025"
         }
     ]
 }
