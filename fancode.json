@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:05:45 PM 19-04-2025",
+    "last update time": "05:15:53 PM 19-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/123834_english_hls_5787ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Melbourne City (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111047_4567_SYW_MLC_fc-web_1728983130286.jpg",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Melbourne City",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Western Sydney Wanderers vs Melbourne City",
-            "match_id": 111047,
-            "startTime": "03:05:00 PM 19-04-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
             "event_category": "Cricket",
             "title": "Sharjah vs Abu Dhabi (Emirates D50 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
@@ -74,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/123222_english_hls_3241ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Ajman vs Emirates Blues (Emirates D50 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
+            "team_1": "Ajman",
+            "team_2": "Emirates Blues",
+            "status": "LIVE",
+            "event_name": "Emirates D50 Tournament, 2025",
+            "match_name": "Ajman vs Emirates Blues",
+            "match_id": 123223,
+            "startTime": "05:30:00 PM 19-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/BV1spMKKSw6uD2BzJJV2pA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123223_english_hls_5512ta-di/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed - Day 3 vs Harbour Town Golf Links (RBC Heritage)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",
@@ -86,6 +86,20 @@
             "startTime": "05:15:00 PM 19-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/fSsqtkoHRD-4SX07NIW1fw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123136_english_hls_5206ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Melbourne City (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111047_4567_SYW_MLC_fc-web_1728983130286.jpg",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Melbourne City",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Western Sydney Wanderers vs Melbourne City",
+            "match_id": 111047,
+            "startTime": "03:05:00 PM 19-04-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -125,15 +139,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ajman vs Emirates Blues (Emirates D50 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Blues",
+            "title": "France vs Sweden (ECI France, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/123835_CASACARDS_APP.png",
+            "team_1": "France",
+            "team_2": "Sweden",
             "status": "UPCOMING",
-            "event_name": "Emirates D50 Tournament, 2025",
-            "match_name": "Ajman vs Emirates Blues",
-            "match_id": 123223,
-            "startTime": "05:30:00 PM 19-04-2025"
+            "event_name": "ECI France, 2025",
+            "match_name": "France vs Sweden",
+            "match_id": 123835,
+            "startTime": "06:15:00 PM 19-04-2025"
         },
         {
             "event_category": "Kabaddi",
@@ -146,18 +160,6 @@
             "match_name": "Marathi Falcons vs Telugu Cheetahs",
             "match_id": 123736,
             "startTime": "06:00:00 PM 19-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "France vs Sweden (ECI France, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/123835_CASACARDS_APP.png",
-            "team_1": "France",
-            "team_2": "Sweden",
-            "status": "UPCOMING",
-            "event_name": "ECI France, 2025",
-            "match_name": "France vs Sweden",
-            "match_id": 123835,
-            "startTime": "06:15:00 PM 19-04-2025"
         }
     ]
 }
