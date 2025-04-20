@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:35:13 AM 21-04-2025",
+    "last update time": "12:45:23 AM 21-04-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -72,6 +72,20 @@
             "startTime": "12:00:00 AM 21-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123831_english_hls_45525adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123831_english_hls_45525adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bermuda vs Cayman Islands (North American Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123776_5123_CAY_BER_fc-web.jpg",
+            "team_1": "Bermuda",
+            "team_2": "Cayman Islands",
+            "status": "LIVE",
+            "event_name": "North American Cup, 2025",
+            "match_name": "Bermuda vs Cayman Islands",
+            "match_id": 123776,
+            "startTime": "01:00:00 AM 21-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123776_english_hls_29971adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123776_english_hls_29971adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -156,20 +170,6 @@
             "startTime": "11:10:00 PM 20-04-2025",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 4 vs Puntacana Resort & Club (Corales Puntacana Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Corales-Puntacana-Championship--old-match-card.png",
-            "team_1": "Day 4",
-            "team_2": "Puntacana Resort & Club",
-            "status": "LIVE",
-            "event_name": "Corales Puntacana Championship",
-            "match_name": "Day 4",
-            "match_id": 123152,
-            "startTime": "12:30:00 AM 21-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/pj1AAm7YSoaiB1GHxdjt7g/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123152_english_hls_5013ta-di/index.m3u8"
         }
     ]
 }
