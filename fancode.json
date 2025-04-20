@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:55:18 AM 20-04-2025",
+    "last update time": "10:05:28 AM 20-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,6 +46,20 @@
             "adfree_url": "https://dai.fancode.com/primary/123501_english_hls_15394ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Sydney FC vs Newcastle Jets (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111049_4567_SYD_NJ_fc-web_1728983130420.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Newcastle Jets",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Sydney FC vs Newcastle Jets",
+            "match_id": 111049,
+            "startTime": "10:30:00 AM 20-04-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Golf",
             "title": "Day 4 vs Shanghai Enhance Anting Golf Club (Volvo China Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Volvo-China-open-old.jpg",
@@ -84,16 +98,28 @@
             "startTime": "12:00:00 AM 21-04-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Sydney FC vs Newcastle Jets (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111049_4567_SYD_NJ_fc-web_1728983130420.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Newcastle Jets",
+            "event_category": "Cricket",
+            "title": "Global Stars vs Mazang Gymkhana CC (KL T20 Bash, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123098_5096_GS_MZC_fc-web_1744799866253.jpg",
+            "team_1": "Global Stars",
+            "team_2": "Mazang Gymkhana CC",
             "status": "UPCOMING",
-            "event_name": "A League 2024-25",
-            "match_name": "Sydney FC vs Newcastle Jets",
-            "match_id": 111049,
-            "startTime": "10:30:00 AM 20-04-2025"
+            "event_name": "KL T20 Bash, 2025",
+            "match_name": "Global Stars vs Mazang Gymkhana CC",
+            "match_id": 123098,
+            "startTime": "11:00:00 AM 20-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Grenadines Divers vs Botanical Gardens Rangers (Dream11 Vincy Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/122258_5058_BGR_GRD_fc-web.jpg",
+            "team_1": "Grenadines Divers",
+            "team_2": "Botanical Gardens Rangers",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Vincy Premier League, 2025",
+            "match_name": "Grenadines Divers vs Botanical Gardens Rangers",
+            "match_id": 122278,
+            "startTime": "06:30:00 AM 21-04-2025"
         },
         {
             "event_category": "Football",
@@ -118,30 +144,6 @@
             "match_name": "Shimizu S-Pulse vs Avispa Fukuoka",
             "match_id": 121941,
             "startTime": "10:30:00 AM 20-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Grenadines Divers vs Botanical Gardens Rangers (Dream11 Vincy Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122258_5058_BGR_GRD_fc-web.jpg",
-            "team_1": "Grenadines Divers",
-            "team_2": "Botanical Gardens Rangers",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Vincy Premier League, 2025",
-            "match_name": "Grenadines Divers vs Botanical Gardens Rangers",
-            "match_id": 122278,
-            "startTime": "06:30:00 AM 21-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Global Stars vs Mazang Gymkhana CC (KL T20 Bash, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123098_5096_GS_MZC_fc-web_1744799866253.jpg",
-            "team_1": "Global Stars",
-            "team_2": "Mazang Gymkhana CC",
-            "status": "UPCOMING",
-            "event_name": "KL T20 Bash, 2025",
-            "match_name": "Global Stars vs Mazang Gymkhana CC",
-            "match_id": 123098,
-            "startTime": "11:00:00 AM 20-04-2025"
         },
         {
             "event_category": "Cricket",
