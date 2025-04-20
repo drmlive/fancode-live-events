@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:20:22 PM 20-04-2025",
+    "last update time": "05:30:33 PM 20-04-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/_SAUDI-ARABIAN_F1-Academy_old.jpg",
             "team_1": "Feature Race",
             "team_2": "Jeddah",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F1 ACADEMY SAUDI ARABIA 2025",
             "match_name": "Feature Race",
             "match_id": 119119,
-            "startTime": "05:35:00 PM 20-04-2025"
+            "startTime": "05:35:00 PM 20-04-2025",
+            "dai_url": "https://d1dm4y2fvc48wp.cloudfront.net/out/v1/0b42fc9eb7de4b12928aff4f8d7e9a93/index.m3u8",
+            "adfree_url": "https://d1dm4y2fvc48wp.cloudfront.net/out/v1/0b42fc9eb7de4b12928aff4f8d7e9a93/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -42,6 +44,20 @@
             "startTime": "05:15:00 PM 20-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kZ4b0xm-RqSaYYm-QYgp-w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123141_english_hls_4877ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Group - Day 4 vs Harbour Town Golf Links (RBC Heritage)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC-Heritage-Open-old.jpg",
+            "team_1": "Featured Group - Day 4",
+            "team_2": "Harbour Town Golf Links",
+            "status": "LIVE",
+            "event_name": "RBC Heritage",
+            "match_name": "Featured Group - Day 4",
+            "match_id": 123144,
+            "startTime": "05:45:00 PM 20-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/mBVHBJ_cQOKYeovxKvaInQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123144_english_hls_8810ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -80,6 +96,18 @@
             "startTime": "06:30:00 AM 21-04-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Sweden vs France (ECI France, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/123839_CASACARDS_APP.png",
+            "team_1": "Sweden",
+            "team_2": "France",
+            "status": "UPCOMING",
+            "event_name": "ECI France, 2025",
+            "match_name": "Sweden vs France",
+            "match_id": 123839,
+            "startTime": "06:30:00 PM 20-04-2025"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "Telugu Panthers vs Tamil Lions (Global Indian Pravasi Kabaddi League Men, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123758_5121_TP_TL_fc-web.jpg",
@@ -90,18 +118,6 @@
             "match_name": "Telugu Panthers vs Tamil Lions",
             "match_id": 123758,
             "startTime": "06:00:00 PM 20-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "France vs Sweden (ECI France, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/123839_CASACARDS_APP.png",
-            "team_1": "France",
-            "team_2": "Sweden",
-            "status": "UPCOMING",
-            "event_name": "ECI France, 2025",
-            "match_name": "France vs Sweden",
-            "match_id": 123839,
-            "startTime": "06:30:00 PM 20-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +154,6 @@
             "match_name": "University of Southern California vs University of Washington",
             "match_id": 123830,
             "startTime": "10:00:00 PM 20-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Renegades CC vs Phoenix Cricketers (KCC T20 Challengers B League Edition 2, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/122481_CASACARDS_APP.png",
-            "team_1": "Renegades CC",
-            "team_2": "Phoenix Cricketers",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers B League Edition 2, 2025",
-            "match_name": "Renegades CC vs Phoenix Cricketers",
-            "match_id": 122481,
-            "startTime": "11:00:00 PM 20-04-2025"
         }
     ]
 }
