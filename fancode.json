@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:39:50 AM 22-04-2025",
+    "last update time": "12:49:56 AM 22-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,29 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Peshawar Zalmi vs Karachi Kings (Pakistan Super League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123026_5094_KAR_PES_fc-Web.jpg",
-            "team_1": "Peshawar Zalmi",
-            "team_2": "Karachi Kings",
-            "status": "LIVE",
-            "event_name": "Pakistan Super League, 2025",
-            "match_name": "Peshawar Zalmi vs Karachi Kings",
-            "match_id": 123026,
-            "startTime": "08:30:00 PM 21-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8kus0PyDQPqJlkwTomc0tg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123026_english_hls_6353ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bermuda vs USA (North American Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123778_5123_USA_BER_fc-web.jpg",
             "team_1": "Bermuda",
             "team_2": "USA",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "North American Cup, 2025",
             "match_name": "Bermuda vs USA",
             "match_id": 123778,
-            "startTime": "01:00:00 AM 22-04-2025"
+            "startTime": "01:00:00 AM 22-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123778_english_hls_69436adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123778_english_hls_69436adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +138,18 @@
             "match_name": "Brisbane Roar vs Adelaide United",
             "match_id": 110982,
             "startTime": "02:30:00 PM 22-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Salmiya Strikers vs Ai Octopus Challengers (KCC T10 Challengers League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
+            "team_1": "Salmiya Strikers",
+            "team_2": "Ai Octopus Challengers",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Challengers League, 2025",
+            "match_name": "Salmiya Strikers vs Ai Octopus Challengers",
+            "match_id": 123557,
+            "startTime": "10:00:00 PM 22-04-2025"
         }
     ]
 }
