@@ -1,21 +1,33 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:26:06 PM 21-04-2025",
+    "last update time": "06:36:14 PM 21-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Royal 94 vs Paris Universite Club (ECS France, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card.jpg",
-            "team_1": "Royal 94",
-            "team_2": "Paris Universite Club",
+            "title": "Karachi Kings vs Peshawar Zalmi (Pakistan Super League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123026_5094_KAR_PES_fc-Web.jpg",
+            "team_1": "Karachi Kings",
+            "team_2": "Peshawar Zalmi",
+            "status": "UPCOMING",
+            "event_name": "Pakistan Super League, 2025",
+            "match_name": "Karachi Kings vs Peshawar Zalmi",
+            "match_id": 123026,
+            "startTime": "08:30:00 PM 21-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ekota CC vs Paris Zalmi (ECS France, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card-3.jpg",
+            "team_1": "Ekota CC",
+            "team_2": "Paris Zalmi",
             "status": "LIVE",
             "event_name": "ECS France, 2025",
-            "match_name": "Royal 94 vs Paris Universite Club",
-            "match_id": 123704,
-            "startTime": "04:45:00 PM 21-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/gxIgJlYfSBiFlgWw9sJQmA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123704_english_hls_5016ta-di/index.m3u8"
+            "match_name": "Ekota CC vs Paris Zalmi",
+            "match_id": 123705,
+            "startTime": "06:45:00 PM 21-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/F1vdoOhaTjO7g96jW_NaHQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123705_english_hls_5143ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -74,28 +86,28 @@
             "adfree_url": "https://dai.fancode.com/primary/123739_english_hls_15680adfreeta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Karachi Kings vs Peshawar Zalmi (Pakistan Super League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123026_5094_KAR_PES_fc-Web.jpg",
-            "team_1": "Karachi Kings",
-            "team_2": "Peshawar Zalmi",
+            "event_category": "Football",
+            "title": "West Bromwich Albion vs Derby County (EFL Championship 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/123272_CASACARDS_APP.png",
+            "team_1": "West Bromwich Albion",
+            "team_2": "Derby County",
             "status": "UPCOMING",
-            "event_name": "Pakistan Super League, 2025",
-            "match_name": "Karachi Kings vs Peshawar Zalmi",
-            "match_id": 123026,
-            "startTime": "08:30:00 PM 21-04-2025"
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "West Bromwich Albion vs Derby County",
+            "match_id": 123272,
+            "startTime": "07:30:00 PM 21-04-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Ekota CC vs Paris Zalmi (ECS France, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card-3.jpg",
-            "team_1": "Ekota CC",
-            "team_2": "Paris Zalmi",
+            "event_category": "Football",
+            "title": "Leeds United vs Stoke City (EFL Championship 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/123271_CASACARDS_APP.png",
+            "team_1": "Leeds United",
+            "team_2": "Stoke City",
             "status": "UPCOMING",
-            "event_name": "ECS France, 2025",
-            "match_name": "Ekota CC vs Paris Zalmi",
-            "match_id": 123705,
-            "startTime": "06:45:00 PM 21-04-2025"
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Leeds United vs Stoke City",
+            "match_id": 123271,
+            "startTime": "07:30:00 PM 21-04-2025"
         },
         {
             "event_category": "Kabaddi",
@@ -144,18 +156,6 @@
             "match_name": "Going Global vs Tally DRFS",
             "match_id": 123555,
             "startTime": "10:00:00 PM 21-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "CECC vs ACE KRM Panthers (KCC T10 Challengers League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
-            "team_1": "CECC",
-            "team_2": "ACE KRM Panthers",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Challengers League, 2025",
-            "match_name": "CECC vs ACE KRM Panthers",
-            "match_id": 123556,
-            "startTime": "12:00:00 AM 22-04-2025"
         }
     ]
 }
