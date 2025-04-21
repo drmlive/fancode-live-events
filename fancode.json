@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:27:25 PM 21-04-2025",
+    "last update time": "08:37:34 PM 21-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ekota CC vs Paris Zalmi (ECS France, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card-3.jpg",
-            "team_1": "Ekota CC",
-            "team_2": "Paris Zalmi",
-            "status": "LIVE",
-            "event_name": "ECS France, 2025",
-            "match_name": "Ekota CC vs Paris Zalmi",
-            "match_id": 123705,
-            "startTime": "06:45:00 PM 21-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/F1vdoOhaTjO7g96jW_NaHQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123705_english_hls_5143ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bahamas vs Canada (North American Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123777_5123_BAH_CAN_fc-web.jpg",
             "team_1": "Bahamas",
@@ -44,6 +30,20 @@
             "startTime": "08:30:00 PM 21-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123777_english_hls_62381adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123777_english_hls_62381adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Grigny Vipers vs Paris Universite Club (ECS France, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card.jpg",
+            "team_1": "Grigny Vipers",
+            "team_2": "Paris Universite Club",
+            "status": "LIVE",
+            "event_name": "ECS France, 2025",
+            "match_name": "Grigny Vipers vs Paris Universite Club",
+            "match_id": 123706,
+            "startTime": "08:45:00 PM 21-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/lKzhp5i-TcaHKp3AKHEV7Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123706_english_hls_4743ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -145,18 +145,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Grigny Vipers vs Paris Universite Club (ECS France, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card.jpg",
-            "team_1": "Grigny Vipers",
-            "team_2": "Paris Universite Club",
-            "status": "UPCOMING",
-            "event_name": "ECS France, 2025",
-            "match_name": "Grigny Vipers vs Paris Universite Club",
-            "match_id": 123706,
-            "startTime": "08:45:00 PM 21-04-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Going Global vs Tally DRFS (KCC T10 Challengers League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
             "team_1": "Going Global",
@@ -166,6 +154,18 @@
             "match_name": "Going Global vs Tally DRFS",
             "match_id": 123555,
             "startTime": "10:00:00 PM 21-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "CECC vs ACE KRM Panthers (KCC T10 Challengers League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
+            "team_1": "CECC",
+            "team_2": "ACE KRM Panthers",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Challengers League, 2025",
+            "match_name": "CECC vs ACE KRM Panthers",
+            "match_id": 123556,
+            "startTime": "12:00:00 AM 22-04-2025"
         }
     ]
 }
