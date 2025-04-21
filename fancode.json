@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:34:52 PM 21-04-2025",
+    "last update time": "04:45:06 PM 21-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Ekota CC vs Grigny Vipers (ECS France, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card-3.jpg",
-            "team_1": "Ekota CC",
-            "team_2": "Grigny Vipers",
-            "status": "LIVE",
-            "event_name": "ECS France, 2025",
-            "match_name": "Ekota CC vs Grigny Vipers",
-            "match_id": 123703,
-            "startTime": "02:45:00 PM 21-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/DasIEXd-Sf2RfvSNtoLYSA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123703_english_hls_4734ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Royal 94 vs Paris Universite Club (ECS France, 2025)",
@@ -30,20 +16,6 @@
             "startTime": "04:45:00 PM 21-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/gxIgJlYfSBiFlgWw9sJQmA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123704_english_hls_5016ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Afghanistan A vs Ireland A (One Day Tri-Series in UAE)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/122968_5092_AF-A_IR-A_fc-Web.jpg",
-            "team_1": "Afghanistan A",
-            "team_2": "Ireland A",
-            "status": "LIVE",
-            "event_name": "One Day Tri-Series in UAE",
-            "match_name": "Afghanistan A vs Ireland A",
-            "match_id": 122968,
-            "startTime": "11:30:00 AM 21-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LAhSn4xbTviESM20hg1n7Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122968_english_hls_4726ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -63,11 +35,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
             "team_1": "Ajman",
             "team_2": "Dubai",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Emirates D50 Tournament, 2025",
             "match_name": "Ajman vs Dubai",
             "match_id": 123224,
-            "startTime": "05:00:00 PM 21-04-2025"
+            "startTime": "05:00:00 PM 21-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/75Z7t3wrQ7mN4uykknKYyw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123224_english_hls_4974ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -75,11 +49,13 @@
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",
             "team_1": "Newport County",
             "team_2": "Walsall",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "League Two 2024-25",
             "match_name": "Newport County vs Walsall",
             "match_id": 123376,
-            "startTime": "05:00:00 PM 21-04-2025"
+            "startTime": "05:00:00 PM 21-04-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -152,6 +128,18 @@
             "match_name": "CECC vs ACE KRM Panthers",
             "match_id": 123556,
             "startTime": "12:00:00 AM 22-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "USA vs Bermuda (North American Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123778_5123_USA_BER_fc-web.jpg",
+            "team_1": "USA",
+            "team_2": "Bermuda",
+            "status": "UPCOMING",
+            "event_name": "North American Cup, 2025",
+            "match_name": "USA vs Bermuda",
+            "match_id": 123778,
+            "startTime": "01:00:00 AM 22-04-2025"
         }
     ]
 }
