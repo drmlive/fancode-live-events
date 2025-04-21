@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:13:23 PM 21-04-2025",
+    "last update time": "02:23:28 PM 21-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Mazang Gymkhana CC vs KL Gladiators (KL T20 Bash, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123102_5096_KLG_MZC_fc-web_1744799866337.jpg",
-            "team_1": "Mazang Gymkhana CC",
-            "team_2": "KL Gladiators",
-            "status": "LIVE",
-            "event_name": "KL T20 Bash, 2025",
-            "match_name": "Mazang Gymkhana CC vs KL Gladiators",
-            "match_id": 123102,
-            "startTime": "11:00:00 AM 21-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/PDBl2yQ2S2qW-MXwNwRvag/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123102_english_hls_4930ta-no/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Afghanistan A vs Ireland A (One Day Tri-Series in UAE)",
@@ -30,20 +16,6 @@
             "startTime": "11:30:00 AM 21-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/LAhSn4xbTviESM20hg1n7Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122968_english_hls_4726ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "AZR Faisalabad Thunderbolts vs Light Global Sports Club (KL T20 Bash, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123103_5096_LGSC_AFT_fc-web_1744799866423.jpg",
-            "team_1": "AZR Faisalabad Thunderbolts",
-            "team_2": "Light Global Sports Club",
-            "status": "LIVE",
-            "event_name": "KL T20 Bash, 2025",
-            "match_name": "AZR Faisalabad Thunderbolts vs Light Global Sports Club",
-            "match_id": 123103,
-            "startTime": "11:30:00 AM 21-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/GvESq42XQQOTFP3kxoy0pw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123103_english_hls_8204ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +128,30 @@
             "match_name": "Going Global vs Tally DRFS",
             "match_id": 123555,
             "startTime": "10:00:00 PM 21-04-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "West Bromwich Albion vs Derby County (EFL Championship 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/123272_CASACARDS_APP.png",
+            "team_1": "West Bromwich Albion",
+            "team_2": "Derby County",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "West Bromwich Albion vs Derby County",
+            "match_id": 123272,
+            "startTime": "07:30:00 PM 21-04-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Leeds United vs Stoke City (EFL Championship 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/123271_CASACARDS_APP.png",
+            "team_1": "Leeds United",
+            "team_2": "Stoke City",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Leeds United vs Stoke City",
+            "match_id": 123271,
+            "startTime": "07:30:00 PM 21-04-2025"
         }
     ]
 }
