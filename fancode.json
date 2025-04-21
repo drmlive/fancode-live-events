@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:17:15 PM 21-04-2025",
+    "last update time": "08:27:25 PM 21-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://dai.fancode.com/primary/123705_english_hls_5143ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bahamas vs Canada (North American Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123777_5123_BAH_CAN_fc-web.jpg",
+            "team_1": "Bahamas",
+            "team_2": "Canada",
+            "status": "LIVE",
+            "event_name": "North American Cup, 2025",
+            "match_name": "Bahamas vs Canada",
+            "match_id": 123777,
+            "startTime": "08:30:00 PM 21-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123777_english_hls_62381adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123777_english_hls_62381adfreeta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "West Bromwich Albion vs Derby County (EFL Championship 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123272_4352_WBA_DER_fc_web_1745245281988.jpg",
@@ -58,20 +72,6 @@
             "startTime": "07:30:00 PM 21-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123271_english_hls_56490adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123271_english_hls_56490adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bahamas vs Canada (North American Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123777_5123_BAH_CAN_fc-web.jpg",
-            "team_1": "Bahamas",
-            "team_2": "Canada",
-            "status": "LIVE",
-            "event_name": "North American Cup, 2025",
-            "match_name": "Bahamas vs Canada",
-            "match_id": 123777,
-            "startTime": "08:30:00 PM 21-04-2025",
-            "dai_url": "https://dai.fancode.com/primary/123777_english_hls_62381adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123777_english_hls_62381adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -130,6 +130,20 @@
             "adfree_url": "https://dai.fancode.com/primary/123741_english_hls_27562adfreeta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Baseball",
+            "title": "Boston Red Sox vs Chicago White Sox (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/121884_5028_BRS_CWS_fc-web.jpg",
+            "team_1": "Boston Red Sox",
+            "team_2": "Chicago White Sox",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Boston Red Sox vs Chicago White Sox",
+            "match_id": 121884,
+            "startTime": "08:40:00 PM 21-04-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Cricket",
             "title": "Grigny Vipers vs Paris Universite Club (ECS France, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card.jpg",
@@ -152,18 +166,6 @@
             "match_name": "Going Global vs Tally DRFS",
             "match_id": 123555,
             "startTime": "10:00:00 PM 21-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "CECC vs ACE KRM Panthers (KCC T10 Challengers League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
-            "team_1": "CECC",
-            "team_2": "ACE KRM Panthers",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Challengers League, 2025",
-            "match_name": "CECC vs ACE KRM Panthers",
-            "match_id": 123556,
-            "startTime": "12:00:00 AM 22-04-2025"
         }
     ]
 }
