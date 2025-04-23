@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:20:57 PM 23-04-2025",
+    "last update time": "10:31:07 PM 23-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,6 +72,20 @@
             "startTime": "08:30:00 PM 23-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/9QrnHHqXQSewNEp1V4ZOFg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123028_english_hls_5795ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "New York Mets vs Philadelphia Phillies (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/121887_CASACARDS_APP.png",
+            "team_1": "New York Mets",
+            "team_2": "Philadelphia Phillies",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "New York Mets vs Philadelphia Phillies",
+            "match_id": 121887,
+            "startTime": "10:40:00 PM 23-04-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Basketball",
@@ -146,18 +160,6 @@
             "match_name": "City Cricket Club vs Guwahati Giants",
             "match_id": 123509,
             "startTime": "09:00:00 AM 24-04-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tigres vs Cruz Azul (Concacaf Champions Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Old_Tigres-vs-Cruz-Azul.jpg",
-            "team_1": "Tigres",
-            "team_2": "Cruz Azul",
-            "status": "UPCOMING",
-            "event_name": "Concacaf Champions Cup 2025",
-            "match_name": "Tigres vs Cruz Azul",
-            "match_id": 123544,
-            "startTime": "07:30:00 AM 24-04-2025"
         }
     ]
 }
