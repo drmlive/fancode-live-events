@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:44:12 AM 24-04-2025",
+    "last update time": "03:54:18 AM 24-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bahamas vs Bermuda (North American Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123780_5123_BAH_BER_fc-web.jpg",
-            "team_1": "Bahamas",
-            "team_2": "Bermuda",
-            "status": "LIVE",
-            "event_name": "North American Cup, 2025",
-            "match_name": "Bahamas vs Bermuda",
-            "match_id": 123780,
-            "startTime": "01:00:00 AM 24-04-2025",
-            "dai_url": "https://dai.fancode.com/primary/123780_english_hls_90351adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123780_english_hls_90351adfreeta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "PM Eagles vs SFF Panthers, Malaysia (KL T20 Bash, 2025)",
@@ -148,6 +134,18 @@
             "match_name": "PFC Sarcelles vs Dreux",
             "match_id": 123720,
             "startTime": "06:45:00 PM 24-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cayman Islands vs Bahamas (North American Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123784_5123_CAY_BAH_fc-web.jpg",
+            "team_1": "Cayman Islands",
+            "team_2": "Bahamas",
+            "status": "UPCOMING",
+            "event_name": "North American Cup, 2025",
+            "match_name": "Cayman Islands vs Bahamas",
+            "match_id": 123784,
+            "startTime": "08:30:00 PM 24-04-2025"
         }
     ]
 }
