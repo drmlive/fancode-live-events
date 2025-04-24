@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:58:32 AM 24-04-2025",
+    "last update time": "08:08:38 AM 24-04-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "PM Eagles vs SFF Panthers, Malaysia (KL T20 Bash, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/123108_CASACARDS_APP.png",
-            "team_1": "PM Eagles",
-            "team_2": "SFF Panthers, Malaysia",
-            "status": "LIVE",
-            "event_name": "KL T20 Bash, 2025",
-            "match_name": "PM Eagles vs SFF Panthers, Malaysia",
-            "match_id": 123108,
-            "startTime": "07:00:00 AM 24-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/FQTwVww0RIGxsDf6xue-Bw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123108_english_hls_5509ta-di/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Malaysia vs Singapore (Malaysia Quadrangular T20I Series, 2025)",
@@ -46,6 +32,20 @@
             "adfree_url": "https://dai.fancode.com/primary/123544_english_hls_9249ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "PM Eagles vs SFF Panthers, Malaysia (KL T20 Bash, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/123108_CASACARDS_APP.png",
+            "team_1": "PM Eagles",
+            "team_2": "SFF Panthers, Malaysia",
+            "status": "LIVE",
+            "event_name": "KL T20 Bash, 2025",
+            "match_name": "PM Eagles vs SFF Panthers, Malaysia",
+            "match_id": 123108,
+            "startTime": "07:00:00 AM 24-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/FQTwVww0RIGxsDf6xue-Bw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123108_english_hls_5509ta-di/index.m3u8"
+        },
+        {
             "event_category": "Baseball",
             "title": "Oakland Athletics vs Texas Rangers (Major League Baseball, 2025)",
             "src": "https://images.fancode.com/aig/match/v3/121888_CASACARDS_APP.png",
@@ -70,18 +70,6 @@
             "match_name": "City Cricket Club vs Guwahati Giants",
             "match_id": 123509,
             "startTime": "09:00:00 AM 24-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "PA Hong Kong vs KL Zalmi (KL T20 Bash, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/123109_CASACARDS_APP.png",
-            "team_1": "PA Hong Kong",
-            "team_2": "KL Zalmi",
-            "status": "UPCOMING",
-            "event_name": "KL T20 Bash, 2025",
-            "match_name": "PA Hong Kong vs KL Zalmi",
-            "match_id": 123109,
-            "startTime": "11:00:00 AM 24-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +142,18 @@
             "match_name": "PFC Sarcelles vs Dreux",
             "match_id": 123720,
             "startTime": "06:45:00 PM 24-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cayman Islands vs Bahamas (North American Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123784_5123_CAY_BAH_fc-web.jpg",
+            "team_1": "Cayman Islands",
+            "team_2": "Bahamas",
+            "status": "UPCOMING",
+            "event_name": "North American Cup, 2025",
+            "match_name": "Cayman Islands vs Bahamas",
+            "match_id": 123784,
+            "startTime": "08:30:00 PM 24-04-2025"
         }
     ]
 }
