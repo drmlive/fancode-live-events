@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:03:37 AM 26-04-2025",
+    "last update time": "12:13:45 AM 26-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "12:00:00 AM 26-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yDXJotSmTHSCjZ_B28jTJg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123564_english_hls_5753ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Stoke City vs Sheffield United (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123276_4352_STK_SHF_fc-web.jpg",
+            "team_1": "Stoke City",
+            "team_2": "Sheffield United",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Stoke City vs Sheffield United",
+            "match_id": 123276,
+            "startTime": "12:30:00 AM 26-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123276_english_hls_21301ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123276_english_hls_21301ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -118,7 +132,7 @@
         {
             "event_category": "Basketball",
             "title": "Monaco vs Barcelona (EuroLeague 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/124052_CASACARDS_APP.png",
             "team_1": "Monaco",
             "team_2": "Barcelona",
             "status": "LIVE",
@@ -146,7 +160,7 @@
         {
             "event_category": "Basketball",
             "title": "Olympiacos Piraeus vs Real Madrid (EuroLeague 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/124051_CASACARDS_APP.png",
             "team_1": "Olympiacos Piraeus",
             "team_2": "Real Madrid",
             "status": "LIVE",
@@ -156,18 +170,6 @@
             "startTime": "12:00:00 AM 26-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/5gFBdcXFTIKO4Ybd2onVvg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124051_english_hls_9131ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Stoke City vs Sheffield United (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123276_4352_STK_SHF_fc-web.jpg",
-            "team_1": "Stoke City",
-            "team_2": "Sheffield United",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Stoke City vs Sheffield United",
-            "match_id": 123276,
-            "startTime": "12:30:00 AM 26-04-2025"
         }
     ]
 }
