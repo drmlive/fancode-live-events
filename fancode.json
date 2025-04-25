@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:54:13 AM 26-04-2025",
+    "last update time": "01:04:23 AM 26-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -116,20 +116,6 @@
             "adfree_url": "https://dai.fancode.com/primary/124129_english_hls_9639ta-di/index.m3u8"
         },
         {
-            "event_category": "Basketball",
-            "title": "Monaco vs Barcelona (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/124052_CASACARDS_APP.png",
-            "team_1": "Monaco",
-            "team_2": "Barcelona",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Monaco vs Barcelona",
-            "match_id": 124052,
-            "startTime": "10:30:00 PM 25-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ruFAXbVtQyyJIdeMwSgLAw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124052_english_hls_6402ta-no/index.m3u8"
-        },
-        {
             "event_category": "Baseball",
             "title": "Chicago Cubs vs Philadelphia Phillies (Major League Baseball, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/121891_CASACARDS_APP.png",
@@ -170,6 +156,20 @@
             "startTime": "12:30:00 AM 26-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/2-P0QSD7QsWHoxZ1kdcX9w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124128_english_hls_768ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Mexico City (LIV Golf Mexico City)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Mexico-city-old.jpg",
+            "team_1": "Day 1",
+            "team_2": "Mexico City",
+            "status": "LIVE",
+            "event_name": "LIV Golf Mexico City",
+            "match_name": "Day 1",
+            "match_id": 123153,
+            "startTime": "12:35:00 AM 26-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/RJuNYPuaRoSO10_ZsHdF-w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123153_english_hls_1017ta-no/index.m3u8"
         }
     ]
 }
