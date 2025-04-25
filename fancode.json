@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:45:54 PM 25-04-2025",
+    "last update time": "06:56:01 PM 25-04-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -133,11 +133,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123747_5122_TEC_BL_fc-Web.jpg",
             "team_1": "Telugu Cheetahs",
             "team_2": "Bhojpuri Leopardess",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Global Indian Pravasi Kabaddi League Women",
             "match_name": "Telugu Cheetahs vs Bhojpuri Leopardess",
             "match_id": 123747,
-            "startTime": "07:00:00 PM 25-04-2025"
+            "startTime": "07:00:00 PM 25-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123747_english_hls_63543adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123747_english_hls_63543adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +152,18 @@
             "match_name": "Thunder Cats vs Lexus",
             "match_id": 122484,
             "startTime": "08:00:00 PM 25-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "CSPT Sarcelles vs PFC Sarcelles (ECS France, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card_1744784397115.jpg",
+            "team_1": "CSPT Sarcelles",
+            "team_2": "PFC Sarcelles",
+            "status": "UPCOMING",
+            "event_name": "ECS France, 2025",
+            "match_name": "CSPT Sarcelles vs PFC Sarcelles",
+            "match_id": 123726,
+            "startTime": "08:45:00 PM 25-04-2025"
         }
     ]
 }
