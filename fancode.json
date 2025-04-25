@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:11:31 PM 25-04-2025",
+    "last update time": "10:21:41 PM 25-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -130,6 +130,20 @@
             "adfree_url": "https://dai.fancode.com/primary/124129_english_hls_9639ta-di/index.m3u8"
         },
         {
+            "event_category": "Basketball",
+            "title": "Monaco vs Barcelona (EuroLeague 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
+            "team_1": "Monaco",
+            "team_2": "Barcelona",
+            "status": "LIVE",
+            "event_name": "EuroLeague 2024-25",
+            "match_name": "Monaco vs Barcelona",
+            "match_id": 124052,
+            "startTime": "10:30:00 PM 25-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ruFAXbVtQyyJIdeMwSgLAw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124052_english_hls_6402ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Guyana Rainforest Rangers vs Windward Islands Infernos (West Indies Breakout League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123860_5128_GRR_WII_fc-web.jpg",
@@ -152,18 +166,6 @@
             "match_name": "Going Global vs CECC",
             "match_id": 123564,
             "startTime": "12:00:00 AM 26-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Salmiya Strikers vs ACE KRM Panthers (KCC T10 Challengers League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
-            "team_1": "Salmiya Strikers",
-            "team_2": "ACE KRM Panthers",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Challengers League, 2025",
-            "match_name": "Salmiya Strikers vs ACE KRM Panthers",
-            "match_id": 123565,
-            "startTime": "02:00:00 AM 26-04-2025"
         }
     ]
 }
