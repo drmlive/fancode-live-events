@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:18:23 PM 26-04-2025",
+    "last update time": "11:28:32 PM 26-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,6 +30,20 @@
             "adfree_url": "https://dai.fancode.com/primary/123566_english_hls_8851ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Jamaica Titans vs Leeward Islands Thunder (West Indies Breakout League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123862_5128_JMT_LIT_fc-web.jpg",
+            "team_1": "Jamaica Titans",
+            "team_2": "Leeward Islands Thunder",
+            "status": "LIVE",
+            "event_name": "West Indies Breakout League, 2025",
+            "match_name": "Jamaica Titans vs Leeward Islands Thunder",
+            "match_id": 123862,
+            "startTime": "11:30:00 PM 26-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123862_english_hls_50053adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123862_english_hls_50053adfreeta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Al-Ahli vs Buriram United (AFC Champions League Elite 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-QF-02-old.png",
@@ -42,20 +56,6 @@
             "startTime": "10:00:00 PM 26-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/UVRpPphGSd-H2J4F0F8GuA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122832_english_hls_5478ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Leeward Islands Thunder vs Jamaica Titans (West Indies Breakout League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123862_5128_JMT_LIT_fc-web.jpg",
-            "team_1": "Leeward Islands Thunder",
-            "team_2": "Jamaica Titans",
-            "status": "LIVE",
-            "event_name": "West Indies Breakout League, 2025",
-            "match_name": "Leeward Islands Thunder vs Jamaica Titans",
-            "match_id": 123862,
-            "startTime": "11:30:00 PM 26-04-2025",
-            "dai_url": "https://dai.fancode.com/primary/123862_english_hls_50053adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123862_english_hls_50053adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,18 +156,18 @@
             "adfree_url": "https://dai.fancode.com/primary/124133_english_hls_4976ta-no/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Cayman Islands vs Canada (North American Cup, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/123782_CASACARDS_APP.png",
-            "team_1": "Cayman Islands",
-            "team_2": "Canada",
+            "event_category": "Golf",
+            "title": "Day 2 vs Mexico City (LIV Golf Mexico City)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Mexico-city-old.jpg",
+            "team_1": "Day 2",
+            "team_2": "Mexico City",
             "status": "LIVE",
-            "event_name": "North American Cup, 2025",
-            "match_name": "Cayman Islands vs Canada",
-            "match_id": 123782,
-            "startTime": "08:30:00 PM 26-04-2025",
-            "dai_url": "https://dai.fancode.com/primary/123782_english_hls_8562adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123782_english_hls_8562adfreeta-di_h264/index.m3u8"
+            "event_name": "LIV Golf Mexico City",
+            "match_name": "Day 2",
+            "match_id": 123154,
+            "startTime": "11:35:00 PM 26-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/WZ68tZtaTbOQW-5vvuscBw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123154_english_hls_5062ta-di/index.m3u8"
         }
     ]
 }
