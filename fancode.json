@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:08:17 PM 26-04-2025",
+    "last update time": "11:18:23 PM 26-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,20 +14,6 @@
             "match_name": "Barcelona vs Real Madrid",
             "match_id": 122717,
             "startTime": "01:30:00 AM 27-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cayman Islands vs Canada (North American Cup, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/123782_CASACARDS_APP.png",
-            "team_1": "Cayman Islands",
-            "team_2": "Canada",
-            "status": "LIVE",
-            "event_name": "North American Cup, 2025",
-            "match_name": "Cayman Islands vs Canada",
-            "match_id": 123782,
-            "startTime": "08:30:00 PM 26-04-2025",
-            "dai_url": "https://dai.fancode.com/primary/123782_english_hls_8562adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123782_english_hls_8562adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -56,6 +42,20 @@
             "startTime": "10:00:00 PM 26-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/UVRpPphGSd-H2J4F0F8GuA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/122832_english_hls_5478ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leeward Islands Thunder vs Jamaica Titans (West Indies Breakout League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123862_5128_JMT_LIT_fc-web.jpg",
+            "team_1": "Leeward Islands Thunder",
+            "team_2": "Jamaica Titans",
+            "status": "LIVE",
+            "event_name": "West Indies Breakout League, 2025",
+            "match_name": "Leeward Islands Thunder vs Jamaica Titans",
+            "match_id": 123862,
+            "startTime": "11:30:00 PM 26-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123862_english_hls_50053adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123862_english_hls_50053adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -157,15 +157,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka Women vs India Women (Women's ODI Tri-Series)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "India Women",
-            "status": "UPCOMING",
-            "event_name": "Women's ODI Tri-Series",
-            "match_name": "Sri Lanka Women vs India Women",
-            "match_id": 124036,
-            "startTime": "10:00:00 AM 27-04-2025"
+            "title": "Cayman Islands vs Canada (North American Cup, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/123782_CASACARDS_APP.png",
+            "team_1": "Cayman Islands",
+            "team_2": "Canada",
+            "status": "LIVE",
+            "event_name": "North American Cup, 2025",
+            "match_name": "Cayman Islands vs Canada",
+            "match_id": 123782,
+            "startTime": "08:30:00 PM 26-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123782_english_hls_8562adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123782_english_hls_8562adfreeta-di_h264/index.m3u8"
         }
     ]
 }
