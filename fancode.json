@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:24 AM 26-04-2025",
+    "last update time": "11:20:31 AM 26-04-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -14,20 +14,6 @@
             "match_name": "Day 2",
             "match_id": 118532,
             "startTime": "12:10:00 PM 26-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Saudi Arabia vs Malaysia (Malaysia Quadrangular T20I Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123116_5097_MAS_SAU_FC-WEB.jpg",
-            "team_1": "Saudi Arabia",
-            "team_2": "Malaysia",
-            "status": "LIVE",
-            "event_name": "Malaysia Quadrangular T20I Series, 2025",
-            "match_name": "Saudi Arabia vs Malaysia",
-            "match_id": 123116,
-            "startTime": "07:30:00 AM 26-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ZAH7kd6TQ4KqErgwwSpAeQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123116_english_hls_5758ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -72,6 +58,20 @@
             "adfree_url": "https://dai.fancode.com/primary/123513_english_hls_19522ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Singapore vs Thailand (Malaysia Quadrangular T20I Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123117_5097_SIN_TL_FC-WEB.jpg",
+            "team_1": "Singapore",
+            "team_2": "Thailand",
+            "status": "LIVE",
+            "event_name": "Malaysia Quadrangular T20I Series, 2025",
+            "match_name": "Singapore vs Thailand",
+            "match_id": 123117,
+            "startTime": "11:30:00 AM 26-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/gEcbiKVDRiCWiwXKtMx9ew/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123117_english_hls_5970ta-di/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Brisbane Roar vs Wellington Phoenix (A League 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/111051_4567_BRB_WEL_fc-web_1728983129804.jpg",
@@ -101,15 +101,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Singapore vs Thailand (Malaysia Quadrangular T20I Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123117_5097_SIN_TL_FC-WEB.jpg",
-            "team_1": "Singapore",
-            "team_2": "Thailand",
-            "status": "UPCOMING",
+            "title": "Saudi Arabia vs Malaysia (Malaysia Quadrangular T20I Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123116_5097_MAS_SAU_FC-WEB.jpg",
+            "team_1": "Saudi Arabia",
+            "team_2": "Malaysia",
+            "status": "LIVE",
             "event_name": "Malaysia Quadrangular T20I Series, 2025",
-            "match_name": "Singapore vs Thailand",
-            "match_id": 123117,
-            "startTime": "11:30:00 AM 26-04-2025"
+            "match_name": "Saudi Arabia vs Malaysia",
+            "match_id": 123116,
+            "startTime": "07:30:00 AM 26-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZAH7kd6TQ4KqErgwwSpAeQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123116_english_hls_5758ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
