@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:37:17 PM 26-04-2025",
+    "last update time": "09:47:29 PM 26-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -45,6 +45,34 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Tally Rangers vs Ai Octopus Challengers (KCC T10 Challengers League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
+            "team_1": "Tally Rangers",
+            "team_2": "Ai Octopus Challengers",
+            "status": "LIVE",
+            "event_name": "KCC T10 Challengers League, 2025",
+            "match_name": "Tally Rangers vs Ai Octopus Challengers",
+            "match_id": 123566,
+            "startTime": "10:00:00 PM 26-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/1pKdG24IR3GjeEw6vqKIZw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123566_english_hls_8851ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Ahli vs Buriram United (AFC Champions League Elite 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-QF-02-old.png",
+            "team_1": "Al-Ahli",
+            "team_2": "Buriram United",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al-Ahli vs Buriram United",
+            "match_id": 122832,
+            "startTime": "10:00:00 PM 26-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/UVRpPphGSd-H2J4F0F8GuA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/122832_english_hls_5478ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Fujairah vs Abu Dhabi (Emirates D50 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D50-old.jpg",
             "team_1": "Fujairah",
@@ -56,6 +84,20 @@
             "startTime": "04:30:00 PM 26-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/2gHL5vqUTmClUrS8BFLXtA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123231_english_hls_5452ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wrexham vs Charlton Athletic (League One 2024-25)",
+            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png",
+            "team_1": "Wrexham",
+            "team_2": "Charlton Athletic",
+            "status": "LIVE",
+            "event_name": "League One 2024-25",
+            "match_name": "Wrexham vs Charlton Athletic",
+            "match_id": 123280,
+            "startTime": "10:00:00 PM 26-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123280_english_hls_61332adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123280_english_hls_61332adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -124,42 +166,6 @@
             "match_name": "Sri Lanka Women vs India Women",
             "match_id": 124036,
             "startTime": "10:00:00 AM 27-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tally Rangers vs Ai Octopus Challengers (KCC T10 Challengers League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
-            "team_1": "Tally Rangers",
-            "team_2": "Ai Octopus Challengers",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Challengers League, 2025",
-            "match_name": "Tally Rangers vs Ai Octopus Challengers",
-            "match_id": 123566,
-            "startTime": "10:00:00 PM 26-04-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Ahli vs Buriram United (AFC Champions League Elite 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-CL-Elite-QF-02-old.png",
-            "team_1": "Al-Ahli",
-            "team_2": "Buriram United",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al-Ahli vs Buriram United",
-            "match_id": 122832,
-            "startTime": "10:00:00 PM 26-04-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Wrexham vs Charlton Athletic (League One 2024-25)",
-            "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/League-One-2024-25-old-match-card.png",
-            "team_1": "Wrexham",
-            "team_2": "Charlton Athletic",
-            "status": "UPCOMING",
-            "event_name": "League One 2024-25",
-            "match_name": "Wrexham vs Charlton Athletic",
-            "match_id": 123280,
-            "startTime": "10:00:00 PM 26-04-2025"
         }
     ]
 }
