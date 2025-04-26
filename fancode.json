@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:25:11 PM 26-04-2025",
+    "last update time": "06:35:20 PM 26-04-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -44,6 +44,20 @@
             "startTime": "05:00:00 PM 26-04-2025",
             "dai_url": "https://dai.fancode.com/primary/124254_english_hls_67603adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124254_english_hls_67603adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Saint Denis Stallions vs UIF Evry (ECS France, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card_1744784397115.jpg",
+            "team_1": "Saint Denis Stallions",
+            "team_2": "UIF Evry",
+            "status": "LIVE",
+            "event_name": "ECS France, 2025",
+            "match_name": "Saint Denis Stallions vs UIF Evry",
+            "match_id": 123730,
+            "startTime": "06:45:00 PM 26-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/leLsQ1ATQJCU5CxuOFbICw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123730_english_hls_5387ta-no/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -100,16 +114,16 @@
             "startTime": "10:00:00 AM 27-04-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Saint Denis Stallions vs UIF Evry (ECS France, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card_1744784397115.jpg",
-            "team_1": "Saint Denis Stallions",
-            "team_2": "UIF Evry",
+            "event_category": "Football",
+            "title": "Oxford United vs Sunderland (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123274_4352_OU_SUN_fc-web.jpg",
+            "team_1": "Oxford United",
+            "team_2": "Sunderland",
             "status": "UPCOMING",
-            "event_name": "ECS France, 2025",
-            "match_name": "Saint Denis Stallions vs UIF Evry",
-            "match_id": 123730,
-            "startTime": "06:45:00 PM 26-04-2025"
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Oxford United vs Sunderland",
+            "match_id": 123274,
+            "startTime": "07:30:00 PM 26-04-2025"
         },
         {
             "event_category": "Kabaddi",
@@ -146,18 +160,6 @@
             "match_name": "PFC Sarcelles vs AC Stains",
             "match_id": 123731,
             "startTime": "08:45:00 PM 26-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tally Rangers vs Ai Octopus Challengers (KCC T10 Challengers League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
-            "team_1": "Tally Rangers",
-            "team_2": "Ai Octopus Challengers",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Challengers League, 2025",
-            "match_name": "Tally Rangers vs Ai Octopus Challengers",
-            "match_id": 123566,
-            "startTime": "10:00:00 PM 26-04-2025"
         }
     ]
 }
