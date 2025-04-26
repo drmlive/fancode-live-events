@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:41:13 AM 27-04-2025",
+    "last update time": "03:51:18 AM 27-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "01:00:00 AM 27-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123783_english_hls_38327adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123783_english_hls_38327adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 3 vs Avondale, Louisiana (Zurich Classic of New Orleans)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi_OLD.jpg",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "Avondale, Louisiana",
-            "status": "LIVE",
-            "event_name": "Zurich Classic of New Orleans",
-            "match_name": "Main Feed - Day 3",
-            "match_id": 124134,
-            "startTime": "06:30:00 PM 26-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/PW1PI6s6T02oOSVZX5CAyQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124134_english_hls_5484ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -134,6 +120,30 @@
             "match_name": "Plate Combined vs Durg",
             "match_id": 124273,
             "startTime": "07:45:00 AM 27-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Raipur vs Bilaspur Blue (Senior Elite Group T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124275_5144_RAI_BB_fc-web.jpg",
+            "team_1": "Raipur",
+            "team_2": "Bilaspur Blue",
+            "status": "UPCOMING",
+            "event_name": "Senior Elite Group T20 Tournament",
+            "match_name": "Raipur vs Bilaspur Blue",
+            "match_id": 124275,
+            "startTime": "08:15:00 AM 27-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Smashers vs 91 Yards Club (Guwahati Spring League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123515_5112_SMH_NYC_fc-Web_1744784369122.jpg",
+            "team_1": "Smashers",
+            "team_2": "91 Yards Club",
+            "status": "UPCOMING",
+            "event_name": "Guwahati Spring League",
+            "match_name": "Smashers vs 91 Yards Club",
+            "match_id": 123515,
+            "startTime": "09:00:00 AM 27-04-2025"
         }
     ]
 }
