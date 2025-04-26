@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:06:20 PM 26-04-2025",
+    "last update time": "08:16:26 PM 26-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -42,6 +42,20 @@
             "startTime": "07:30:00 PM 26-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123274_english_hls_98343adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123274_english_hls_98343adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cayman Islands vs Canada (North American Cup, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/123782_CASACARDS_APP.png",
+            "team_1": "Cayman Islands",
+            "team_2": "Canada",
+            "status": "LIVE",
+            "event_name": "North American Cup, 2025",
+            "match_name": "Cayman Islands vs Canada",
+            "match_id": 123782,
+            "startTime": "08:30:00 PM 26-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123782_english_hls_8562adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123782_english_hls_8562adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,18 +166,6 @@
             "match_name": "Sri Lanka Women vs India Women",
             "match_id": 124036,
             "startTime": "10:00:00 AM 27-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Canada vs Cayman Islands (North American Cup, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/123782_CASACARDS_APP.png",
-            "team_1": "Canada",
-            "team_2": "Cayman Islands",
-            "status": "UPCOMING",
-            "event_name": "North American Cup, 2025",
-            "match_name": "Canada vs Cayman Islands",
-            "match_id": 123782,
-            "startTime": "08:30:00 PM 26-04-2025"
         }
     ]
 }
