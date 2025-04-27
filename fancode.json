@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:16:12 PM 27-04-2025",
+    "last update time": "12:26:18 PM 27-04-2025",
     "matches": [
+        {
+            "event_category": "MotoGP",
+            "title": "Race Day vs Circuito de Jerez - Angel Nieto (GRAN PREMIO ESTRELLA GALICIA 0,0 DE ESPANA)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/GRAN-PREMIO-ESTRELLA-GALICIA-0,0-DE-ESPANA--old-match-card..png",
+            "team_1": "Race Day",
+            "team_2": "Circuito de Jerez - Angel Nieto",
+            "status": "LIVE",
+            "event_name": "GRAN PREMIO ESTRELLA GALICIA 0,0 DE ESPANA",
+            "match_name": "Race Day",
+            "match_id": 118533,
+            "startTime": "02:30:00 PM 27-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/118533_english_hls_78575ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118533_english_hls_78575ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Sri Lanka Women vs India Women (Women's ODI Tri-Series)",
@@ -16,20 +30,6 @@
             "startTime": "10:00:00 AM 27-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/6glC7lbuTD6EgVC-HHLTbg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124036_english_hls_5279ta-di/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Auckland vs Perth Glory (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111054_4567_AFC_PG_fc-web_1728983129890.jpg",
-            "team_1": "Auckland",
-            "team_2": "Perth Glory",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Auckland vs Perth Glory",
-            "match_id": 111054,
-            "startTime": "10:30:00 AM 27-04-2025",
-            "dai_url": "https://dai.fancode.com/primary/111054_english_hls_2464ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111054_english_hls_2464ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -58,6 +58,20 @@
             "startTime": "12:00:00 PM 27-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/k913_IslQziXXdo7Yf8xRg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124301_english_hls_5026ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland vs Perth Glory (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111054_4567_AFC_PG_fc-web_1728983129890.jpg",
+            "team_1": "Auckland",
+            "team_2": "Perth Glory",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Auckland vs Perth Glory",
+            "match_id": 111054,
+            "startTime": "10:30:00 AM 27-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/111054_english_hls_2464ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111054_english_hls_2464ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -130,30 +144,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 123735,
             "startTime": "08:45:00 PM 27-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Keraniganj Challengers vs CECC (KCC T10 Challengers League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
-            "team_1": "Keraniganj Challengers",
-            "team_2": "CECC",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Challengers League, 2025",
-            "match_name": "Keraniganj Challengers vs CECC",
-            "match_id": 123568,
-            "startTime": "10:00:00 PM 27-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Canada vs USA (North American Cup, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/123786_CASACARDS_APP.png",
-            "team_1": "Canada",
-            "team_2": "USA",
-            "status": "UPCOMING",
-            "event_name": "North American Cup, 2025",
-            "match_name": "Canada vs USA",
-            "match_id": 123786,
-            "startTime": "10:30:00 PM 27-04-2025"
         }
     ]
 }
