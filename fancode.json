@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:13:06 PM 27-04-2025",
+    "last update time": "11:23:14 PM 27-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -144,6 +144,20 @@
             "adfree_url": "https://dai.fancode.com/primary/121895_english_hls_73624adfreeta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Day 3 vs Mexico City (LIV Golf Mexico City)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Mexico-city-old.jpg",
+            "team_1": "Day 3",
+            "team_2": "Mexico City",
+            "status": "LIVE",
+            "event_name": "LIV Golf Mexico City",
+            "match_name": "Day 3",
+            "match_id": 123155,
+            "startTime": "11:35:00 PM 27-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/cWLmYswHTzSw8Krs38ZWiA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123155_english_hls_5120ta-no/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Going Global vs Salmiya Strikers (KCC T10 Challengers League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
@@ -154,18 +168,6 @@
             "match_name": "Going Global vs Salmiya Strikers",
             "match_id": 123569,
             "startTime": "12:00:00 AM 28-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Thailand vs Saudi Arabia (Malaysia Quadrangular T20I Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123118_5097_TL_SAU_FC-WEB.jpg",
-            "team_1": "Thailand",
-            "team_2": "Saudi Arabia",
-            "status": "UPCOMING",
-            "event_name": "Malaysia Quadrangular T20I Series, 2025",
-            "match_name": "Thailand vs Saudi Arabia",
-            "match_id": 123118,
-            "startTime": "07:30:00 AM 28-04-2025"
         }
     ]
 }
