@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:26:18 PM 27-04-2025",
+    "last update time": "12:36:26 PM 27-04-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka Women vs India Women (Women's ODI Tri-Series)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card.jpg",
+            "team_1": "Sri Lanka Women",
+            "team_2": "India Women",
+            "status": "LIVE",
+            "event_name": "Women's ODI Tri-Series",
+            "match_name": "Sri Lanka Women vs India Women",
+            "match_id": 124036,
+            "startTime": "10:00:00 AM 27-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/6glC7lbuTD6EgVC-HHLTbg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124036_english_hls_5279ta-di/index.m3u8"
+        },
         {
             "event_category": "MotoGP",
             "title": "Race Day vs Circuito de Jerez - Angel Nieto (GRAN PREMIO ESTRELLA GALICIA 0,0 DE ESPANA)",
@@ -19,17 +33,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka Women vs India Women (Women's ODI Tri-Series)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "India Women",
+            "title": "Paris Universite Club vs AC Stains (ECS France, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card_1744784397115.jpg",
+            "team_1": "Paris Universite Club",
+            "team_2": "AC Stains",
             "status": "LIVE",
-            "event_name": "Women's ODI Tri-Series",
-            "match_name": "Sri Lanka Women vs India Women",
-            "match_id": 124036,
-            "startTime": "10:00:00 AM 27-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/6glC7lbuTD6EgVC-HHLTbg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124036_english_hls_5279ta-di/index.m3u8"
+            "event_name": "ECS France, 2025",
+            "match_name": "Paris Universite Club vs AC Stains",
+            "match_id": 123732,
+            "startTime": "12:45:00 PM 27-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/aR4f3WukRiWTnEnSxYq0qA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123732_english_hls_4767ta-di/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -60,20 +74,6 @@
             "adfree_url": "https://dai.fancode.com/primary/124301_english_hls_5026ta-no/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Auckland vs Perth Glory (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/111054_4567_AFC_PG_fc-web_1728983129890.jpg",
-            "team_1": "Auckland",
-            "team_2": "Perth Glory",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Auckland vs Perth Glory",
-            "match_id": 111054,
-            "startTime": "10:30:00 AM 27-04-2025",
-            "dai_url": "https://dai.fancode.com/primary/111054_english_hls_2464ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/111054_english_hls_2464ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "USA Women vs Zimbabwe Women (Zimbabwe Women tour of USA, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-US_old.jpg",
@@ -84,18 +84,6 @@
             "match_name": "USA Women vs Zimbabwe Women",
             "match_id": 124077,
             "startTime": "09:15:00 PM 27-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Paris Universite Club vs AC Stains (ECS France, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-France,-2025-old-Match-card_1744784397115.jpg",
-            "team_1": "Paris Universite Club",
-            "team_2": "AC Stains",
-            "status": "UPCOMING",
-            "event_name": "ECS France, 2025",
-            "match_name": "Paris Universite Club vs AC Stains",
-            "match_id": 123732,
-            "startTime": "12:45:00 PM 27-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -144,6 +132,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 123735,
             "startTime": "08:45:00 PM 27-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Keraniganj Challengers vs CECC (KCC T10 Challengers League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
+            "team_1": "Keraniganj Challengers",
+            "team_2": "CECC",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Challengers League, 2025",
+            "match_name": "Keraniganj Challengers vs CECC",
+            "match_id": 123568,
+            "startTime": "10:00:00 PM 27-04-2025"
         }
     ]
 }
