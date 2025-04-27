@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:43:27 PM 27-04-2025",
+    "last update time": "11:53:35 PM 27-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "10:30:00 PM 27-04-2025",
             "dai_url": "https://dai.fancode.com/primary/123786_english_hls_25470adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123786_english_hls_25470adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Salmiya Strikers vs Going Global (KCC T10 Challengers League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
+            "team_1": "Salmiya Strikers",
+            "team_2": "Going Global",
+            "status": "LIVE",
+            "event_name": "KCC T10 Challengers League, 2025",
+            "match_name": "Salmiya Strikers vs Going Global",
+            "match_id": 123569,
+            "startTime": "12:00:00 AM 28-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/g3tcCST8Rb2X1h1E2r0K-A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123569_english_hls_5224ta-no/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -156,18 +170,6 @@
             "startTime": "11:35:00 PM 27-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/cWLmYswHTzSw8Krs38ZWiA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123155_english_hls_5120ta-no/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Salmiya Strikers vs Going Global (KCC T10 Challengers League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
-            "team_1": "Salmiya Strikers",
-            "team_2": "Going Global",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Challengers League, 2025",
-            "match_name": "Salmiya Strikers vs Going Global",
-            "match_id": 123569,
-            "startTime": "12:00:00 AM 28-04-2025"
         }
     ]
 }
