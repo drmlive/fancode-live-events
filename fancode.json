@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:45:22 PM 28-04-2025",
+    "last update time": "06:55:28 PM 28-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,20 @@
             "adfree_url": "https://dai.fancode.com/primary/124169_english_hls_5528ta-di/index.m3u8"
         },
         {
+            "event_category": "Kabaddi",
+            "title": "Marathi Vultures vs Punjabi Tigers (Global Indian Pravasi Kabaddi League Men, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+            "team_1": "Marathi Vultures",
+            "team_2": "Punjabi Tigers",
+            "status": "LIVE",
+            "event_name": "Global Indian Pravasi Kabaddi League Men, 2025",
+            "match_name": "Marathi Vultures vs Punjabi Tigers",
+            "match_id": 123770,
+            "startTime": "07:00:00 PM 28-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/123770_english_hls_86910adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123770_english_hls_86910adfreeta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "India Women vs South Africa Women (Women's ODI Tri-Series)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_vs_SA_W_ODI_TRI_series_2025_Old_match-card_1745606980860.jpg",
@@ -28,18 +42,6 @@
             "match_name": "India Women vs South Africa Women",
             "match_id": 124037,
             "startTime": "10:00:00 AM 29-04-2025"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Marathi Vultures vs Punjabi Tigers (Global Indian Pravasi Kabaddi League Men, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-            "team_1": "Marathi Vultures",
-            "team_2": "Punjabi Tigers",
-            "status": "UPCOMING",
-            "event_name": "Global Indian Pravasi Kabaddi League Men, 2025",
-            "match_name": "Marathi Vultures vs Punjabi Tigers",
-            "match_id": 123770,
-            "startTime": "07:00:00 PM 28-04-2025"
         },
         {
             "event_category": "Cricket",
@@ -136,6 +138,18 @@
             "match_name": "Plate Combined vs Bilaspur Blue",
             "match_id": 124281,
             "startTime": "07:45:00 AM 29-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "BCA vs Raipur (Senior Elite Group T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124283_5144_BCA_RAI_fc-web.jpg",
+            "team_1": "BCA",
+            "team_2": "Raipur",
+            "status": "UPCOMING",
+            "event_name": "Senior Elite Group T20 Tournament",
+            "match_name": "BCA vs Raipur",
+            "match_id": 124283,
+            "startTime": "08:15:00 AM 29-04-2025"
         }
     ]
 }
