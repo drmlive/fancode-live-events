@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:02:36 AM 30-04-2025",
+    "last update time": "12:12:43 AM 30-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/123573_english_hls_5501ta-di/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Al-Hilal vs Al-Ahli (AFC Champions League Elite 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-hilal-vs-al-ahli-old.jpg",
-            "team_1": "Al-Hilal",
-            "team_2": "Al-Ahli",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2024-25",
-            "match_name": "Al-Hilal vs Al-Ahli",
-            "match_id": 124548,
-            "startTime": "10:00:00 PM 29-04-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/FnKaWAkKTeKqvrBhMU4Cdw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124548_english_hls_8676ta-di/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Beveren vs 12 Stars Hofstade (ECSN Belgium, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/124193_5140_BCC_STRC_fc-Web.jpg",
@@ -86,6 +72,20 @@
             "startTime": "12:00:00 AM 30-04-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_h6v8_UTSoyXkGW3arBFcQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124058_english_hls_8724ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Hilal vs Al-Ahli (AFC Champions League Elite 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-hilal-vs-al-ahli-old.jpg",
+            "team_1": "Al-Hilal",
+            "team_2": "Al-Ahli",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2024-25",
+            "match_name": "Al-Hilal vs Al-Ahli",
+            "match_id": 124548,
+            "startTime": "10:00:00 PM 29-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/FnKaWAkKTeKqvrBhMU4Cdw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124548_english_hls_8676ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -146,6 +146,18 @@
             "match_name": "BCA vs Bilaspur Blue",
             "match_id": 124285,
             "startTime": "07:45:00 AM 30-04-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Durg vs Raipur (Senior Elite Group T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124287_5144_DUR_RAI_fc-web.jpg",
+            "team_1": "Durg",
+            "team_2": "Raipur",
+            "status": "UPCOMING",
+            "event_name": "Senior Elite Group T20 Tournament",
+            "match_name": "Durg vs Raipur",
+            "match_id": 124287,
+            "startTime": "08:15:00 AM 30-04-2025"
         }
     ]
 }
