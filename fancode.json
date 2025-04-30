@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:54:05 PM 30-04-2025",
+    "last update time": "08:04:17 PM 30-04-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://dai.fancode.com/primary/124147_english_hls_6110ta-di/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Clarion Eagles vs Samp Army (Houston Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-2.png",
+            "team_1": "Clarion Eagles",
+            "team_2": "Samp Army",
+            "status": "LIVE",
+            "event_name": "Houston Open",
+            "match_name": "Clarion Eagles vs Samp Army",
+            "match_id": 124148,
+            "startTime": "08:15:00 PM 30-04-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/_y3CigXWTUqADiGmAoDhUQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124148_english_hls_5427ta-no/index.m3u8"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "Marathi Vultures vs Tamil Lions (Global Indian Pravasi Kabaddi League Men, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123761_5121_MV_TL_fc-web.jpg",
@@ -47,25 +61,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Clarion Eagles vs Samp Army (Houston Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-2.png",
-            "team_1": "Clarion Eagles",
-            "team_2": "Samp Army",
-            "status": "UPCOMING",
-            "event_name": "Houston Open",
-            "match_name": "Clarion Eagles vs Samp Army",
-            "match_id": 124148,
-            "startTime": "08:15:00 PM 30-04-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Msida Warriors vs Bugibba Blasters (ECS Malta, Spring Series, 2025)",
+            "title": "Bugibba Blasters vs Msida Warriors (ECS Malta, Spring Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v1.jpg",
-            "team_1": "Msida Warriors",
-            "team_2": "Bugibba Blasters",
+            "team_1": "Bugibba Blasters",
+            "team_2": "Msida Warriors",
             "status": "UPCOMING",
             "event_name": "ECS Malta, Spring Series, 2025",
-            "match_name": "Msida Warriors vs Bugibba Blasters",
+            "match_name": "Bugibba Blasters vs Msida Warriors",
             "match_id": 124180,
             "startTime": "09:00:00 PM 30-04-2025"
         },
@@ -140,6 +142,18 @@
             "match_name": "Houston Stars vs Mustangs Cricket Academy",
             "match_id": 124149,
             "startTime": "12:30:00 AM 01-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Knight Riders United vs Atlanta Fire (Houston Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-2.png",
+            "team_1": "Knight Riders United",
+            "team_2": "Atlanta Fire",
+            "status": "UPCOMING",
+            "event_name": "Houston Open",
+            "match_name": "Knight Riders United vs Atlanta Fire",
+            "match_id": 124150,
+            "startTime": "12:45:00 AM 01-05-2025"
         }
     ]
 }
