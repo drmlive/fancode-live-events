@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:16:39 PM 30-04-2025",
+    "last update time": "11:26:44 PM 30-04-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -102,6 +102,20 @@
             "adfree_url": "https://dai.fancode.com/primary/124056_english_hls_6188ta-no/index.m3u8"
         },
         {
+            "event_category": "Baseball",
+            "title": "Houston Astros vs Detroit Tigers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v3/121900_CASACARDS_APP.png",
+            "team_1": "Houston Astros",
+            "team_2": "Detroit Tigers",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Houston Astros vs Detroit Tigers",
+            "match_id": 121900,
+            "startTime": "11:40:00 PM 30-04-2025",
+            "dai_url": "https://dai.fancode.com/primary/121900_english_hls_19773adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/121900_english_hls_19773adfreeta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Basketball",
             "title": "Anadolu Efes Istanbul vs Panathinaikos OPAP Athens (EuroLeague 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/124057_CASACARDS_APP.png",
@@ -150,18 +164,6 @@
             "match_name": "USA Women vs Zimbabwe Women",
             "match_id": 124079,
             "startTime": "08:30:00 PM 01-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Houston Stars vs Mustangs Cricket Academy (Houston Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-1.png",
-            "team_1": "Houston Stars",
-            "team_2": "Mustangs Cricket Academy",
-            "status": "UPCOMING",
-            "event_name": "Houston Open",
-            "match_name": "Houston Stars vs Mustangs Cricket Academy",
-            "match_id": 124149,
-            "startTime": "12:30:00 AM 01-05-2025"
         }
     ]
 }
