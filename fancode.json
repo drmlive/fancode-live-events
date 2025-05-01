@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:50:28 PM 01-05-2025",
+    "last update time": "08:00:42 PM 01-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,34 @@
             "startTime": "08:00:00 PM 01-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/XDLOf1NhQFGM_x_DFIJK9g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124151_english_hls_6231ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Houston Stars vs Seattle Thunderbolts (Houston Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-2.png",
+            "team_1": "Houston Stars",
+            "team_2": "Seattle Thunderbolts",
+            "status": "LIVE",
+            "event_name": "Houston Open",
+            "match_name": "Houston Stars vs Seattle Thunderbolts",
+            "match_id": 124152,
+            "startTime": "08:15:00 PM 01-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/RlD7AQL7SC-mIuKDVk0EMg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124152_english_hls_5928ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hasselt vs Antwerp (ECSN Belgium, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124196_5140_ANT_HCC_fc-Web.jpg",
+            "team_1": "Hasselt",
+            "team_2": "Antwerp",
+            "status": "LIVE",
+            "event_name": "ECSN Belgium, 2025",
+            "match_name": "Hasselt vs Antwerp",
+            "match_id": 124196,
+            "startTime": "08:15:00 PM 01-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/uQF7sPTsRj2reAjKd1hImA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124196_english_hls_9077ta-di/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -127,37 +155,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Houston Stars vs Seattle Thunderbolts (Houston Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-2.png",
-            "team_1": "Houston Stars",
-            "team_2": "Seattle Thunderbolts",
-            "status": "UPCOMING",
-            "event_name": "Houston Open",
-            "match_name": "Houston Stars vs Seattle Thunderbolts",
-            "match_id": 124152,
-            "startTime": "08:15:00 PM 01-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hasselt vs Antwerp (ECSN Belgium, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124196_5140_ANT_HCC_fc-Web.jpg",
-            "team_1": "Hasselt",
-            "team_2": "Antwerp",
-            "status": "UPCOMING",
-            "event_name": "ECSN Belgium, 2025",
-            "match_name": "Hasselt vs Antwerp",
-            "match_id": 124196,
-            "startTime": "08:15:00 PM 01-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Swieqi United vs MMA Titans (ECS Malta, Spring Series, 2025)",
+            "title": "MMA Titans vs Swieqi United (ECS Malta, Spring Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v2.jpg",
-            "team_1": "Swieqi United",
-            "team_2": "MMA Titans",
+            "team_1": "MMA Titans",
+            "team_2": "Swieqi United",
             "status": "UPCOMING",
             "event_name": "ECS Malta, Spring Series, 2025",
-            "match_name": "Swieqi United vs MMA Titans",
+            "match_name": "MMA Titans vs Swieqi United",
             "match_id": 124185,
             "startTime": "09:00:00 PM 01-05-2025"
         }
