@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:59:16 PM 01-05-2025",
+    "last update time": "06:09:28 PM 01-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/124308_english_hls_9436ta-no/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Marquee Group - Day 1 vs McKinney, Texas (The CJ Cup Byron Nelson)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",
+            "team_1": "Marquee Group - Day 1",
+            "team_2": "McKinney, Texas",
+            "status": "LIVE",
+            "event_name": "The CJ Cup Byron Nelson",
+            "match_name": "Marquee Group - Day 1",
+            "match_id": 124307,
+            "startTime": "06:15:00 PM 01-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/0ZEPm7G1ReqAXVqXI8UuNg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124307_english_hls_6293ta-di/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "USA Women vs Zimbabwe Women (Zimbabwe Women tour of USA, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-US_old.jpg",
@@ -73,18 +87,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sri Lanka Women vs South Africa Women (Womens ODI Tri-Series)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_SA_W_ODI_TRI_series_2025_Old_match-card_1745938588287.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "South Africa Women",
-            "status": "UPCOMING",
-            "event_name": "Womens ODI Tri-Series",
-            "match_name": "Sri Lanka Women vs South Africa Women",
-            "match_id": 124038,
-            "startTime": "10:00:00 AM 02-05-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Power Hitters vs Swieqi United (ECS Malta, Spring Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v1.jpg",
             "team_1": "Power Hitters",
@@ -94,6 +96,18 @@
             "match_name": "Power Hitters vs Swieqi United",
             "match_id": 124184,
             "startTime": "07:00:00 PM 01-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka Women vs South Africa Women (Womens ODI Tri-Series)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_SA_W_ODI_TRI_series_2025_Old_match-card_1745938588287.jpg",
+            "team_1": "Sri Lanka Women",
+            "team_2": "South Africa Women",
+            "status": "UPCOMING",
+            "event_name": "Womens ODI Tri-Series",
+            "match_name": "Sri Lanka Women vs South Africa Women",
+            "match_id": 124038,
+            "startTime": "10:00:00 AM 02-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +156,6 @@
             "match_name": "Antwerp vs Hasselt",
             "match_id": 124196,
             "startTime": "08:15:00 PM 01-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Swieqi United vs MMA Titans (ECS Malta, Spring Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v2.jpg",
-            "team_1": "Swieqi United",
-            "team_2": "MMA Titans",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, Spring Series, 2025",
-            "match_name": "Swieqi United vs MMA Titans",
-            "match_id": 124185,
-            "startTime": "09:00:00 PM 01-05-2025"
         }
     ]
 }
