@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:16:28 AM 03-05-2025",
+    "last update time": "01:26:34 AM 03-05-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-CRYPTO.COM-MIAMI-GRAND-PRIX-2025-old-match-card-.png",
             "team_1": "Sprint Qualifying",
             "team_2": "Miami",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F1 CRYPTO.COM MIAMI GRAND PRIX 2025",
             "match_name": "Sprint Qualifying",
             "match_id": 118407,
-            "startTime": "02:00:00 AM 03-05-2025"
+            "startTime": "02:00:00 AM 03-05-2025",
+            "dai_url": "https://d3r7zcp14xkja9.cloudfront.net/out/v1/abfbea15693d4b5ea1c9213719f518a5/index.m3u8",
+            "adfree_url": "https://d3r7zcp14xkja9.cloudfront.net/out/v1/abfbea15693d4b5ea1c9213719f518a5/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -115,20 +117,6 @@
         },
         {
             "event_category": "Basketball",
-            "title": "Anadolu Efes Istanbul vs Panathinaikos OPAP Athens (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/124061_CASACARDS_APP.png",
-            "team_1": "Anadolu Efes Istanbul",
-            "team_2": "Panathinaikos OPAP Athens",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Anadolu Efes Istanbul vs Panathinaikos OPAP Athens",
-            "match_id": 124061,
-            "startTime": "11:00:00 PM 02-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/124061_english_hls_22071adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124061_english_hls_22071adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Basketball",
             "title": "Barcelona vs Monaco (EuroLeague 2024-25)",
             "src": "https://images.fancode.com/aig/match/v1/124060_CASACARDS_APP.png",
             "team_1": "Barcelona",
@@ -168,6 +156,18 @@
             "startTime": "01:30:00 AM 03-05-2025",
             "dai_url": "https://dai.fancode.com/primary/124321_english_hls_29890adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124321_english_hls_29890adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tally Rangers vs CECC (KCC T10 Challengers League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
+            "team_1": "Tally Rangers",
+            "team_2": "CECC",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Challengers League, 2025",
+            "match_name": "Tally Rangers vs CECC",
+            "match_id": 123580,
+            "startTime": "02:00:00 AM 03-05-2025"
         }
     ]
 }
