@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:41:39 PM 02-05-2025",
+    "last update time": "05:51:58 PM 02-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": "https://dai.fancode.com/primary/124778_english_hls_5795ta-no/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Swieqi United vs Royal Strikers (ECS Malta, Spring Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v1.jpg",
+            "team_1": "Swieqi United",
+            "team_2": "Royal Strikers",
+            "status": "LIVE",
+            "event_name": "ECS Malta, Spring Series, 2025",
+            "match_name": "Swieqi United vs Royal Strikers",
+            "match_id": 124188,
+            "startTime": "06:00:00 PM 02-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/1Bgj4-yOTFuSpILGmakKWQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124188_english_hls_6339ta-no/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",
@@ -46,16 +60,32 @@
             "adfree_url": "https://dai.fancode.com/primary/124322_english_hls_6238ta-di/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Swieqi United vs Royal Strikers (ECS Malta, Spring Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Malta,-Spring-Series_old_v1.jpg",
-            "team_1": "Swieqi United",
-            "team_2": "Royal Strikers",
-            "status": "UPCOMING",
-            "event_name": "ECS Malta, Spring Series, 2025",
-            "match_name": "Swieqi United vs Royal Strikers",
-            "match_id": 124188,
-            "startTime": "06:00:00 PM 02-05-2025"
+            "event_category": "Golf",
+            "title": "Featured Group - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",
+            "team_1": "Featured Group - Day 2",
+            "team_2": "McKinney, Texas",
+            "status": "LIVE",
+            "event_name": "The CJ Cup Byron Nelson",
+            "match_name": "Featured Group - Day 2",
+            "match_id": 124325,
+            "startTime": "06:00:00 PM 02-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/rFjWySg4RKGUzfatFvBvjg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124325_english_hls_9232ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 2 vs McKinney, Texas (The CJ Cup Byron Nelson)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",
+            "team_1": "Featured Holes - Day 2",
+            "team_2": "McKinney, Texas",
+            "status": "LIVE",
+            "event_name": "The CJ Cup Byron Nelson",
+            "match_name": "Featured Holes - Day 2",
+            "match_id": 124324,
+            "startTime": "06:00:00 PM 02-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/0XJYJbgkQ2amrsTzUcbCew/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124324_english_hls_3334ta-di/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -128,30 +158,6 @@
             "match_name": "Going Global vs Keraniganj Challengers",
             "match_id": 123579,
             "startTime": "12:00:00 AM 03-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Royal Brussels vs 12 Stars Hofstade (ECSN Belgium, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124200_5140_RB_STRC_fc-Web.jpg",
-            "team_1": "Royal Brussels",
-            "team_2": "12 Stars Hofstade",
-            "status": "UPCOMING",
-            "event_name": "ECSN Belgium, 2025",
-            "match_name": "Royal Brussels vs 12 Stars Hofstade",
-            "match_id": 124200,
-            "startTime": "12:15:00 AM 03-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Atlanta Fire vs Mustangs Cricket Academy (Houston Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-2.png",
-            "team_1": "Atlanta Fire",
-            "team_2": "Mustangs Cricket Academy",
-            "status": "UPCOMING",
-            "event_name": "Houston Open",
-            "match_name": "Atlanta Fire vs Mustangs Cricket Academy",
-            "match_id": 124156,
-            "startTime": "12:30:00 AM 03-05-2025"
         }
     ]
 }
