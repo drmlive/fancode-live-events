@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:22:56 PM 03-05-2025",
+    "last update time": "12:33:02 PM 03-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "10:00:00 AM 03-05-2025",
             "dai_url": "https://dai.fancode.com/primary/123527_english_hls_66030ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123527_english_hls_66030ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malta Women vs Croatia Women (ECI-W Malta-Croatia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Croatia-old.jpg",
+            "team_1": "Malta Women",
+            "team_2": "Croatia Women",
+            "status": "LIVE",
+            "event_name": "ECI-W Malta-Croatia, 2025",
+            "match_name": "Malta Women vs Croatia Women",
+            "match_id": 124843,
+            "startTime": "12:45:00 PM 03-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/124843_english_hls_24757ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124843_english_hls_24757ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -87,30 +101,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Atlanta Fire vs Mustangs Cricket Academy (Houston Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Houston-open-Old-2.png",
-            "team_1": "Atlanta Fire",
-            "team_2": "Mustangs Cricket Academy",
-            "status": "UPCOMING",
-            "event_name": "Houston Open",
-            "match_name": "Atlanta Fire vs Mustangs Cricket Academy",
-            "match_id": 124156,
-            "startTime": "12:30:00 AM 04-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malta Women vs Croatia Women (ECI-W Malta-Croatia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Croatia-old.jpg",
-            "team_1": "Malta Women",
-            "team_2": "Croatia Women",
-            "status": "UPCOMING",
-            "event_name": "ECI-W Malta-Croatia, 2025",
-            "match_name": "Malta Women vs Croatia Women",
-            "match_id": 124843,
-            "startTime": "12:45:00 PM 03-05-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Czechia Women vs Cyprus Women (ECN Czechia-Cyprus T20IW)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Czechia-CyprusT20IW_old.jpg",
             "team_1": "Czechia Women",
@@ -120,6 +110,18 @@
             "match_name": "Czechia Women vs Cyprus Women",
             "match_id": 124779,
             "startTime": "01:15:00 PM 03-05-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Western United vs Auckland (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/111059_4567_WST_AFC_fc-web_1728983130440.jpg",
+            "team_1": "Western United",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2024-25",
+            "match_name": "Western United vs Auckland",
+            "match_id": 111059,
+            "startTime": "01:30:00 PM 03-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -147,15 +149,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Czechia Women vs Cyprus Women (ECN Czechia-Cyprus T20IW)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Czechia-CyprusT20IW_old.jpg",
-            "team_1": "Czechia Women",
-            "team_2": "Cyprus Women",
+            "title": "Sri Lanka Women vs India Women (Womens ODI Tri-Series)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card_1745938652357.jpg",
+            "team_1": "Sri Lanka Women",
+            "team_2": "India Women",
             "status": "UPCOMING",
-            "event_name": "ECN Czechia-Cyprus T20IW",
-            "match_name": "Czechia Women vs Cyprus Women",
-            "match_id": 124780,
-            "startTime": "05:45:00 PM 03-05-2025"
+            "event_name": "Womens ODI Tri-Series",
+            "match_name": "Sri Lanka Women vs India Women",
+            "match_id": 124039,
+            "startTime": "10:00:00 AM 04-05-2025"
         }
     ]
 }
