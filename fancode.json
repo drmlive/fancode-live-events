@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:50:17 PM 03-05-2025",
+    "last update time": "10:00:23 PM 03-05-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/123581_english_hls_45836ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Beveren vs Brussels Warriors (ECSN Belgium, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124201_5140_BCC_BRW_fc-Web.jpg",
+            "team_1": "Beveren",
+            "team_2": "Brussels Warriors",
+            "status": "LIVE",
+            "event_name": "ECSN Belgium, 2025",
+            "match_name": "Beveren vs Brussels Warriors",
+            "match_id": 124201,
+            "startTime": "10:15:00 PM 03-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/124201_english_hls_99112ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124201_english_hls_99112ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed - Day 3 vs McKinney, Texas (The CJ Cup Byron Nelson)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/The_CJ_CUP_Byron_Nelson_2025_match-card_OLd_match-card.jpg",
@@ -156,18 +170,6 @@
             "startTime": "09:40:00 PM 03-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/VeSs1kM3Rp6B5yjfX_lY_A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124692_english_hls_29811ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Qualifying vs Miami (F1 CRYPTO.COM MIAMI GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-CRYPTO.COM-MIAMI-GRAND-PRIX-2025-old-match-card-.png",
-            "team_1": "Qualifying",
-            "team_2": "Miami",
-            "status": "UPCOMING",
-            "event_name": "F1 CRYPTO.COM MIAMI GRAND PRIX 2025",
-            "match_name": "Qualifying",
-            "match_id": 118409,
-            "startTime": "01:30:00 AM 04-05-2025"
         }
     ]
 }
