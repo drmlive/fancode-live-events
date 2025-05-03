@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:22:26 AM 04-05-2025",
+    "last update time": "01:32:32 AM 04-05-2025",
     "matches": [
+        {
+            "event_category": "Formula 1",
+            "title": "Qualifying vs Miami (F1 CRYPTO.COM MIAMI GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-CRYPTO.COM-MIAMI-GRAND-PRIX-2025-old-match-card-.png",
+            "team_1": "Qualifying",
+            "team_2": "Miami",
+            "status": "LIVE",
+            "event_name": "F1 CRYPTO.COM MIAMI GRAND PRIX 2025",
+            "match_name": "Qualifying",
+            "match_id": 118409,
+            "startTime": "01:30:00 AM 04-05-2025",
+            "dai_url": "https://ddpddq8j2zdbx.cloudfront.net/out/v1/691cf3177f2441ba893e0c41eeaefa09/index.m3u8",
+            "adfree_url": "https://ddpddq8j2zdbx.cloudfront.net/out/v1/691cf3177f2441ba893e0c41eeaefa09/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Zimbabwe Women vs USA Women (Zimbabwe Women tour of USA, 2025)",
@@ -144,32 +158,16 @@
             "adfree_url": "https://dai.fancode.com/primary/124326_english_hls_83271ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Baseball",
-            "title": "New York Yankees vs Tampa Bay Rays (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/124593_CASACARDS_APP.png",
-            "team_1": "New York Yankees",
-            "team_2": "Tampa Bay Rays",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "New York Yankees vs Tampa Bay Rays",
-            "match_id": 124593,
-            "startTime": "10:35:00 PM 03-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/124593_english_hls_35618ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124593_english_hls_35618ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Race 1 vs Miami (F1 ACADEMY MIAMI 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-            "team_1": "Race 1",
-            "team_2": "Miami",
-            "status": "LIVE",
-            "event_name": "F1 ACADEMY MIAMI 2025",
-            "match_name": "Race 1",
-            "match_id": 124085,
-            "startTime": "12:25:00 AM 04-05-2025",
-            "dai_url": "https://d2m4yup0n5yxho.cloudfront.net/out/v1/7455135dc8aa4d62b6bc85287d965127/index.m3u8",
-            "adfree_url": "https://d2m4yup0n5yxho.cloudfront.net/out/v1/7455135dc8aa4d62b6bc85287d965127/index.m3u8"
+            "event_category": "Cricket",
+            "title": "Sri Lanka Women vs India Women (Womens ODI Tri-Series)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card_1745938652357.jpg",
+            "team_1": "Sri Lanka Women",
+            "team_2": "India Women",
+            "status": "UPCOMING",
+            "event_name": "Womens ODI Tri-Series",
+            "match_name": "Sri Lanka Women vs India Women",
+            "match_id": 124039,
+            "startTime": "10:00:00 AM 04-05-2025"
         }
     ]
 }
