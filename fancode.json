@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:37:06 AM 04-05-2025",
+    "last update time": "09:47:14 AM 04-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/SL_vs_IND_W_ODI_TRI_series_2025_Old_match-card_1745938652357.jpg",
             "team_1": "India Women",
             "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Womens ODI Tri-Series",
             "match_name": "India Women vs Sri Lanka Women",
             "match_id": 124039,
-            "startTime": "10:00:00 AM 04-05-2025"
+            "startTime": "10:00:00 AM 04-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/IHBG7BCjTZa1iz0eWg0-NQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124039_english_hls_72632ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -42,20 +44,6 @@
             "startTime": "09:30:00 AM 04-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/2P2c9o9gSfuOapsa-Wm2PA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124284_english_hls_5728ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Los Angeles Angels vs Detroit Tigers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/124594_CASACARDS_APP.png",
-            "team_1": "Los Angeles Angels",
-            "team_2": "Detroit Tigers",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Angels vs Detroit Tigers",
-            "match_id": 124594,
-            "startTime": "07:08:00 AM 04-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/124594_english_hls_23344ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124594_english_hls_23344ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -154,6 +142,18 @@
             "match_name": "Malta vs Estonia",
             "match_id": 124853,
             "startTime": "05:00:00 PM 04-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malta Women vs Croatia Women (ECI-W Malta-Croatia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Malta-Croatia-old.jpg",
+            "team_1": "Malta Women",
+            "team_2": "Croatia Women",
+            "status": "UPCOMING",
+            "event_name": "ECI-W Malta-Croatia, 2025",
+            "match_name": "Malta Women vs Croatia Women",
+            "match_id": 124847,
+            "startTime": "07:00:00 PM 04-05-2025"
         }
     ]
 }
