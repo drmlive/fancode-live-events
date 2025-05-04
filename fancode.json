@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:00:17 PM 04-05-2025",
+    "last update time": "03:10:23 PM 04-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/124493_english_hls_99063ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Korea (LIV Golf Korea)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Korea-old.jpg",
-            "team_1": "Day 3",
-            "team_2": "Korea",
-            "status": "LIVE",
-            "event_name": "LIV Golf Korea",
-            "match_name": "Day 3",
-            "match_id": 124304,
-            "startTime": "09:05:00 AM 04-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/124304_english_hls_65138ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124304_english_hls_65138ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Malta vs Estonia (ECI Malta-Estonia, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/124853_CASACARDS_APP.png",
@@ -160,6 +146,18 @@
             "match_name": "Going Global vs Ai Octopus Challengers",
             "match_id": 123583,
             "startTime": "10:00:00 PM 04-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Antwerp vs Beveren (ECSN Belgium, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124203_5140_ANT_BCC_fc-Web.jpg",
+            "team_1": "Antwerp",
+            "team_2": "Beveren",
+            "status": "UPCOMING",
+            "event_name": "ECSN Belgium, 2025",
+            "match_name": "Antwerp vs Beveren",
+            "match_id": 124203,
+            "startTime": "10:15:00 PM 04-05-2025"
         }
     ]
 }
