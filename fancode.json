@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:58:18 PM 05-05-2025",
+    "last update time": "10:08:31 PM 05-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "10:00:00 PM 05-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/M8hXyl_5TNuQlD6HHtW6sg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123585_english_hls_57099ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "12 Stars Hofstade vs Hasselt (ECSN Belgium, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124206_5140_STRC_HCC_fc-Web.jpg",
+            "team_1": "12 Stars Hofstade",
+            "team_2": "Hasselt",
+            "status": "LIVE",
+            "event_name": "ECSN Belgium, 2025",
+            "match_name": "12 Stars Hofstade vs Hasselt",
+            "match_id": 124206,
+            "startTime": "10:15:00 PM 05-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/9L1rxpBRTRSqKvo3N4CjYA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124206_english_hls_42640ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -95,18 +109,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "12 Stars Hofstade vs Hasselt (ECSN Belgium, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124206_5140_STRC_HCC_fc-Web.jpg",
-            "team_1": "12 Stars Hofstade",
-            "team_2": "Hasselt",
-            "status": "UPCOMING",
-            "event_name": "ECSN Belgium, 2025",
-            "match_name": "12 Stars Hofstade vs Hasselt",
-            "match_id": 124206,
-            "startTime": "10:15:00 PM 05-05-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Western Towers vs Eastern Royals (ECS Jersey, Liberation Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/124754_5155_WT_ER_fc-web.jpg",
             "team_1": "Western Towers",
@@ -140,6 +142,18 @@
             "match_name": "12 Stars Hofstade vs Hasselt",
             "match_id": 124207,
             "startTime": "12:15:00 AM 06-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bilaspur vs BSP (Senior Elite Group T20 Tournament)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Bilaspur",
+            "team_2": "BSP",
+            "status": "UPCOMING",
+            "event_name": "Senior Elite Group T20 Tournament",
+            "match_name": "Bilaspur vs BSP",
+            "match_id": 124289,
+            "startTime": "07:45:00 AM 06-05-2025"
         }
     ]
 }
