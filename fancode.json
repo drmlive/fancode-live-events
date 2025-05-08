@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:52:03 AM 08-05-2025",
+    "last update time": "07:02:09 AM 08-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "04:30:00 AM 08-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/6Aig4xJDQVGLpCe3tUBYxw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123874_english_hls_18872ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Angels vs Toronto Blue Jays (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/124600_CASACARDS_APP.png",
+            "team_1": "Los Angeles Angels",
+            "team_2": "Toronto Blue Jays",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Angels vs Toronto Blue Jays",
+            "match_id": 124600,
+            "startTime": "07:08:00 AM 08-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/124600_english_hls_51363ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124600_english_hls_51363ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Royal Brussels vs Antwerp",
             "match_id": 124213,
             "startTime": "08:15:00 PM 08-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Yorkshire Cricket College vs Central Commanders (ECS Jersey, Liberation Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124768_5155_YCC_CC_fc-web.jpg",
-            "team_1": "Yorkshire Cricket College",
-            "team_2": "Central Commanders",
-            "status": "UPCOMING",
-            "event_name": "ECS Jersey, Liberation Series, 2025",
-            "match_name": "Yorkshire Cricket College vs Central Commanders",
-            "match_id": 124768,
-            "startTime": "09:00:00 PM 08-05-2025"
         }
     ]
 }
