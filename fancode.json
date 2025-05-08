@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:09:10 PM 08-05-2025",
+    "last update time": "07:19:17 PM 08-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,6 +46,20 @@
             "adfree_url": "https://dai.fancode.com/primary/125304_english_hls_66359ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "ONEflight Myrtle Beach Classic vs Dunes Golf and Beach Club (ONEflight Myrtle Beach Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic_old.jpg",
+            "team_1": "ONEflight Myrtle Beach Classic",
+            "team_2": "Dunes Golf and Beach Club",
+            "status": "LIVE",
+            "event_name": "ONEflight Myrtle Beach Classic",
+            "match_name": "ONEflight Myrtle Beach Classic",
+            "match_id": 125308,
+            "startTime": "07:30:00 PM 08-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/xL567phMTdmxsf683sKnXA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125308_english_hls_63192ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "KCA Sapphire vs KCA Amber (KCA TCM Pink T20 Challengers, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/124535_5151_SAP_AMB_fc-web.jpg",
@@ -71,18 +85,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "KCA Pearl vs KCA Emerald (KCA TCM Pink T20 Challengers, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124536_5151_PEA_EME_fc-web.jpg",
-            "team_1": "KCA Pearl",
-            "team_2": "KCA Emerald",
-            "status": "UPCOMING",
-            "event_name": "KCA TCM Pink T20 Challengers, 2025",
-            "match_name": "KCA Pearl vs KCA Emerald",
-            "match_id": 124536,
-            "startTime": "12:45:00 PM 09-05-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Royal Brussels vs Antwerp (ECSN Belgium, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/124213_5140_RB_ANT_fc-Web.jpg",
             "team_1": "Royal Brussels",
@@ -92,6 +94,18 @@
             "match_name": "Royal Brussels vs Antwerp",
             "match_id": 124213,
             "startTime": "08:15:00 PM 08-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "KCA Pearl vs KCA Emerald (KCA TCM Pink T20 Challengers, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124536_5151_PEA_EME_fc-web.jpg",
+            "team_1": "KCA Pearl",
+            "team_2": "KCA Emerald",
+            "status": "UPCOMING",
+            "event_name": "KCA TCM Pink T20 Challengers, 2025",
+            "match_name": "KCA Pearl vs KCA Emerald",
+            "match_id": 124536,
+            "startTime": "12:45:00 PM 09-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -140,18 +154,6 @@
             "match_name": "ACE KRM Panthers vs Ai Octopus Challengers",
             "match_id": 123591,
             "startTime": "12:00:00 AM 09-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "12 Stars Hofstade vs Beveren (ECSN Belgium, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124215_5140_STRC_BCC_fc-Web.jpg",
-            "team_1": "12 Stars Hofstade",
-            "team_2": "Beveren",
-            "status": "UPCOMING",
-            "event_name": "ECSN Belgium, 2025",
-            "match_name": "12 Stars Hofstade vs Beveren",
-            "match_id": 124215,
-            "startTime": "12:15:00 AM 09-05-2025"
         }
     ]
 }
