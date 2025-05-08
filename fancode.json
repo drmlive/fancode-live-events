@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:12:10 PM 08-05-2025",
+    "last update time": "11:22:22 PM 08-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,34 @@
             "adfree_url": "https://dai.fancode.com/primary/124601_english_hls_89151ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "World Feed - Day 1 vs Philadelphia, Pennsylvania (Truist Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg",
+            "team_1": "World Feed - Day 1",
+            "team_2": "Philadelphia, Pennsylvania",
+            "status": "LIVE",
+            "event_name": "Truist Championship",
+            "match_name": "World Feed - Day 1",
+            "match_id": 125229,
+            "startTime": "11:30:00 PM 08-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/VC3ruFjsS4yi33TyxHTEJg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125229_english_hls_77368ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 1 vs Philadelphia, Pennsylvania (Truist Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg",
+            "team_1": "Featured Holes - Day 1",
+            "team_2": "Philadelphia, Pennsylvania",
+            "status": "LIVE",
+            "event_name": "Truist Championship",
+            "match_name": "Featured Holes - Day 1",
+            "match_id": 125225,
+            "startTime": "11:30:00 PM 08-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/RsZwMk0nT6SBM9p1fef50A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125225_english_hls_14091ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "KCA Sapphire vs KCA Amber (KCA TCM Pink T20 Challengers, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/124535_5151_SAP_AMB_fc-web.jpg",
@@ -134,30 +162,6 @@
             "match_name": "ACE KRM Panthers vs Ai Octopus Challengers",
             "match_id": 123591,
             "startTime": "12:00:00 AM 09-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "12 Stars Hofstade vs Beveren (ECSN Belgium, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124215_5140_STRC_BCC_fc-Web.jpg",
-            "team_1": "12 Stars Hofstade",
-            "team_2": "Beveren",
-            "status": "UPCOMING",
-            "event_name": "ECSN Belgium, 2025",
-            "match_name": "12 Stars Hofstade vs Beveren",
-            "match_id": 124215,
-            "startTime": "12:15:00 AM 09-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Thailand vs Cook Islands (Cook Islands and Thailand tour of Japan, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125081_5169_TL_CI_fc-Web.jpg",
-            "team_1": "Thailand",
-            "team_2": "Cook Islands",
-            "status": "UPCOMING",
-            "event_name": "Cook Islands and Thailand tour of Japan, 2025",
-            "match_name": "Thailand vs Cook Islands",
-            "match_id": 125081,
-            "startTime": "06:00:00 AM 09-05-2025"
         }
     ]
 }
