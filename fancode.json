@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:49:21 PM 09-05-2025",
+    "last update time": "11:59:32 PM 09-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,20 +14,6 @@
             "match_name": "Las Palmas vs Rayo Vallecano",
             "match_id": 125027,
             "startTime": "12:30:00 AM 10-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Antwerp vs Brussels Warriors (ECSN Belgium, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124216_5140_BRW_ANT_fc-Web.jpg",
-            "team_1": "Antwerp",
-            "team_2": "Brussels Warriors",
-            "status": "LIVE",
-            "event_name": "ECSN Belgium, 2025",
-            "match_name": "Antwerp vs Brussels Warriors",
-            "match_id": 124216,
-            "startTime": "10:15:00 PM 09-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/124216_english_hls_52551adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124216_english_hls_52551adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -59,17 +45,31 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jamaica Women vs Guyana Women (CWI T20 Blaze Tournament, 2025)",
+            "title": "Guyana Women vs Jamaica Women (CWI T20 Blaze Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg",
-            "team_1": "Jamaica Women",
-            "team_2": "Guyana Women",
+            "team_1": "Guyana Women",
+            "team_2": "Jamaica Women",
             "status": "LIVE",
             "event_name": "CWI T20 Blaze Tournament, 2025",
-            "match_name": "Jamaica Women vs Guyana Women",
+            "match_name": "Guyana Women vs Jamaica Women",
             "match_id": 124490,
             "startTime": "12:00:00 AM 10-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/cxGN25IQSE2KW3psZvg2RA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124490_english_hls_89955ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Antwerp vs Brussels Warriors (ECSN Belgium, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124217_5140_BRW_ANT_fc-Web.jpg",
+            "team_1": "Antwerp",
+            "team_2": "Brussels Warriors",
+            "status": "LIVE",
+            "event_name": "ECSN Belgium, 2025",
+            "match_name": "Antwerp vs Brussels Warriors",
+            "match_id": 124217,
+            "startTime": "12:15:00 AM 10-05-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Golf",
