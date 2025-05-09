@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:46:46 AM 09-05-2025",
+    "last update time": "06:56:52 AM 09-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "06:00:00 AM 09-05-2025",
             "dai_url": "https://dai.fancode.com/primary/125081_english_hls_66822ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125081_english_hls_66822ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Arizona Diamondbacks vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/124602_CASACARDS_APP.png",
+            "team_1": "Arizona Diamondbacks",
+            "team_2": "Los Angeles Dodgers",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Arizona Diamondbacks vs Los Angeles Dodgers",
+            "match_id": 124602,
+            "startTime": "07:10:00 AM 09-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/124602_english_hls_15091ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124602_english_hls_15091ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +150,6 @@
             "match_name": "Greece Women vs Germany Women",
             "match_id": 125371,
             "startTime": "01:30:00 PM 09-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Central Commanders vs Western Towers (ECS Jersey, Liberation Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Central Commanders",
-            "team_2": "Western Towers",
-            "status": "UPCOMING",
-            "event_name": "ECS Jersey, Liberation Series, 2025",
-            "match_name": "Central Commanders vs Western Towers",
-            "match_id": 124770,
-            "startTime": "02:30:00 PM 09-05-2025"
         }
     ]
 }
