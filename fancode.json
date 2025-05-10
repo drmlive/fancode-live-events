@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:04:22 AM 10-05-2025",
+    "last update time": "08:14:45 AM 10-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -101,11 +101,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-tour-of-Bangladesh,-2025-old-match-card-_1746428215529.png",
             "team_1": "Bangladesh A",
             "team_2": "New Zealand A",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "New Zealand A tour of Bangladesh, 2025",
             "match_name": "Bangladesh A vs New Zealand A",
             "match_id": 124913,
-            "startTime": "08:30:00 AM 10-05-2025"
+            "startTime": "08:30:00 AM 10-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/W0c4VdnCSEebPiUJ5kGz-g/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124913_english_hls_98447ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,6 +144,18 @@
             "match_name": "United Arab Emirates Women vs Qatar Women",
             "match_id": 124511,
             "startTime": "12:00:00 PM 10-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gauhati Town Club Women vs Rising Star Women (GTC Womens Summer Challenge T20 Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124970_5167_GTW_RS-W_fc-web.jpg",
+            "team_1": "Gauhati Town Club Women",
+            "team_2": "Rising Star Women",
+            "status": "UPCOMING",
+            "event_name": "GTC Womens Summer Challenge T20 Trophy, 2025",
+            "match_name": "Gauhati Town Club Women vs Rising Star Women",
+            "match_id": 124970,
+            "startTime": "01:15:00 PM 10-05-2025"
         }
     ]
 }
