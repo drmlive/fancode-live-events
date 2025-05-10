@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:54:05 PM 10-05-2025",
+    "last update time": "10:04:11 PM 10-05-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Celta de Vigo vs Sevilla (La Liga 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/125024_CASACARDS_APP.png",
-            "team_1": "Celta de Vigo",
-            "team_2": "Sevilla",
-            "status": "LIVE",
-            "event_name": "La Liga 2024-25",
-            "match_name": "Celta de Vigo vs Sevilla",
-            "match_id": 125024,
-            "startTime": "07:45:00 PM 10-05-2025",
-            "dai_url": "https://d2ljeoatbfxky7.cloudfront.net/out/v1/3908323de73345d5a4888d0e6d49becd/index.m3u8",
-            "adfree_url": "https://d2ljeoatbfxky7.cloudfront.net/out/v1/3908323de73345d5a4888d0e6d49becd/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Mallorca vs Real Valladolid (La Liga 2024-25)",
@@ -44,6 +30,20 @@
             "startTime": "10:00:00 PM 10-05-2025",
             "dai_url": "https://d1akz16099hgkx.cloudfront.net/out/v1/be4c7a4d53c3473785d602c9904d2164/index.m3u8",
             "adfree_url": "https://d1akz16099hgkx.cloudfront.net/out/v1/be4c7a4d53c3473785d602c9904d2164/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Celta de Vigo vs Sevilla (La Liga 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/125024_CASACARDS_APP.png",
+            "team_1": "Celta de Vigo",
+            "team_2": "Sevilla",
+            "status": "LIVE",
+            "event_name": "La Liga 2024-25",
+            "match_name": "Celta de Vigo vs Sevilla",
+            "match_id": 125024,
+            "startTime": "07:45:00 PM 10-05-2025",
+            "dai_url": "https://d2ljeoatbfxky7.cloudfront.net/out/v1/3908323de73345d5a4888d0e6d49becd/index.m3u8",
+            "adfree_url": "https://d2ljeoatbfxky7.cloudfront.net/out/v1/3908323de73345d5a4888d0e6d49becd/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -86,6 +86,20 @@
             "adfree_url": "https://dai.fancode.com/primary/125359_english_hls_83082ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Royal Brussels vs Hasselt (ECSN Belgium, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124218_5140_RB_HCC_fc-Web.jpg",
+            "team_1": "Royal Brussels",
+            "team_2": "Hasselt",
+            "status": "LIVE",
+            "event_name": "ECSN Belgium, 2025",
+            "match_name": "Royal Brussels vs Hasselt",
+            "match_id": 124218,
+            "startTime": "10:15:00 PM 10-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/124218_english_hls_55459ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124218_english_hls_55459ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed - Day 3 vs Philadelphia, Pennsylvania (Truist Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship_old.jpg",
@@ -126,18 +140,6 @@
             "startTime": "07:00:00 PM 10-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ijgpGac7QK2kfLjIHLgmUA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125281_english_hls_48606ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Legan\u00e9s vs Espanyol (La Liga 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/125030_CASACARDS_APP.png",
-            "team_1": "Legan\u00e9s",
-            "team_2": "Espanyol",
-            "status": "UPCOMING",
-            "event_name": "La Liga 2024-25",
-            "match_name": "Legan\u00e9s vs Espanyol",
-            "match_id": 125030,
-            "startTime": "05:30:00 PM 11-05-2025"
         }
     ]
 }
