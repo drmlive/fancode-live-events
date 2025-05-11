@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:14:09 PM 11-05-2025",
+    "last update time": "12:24:14 PM 11-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "10:00:00 AM 11-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/3YgaPoS3QRyOArHM0jV3dg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124042_english_hls_17436ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Race Day vs Le Mans (MICHELIN\u00ae GRAND PRIX DE FRANCE)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/France_Moto-GP_Race_old.jpg",
+            "team_1": "Race Day",
+            "team_2": "Le Mans",
+            "status": "LIVE",
+            "event_name": "MICHELIN\u00ae GRAND PRIX DE FRANCE",
+            "match_name": "Race Day",
+            "match_id": 118556,
+            "startTime": "12:15:00 PM 11-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/118556_english_hls_60357ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/118556_english_hls_60357ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -46,42 +60,16 @@
             "adfree_url": "https://dai.fancode.com/primary/125377_english_hls_76463ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Race Day vs Le Mans (MICHELIN\u00ae GRAND PRIX DE FRANCE)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/France_Moto-GP_Race_old.jpg",
-            "team_1": "Race Day",
-            "team_2": "Le Mans",
-            "status": "LIVE",
-            "event_name": "MICHELIN\u00ae GRAND PRIX DE FRANCE",
-            "match_name": "Race Day",
-            "match_id": 118556,
-            "startTime": "12:15:00 PM 11-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/118556_english_hls_60357ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118556_english_hls_60357ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
-            "title": "KCA Emerald vs KCA Amber (KCA TCM Pink T20 Challengers, 2025)",
+            "title": "KCA Amber vs KCA Emerald (KCA TCM Pink T20 Challengers, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/124540_5151_EME_AMB_fc-web.jpg",
-            "team_1": "KCA Emerald",
-            "team_2": "KCA Amber",
-            "status": "UPCOMING",
-            "event_name": "KCA TCM Pink T20 Challengers, 2025",
-            "match_name": "KCA Emerald vs KCA Amber",
-            "match_id": 124540,
-            "startTime": "12:45:00 PM 11-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "KCA Ruby vs KCA Emerald (KCA TCM Pink T20 Challengers, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124541_5151_RUB_EME_fc-web.jpg",
-            "team_1": "KCA Ruby",
+            "team_1": "KCA Amber",
             "team_2": "KCA Emerald",
             "status": "UPCOMING",
             "event_name": "KCA TCM Pink T20 Challengers, 2025",
-            "match_name": "KCA Ruby vs KCA Emerald",
-            "match_id": 124541,
-            "startTime": "08:45:00 AM 12-05-2025"
+            "match_name": "KCA Amber vs KCA Emerald",
+            "match_id": 124540,
+            "startTime": "12:45:00 PM 11-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -94,6 +82,18 @@
             "match_name": "Gauhati Town Club Women vs Rising Star Women",
             "match_id": 124972,
             "startTime": "01:15:00 PM 11-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "KCA Ruby vs KCA Emerald (KCA TCM Pink T20 Challengers, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124541_5151_RUB_EME_fc-web.jpg",
+            "team_1": "KCA Ruby",
+            "team_2": "KCA Emerald",
+            "status": "UPCOMING",
+            "event_name": "KCA TCM Pink T20 Challengers, 2025",
+            "match_name": "KCA Ruby vs KCA Emerald",
+            "match_id": 124541,
+            "startTime": "08:45:00 AM 12-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +142,6 @@
             "match_name": "Greece Women vs Germany Women",
             "match_id": 125370,
             "startTime": "06:00:00 PM 11-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Western Towers-W vs Eastern Royals-W (ECS-W Jersey, Liberation Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125363_5183_WT-W_ER-W_fc-web.jpg",
-            "team_1": "Western Towers-W",
-            "team_2": "Eastern Royals-W",
-            "status": "UPCOMING",
-            "event_name": "ECS-W Jersey, Liberation Series, 2025",
-            "match_name": "Western Towers-W vs Eastern Royals-W",
-            "match_id": 125363,
-            "startTime": "07:00:00 PM 11-05-2025"
         }
     ]
 }
