@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:09:29 PM 11-05-2025",
+    "last update time": "09:19:40 PM 11-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -102,6 +102,20 @@
             "adfree_url": "https://dai.fancode.com/primary/125286_english_hls_1851ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Baseball",
+            "title": "New York Mets vs Chicago Cubs (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/124606_CASACARDS_APP.png",
+            "team_1": "New York Mets",
+            "team_2": "Chicago Cubs",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "New York Mets vs Chicago Cubs",
+            "match_id": 124606,
+            "startTime": "09:35:00 PM 11-05-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Cricket",
             "title": "KCA Ruby vs KCA Emerald (KCA TCM Pink T20 Challengers, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/124541_5151_RUB_EME_fc-web.jpg",
@@ -148,18 +162,6 @@
             "match_name": "United Arab Emirates vs Netherlands",
             "match_id": 124497,
             "startTime": "02:30:00 PM 12-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "ACE KRM Panthers vs CECC (KCC T10 Challengers League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Challengers-league-old.jpg",
-            "team_1": "ACE KRM Panthers",
-            "team_2": "CECC",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Challengers League, 2025",
-            "match_name": "ACE KRM Panthers vs CECC",
-            "match_id": 123594,
-            "startTime": "11:30:00 PM 11-05-2025"
         }
     ]
 }
