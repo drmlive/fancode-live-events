@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:13:44 PM 13-05-2025",
+    "last update time": "02:23:51 PM 13-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,29 +47,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ariana CC vs Seaside (ECS Sweden, Landskrona, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old-2.png",
-            "team_1": "Ariana CC",
-            "team_2": "Seaside",
-            "status": "LIVE",
-            "event_name": "ECS Sweden, Landskrona, 2025",
-            "match_name": "Ariana CC vs Seaside",
-            "match_id": 125331,
-            "startTime": "12:30:00 PM 13-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/125331_english_hls_76098ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/125331_english_hls_76098ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Hisingens vs Malmo (ECS Sweden, Landskrona, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old.png",
             "team_1": "Hisingens",
             "team_2": "Malmo",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECS Sweden, Landskrona, 2025",
             "match_name": "Hisingens vs Malmo",
             "match_id": 125332,
-            "startTime": "02:30:00 PM 13-05-2025"
+            "startTime": "02:30:00 PM 13-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/125332_english_hls_9213ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125332_english_hls_9213ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +142,18 @@
             "match_name": "Emirates Red vs Dubai",
             "match_id": 124870,
             "startTime": "09:00:00 PM 13-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cinnamon Pacers vs Saffron Strikers (Dream11 Spice Isle T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124921_5166_CP_SS_fc-Web.jpg",
+            "team_1": "Cinnamon Pacers",
+            "team_2": "Saffron Strikers",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Spice Isle T10, 2025",
+            "match_name": "Cinnamon Pacers vs Saffron Strikers",
+            "match_id": 124921,
+            "startTime": "09:30:00 PM 13-05-2025"
         }
     ]
 }
