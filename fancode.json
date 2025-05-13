@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:11:36 AM 14-05-2025",
+    "last update time": "03:21:41 AM 14-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "01:00:00 AM 14-05-2025",
             "dai_url": "https://dai.fancode.com/primary/125438_english_hls_5941ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125438_english_hls_5941ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sunderland vs Coventry City (EFL Championship 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125157_4352_SUN_CVC_fc-web.jpg",
-            "team_1": "Sunderland",
-            "team_2": "Coventry City",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2024-25",
-            "match_name": "Sunderland vs Coventry City",
-            "match_id": 125157,
-            "startTime": "12:30:00 AM 14-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/125157_english_hls_77272ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/125157_english_hls_77272ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +136,18 @@
             "match_name": "Emirates Blues vs Fujairah",
             "match_id": 124872,
             "startTime": "04:00:00 PM 14-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ariana CC vs Ariana KIF (ECS Sweden, Landskrona, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old.png",
+            "team_1": "Ariana CC",
+            "team_2": "Ariana KIF",
+            "status": "UPCOMING",
+            "event_name": "ECS Sweden, Landskrona, 2025",
+            "match_name": "Ariana CC vs Ariana KIF",
+            "match_id": 125338,
+            "startTime": "04:30:00 PM 14-05-2025"
         }
     ]
 }
