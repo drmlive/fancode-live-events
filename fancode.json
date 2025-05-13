@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:19:44 AM 13-05-2025",
+    "last update time": "08:29:52 AM 13-05-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "KCA Pearl vs KCA Amber (KCA TCM Pink T20 Challengers, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124543_5151_AMB_PEA_fc-web.jpg",
+            "team_1": "KCA Pearl",
+            "team_2": "KCA Amber",
+            "status": "LIVE",
+            "event_name": "KCA TCM Pink T20 Challengers, 2025",
+            "match_name": "KCA Pearl vs KCA Amber",
+            "match_id": 124543,
+            "startTime": "08:45:00 AM 13-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/6i58Z4L0Q02HZHc-tuiNVg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124543_english_hls_351ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Cook Islands vs Japan (Cook Islands tour of Japan, 2025)",
@@ -18,20 +32,6 @@
             "adfree_url": "https://dai.fancode.com/primary/125086_english_hls_56732ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Thailand Women vs Kuwait Women (ICC Women's T20 World Cup Asia Qualifier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124515_5150_TL-W_KU-W_fc-Web_1746781110301.jpg",
-            "team_1": "Thailand Women",
-            "team_2": "Kuwait Women",
-            "status": "LIVE",
-            "event_name": "ICC Women's T20 World Cup Asia Qualifier, 2025",
-            "match_name": "Thailand Women vs Kuwait Women",
-            "match_id": 124515,
-            "startTime": "07:30:00 AM 13-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/124515_english_hls_9210ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124515_english_hls_9210ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Baseball",
             "title": "Seattle Mariners vs New York Yankees (Major League Baseball, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/124608_CASACARDS_APP.png",
@@ -44,18 +44,6 @@
             "startTime": "07:10:00 AM 13-05-2025",
             "dai_url": "https://dai.fancode.com/primary/124608_english_hls_12756ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124608_english_hls_12756ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "KCA Amber vs KCA Pearl (KCA TCM Pink T20 Challengers, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124543_5151_AMB_PEA_fc-web.jpg",
-            "team_1": "KCA Amber",
-            "team_2": "KCA Pearl",
-            "status": "UPCOMING",
-            "event_name": "KCA TCM Pink T20 Challengers, 2025",
-            "match_name": "KCA Amber vs KCA Pearl",
-            "match_id": 124543,
-            "startTime": "08:45:00 AM 13-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +140,18 @@
             "match_name": "Sharjah vs Emirates Red",
             "match_id": 124868,
             "startTime": "04:00:00 PM 13-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Seaside vs Malmo (ECS Sweden, Landskrona, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old-2.png",
+            "team_1": "Seaside",
+            "team_2": "Malmo",
+            "status": "UPCOMING",
+            "event_name": "ECS Sweden, Landskrona, 2025",
+            "match_name": "Seaside vs Malmo",
+            "match_id": 125333,
+            "startTime": "04:30:00 PM 13-05-2025"
         }
     ]
 }
