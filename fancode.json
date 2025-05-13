@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:08:37 PM 13-05-2025",
+    "last update time": "10:18:44 PM 13-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125436_4399_VLD_GIR_FC-web_1747131965670.jpg",
             "team_1": "Real Valladolid",
             "team_2": "Girona",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "La Liga 2024-25",
             "match_name": "Real Valladolid vs Girona",
             "match_id": 125436,
-            "startTime": "10:30:00 PM 13-05-2025"
+            "startTime": "10:30:00 PM 13-05-2025",
+            "dai_url": "https://d2y036f9dhqxwb.cloudfront.net/out/v1/d8e73963042f4afb967135458b90c3fe/index.m3u8",
+            "adfree_url": "https://d2y036f9dhqxwb.cloudfront.net/out/v1/d8e73963042f4afb967135458b90c3fe/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -82,6 +84,20 @@
             "adfree_url": "https://dai.fancode.com/primary/124921_english_hls_39062ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "SBS CC vs Tally Rangers (KCC T20 Challengers A League, 3rd Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125384_5188_TCC_SBS_fc-web.jpg",
+            "team_1": "SBS CC",
+            "team_2": "Tally Rangers",
+            "status": "LIVE",
+            "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "match_name": "SBS CC vs Tally Rangers",
+            "match_id": 125384,
+            "startTime": "10:30:00 PM 13-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/125384_english_hls_76810ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125384_english_hls_76810ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Villarreal vs Legan\u00e9s (La Liga 2024-25)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125439_4399_VIL_LEG_FC-web_1747132082318.jpg",
@@ -140,18 +156,6 @@
             "match_name": "KCA Pearl vs KCA Emerald",
             "match_id": 124546,
             "startTime": "12:45:00 PM 14-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "SBS CC vs Tally Rangers (KCC T20 Challengers A League, 3rd Edition, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125384_5188_TCC_SBS_fc-web.jpg",
-            "team_1": "SBS CC",
-            "team_2": "Tally Rangers",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
-            "match_name": "SBS CC vs Tally Rangers",
-            "match_id": 125384,
-            "startTime": "10:30:00 PM 13-05-2025"
         }
     ]
 }
