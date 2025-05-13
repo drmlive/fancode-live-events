@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:27:32 PM 13-05-2025",
+    "last update time": "08:37:37 PM 13-05-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "status": "LIVE",
-            "event_name": "Emirates D10 Tournament, 2025",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "match_id": 124869,
-            "startTime": "06:30:00 PM 13-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/124869_english_hls_3383ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124869_english_hls_3383ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Seaside vs Hisingens (ECS Sweden, Landskrona, 2025)",
@@ -45,15 +31,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Emirates Red vs Dubai (Emirates D10 Tournament, 2025)",
+            "title": "Dubai vs Emirates Red (Emirates D10 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
-            "team_1": "Emirates Red",
-            "team_2": "Dubai",
+            "team_1": "Dubai",
+            "team_2": "Emirates Red",
             "status": "UPCOMING",
             "event_name": "Emirates D10 Tournament, 2025",
-            "match_name": "Emirates Red vs Dubai",
+            "match_name": "Dubai vs Emirates Red",
             "match_id": 124870,
             "startTime": "09:00:00 PM 13-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cinnamon Pacers vs Saffron Strikers (Dream11 Spice Isle T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/124921_5166_CP_SS_fc-Web.jpg",
+            "team_1": "Cinnamon Pacers",
+            "team_2": "Saffron Strikers",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Spice Isle T10, 2025",
+            "match_name": "Cinnamon Pacers vs Saffron Strikers",
+            "match_id": 124921,
+            "startTime": "09:30:00 PM 13-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -78,18 +76,6 @@
             "match_name": "United Arab Emirates vs Scotland",
             "match_id": 124498,
             "startTime": "02:30:00 PM 14-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cinnamon Pacers vs Saffron Strikers (Dream11 Spice Isle T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124921_5166_CP_SS_fc-Web.jpg",
-            "team_1": "Cinnamon Pacers",
-            "team_2": "Saffron Strikers",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Spice Isle T10, 2025",
-            "match_name": "Cinnamon Pacers vs Saffron Strikers",
-            "match_id": 124921,
-            "startTime": "09:30:00 PM 13-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -150,6 +136,18 @@
             "match_name": "Real Sociedad vs Celta de Vigo",
             "match_id": 125435,
             "startTime": "11:30:00 PM 13-05-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sunderland vs Coventry City (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125157_4352_SUN_CVC_fc-web.jpg",
+            "team_1": "Sunderland",
+            "team_2": "Coventry City",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Sunderland vs Coventry City",
+            "match_id": 125157,
+            "startTime": "12:30:00 AM 14-05-2025"
         }
     ]
 }
