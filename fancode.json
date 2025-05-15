@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:10:42 PM 15-05-2025",
+    "last update time": "06:20:49 PM 15-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
             "team_1": "Dubai",
             "team_2": "Emirates Blues",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Emirates D10 Tournament, 2025",
             "match_name": "Dubai vs Emirates Blues",
             "match_id": 124877,
-            "startTime": "06:30:00 PM 15-05-2025"
+            "startTime": "06:30:00 PM 15-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/124877_english_hls_16383ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124877_english_hls_16383ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -124,6 +126,30 @@
             "match_name": "Clove Challengers vs Cinnamon Pacers",
             "match_id": 124926,
             "startTime": "12:00:00 AM 16-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Molineaux Blue Runners vs St Paul\u2019s Barracudas (Cool and Smooth T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125289_5178_MBR_STB_fc-Web.jpg",
+            "team_1": "Molineaux Blue Runners",
+            "team_2": "St Paul\u2019s Barracudas",
+            "status": "UPCOMING",
+            "event_name": "Cool and Smooth T20, 2025",
+            "match_name": "Molineaux Blue Runners vs St Paul\u2019s Barracudas",
+            "match_id": 125289,
+            "startTime": "12:30:00 AM 16-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chennai Kings CA vs Thunder Cats (KCC T20 Challengers A League, 3rd Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125387_5188_CHK_THN_fc-web.jpg",
+            "team_1": "Chennai Kings CA",
+            "team_2": "Thunder Cats",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "match_name": "Chennai Kings CA vs Thunder Cats",
+            "match_id": 125387,
+            "startTime": "01:15:00 AM 16-05-2025"
         }
     ]
 }
