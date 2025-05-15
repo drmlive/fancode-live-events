@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:13:59 PM 15-05-2025",
+    "last update time": "11:24:06 PM 15-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -84,6 +84,20 @@
             "adfree_url": "https://dai.fancode.com/primary/125386_english_hls_8487ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Dubai vs Ajman (Emirates D10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
+            "team_1": "Dubai",
+            "team_2": "Ajman",
+            "status": "LIVE",
+            "event_name": "Emirates D10 Tournament, 2025",
+            "match_name": "Dubai vs Ajman",
+            "match_id": 124879,
+            "startTime": "11:30:00 PM 15-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/124879_english_hls_33979ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124879_english_hls_33979ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Baseball",
             "title": "Atlanta Braves vs Washington Nationals (Major League Baseball, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/124611_CASACARDS_APP.png",
@@ -110,18 +124,6 @@
             "startTime": "09:30:00 PM 15-05-2025",
             "dai_url": "https://dai.fancode.com/primary/124925_english_hls_11341ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124925_english_hls_11341ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Scotland vs Netherlands (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_2_SCO_vs_NED_Old_match-card_1746438587718.jpg",
-            "team_1": "Scotland",
-            "team_2": "Netherlands",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Scotland vs Netherlands",
-            "match_id": 124499,
-            "startTime": "02:30:00 PM 16-05-2025"
         }
     ]
 }
