@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:05:22 PM 16-05-2025",
+    "last update time": "05:15:28 PM 16-05-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -32,30 +32,18 @@
             "adfree_url": "https://dai.fancode.com/primary/124499_english_hls_5146ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Western United vs Melbourne City (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110910_4567_WST_MLC_fc-web_1728983127544.jpg",
-            "team_1": "Western United",
-            "team_2": "Melbourne City",
-            "status": "LIVE",
-            "event_name": "A League 2024-25",
-            "match_name": "Western United vs Melbourne City",
-            "match_id": 125665,
-            "startTime": "03:05:00 PM 16-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/125665_english_hls_61577ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/125665_english_hls_61577ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Malmo vs Ariana KIF (ECS Sweden, Landskrona, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Landskrona-old.png",
             "team_1": "Malmo",
             "team_2": "Ariana KIF",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECS Sweden, Landskrona, 2025",
             "match_name": "Malmo vs Ariana KIF",
             "match_id": 125348,
-            "startTime": "05:30:00 PM 16-05-2025"
+            "startTime": "05:30:00 PM 16-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/125348_english_hls_70738ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125348_english_hls_70738ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,6 +140,18 @@
             "match_name": "Estonia Women vs Bulgaria Women",
             "match_id": 125690,
             "startTime": "11:30:00 AM 17-05-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Levante vs Albacete (LALIGA HYPERMOTION 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126109_4400_LET_ALB_fc-web.png",
+            "team_1": "Levante",
+            "team_2": "Albacete",
+            "status": "UPCOMING",
+            "event_name": "LALIGA HYPERMOTION 2024-25",
+            "match_name": "Levante vs Albacete",
+            "match_id": 126109,
+            "startTime": "12:00:00 AM 17-05-2025"
         }
     ]
 }
