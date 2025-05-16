@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:29:12 PM 16-05-2025",
+    "last update time": "11:39:20 PM 16-05-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Saffron Strikers vs Nutmeg Warriors (Dream11 Spice Isle T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124927_5166_SS_NW_fc-Web.jpg",
-            "team_1": "Saffron Strikers",
-            "team_2": "Nutmeg Warriors",
-            "status": "LIVE",
-            "event_name": "Dream11 Spice Isle T10, 2025",
-            "match_name": "Saffron Strikers vs Nutmeg Warriors",
-            "match_id": 124927,
-            "startTime": "09:30:00 PM 16-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/124927_english_hls_63671ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/124927_english_hls_63671ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 2 vs Charlotte, North Carolina (2025 PGA Championship - Quail Hollow)",
@@ -30,6 +16,20 @@
             "startTime": "10:30:00 PM 16-05-2025",
             "dai_url": "https://dai.fancode.com/primary/125743_english_hls_27611ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125743_english_hls_27611ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Chicago Cubs vs Chicago White Sox (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/124613_CASACARDS_APP.png",
+            "team_1": "Chicago Cubs",
+            "team_2": "Chicago White Sox",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Chicago Cubs vs Chicago White Sox",
+            "match_id": 124613,
+            "startTime": "11:50:00 PM 16-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/124613_english_hls_33457ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124613_english_hls_33457ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -87,11 +87,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/126109_4400_LET_ALB_fc-web.png",
             "team_1": "Levante",
             "team_2": "Albacete",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA HYPERMOTION 2024-25",
             "match_name": "Levante vs Albacete",
             "match_id": 126109,
-            "startTime": "12:00:00 AM 17-05-2025"
+            "startTime": "12:00:00 AM 17-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/126109_english_hls_78798ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/126109_english_hls_78798ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
