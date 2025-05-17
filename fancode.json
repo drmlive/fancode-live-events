@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:09:27 PM 17-05-2025",
+    "last update time": "06:19:33 PM 17-05-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -18,20 +18,6 @@
             "adfree_url": "https://dai.fancode.com/primary/119039_english_hls_99862adfreeta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Goteburg CC-W vs Malmohus-W (ECS-W Sweden, Landskrona, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/126105_CASACARDS_APP.png",
-            "team_1": "Goteburg CC-W",
-            "team_2": "Malmohus-W",
-            "status": "LIVE",
-            "event_name": "ECS-W Sweden, Landskrona, 2025",
-            "match_name": "Goteburg CC-W vs Malmohus-W",
-            "match_id": 126105,
-            "startTime": "04:45:00 PM 17-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/126105_english_hls_33003ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/126105_english_hls_33003ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "AFC Wimbledon vs Notts County (League Two 2024-25)",
             "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-league-two-old-matchcard-1.png",
@@ -44,6 +30,20 @@
             "startTime": "05:00:00 PM 17-05-2025",
             "dai_url": "https://dai.fancode.com/primary/125164_english_hls_79153ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125164_english_hls_79153ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Goteburg CC-W vs Malmohus-W (ECS-W Sweden, Landskrona, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/126105_CASACARDS_APP.png",
+            "team_1": "Goteburg CC-W",
+            "team_2": "Malmohus-W",
+            "status": "LIVE",
+            "event_name": "ECS-W Sweden, Landskrona, 2025",
+            "match_name": "Goteburg CC-W vs Malmohus-W",
+            "match_id": 126105,
+            "startTime": "04:45:00 PM 17-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/126105_english_hls_33003ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/126105_english_hls_33003ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -140,6 +140,18 @@
             "match_name": "Government Road Stingrays vs Brownhill Dolphins",
             "match_id": 125291,
             "startTime": "12:30:00 AM 18-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sandy Point Snappers vs Molineaux Blue Runners (Cool and Smooth T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125292_5178_SPS_MBR_fc-Web.jpg",
+            "team_1": "Sandy Point Snappers",
+            "team_2": "Molineaux Blue Runners",
+            "status": "UPCOMING",
+            "event_name": "Cool and Smooth T20, 2025",
+            "match_name": "Sandy Point Snappers vs Molineaux Blue Runners",
+            "match_id": 125292,
+            "startTime": "04:30:00 AM 18-05-2025"
         }
     ]
 }
