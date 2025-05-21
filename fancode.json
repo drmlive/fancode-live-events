@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:41:41 AM 22-05-2025",
+    "last update time": "12:51:48 AM 22-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,34 +74,6 @@
             "adfree_url": "https://dai.fancode.com/primary/125764_english_hls_78895ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Baseball",
-            "title": "Pittsburgh Pirates vs Cincinnati Reds (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/124621_CASACARDS_APP.png",
-            "team_1": "Pittsburgh Pirates",
-            "team_2": "Cincinnati Reds",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Pittsburgh Pirates vs Cincinnati Reds",
-            "match_id": 124621,
-            "startTime": "10:05:00 PM 21-05-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs United Arab Emirates (Bangladesh tour of UAE, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-UAE-old-match-card.png",
-            "team_1": "Bangladesh",
-            "team_2": "United Arab Emirates",
-            "status": "LIVE",
-            "event_name": "Bangladesh tour of UAE, 2025",
-            "match_name": "Bangladesh vs United Arab Emirates",
-            "match_id": 126291,
-            "startTime": "08:30:00 PM 21-05-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/y-c8r2mjQHW6tL_hnQcesg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/126291_english_hls_97827ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "England vs Zimbabwe (Zimbabwe tour of England, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Tour-of-England-test-old-match-card.png",
@@ -148,6 +120,18 @@
             "match_name": "Kannur vs Pathanamthitta",
             "match_id": 125511,
             "startTime": "01:00:00 PM 22-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tallinn Hippos vs Tallinn United (ECS Estonia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125722_5201_TH_TU_fc-web.jpg",
+            "team_1": "Tallinn Hippos",
+            "team_2": "Tallinn United",
+            "status": "UPCOMING",
+            "event_name": "ECS Estonia, 2025",
+            "match_name": "Tallinn Hippos vs Tallinn United",
+            "match_id": 125722,
+            "startTime": "01:45:00 PM 22-05-2025"
         }
     ]
 }
