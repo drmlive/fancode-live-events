@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:16:04 PM 22-05-2025",
+    "last update time": "05:26:15 PM 22-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -70,8 +70,22 @@
             "match_name": "Main Feed - Day 1",
             "match_id": 127056,
             "startTime": "05:30:00 PM 22-05-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/7V4cyLssRByqC_ik9y_bwA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127056_english_hls_21743ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Roland Garros Draw",
+            "title": "Roland Garros 2025 Draw Ceremony vs Paris (Roland Garros 2025 Draw Ceremony)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_2025_Old_Default_match-card_2.jpg",
+            "team_1": "Roland Garros 2025 Draw Ceremony",
+            "team_2": "Paris",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2025 Draw Ceremony",
+            "match_name": "Roland Garros 2025 Draw Ceremony",
+            "match_id": 127249,
+            "startTime": "05:30:00 PM 22-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/lfAZV-RhTC6wIvRGDpSzoA/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018458/RGdraw25/master.m3u8?hdnea=exp=1747958175~acl=/*~id=04525653373935114835177159306097~hmac=1169ecbbdaa03cbc623cc0c48b03a2451e3ed0ffb7e8ec359173492a3ab3bf3a"
         },
         {
             "event_category": "Cricket",
@@ -170,18 +184,6 @@
             "match_name": "Nutmeg Warriors vs Cinnamon Pacers",
             "match_id": 124942,
             "startTime": "12:00:00 AM 23-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sandy Point Snappers vs Government Road Stingrays (Cool and Smooth T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125297_5178_SPS_GRS_fc-Web.jpg",
-            "team_1": "Sandy Point Snappers",
-            "team_2": "Government Road Stingrays",
-            "status": "UPCOMING",
-            "event_name": "Cool and Smooth T20, 2025",
-            "match_name": "Sandy Point Snappers vs Government Road Stingrays",
-            "match_id": 125297,
-            "startTime": "12:30:00 AM 23-05-2025"
         }
     ]
 }
