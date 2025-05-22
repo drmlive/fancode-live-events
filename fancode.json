@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:34:14 AM 23-05-2025",
+    "last update time": "01:44:20 AM 23-05-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "England vs Zimbabwe (Zimbabwe tour of England, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Tour-of-England-test-old-match-card.png",
-            "team_1": "England",
-            "team_2": "Zimbabwe",
-            "status": "LIVE",
-            "event_name": "Zimbabwe tour of England, 2025",
-            "match_name": "England vs Zimbabwe",
-            "match_id": 126220,
-            "startTime": "03:30:00 PM 22-05-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/ZIMEN/master.m3u8?hdnea=exp=1747980068~acl=/*~id=23982720023850531511606246349329~hmac=f12c8491c5fdf0b1245f86e56a39cdbccae862dc7bfc6487ee4f02a642c6e2cd"
-        },
         {
             "event_category": "Cricket",
             "title": "Cinnamon Pacers vs Nutmeg Warriors (Dream11 Spice Isle T10, 2025)",
@@ -116,20 +102,6 @@
             "adfree_url": "https://dai.fancode.com/primary/127054_english_hls_53083ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Congressional Country Club, Bethesda, MD (Senior PGA Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championships-old-match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Congressional Country Club, Bethesda, MD",
-            "status": "LIVE",
-            "event_name": "Senior PGA Championship",
-            "match_name": "Day 1",
-            "match_id": 126021,
-            "startTime": "10:30:00 PM 22-05-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/afm0TmJrSqGDWKDcmeBvZQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/126021_english_hls_39413ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Baseball",
             "title": "Oakland Athletics vs Los Angeles Angels (Major League Baseball, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/124625_CASACARDS_APP.png",
@@ -156,6 +128,18 @@
             "startTime": "01:30:00 AM 23-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Xv1wvmyWQrmRBmJFue73kA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127055_english_hls_48256ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "England vs Zimbabwe (Zimbabwe tour of England, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Tour-of-England-test-old-match-card.png",
+            "team_1": "England",
+            "team_2": "Zimbabwe",
+            "status": "PAUSED",
+            "event_name": "Zimbabwe tour of England, 2025",
+            "match_name": "England vs Zimbabwe",
+            "match_id": 126220,
+            "startTime": "03:30:00 PM 22-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -192,6 +176,18 @@
             "match_name": "Ireland vs West Indies",
             "match_id": 125698,
             "startTime": "03:15:00 PM 23-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Oman vs Canada (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Mens-CWC-League-2-OMN_CAN-match-71-old_1747220111523.jpg",
+            "team_1": "Oman",
+            "team_2": "Canada",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "Oman vs Canada",
+            "match_id": 124503,
+            "startTime": "07:30:00 PM 23-05-2025"
         }
     ]
 }
