@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:15 AM 23-05-2025",
+    "last update time": "11:20:24 AM 23-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,6 +42,20 @@
             "startTime": "09:30:00 AM 23-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kKx5lxJHR3ehl1tpfykhrQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125396_english_hls_50887ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tallinn Riders vs Tallinn Strikers (ECS Estonia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125726_5201_TSK_TSR_fc-web.jpg",
+            "team_1": "Tallinn Riders",
+            "team_2": "Tallinn Strikers",
+            "status": "LIVE",
+            "event_name": "ECS Estonia, 2025",
+            "match_name": "Tallinn Riders vs Tallinn Strikers",
+            "match_id": 125726,
+            "startTime": "11:30:00 AM 23-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/eWk1GTScQ_mIlV9W0lZ3Yg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125726_english_hls_62359ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -107,18 +121,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Tallinn Riders vs Tallinn Strikers (ECS Estonia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125726_5201_TSK_TSR_fc-web.jpg",
-            "team_1": "Tallinn Riders",
-            "team_2": "Tallinn Strikers",
-            "status": "UPCOMING",
-            "event_name": "ECS Estonia, 2025",
-            "match_name": "Tallinn Riders vs Tallinn Strikers",
-            "match_id": 125726,
-            "startTime": "11:30:00 AM 23-05-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Tallinn United vs Tallinn Stallions (ECS Estonia, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125727_5201_TU_TST_fc-web.jpg",
             "team_1": "Tallinn United",
@@ -128,6 +130,18 @@
             "match_name": "Tallinn United vs Tallinn Stallions",
             "match_id": 125727,
             "startTime": "01:45:00 PM 23-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kannur vs Kozhikode (Kerala Mens T20 Challenger Trophy)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125514_5191_KAN_KOD_fc-web.jpg",
+            "team_1": "Kannur",
+            "team_2": "Kozhikode",
+            "status": "UPCOMING",
+            "event_name": "Kerala Mens T20 Challenger Trophy",
+            "match_name": "Kannur vs Kozhikode",
+            "match_id": 125514,
+            "startTime": "08:45:00 AM 24-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -164,18 +178,6 @@
             "match_name": "Tartu Wolves vs Tallinn Riders",
             "match_id": 125729,
             "startTime": "06:00:00 PM 23-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kannur vs Kozhikode (Kerala Mens T20 Challenger Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125514_5191_KAN_KOD_fc-web.jpg",
-            "team_1": "Kannur",
-            "team_2": "Kozhikode",
-            "status": "UPCOMING",
-            "event_name": "Kerala Mens T20 Challenger Trophy",
-            "match_name": "Kannur vs Kozhikode",
-            "match_id": 125514,
-            "startTime": "08:45:00 AM 24-05-2025"
         }
     ]
 }
