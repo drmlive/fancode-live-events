@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:21:21 AM 24-05-2025",
+    "last update time": "01:31:29 AM 24-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "07:30:00 PM 23-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/coXIAijhR-SS5GrnMSOA1Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/124503_english_hls_39597ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies Women vs England Women (West Indies Women tour of England, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England-T20_old-(2).jpg",
-            "team_1": "West Indies Women",
-            "team_2": "England Women",
-            "status": "LIVE",
-            "event_name": "West Indies Women tour of England, 2025",
-            "match_name": "West Indies Women vs England Women",
-            "match_id": 126222,
-            "startTime": "11:05:00 PM 23-05-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/WIENW/master.m3u8?hdnea=exp=1748064575~acl=/*~id=41728027677280517281995116170801~hmac=e386b2624035c93ae82edc20b595fbec5538af63fcf5ed69655f5240639e7e8e"
         },
         {
             "event_category": "Cricket",
@@ -130,20 +116,6 @@
             "adfree_url": "https://dai.fancode.com/primary/127063_english_hls_34731ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Practice 2 vs Monaco (F1 TAG HEUER GRAND PRIX DE MONACO 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_-MONACO_Old_1747741042787.jpg",
-            "team_1": "Practice 2",
-            "team_2": "Monaco",
-            "status": "LIVE",
-            "event_name": "F1 TAG HEUER GRAND PRIX DE MONACO 2025",
-            "match_name": "Practice 2",
-            "match_id": 118417,
-            "startTime": "08:30:00 PM 23-05-2025",
-            "dai_url": "https://d3powde31igrgf.cloudfront.net/out/v1/7207dca952e44629b5e92200c3eb4bbb/index.m3u8",
-            "adfree_url": "https://d3powde31igrgf.cloudfront.net/out/v1/7207dca952e44629b5e92200c3eb4bbb/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 2 vs Congressional Country Club, Bethesda, MD (Senior PGA Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Senior-PGA-Championships-old-match-card.jpg",
@@ -182,8 +154,22 @@
             "match_name": "World Feed - Day 2",
             "match_id": 127059,
             "startTime": "01:30:00 AM 24-05-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/ybn1ixNyRICOB0eQk0g58A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127059_english_hls_78006ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Women vs England Women (West Indies Women tour of England, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England-T20_old-(2).jpg",
+            "team_1": "West Indies Women",
+            "team_2": "England Women",
+            "status": "LIVE",
+            "event_name": "West Indies Women tour of England, 2025",
+            "match_name": "West Indies Women vs England Women",
+            "match_id": 126222,
+            "startTime": "11:05:00 PM 23-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/WIENW/master.m3u8?hdnea=exp=1748064575~acl=/*~id=41728027677280517281995116170801~hmac=e386b2624035c93ae82edc20b595fbec5538af63fcf5ed69655f5240639e7e8e"
         },
         {
             "event_category": "Cricket",
@@ -196,6 +182,18 @@
             "match_name": "England vs Zimbabwe",
             "match_id": 126220,
             "startTime": "03:30:00 PM 22-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kannur vs Kozhikode (Kerala Mens T20 Challenger Trophy)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125514_5191_KAN_KOD_fc-web.jpg",
+            "team_1": "Kannur",
+            "team_2": "Kozhikode",
+            "status": "UPCOMING",
+            "event_name": "Kerala Mens T20 Challenger Trophy",
+            "match_name": "Kannur vs Kozhikode",
+            "match_id": 125514,
+            "startTime": "08:45:00 AM 24-05-2025"
         }
     ]
 }
