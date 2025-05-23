@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:11:01 AM 24-05-2025",
+    "last update time": "01:21:21 AM 24-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -172,6 +172,20 @@
             "adfree_url": "https://dai.fancode.com/primary/126251_english_hls_7337ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "World Feed - Day 2 vs Colonial Country Club, Texas (Charles Schwab Challenge)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png",
+            "team_1": "World Feed - Day 2",
+            "team_2": "Colonial Country Club, Texas",
+            "status": "LIVE",
+            "event_name": "Charles Schwab Challenge",
+            "match_name": "World Feed - Day 2",
+            "match_id": 127059,
+            "startTime": "01:30:00 AM 24-05-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Cricket",
             "title": "England vs Zimbabwe (Zimbabwe tour of England, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Tour-of-England-test-old-match-card.png",
@@ -182,18 +196,6 @@
             "match_name": "England vs Zimbabwe",
             "match_id": 126220,
             "startTime": "03:30:00 PM 22-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kannur vs Kozhikode (Kerala Mens T20 Challenger Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125514_5191_KAN_KOD_fc-web.jpg",
-            "team_1": "Kannur",
-            "team_2": "Kozhikode",
-            "status": "UPCOMING",
-            "event_name": "Kerala Mens T20 Challenger Trophy",
-            "match_name": "Kannur vs Kozhikode",
-            "match_id": 125514,
-            "startTime": "08:45:00 AM 24-05-2025"
         }
     ]
 }
