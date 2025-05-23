@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:31:29 AM 24-05-2025",
+    "last update time": "01:41:35 AM 24-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -130,20 +130,6 @@
             "adfree_url": "https://dai.fancode.com/primary/126022_english_hls_37070ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Basketball",
-            "title": "Olympiacos Piraeus vs Monaco (EuroLeague 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/126251_CASACARDS_APP.png",
-            "team_1": "Olympiacos Piraeus",
-            "team_2": "Monaco",
-            "status": "LIVE",
-            "event_name": "EuroLeague 2024-25",
-            "match_name": "Olympiacos Piraeus vs Monaco",
-            "match_id": 126251,
-            "startTime": "11:30:00 PM 23-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/126251_english_hls_7337ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/126251_english_hls_7337ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "World Feed - Day 2 vs Colonial Country Club, Texas (Charles Schwab Challenge)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Charles-Schwab-Challenge-old-match-card.png",
@@ -194,6 +180,18 @@
             "match_name": "Kannur vs Kozhikode",
             "match_id": 125514,
             "startTime": "08:45:00 AM 24-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tallinn United vs Tallinn Riders (ECS Estonia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125731_5201_TU_TSR_fc-web.jpg",
+            "team_1": "Tallinn United",
+            "team_2": "Tallinn Riders",
+            "status": "UPCOMING",
+            "event_name": "ECS Estonia, 2025",
+            "match_name": "Tallinn United vs Tallinn Riders",
+            "match_id": 125731,
+            "startTime": "11:30:00 AM 24-05-2025"
         }
     ]
 }
