@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:03:09 PM 23-05-2025",
+    "last update time": "03:13:20 PM 23-05-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -28,8 +28,8 @@
             "match_name": "West Indies vs Ireland",
             "match_id": 125698,
             "startTime": "03:15:00 PM 23-05-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/ctE6vviCS7mu9C5gXOdyuQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125698_english_hls_11275ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -72,6 +72,20 @@
             "startTime": "02:35:00 PM 23-05-2025",
             "dai_url": "https://dai.fancode.com/primary/119086_english_hls_4071adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/119086_english_hls_4071adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice 1 vs Lausitzring (DTM Lausitzring)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1747738176157.jpg",
+            "team_1": "Practice 1",
+            "team_2": "Lausitzring",
+            "status": "LIVE",
+            "event_name": "DTM Lausitzring",
+            "match_name": "Practice 1",
+            "match_id": 126285,
+            "startTime": "03:10:00 PM 23-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/qdPT1JSVRUy8E6yx2esByg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/126285_english_hls_67246ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -168,18 +182,6 @@
             "match_name": "ACE KRM Panthers vs Royal Lions CC",
             "match_id": 125405,
             "startTime": "09:15:00 PM 23-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cinnamon Pacers vs Ginger Generals (Dream11 Spice Isle T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/124919_5166_GG_CP_fc-Web.jpg",
-            "team_1": "Cinnamon Pacers",
-            "team_2": "Ginger Generals",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Spice Isle T10, 2025",
-            "match_name": "Cinnamon Pacers vs Ginger Generals",
-            "match_id": 124943,
-            "startTime": "09:30:00 PM 23-05-2025"
         }
     ]
 }
