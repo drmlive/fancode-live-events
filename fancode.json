@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:35:50 PM 24-05-2025",
+    "last update time": "07:45:59 PM 24-05-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -72,6 +72,20 @@
             "startTime": "07:31:00 PM 24-05-2025",
             "dai_url": "https://dai.fancode.com/primary/126274_english_hls_69666ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/126274_english_hls_69666ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tartu Wolves vs Tallinn Hippos (ECS Estonia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125735_5201_TH_TTW_fc-web.jpg",
+            "team_1": "Tartu Wolves",
+            "team_2": "Tallinn Hippos",
+            "status": "LIVE",
+            "event_name": "ECS Estonia, 2025",
+            "match_name": "Tartu Wolves vs Tallinn Hippos",
+            "match_id": 125735,
+            "startTime": "08:00:00 PM 24-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/8qaK1RrmRJyTA8ZPXDuv8Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125735_english_hls_14631ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -174,20 +188,6 @@
             "startTime": "02:10:00 PM 24-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Urd1gjMKSOSUIR3spEX5Tg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118562_english_hls_41261ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3 vs Rinkven International Golf Club (Soudal Open, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Soudal-Open-old-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "Rinkven International Golf Club",
-            "status": "LIVE",
-            "event_name": "Soudal Open, 2025",
-            "match_name": "Day 3",
-            "match_id": 126278,
-            "startTime": "05:00:00 PM 24-05-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/3vYilNB3SzWDTW5LcXmTcQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/126278_english_hls_78143ta-di_h264/index.m3u8"
         }
     ]
 }
