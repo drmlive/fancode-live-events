@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:42:21 PM 24-05-2025",
+    "last update time": "03:52:35 PM 24-05-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/125733_english_hls_31622ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Ajman vs Abu Dhabi (Emirates D10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
+            "team_1": "Ajman",
+            "team_2": "Abu Dhabi",
+            "status": "LIVE",
+            "event_name": "Emirates D10 Tournament, 2025",
+            "match_name": "Ajman vs Abu Dhabi",
+            "match_id": 124880,
+            "startTime": "04:00:00 PM 24-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/rOdFwyL2TP2RTI_MnSzkcg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124880_english_hls_70572ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Nagoya Grampus vs Urawa Red Diamonds (J League 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/121970_4795_NGY_URW_fc-web_1745966521960.jpg",
@@ -102,16 +116,18 @@
             "adfree_url": "https://d38yldg5usgyqf.cloudfront.net/out/v1/01b9480149c84ddfba127ec6a8f54a7e/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Ajman vs Abu Dhabi (Emirates D10 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
-            "team_1": "Ajman",
-            "team_2": "Abu Dhabi",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10 Tournament, 2025",
-            "match_name": "Ajman vs Abu Dhabi",
-            "match_id": 124880,
-            "startTime": "04:00:00 PM 24-05-2025"
+            "event_category": "Motorsports",
+            "title": "Race 1 vs Lausitzring (DTM Lausitzring)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1747738176157.jpg",
+            "team_1": "Race 1",
+            "team_2": "Lausitzring",
+            "status": "LIVE",
+            "event_name": "DTM Lausitzring",
+            "match_name": "Race 1",
+            "match_id": 126288,
+            "startTime": "04:00:00 PM 24-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/w2Ifo64_TRm7KIsNH0haAw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/126288_english_hls_24423ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -172,18 +188,6 @@
             "match_name": "Abu Dhabi vs Dubai",
             "match_id": 124882,
             "startTime": "09:00:00 PM 24-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Saffron Strikers vs Bay Leaf Blasters (Dream11 Spice Isle T10, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/124945_CASACARDS_APP.png",
-            "team_1": "Saffron Strikers",
-            "team_2": "Bay Leaf Blasters",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Spice Isle T10, 2025",
-            "match_name": "Saffron Strikers vs Bay Leaf Blasters",
-            "match_id": 124945,
-            "startTime": "09:30:00 PM 24-05-2025"
         }
     ]
 }
