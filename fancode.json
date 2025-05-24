@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:11:50 PM 24-05-2025",
+    "last update time": "03:22:01 PM 24-05-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -16,6 +16,20 @@
             "startTime": "02:10:00 PM 24-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Urd1gjMKSOSUIR3spEX5Tg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/118562_english_hls_41261ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "England vs Zimbabwe (Zimbabwe tour of England, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Tour-of-England-test-old-match-card.png",
+            "team_1": "England",
+            "team_2": "Zimbabwe",
+            "status": "LIVE",
+            "event_name": "Zimbabwe tour of England, 2025",
+            "match_name": "England vs Zimbabwe",
+            "match_id": 126220,
+            "startTime": "03:30:00 PM 22-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/ZIMEN/master.m3u8?hdnea=exp=1748123521~acl=/*~id=82814331980283123478953079673915~hmac=f0d3787bf4d93235c0f2969312c817bab630993d98f1400336a5485ee5e22c65"
         },
         {
             "event_category": "Cricket",
@@ -72,32 +86,6 @@
             "startTime": "03:05:00 PM 24-05-2025",
             "dai_url": "https://dai.fancode.com/primary/125667_english_hls_38782ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125667_english_hls_38782ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Monte Carlo (F3 MONACO 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Monte Carlo",
-            "status": "LIVE",
-            "event_name": "F3 MONACO 2025",
-            "match_name": "Sprint Race",
-            "match_id": 119087,
-            "startTime": "02:15:00 PM 24-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/119087_english_hls_30094adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119087_english_hls_30094adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England vs Zimbabwe (Zimbabwe tour of England, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Tour-of-England-test-old-match-card.png",
-            "team_1": "England",
-            "team_2": "Zimbabwe",
-            "status": "PAUSED",
-            "event_name": "Zimbabwe tour of England, 2025",
-            "match_name": "England vs Zimbabwe",
-            "match_id": 126220,
-            "startTime": "03:30:00 PM 22-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -182,6 +170,18 @@
             "match_name": "Saffron Strikers vs Bay Leaf Blasters",
             "match_id": 124945,
             "startTime": "09:30:00 PM 24-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "MEC Study Group vs Royal Lions CC (KCC T20 Challengers A League, 3rd Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125399_5188_MEC_RLC_fc-web.jpg",
+            "team_1": "MEC Study Group",
+            "team_2": "Royal Lions CC",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "match_name": "MEC Study Group vs Royal Lions CC",
+            "match_id": 125399,
+            "startTime": "11:00:00 PM 24-05-2025"
         }
     ]
 }
