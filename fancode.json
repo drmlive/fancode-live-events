@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:12:46 PM 24-05-2025",
+    "last update time": "04:22:54 PM 24-05-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -88,6 +88,20 @@
             "adfree_url": "https://dai.fancode.com/primary/125667_english_hls_38782ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "United Lion Hearts vs Biratnagar Panthers (Nepal T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125810_5205_ULH_BPT_fc-web_1747372458880.jpg",
+            "team_1": "United Lion Hearts",
+            "team_2": "Biratnagar Panthers",
+            "status": "LIVE",
+            "event_name": "Nepal T10, 2025",
+            "match_name": "United Lion Hearts vs Biratnagar Panthers",
+            "match_id": 127255,
+            "startTime": "04:30:00 PM 24-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/CiKZMfnKSFWzY1j3gq_oRA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127255_english_hls_91432ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Day 2 vs United Kingdom (TISSOT BRITISH GRAND PRIX)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-United-Kingdom-old-match-card.png",
@@ -114,32 +128,6 @@
             "startTime": "04:00:00 PM 24-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/w2Ifo64_TRm7KIsNH0haAw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/126288_english_hls_24423ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Nagoya Grampus vs Urawa Red Diamonds (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/121970_4795_NGY_URW_fc-web_1745966521960.jpg",
-            "team_1": "Nagoya Grampus",
-            "team_2": "Urawa Red Diamonds",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Nagoya Grampus vs Urawa Red Diamonds",
-            "match_id": 121970,
-            "startTime": "02:00:00 PM 24-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/121970_english_hls_519ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/121970_english_hls_519ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "United Lion Hearts vs Biratnagar Panthers (Nepal T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125810_5205_ULH_BPT_fc-web_1747372458880.jpg",
-            "team_1": "United Lion Hearts",
-            "team_2": "Biratnagar Panthers",
-            "status": "UPCOMING",
-            "event_name": "Nepal T10, 2025",
-            "match_name": "United Lion Hearts vs Biratnagar Panthers",
-            "match_id": 127255,
-            "startTime": "04:30:00 PM 24-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -188,6 +176,18 @@
             "match_name": "Abu Dhabi vs Dubai",
             "match_id": 124882,
             "startTime": "09:00:00 PM 24-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Saffron Strikers vs Bay Leaf Blasters (Dream11 Spice Isle T10, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/124945_CASACARDS_APP.png",
+            "team_1": "Saffron Strikers",
+            "team_2": "Bay Leaf Blasters",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Spice Isle T10, 2025",
+            "match_name": "Saffron Strikers vs Bay Leaf Blasters",
+            "match_id": 124945,
+            "startTime": "09:30:00 PM 24-05-2025"
         }
     ]
 }
