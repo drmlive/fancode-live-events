@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:11:16 AM 25-05-2025",
+    "last update time": "02:21:27 AM 25-05-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -44,20 +44,6 @@
             "startTime": "12:30:00 AM 25-05-2025",
             "dai_url": "https://dai.fancode.com/primary/125453_english_hls_84241adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125453_english_hls_84241adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Arminia Bielefeld vs VfB Stuttgart (DFB Pokal)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DFB-Pokal-Final-old.jpg",
-            "team_1": "Arminia Bielefeld",
-            "team_2": "VfB Stuttgart",
-            "status": "LIVE",
-            "event_name": "DFB Pokal",
-            "match_name": "Arminia Bielefeld vs VfB Stuttgart",
-            "match_id": 122716,
-            "startTime": "11:30:00 PM 24-05-2025",
-            "dai_url": "https://dai.fancode.com/primary/122716_english_hls_56933ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/122716_english_hls_56933ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -196,6 +182,18 @@
             "match_name": "Girona vs Atl\u00e9tico de Madrid",
             "match_id": 125456,
             "startTime": "05:30:00 PM 25-05-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Villarreal vs Sevilla (LALIGA 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125453_4399_ALA_OSN_fc-web_1747651414045.jpg",
+            "team_1": "Villarreal",
+            "team_2": "Sevilla",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2024-25",
+            "match_name": "Villarreal vs Sevilla",
+            "match_id": 125459,
+            "startTime": "07:45:00 PM 25-05-2025"
         }
     ]
 }
