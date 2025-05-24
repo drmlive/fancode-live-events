@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:31:23 PM 24-05-2025",
+    "last update time": "02:41:32 PM 24-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://dai.fancode.com/primary/121970_english_hls_519ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Melbourne City vs Western United (A League 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110910_4567_WST_MLC_fc-web_1728983127544.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Western United",
+            "status": "LIVE",
+            "event_name": "A League 2024-25",
+            "match_name": "Melbourne City vs Western United",
+            "match_id": 125667,
+            "startTime": "03:05:00 PM 24-05-2025",
+            "dai_url": "https://dai.fancode.com/primary/125667_english_hls_38782ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125667_english_hls_38782ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Day 2 vs United Kingdom (TISSOT BRITISH GRAND PRIX)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tissot-Grand-Prix-of-the-United-Kingdom-old-match-card.png",
@@ -100,26 +114,14 @@
             "startTime": "03:30:00 PM 22-05-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne City vs Western United (A League 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/110910_4567_WST_MLC_fc-web_1728983127544.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Western United",
-            "status": "UPCOMING",
-            "event_name": "A League 2024-25",
-            "match_name": "Melbourne City vs Western United",
-            "match_id": 125667,
-            "startTime": "03:05:00 PM 24-05-2025"
-        },
-        {
             "event_category": "Cricket",
-            "title": "Tallinn Stallions vs Tallinn Riders (ECS Estonia, 2025)",
+            "title": "Tallinn Riders vs Tallinn Stallions (ECS Estonia, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125733_5201_TST_TSR_fc-web.jpg",
-            "team_1": "Tallinn Stallions",
-            "team_2": "Tallinn Riders",
+            "team_1": "Tallinn Riders",
+            "team_2": "Tallinn Stallions",
             "status": "UPCOMING",
             "event_name": "ECS Estonia, 2025",
-            "match_name": "Tallinn Stallions vs Tallinn Riders",
+            "match_name": "Tallinn Riders vs Tallinn Stallions",
             "match_id": 125733,
             "startTime": "03:45:00 PM 24-05-2025"
         },
