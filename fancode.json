@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:05:19 AM 30-05-2025",
+    "last update time": "09:15:27 AM 30-05-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -115,11 +115,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125403_5188_SUL_AMB_fc-web.jpg",
             "team_1": "Super Lanka",
             "team_2": "Al Mulla Exchange - B",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
             "match_name": "Super Lanka vs Al Mulla Exchange - B",
             "match_id": 125403,
-            "startTime": "09:30:00 AM 30-05-2025"
+            "startTime": "09:30:00 AM 30-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Tn2yuYHqSsmNpE_6g4-_yg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125403_english_hls_48193ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -374,6 +376,18 @@
             "startTime": "08:45:00 AM 31-05-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bliss Warriors vs Cluj (ECS Romania, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old.jpg",
+            "team_1": "Bliss Warriors",
+            "team_2": "Cluj",
+            "status": "UPCOMING",
+            "event_name": "ECS Romania, 2025",
+            "match_name": "Bliss Warriors vs Cluj",
+            "match_id": 126586,
+            "startTime": "12:00:00 PM 31-05-2025"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Practice vs Barcelona (F3 SPAIN 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
@@ -480,18 +494,6 @@
             "match_name": "Wang/Zheng vs Eikeri/Hozumi",
             "match_id": 127209,
             "startTime": "02:30:00 PM 30-05-2025"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Free Practice vs Barcelona (F2 SPAIN 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-            "team_1": "Free Practice",
-            "team_2": "Barcelona",
-            "status": "UPCOMING",
-            "event_name": "F2 SPAIN 2025",
-            "match_name": "Free Practice",
-            "match_id": 119045,
-            "startTime": "02:35:00 PM 30-05-2025"
         }
     ]
 }
