@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:34:58 AM 30-05-2025",
+    "last update time": "08:45:07 AM 30-05-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Wayanad vs Combined Districts (Kerala Mens T20 Challenger Trophy)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125526_5191_WAN_CDS_fc-web.jpg",
+            "team_1": "Wayanad",
+            "team_2": "Combined Districts",
+            "status": "LIVE",
+            "event_name": "Kerala Mens T20 Challenger Trophy",
+            "match_name": "Wayanad vs Combined Districts",
+            "match_id": 125526,
+            "startTime": "08:45:00 AM 30-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/I-cCAd1wRfG7ZkfVZF0Xbg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125526_english_hls_7187ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Central Smashers vs Western Warriors (MCA Super Series Men's 50 Overs, 2025)",
@@ -30,20 +44,6 @@
             "startTime": "07:30:00 AM 30-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/9BAl0zzBQ9mrnRetjdXd9Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127038_english_hls_82440ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Wayanad vs Combined Districts (Kerala Mens T20 Challenger Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125526_5191_WAN_CDS_fc-web.jpg",
-            "team_1": "Wayanad",
-            "team_2": "Combined Districts",
-            "status": "LIVE",
-            "event_name": "Kerala Mens T20 Challenger Trophy",
-            "match_name": "Wayanad vs Combined Districts",
-            "match_id": 125526,
-            "startTime": "08:45:00 AM 30-05-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/I-cCAd1wRfG7ZkfVZF0Xbg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/125526_english_hls_7187ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -317,11 +317,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-juniors-old.png",
             "team_1": "Day 2",
             "team_2": "Ahmedabad",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Dream UTT Juniors",
             "match_name": "Day 2",
             "match_id": 127510,
-            "startTime": "09:00:00 AM 30-05-2025"
+            "startTime": "09:00:00 AM 30-05-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
