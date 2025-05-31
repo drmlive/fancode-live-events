@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:47:59 PM 31-05-2025",
+    "last update time": "12:58:05 PM 31-05-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Western Warriors vs Northern Strikers (MCA Super Series Men's 50 Overs, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old-2.jpg",
-            "team_1": "Western Warriors",
-            "team_2": "Northern Strikers",
-            "status": "LIVE",
-            "event_name": "MCA Super Series Men's 50 Overs, 2025",
-            "match_name": "Western Warriors vs Northern Strikers",
-            "match_id": 127040,
-            "startTime": "07:30:00 AM 31-05-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/pBvbRZmcRwilXvm8M4dybg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127040_english_hls_68735ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Kottayam vs Kollam (Kerala Mens T20 Challenger Trophy)",
@@ -30,6 +16,20 @@
             "startTime": "01:00:00 PM 31-05-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/CsMdOzUBQDGWo3HHR1ZcOQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127742_english_hls_92888ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Warriors vs Northern Strikers (MCA Super Series Men's 50 Overs, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old-2.jpg",
+            "team_1": "Western Warriors",
+            "team_2": "Northern Strikers",
+            "status": "LIVE",
+            "event_name": "MCA Super Series Men's 50 Overs, 2025",
+            "match_name": "Western Warriors vs Northern Strikers",
+            "match_id": 127040,
+            "startTime": "07:30:00 AM 31-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/pBvbRZmcRwilXvm8M4dybg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127040_english_hls_68735ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -356,6 +356,18 @@
             "startTime": "03:30:00 PM 01-06-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Kottayam vs Wayanad (Kerala Mens T20 Challenger Trophy)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125521_5191_KOY_WAN_fc-web.jpg",
+            "team_1": "Kottayam",
+            "team_2": "Wayanad",
+            "status": "UPCOMING",
+            "event_name": "Kerala Mens T20 Challenger Trophy",
+            "match_name": "Kottayam vs Wayanad",
+            "match_id": 127744,
+            "startTime": "01:00:00 PM 01-06-2025"
+        },
+        {
             "event_category": "Tennis",
             "title": "Mirra Andreeva vs Yulia Putintseva (Roland Garros 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/126906_5237_Mirra-Andreeva_Yulia-Putintseva_fc-web.jpg",
@@ -450,18 +462,6 @@
             "match_name": "Qualifying Session",
             "match_id": 127636,
             "startTime": "02:50:00 PM 31-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kottayam vs Wayanad (Kerala Mens T20 Challenger Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125521_5191_KOY_WAN_fc-web.jpg",
-            "team_1": "Kottayam",
-            "team_2": "Wayanad",
-            "status": "UPCOMING",
-            "event_name": "Kerala Mens T20 Challenger Trophy",
-            "match_name": "Kottayam vs Wayanad",
-            "match_id": 127744,
-            "startTime": "01:00:00 PM 01-06-2025"
         }
     ]
 }
