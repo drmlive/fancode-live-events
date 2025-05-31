@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:41:47 PM 31-05-2025",
+    "last update time": "04:51:56 PM 31-05-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -72,6 +72,20 @@
             "startTime": "03:30:00 PM 31-05-2025",
             "dai_url": "https://dai.fancode.com/primary/121973_english_hls_62250ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/121973_english_hls_62250ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Fujairah vs Abu Dhabi (Emirates D10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
+            "team_1": "Fujairah",
+            "team_2": "Abu Dhabi",
+            "status": "LIVE",
+            "event_name": "Emirates D10 Tournament, 2025",
+            "match_name": "Fujairah vs Abu Dhabi",
+            "match_id": 124906,
+            "startTime": "05:00:00 PM 31-05-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/scf93pS4RUqOLfViv02Azw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/124906_english_hls_51140ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -277,27 +291,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Portugal vs Malta (ECN Mdina Cup T20I, 2025)",
+            "title": "Malta vs Portugal (ECN Mdina Cup T20I, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/portugal-vs-malta_old.jpg",
-            "team_1": "Portugal",
-            "team_2": "Malta",
+            "team_1": "Malta",
+            "team_2": "Portugal",
             "status": "UPCOMING",
             "event_name": "ECN Mdina Cup T20I, 2025",
-            "match_name": "Portugal vs Malta",
+            "match_name": "Malta vs Portugal",
             "match_id": 127532,
             "startTime": "05:15:00 PM 31-05-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fujairah vs Abu Dhabi (Emirates D10 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
-            "team_1": "Fujairah",
-            "team_2": "Abu Dhabi",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10 Tournament, 2025",
-            "match_name": "Fujairah vs Abu Dhabi",
-            "match_id": 124906,
-            "startTime": "05:00:00 PM 31-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -397,18 +399,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Emirates Blues vs Sharjah (Emirates D10 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
-            "team_1": "Emirates Blues",
-            "team_2": "Sharjah",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10 Tournament, 2025",
-            "match_name": "Emirates Blues vs Sharjah",
-            "match_id": 124907,
-            "startTime": "07:30:00 PM 31-05-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bliss Warriors vs Phoenix (ECS Romania, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg",
             "team_1": "Bliss Warriors",
@@ -421,18 +411,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Emirates D10 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10 Tournament, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 124908,
-            "startTime": "11:30:00 PM 31-05-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Durham Women vs Lancashire Women (Women's Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125833_5206_DHW_LAN-W_fc-Web.jpg",
             "team_1": "Durham Women",
@@ -442,6 +420,30 @@
             "match_name": "Durham Women vs Lancashire Women",
             "match_id": 125833,
             "startTime": "05:30:00 PM 01-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Emirates Blues vs Sharjah (Emirates D10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
+            "team_1": "Emirates Blues",
+            "team_2": "Sharjah",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10 Tournament, 2025",
+            "match_name": "Emirates Blues vs Sharjah",
+            "match_id": 124907,
+            "startTime": "07:30:00 PM 31-05-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Emirates D10 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates-D10-old.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10 Tournament, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 124908,
+            "startTime": "11:30:00 PM 31-05-2025"
         },
         {
             "event_category": "Cricket",
@@ -465,7 +467,7 @@
             "event_name": "Roland Garros 2025",
             "match_name": "Veronika Kudermetova vs Ekaterina Alexandrova",
             "match_id": 126900,
-            "startTime": "04:50:00 PM 31-05-2025"
+            "startTime": "05:00:00 PM 31-05-2025"
         }
     ]
 }
