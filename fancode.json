@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:33:09 AM 01-06-2025",
+    "last update time": "03:43:31 AM 01-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Featured Group - Day 3",
             "match_id": 127598,
             "startTime": "07:30:00 PM 31-05-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/sTR4Va1cQn2OQQFZj5A92w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127598_english_hls_88716ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -462,16 +462,16 @@
             "startTime": "01:30:00 PM 01-06-2025"
         },
         {
-            "event_category": "Tennis",
-            "title": "Jasmine Paolini vs Elina Svitolina (Roland Garros 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/roland-garros_2025_old_default_match-card.jpg",
-            "team_1": "Jasmine Paolini",
-            "team_2": "Elina Svitolina",
+            "event_category": "Football",
+            "title": "Cruz Azul vs Vancouver Whitecaps FC (Concacaf Champions Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Final_Old.jpg",
+            "team_1": "Cruz Azul",
+            "team_2": "Vancouver Whitecaps FC",
             "status": "UPCOMING",
-            "event_name": "Roland Garros 2025",
-            "match_name": "Jasmine Paolini vs Elina Svitolina",
-            "match_id": 126896,
-            "startTime": "02:30:00 PM 01-06-2025"
+            "event_name": "Concacaf Champions Cup 2025",
+            "match_name": "Cruz Azul vs Vancouver Whitecaps FC",
+            "match_id": 125374,
+            "startTime": "06:36:00 AM 02-06-2025"
         }
     ]
 }
