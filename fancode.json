@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:53:29 PM 01-06-2025",
+    "last update time": "12:03:39 AM 02-06-2025",
     "matches": [
+        {
+            "event_category": "Tennis",
+            "title": "Lorenzo Musetti vs Holger Rune (Roland Garros 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126767_5237_Lorenzo-Musetti_Holger-Rune_fc-web.jpg",
+            "team_1": "Lorenzo Musetti",
+            "team_2": "Holger Rune",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2025",
+            "match_name": "Lorenzo Musetti vs Holger Rune",
+            "match_id": 126767,
+            "startTime": "12:05:00 AM 02-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1748846019~acl=/*~id=43546740895831810877778362319256~hmac=b271ef73b6893d8968f58390efaf21507dff19caea4540a47d9267afcf683aa6"
+        },
         {
             "event_category": "Cricket",
             "title": "Durham vs Lancashire (Vitality Blast T20, 2025)",
@@ -72,34 +86,6 @@
             "startTime": "10:00:00 PM 01-06-2025",
             "dai_url": "https://dai.fancode.com/primary/127687_english_hls_46475ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127687_english_hls_46475ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Cartagena vs Mirand\u00e9s (LALIGA HYPERMOTION 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Laliga-HyperMotion-CAR-vs-MIR-old.png",
-            "team_1": "FC Cartagena",
-            "team_2": "Mirand\u00e9s",
-            "status": "LIVE",
-            "event_name": "LALIGA HYPERMOTION 2024-25",
-            "match_name": "FC Cartagena vs Mirand\u00e9s",
-            "match_id": 127686,
-            "startTime": "10:00:00 PM 01-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/127686_english_hls_22679ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127686_english_hls_22679ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo de La Coru\u00f1a vs Elche (LALIGA HYPERMOTION 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Laliga-HyperMotion-DLC-vs-ELC-old.png",
-            "team_1": "Deportivo de La Coru\u00f1a",
-            "team_2": "Elche",
-            "status": "LIVE",
-            "event_name": "LALIGA HYPERMOTION 2024-25",
-            "match_name": "Deportivo de La Coru\u00f1a vs Elche",
-            "match_id": 127685,
-            "startTime": "10:00:00 PM 01-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/127685_english_hls_79325ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127685_english_hls_79325ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -200,30 +186,32 @@
             "adfree_url": "https://dai.fancode.com/primary/124640_english_hls_61581ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "West Indies vs England (West Indies tour of England, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-England-ODI_old.jpg",
-            "team_1": "West Indies",
-            "team_2": "England",
+            "event_category": "Football",
+            "title": "FC Cartagena vs Mirand\u00e9s (LALIGA HYPERMOTION 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Laliga-HyperMotion-CAR-vs-MIR-old.png",
+            "team_1": "FC Cartagena",
+            "team_2": "Mirand\u00e9s",
             "status": "LIVE",
-            "event_name": "West Indies tour of England, 2025",
-            "match_name": "West Indies vs England",
-            "match_id": 126352,
-            "startTime": "03:30:00 PM 01-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20WIVSENG/master.m3u8?hdnea=exp=1748844800~acl=/*~id=06186709025867089897082147635473~hmac=f5ca828e32e6eea25e3548b7d16cca7abe46c563e0b8eba162dae51ee8caf4f8"
+            "event_name": "LALIGA HYPERMOTION 2024-25",
+            "match_name": "FC Cartagena vs Mirand\u00e9s",
+            "match_id": 127686,
+            "startTime": "10:00:00 PM 01-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/127686_english_hls_22679ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127686_english_hls_22679ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "Lorenzo Musetti vs Holger Rune (Roland Garros 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126767_5237_Lorenzo-Musetti_Holger-Rune_fc-web.jpg",
-            "team_1": "Lorenzo Musetti",
-            "team_2": "Holger Rune",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2025",
-            "match_name": "Lorenzo Musetti vs Holger Rune",
-            "match_id": 126767,
-            "startTime": "12:05:00 AM 02-06-2025"
+            "event_category": "Football",
+            "title": "Deportivo de La Coru\u00f1a vs Elche (LALIGA HYPERMOTION 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Laliga-HyperMotion-DLC-vs-ELC-old.png",
+            "team_1": "Deportivo de La Coru\u00f1a",
+            "team_2": "Elche",
+            "status": "LIVE",
+            "event_name": "LALIGA HYPERMOTION 2024-25",
+            "match_name": "Deportivo de La Coru\u00f1a vs Elche",
+            "match_id": 127685,
+            "startTime": "10:00:00 PM 01-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/127685_english_hls_79325ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127685_english_hls_79325ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
