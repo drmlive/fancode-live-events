@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:39:38 AM 01-06-2025",
+    "last update time": "11:49:47 AM 01-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Bliss Warriors vs Phoenix (ECS Romania, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg",
+            "team_1": "Bliss Warriors",
+            "team_2": "Phoenix",
+            "status": "LIVE",
+            "event_name": "ECS Romania, 2025",
+            "match_name": "Bliss Warriors vs Phoenix",
+            "match_id": 127746,
+            "startTime": "12:00:00 PM 01-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/SSERxxT5R3iIgZQzpxVbvA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127746_english_hls_1662ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Combined Districts vs Ernakulam (Kerala Mens T20 Challenger Trophy)",
@@ -102,18 +116,6 @@
             "match_name": "Durham vs Lancashire",
             "match_id": 125901,
             "startTime": "09:30:00 PM 01-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bliss Warriors vs Phoenix (ECS Romania, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg",
-            "team_1": "Bliss Warriors",
-            "team_2": "Phoenix",
-            "status": "UPCOMING",
-            "event_name": "ECS Romania, 2025",
-            "match_name": "Bliss Warriors vs Phoenix",
-            "match_id": 127746,
-            "startTime": "12:00:00 PM 01-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -260,18 +262,6 @@
             "startTime": "04:30:00 AM 02-06-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Kottayam vs Wayanad (Kerala Mens T20 Challenger Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125521_5191_KOY_WAN_fc-web.jpg",
-            "team_1": "Kottayam",
-            "team_2": "Wayanad",
-            "status": "UPCOMING",
-            "event_name": "Kerala Mens T20 Challenger Trophy",
-            "match_name": "Kottayam vs Wayanad",
-            "match_id": 127744,
-            "startTime": "01:00:00 PM 01-06-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Cruz Azul vs Vancouver Whitecaps FC (Concacaf Champions Cup 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Concacaf_Final_Old.jpg",
@@ -282,6 +272,18 @@
             "match_name": "Cruz Azul vs Vancouver Whitecaps FC",
             "match_id": 125374,
             "startTime": "06:30:00 AM 02-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kottayam vs Wayanad (Kerala Mens T20 Challenger Trophy)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125521_5191_KOY_WAN_fc-web.jpg",
+            "team_1": "Kottayam",
+            "team_2": "Wayanad",
+            "status": "UPCOMING",
+            "event_name": "Kerala Mens T20 Challenger Trophy",
+            "match_name": "Kottayam vs Wayanad",
+            "match_id": 127744,
+            "startTime": "01:00:00 PM 01-06-2025"
         },
         {
             "event_category": "Football",
@@ -325,11 +327,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
             "team_1": "Feature Race",
             "team_2": "Barcelona",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F3 SPAIN 2025",
             "match_name": "Feature Race",
             "match_id": 119142,
-            "startTime": "12:00:00 PM 01-06-2025"
+            "startTime": "12:00:00 PM 01-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/119142_english_hls_45787adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119142_english_hls_45787adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -369,18 +373,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Northern Strikers vs Central Smashers (MCA Super Series Men's 50 Overs, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg",
-            "team_1": "Northern Strikers",
-            "team_2": "Central Smashers",
-            "status": "UPCOMING",
-            "event_name": "MCA Super Series Men's 50 Overs, 2025",
-            "match_name": "Northern Strikers vs Central Smashers",
-            "match_id": 127041,
-            "startTime": "07:00:00 AM 02-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Kerala Mens T20 Challenger Trophy)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "TBC",
@@ -390,6 +382,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 125528,
             "startTime": "08:45:00 AM 02-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Northern Strikers vs Central Smashers (MCA Super Series Men's 50 Overs, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg",
+            "team_1": "Northern Strikers",
+            "team_2": "Central Smashers",
+            "status": "UPCOMING",
+            "event_name": "MCA Super Series Men's 50 Overs, 2025",
+            "match_name": "Northern Strikers vs Central Smashers",
+            "match_id": 127041,
+            "startTime": "07:00:00 AM 02-06-2025"
         },
         {
             "event_category": "Cricket",
