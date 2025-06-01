@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:43:21 PM 01-06-2025",
+    "last update time": "11:53:29 PM 01-06-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "Ben Shelton vs Carlos Alcaraz (Roland Garros 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126764_5237_Ben-Shelton_Carlos-Alcaraz_fc-web.jpg",
-            "team_1": "Ben Shelton",
-            "team_2": "Carlos Alcaraz",
-            "status": "LIVE",
-            "event_name": "Roland Garros 2025",
-            "match_name": "Ben Shelton vs Carlos Alcaraz",
-            "match_id": 126764,
-            "startTime": "08:20:00 PM 01-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1748832005~acl=/*~id=92845950358845134353229654272457~hmac=720b49a28b885ba5e63a314592c8bdbdc8aa7268f2e747134a2c136c78905ead"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs England (West Indies tour of England, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-England-ODI_old.jpg",
-            "team_1": "West Indies",
-            "team_2": "England",
-            "status": "LIVE",
-            "event_name": "West Indies tour of England, 2025",
-            "match_name": "West Indies vs England",
-            "match_id": 126352,
-            "startTime": "03:30:00 PM 01-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20WIVSENG/master.m3u8?hdnea=exp=1748844800~acl=/*~id=06186709025867089897082147635473~hmac=f5ca828e32e6eea25e3548b7d16cca7abe46c563e0b8eba162dae51ee8caf4f8"
-        },
         {
             "event_category": "Cricket",
             "title": "Durham vs Lancashire (Vitality Blast T20, 2025)",
@@ -229,15 +201,29 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Antigua and Barbuda vs Nevis (Leeward Islands T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127429_5249_ATG_NVS_fc-web.jpg",
-            "team_1": "Antigua and Barbuda",
-            "team_2": "Nevis",
+            "title": "West Indies vs England (West Indies tour of England, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Tour-of-England-ODI_old.jpg",
+            "team_1": "West Indies",
+            "team_2": "England",
+            "status": "LIVE",
+            "event_name": "West Indies tour of England, 2025",
+            "match_name": "West Indies vs England",
+            "match_id": 126352,
+            "startTime": "03:30:00 PM 01-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20WIVSENG/master.m3u8?hdnea=exp=1748844800~acl=/*~id=06186709025867089897082147635473~hmac=f5ca828e32e6eea25e3548b7d16cca7abe46c563e0b8eba162dae51ee8caf4f8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Lorenzo Musetti vs Holger Rune (Roland Garros 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126767_5237_Lorenzo-Musetti_Holger-Rune_fc-web.jpg",
+            "team_1": "Lorenzo Musetti",
+            "team_2": "Holger Rune",
             "status": "UPCOMING",
-            "event_name": "Leeward Islands T20, 2025",
-            "match_name": "Antigua and Barbuda vs Nevis",
-            "match_id": 127429,
-            "startTime": "12:30:00 AM 02-06-2025"
+            "event_name": "Roland Garros 2025",
+            "match_name": "Lorenzo Musetti vs Holger Rune",
+            "match_id": 126767,
+            "startTime": "12:05:00 AM 02-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -262,6 +248,18 @@
             "match_name": "Indian Warriors vs Trans Titans",
             "match_id": 127453,
             "startTime": "03:30:00 PM 02-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Antigua and Barbuda vs Nevis (Leeward Islands T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127429_5249_ATG_NVS_fc-web.jpg",
+            "team_1": "Antigua and Barbuda",
+            "team_2": "Nevis",
+            "status": "UPCOMING",
+            "event_name": "Leeward Islands T20, 2025",
+            "match_name": "Antigua and Barbuda vs Nevis",
+            "match_id": 127429,
+            "startTime": "12:30:00 AM 02-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -456,16 +454,16 @@
             "startTime": "08:15:00 PM 02-06-2025"
         },
         {
-            "event_category": "Tennis",
-            "title": "Lorenzo Musetti vs Holger Rune (Roland Garros 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126767_5237_Lorenzo-Musetti_Holger-Rune_fc-web.jpg",
-            "team_1": "Lorenzo Musetti",
-            "team_2": "Holger Rune",
+            "event_category": "Cricket",
+            "title": "Northern Strikers vs Central Smashers (MCA Super Series Men's 50 Overs, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-Super-series-men's-old.jpg",
+            "team_1": "Northern Strikers",
+            "team_2": "Central Smashers",
             "status": "UPCOMING",
-            "event_name": "Roland Garros 2025",
-            "match_name": "Lorenzo Musetti vs Holger Rune",
-            "match_id": 126767,
-            "startTime": "11:45:00 PM 01-06-2025"
+            "event_name": "MCA Super Series Men's 50 Overs, 2025",
+            "match_name": "Northern Strikers vs Central Smashers",
+            "match_id": 127041,
+            "startTime": "07:00:00 AM 02-06-2025"
         }
     ]
 }
