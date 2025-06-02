@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:07:54 PM 02-06-2025",
+    "last update time": "07:18:25 PM 02-06-2025",
     "matches": [
+        {
+            "event_category": "Tennis",
+            "title": "Cameron Norrie vs Novak Djokovic (Roland Garros 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126768_5237_Cameron-Norrie_Novak-Djokovic_fc-web.jpg",
+            "team_1": "Cameron Norrie",
+            "team_2": "Novak Djokovic",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2025",
+            "match_name": "Cameron Norrie vs Novak Djokovic",
+            "match_id": 126768,
+            "startTime": "07:10:00 PM 02-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1748915282~acl=/*~id=90223189873378518757524672274689~hmac=0199c3cf2794b68051bdd9cbbe8c084f5ba02d316da375d9f10c7aca3ac6403c"
+        },
         {
             "event_category": "Cricket",
             "title": "Scotland vs Nepal (ICC CWC League 2, 2023-27)",
@@ -30,6 +44,20 @@
             "startTime": "03:30:00 PM 02-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/z4LqRWBuR4q4sJGaFL4ACg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127453_english_hls_43455ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Euro Gladiators vs African Lions (Intercontinental Legends Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Euro-Gladiators-VS-African-Lions_old.jpg",
+            "team_1": "Euro Gladiators",
+            "team_2": "African Lions",
+            "status": "LIVE",
+            "event_name": "Intercontinental Legends Championship, 2025",
+            "match_name": "Euro Gladiators vs African Lions",
+            "match_id": 127454,
+            "startTime": "07:30:00 PM 02-06-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -74,6 +102,20 @@
             "adfree_url": "https://dai.fancode.com/primary/127695_english_hls_65558ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "West Indies A vs South Africa A (South Africa A tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-test-old.png",
+            "team_1": "West Indies A",
+            "team_2": "South Africa A",
+            "status": "LIVE",
+            "event_name": "South Africa A tour of West Indies, 2025",
+            "match_name": "West Indies A vs South Africa A",
+            "match_id": 125767,
+            "startTime": "07:30:00 PM 01-06-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Tennis",
             "title": "Ebden/Peers vs Bolelli/Vavassori (Roland Garros 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127159_5237_Ebden-Peers_Bolelli-Vavassori_fc-web_1748840155899.jpg",
@@ -116,40 +158,18 @@
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1748911641~acl=/*~id=06647854363094655715737652114116~hmac=df00e3729c793182030a063844d438173d094ebd3e68d66f1146ce4e4d3b7502"
         },
         {
-            "event_category": "Tennis",
-            "title": "Cameron Norrie vs Novak Djokovic (Roland Garros 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126768_5237_Cameron-Norrie_Novak-Djokovic_fc-web.jpg",
-            "team_1": "Cameron Norrie",
-            "team_2": "Novak Djokovic",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2025",
-            "match_name": "Cameron Norrie vs Novak Djokovic",
-            "match_id": 126768,
-            "startTime": "07:10:00 PM 02-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Euro Gladiators vs African Lions (Intercontinental Legends Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Euro-Gladiators-VS-African-Lions_old.jpg",
-            "team_1": "Euro Gladiators",
-            "team_2": "African Lions",
-            "status": "UPCOMING",
-            "event_name": "Intercontinental Legends Championship, 2025",
-            "match_name": "Euro Gladiators vs African Lions",
-            "match_id": 127454,
-            "startTime": "07:30:00 PM 02-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sabarmati Strikers vs Narmada Navigators (Cricket Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127769_5267_SSK_NNV_fc-web.jpg",
             "team_1": "Sabarmati Strikers",
             "team_2": "Narmada Navigators",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Cricket Premier League, 2025",
             "match_name": "Sabarmati Strikers vs Narmada Navigators",
             "match_id": 127769,
-            "startTime": "07:30:00 PM 02-06-2025"
+            "startTime": "07:30:00 PM 02-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/UT7iJycVSlWLxK42H7pBsg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127769_english_hls_88530ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -165,15 +185,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "West Indies A vs South Africa A (South Africa A tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-test-old.png",
-            "team_1": "West Indies A",
-            "team_2": "South Africa A",
+            "title": "Mighty Tigers vs Hornchurch (ECS England, Hornchurch, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card.jpg",
+            "team_1": "Mighty Tigers",
+            "team_2": "Hornchurch",
             "status": "UPCOMING",
-            "event_name": "South Africa A tour of West Indies, 2025",
-            "match_name": "West Indies A vs South Africa A",
-            "match_id": 125767,
-            "startTime": "07:30:00 PM 01-06-2025"
+            "event_name": "ECS England, Hornchurch, 2025",
+            "match_name": "Mighty Tigers vs Hornchurch",
+            "match_id": 127696,
+            "startTime": "08:15:00 PM 02-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -186,18 +206,6 @@
             "match_name": "Asian Kings vs Trans Titans",
             "match_id": 127455,
             "startTime": "03:30:00 PM 03-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mighty Tigers vs Hornchurch (ECS England, Hornchurch, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card.jpg",
-            "team_1": "Mighty Tigers",
-            "team_2": "Hornchurch",
-            "status": "UPCOMING",
-            "event_name": "ECS England, Hornchurch, 2025",
-            "match_name": "Mighty Tigers vs Hornchurch",
-            "match_id": 127696,
-            "startTime": "08:15:00 PM 02-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -297,18 +305,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bucharest Gladiators vs Royal Eagles (ECS Romania, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg",
-            "team_1": "Bucharest Gladiators",
-            "team_2": "Royal Eagles",
-            "status": "UPCOMING",
-            "event_name": "ECS Romania, 2025",
-            "match_name": "Bucharest Gladiators vs Royal Eagles",
-            "match_id": 127757,
-            "startTime": "01:45:00 PM 03-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Indian Warriors vs Euro Gladiators (Intercontinental Legends Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Indian-Warriors-VS-Euro-Gladiators_old.jpg",
             "team_1": "Indian Warriors",
@@ -318,6 +314,18 @@
             "match_name": "Indian Warriors vs Euro Gladiators",
             "match_id": 127456,
             "startTime": "07:30:00 PM 03-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bucharest Gladiators vs Royal Eagles (ECS Romania, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Romania-old_1748683752852.jpg",
+            "team_1": "Bucharest Gladiators",
+            "team_2": "Royal Eagles",
+            "status": "UPCOMING",
+            "event_name": "ECS Romania, 2025",
+            "match_name": "Bucharest Gladiators vs Royal Eagles",
+            "match_id": 127757,
+            "startTime": "01:45:00 PM 03-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -344,6 +352,18 @@
             "startTime": "03:45:00 PM 03-06-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Malappuram vs Combined Districts (Kerala Mens T20 Challenger Trophy)",
+            "src": "https://images.fancode.com/aig/match/v1/125530_CASACARDS_APP.png",
+            "team_1": "Malappuram",
+            "team_2": "Combined Districts",
+            "status": "UPCOMING",
+            "event_name": "Kerala Mens T20 Challenger Trophy",
+            "match_name": "Malappuram vs Combined Districts",
+            "match_id": 125530,
+            "startTime": "09:00:00 AM 03-06-2025"
+        },
+        {
             "event_category": "Tennis",
             "title": "Arends/Johnson vs Cash/Glasspool (Roland Garros 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127155_5237_Arends-Johnson_Cash-Glasspool_fc-web_1748840155937.jpg",
@@ -353,7 +373,7 @@
             "event_name": "Roland Garros 2025",
             "match_name": "Arends/Johnson vs Cash/Glasspool",
             "match_id": 127155,
-            "startTime": "07:00:00 PM 02-06-2025"
+            "startTime": "07:20:00 PM 02-06-2025"
         },
         {
             "event_category": "Tennis",
@@ -366,18 +386,6 @@
             "match_name": "Siniakova/Townsend vs Babos/Stefani",
             "match_id": 127221,
             "startTime": "07:30:00 PM 02-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malappuram vs Combined Districts (Kerala Mens T20 Challenger Trophy)",
-            "src": "https://images.fancode.com/aig/match/v1/125530_CASACARDS_APP.png",
-            "team_1": "Malappuram",
-            "team_2": "Combined Districts",
-            "status": "UPCOMING",
-            "event_name": "Kerala Mens T20 Challenger Trophy",
-            "match_name": "Malappuram vs Combined Districts",
-            "match_id": 125530,
-            "startTime": "09:00:00 AM 03-06-2025"
         },
         {
             "event_category": "Tennis",
