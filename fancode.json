@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:54:32 AM 05-06-2025",
+    "last update time": "02:04:38 AM 05-06-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -16,20 +16,6 @@
             "startTime": "12:00:00 AM 05-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1749103998~acl=/*~id=17268722073692078547279114348694~hmac=eb1925a93e27a9e5910cb650161b38ae26334098b34840b2c3e0dcfb909403cb"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kuwait Emerging Stars vs Kuwait Swedish (KCC T10 Elite League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126367_5231_KS_KMS_fc-Web.jpg",
-            "team_1": "Kuwait Emerging Stars",
-            "team_2": "Kuwait Swedish",
-            "status": "LIVE",
-            "event_name": "KCC T10 Elite League, 2025",
-            "match_name": "Kuwait Emerging Stars vs Kuwait Swedish",
-            "match_id": 126369,
-            "startTime": "12:00:00 AM 05-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/126369_english_hls_62212ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/126369_english_hls_62212ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -462,6 +448,18 @@
             "match_name": "Day 1",
             "match_id": 127983,
             "startTime": "04:30:00 PM 05-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Paraguay vs Uruguay (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-PAR_URU-old.jpg",
+            "team_1": "Paraguay",
+            "team_2": "Uruguay",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Paraguay vs Uruguay",
+            "match_id": 127945,
+            "startTime": "05:30:00 AM 06-06-2025"
         }
     ]
 }
