@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:48:37 PM 04-06-2025",
+    "last update time": "04:58:43 PM 04-06-2025",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "Madison Keys vs Coco Gauff (Roland Garros 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126887_5237_Madison-Keys_Coco-Gauff_fc-web.jpg",
-            "team_1": "Madison Keys",
-            "team_2": "Coco Gauff",
-            "status": "LIVE",
-            "event_name": "Roland Garros 2025",
-            "match_name": "Madison Keys vs Coco Gauff",
-            "match_id": 126887,
-            "startTime": "02:40:00 PM 04-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1749070614~acl=/*~id=97398925609060981096518819263903~hmac=c1ea87fc1f8bfadf4ae3174d8dffb0db3e0c09dad2d7192d18d180e0e80b6820"
-        },
         {
             "event_category": "Cricket",
             "title": "Netherlands vs Nepal (ICC CWC League 2, 2023-27)",
@@ -130,6 +116,18 @@
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1749076080~acl=/*~id=52888071556962237202394244407286~hmac=e39c32c73a0df62e1597d0713624da28920456c5245a42799ba0d66a738be7bc"
         },
         {
+            "event_category": "Tennis",
+            "title": "Jannik Sinner vs Alexander Bublik (Roland Garros 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Sinner_v_Bublic_Old_match-card.jpg",
+            "team_1": "Jannik Sinner",
+            "team_2": "Alexander Bublik",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2025",
+            "match_name": "Jannik Sinner vs Alexander Bublik",
+            "match_id": 126763,
+            "startTime": "05:30:00 PM 04-06-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "England Women vs West Indies Women (West Indies Women tour of England, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England_ODI_old_1748416926685.jpg",
@@ -159,11 +157,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127331_5244_MAWW_TANW_FC-Web.jpg",
             "team_1": "Tanzania Women",
             "team_2": "Malawi Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Kwibuka Women's T20I Tournament, 2025",
             "match_name": "Tanzania Women vs Malawi Women",
             "match_id": 127331,
-            "startTime": "05:15:00 PM 04-06-2025"
+            "startTime": "05:15:00 PM 04-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/127331_english_hls_59777ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127331_english_hls_59777ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -347,18 +347,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Jannik Sinner vs Alexander Bublik (Roland Garros 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Sinner_v_Bublic_Old_match-card.jpg",
-            "team_1": "Jannik Sinner",
-            "team_2": "Alexander Bublik",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2025",
-            "match_name": "Jannik Sinner vs Alexander Bublik",
-            "match_id": 126763,
-            "startTime": "05:30:00 PM 04-06-2025"
-        },
-        {
-            "event_category": "Tennis",
             "title": "Vavassori/Errani vs Zhang/Arevalo (Roland Garros 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127103_5237_Vavassori-Errani_Zhang-Arevalo_fc-web.jpg",
             "team_1": "Vavassori/Errani",
@@ -419,18 +407,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Heritage City Titans vs Narmada Navigators (Cricket Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127772_5267_HCT_NNV_fc-web.jpg",
-            "team_1": "Heritage City Titans",
-            "team_2": "Narmada Navigators",
-            "status": "UPCOMING",
-            "event_name": "Cricket Premier League, 2025",
-            "match_name": "Heritage City Titans vs Narmada Navigators",
-            "match_id": 127772,
-            "startTime": "03:30:00 PM 05-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Intercontinental Legends Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "TBC",
@@ -440,6 +416,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 127459,
             "startTime": "07:30:00 PM 05-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Heritage City Titans vs Narmada Navigators (Cricket Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127772_5267_HCT_NNV_fc-web.jpg",
+            "team_1": "Heritage City Titans",
+            "team_2": "Narmada Navigators",
+            "status": "UPCOMING",
+            "event_name": "Cricket Premier League, 2025",
+            "match_name": "Heritage City Titans vs Narmada Navigators",
+            "match_id": 127772,
+            "startTime": "03:30:00 PM 05-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -476,6 +464,18 @@
             "match_name": "Rwanda Women vs Malawi Women",
             "match_id": 127334,
             "startTime": "05:00:00 PM 05-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nigeria Women vs Tanzania Women (Kwibuka Women's T20I Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127335_5244_NIG-W_TANW_FC-Web.jpg",
+            "team_1": "Nigeria Women",
+            "team_2": "Tanzania Women",
+            "status": "UPCOMING",
+            "event_name": "Kwibuka Women's T20I Tournament, 2025",
+            "match_name": "Nigeria Women vs Tanzania Women",
+            "match_id": 127335,
+            "startTime": "05:15:00 PM 05-06-2025"
         }
     ]
 }
