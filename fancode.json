@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:00:07 PM 04-06-2025",
+    "last update time": "07:10:17 PM 04-06-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -158,6 +158,20 @@
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022316/DAI12SMC/master_mdh.m3u8?hdnea=exp=1749081545~acl=/*~id=51127146965811128344568057147689~hmac=524a8398ba15289e890c7956f16eccbd88beb9281eef3786aa8a88658939de85"
         },
         {
+            "event_category": "Tennis",
+            "title": "Nys/Roger-Vasselin vs Arends/Johnson (Roland Garros 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127162_5237_Nys-Roger-Vasselin_Arends-Johnson_fc-web.jpg",
+            "team_1": "Nys/Roger-Vasselin",
+            "team_2": "Arends/Johnson",
+            "status": "LIVE",
+            "event_name": "Roland Garros 2025",
+            "match_name": "Nys/Roger-Vasselin vs Arends/Johnson",
+            "match_id": 127162,
+            "startTime": "07:10:00 PM 04-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1749087007~acl=/*~id=43763786002308319903578684106399~hmac=9ce39affd05739065a6ea4c41f4c8122265921fb17dc4be419c9bb4449ecdc76"
+        },
+        {
             "event_category": "Cricket",
             "title": "Euro Gladiators vs Indian Warriors (Intercontinental Legends Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Indian-Warriors-VS-Euro-Gladiators_old.jpg",
@@ -187,11 +201,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-test-old.png",
             "team_1": "West Indies A",
             "team_2": "South Africa A",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "South Africa A tour of West Indies, 2025",
             "match_name": "West Indies A vs South Africa A",
             "match_id": 125767,
-            "startTime": "07:30:00 PM 01-06-2025"
+            "startTime": "07:30:00 PM 01-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/125767_english_hls_56838ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125767_english_hls_56838ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -279,18 +295,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Cameroon Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127333_5244_CAM-W_SIL-W_FC-Web.jpg",
-            "team_1": "Cameroon Women",
-            "team_2": "Sierra Leone Women",
-            "status": "UPCOMING",
-            "event_name": "Kwibuka Women's T20I Tournament, 2025",
-            "match_name": "Cameroon Women vs Sierra Leone Women",
-            "match_id": 127333,
-            "startTime": "01:15:00 PM 05-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Dindigul Dragons vs Lyca Kovai Kings (Shriram Capital TNPL)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Dindigul Dragons",
@@ -300,6 +304,18 @@
             "match_name": "Dindigul Dragons vs Lyca Kovai Kings",
             "match_id": 126528,
             "startTime": "07:15:00 PM 05-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cameroon Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127333_5244_CAM-W_SIL-W_FC-Web.jpg",
+            "team_1": "Cameroon Women",
+            "team_2": "Sierra Leone Women",
+            "status": "UPCOMING",
+            "event_name": "Kwibuka Women's T20I Tournament, 2025",
+            "match_name": "Cameroon Women vs Sierra Leone Women",
+            "match_id": 127333,
+            "startTime": "01:15:00 PM 05-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -351,20 +367,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Nys/Roger-Vasselin vs Arends/Johnson (Roland Garros 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127162_5237_Nys-Roger-Vasselin_Arends-Johnson_fc-web.jpg",
-            "team_1": "Nys/Roger-Vasselin",
-            "team_2": "Arends/Johnson",
-            "status": "LIVE",
-            "event_name": "Roland Garros 2025",
-            "match_name": "Nys/Roger-Vasselin vs Arends/Johnson",
-            "match_id": 127162,
-            "startTime": "07:00:00 PM 04-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1749087007~acl=/*~id=43763786002308319903578684106399~hmac=9ce39affd05739065a6ea4c41f4c8122265921fb17dc4be419c9bb4449ecdc76"
-        },
-        {
-            "event_category": "Tennis",
             "title": "Vavassori/Errani vs Zhang/Arevalo (Roland Garros 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127103_5237_Vavassori-Errani_Zhang-Arevalo_fc-web.jpg",
             "team_1": "Vavassori/Errani",
@@ -386,18 +388,6 @@
             "match_name": "Jannik Sinner vs Alexander Bublik",
             "match_id": 126763,
             "startTime": "07:30:00 PM 04-06-2025"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Skupski/Krawczyk vs Townsend/King (Roland Garros 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127102_5237_Kichenok-Pavic_Townsend-King_fc-web.jpg",
-            "team_1": "Skupski/Krawczyk",
-            "team_2": "Townsend/King",
-            "status": "UPCOMING",
-            "event_name": "Roland Garros 2025",
-            "match_name": "Skupski/Krawczyk vs Townsend/King",
-            "match_id": 127102,
-            "startTime": "08:30:00 PM 04-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -482,6 +472,18 @@
             "match_name": "Karnavati Kings vs Gandhinagar Lions",
             "match_id": 127773,
             "startTime": "07:30:00 PM 05-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Indonesia vs China PR (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Indonesia",
+            "team_2": "China PR",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Indonesia vs China PR",
+            "match_id": 127826,
+            "startTime": "07:15:00 PM 05-06-2025"
         }
     ]
 }
