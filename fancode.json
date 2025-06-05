@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:16:56 PM 05-06-2025",
+    "last update time": "08:27:04 PM 05-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "07:15:00 PM 05-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/nZsidUwCSAOHAIYUzFRx8Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/126528_english_hls_16578ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Nys/Roger-Vasselin vs Granollers/Zeballos (Roland Garros 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nys-Roger-VasselinvsGranollers-Zeballos-Web.jpg",
-            "team_1": "Nys/Roger-Vasselin",
-            "team_2": "Granollers/Zeballos",
-            "status": "LIVE",
-            "event_name": "Roland Garros 2025",
-            "match_name": "Nys/Roger-Vasselin vs Granollers/Zeballos",
-            "match_id": 127166,
-            "startTime": "05:50:00 PM 05-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI39SLC/master_mdh.m3u8?hdnea=exp=1749167702~acl=/*~id=78251933321275417693926674737942~hmac=0cdd8ed8361a5584b387cd23442f650262cfa7b207b7815bd00a5642cc55f06f"
         },
         {
             "event_category": "Tennis",
@@ -102,20 +88,6 @@
             "adfree_url": "https://dai.fancode.com/primary/127711_english_hls_47194ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Indonesia vs China PR (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3740_IND_CHI-fc-web.jpg",
-            "team_1": "Indonesia",
-            "team_2": "China PR",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Indonesia vs China PR",
-            "match_id": 127826,
-            "startTime": "07:15:00 PM 05-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/nrrUGti0SxqbEjto2k6c1A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127826_english_hls_81370ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Anguilla vs Nevis (Leeward Islands T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127434_5249_AGU_NVS_fc-web.jpg",
@@ -128,6 +100,20 @@
             "startTime": "08:30:00 PM 05-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/VftyTAUcR36MLRUjfrDxRQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127434_english_hls_568ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Indonesia vs China PR (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3740_IND_CHI-fc-web.jpg",
+            "team_1": "Indonesia",
+            "team_2": "China PR",
+            "status": "LIVE",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Indonesia vs China PR",
+            "match_id": 127826,
+            "startTime": "07:15:00 PM 05-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/nrrUGti0SxqbEjto2k6c1A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127826_english_hls_81370ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -223,7 +209,7 @@
             "event_name": "Roland Garros 2025",
             "match_name": "Lois Boisson vs Coco Gauff",
             "match_id": 126885,
-            "startTime": "08:30:00 PM 05-06-2025"
+            "startTime": "09:00:00 PM 05-06-2025"
         },
         {
             "event_category": "Tennis",
@@ -488,6 +474,18 @@
             "match_name": "Paraguay vs Uruguay",
             "match_id": 127945,
             "startTime": "04:30:00 AM 06-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chile vs Argentina (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-CHI_ARG-old.jpg",
+            "team_1": "Chile",
+            "team_2": "Argentina",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Chile vs Argentina",
+            "match_id": 127946,
+            "startTime": "06:30:00 AM 06-06-2025"
         }
     ]
 }
