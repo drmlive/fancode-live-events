@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:24:08 PM 05-06-2025",
+    "last update time": "04:34:18 PM 05-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "02:45:00 PM 05-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/1rCByk5JRISsaySwqYwQNA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128161_english_hls_25474ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cameroon Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127333_5244_CAM-W_SIL-W_FC-Web.jpg",
-            "team_1": "Cameroon Women",
-            "team_2": "Sierra Leone Women",
-            "status": "LIVE",
-            "event_name": "Kwibuka Women's T20I Tournament, 2025",
-            "match_name": "Cameroon Women vs Sierra Leone Women",
-            "match_id": 127333,
-            "startTime": "01:15:00 PM 05-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/T-YVVFAETAGvpqaKSeMTWw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127333_english_hls_49523ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -112,8 +98,22 @@
             "match_name": "Day 1",
             "match_id": 127983,
             "startTime": "04:30:00 PM 05-06-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/t71WLJNLTvOL6eXopuuzUA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127983_english_hls_82450ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cameroon Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127333_5244_CAM-W_SIL-W_FC-Web.jpg",
+            "team_1": "Cameroon Women",
+            "team_2": "Sierra Leone Women",
+            "status": "LIVE",
+            "event_name": "Kwibuka Women's T20I Tournament, 2025",
+            "match_name": "Cameroon Women vs Sierra Leone Women",
+            "match_id": 127333,
+            "startTime": "01:15:00 PM 05-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/T-YVVFAETAGvpqaKSeMTWw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127333_english_hls_49523ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -416,18 +416,6 @@
             "startTime": "06:00:00 AM 06-06-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Chile vs Argentina (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-CHI_ARG-old.jpg",
-            "team_1": "Chile",
-            "team_2": "Argentina",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Chile vs Argentina",
-            "match_id": 127946,
-            "startTime": "06:30:00 AM 06-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Scotland vs Netherlands (ICC CWC League 2, 2023-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Scotland-VS-Netherlands_old.jpg",
@@ -438,6 +426,18 @@
             "match_name": "Scotland vs Netherlands",
             "match_id": 127240,
             "startTime": "03:30:00 PM 06-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chile vs Argentina (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-CHI_ARG-old.jpg",
+            "team_1": "Chile",
+            "team_2": "Argentina",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Chile vs Argentina",
+            "match_id": 127946,
+            "startTime": "06:30:00 AM 06-06-2025"
         },
         {
             "event_category": "Cricket",
