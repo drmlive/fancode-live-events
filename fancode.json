@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:51:53 AM 06-06-2025",
+    "last update time": "02:01:59 AM 06-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Kent vs Middlesex (Vitality Blast T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125905_5207_MID_KET_fc-Web.jpg",
-            "team_1": "Kent",
-            "team_2": "Middlesex",
-            "status": "LIVE",
-            "event_name": "Vitality Blast T20, 2025",
-            "match_name": "Kent vs Middlesex",
-            "match_id": 125905,
-            "startTime": "10:45:00 PM 05-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Combined Islands vs Antigua and Barbuda (Leeward Islands T20, 2025)",
@@ -58,20 +44,6 @@
             "startTime": "01:15:00 AM 06-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/hZUpxgkGTDmZFPLE7CNYOw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125402_english_hls_1371ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Kuwait vs Palestine (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3740_KUW_PAL_fc-web.jpg",
-            "team_1": "Kuwait",
-            "team_2": "Palestine",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Kuwait vs Palestine",
-            "match_id": 127828,
-            "startTime": "11:45:00 PM 05-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/xqEaud1DSqChRZMI4IAtbg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127828_english_hls_55428ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -159,17 +131,15 @@
         },
         {
             "event_category": "Football",
-            "title": "DPR Korea vs Kyrgyz Republic (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3740_PRK_KYG_fc-web.jpg",
-            "team_1": "DPR Korea",
-            "team_2": "Kyrgyz Republic",
-            "status": "LIVE",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "DPR Korea vs Kyrgyz Republic",
-            "match_id": 127825,
-            "startTime": "11:45:00 PM 05-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/dEBj5levSiqu-urVUzGU8w/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127825_english_hls_8169ta-di_h264/index.m3u8"
+            "title": "Chile vs Argentina (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-CHI_ARG-old.jpg",
+            "team_1": "Chile",
+            "team_2": "Argentina",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Chile vs Argentina",
+            "match_id": 127946,
+            "startTime": "06:30:00 AM 06-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -290,18 +260,6 @@
             "match_name": "Paraguay vs Uruguay",
             "match_id": 127945,
             "startTime": "04:30:00 AM 06-06-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chile vs Argentina (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-CHI_ARG-old.jpg",
-            "team_1": "Chile",
-            "team_2": "Argentina",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Chile vs Argentina",
-            "match_id": 127946,
-            "startTime": "06:30:00 AM 06-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -458,6 +416,54 @@
             "match_name": "MEC Study Group vs Chennai Kings CA",
             "match_id": 125411,
             "startTime": "01:00:00 AM 07-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Colombia vs Peru (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-COL_PER-old.jpg",
+            "team_1": "Colombia",
+            "team_2": "Peru",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Colombia vs Peru",
+            "match_id": 127947,
+            "startTime": "02:00:00 AM 07-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Venezuela vs Bolivia (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Venezuela",
+            "team_2": "Bolivia",
+            "status": "UPCOMING",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Venezuela vs Bolivia",
+            "match_id": 128481,
+            "startTime": "03:30:00 AM 07-06-2025"
+        },
+        {
+            "event_category": "Live events",
+            "title": "Day 9 vs Ahmedabad (Dream UTT Juniors)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-juniors-old.png",
+            "team_1": "Day 9",
+            "team_2": "Ahmedabad",
+            "status": "UPCOMING",
+            "event_name": "Dream UTT Juniors",
+            "match_name": "Day 9",
+            "match_id": 127517,
+            "startTime": "09:00:00 AM 06-06-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Aragon (GRAN PREMIO GoPro DE ARAG\u00d3N)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Aragon_Moto-GP_Race_old.jpg",
+            "team_1": "Day 1",
+            "team_2": "Aragon",
+            "status": "UPCOMING",
+            "event_name": "GRAN PREMIO GoPro DE ARAG\u00d3N",
+            "match_name": "Practice",
+            "match_id": 118565,
+            "startTime": "12:30:00 PM 06-06-2025"
         }
     ]
 }
