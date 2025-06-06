@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:23:22 AM 07-06-2025",
+    "last update time": "04:33:28 AM 07-06-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "09:35:00 PM 06-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/MLLK4hU3Rvun8ZHxW6tOkw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128047_english_hls_38784ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Colombia vs Peru (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-COL_PER-old.jpg",
-            "team_1": "Colombia",
-            "team_2": "Peru",
-            "status": "LIVE",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Colombia vs Peru",
-            "match_id": 127947,
-            "startTime": "02:00:00 AM 07-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Aq1Tuei0S8iq-EpeQttBzw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127947_english_hls_96484ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -464,6 +450,18 @@
             "match_name": "Marquee Group - Day 3",
             "match_id": 128320,
             "startTime": "06:15:00 PM 07-06-2025"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Aryna Sabalenka vs Coco Gauff (Roland Garros 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/roland-garros_2025_old_default_match-card.jpg",
+            "team_1": "Aryna Sabalenka",
+            "team_2": "Coco Gauff",
+            "status": "UPCOMING",
+            "event_name": "Roland Garros 2025",
+            "match_name": "Aryna Sabalenka vs Coco Gauff",
+            "match_id": 126884,
+            "startTime": "06:30:00 PM 07-06-2025"
         }
     ]
 }
