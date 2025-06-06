@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:12:38 AM 07-06-2025",
+    "last update time": "03:22:45 AM 07-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "02:00:00 AM 07-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Aq1Tuei0S8iq-EpeQttBzw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127947_english_hls_96484ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Venezuela vs Bolivia (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-VEN_BOL-old-(1).jpg",
+            "team_1": "Venezuela",
+            "team_2": "Bolivia",
+            "status": "LIVE",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Venezuela vs Bolivia",
+            "match_id": 128481,
+            "startTime": "03:30:00 AM 07-06-2025",
+            "dai_url": "https://mls3.fancode.com/6fc273a4-79c1-4b92-9cb6-98341df1bc7f/index.m3u8",
+            "adfree_url": "https://mls3.fancode.com/6fc273a4-79c1-4b92-9cb6-98341df1bc7f/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -148,18 +162,6 @@
             "match_name": "Nellai Royal Kings vs Trichy Grand Cholas",
             "match_id": 126530,
             "startTime": "07:15:00 PM 07-06-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Venezuela vs Bolivia (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-VEN_BOL-old-(1).jpg",
-            "team_1": "Venezuela",
-            "team_2": "Bolivia",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Venezuela vs Bolivia",
-            "match_id": 128481,
-            "startTime": "03:30:00 AM 07-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -390,18 +392,6 @@
             "startTime": "04:30:00 AM 08-06-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Angels vs Seattle Mariners (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128347_CASACARDS_APP.png",
-            "team_1": "Los Angeles Angels",
-            "team_2": "Seattle Mariners",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Angels vs Seattle Mariners",
-            "match_id": 128347,
-            "startTime": "07:08:00 AM 07-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Japan Women\u2019s Sano International Trophy)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png",
@@ -412,6 +402,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 125099,
             "startTime": "06:00:00 AM 08-06-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Angels vs Seattle Mariners (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128347_CASACARDS_APP.png",
+            "team_1": "Los Angeles Angels",
+            "team_2": "Seattle Mariners",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Angels vs Seattle Mariners",
+            "match_id": 128347,
+            "startTime": "07:08:00 AM 07-06-2025"
         },
         {
             "event_category": "Live events",
