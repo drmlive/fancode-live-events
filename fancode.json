@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:11:10 AM 07-06-2025",
+    "last update time": "01:21:19 AM 07-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "10:40:00 PM 06-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1749272289~acl=/*~id=84981275360388353986093407111763~hmac=6200277bded177b8675e8dec7842a04de014fa3d5ed1789eef5feca394cdc08a"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Northamptonshire vs Worcestershire (Vitality Blast T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125907_5207_WOR_NOR_fc-Web.jpg",
-            "team_1": "Northamptonshire",
-            "team_2": "Worcestershire",
-            "status": "LIVE",
-            "event_name": "Vitality Blast T20, 2025",
-            "match_name": "Northamptonshire vs Worcestershire",
-            "match_id": 125907,
-            "startTime": "10:00:00 PM 06-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/_TLmBtP5TKSsQtKvpDO5pQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/125907_english_hls_46458ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -112,8 +98,8 @@
             "match_name": "Featured Holes - Day 2",
             "match_id": 128316,
             "startTime": "05:00:00 PM 06-06-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/ifo3e3dGTF-o5xGL9aRCiw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128316_english_hls_78836ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -142,20 +128,6 @@
             "startTime": "09:35:00 PM 06-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/MLLK4hU3Rvun8ZHxW6tOkw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128047_english_hls_38784ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Tampa Bay Rays vs Miami Marlins (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128346_CASACARDS_APP.png",
-            "team_1": "Tampa Bay Rays",
-            "team_2": "Miami Marlins",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Tampa Bay Rays vs Miami Marlins",
-            "match_id": 128346,
-            "startTime": "10:40:00 PM 06-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/128346_english_hls_29787ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128346_english_hls_29787ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -470,6 +442,30 @@
             "match_name": "Upminster-W vs Gunnersbury-W",
             "match_id": 128338,
             "startTime": "10:15:00 PM 07-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tally Rangers vs Cochin Hurricanes (KCC T20 Challengers A League, 3rd Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125406_5188_TCC_COH_fc-web.jpg",
+            "team_1": "Tally Rangers",
+            "team_2": "Cochin Hurricanes",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "match_name": "Tally Rangers vs Cochin Hurricanes",
+            "match_id": 125406,
+            "startTime": "11:00:00 PM 07-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Combined Islands vs Anguilla (Leeward Islands T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127438_5249_CI_AGU_fc-web.jpg",
+            "team_1": "Combined Islands",
+            "team_2": "Anguilla",
+            "status": "UPCOMING",
+            "event_name": "Leeward Islands T20, 2025",
+            "match_name": "Combined Islands vs Anguilla",
+            "match_id": 127438,
+            "startTime": "12:30:00 AM 08-06-2025"
         }
     ]
 }
