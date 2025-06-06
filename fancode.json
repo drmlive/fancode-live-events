@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:36:04 AM 06-06-2025",
+    "last update time": "08:46:14 AM 06-06-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Chile vs Argentina (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-CHI_ARG-old.jpg",
-            "team_1": "Chile",
-            "team_2": "Argentina",
-            "status": "LIVE",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Chile vs Argentina",
-            "match_id": 127946,
-            "startTime": "06:30:00 AM 06-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/nQATYJ_yQZSiLMBfeRtn4A/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127946_english_hls_79465ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Japan Women vs China Women (Japan Women\u2019s Sano International Trophy)",
@@ -30,6 +16,20 @@
             "startTime": "06:00:00 AM 06-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/go_cNsKAQY2xJ2ERAi9CVQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125095_english_hls_9068ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live events",
+            "title": "Day 9 vs Ahmedabad (Dream UTT Juniors)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-juniors-old.png",
+            "team_1": "Day 9",
+            "team_2": "Ahmedabad",
+            "status": "LIVE",
+            "event_name": "Dream UTT Juniors",
+            "match_name": "Day 9",
+            "match_id": 127517,
+            "startTime": "09:00:00 AM 06-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/0QoGBLl8SsSOs-5hhsHDfA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127517_english_hls_62055ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -308,18 +308,6 @@
             "startTime": "03:30:00 AM 07-06-2025"
         },
         {
-            "event_category": "Live events",
-            "title": "Day 9 vs Ahmedabad (Dream UTT Juniors)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-juniors-old.png",
-            "team_1": "Day 9",
-            "team_2": "Ahmedabad",
-            "status": "UPCOMING",
-            "event_name": "Dream UTT Juniors",
-            "match_name": "Day 9",
-            "match_id": 127517,
-            "startTime": "09:00:00 AM 06-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Japan Women vs Philippines Women (Japan Women\u2019s Sano International Trophy)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png",
@@ -449,6 +437,18 @@
             "event_name": "RBC Canadian Open",
             "match_name": "Featured Group - Day 2",
             "match_id": 128317,
+            "startTime": "05:00:00 PM 06-06-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 2 vs TPC Toronto (RBC Canadian Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg",
+            "team_1": "Featured Holes - Day 2",
+            "team_2": "TPC Toronto",
+            "status": "UPCOMING",
+            "event_name": "RBC Canadian Open",
+            "match_name": "Featured Holes - Day 2",
+            "match_id": 128316,
             "startTime": "05:00:00 PM 06-06-2025"
         }
     ]
