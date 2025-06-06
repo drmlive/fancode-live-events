@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:44:59 AM 06-06-2025",
+    "last update time": "06:55:05 AM 06-06-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "06:00:00 AM 06-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/go_cNsKAQY2xJ2ERAi9CVQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125095_english_hls_9068ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Paraguay vs Uruguay (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/conmebol-qualifiers-PAR_URU-old.jpg",
-            "team_1": "Paraguay",
-            "team_2": "Uruguay",
-            "status": "LIVE",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Paraguay vs Uruguay",
-            "match_id": 127945,
-            "startTime": "04:30:00 AM 06-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/lrgAlrcoRluGxgnXb2RYzw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127945_english_hls_77055ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -451,6 +437,18 @@
             "event_name": "RBC Canadian Open",
             "match_name": "Featured Group - Day 2",
             "match_id": 128317,
+            "startTime": "05:00:00 PM 06-06-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 2 vs TPC Toronto (RBC Canadian Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg",
+            "team_1": "Featured Holes - Day 2",
+            "team_2": "TPC Toronto",
+            "status": "UPCOMING",
+            "event_name": "RBC Canadian Open",
+            "match_name": "Featured Holes - Day 2",
+            "match_id": 128316,
             "startTime": "05:00:00 PM 06-06-2025"
         }
     ]
