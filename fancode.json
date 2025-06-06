@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:03:06 PM 06-06-2025",
+    "last update time": "06:13:14 PM 06-06-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -58,20 +58,6 @@
             "startTime": "03:30:00 PM 06-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/rKeNufNxR-2GOHyleH8rGg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127240_english_hls_78133ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "CFS Pinnacle Pro vs Old Brentwoods (ECS England, Hornchurch, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card.jpg",
-            "team_1": "CFS Pinnacle Pro",
-            "team_2": "Old Brentwoods",
-            "status": "LIVE",
-            "event_name": "ECS England, Hornchurch, 2025",
-            "match_name": "CFS Pinnacle Pro vs Old Brentwoods",
-            "match_id": 127714,
-            "startTime": "04:15:00 PM 06-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-nuTA_qGRxukzXmZmqApLA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127714_english_hls_31608ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -327,6 +313,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "England Women vs West Indies Women (West Indies Women tour of England, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England_ODI_old_1748416926685.jpg",
+            "team_1": "England Women",
+            "team_2": "West Indies Women",
+            "status": "UPCOMING",
+            "event_name": "West Indies Women tour of England, 2025",
+            "match_name": "England Women vs West Indies Women",
+            "match_id": 126226,
+            "startTime": "03:30:00 PM 07-06-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "AZ Black Eagles vs Old Brentwoods (ECS England, Hornchurch, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-3.jpg",
             "team_1": "AZ Black Eagles",
@@ -360,18 +358,6 @@
             "match_name": "East Londoners vs Old Brentwoods",
             "match_id": 127717,
             "startTime": "10:15:00 PM 06-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England Women vs West Indies Women (West Indies Women tour of England, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England_ODI_old_1748416926685.jpg",
-            "team_1": "England Women",
-            "team_2": "West Indies Women",
-            "status": "UPCOMING",
-            "event_name": "West Indies Women tour of England, 2025",
-            "match_name": "England Women vs West Indies Women",
-            "match_id": 126226,
-            "startTime": "03:30:00 PM 07-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -471,18 +457,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Upminster-W vs Hutton-W (ECS-W England, Hornchurch, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128334_CASACARDS_APP.png",
-            "team_1": "Upminster-W",
-            "team_2": "Hutton-W",
-            "status": "UPCOMING",
-            "event_name": "ECS-W England, Hornchurch, 2025",
-            "match_name": "Upminster-W vs Hutton-W",
-            "match_id": 128334,
-            "startTime": "02:15:00 PM 07-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Nellai Royal Kings vs Trichy Grand Cholas (Shriram Capital TNPL)",
             "src": "https://images.fancode.com/aig/match/v1/126530_CASACARDS_APP.png",
             "team_1": "Nellai Royal Kings",
@@ -492,6 +466,18 @@
             "match_name": "Nellai Royal Kings vs Trichy Grand Cholas",
             "match_id": 126530,
             "startTime": "07:15:00 PM 07-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Upminster-W vs Hutton-W (ECS-W England, Hornchurch, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128334_CASACARDS_APP.png",
+            "team_1": "Upminster-W",
+            "team_2": "Hutton-W",
+            "status": "UPCOMING",
+            "event_name": "ECS-W England, Hornchurch, 2025",
+            "match_name": "Upminster-W vs Hutton-W",
+            "match_id": 128334,
+            "startTime": "02:15:00 PM 07-06-2025"
         }
     ]
 }
