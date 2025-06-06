@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:02:19 PM 06-06-2025",
+    "last update time": "05:12:29 PM 06-06-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -70,8 +70,8 @@
             "match_name": "Cameroon Women vs Malawi Women",
             "match_id": 127338,
             "startTime": "05:00:00 PM 06-06-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/NVIiR5VJROKchGQimT-hnw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127338_english_hls_28023ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -86,6 +86,20 @@
             "startTime": "05:15:00 PM 06-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/4iKtMaSISgKLvYRFybZGcw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127339_english_hls_62248ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "East Londoners vs AZ Black Eagles (ECS England, Hornchurch, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-2.jpg",
+            "team_1": "East Londoners",
+            "team_2": "AZ Black Eagles",
+            "status": "LIVE",
+            "event_name": "ECS England, Hornchurch, 2025",
+            "match_name": "East Londoners vs AZ Black Eagles",
+            "match_id": 127715,
+            "startTime": "06:15:00 PM 06-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/qFaysBrdRLyiBPBJTR3VJw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127715_english_hls_44361ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -261,27 +275,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "SBS CC vs Super Lanka (KCC T20 Challengers A League, 3rd Edition, 2025)",
+            "title": "Super Lanka vs SBS CC (KCC T20 Challengers A League, 3rd Edition, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125409_5188_SBS_SUL_fc-web.jpg",
-            "team_1": "SBS CC",
-            "team_2": "Super Lanka",
+            "team_1": "Super Lanka",
+            "team_2": "SBS CC",
             "status": "UPCOMING",
             "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
-            "match_name": "SBS CC vs Super Lanka",
+            "match_name": "Super Lanka vs SBS CC",
             "match_id": 125409,
             "startTime": "05:30:00 PM 06-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "East Londoners vs AZ Black Eagles (ECS England, Hornchurch, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-2.jpg",
-            "team_1": "East Londoners",
-            "team_2": "AZ Black Eagles",
-            "status": "UPCOMING",
-            "event_name": "ECS England, Hornchurch, 2025",
-            "match_name": "East Londoners vs AZ Black Eagles",
-            "match_id": 127715,
-            "startTime": "06:15:00 PM 06-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -321,18 +323,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "MEC Study Group vs Chennai Kings CA (KCC T20 Challengers A League, 3rd Edition, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125411_5188_MEC_CHK_fc-web.jpg",
-            "team_1": "MEC Study Group",
-            "team_2": "Chennai Kings CA",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
-            "match_name": "MEC Study Group vs Chennai Kings CA",
-            "match_id": 125411,
-            "startTime": "01:00:00 AM 07-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Nagpur Titans vs NECO Master Blaster (Vidarbha Pro T20 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128164_5285_NAT_NMB_fc-Web.jpg",
             "team_1": "Nagpur Titans",
@@ -342,6 +332,18 @@
             "match_name": "Nagpur Titans vs NECO Master Blaster",
             "match_id": 128164,
             "startTime": "02:45:00 PM 07-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "MEC Study Group vs Chennai Kings CA (KCC T20 Challengers A League, 3rd Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125411_5188_MEC_CHK_fc-web.jpg",
+            "team_1": "MEC Study Group",
+            "team_2": "Chennai Kings CA",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "match_name": "MEC Study Group vs Chennai Kings CA",
+            "match_id": 125411,
+            "startTime": "01:00:00 AM 07-06-2025"
         },
         {
             "event_category": "Football",
@@ -369,18 +371,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Japan Women vs Philippines Women (Japan Women\u2019s Sano International Trophy)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png",
-            "team_1": "Japan Women",
-            "team_2": "Philippines Women",
-            "status": "UPCOMING",
-            "event_name": "Japan Women\u2019s Sano International Trophy",
-            "match_name": "Japan Women vs Philippines Women",
-            "match_id": 125097,
-            "startTime": "06:00:00 AM 07-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "England Women vs West Indies Women (West Indies Women tour of England, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England_ODI_old_1748416926685.jpg",
             "team_1": "England Women",
@@ -390,6 +380,18 @@
             "match_name": "England Women vs West Indies Women",
             "match_id": 126226,
             "startTime": "03:30:00 PM 07-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Japan Women vs Philippines Women (Japan Women\u2019s Sano International Trophy)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png",
+            "team_1": "Japan Women",
+            "team_2": "Philippines Women",
+            "status": "UPCOMING",
+            "event_name": "Japan Women\u2019s Sano International Trophy",
+            "match_name": "Japan Women vs Philippines Women",
+            "match_id": 125097,
+            "startTime": "06:00:00 AM 07-06-2025"
         },
         {
             "event_category": "Cricket",
