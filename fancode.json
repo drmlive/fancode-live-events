@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:32:51 AM 07-06-2025",
+    "last update time": "03:42:58 AM 07-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "03:30:00 AM 07-06-2025",
             "dai_url": "https://mls3.fancode.com/6fc273a4-79c1-4b92-9cb6-98341df1bc7f/index.m3u8",
             "adfree_url": "https://mls3.fancode.com/6fc273a4-79c1-4b92-9cb6-98341df1bc7f/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Group - Day 2 vs TPC Toronto (RBC Canadian Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg",
-            "team_1": "Featured Group - Day 2",
-            "team_2": "TPC Toronto",
-            "status": "LIVE",
-            "event_name": "RBC Canadian Open",
-            "match_name": "Featured Group - Day 2",
-            "match_id": 128317,
-            "startTime": "05:00:00 PM 06-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/JQccQicTRr2pc18tZXI5Pg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128317_english_hls_60518ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -444,6 +430,42 @@
             "match_name": "Main Feed - Day 3",
             "match_id": 128319,
             "startTime": "05:15:00 PM 07-06-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Abama Golf (Tenerife Women\u2019s Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tenerife-Womens-Open-old-match-card.jpg",
+            "team_1": "Day 3",
+            "team_2": "Abama Golf",
+            "status": "UPCOMING",
+            "event_name": "Tenerife Women\u2019s Open",
+            "match_name": "Day 3",
+            "match_id": 127980,
+            "startTime": "05:30:00 PM 07-06-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Group - Day 3 vs TPC Toronto (RBC Canadian Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg",
+            "team_1": "Featured Group - Day 3",
+            "team_2": "TPC Toronto",
+            "status": "UPCOMING",
+            "event_name": "RBC Canadian Open",
+            "match_name": "Featured Group - Day 3",
+            "match_id": 128322,
+            "startTime": "06:00:00 PM 07-06-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 3 vs TPC Toronto (RBC Canadian Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg",
+            "team_1": "Featured Holes - Day 3",
+            "team_2": "TPC Toronto",
+            "status": "UPCOMING",
+            "event_name": "RBC Canadian Open",
+            "match_name": "Featured Holes - Day 3",
+            "match_id": 128321,
+            "startTime": "06:00:00 PM 07-06-2025"
         }
     ]
 }
