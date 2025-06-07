@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:00:21 PM 07-06-2025",
+    "last update time": "03:10:29 PM 07-06-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -75,13 +75,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "England Women vs West Indies Women (West Indies Women tour of England, 2025)",
+            "title": "West Indies Women vs England Women (West Indies Women tour of England, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-Women's-Tour-of-England_ODI_old_1748416926685.jpg",
-            "team_1": "England Women",
-            "team_2": "West Indies Women",
+            "team_1": "West Indies Women",
+            "team_2": "England Women",
             "status": "UPCOMING",
             "event_name": "West Indies Women tour of England, 2025",
-            "match_name": "England Women vs West Indies Women",
+            "match_name": "West Indies Women vs England Women",
             "match_id": 126226,
             "startTime": "03:30:00 PM 07-06-2025"
         },
@@ -127,11 +127,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127774_5267_ABA_KVK_fc-web.jpg",
             "team_1": "Ahmedabad Arrows",
             "team_2": "Karnavati Kings",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Cricket Premier League, 2025",
             "match_name": "Ahmedabad Arrows vs Karnavati Kings",
             "match_id": 127774,
-            "startTime": "03:30:00 PM 07-06-2025"
+            "startTime": "03:30:00 PM 07-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/WZKvdLccT-KUvHjboZWf4Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127774_english_hls_621ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -279,13 +281,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Japan Women\u2019s Sano International Trophy)",
+            "title": "China Women vs Philippines Women (Japan Women\u2019s Sano International Trophy)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-womans-sano-international-trophy-OLD.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "China Women",
+            "team_2": "Philippines Women",
             "status": "UPCOMING",
             "event_name": "Japan Women\u2019s Sano International Trophy",
-            "match_name": "TBC vs TBC",
+            "match_name": "China Women vs Philippines Women",
             "match_id": 125099,
             "startTime": "06:00:00 AM 08-06-2025"
         },
@@ -456,6 +458,18 @@
             "match_name": "Anmol Kings Halar vs Dita Gohilwad Titans",
             "match_id": 128185,
             "startTime": "07:30:00 PM 08-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "NECO Master Blaster vs Nagpur Heroz (Vidarbha Pro T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128167_5285_NMB_NAH_fc-Web.jpg",
+            "team_1": "NECO Master Blaster",
+            "team_2": "Nagpur Heroz",
+            "status": "UPCOMING",
+            "event_name": "Vidarbha Pro T20 League, 2025",
+            "match_name": "NECO Master Blaster vs Nagpur Heroz",
+            "match_id": 128167,
+            "startTime": "07:45:00 PM 08-06-2025"
         }
     ]
 }
