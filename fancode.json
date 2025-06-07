@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:50:54 PM 07-06-2025",
+    "last update time": "04:01:04 PM 07-06-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -61,20 +61,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Hutton-W vs Upminster-W (ECS-W England, Hornchurch, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128334_CASACARDS_APP.png",
-            "team_1": "Hutton-W",
-            "team_2": "Upminster-W",
-            "status": "LIVE",
-            "event_name": "ECS-W England, Hornchurch, 2025",
-            "match_name": "Hutton-W vs Upminster-W",
-            "match_id": 128334,
-            "startTime": "02:15:00 PM 07-06-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
             "title": "Ahmedabad Arrows vs Karnavati Kings (Cricket Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127774_5267_ABA_KVK_fc-web.jpg",
             "team_1": "Ahmedabad Arrows",
@@ -86,6 +72,20 @@
             "startTime": "03:30:00 PM 07-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/WZKvdLccT-KUvHjboZWf4Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127774_english_hls_621ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Upminster-W vs Gunnersbury-W (ECS-W England, Hornchurch, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128335_CASACARDS_APP.png",
+            "team_1": "Upminster-W",
+            "team_2": "Gunnersbury-W",
+            "status": "LIVE",
+            "event_name": "ECS-W England, Hornchurch, 2025",
+            "match_name": "Upminster-W vs Gunnersbury-W",
+            "match_id": 128335,
+            "startTime": "04:15:00 PM 07-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/SYKEbnWeQ6mQlQ9tTyaKBw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128335_english_hls_36770ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -122,18 +122,6 @@
             "match_name": "Pagariya Strikers vs Bharat Rangers",
             "match_id": 128165,
             "startTime": "07:45:00 PM 07-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Upminster-W vs Gunnersbury-W (ECS-W England, Hornchurch, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128335_CASACARDS_APP.png",
-            "team_1": "Upminster-W",
-            "team_2": "Gunnersbury-W",
-            "status": "UPCOMING",
-            "event_name": "ECS-W England, Hornchurch, 2025",
-            "match_name": "Upminster-W vs Gunnersbury-W",
-            "match_id": 128335,
-            "startTime": "04:15:00 PM 07-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -352,6 +340,18 @@
             "startTime": "04:30:00 PM 07-06-2025"
         },
         {
+            "event_category": "Motorsports",
+            "title": "Race 1 vs Zandvoort, Netherlands (DTM Zandvoort)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_Old_match-card_1749181310001.jpg",
+            "team_1": "Race 1",
+            "team_2": "Zandvoort, Netherlands",
+            "status": "UPCOMING",
+            "event_name": "DTM Zandvoort",
+            "match_name": "Race 1",
+            "match_id": 128331,
+            "startTime": "05:00:00 PM 07-06-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Malawi Women vs Uganda Women (Kwibuka Women's T20I Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127344_5244_MAWW_UG-W_FC-Web.jpg",
@@ -458,6 +458,18 @@
             "match_name": "Anmol Kings Halar vs Dita Gohilwad Titans",
             "match_id": 128185,
             "startTime": "07:30:00 PM 08-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "NECO Master Blaster vs Nagpur Heroz (Vidarbha Pro T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128167_5285_NMB_NAH_fc-Web.jpg",
+            "team_1": "NECO Master Blaster",
+            "team_2": "Nagpur Heroz",
+            "status": "UPCOMING",
+            "event_name": "Vidarbha Pro T20 League, 2025",
+            "match_name": "NECO Master Blaster vs Nagpur Heroz",
+            "match_id": 128167,
+            "startTime": "07:45:00 PM 08-06-2025"
         }
     ]
 }
