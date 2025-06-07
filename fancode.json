@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:58:52 PM 07-06-2025",
+    "last update time": "01:09:08 PM 07-06-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -44,6 +44,20 @@
             "startTime": "01:00:00 PM 07-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/sDokpBkgRZWHt6Se2RssZw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127340_english_hls_18416ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malawi Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127341_5244_SIL-W_MAWW_FC-Web.jpg",
+            "team_1": "Malawi Women",
+            "team_2": "Sierra Leone Women",
+            "status": "LIVE",
+            "event_name": "Kwibuka Women's T20I Tournament, 2025",
+            "match_name": "Malawi Women vs Sierra Leone Women",
+            "match_id": 127341,
+            "startTime": "01:15:00 PM 07-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/o5lm5I_MT5q3sQ47fTywJQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127341_english_hls_35904ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -104,20 +118,6 @@
             "match_name": "Pagariya Strikers vs Bharat Rangers",
             "match_id": 128165,
             "startTime": "07:45:00 PM 07-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malawi Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127341_5244_SIL-W_MAWW_FC-Web.jpg",
-            "team_1": "Malawi Women",
-            "team_2": "Sierra Leone Women",
-            "status": "LIVE",
-            "event_name": "Kwibuka Women's T20I Tournament, 2025",
-            "match_name": "Malawi Women vs Sierra Leone Women",
-            "match_id": 127341,
-            "startTime": "01:15:00 PM 07-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/o5lm5I_MT5q3sQ47fTywJQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127341_english_hls_35904ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -305,11 +305,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_Old_match-card_1749181310001.jpg",
             "team_1": "Qualifying 1",
             "team_2": "Zandvoort, Netherlands",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "DTM Zandvoort",
             "match_name": "Qualifying 1",
             "match_id": 128330,
-            "startTime": "01:20:00 PM 07-06-2025"
+            "startTime": "01:20:00 PM 07-06-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
