@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:06:47 AM 08-06-2025",
+    "last update time": "12:17:03 AM 08-06-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -58,6 +58,20 @@
             "startTime": "11:00:00 PM 07-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/8bc0iRD5SYKJhliPA1uXDA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/125406_english_hls_36999ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Combined Islands vs Anguilla (Leeward Islands T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127438_5249_CI_AGU_fc-web.jpg",
+            "team_1": "Combined Islands",
+            "team_2": "Anguilla",
+            "status": "LIVE",
+            "event_name": "Leeward Islands T20, 2025",
+            "match_name": "Combined Islands vs Anguilla",
+            "match_id": 127438,
+            "startTime": "12:30:00 AM 08-06-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Golf",
@@ -173,20 +187,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "St Kitts vs Nevis (Leeward Islands T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127437_5249_NVS_STK_fc-web.jpg",
-            "team_1": "St Kitts",
-            "team_2": "Nevis",
-            "status": "LIVE",
-            "event_name": "Leeward Islands T20, 2025",
-            "match_name": "St Kitts vs Nevis",
-            "match_id": 127437,
-            "startTime": "08:30:00 PM 07-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/E2LKPF9HQIatvDqPQI41VA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127437_english_hls_20369ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Orange Tigers vs Nagpur Titans (Vidarbha Pro T20 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128166_5285_ORT_NAT_fc-Web.jpg",
             "team_1": "Orange Tigers",
@@ -232,18 +232,6 @@
             "match_name": "Scotland vs Nepal",
             "match_id": 127241,
             "startTime": "03:30:00 PM 08-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Combined Islands vs Anguilla (Leeward Islands T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127438_5249_CI_AGU_fc-web.jpg",
-            "team_1": "Combined Islands",
-            "team_2": "Anguilla",
-            "status": "UPCOMING",
-            "event_name": "Leeward Islands T20, 2025",
-            "match_name": "Combined Islands vs Anguilla",
-            "match_id": 127438,
-            "startTime": "12:30:00 AM 08-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -471,6 +459,18 @@
             "event_name": "South Africa A tour of West Indies, 2025",
             "match_name": "West Indies A vs South Africa A",
             "match_id": 125768,
+            "startTime": "07:30:00 PM 08-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Heritage City Titans vs Karnavati Kings (Cricket Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127777_5267_HCT_KVK_fc-web.jpg",
+            "team_1": "Heritage City Titans",
+            "team_2": "Karnavati Kings",
+            "status": "UPCOMING",
+            "event_name": "Cricket Premier League, 2025",
+            "match_name": "Heritage City Titans vs Karnavati Kings",
+            "match_id": 127777,
             "startTime": "07:30:00 PM 08-06-2025"
         }
     ]
