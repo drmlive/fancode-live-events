@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:26:24 PM 07-06-2025",
+    "last update time": "11:36:30 PM 07-06-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -186,6 +186,20 @@
             "adfree_url": "https://dai.fancode.com/primary/128048_english_hls_86377ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Baseball",
+            "title": "St. Louis Cardinals vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128348_CASACARDS_APP.png",
+            "team_1": "St. Louis Cardinals",
+            "team_2": "Los Angeles Dodgers",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "St. Louis Cardinals vs Los Angeles Dodgers",
+            "match_id": 128348,
+            "startTime": "11:45:00 PM 07-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/128348_english_hls_60480ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128348_english_hls_60480ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Orange Tigers vs Nagpur Titans (Vidarbha Pro T20 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128166_5285_ORT_NAT_fc-Web.jpg",
@@ -220,6 +234,18 @@
             "match_name": "Siechem Madurai Panthers vs SKM Salem Spartans",
             "match_id": 126531,
             "startTime": "03:15:00 PM 08-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Combined Islands vs Anguilla (Leeward Islands T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127438_5249_CI_AGU_fc-web.jpg",
+            "team_1": "Combined Islands",
+            "team_2": "Anguilla",
+            "status": "UPCOMING",
+            "event_name": "Leeward Islands T20, 2025",
+            "match_name": "Combined Islands vs Anguilla",
+            "match_id": 127438,
+            "startTime": "12:30:00 AM 08-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -280,18 +306,6 @@
             "match_name": "NECO Master Blaster vs Nagpur Heroz",
             "match_id": 128167,
             "startTime": "07:45:00 PM 08-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Combined Islands vs Anguilla (Leeward Islands T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127438_5249_CI_AGU_fc-web.jpg",
-            "team_1": "Combined Islands",
-            "team_2": "Anguilla",
-            "status": "UPCOMING",
-            "event_name": "Leeward Islands T20, 2025",
-            "match_name": "Combined Islands vs Anguilla",
-            "match_id": 127438,
-            "startTime": "12:30:00 AM 08-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -460,6 +474,18 @@
             "match_name": "Delhi Dominators vs Gujarat Lions",
             "match_id": 127652,
             "startTime": "07:00:00 PM 08-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies A vs South Africa A (South Africa A tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-test-old.png",
+            "team_1": "West Indies A",
+            "team_2": "South Africa A",
+            "status": "UPCOMING",
+            "event_name": "South Africa A tour of West Indies, 2025",
+            "match_name": "West Indies A vs South Africa A",
+            "match_id": 125768,
+            "startTime": "07:30:00 PM 08-06-2025"
         }
     ]
 }
