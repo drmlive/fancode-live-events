@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:13:44 PM 08-06-2025",
+    "last update time": "11:24:01 PM 08-06-2025",
     "matches": [
         {
             "event_category": "Tennis",
@@ -28,8 +28,8 @@
             "match_name": "Scotland vs Nepal",
             "match_id": 127241,
             "startTime": "03:30:00 PM 08-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/7-Bnid-jTqugvplTaLeEXg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127241_english_hls_44339ta-di_h264/index.m3u8"
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -281,6 +281,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Antigua and Barbuda vs Anguilla (Leeward Islands T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127431_5249_ATG_AGU_fc-web.jpg",
+            "team_1": "Antigua and Barbuda",
+            "team_2": "Anguilla",
+            "status": "UPCOMING",
+            "event_name": "Leeward Islands T20, 2025",
+            "match_name": "Antigua and Barbuda vs Anguilla",
+            "match_id": 127441,
+            "startTime": "12:15:00 AM 09-06-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Chepauk Super Gillies vs Nellai Royal Kings (Shriram Capital TNPL)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Nellai_Old_match_card.jpg",
             "team_1": "Chepauk Super Gillies",
@@ -314,18 +326,6 @@
             "match_name": "Bharat Rangers vs Orange Tigers",
             "match_id": 128169,
             "startTime": "07:45:00 PM 09-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Antigua and Barbuda vs Anguilla (Leeward Islands T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127431_5249_ATG_AGU_fc-web.jpg",
-            "team_1": "Antigua and Barbuda",
-            "team_2": "Anguilla",
-            "status": "UPCOMING",
-            "event_name": "Leeward Islands T20, 2025",
-            "match_name": "Antigua and Barbuda vs Anguilla",
-            "match_id": 127441,
-            "startTime": "12:15:00 AM 09-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -412,18 +412,6 @@
             "startTime": "07:00:00 PM 09-06-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Chicago White Sox vs Kansas City Royals (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128351_CASACARDS_APP.png",
-            "team_1": "Chicago White Sox",
-            "team_2": "Kansas City Royals",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Chicago White Sox vs Kansas City Royals",
-            "match_id": 128351,
-            "startTime": "11:40:00 PM 08-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gagan vs Havering XI (ECS England, Hornchurch, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -434,6 +422,20 @@
             "match_name": "Gagan vs Havering XI",
             "match_id": 128587,
             "startTime": "08:15:00 PM 09-06-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Chicago White Sox vs Kansas City Royals (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128351_CASACARDS_APP.png",
+            "team_1": "Chicago White Sox",
+            "team_2": "Kansas City Royals",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Chicago White Sox vs Kansas City Royals",
+            "match_id": 128351,
+            "startTime": "11:40:00 PM 08-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/128351_english_hls_68958ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128351_english_hls_68958ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
