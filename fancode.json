@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:13:04 PM 08-06-2025",
+    "last update time": "10:23:13 PM 08-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -242,6 +242,20 @@
             "adfree_url": "https://dai.fancode.com/primary/128350_english_hls_33461ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "World Feed - Day 4 vs TPC Toronto (RBC Canadian Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg",
+            "team_1": "World Feed - Day 4",
+            "team_2": "TPC Toronto",
+            "status": "LIVE",
+            "event_name": "RBC Canadian Open",
+            "match_name": "World Feed - Day 4",
+            "match_id": 128323,
+            "startTime": "10:30:00 PM 08-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Pg2SZQIwTOOULvl1zogrng/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128323_english_hls_13907ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "GAT vs SBS CC (KCC T20 Challengers A League, 3rd Edition, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125407_5188_GAT_SBS_fc-web.jpg",
@@ -410,18 +424,6 @@
             "startTime": "07:00:00 PM 09-06-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 4 vs TPC Toronto (RBC Canadian Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Canadian-open-old.jpg",
-            "team_1": "World Feed - Day 4",
-            "team_2": "TPC Toronto",
-            "status": "UPCOMING",
-            "event_name": "RBC Canadian Open",
-            "match_name": "World Feed - Day 4",
-            "match_id": 128323,
-            "startTime": "10:30:00 PM 08-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gagan vs Havering XI (ECS England, Hornchurch, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -444,6 +446,18 @@
             "match_name": "Soca Kings vs Chicago Steelpan Players",
             "match_id": 128204,
             "startTime": "09:30:00 PM 09-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Havering XI vs CFS Pinnacle Pro (ECS England, Hornchurch, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Havering XI",
+            "team_2": "CFS Pinnacle Pro",
+            "status": "UPCOMING",
+            "event_name": "ECS England, Hornchurch, 2025",
+            "match_name": "Havering XI vs CFS Pinnacle Pro",
+            "match_id": 128588,
+            "startTime": "10:15:00 PM 09-06-2025"
         }
     ]
 }
