@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:26:03 AM 09-06-2025",
+    "last update time": "02:36:09 AM 09-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,20 +72,6 @@
             "startTime": "10:30:00 PM 08-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Pg2SZQIwTOOULvl1zogrng/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128323_english_hls_13907ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Chicago White Sox vs Kansas City Royals (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128351_CASACARDS_APP.png",
-            "team_1": "Chicago White Sox",
-            "team_2": "Kansas City Royals",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Chicago White Sox vs Kansas City Royals",
-            "match_id": 128351,
-            "startTime": "11:40:00 PM 08-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/128351_english_hls_68958ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128351_english_hls_68958ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -364,6 +350,18 @@
             "match_name": "Nigeria Women vs Malawi Women",
             "match_id": 127349,
             "startTime": "01:15:00 PM 10-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Netherlands vs Nepal (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Netherlands",
+            "team_2": "Nepal",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "Netherlands vs Nepal",
+            "match_id": 127242,
+            "startTime": "03:30:00 PM 10-06-2025"
         }
     ]
 }
