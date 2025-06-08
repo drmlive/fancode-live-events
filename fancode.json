@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:17:06 AM 09-06-2025",
+    "last update time": "04:27:12 AM 09-06-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -16,34 +16,6 @@
             "startTime": "10:30:00 PM 08-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Pg2SZQIwTOOULvl1zogrng/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128323_english_hls_13907ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Los Angeles Angels vs Seattle Mariners (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128352_CASACARDS_APP.png",
-            "team_1": "Los Angeles Angels",
-            "team_2": "Seattle Mariners",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Angels vs Seattle Mariners",
-            "match_id": 128352,
-            "startTime": "01:37:00 AM 09-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/128352_english_hls_24114ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128352_english_hls_24114ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Anguilla vs Antigua and Barbuda (Leeward Islands T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127431_5249_ATG_AGU_fc-web.jpg",
-            "team_1": "Anguilla",
-            "team_2": "Antigua and Barbuda",
-            "status": "LIVE",
-            "event_name": "Leeward Islands T20, 2025",
-            "match_name": "Anguilla vs Antigua and Barbuda",
-            "match_id": 127441,
-            "startTime": "12:15:00 AM 09-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/TWWrNS_OQwi1pC6L-RjP0Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/127441_english_hls_6771ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -310,18 +282,6 @@
             "startTime": "01:00:00 PM 10-06-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "San Diego Padres vs Los Angeles Dodgers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128353_CASACARDS_APP.png",
-            "team_1": "San Diego Padres",
-            "team_2": "Los Angeles Dodgers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "San Diego Padres vs Los Angeles Dodgers",
-            "match_id": 128353,
-            "startTime": "07:10:00 AM 10-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Nigeria Women vs Malawi Women (Kwibuka Women's T20I Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/127349_5244_NIG-W_MAWW_FC-Web.jpg",
@@ -332,6 +292,18 @@
             "match_name": "Nigeria Women vs Malawi Women",
             "match_id": 127349,
             "startTime": "01:15:00 PM 10-06-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Diego Padres vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128353_CASACARDS_APP.png",
+            "team_1": "San Diego Padres",
+            "team_2": "Los Angeles Dodgers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Diego Padres vs Los Angeles Dodgers",
+            "match_id": 128353,
+            "startTime": "07:10:00 AM 10-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -356,6 +328,30 @@
             "match_name": "Czechia vs Norway",
             "match_id": 128424,
             "startTime": "01:45:00 PM 10-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Old Brentwoods vs Gagan (ECS England, Hornchurch, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-3_1748596967309.jpg",
+            "team_1": "Old Brentwoods",
+            "team_2": "Gagan",
+            "status": "UPCOMING",
+            "event_name": "ECS England, Hornchurch, 2025",
+            "match_name": "Old Brentwoods vs Gagan",
+            "match_id": 127725,
+            "startTime": "02:15:00 PM 10-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Delhi Dominators vs Chennai Challengers (Dreams Bigg T20 Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg",
+            "team_1": "Delhi Dominators",
+            "team_2": "Chennai Challengers",
+            "status": "UPCOMING",
+            "event_name": "Dreams Bigg T20 Championship, 2025",
+            "match_name": "Delhi Dominators vs Chennai Challengers",
+            "match_id": 127655,
+            "startTime": "03:00:00 PM 10-06-2025"
         }
     ]
 }
