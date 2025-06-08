@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:30:04 PM 08-06-2025",
+    "last update time": "06:40:10 PM 08-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Siechem Madurai Panthers vs SKM Salem Spartans (Shriram Capital TNPL)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Madurai_v_Salem_Old_match_card.jpg",
-            "team_1": "Siechem Madurai Panthers",
-            "team_2": "SKM Salem Spartans",
-            "status": "LIVE",
-            "event_name": "Shriram Capital TNPL",
-            "match_name": "Siechem Madurai Panthers vs SKM Salem Spartans",
-            "match_id": 126531,
-            "startTime": "03:15:00 PM 08-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/kmRs3DNoQH-jg9PYCISuzA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/126531_english_hls_83171ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Jannik Sinner vs Carlos Alcaraz (Roland Garros 2025)",
@@ -27,7 +13,7 @@
             "event_name": "Roland Garros 2025",
             "match_name": "Jannik Sinner vs Carlos Alcaraz",
             "match_id": 126757,
-            "startTime": "06:30:00 PM 08-06-2025",
+            "startTime": "06:50:00 PM 08-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005445/DAI38PCC/master_mdh.m3u8?hdnea=exp=1749430804~acl=/*~id=58143221582748539824006825214720~hmac=b4c0a27fdd591801410972a2d0e608ebad4ecb6e0cd2c8b4b9c6be172ae139d0"
         },
@@ -58,6 +44,20 @@
             "startTime": "03:00:00 PM 08-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/X3N-ieCwTZ6FCX6iE2I_Lg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128184_english_hls_61652ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Siechem Madurai Panthers vs SKM Salem Spartans (Shriram Capital TNPL)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Madurai_v_Salem_Old_match_card.jpg",
+            "team_1": "Siechem Madurai Panthers",
+            "team_2": "SKM Salem Spartans",
+            "status": "LIVE",
+            "event_name": "Shriram Capital TNPL",
+            "match_name": "Siechem Madurai Panthers vs SKM Salem Spartans",
+            "match_id": 126531,
+            "startTime": "03:15:00 PM 08-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/kmRs3DNoQH-jg9PYCISuzA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/126531_english_hls_83171ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -257,13 +257,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "England vs West Indies (West Indies tour of England, 2025)",
+            "title": "West Indies vs England (West Indies tour of England, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-England,-2025-old-match-card.png",
-            "team_1": "England",
-            "team_2": "West Indies",
+            "team_1": "West Indies",
+            "team_2": "England",
             "status": "UPCOMING",
             "event_name": "West Indies tour of England, 2025",
-            "match_name": "England vs West Indies",
+            "match_name": "West Indies vs England",
             "match_id": 126355,
             "startTime": "07:00:00 PM 08-06-2025"
         },
@@ -436,18 +436,6 @@
             "startTime": "01:45:00 PM 09-06-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Racing de Santander vs Mirand\u00e9s (LALIGA HYPERMOTION 2024-25)",
-            "src": "https://images.fancode.com/aig/match/v1/128593_CASACARDS_APP.png",
-            "team_1": "Racing de Santander",
-            "team_2": "Mirand\u00e9s",
-            "status": "UPCOMING",
-            "event_name": "LALIGA HYPERMOTION 2024-25",
-            "match_name": "Racing de Santander vs Mirand\u00e9s",
-            "match_id": 128593,
-            "startTime": "10:00:00 PM 08-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Chepauk Super Gillies vs Nellai Royal Kings (Shriram Capital TNPL)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Nellai_Old_match_card.jpg",
@@ -458,6 +446,18 @@
             "match_name": "Chepauk Super Gillies vs Nellai Royal Kings",
             "match_id": 126533,
             "startTime": "07:15:00 PM 09-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Racing de Santander vs Mirand\u00e9s (LALIGA HYPERMOTION 2024-25)",
+            "src": "https://images.fancode.com/aig/match/v1/128593_CASACARDS_APP.png",
+            "team_1": "Racing de Santander",
+            "team_2": "Mirand\u00e9s",
+            "status": "UPCOMING",
+            "event_name": "LALIGA HYPERMOTION 2024-25",
+            "match_name": "Racing de Santander vs Mirand\u00e9s",
+            "match_id": 128593,
+            "startTime": "10:00:00 PM 08-06-2025"
         },
         {
             "event_category": "Cricket",
