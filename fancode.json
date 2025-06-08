@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:43:25 PM 08-06-2025",
+    "last update time": "10:53:33 PM 08-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs England (West Indies tour of England, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-England,-2025-old-match-card.png",
-            "team_1": "West Indies",
-            "team_2": "England",
-            "status": "LIVE",
-            "event_name": "West Indies tour of England, 2025",
-            "match_name": "West Indies vs England",
-            "match_id": 126355,
-            "startTime": "07:00:00 PM 08-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20WIVSENG/master.m3u8?hdnea=exp=1749432638~acl=/*~id=70058777156841488746731718080863~hmac=9d079d8fa86cdc6f2b14cb7ddf9999a24bd8429c87410a71e8f47b4e7fac0a6c"
-        },
         {
             "event_category": "Tennis",
             "title": "Jannik Sinner vs Carlos Alcaraz (Roland Garros 2025)",
@@ -128,6 +114,20 @@
             "startTime": "08:15:00 PM 08-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/AX9apV9jRk-J_yAjD04rXA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127440_english_hls_75604ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "GAT vs SBS CC (KCC T20 Challengers A League, 3rd Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125407_5188_GAT_SBS_fc-web.jpg",
+            "team_1": "GAT",
+            "team_2": "SBS CC",
+            "status": "LIVE",
+            "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "match_name": "GAT vs SBS CC",
+            "match_id": 125407,
+            "startTime": "11:00:00 PM 08-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/5vgmnXC6TdS6n_qP2vVJDg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125407_english_hls_85694ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -257,15 +257,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "GAT vs SBS CC (KCC T20 Challengers A League, 3rd Edition, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125407_5188_GAT_SBS_fc-web.jpg",
-            "team_1": "GAT",
-            "team_2": "SBS CC",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
-            "match_name": "GAT vs SBS CC",
-            "match_id": 125407,
-            "startTime": "11:00:00 PM 08-06-2025"
+            "title": "West Indies vs England (West Indies tour of England, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-England,-2025-old-match-card.png",
+            "team_1": "West Indies",
+            "team_2": "England",
+            "status": "LIVE",
+            "event_name": "West Indies tour of England, 2025",
+            "match_name": "West Indies vs England",
+            "match_id": 126355,
+            "startTime": "07:00:00 PM 08-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20WIVSENG/master.m3u8?hdnea=exp=1749432638~acl=/*~id=70058777156841488746731718080863~hmac=9d079d8fa86cdc6f2b14cb7ddf9999a24bd8429c87410a71e8f47b4e7fac0a6c"
         },
         {
             "event_category": "Cricket",
@@ -458,6 +460,18 @@
             "match_name": "Soca Kings vs Chicago Steelpan Players",
             "match_id": 128204,
             "startTime": "09:30:00 PM 09-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Havering XI vs CFS Pinnacle Pro (ECS England, Hornchurch, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Havering XI",
+            "team_2": "CFS Pinnacle Pro",
+            "status": "UPCOMING",
+            "event_name": "ECS England, Hornchurch, 2025",
+            "match_name": "Havering XI vs CFS Pinnacle Pro",
+            "match_id": 128588,
+            "startTime": "10:15:00 PM 09-06-2025"
         }
     ]
 }
