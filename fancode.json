@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:04:46 PM 09-06-2025",
+    "last update time": "04:15:04 PM 09-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -70,8 +70,8 @@
             "match_name": "CFS Pinnacle Pro vs Old Brentwoods",
             "match_id": 127719,
             "startTime": "04:15:00 PM 09-06-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/j-0q9CpXRDqPhZ7a7to1fQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127719_english_hls_5136ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -327,18 +327,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sabarmati Strikers vs Karnavati Kings (Cricket Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127778_5267_SSK_KVK_fc-web.jpg",
-            "team_1": "Sabarmati Strikers",
-            "team_2": "Karnavati Kings",
-            "status": "UPCOMING",
-            "event_name": "Cricket Premier League, 2025",
-            "match_name": "Sabarmati Strikers vs Karnavati Kings",
-            "match_id": 127778,
-            "startTime": "03:30:00 PM 10-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "SKM Salem Spartans vs Trichy Grand Cholas (Shriram Capital TNPL)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Trichy_Old_match_card.jpg",
             "team_1": "SKM Salem Spartans",
@@ -348,6 +336,18 @@
             "match_name": "SKM Salem Spartans vs Trichy Grand Cholas",
             "match_id": 126534,
             "startTime": "07:15:00 PM 10-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sabarmati Strikers vs Karnavati Kings (Cricket Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127778_5267_SSK_KVK_fc-web.jpg",
+            "team_1": "Sabarmati Strikers",
+            "team_2": "Karnavati Kings",
+            "status": "UPCOMING",
+            "event_name": "Cricket Premier League, 2025",
+            "match_name": "Sabarmati Strikers vs Karnavati Kings",
+            "match_id": 127778,
+            "startTime": "03:30:00 PM 10-06-2025"
         },
         {
             "event_category": "Cricket",
