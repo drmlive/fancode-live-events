@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:55:39 AM 10-06-2025",
+    "last update time": "09:05:48 AM 10-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Orange Tigersses Women vs Nagpur Titans Women (Vidarbha Women's Pro T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-Web.jpg",
+            "team_1": "Orange Tigersses Women",
+            "team_2": "Nagpur Titans Women",
+            "status": "LIVE",
+            "event_name": "Vidarbha Women's Pro T20 League, 2025",
+            "match_name": "Orange Tigersses Women vs Nagpur Titans Women",
+            "match_id": 128179,
+            "startTime": "09:15:00 AM 10-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/vioSfz_QTjKX7NxeBp-IXg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128179_english_hls_62274ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Baseball",
             "title": "San Diego Padres vs Los Angeles Dodgers (Major League Baseball, 2025)",
@@ -40,18 +54,6 @@
             "match_name": "Netherlands vs Nepal",
             "match_id": 127242,
             "startTime": "03:30:00 PM 10-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka Emerging vs West Indies Academy (Sri Lanka Emerging tour of West Indies)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Emerging-tour-of-West-Indies-old-match-card.png",
-            "team_1": "Sri Lanka Emerging",
-            "team_2": "West Indies Academy",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka Emerging tour of West Indies",
-            "match_name": "Sri Lanka Emerging vs West Indies Academy",
-            "match_id": 128402,
-            "startTime": "07:30:00 PM 07-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -100,18 +102,6 @@
             "match_name": "England vs West Indies",
             "match_id": 126356,
             "startTime": "11:00:00 PM 10-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Orange Tigersses Women vs Nagpur Titans Women (Vidarbha Women's Pro T20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-Web.jpg",
-            "team_1": "Orange Tigersses Women",
-            "team_2": "Nagpur Titans Women",
-            "status": "UPCOMING",
-            "event_name": "Vidarbha Women's Pro T20 League, 2025",
-            "match_name": "Orange Tigersses Women vs Nagpur Titans Women",
-            "match_id": 128179,
-            "startTime": "09:15:00 AM 10-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -270,30 +260,6 @@
             "startTime": "04:05:00 PM 10-06-2025"
         },
         {
-            "event_category": "Football",
-            "title": "China PR vs Bahrain (FIFA World Cup Asian Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/127939_CASACARDS_APP.png",
-            "team_1": "China PR",
-            "team_2": "Bahrain",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "China PR vs Bahrain",
-            "match_id": 127939,
-            "startTime": "04:30:00 PM 10-06-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Korea Republic vs Kuwait (FIFA World Cup Asian Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/127935_CASACARDS_APP.png",
-            "team_1": "Korea Republic",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Korea Republic vs Kuwait",
-            "match_id": 127935,
-            "startTime": "04:30:00 PM 10-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gujarat Lions vs Hyderabad Boys (Dreams Bigg T20 Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg",
@@ -316,6 +282,30 @@
             "match_name": "Ahmedabad Arrows vs Gandhinagar Lions",
             "match_id": 127779,
             "startTime": "07:30:00 PM 10-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "China PR vs Bahrain (FIFA World Cup Asian Qualifiers)",
+            "src": "https://images.fancode.com/aig/match/v1/127939_CASACARDS_APP.png",
+            "team_1": "China PR",
+            "team_2": "Bahrain",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "China PR vs Bahrain",
+            "match_id": 127939,
+            "startTime": "04:30:00 PM 10-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Korea Republic vs Kuwait (FIFA World Cup Asian Qualifiers)",
+            "src": "https://images.fancode.com/aig/match/v1/127935_CASACARDS_APP.png",
+            "team_1": "Korea Republic",
+            "team_2": "Kuwait",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Korea Republic vs Kuwait",
+            "match_id": 127935,
+            "startTime": "04:30:00 PM 10-06-2025"
         },
         {
             "event_category": "Football",
@@ -460,6 +450,18 @@
             "match_name": "Uruguay vs Venezuela",
             "match_id": 127949,
             "startTime": "04:30:00 AM 11-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Cambodia (Cambodia tour of Indonesia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Indonesia",
+            "team_2": "Cambodia",
+            "status": "UPCOMING",
+            "event_name": "Cambodia tour of Indonesia, 2025",
+            "match_name": "Indonesia vs Cambodia",
+            "match_id": 128301,
+            "startTime": "07:00:00 AM 11-06-2025"
         }
     ]
 }
