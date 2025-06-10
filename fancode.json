@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:04:02 PM 10-06-2025",
+    "last update time": "09:14:10 PM 10-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -144,6 +144,20 @@
             "adfree_url": "https://dai.fancode.com/primary/127932_english_hls_24414ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "IR Iran vs DPR Korea (FIFA World Cup Asian Qualifiers)",
+            "src": "https://images.fancode.com/aig/match/v1/127934_CASACARDS_APP.png",
+            "team_1": "IR Iran",
+            "team_2": "DPR Korea",
+            "status": "LIVE",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "IR Iran vs DPR Korea",
+            "match_id": 127934,
+            "startTime": "09:30:00 PM 10-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/rvbh73KFSiKgJ2_rxiLkxg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127934_english_hls_79846ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "West Indies A vs South Africa A (South Africa A tour of West Indies, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-test-old.png",
@@ -175,23 +189,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128206_5288_SCK_SLS_fc-Web.jpg",
             "team_1": "Soca Kings",
             "team_2": "Scarlet Ibis Scorchers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
             "match_name": "Soca Kings vs Scarlet Ibis Scorchers",
             "match_id": 128206,
-            "startTime": "09:30:00 PM 10-06-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "IR Iran vs DPR Korea (FIFA World Cup Asian Qualifiers)",
-            "src": "https://images.fancode.com/aig/match/v1/127934_CASACARDS_APP.png",
-            "team_1": "IR Iran",
-            "team_2": "DPR Korea",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "IR Iran vs DPR Korea",
-            "match_id": 127934,
-            "startTime": "09:30:00 PM 10-06-2025"
+            "startTime": "09:30:00 PM 10-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ke4yriSZRCyDVHs1f5gXwg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128206_english_hls_82558ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -279,18 +283,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Indonesia vs Cambodia (Cambodia tour of Indonesia, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128301_CASACARDS_APP.png",
-            "team_1": "Indonesia",
-            "team_2": "Cambodia",
-            "status": "UPCOMING",
-            "event_name": "Cambodia tour of Indonesia, 2025",
-            "match_name": "Indonesia vs Cambodia",
-            "match_id": 128301,
-            "startTime": "07:00:00 AM 11-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Durham Women vs Warwickshire Women (Women's Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125844_5206_DHW_WKW_fc-Web.jpg",
             "team_1": "Durham Women",
@@ -300,6 +292,18 @@
             "match_name": "Durham Women vs Warwickshire Women",
             "match_id": 125844,
             "startTime": "07:00:00 PM 11-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Cambodia (Cambodia tour of Indonesia, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128301_CASACARDS_APP.png",
+            "team_1": "Indonesia",
+            "team_2": "Cambodia",
+            "status": "UPCOMING",
+            "event_name": "Cambodia tour of Indonesia, 2025",
+            "match_name": "Indonesia vs Cambodia",
+            "match_id": 128301,
+            "startTime": "07:00:00 AM 11-06-2025"
         },
         {
             "event_category": "Football",
@@ -468,6 +472,18 @@
             "match_name": "Cameroon Women vs Brazil Women",
             "match_id": 127354,
             "startTime": "05:00:00 PM 11-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe HPC Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127355_5244_ZHC-W_SIL-W_FC-Web.jpg",
+            "team_1": "Zimbabwe HPC Women",
+            "team_2": "Sierra Leone Women",
+            "status": "UPCOMING",
+            "event_name": "Kwibuka Women's T20I Tournament, 2025",
+            "match_name": "Zimbabwe HPC Women vs Sierra Leone Women",
+            "match_id": 127355,
+            "startTime": "05:15:00 PM 11-06-2025"
         }
     ]
 }
