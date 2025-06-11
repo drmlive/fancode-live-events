@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:47:20 AM 12-06-2025",
+    "last update time": "01:57:26 AM 12-06-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -75,20 +75,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Durham vs Derbyshire (Vitality Blast T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125922_5207_DUR_DER_fc-Web.jpg",
-            "team_1": "Durham",
-            "team_2": "Derbyshire",
-            "status": "LIVE",
-            "event_name": "Vitality Blast T20, 2025",
-            "match_name": "Durham vs Derbyshire",
-            "match_id": 125922,
-            "startTime": "11:00:00 PM 11-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/_Iox61OZQ-KDMThZvjSFdA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/125922_english_hls_8815ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Leatherback Strikers vs Scarlet Ibis Scorchers (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128209_5288_SLS_TLS_fc-Web.jpg",
             "team_1": "Leatherback Strikers",
@@ -128,6 +114,20 @@
             "startTime": "01:40:00 AM 12-06-2025",
             "dai_url": "https://dai.fancode.com/primary/128356_english_hls_50959ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128356_english_hls_50959ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Durham vs Derbyshire (Vitality Blast T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125922_5207_DUR_DER_fc-Web.jpg",
+            "team_1": "Durham",
+            "team_2": "Derbyshire",
+            "status": "LIVE",
+            "event_name": "Vitality Blast T20, 2025",
+            "match_name": "Durham vs Derbyshire",
+            "match_id": 125922,
+            "startTime": "11:00:00 PM 11-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/_Iox61OZQ-KDMThZvjSFdA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125922_english_hls_8815ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -440,6 +440,30 @@
             "match_name": "Old Brentwoods vs Rainham",
             "match_id": 127734,
             "startTime": "04:15:00 PM 12-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malawi Women vs Zimbabwe HPC Women (Kwibuka Women's T20I Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127358_5244_MAWW_ZHC-W_FC-Web.jpg",
+            "team_1": "Malawi Women",
+            "team_2": "Zimbabwe HPC Women",
+            "status": "UPCOMING",
+            "event_name": "Kwibuka Women's T20I Tournament, 2025",
+            "match_name": "Malawi Women vs Zimbabwe HPC Women",
+            "match_id": 127358,
+            "startTime": "05:00:00 PM 12-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Brazil Women vs Sierra Leone Women (Kwibuka Women's T20I Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127359_5244_BRA-W_SIL-W_FC-Web.jpg",
+            "team_1": "Brazil Women",
+            "team_2": "Sierra Leone Women",
+            "status": "UPCOMING",
+            "event_name": "Kwibuka Women's T20I Tournament, 2025",
+            "match_name": "Brazil Women vs Sierra Leone Women",
+            "match_id": 127359,
+            "startTime": "05:15:00 PM 12-06-2025"
         }
     ]
 }
