@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:47:29 PM 11-06-2025",
+    "last update time": "12:57:34 PM 11-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "NECO Master Blaster Women vs Nagpur Titans Women (Vidarbha Women's Pro T20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128180_5286_NAT-W_NMB-W_fc-Web.jpg",
-            "team_1": "NECO Master Blaster Women",
-            "team_2": "Nagpur Titans Women",
-            "status": "LIVE",
-            "event_name": "Vidarbha Women's Pro T20 League, 2025",
-            "match_name": "NECO Master Blaster Women vs Nagpur Titans Women",
-            "match_id": 128180,
-            "startTime": "09:15:00 AM 11-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ExybBP-wTa-15KwkXG29WA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128180_english_hls_25163ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Nigeria Women vs Uganda Women (Kwibuka Women's T20I Tournament, 2025)",
@@ -30,6 +16,20 @@
             "startTime": "01:00:00 PM 11-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/uhQMd7ndSoamJEaGIbmKDw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127352_english_hls_87576ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "NECO Master Blaster Women vs Nagpur Titans Women (Vidarbha Women's Pro T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128180_5286_NAT-W_NMB-W_fc-Web.jpg",
+            "team_1": "NECO Master Blaster Women",
+            "team_2": "Nagpur Titans Women",
+            "status": "LIVE",
+            "event_name": "Vidarbha Women's Pro T20 League, 2025",
+            "match_name": "NECO Master Blaster Women vs Nagpur Titans Women",
+            "match_id": 128180,
+            "startTime": "09:15:00 AM 11-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ExybBP-wTa-15KwkXG29WA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128180_english_hls_25163ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -332,18 +332,6 @@
             "startTime": "11:00:00 PM 11-06-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Slovakia U21 vs Spain U21 (UEFA European Under-21 Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/UEFA-Slovakia-U21-VS-Spain-U21_old.jpg",
-            "team_1": "Slovakia U21",
-            "team_2": "Spain U21",
-            "status": "UPCOMING",
-            "event_name": "UEFA European Under-21 Championship",
-            "match_name": "Slovakia U21 vs Spain U21",
-            "match_id": 123313,
-            "startTime": "09:30:00 PM 11-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Scarlet Ibis Scorchers vs Leatherback Strikers (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128209_5288_SLS_TLS_fc-Web.jpg",
@@ -354,6 +342,18 @@
             "match_name": "Scarlet Ibis Scorchers vs Leatherback Strikers",
             "match_id": 128209,
             "startTime": "12:00:00 AM 12-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Slovakia U21 vs Spain U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/UEFA-Slovakia-U21-VS-Spain-U21_old.jpg",
+            "team_1": "Slovakia U21",
+            "team_2": "Spain U21",
+            "status": "UPCOMING",
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "Slovakia U21 vs Spain U21",
+            "match_id": 123313,
+            "startTime": "09:30:00 PM 11-06-2025"
         },
         {
             "event_category": "Football",
@@ -416,18 +416,6 @@
             "startTime": "09:00:00 AM 12-06-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Real Oviedo vs Almer\u00eda (LALIGA HYPERMOTION 2024-25)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "Real Oviedo",
-            "team_2": "Almer\u00eda",
-            "status": "UPCOMING",
-            "event_name": "LALIGA HYPERMOTION 2024-25",
-            "match_name": "Real Oviedo vs Almer\u00eda",
-            "match_id": 128610,
-            "startTime": "12:30:00 AM 12-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Orange Tigersses Women vs NECO Master Blaster Women (Vidarbha Women's Pro T20 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128181_5286_ORT-W_NMB-W_fc-Web.jpg",
@@ -438,6 +426,18 @@
             "match_name": "Orange Tigersses Women vs NECO Master Blaster Women",
             "match_id": 128181,
             "startTime": "09:15:00 AM 12-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Oviedo vs Almer\u00eda (LALIGA HYPERMOTION 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Real Oviedo",
+            "team_2": "Almer\u00eda",
+            "status": "UPCOMING",
+            "event_name": "LALIGA HYPERMOTION 2024-25",
+            "match_name": "Real Oviedo vs Almer\u00eda",
+            "match_id": 128610,
+            "startTime": "12:30:00 AM 12-06-2025"
         },
         {
             "event_category": "Cricket",
