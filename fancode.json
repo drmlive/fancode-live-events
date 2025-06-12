@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:49:49 AM 12-06-2025",
+    "last update time": "05:59:56 AM 12-06-2025",
     "matches": [
+        {
+            "event_category": "Baseball",
+            "title": "Colorado Rockies vs San Francisco Giants (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128357_CASACARDS_APP.png",
+            "team_1": "Colorado Rockies",
+            "team_2": "San Francisco Giants",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Colorado Rockies vs San Francisco Giants",
+            "match_id": 128357,
+            "startTime": "06:10:00 AM 12-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/128357_english_hls_3586ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128357_english_hls_3586ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Rashmi Medinipur Wizards vs Lux Shyam Kolkata Tigers (Bengal Pro T20 league, 2025)",
@@ -101,6 +115,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Indonesia vs Cambodia (Cambodia tour of Indonesia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cambodia-tour-of-Indonesia-old.jpg",
+            "team_1": "Indonesia",
+            "team_2": "Cambodia",
+            "status": "UPCOMING",
+            "event_name": "Cambodia tour of Indonesia, 2025",
+            "match_name": "Indonesia vs Cambodia",
+            "match_id": 128302,
+            "startTime": "07:00:00 AM 12-06-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Essex vs Glamorgan (Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125927_5207_ESS_GLA_fc-Web.jpg",
             "team_1": "Essex",
@@ -122,18 +148,6 @@
             "match_name": "Somerset vs Middlesex",
             "match_id": 125925,
             "startTime": "11:00:00 PM 12-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Indonesia vs Cambodia (Cambodia tour of Indonesia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cambodia-tour-of-Indonesia-old.jpg",
-            "team_1": "Indonesia",
-            "team_2": "Cambodia",
-            "status": "UPCOMING",
-            "event_name": "Cambodia tour of Indonesia, 2025",
-            "match_name": "Indonesia vs Cambodia",
-            "match_id": 128302,
-            "startTime": "07:00:00 AM 12-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -446,18 +460,6 @@
             "match_name": "Czechia U21 vs England U21",
             "match_id": 123318,
             "startTime": "12:30:00 AM 13-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tally Rangers vs Ai Octopus Challengers (KCC T20 Challengers A League, 3rd Edition, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/125415_CASACARDS_APP.png",
-            "team_1": "Tally Rangers",
-            "team_2": "Ai Octopus Challengers",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Challengers A League, 3rd Edition, 2025",
-            "match_name": "Tally Rangers vs Ai Octopus Challengers",
-            "match_id": 125415,
-            "startTime": "01:15:00 AM 13-06-2025"
         }
     ]
 }
