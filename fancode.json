@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:16:36 AM 13-06-2025",
+    "last update time": "05:26:44 AM 13-06-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -14,8 +14,8 @@
             "match_name": "Day 1",
             "match_id": 128461,
             "startTime": "09:30:00 PM 12-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/MJ8zdZNQQcqJ-QJ90nFDCw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128461_english_hls_81182ta-di_h264/index.m3u8"
+            "dai_url": "https://mls3.fancode.com/c1ffaae9-2dce-4e0b-834f-afbf4d1cc846/index.m3u8",
+            "adfree_url": "https://mls3.fancode.com/c1ffaae9-2dce-4e0b-834f-afbf4d1cc846/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -414,18 +414,6 @@
             "startTime": "07:00:00 PM 13-06-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Session 2 - Qualifying Races vs Dubrovnik (E1 Dubrovnik GP)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Dubrovnik-GP--old-match-card.png",
-            "team_1": "Session 2 - Qualifying Races",
-            "team_2": "Dubrovnik",
-            "status": "UPCOMING",
-            "event_name": "E1 Dubrovnik GP",
-            "match_name": "Session 2 - Qualifying Races",
-            "match_id": 128860,
-            "startTime": "07:50:00 PM 13-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Harbour Diamonds Womens vs Lux Shyam Kolkata Tigers Womens (Bengal Women's Pro T20 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128085_5283_HD-W_LSKT-W_fc-Web.jpg",
@@ -436,6 +424,18 @@
             "match_name": "Harbour Diamonds Womens vs Lux Shyam Kolkata Tigers Womens",
             "match_id": 128085,
             "startTime": "09:00:00 AM 14-06-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Session 2 - Qualifying Races vs Dubrovnik (E1 Dubrovnik GP)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Dubrovnik-GP--old-match-card.png",
+            "team_1": "Session 2 - Qualifying Races",
+            "team_2": "Dubrovnik",
+            "status": "UPCOMING",
+            "event_name": "E1 Dubrovnik GP",
+            "match_name": "Session 2 - Qualifying Races",
+            "match_id": 128860,
+            "startTime": "07:50:00 PM 13-06-2025"
         },
         {
             "event_category": "Motorsports",
