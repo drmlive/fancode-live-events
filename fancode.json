@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:21:59 AM 12-06-2025",
+    "last update time": "09:32:05 AM 12-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "09:15:00 AM 12-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/aSbgPhBiQLa8yy8VVVRoAg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128181_english_hls_28303ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Colorado Rockies vs San Francisco Giants (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128357_CASACARDS_APP.png",
-            "team_1": "Colorado Rockies",
-            "team_2": "San Francisco Giants",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Colorado Rockies vs San Francisco Giants",
-            "match_id": 128357,
-            "startTime": "06:10:00 AM 12-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/128357_english_hls_3586ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128357_english_hls_3586ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -465,6 +451,18 @@
             "event_name": "UEFA European Under-21 Championship",
             "match_name": "Germany U21 vs Slovenia U21",
             "match_id": 123319,
+            "startTime": "12:30:00 AM 13-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Czechia U21 vs England U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-web.jpg",
+            "team_1": "Czechia U21",
+            "team_2": "England U21",
+            "status": "UPCOMING",
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "Czechia U21 vs England U21",
+            "match_id": 123318,
             "startTime": "12:30:00 AM 13-06-2025"
         }
     ]
