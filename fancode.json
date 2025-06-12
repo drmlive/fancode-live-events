@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:04:24 AM 13-06-2025",
+    "last update time": "02:14:30 AM 13-06-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -43,20 +43,6 @@
             "match_id": 123318,
             "startTime": "12:30:00 AM 13-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/rNqQOEmoSciSTWVnawLr4g/master.m3u8",
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Glamorgan vs Essex (Vitality Blast T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125927_5207_ESS_GLA_fc-Web.jpg",
-            "team_1": "Glamorgan",
-            "team_2": "Essex",
-            "status": "LIVE",
-            "event_name": "Vitality Blast T20, 2025",
-            "match_name": "Glamorgan vs Essex",
-            "match_id": 125927,
-            "startTime": "11:00:00 PM 12-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
             "adfree_url": null
         },
         {
@@ -452,6 +438,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 127740,
             "startTime": "09:15:00 PM 13-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Soca Kings vs Leatherback Strikers (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128212_5288_SCK_TLS_fc-Web.jpg",
+            "team_1": "Soca Kings",
+            "team_2": "Leatherback Strikers",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "match_name": "Soca Kings vs Leatherback Strikers",
+            "match_id": 128212,
+            "startTime": "09:30:00 PM 13-06-2025"
         }
     ]
 }
