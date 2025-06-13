@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:01:59 AM 14-06-2025",
+    "last update time": "04:12:05 AM 14-06-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -16,20 +16,6 @@
             "startTime": "09:30:00 PM 13-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/l3Vv7D5STeiIOFG5b8ykTw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128462_english_hls_74884ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Practice 2 vs Canada (F1 PIRELLI GRAND PRIX DU CANADA 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAND-PRIX-DU-CANADA-2025-old-match-card.jpg",
-            "team_1": "Practice 2",
-            "team_2": "Canada",
-            "status": "LIVE",
-            "event_name": "F1 PIRELLI GRAND PRIX DU CANADA 2025",
-            "match_name": "Practice 2",
-            "match_id": 118427,
-            "startTime": "02:30:00 AM 14-06-2025",
-            "dai_url": "https://d2pdjaq6nez4mz.cloudfront.net/out/v1/5fb958219eec4354a2dacc53a3a3bd6c/index.m3u8",
-            "adfree_url": "https://d2pdjaq6nez4mz.cloudfront.net/out/v1/5fb958219eec4354a2dacc53a3a3bd6c/index.m3u8"
         },
         {
             "event_category": "Motorsports",
@@ -452,6 +438,30 @@
             "match_name": "Kashima Antlers vs Sanfrecce Hiroshima",
             "match_id": 126253,
             "startTime": "02:30:00 PM 14-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Tokyo vs Cerezo Osaka (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126254_4795_TKY_OSA_fc-web.jpg",
+            "team_1": "FC Tokyo",
+            "team_2": "Cerezo Osaka",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "FC Tokyo vs Cerezo Osaka",
+            "match_id": 126254,
+            "startTime": "03:30:00 PM 14-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "France U21 vs Georgia U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123324_5106_FR-U21_GE-U21_fc-web.jpg",
+            "team_1": "France U21",
+            "team_2": "Georgia U21",
+            "status": "UPCOMING",
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "France U21 vs Georgia U21",
+            "match_id": 123324,
+            "startTime": "12:30:00 AM 15-06-2025"
         }
     ]
 }
