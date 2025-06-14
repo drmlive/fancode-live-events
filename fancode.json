@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:30:45 PM 14-06-2025",
+    "last update time": "04:40:51 PM 14-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -103,20 +103,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Kashima Antlers vs Sanfrecce Hiroshima (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126253_4795_ANL_HIR_fc-web.jpg",
-            "team_1": "Kashima Antlers",
-            "team_2": "Sanfrecce Hiroshima",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Kashima Antlers vs Sanfrecce Hiroshima",
-            "match_id": 126253,
-            "startTime": "02:30:00 PM 14-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/126253_english_hls_75316ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/126253_english_hls_75316ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "FC Tokyo vs Cerezo Osaka (J League 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/126254_4795_TKY_OSA_fc-web.jpg",
             "team_1": "FC Tokyo",
@@ -156,6 +142,20 @@
             "startTime": "04:30:00 PM 14-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/EompIIGZT5KUU2TtTir6Iw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128770_english_hls_9184ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kashima Antlers vs Sanfrecce Hiroshima (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126253_4795_ANL_HIR_fc-web.jpg",
+            "team_1": "Kashima Antlers",
+            "team_2": "Sanfrecce Hiroshima",
+            "status": "LIVE",
+            "event_name": "J League 2025",
+            "match_name": "Kashima Antlers vs Sanfrecce Hiroshima",
+            "match_id": 126253,
+            "startTime": "02:30:00 PM 14-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/126253_english_hls_75316ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/126253_english_hls_75316ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -468,6 +468,18 @@
             "match_name": "Indonesia vs Cambodia",
             "match_id": 128306,
             "startTime": "07:00:00 AM 15-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakyong XI vs Royal North Brothers (Sikkim T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Pakyong XI",
+            "team_2": "Royal North Brothers",
+            "status": "UPCOMING",
+            "event_name": "Sikkim T20 League, 2025",
+            "match_name": "Pakyong XI vs Royal North Brothers",
+            "match_id": 128707,
+            "startTime": "08:30:00 AM 15-06-2025"
         }
     ]
 }
