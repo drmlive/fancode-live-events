@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:51:35 PM 14-06-2025",
+    "last update time": "06:01:43 PM 14-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,6 +74,20 @@
             "adfree_url": "https://dai.fancode.com/primary/127363_english_hls_90910ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Gunnersbury-W vs Upminster-W (ECS-W England, Hornchurch, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_W_England_-Hornchurc-_Old_match-card.jpg",
+            "team_1": "Gunnersbury-W",
+            "team_2": "Upminster-W",
+            "status": "LIVE",
+            "event_name": "ECS-W England, Hornchurch, 2025",
+            "match_name": "Gunnersbury-W vs Upminster-W",
+            "match_id": 128341,
+            "startTime": "06:15:00 PM 14-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/dm1GSbqySrK8mQ1Ve0o0nw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128341_english_hls_31841ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Session 3 - Group Races vs Dubrovnik (E1 Dubrovnik GP)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Dubrovnik-GP--old-match-card.png",
@@ -100,20 +114,6 @@
             "startTime": "04:30:00 PM 14-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/EompIIGZT5KUU2TtTir6Iw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128770_english_hls_9184ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Tokyo vs Cerezo Osaka (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126254_4795_TKY_OSA_fc-web.jpg",
-            "team_1": "FC Tokyo",
-            "team_2": "Cerezo Osaka",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "FC Tokyo vs Cerezo Osaka",
-            "match_id": 126254,
-            "startTime": "03:30:00 PM 14-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/126254_english_hls_4011ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/126254_english_hls_4011ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -189,18 +189,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Gunnersbury-W vs Upminster-W (ECS-W England, Hornchurch, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS_W_England_-Hornchurc-_Old_match-card.jpg",
-            "team_1": "Gunnersbury-W",
-            "team_2": "Upminster-W",
-            "status": "UPCOMING",
-            "event_name": "ECS-W England, Hornchurch, 2025",
-            "match_name": "Gunnersbury-W vs Upminster-W",
-            "match_id": 128341,
-            "startTime": "06:15:00 PM 14-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Czechia Women vs Gibraltar Women (ECI-W Czechia, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128850_5327_CZE-W_GIB-W_fc-web.jpg",
             "team_1": "Czechia Women",
@@ -210,6 +198,18 @@
             "match_name": "Czechia Women vs Gibraltar Women",
             "match_id": 128850,
             "startTime": "06:45:00 PM 14-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Karnavati Kings vs Heritage City Titans (Cricket Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/127777_5267_HCT_KVK_fc-web.jpg",
+            "team_1": "Karnavati Kings",
+            "team_2": "Heritage City Titans",
+            "status": "UPCOMING",
+            "event_name": "Cricket Premier League, 2025",
+            "match_name": "Karnavati Kings vs Heritage City Titans",
+            "match_id": 127782,
+            "startTime": "07:00:00 PM 14-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -237,15 +237,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Karnavati Kings vs Heritage City Titans (Cricket Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/127777_5267_HCT_KVK_fc-web.jpg",
-            "team_1": "Karnavati Kings",
-            "team_2": "Heritage City Titans",
+            "title": "Trichy Grand Cholas vs IDream Tiruppur Tamizhans (Shriram Capital TNPL)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Old_match_card.jpg",
+            "team_1": "Trichy Grand Cholas",
+            "team_2": "IDream Tiruppur Tamizhans",
             "status": "UPCOMING",
-            "event_name": "Cricket Premier League, 2025",
-            "match_name": "Karnavati Kings vs Heritage City Titans",
-            "match_id": 127782,
-            "startTime": "07:00:00 PM 14-06-2025"
+            "event_name": "Shriram Capital TNPL",
+            "match_name": "Trichy Grand Cholas vs IDream Tiruppur Tamizhans",
+            "match_id": 126539,
+            "startTime": "03:15:00 PM 15-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -306,18 +306,6 @@
             "match_name": "Leatherback Strikers vs Samp Army Cocrico Cavaliers",
             "match_id": 128214,
             "startTime": "09:30:00 PM 14-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trichy Grand Cholas vs IDream Tiruppur Tamizhans (Shriram Capital TNPL)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Old_match_card.jpg",
-            "team_1": "Trichy Grand Cholas",
-            "team_2": "IDream Tiruppur Tamizhans",
-            "status": "UPCOMING",
-            "event_name": "Shriram Capital TNPL",
-            "match_name": "Trichy Grand Cholas vs IDream Tiruppur Tamizhans",
-            "match_id": 126539,
-            "startTime": "03:15:00 PM 15-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -474,6 +462,18 @@
             "match_name": "Irises Cricket Club vs Black Eagle SAP",
             "match_id": 128708,
             "startTime": "12:30:00 PM 15-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gibraltar Women vs Croatia Women (ECI-W Czechia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128852_5327_GIB-W_CRO-W_fc-web.jpg",
+            "team_1": "Gibraltar Women",
+            "team_2": "Croatia Women",
+            "status": "UPCOMING",
+            "event_name": "ECI-W Czechia, 2025",
+            "match_name": "Gibraltar Women vs Croatia Women",
+            "match_id": 128852,
+            "startTime": "12:45:00 PM 15-06-2025"
         }
     ]
 }
