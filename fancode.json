@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:27:05 AM 15-06-2025",
+    "last update time": "12:37:11 AM 15-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -75,20 +75,6 @@
         },
         {
             "event_category": "Football",
-            "title": "France U21 vs Georgia U21 (UEFA European Under-21 Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123324_5106_FR-U21_GE-U21_fc-web.jpg",
-            "team_1": "France U21",
-            "team_2": "Georgia U21",
-            "status": "LIVE",
-            "event_name": "UEFA European Under-21 Championship",
-            "match_name": "France U21 vs Georgia U21",
-            "match_id": 123324,
-            "startTime": "12:30:00 AM 15-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/kxpaTpb5Q9KlKEUAJUfVdQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123324_english_hls_24463ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Portugal U21 vs Poland U21 (UEFA European Under-21 Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/123323_5106_PT-U21_POL-U21_fc-web.jpg",
             "team_1": "Portugal U21",
@@ -114,6 +100,20 @@
             "startTime": "12:30:00 AM 15-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/vSygncjORPGC4sTGkLZT_g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123322_english_hls_29748ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "France U21 vs Georgia U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123324_5106_FR-U21_GE-U21_fc-web.jpg",
+            "team_1": "France U21",
+            "team_2": "Georgia U21",
+            "status": "LIVE",
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "France U21 vs Georgia U21",
+            "match_id": 123324,
+            "startTime": "12:30:00 AM 15-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/kxpaTpb5Q9KlKEUAJUfVdQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123324_english_hls_24463ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -468,6 +468,18 @@
             "match_name": "Croatia Women vs Gibraltar Women",
             "match_id": 128855,
             "startTime": "06:45:00 PM 15-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bhopal Leopards vs Bundelkhand Bulls (Madhya Pradesh League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128440_5300_BL_BBS_fc-web.jpg",
+            "team_1": "Bhopal Leopards",
+            "team_2": "Bundelkhand Bulls",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League, 2025",
+            "match_name": "Bhopal Leopards vs Bundelkhand Bulls",
+            "match_id": 128440,
+            "startTime": "07:30:00 PM 15-06-2025"
         }
     ]
 }
