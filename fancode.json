@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:21:56 AM 18-06-2025",
+    "last update time": "07:32:02 AM 18-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "07:30:00 AM 18-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/a5DOPyEIQxKX54E8eVM5Nw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128781_english_hls_42755ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs San Diego Padres (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128370_CASACARDS_APP.png",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "San Diego Padres",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs San Diego Padres",
+            "match_id": 128370,
+            "startTime": "07:40:00 AM 18-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/128370_english_hls_53326ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128370_english_hls_53326ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -412,18 +426,6 @@
             "match_name": "Bess Motors Blue Devils vs Chicago Steelpan Players",
             "match_id": 128227,
             "startTime": "02:30:00 AM 19-06-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs San Diego Padres (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128370_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "San Diego Padres",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs San Diego Padres",
-            "match_id": 128370,
-            "startTime": "07:40:00 AM 18-06-2025"
         }
     ]
 }
