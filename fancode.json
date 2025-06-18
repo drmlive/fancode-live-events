@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:56:53 AM 19-06-2025",
+    "last update time": "03:07:00 AM 19-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "01:40:00 AM 19-06-2025",
             "dai_url": "https://dai.fancode.com/primary/128371_english_hls_84559ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128371_english_hls_84559ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "England U21 vs Germany U21 (UEFA European Under-21 Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123336_5106_EN-U21_GER-U21_fc-web_1750059167515.jpg",
-            "team_1": "England U21",
-            "team_2": "Germany U21",
-            "status": "LIVE",
-            "event_name": "UEFA European Under-21 Championship",
-            "match_name": "England U21 vs Germany U21",
-            "match_id": 123336,
-            "startTime": "12:30:00 AM 19-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/cyLbFfHHSR-w3iasKxIXwQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123336_english_hls_33798ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -454,6 +440,18 @@
             "match_name": "Main Feed - Day 1",
             "match_id": 128984,
             "startTime": "05:00:00 PM 19-06-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 1 vs TPC River Highlands (Travelers Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_old_02_1750131699712.jpg",
+            "team_1": "Featured Groups - Day 1",
+            "team_2": "TPC River Highlands",
+            "status": "UPCOMING",
+            "event_name": "Travelers Championship",
+            "match_name": "Featured Groups - Day 1",
+            "match_id": 128986,
+            "startTime": "05:45:00 PM 19-06-2025"
         }
     ]
 }
