@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:33:55 AM 20-06-2025",
+    "last update time": "12:44:04 AM 20-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -187,11 +187,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128702_5311_CAY_CAN_fc-web.jpg",
             "team_1": "Canada",
             "team_2": "Cayman Islands",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 World Cup Americas Regional Final",
             "match_name": "Canada vs Cayman Islands",
             "match_id": 128702,
-            "startTime": "01:00:00 AM 20-06-2025"
+            "startTime": "01:00:00 AM 20-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Xbb64f0pT6Kv00nr58046A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128702_english_hls_3775ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -327,18 +329,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Lux Shyam Kolkata Tigers Womens vs Rashmi Medinipur Wizards Womens (Bengal Women's Pro T20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128098_5283_LSKT-W_RMW-W_fc-Web.jpg",
-            "team_1": "Lux Shyam Kolkata Tigers Womens",
-            "team_2": "Rashmi Medinipur Wizards Womens",
-            "status": "UPCOMING",
-            "event_name": "Bengal Women's Pro T20 League, 2025",
-            "match_name": "Lux Shyam Kolkata Tigers Womens vs Rashmi Medinipur Wizards Womens",
-            "match_id": 128098,
-            "startTime": "01:30:00 PM 20-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Glamorgan vs Somerset (Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125950_5207_GLA_SOM_fc-Web.jpg",
             "team_1": "Glamorgan",
@@ -363,15 +353,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Prague Barbarians vs Bohemians (ECS Czechia, Premier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
-            "team_1": "Prague Barbarians",
-            "team_2": "Bohemians",
+            "title": "Lux Shyam Kolkata Tigers Womens vs Rashmi Medinipur Wizards Womens (Bengal Women's Pro T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128098_5283_LSKT-W_RMW-W_fc-Web.jpg",
+            "team_1": "Lux Shyam Kolkata Tigers Womens",
+            "team_2": "Rashmi Medinipur Wizards Womens",
             "status": "UPCOMING",
-            "event_name": "ECS Czechia, Premier, 2025",
-            "match_name": "Prague Barbarians vs Bohemians",
-            "match_id": 129193,
-            "startTime": "02:15:00 PM 20-06-2025"
+            "event_name": "Bengal Women's Pro T20 League, 2025",
+            "match_name": "Lux Shyam Kolkata Tigers Womens vs Rashmi Medinipur Wizards Womens",
+            "match_id": 128098,
+            "startTime": "01:30:00 PM 20-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -384,6 +374,18 @@
             "match_name": "Surrey vs Middlesex",
             "match_id": 125952,
             "startTime": "11:15:00 PM 20-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Prague Barbarians vs Bohemians (ECS Czechia, Premier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
+            "team_1": "Prague Barbarians",
+            "team_2": "Bohemians",
+            "status": "UPCOMING",
+            "event_name": "ECS Czechia, Premier, 2025",
+            "match_name": "Prague Barbarians vs Bohemians",
+            "match_id": 129193,
+            "startTime": "02:15:00 PM 20-06-2025"
         },
         {
             "event_category": "Cricket",
