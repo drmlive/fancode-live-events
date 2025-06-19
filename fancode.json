@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:08:59 PM 19-06-2025",
+    "last update time": "06:19:08 PM 19-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Pruthvi Panthers vs Ami Super Avengers (Baroda Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128678_5310_ASV_PTP_fc-Web.jpg",
-            "team_1": "Pruthvi Panthers",
-            "team_2": "Ami Super Avengers",
-            "status": "LIVE",
-            "event_name": "Baroda Premier League, 2025",
-            "match_name": "Pruthvi Panthers vs Ami Super Avengers",
-            "match_id": 128678,
-            "startTime": "02:45:00 PM 19-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/MAudA-W5SUu3nz86m0UttQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128678_english_hls_15599ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Brno vs Bohemians (ECS Czechia, Premier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
-            "team_1": "Brno",
-            "team_2": "Bohemians",
-            "status": "LIVE",
-            "event_name": "ECS Czechia, Premier, 2025",
-            "match_name": "Brno vs Bohemians",
-            "match_id": 129208,
-            "startTime": "04:15:00 PM 19-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/BVs3z1csQtOLwOMiBnFzzw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/129208_english_hls_65842ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Prague Tigers vs United CC (ECS Czechia, Premier, 2025)",
@@ -42,8 +14,8 @@
             "match_name": "Prague Tigers vs United CC",
             "match_id": 129190,
             "startTime": "06:15:00 PM 19-06-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/RT4uxz3CTzmmNf9bU0QHbg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129190_english_hls_84538ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -100,6 +72,34 @@
             "startTime": "06:00:00 PM 19-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/h2cJ8MLgSCm5nFbOibIM0g/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/129014_english_hls_17235ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pruthvi Panthers vs Ami Super Avengers (Baroda Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128678_5310_ASV_PTP_fc-Web.jpg",
+            "team_1": "Pruthvi Panthers",
+            "team_2": "Ami Super Avengers",
+            "status": "LIVE",
+            "event_name": "Baroda Premier League, 2025",
+            "match_name": "Pruthvi Panthers vs Ami Super Avengers",
+            "match_id": 128678,
+            "startTime": "02:45:00 PM 19-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/MAudA-W5SUu3nz86m0UttQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128678_english_hls_15599ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Brno vs Bohemians (ECS Czechia, Premier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
+            "team_1": "Brno",
+            "team_2": "Bohemians",
+            "status": "LIVE",
+            "event_name": "ECS Czechia, Premier, 2025",
+            "match_name": "Brno vs Bohemians",
+            "match_id": 129208,
+            "startTime": "04:15:00 PM 19-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/BVs3z1csQtOLwOMiBnFzzw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129208_english_hls_65842ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -460,6 +460,18 @@
             "match_name": "Anmol Kings Halar vs JMD Kutch Riders",
             "match_id": 128203,
             "startTime": "07:30:00 PM 20-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "A4 Power Strikers vs Pruthvi Panthers (Baroda Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128680_5310_APT_PTP_fc-Web.jpg",
+            "team_1": "A4 Power Strikers",
+            "team_2": "Pruthvi Panthers",
+            "status": "UPCOMING",
+            "event_name": "Baroda Premier League, 2025",
+            "match_name": "A4 Power Strikers vs Pruthvi Panthers",
+            "match_id": 128680,
+            "startTime": "02:45:00 PM 20-06-2025"
         }
     ]
 }
