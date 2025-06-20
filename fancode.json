@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:29:35 AM 20-06-2025",
+    "last update time": "09:39:47 AM 20-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
+            "team_1": "Bangladesh",
+            "team_2": "Sri Lanka",
+            "status": "LIVE",
+            "event_name": "Bangladesh tour of Sri Lanka, 2025",
+            "match_name": "Bangladesh vs Sri Lanka",
+            "match_id": 128426,
+            "startTime": "10:00:00 AM 17-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1750435787~acl=/*~id=67631476769313755673341481688972~hmac=c721e81904d53fd30eb828b12eb4694ae14e0b5ab487c39f2579c94655fa76a5"
+        },
         {
             "event_category": "Cricket",
             "title": "Avengers C.C vs Alpine S.C (Sikkim T20 League, 2025)",
@@ -58,18 +72,6 @@
             "startTime": "07:35:00 AM 20-06-2025",
             "dai_url": "https://dai.fancode.com/primary/128375_english_hls_27135ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128375_english_hls_27135ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
-            "team_1": "Bangladesh",
-            "team_2": "Sri Lanka",
-            "status": "PAUSED",
-            "event_name": "Bangladesh tour of Sri Lanka, 2025",
-            "match_name": "Bangladesh vs Sri Lanka",
-            "match_id": 128426,
-            "startTime": "10:00:00 AM 17-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -444,18 +446,6 @@
             "startTime": "11:00:00 AM 21-06-2025"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Autodromo Internazionale del Mugello (BREMBO GRAND PRIX OF ITALY)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Italy_GP_2025_Old_match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Autodromo Internazionale del Mugello",
-            "status": "UPCOMING",
-            "event_name": "BREMBO GRAND PRIX OF ITALY",
-            "match_name": "Day 1",
-            "match_id": 118572,
-            "startTime": "12:30:00 PM 20-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Prague Barbarians vs United CC (ECS Czechia, Premier, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
@@ -466,6 +456,18 @@
             "match_name": "Prague Barbarians vs United CC",
             "match_id": 129197,
             "startTime": "12:15:00 PM 21-06-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Autodromo Internazionale del Mugello (BREMBO GRAND PRIX OF ITALY)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Italy_GP_2025_Old_match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Autodromo Internazionale del Mugello",
+            "status": "UPCOMING",
+            "event_name": "BREMBO GRAND PRIX OF ITALY",
+            "match_name": "Day 1",
+            "match_id": 118572,
+            "startTime": "12:30:00 PM 20-06-2025"
         }
     ]
 }
