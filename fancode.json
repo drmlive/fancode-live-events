@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:08:46 AM 20-06-2025",
+    "last update time": "08:18:53 AM 20-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Avengers C.C vs Alpine S.C (Sikkim T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128717_5312_ASC_ACC_fc-web.jpg",
+            "team_1": "Avengers C.C",
+            "team_2": "Alpine S.C",
+            "status": "LIVE",
+            "event_name": "Sikkim T20 League, 2025",
+            "match_name": "Avengers C.C vs Alpine S.C",
+            "match_id": 128717,
+            "startTime": "08:30:00 AM 20-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/r8iWxw2VQwSCrd3WAoqlOg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128717_english_hls_39801ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Pondicherry Emerging XI vs Malaysia XI (Pondicherry Emerging XI tour of Malaysia, 2025)",
@@ -162,18 +176,6 @@
             "match_name": "West Indies Women vs South Africa Women",
             "match_id": 127547,
             "startTime": "11:30:00 PM 20-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Alpine S.C vs Avengers C.C (Sikkim T20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128717_5312_ASC_ACC_fc-web.jpg",
-            "team_1": "Alpine S.C",
-            "team_2": "Avengers C.C",
-            "status": "UPCOMING",
-            "event_name": "Sikkim T20 League, 2025",
-            "match_name": "Alpine S.C vs Avengers C.C",
-            "match_id": 128717,
-            "startTime": "08:30:00 AM 20-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -428,18 +430,6 @@
             "startTime": "01:00:00 PM 21-06-2025"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Autodromo Internazionale del Mugello (BREMBO GRAND PRIX OF ITALY)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Italy_GP_2025_Old_match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Autodromo Internazionale del Mugello",
-            "status": "UPCOMING",
-            "event_name": "BREMBO GRAND PRIX OF ITALY",
-            "match_name": "Day 1",
-            "match_id": 118572,
-            "startTime": "12:30:00 PM 20-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Chambal Ghariyals Women vs Bhopal Wolves Women (Madhya Pradesh Women's League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128839_5325_CGW_BWW_fc-web.jpg",
@@ -450,6 +440,18 @@
             "match_name": "Chambal Ghariyals Women vs Bhopal Wolves Women",
             "match_id": 128839,
             "startTime": "11:00:00 AM 21-06-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Autodromo Internazionale del Mugello (BREMBO GRAND PRIX OF ITALY)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Italy_GP_2025_Old_match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Autodromo Internazionale del Mugello",
+            "status": "UPCOMING",
+            "event_name": "BREMBO GRAND PRIX OF ITALY",
+            "match_name": "Day 1",
+            "match_id": 118572,
+            "startTime": "12:30:00 PM 20-06-2025"
         },
         {
             "event_category": "Golf",
