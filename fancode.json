@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:41:06 AM 21-06-2025",
+    "last update time": "01:51:11 AM 21-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Glamorgan vs Somerset (Vitality Blast T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125950_5207_GLA_SOM_fc-Web.jpg",
-            "team_1": "Glamorgan",
-            "team_2": "Somerset",
-            "status": "LIVE",
-            "event_name": "Vitality Blast T20, 2025",
-            "match_name": "Glamorgan vs Somerset",
-            "match_id": 125950,
-            "startTime": "11:00:00 PM 20-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/FyHXvJicRh2sdJSM3emlsA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/125950_english_hls_4665ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Durham vs Yorkshire (Vitality Blast T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125949_5207_DUR_YOR_fc-Web.jpg",
-            "team_1": "Durham",
-            "team_2": "Yorkshire",
-            "status": "LIVE",
-            "event_name": "Vitality Blast T20, 2025",
-            "match_name": "Durham vs Yorkshire",
-            "match_id": 125949,
-            "startTime": "11:00:00 PM 20-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Z0WzgWbGSDiM1z3wvn52yg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/125949_english_hls_69346ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Surrey vs Middlesex (Vitality Blast T20, 2025)",
@@ -184,6 +156,34 @@
             "startTime": "12:30:00 AM 21-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/bwxSrq6JQZ26eiMzj6Yg7w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128988_english_hls_20270ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Glamorgan vs Somerset (Vitality Blast T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125950_5207_GLA_SOM_fc-Web.jpg",
+            "team_1": "Glamorgan",
+            "team_2": "Somerset",
+            "status": "LIVE",
+            "event_name": "Vitality Blast T20, 2025",
+            "match_name": "Glamorgan vs Somerset",
+            "match_id": 125950,
+            "startTime": "11:00:00 PM 20-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/FyHXvJicRh2sdJSM3emlsA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125950_english_hls_4665ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Durham vs Yorkshire (Vitality Blast T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125949_5207_DUR_YOR_fc-Web.jpg",
+            "team_1": "Durham",
+            "team_2": "Yorkshire",
+            "status": "LIVE",
+            "event_name": "Vitality Blast T20, 2025",
+            "match_name": "Durham vs Yorkshire",
+            "match_id": 125949,
+            "startTime": "11:00:00 PM 20-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Z0WzgWbGSDiM1z3wvn52yg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125949_english_hls_69346ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -463,18 +463,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Machida Zelvia vs Kashima Antlers (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126257_4795_MZ_ANL_fc-web.jpg",
-            "team_1": "Machida Zelvia",
-            "team_2": "Kashima Antlers",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Machida Zelvia vs Kashima Antlers",
-            "match_id": 126257,
-            "startTime": "12:30:00 PM 21-06-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Portugal U21 vs Netherlands U21 (UEFA European Under-21 Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal-vs-Netherland_old.jpg",
             "team_1": "Portugal U21",
@@ -484,6 +472,18 @@
             "match_name": "Portugal U21 vs Netherlands U21",
             "match_id": 123337,
             "startTime": "09:30:00 PM 21-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Machida Zelvia vs Kashima Antlers (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126257_4795_MZ_ANL_fc-web.jpg",
+            "team_1": "Machida Zelvia",
+            "team_2": "Kashima Antlers",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Machida Zelvia vs Kashima Antlers",
+            "match_id": 126257,
+            "startTime": "12:30:00 PM 21-06-2025"
         }
     ]
 }
