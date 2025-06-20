@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:07:13 PM 20-06-2025",
+    "last update time": "08:17:21 PM 20-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -61,20 +61,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Brno vs United CC (ECS Czechia, Premier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
-            "team_1": "Brno",
-            "team_2": "United CC",
-            "status": "LIVE",
-            "event_name": "ECS Czechia, Premier, 2025",
-            "match_name": "Brno vs United CC",
-            "match_id": 129195,
-            "startTime": "06:15:00 PM 20-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/gKxLnDb7TXaNt5qkvHgAQw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/129195_english_hls_55431ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Diamond Dazzlers vs Alembic Warriors (Baroda Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128681_5310_DDZ_AWS_fc-Web.jpg",
             "team_1": "Diamond Dazzlers",
@@ -100,6 +86,20 @@
             "startTime": "07:30:00 PM 20-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/bRtOXKCrQXGe1KOGWGNUyg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128815_english_hls_24838ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bohemians vs Prague Tigers (ECS Czechia, Premier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
+            "team_1": "Bohemians",
+            "team_2": "Prague Tigers",
+            "status": "LIVE",
+            "event_name": "ECS Czechia, Premier, 2025",
+            "match_name": "Bohemians vs Prague Tigers",
+            "match_id": 129196,
+            "startTime": "08:30:00 PM 20-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Y4s3xnfTTjS6l3SzWYPEjA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129196_english_hls_26210ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -228,18 +228,6 @@
             "match_name": "West Indies Women vs South Africa Women",
             "match_id": 127547,
             "startTime": "11:30:00 PM 20-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bohemians vs Prague Tigers (ECS Czechia, Premier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
-            "team_1": "Bohemians",
-            "team_2": "Prague Tigers",
-            "status": "UPCOMING",
-            "event_name": "ECS Czechia, Premier, 2025",
-            "match_name": "Bohemians vs Prague Tigers",
-            "match_id": 129196,
-            "startTime": "08:30:00 PM 20-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -468,6 +456,18 @@
             "match_name": "Bohemians vs United CC",
             "match_id": 129199,
             "startTime": "04:15:00 PM 21-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Machida Zelvia vs Kashima Antlers (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126257_4795_MZ_ANL_fc-web.jpg",
+            "team_1": "Machida Zelvia",
+            "team_2": "Kashima Antlers",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Machida Zelvia vs Kashima Antlers",
+            "match_id": 126257,
+            "startTime": "12:30:00 PM 21-06-2025"
         }
     ]
 }
