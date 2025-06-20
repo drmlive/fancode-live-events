@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:22:02 AM 21-06-2025",
+    "last update time": "03:32:08 AM 21-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "YSSC vs Team TGS (KCC T20 Challengers B League Edition 3, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128654_CASACARDS_APP.png",
-            "team_1": "YSSC",
-            "team_2": "Team TGS",
-            "status": "LIVE",
-            "event_name": "KCC T20 Challengers B League Edition 3, 2025",
-            "match_name": "YSSC vs Team TGS",
-            "match_id": 128654,
-            "startTime": "01:00:00 AM 21-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LE6aMWBLSKKZArq1xkMHmg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128654_english_hls_66236ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Scarlet Ibis Scorchers vs Soca Kings (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
@@ -30,34 +16,6 @@
             "startTime": "02:30:00 AM 21-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/knafhdf-Qoe1ow46BsyaOw/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128233_english_hls_44563ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 2 vs TPC River Highlands (Travelers Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_old_02_1750131699712.jpg",
-            "team_1": "Main Feed - Day 2",
-            "team_2": "TPC River Highlands",
-            "status": "LIVE",
-            "event_name": "Travelers Championship",
-            "match_name": "Main Feed - Day 2",
-            "match_id": 128989,
-            "startTime": "05:30:00 PM 20-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/C4AywodPT9qVltaRA8k9gw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128989_english_hls_74783ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 2 vs TPC River Highlands (Travelers Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_old_01_1750131699716.jpg",
-            "team_1": "Featured Groups - Day 2",
-            "team_2": "TPC River Highlands",
-            "status": "LIVE",
-            "event_name": "Travelers Championship",
-            "match_name": "Featured Groups - Day 2",
-            "match_id": 128991,
-            "startTime": "07:45:00 PM 20-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/vpP44S0BRuq2FtlLzf_pPw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128991_english_hls_63756ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -470,6 +428,30 @@
             "match_name": "Denmark U21 vs France U21",
             "match_id": 123340,
             "startTime": "04:30:00 AM 22-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Germany U21 vs Italy U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_old.jpg",
+            "team_1": "Germany U21",
+            "team_2": "Italy U21",
+            "status": "UPCOMING",
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "Germany U21 vs Italy U21",
+            "match_id": 123339,
+            "startTime": "04:30:00 AM 22-06-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 2 vs Autodromo Internazionale del Mugello (BREMBO GRAND PRIX OF ITALY)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Italy_GP_2025_Old_match-card.jpg",
+            "team_1": "Day 2",
+            "team_2": "Autodromo Internazionale del Mugello",
+            "status": "UPCOMING",
+            "event_name": "BREMBO GRAND PRIX OF ITALY",
+            "match_name": "Day 2",
+            "match_id": 118575,
+            "startTime": "12:10:00 PM 21-06-2025"
         }
     ]
 }
