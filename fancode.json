@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:51:44 AM 21-06-2025",
+    "last update time": "03:01:49 AM 21-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "11:30:00 PM 20-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kYBgxg-fQOu83EhaEkWwvA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/127547_english_hls_86904ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hampshire vs Gloucestershire (Vitality Blast T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125956_5207_GLO_HAM_fc-Web.jpg",
-            "team_1": "Hampshire",
-            "team_2": "Gloucestershire",
-            "status": "LIVE",
-            "event_name": "Vitality Blast T20, 2025",
-            "match_name": "Hampshire vs Gloucestershire",
-            "match_id": 125956,
-            "startTime": "11:30:00 PM 20-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/F-kXooduSTe_n8ty4EYiBw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/125956_english_hls_44227ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -100,20 +86,6 @@
             "startTime": "08:00:00 PM 20-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/EB3iKx40TSykt03RwKCx5Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128990_english_hls_49437ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Chicago Cubs vs Seattle Mariners (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128376_CASACARDS_APP.png",
-            "team_1": "Chicago Cubs",
-            "team_2": "Seattle Mariners",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Chicago Cubs vs Seattle Mariners",
-            "match_id": 128376,
-            "startTime": "11:50:00 PM 20-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/128376_english_hls_17759ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128376_english_hls_17759ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -478,6 +450,30 @@
             "match_name": "TBC vs TBC",
             "match_id": 128235,
             "startTime": "12:00:00 AM 22-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Spain U21 vs England U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Spain-vs-England_old.jpg",
+            "team_1": "Spain U21",
+            "team_2": "England U21",
+            "status": "UPCOMING",
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "Spain U21 vs England U21",
+            "match_id": 123338,
+            "startTime": "12:30:00 AM 22-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cayman Islands vs Bermuda (ICC Men's T20 World Cup Americas Regional Final)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128704_5311_CAY_BER_fc-web.jpg",
+            "team_1": "Cayman Islands",
+            "team_2": "Bermuda",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 World Cup Americas Regional Final",
+            "match_name": "Cayman Islands vs Bermuda",
+            "match_id": 128704,
+            "startTime": "01:00:00 AM 22-06-2025"
         }
     ]
 }
