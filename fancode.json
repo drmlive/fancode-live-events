@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:05:39 PM 20-06-2025",
+    "last update time": "06:15:48 PM 20-06-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -56,8 +56,8 @@
             "match_name": "Brno vs United CC",
             "match_id": 129195,
             "startTime": "06:15:00 PM 20-06-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/gKxLnDb7TXaNt5qkvHgAQw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129195_english_hls_55431ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -413,18 +413,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Prague CC vs Brno (ECS Czechia, Premier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
-            "team_1": "Prague CC",
-            "team_2": "Brno",
-            "status": "UPCOMING",
-            "event_name": "ECS Czechia, Premier, 2025",
-            "match_name": "Prague CC vs Brno",
-            "match_id": 129198,
-            "startTime": "02:15:00 PM 21-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Lyca Kovai Kings vs Nellai Royal Kings (Shriram Capital TNPL)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Old_match_card.jpg",
             "team_1": "Lyca Kovai Kings",
@@ -434,6 +422,18 @@
             "match_name": "Lyca Kovai Kings vs Nellai Royal Kings",
             "match_id": 126545,
             "startTime": "07:15:00 PM 21-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Prague CC vs Brno (ECS Czechia, Premier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
+            "team_1": "Prague CC",
+            "team_2": "Brno",
+            "status": "UPCOMING",
+            "event_name": "ECS Czechia, Premier, 2025",
+            "match_name": "Prague CC vs Brno",
+            "match_id": 129198,
+            "startTime": "02:15:00 PM 21-06-2025"
         },
         {
             "event_category": "Cricket",
