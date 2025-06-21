@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:18:43 AM 22-06-2025",
+    "last update time": "02:28:52 AM 22-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "01:00:00 AM 22-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/OKmGAm1OSrqZ2bu11qSZvA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128704_english_hls_17360ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Spain U21 vs England U21 (UEFA European Under-21 Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Spain-vs-England_old.jpg",
-            "team_1": "Spain U21",
-            "team_2": "England U21",
-            "status": "LIVE",
-            "event_name": "UEFA European Under-21 Championship",
-            "match_name": "Spain U21 vs England U21",
-            "match_id": 123338,
-            "startTime": "12:30:00 AM 22-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8zjzXZGuShito1ABUI2KBw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123338_english_hls_87275ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -158,18 +144,18 @@
             "adfree_url": "https://dai.fancode.com/primary/128399_english_hls_35917ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Lexus vs Thunder Cats - B (KCC T20 Challengers B League Edition 3, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128655_CASACARDS_APP.png",
-            "team_1": "Lexus",
-            "team_2": "Thunder Cats - B",
+            "event_category": "Football",
+            "title": "Spain U21 vs England U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Spain-vs-England_old.jpg",
+            "team_1": "Spain U21",
+            "team_2": "England U21",
             "status": "LIVE",
-            "event_name": "KCC T20 Challengers B League Edition 3, 2025",
-            "match_name": "Lexus vs Thunder Cats - B",
-            "match_id": 128655,
-            "startTime": "11:00:00 PM 21-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/rwau4MmURmWeX64VGV70ng/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128655_english_hls_15839ta-di_h264/index.m3u8"
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "Spain U21 vs England U21",
+            "match_id": 123338,
+            "startTime": "12:30:00 AM 22-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/8zjzXZGuShito1ABUI2KBw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123338_english_hls_87275ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -436,18 +422,6 @@
             "startTime": "09:30:00 PM 22-06-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Gamba Osaka vs FC Tokyo (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126259_4795_OSK_TKY_fc-web.jpg",
-            "team_1": "Gamba Osaka",
-            "team_2": "FC Tokyo",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Gamba Osaka vs FC Tokyo",
-            "match_id": 126259,
-            "startTime": "03:00:00 PM 22-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Team TGS vs Phoenix Cricketers (KCC T20 Challengers B League Edition 3, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/128656_CASACARDS_APP.png",
@@ -458,6 +432,18 @@
             "match_name": "Team TGS vs Phoenix Cricketers",
             "match_id": 128656,
             "startTime": "11:00:00 PM 22-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Gamba Osaka vs FC Tokyo (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126259_4795_OSK_TKY_fc-web.jpg",
+            "team_1": "Gamba Osaka",
+            "team_2": "FC Tokyo",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Gamba Osaka vs FC Tokyo",
+            "match_id": 126259,
+            "startTime": "03:00:00 PM 22-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -482,6 +468,18 @@
             "match_name": "Germany U21 vs Italy U21",
             "match_id": 123339,
             "startTime": "12:30:00 AM 23-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bermuda vs Canada (ICC Men's T20 World Cup Americas Regional Final)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128706_5311_BER_CAN_fc-web.jpg",
+            "team_1": "Bermuda",
+            "team_2": "Canada",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 World Cup Americas Regional Final",
+            "match_name": "Bermuda vs Canada",
+            "match_id": 128706,
+            "startTime": "01:00:00 AM 23-06-2025"
         }
     ]
 }
