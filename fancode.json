@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:25:44 AM 21-06-2025",
+    "last update time": "09:35:54 AM 21-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
+            "team_1": "Bangladesh",
+            "team_2": "Sri Lanka",
+            "status": "LIVE",
+            "event_name": "Bangladesh tour of Sri Lanka, 2025",
+            "match_name": "Bangladesh vs Sri Lanka",
+            "match_id": 128426,
+            "startTime": "10:00:00 AM 17-06-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
         {
             "event_category": "Cricket",
             "title": "Alpine S.C vs Pakyong XI (Sikkim T20 League, 2025)",
@@ -30,18 +44,6 @@
             "startTime": "09:00:00 AM 21-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/cCs_Af4EQrip5rjzM3sMQg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128099_english_hls_67185ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card.png",
-            "team_1": "Bangladesh",
-            "team_2": "Sri Lanka",
-            "status": "PAUSED",
-            "event_name": "Bangladesh tour of Sri Lanka, 2025",
-            "match_name": "Bangladesh vs Sri Lanka",
-            "match_id": 128426,
-            "startTime": "10:00:00 AM 17-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -272,18 +274,6 @@
             "startTime": "09:30:00 PM 21-06-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Portugal U21 vs Netherlands U21 (UEFA European Under-21 Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal-vs-Netherland_old_1750474818455.jpg",
-            "team_1": "Portugal U21",
-            "team_2": "Netherlands U21",
-            "status": "UPCOMING",
-            "event_name": "UEFA European Under-21 Championship",
-            "match_name": "Portugal U21 vs Netherlands U21",
-            "match_id": 123337,
-            "startTime": "09:30:00 PM 21-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Thunder Cats - B vs Lexus (KCC T20 Challengers B League Edition 3, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/128655_CASACARDS_APP.png",
@@ -294,6 +284,18 @@
             "match_name": "Thunder Cats - B vs Lexus",
             "match_id": 128655,
             "startTime": "11:00:00 PM 21-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Portugal U21 vs Netherlands U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal-vs-Netherland_old_1750474818455.jpg",
+            "team_1": "Portugal U21",
+            "team_2": "Netherlands U21",
+            "status": "UPCOMING",
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "Portugal U21 vs Netherlands U21",
+            "match_id": 123337,
+            "startTime": "09:30:00 PM 21-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -416,18 +418,6 @@
             "startTime": "01:00:00 PM 22-06-2025"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs Autodromo Internazionale del Mugello (BREMBO GRAND PRIX OF ITALY)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Italy_GP_2025_Old_match-card.jpg",
-            "team_1": "Day 2",
-            "team_2": "Autodromo Internazionale del Mugello",
-            "status": "UPCOMING",
-            "event_name": "BREMBO GRAND PRIX OF ITALY",
-            "match_name": "Day 2",
-            "match_id": 118575,
-            "startTime": "12:10:00 PM 21-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (ECS Czechia, Premier, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
@@ -452,16 +442,28 @@
             "startTime": "03:15:00 PM 22-06-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 3 vs TPC River Highlands (Travelers Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_old_01_1750131699716.jpg",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "TPC River Highlands",
+            "event_category": "MotoGP",
+            "title": "Day 2 vs Autodromo Internazionale del Mugello (BREMBO GRAND PRIX OF ITALY)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Italy_GP_2025_Old_match-card.jpg",
+            "team_1": "Day 2",
+            "team_2": "Autodromo Internazionale del Mugello",
             "status": "UPCOMING",
-            "event_name": "Travelers Championship",
-            "match_name": "Main Feed - Day 3",
-            "match_id": 128994,
-            "startTime": "05:30:00 PM 21-06-2025"
+            "event_name": "BREMBO GRAND PRIX OF ITALY",
+            "match_name": "Day 2",
+            "match_id": 118575,
+            "startTime": "12:10:00 PM 21-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Black Eagles vs Avengers C.C (Sikkim T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128722_5312_BES_ACC_fc-web.jpg",
+            "team_1": "Black Eagles",
+            "team_2": "Avengers C.C",
+            "status": "UPCOMING",
+            "event_name": "Sikkim T20 League, 2025",
+            "match_name": "Black Eagles vs Avengers C.C",
+            "match_id": 128722,
+            "startTime": "12:30:00 PM 22-06-2025"
         }
     ]
 }
