@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:47:40 AM 22-06-2025",
+    "last update time": "12:57:47 AM 22-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -46,20 +46,6 @@
             "adfree_url": "https://dai.fancode.com/primary/128235_english_hls_28354ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Spain U21 vs England U21 (UEFA European Under-21 Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Spain-vs-England_old.jpg",
-            "team_1": "Spain U21",
-            "team_2": "England U21",
-            "status": "LIVE",
-            "event_name": "UEFA European Under-21 Championship",
-            "match_name": "Spain U21 vs England U21",
-            "match_id": 123338,
-            "startTime": "12:30:00 AM 22-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8zjzXZGuShito1ABUI2KBw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123338_english_hls_87275ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Cayman Islands vs Bermuda (ICC Men's T20 World Cup Americas Regional Final)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128704_5311_CAY_BER_fc-web.jpg",
@@ -72,6 +58,20 @@
             "startTime": "01:00:00 AM 22-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/OKmGAm1OSrqZ2bu11qSZvA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128704_english_hls_17360ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Spain U21 vs England U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Spain-vs-England_old.jpg",
+            "team_1": "Spain U21",
+            "team_2": "England U21",
+            "status": "LIVE",
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "Spain U21 vs England U21",
+            "match_id": 123338,
+            "startTime": "12:30:00 AM 22-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/8zjzXZGuShito1ABUI2KBw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123338_english_hls_87275ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -425,18 +425,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Gamba Osaka vs FC Tokyo (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/126259_4795_OSK_TKY_fc-web.jpg",
-            "team_1": "Gamba Osaka",
-            "team_2": "FC Tokyo",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Gamba Osaka vs FC Tokyo",
-            "match_id": 126259,
-            "startTime": "03:00:00 PM 22-06-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Denmark U21 vs France U21 (UEFA European Under-21 Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Denmark-vs-France_old.jpg",
             "team_1": "Denmark U21",
@@ -446,6 +434,18 @@
             "match_name": "Denmark U21 vs France U21",
             "match_id": 123340,
             "startTime": "09:30:00 PM 22-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Gamba Osaka vs FC Tokyo (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126259_4795_OSK_TKY_fc-web.jpg",
+            "team_1": "Gamba Osaka",
+            "team_2": "FC Tokyo",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Gamba Osaka vs FC Tokyo",
+            "match_id": 126259,
+            "startTime": "03:00:00 PM 22-06-2025"
         },
         {
             "event_category": "Cricket",
