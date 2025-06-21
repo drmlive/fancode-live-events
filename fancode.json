@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:36:50 PM 21-06-2025",
+    "last update time": "11:46:58 PM 21-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "11:00:00 PM 21-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/rwau4MmURmWeX64VGV70ng/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128655_english_hls_15839ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chicago Steelpan Players vs Soca Kings (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128219_5288_SPK_SCK_fc-Web.jpg",
+            "team_1": "Chicago Steelpan Players",
+            "team_2": "Soca Kings",
+            "status": "LIVE",
+            "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "match_name": "Chicago Steelpan Players vs Soca Kings",
+            "match_id": 128235,
+            "startTime": "12:00:00 AM 22-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/lz2m7PAjSsGibNurRAh9wQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128235_english_hls_28354ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -130,20 +144,6 @@
             "adfree_url": "https://dai.fancode.com/primary/128993_english_hls_98585ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Rewa Jaguars vs Indore Pink Panthers (Madhya Pradesh League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128451_5300_RW_IPP_fc-web.jpg",
-            "team_1": "Rewa Jaguars",
-            "team_2": "Indore Pink Panthers",
-            "status": "LIVE",
-            "event_name": "Madhya Pradesh League, 2025",
-            "match_name": "Rewa Jaguars vs Indore Pink Panthers",
-            "match_id": 128451,
-            "startTime": "07:30:00 PM 21-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/NezgdA6XQpWedr5uVpn9Uw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128451_english_hls_32055ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Portugal U21 vs Netherlands U21 (UEFA European Under-21 Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal-vs-Netherland_old_1750474818455.jpg",
@@ -168,18 +168,6 @@
             "match_name": "Murshidabad Kings vs Rashmi Medinipur Wizards",
             "match_id": 128071,
             "startTime": "01:00:00 PM 22-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chicago Steelpan Players vs Soca Kings (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128219_5288_SPK_SCK_fc-Web.jpg",
-            "team_1": "Chicago Steelpan Players",
-            "team_2": "Soca Kings",
-            "status": "UPCOMING",
-            "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-            "match_name": "Chicago Steelpan Players vs Soca Kings",
-            "match_id": 128235,
-            "startTime": "12:00:00 AM 22-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -456,6 +444,30 @@
             "match_name": "Toronto Blue Jays vs Chicago White Sox",
             "match_id": 128379,
             "startTime": "12:37:00 AM 22-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Dream11 Trinidad T10 Blast, 7th Edition, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 128236,
+            "startTime": "09:00:00 PM 22-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Gamba Osaka vs FC Tokyo (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126259_4795_OSK_TKY_fc-web.jpg",
+            "team_1": "Gamba Osaka",
+            "team_2": "FC Tokyo",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Gamba Osaka vs FC Tokyo",
+            "match_id": 126259,
+            "startTime": "03:00:00 PM 22-06-2025"
         }
     ]
 }
