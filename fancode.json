@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:49:38 PM 22-06-2025",
+    "last update time": "06:59:47 PM 22-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,20 +18,6 @@
             "adfree_url": "https://dai.fancode.com/primary/126546_english_hls_17547ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Race Day vs Autodromo Internazionale del Mugello (BREMBO GRAND PRIX OF ITALY)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Italy_GP_2025_Old_match-card.jpg",
-            "team_1": "Race Day",
-            "team_2": "Autodromo Internazionale del Mugello",
-            "status": "LIVE",
-            "event_name": "BREMBO GRAND PRIX OF ITALY",
-            "match_name": "Race Day",
-            "match_id": 118576,
-            "startTime": "02:30:00 PM 22-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/J8XBLx-LT8KnXLn5fgzNyg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/118576_english_hls_66044ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Adamas Howrah Warriors vs Shrachi Rarh Tigers (Bengal Pro T20 league, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128072_5282_AHW_SRT_fc-Web.jpg",
@@ -44,6 +30,20 @@
             "startTime": "07:00:00 PM 22-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/o-iTKhPtS-iv_3i5WFijsA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128072_english_hls_27741ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Siechem Madurai Panthers vs IDream Tiruppur Tamizhans (Shriram Capital TNPL)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Madurai_v_Tiruppur_Old_match_card.jpg",
+            "team_1": "Siechem Madurai Panthers",
+            "team_2": "IDream Tiruppur Tamizhans",
+            "status": "LIVE",
+            "event_name": "Shriram Capital TNPL",
+            "match_name": "Siechem Madurai Panthers vs IDream Tiruppur Tamizhans",
+            "match_id": 126547,
+            "startTime": "07:15:00 PM 22-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/1BNehTbdSVyYSbtwDki_6A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/126547_english_hls_24287ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -131,18 +131,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Siechem Madurai Panthers vs IDream Tiruppur Tamizhans (Shriram Capital TNPL)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Madurai_v_Tiruppur_Old_match_card.jpg",
-            "team_1": "Siechem Madurai Panthers",
-            "team_2": "IDream Tiruppur Tamizhans",
-            "status": "UPCOMING",
-            "event_name": "Shriram Capital TNPL",
-            "match_name": "Siechem Madurai Panthers vs IDream Tiruppur Tamizhans",
-            "match_id": 126547,
-            "startTime": "07:15:00 PM 22-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies Women vs South Africa Women (South Africa Women tour of West Indies, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women-tour-of-West-Indies,-2025-kv-old-match-card_1750236997450.png",
             "team_1": "West Indies Women",
@@ -179,18 +167,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Murshidabad Kings vs Lux Shyam Kolkata Tigers (Bengal Pro T20 league, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128073_5282_MK_LSKT_fc-Web.jpg",
-            "team_1": "Murshidabad Kings",
-            "team_2": "Lux Shyam Kolkata Tigers",
-            "status": "UPCOMING",
-            "event_name": "Bengal Pro T20 league, 2025",
-            "match_name": "Murshidabad Kings vs Lux Shyam Kolkata Tigers",
-            "match_id": 128073,
-            "startTime": "01:00:00 PM 23-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bahamas vs Cayman Islands (ICC Men's T20 World Cup Americas Regional Final)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128705_5311_BAH_CAY_fc-web.jpg",
             "team_1": "Bahamas",
@@ -200,6 +176,18 @@
             "match_name": "Bahamas vs Cayman Islands",
             "match_id": 128705,
             "startTime": "08:00:00 PM 22-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Murshidabad Kings vs Lux Shyam Kolkata Tigers (Bengal Pro T20 league, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128073_5282_MK_LSKT_fc-Web.jpg",
+            "team_1": "Murshidabad Kings",
+            "team_2": "Lux Shyam Kolkata Tigers",
+            "status": "UPCOMING",
+            "event_name": "Bengal Pro T20 league, 2025",
+            "match_name": "Murshidabad Kings vs Lux Shyam Kolkata Tigers",
+            "match_id": 128073,
+            "startTime": "01:00:00 PM 23-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -335,18 +323,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia vs Assam (Assam tour of Namibia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Assam-tour-of-Namibia_old.jpg",
-            "team_1": "Namibia",
-            "team_2": "Assam",
-            "status": "UPCOMING",
-            "event_name": "Assam tour of Namibia, 2025",
-            "match_name": "Namibia vs Assam",
-            "match_id": 128785,
-            "startTime": "01:00:00 PM 23-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Shrachi Rarh Tigers vs Servotech Siliguri Strikers (Bengal Pro T20 league, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128074_5282_SRT_SSS_fc-Web.jpg",
             "team_1": "Shrachi Rarh Tigers",
@@ -359,15 +335,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Sobisco Smashers Malda Womens vs Harbour Diamonds Womens (Bengal Women's Pro T20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128104_5283_SSM-W_HD-W_fc-Web.jpg",
-            "team_1": "Sobisco Smashers Malda Womens",
-            "team_2": "Harbour Diamonds Womens",
+            "title": "Namibia vs Assam (Assam tour of Namibia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Assam-tour-of-Namibia_old.jpg",
+            "team_1": "Namibia",
+            "team_2": "Assam",
             "status": "UPCOMING",
-            "event_name": "Bengal Women's Pro T20 League, 2025",
-            "match_name": "Sobisco Smashers Malda Womens vs Harbour Diamonds Womens",
-            "match_id": 128104,
-            "startTime": "01:30:00 PM 23-06-2025"
+            "event_name": "Assam tour of Namibia, 2025",
+            "match_name": "Namibia vs Assam",
+            "match_id": 128785,
+            "startTime": "01:00:00 PM 23-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -380,6 +356,18 @@
             "match_name": "Chepauk Super Gillies vs Trichy Grand Cholas",
             "match_id": 126548,
             "startTime": "07:15:00 PM 23-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sobisco Smashers Malda Womens vs Harbour Diamonds Womens (Bengal Women's Pro T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128104_5283_SSM-W_HD-W_fc-Web.jpg",
+            "team_1": "Sobisco Smashers Malda Womens",
+            "team_2": "Harbour Diamonds Womens",
+            "status": "UPCOMING",
+            "event_name": "Bengal Women's Pro T20 League, 2025",
+            "match_name": "Sobisco Smashers Malda Womens vs Harbour Diamonds Womens",
+            "match_id": 128104,
+            "startTime": "01:30:00 PM 23-06-2025"
         },
         {
             "event_category": "Cricket",
