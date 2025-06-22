@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:42:56 PM 22-06-2025",
+    "last update time": "11:53:02 PM 22-06-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Denmark U21 vs France U21 (UEFA European Under-21 Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Denmark-vs-France_old.jpg",
-            "team_1": "Denmark U21",
-            "team_2": "France U21",
-            "status": "LIVE",
-            "event_name": "UEFA European Under-21 Championship",
-            "match_name": "Denmark U21 vs France U21",
-            "match_id": 123340,
-            "startTime": "09:30:00 PM 22-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/MefF2W5MTOqrrmGknUECAw/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123340_english_hls_87515ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Bundelkhand Bulls vs Chambal Ghariyals (Madhya Pradesh League, 2025)",
@@ -144,6 +130,32 @@
             "adfree_url": "https://dai.fancode.com/primary/128236_english_hls_10408ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Denmark U21 vs France U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Denmark-vs-France_old.jpg",
+            "team_1": "Denmark U21",
+            "team_2": "France U21",
+            "status": "LIVE",
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "Denmark U21 vs France U21",
+            "match_id": 123340,
+            "startTime": "09:30:00 PM 22-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/MefF2W5MTOqrrmGknUECAw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123340_english_hls_87515ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Germany U21 vs Italy U21 (UEFA European Under-21 Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_old.jpg",
+            "team_1": "Germany U21",
+            "team_2": "Italy U21",
+            "status": "UPCOMING",
+            "event_name": "UEFA European Under-21 Championship",
+            "match_name": "Germany U21 vs Italy U21",
+            "match_id": 123339,
+            "startTime": "12:30:00 AM 23-06-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Murshidabad Kings vs Lux Shyam Kolkata Tigers (Bengal Pro T20 league, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128073_5282_MK_LSKT_fc-Web.jpg",
@@ -165,18 +177,6 @@
             "event_name": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
             "match_name": "Bess Motors Blue Devils vs Samp Army Cocrico Cavaliers",
             "match_id": 128237,
-            "startTime": "12:30:00 AM 23-06-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Germany U21 vs Italy U21 (UEFA European Under-21 Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_old.jpg",
-            "team_1": "Germany U21",
-            "team_2": "Italy U21",
-            "status": "UPCOMING",
-            "event_name": "UEFA European Under-21 Championship",
-            "match_name": "Germany U21 vs Italy U21",
-            "match_id": 123339,
             "startTime": "12:30:00 AM 23-06-2025"
         },
         {
@@ -385,18 +385,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pondicherry Emerging XI vs Malaysia XI (Pondicherry Emerging XI tour of Malaysia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Emerging-XI-tour-of-Malaysia,-2025-old-match-card.jpg",
-            "team_1": "Pondicherry Emerging XI",
-            "team_2": "Malaysia XI",
-            "status": "UPCOMING",
-            "event_name": "Pondicherry Emerging XI tour of Malaysia, 2025",
-            "match_name": "Pondicherry Emerging XI vs Malaysia XI",
-            "match_id": 128783,
-            "startTime": "07:30:00 AM 23-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Madhya Pradesh League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "TBC",
@@ -406,6 +394,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 128455,
             "startTime": "07:30:00 PM 23-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pondicherry Emerging XI vs Malaysia XI (Pondicherry Emerging XI tour of Malaysia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Emerging-XI-tour-of-Malaysia,-2025-old-match-card.jpg",
+            "team_1": "Pondicherry Emerging XI",
+            "team_2": "Malaysia XI",
+            "status": "UPCOMING",
+            "event_name": "Pondicherry Emerging XI tour of Malaysia, 2025",
+            "match_name": "Pondicherry Emerging XI vs Malaysia XI",
+            "match_id": 128783,
+            "startTime": "07:30:00 AM 23-06-2025"
         },
         {
             "event_category": "Cricket",
