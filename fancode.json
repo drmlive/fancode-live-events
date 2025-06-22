@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:13:34 AM 22-06-2025",
+    "last update time": "10:23:40 AM 22-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "09:00:00 AM 22-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/80lAVKOWQ1-WycK0dTQaGg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128101_english_hls_60111ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs Washington Nationals (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128380_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "Washington Nationals",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs Washington Nationals",
-            "match_id": 128380,
-            "startTime": "07:40:00 AM 22-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/128380_english_hls_25736ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128380_english_hls_25736ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -464,6 +450,18 @@
             "match_name": "Featured Groups - Day 4",
             "match_id": 129001,
             "startTime": "05:45:00 PM 22-06-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group - Day 4 vs TPC River Highlands (Travelers Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_old_02_1750131699712.jpg",
+            "team_1": "Marquee Group - Day 4",
+            "team_2": "TPC River Highlands",
+            "status": "UPCOMING",
+            "event_name": "Travelers Championship",
+            "match_name": "Marquee Group - Day 4",
+            "match_id": 129000,
+            "startTime": "06:00:00 PM 22-06-2025"
         }
     ]
 }
