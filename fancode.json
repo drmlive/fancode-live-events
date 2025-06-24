@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:46:49 PM 24-06-2025",
+    "last update time": "11:56:57 PM 24-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Ami Super Avengers vs Pruthvi Panthers (Baroda Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128689_5310_PTP_ASV_fc-Web.jpg",
-            "team_1": "Ami Super Avengers",
-            "team_2": "Pruthvi Panthers",
-            "status": "LIVE",
-            "event_name": "Baroda Premier League, 2025",
-            "match_name": "Ami Super Avengers vs Pruthvi Panthers",
-            "match_id": 128689,
-            "startTime": "06:45:00 PM 24-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/VgM-EF4ZSva0cc41J7HIOQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128689_english_hls_35965ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "West Indies Academy vs Sri Lanka Emerging (Sri Lanka Emerging tour of West Indies)",
@@ -70,8 +56,8 @@
             "match_name": "Whiptail Smashers vs Piton Strikers",
             "match_id": 129246,
             "startTime": "12:00:00 AM 25-06-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/RPKdNhEFSiCVql9DWCt-2A/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129246_english_hls_94797ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -420,6 +406,18 @@
             "match_name": "Blot Open de Bretagne",
             "match_id": 128857,
             "startTime": "03:25:00 PM 25-06-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Milwaukee Brewers vs Pittsburgh Pirates (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128408_CASACARDS_APP.png",
+            "team_1": "Milwaukee Brewers",
+            "team_2": "Pittsburgh Pirates",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Milwaukee Brewers vs Pittsburgh Pirates",
+            "match_id": 128408,
+            "startTime": "11:40:00 PM 25-06-2025"
         }
     ]
 }
