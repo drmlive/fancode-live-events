@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:38:48 PM 24-06-2025",
+    "last update time": "12:48:55 PM 24-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -95,15 +95,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Gymkhana Gladiators vs SKK Rapids (ECS Finland, 2025)",
+            "title": "SKK Rapids vs Gymkhana Gladiators (ECS Finland, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Finland-old.jpg",
-            "team_1": "Gymkhana Gladiators",
-            "team_2": "SKK Rapids",
+            "team_1": "SKK Rapids",
+            "team_2": "Gymkhana Gladiators",
             "status": "UPCOMING",
             "event_name": "ECS Finland, 2025",
-            "match_name": "Gymkhana Gladiators vs SKK Rapids",
+            "match_name": "SKK Rapids vs Gymkhana Gladiators",
             "match_id": 129383,
             "startTime": "01:45:00 PM 24-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card-revised.png",
+            "team_1": "Sri Lanka",
+            "team_2": "Bangladesh",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh tour of Sri Lanka, 2025",
+            "match_name": "Sri Lanka vs Bangladesh",
+            "match_id": 128427,
+            "startTime": "10:00:00 AM 25-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -128,18 +140,6 @@
             "match_name": "Northern Knights vs North West Warriors",
             "match_id": 125120,
             "startTime": "03:15:00 PM 24-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-old-match-card-revised.png",
-            "team_1": "Sri Lanka",
-            "team_2": "Bangladesh",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh tour of Sri Lanka, 2025",
-            "match_name": "Sri Lanka vs Bangladesh",
-            "match_id": 128427,
-            "startTime": "10:00:00 AM 25-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -428,6 +428,18 @@
             "match_name": "Trichy Grand Cholas vs Siechem Madurai Panthers",
             "match_id": 126550,
             "startTime": "07:15:00 PM 25-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+            "team_1": "West Indies",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "event_name": "Australia Tour of West Indies, 2025",
+            "match_name": "West Indies vs Australia",
+            "match_id": 127550,
+            "startTime": "07:30:00 PM 25-06-2025"
         }
     ]
 }
