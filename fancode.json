@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:04:06 AM 26-06-2025",
+    "last update time": "12:14:22 AM 26-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -115,11 +115,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ger-vs-Fra_Old.jpg",
             "team_1": "Germany U21",
             "team_2": "France U21",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "UEFA European Under-21 Championship",
             "match_name": "Germany U21 vs France U21",
             "match_id": 123342,
-            "startTime": "12:30:00 AM 26-06-2025"
+            "startTime": "12:30:00 AM 26-06-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -327,18 +329,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "A4 Power Strikers vs Alembic Warriors (Baroda Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128674_5310_APT_AWS_fc-Web.jpg",
-            "team_1": "A4 Power Strikers",
-            "team_2": "Alembic Warriors",
-            "status": "UPCOMING",
-            "event_name": "Baroda Premier League, 2025",
-            "match_name": "A4 Power Strikers vs Alembic Warriors",
-            "match_id": 129839,
-            "startTime": "03:20:00 PM 26-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bamboo Blasters vs Amazonian Warriors (St. Lucia T10 Blast, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129249_5345_BMB_AMW_fc-Web.jpg",
             "team_1": "Bamboo Blasters",
@@ -348,6 +338,18 @@
             "match_name": "Bamboo Blasters vs Amazonian Warriors",
             "match_id": 129249,
             "startTime": "09:30:00 PM 26-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "A4 Power Strikers vs Alembic Warriors (Baroda Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128674_5310_APT_AWS_fc-Web.jpg",
+            "team_1": "A4 Power Strikers",
+            "team_2": "Alembic Warriors",
+            "status": "UPCOMING",
+            "event_name": "Baroda Premier League, 2025",
+            "match_name": "A4 Power Strikers vs Alembic Warriors",
+            "match_id": 129839,
+            "startTime": "03:20:00 PM 26-06-2025"
         },
         {
             "event_category": "Cricket",
