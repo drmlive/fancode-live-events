@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:54:51 AM 26-06-2025",
+    "last update time": "01:04:58 AM 26-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,20 +72,6 @@
             "startTime": "11:40:00 PM 25-06-2025",
             "dai_url": "https://dai.fancode.com/primary/128408_english_hls_39911ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128408_english_hls_39911ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "England U21 vs Netherlands U21 (UEFA European Under-21 Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ENG-vs-Neth_old.jpg",
-            "team_1": "England U21",
-            "team_2": "Netherlands U21",
-            "status": "LIVE",
-            "event_name": "UEFA European Under-21 Championship",
-            "match_name": "England U21 vs Netherlands U21",
-            "match_id": 123341,
-            "startTime": "09:30:00 PM 25-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/U7J0PZIrRsm9tcnFZkBalQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/123341_english_hls_16003ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -340,18 +326,6 @@
             "startTime": "01:40:00 PM 26-06-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "San Diego Padres vs Washington Nationals (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128409_CASACARDS_APP.png",
-            "team_1": "San Diego Padres",
-            "team_2": "Washington Nationals",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "San Diego Padres vs Washington Nationals",
-            "match_id": 128409,
-            "startTime": "01:40:00 AM 26-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Team TGS vs Thunder Cats - B (KCC T20 Challengers B League Edition 3, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/128660_CASACARDS_APP.png",
@@ -362,6 +336,18 @@
             "match_name": "Team TGS vs Thunder Cats - B",
             "match_id": 128660,
             "startTime": "10:00:00 PM 26-06-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Diego Padres vs Washington Nationals (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128409_CASACARDS_APP.png",
+            "team_1": "San Diego Padres",
+            "team_2": "Washington Nationals",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Diego Padres vs Washington Nationals",
+            "match_id": 128409,
+            "startTime": "01:40:00 AM 26-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -470,6 +456,18 @@
             "match_name": "Featured Groups - Day 1",
             "match_id": 129327,
             "startTime": "05:00:00 PM 26-06-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group - Day 1 vs Detroit, Michigan (Rocket Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
+            "team_1": "Marquee Group - Day 1",
+            "team_2": "Detroit, Michigan",
+            "status": "UPCOMING",
+            "event_name": "Rocket Classic",
+            "match_name": "Marquee Group - Day 1",
+            "match_id": 129326,
+            "startTime": "05:15:00 PM 26-06-2025"
         }
     ]
 }
