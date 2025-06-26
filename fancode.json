@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:45:31 PM 26-06-2025",
+    "last update time": "04:55:38 PM 26-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,6 +58,20 @@
             "startTime": "03:45:00 PM 26-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HU89wRdCRdm-Ds98yVah4Q/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/129394_english_hls_97095ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ami Super Avengers vs Alembic Warriors (Baroda Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128687_5310_AWS_ASV_fc-Web.jpg",
+            "team_1": "Ami Super Avengers",
+            "team_2": "Alembic Warriors",
+            "status": "LIVE",
+            "event_name": "Baroda Premier League, 2025",
+            "match_name": "Ami Super Avengers vs Alembic Warriors",
+            "match_id": 129840,
+            "startTime": "05:00:00 PM 26-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/XPKg45w_TZ68ZgPnAzgvcA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129840_english_hls_34624ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -164,20 +178,6 @@
             "match_name": "Nellai Royal Kings vs Dindigul Dragons",
             "match_id": 126551,
             "startTime": "07:15:00 PM 26-06-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Alembic Warriors vs Ami Super Avengers (Baroda Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128687_5310_AWS_ASV_fc-Web.jpg",
-            "team_1": "Alembic Warriors",
-            "team_2": "Ami Super Avengers",
-            "status": "LIVE",
-            "event_name": "Baroda Premier League, 2025",
-            "match_name": "Alembic Warriors vs Ami Super Avengers",
-            "match_id": 129840,
-            "startTime": "05:00:00 PM 26-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/XPKg45w_TZ68ZgPnAzgvcA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/129840_english_hls_34624ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -397,18 +397,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Baroda Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Baroda Premier League, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 128691,
-            "startTime": "02:45:00 PM 27-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Bengal Pro T20 league, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "TBC",
@@ -418,6 +406,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 128079,
             "startTime": "07:00:00 PM 27-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Baroda Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Baroda Premier League, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 128691,
+            "startTime": "02:45:00 PM 27-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -454,6 +454,18 @@
             "match_name": "Day 1",
             "match_id": 128865,
             "startTime": "06:30:00 PM 26-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (ECS Finland, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Finland-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "ECS Finland, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 129400,
+            "startTime": "07:45:00 PM 27-06-2025"
         }
     ]
 }
