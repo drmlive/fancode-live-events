@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:07:29 PM 27-06-2025",
+    "last update time": "07:17:39 PM 27-06-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+            "team_1": "Australia",
+            "team_2": "West Indies",
+            "status": "LIVE",
+            "event_name": "Australia Tour of West Indies, 2025",
+            "match_name": "Australia vs West Indies",
+            "match_id": 127550,
+            "startTime": "07:30:00 PM 25-06-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/zUgd2XlvTPOkIwRuIkvStg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/127550_english_hls_15563ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Murshidabad Kings vs Harbour Diamonds (Bengal Pro T20 league, 2025)",
@@ -144,20 +158,6 @@
             "adfree_url": "https://dai.fancode.com/primary/129353_english_hls_40389ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Qualifying vs Spielberg (F3 SPIELBERG 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Spielberg",
-            "status": "LIVE",
-            "event_name": "F3 SPIELBERG 2025",
-            "match_name": "Qualifying",
-            "match_id": 119093,
-            "startTime": "06:30:00 PM 27-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/119093_english_hls_90601adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119093_english_hls_90601adfreeta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 2 vs Green Eagle Golf Courses (Armundi German Masters)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
@@ -170,18 +170,6 @@
             "startTime": "06:30:00 PM 27-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/NNfvLKAFShae2Rv3UokTwQ/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128866_english_hls_11016ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-            "team_1": "Australia",
-            "team_2": "West Indies",
-            "status": "PAUSED",
-            "event_name": "Australia Tour of West Indies, 2025",
-            "match_name": "Australia vs West Indies",
-            "match_id": 127550,
-            "startTime": "07:30:00 PM 25-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -329,18 +317,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Black Eagles vs CAT (Sikkim T20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/128734_5312_BES_CAT_fc-web.jpg",
-            "team_1": "Black Eagles",
-            "team_2": "CAT",
-            "status": "UPCOMING",
-            "event_name": "Sikkim T20 League, 2025",
-            "match_name": "Black Eagles vs CAT",
-            "match_id": 128734,
-            "startTime": "12:30:00 PM 28-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Adamas Howrah Warriors vs TBC (Bengal Pro T20 league, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Adamas Howrah Warriors",
@@ -362,6 +338,18 @@
             "match_name": "England Women vs India Women",
             "match_id": 128740,
             "startTime": "07:00:00 PM 28-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Black Eagles vs CAT (Sikkim T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128734_5312_BES_CAT_fc-web.jpg",
+            "team_1": "Black Eagles",
+            "team_2": "CAT",
+            "status": "UPCOMING",
+            "event_name": "Sikkim T20 League, 2025",
+            "match_name": "Black Eagles vs CAT",
+            "match_id": 128734,
+            "startTime": "12:30:00 PM 28-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -429,11 +417,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
             "team_1": "Qualifying Session",
             "team_2": "Spielberg",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F2 SPIELBERG 2025",
             "match_name": "Qualifying Session",
             "match_id": 119050,
-            "startTime": "07:25:00 PM 27-06-2025"
+            "startTime": "07:25:00 PM 27-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/119050_english_hls_82154adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/119050_english_hls_82154adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Motorsports",
@@ -482,6 +472,18 @@
             "match_name": "Shimizu S-Pulse vs Kashiwa Reysol",
             "match_id": 126262,
             "startTime": "03:00:00 PM 28-06-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Nagoya Grampus (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126263_4795_HIR_NGY_fc-web.jpg",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Nagoya Grampus",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Sanfrecce Hiroshima vs Nagoya Grampus",
+            "match_id": 126263,
+            "startTime": "03:30:00 PM 28-06-2025"
         }
     ]
 }
