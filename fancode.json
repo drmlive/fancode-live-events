@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:35:55 PM 28-06-2025",
+    "last update time": "06:46:02 PM 28-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -172,20 +172,6 @@
             "adfree_url": "https://dai.fancode.com/primary/119051_english_hls_83587adfreeta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Session 4 - Race Off vs Lago Maggiore (E1 Lago Maggiore GP)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/_E1--Maggiore-GP-old-match-card.png",
-            "team_1": "Session 4 - Race Off",
-            "team_2": "Lago Maggiore",
-            "status": "LIVE",
-            "event_name": "E1 Lago Maggiore GP",
-            "match_name": "Session 4 - Race Off",
-            "match_id": 129416,
-            "startTime": "06:15:00 PM 28-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/SUMEAA7eQV6TpVT90lBP9Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/129416_english_hls_89177ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 3 vs Green Eagle Golf Courses (Armundi German Masters)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
@@ -200,14 +186,28 @@
             "adfree_url": "https://dai.fancode.com/primary/128867_english_hls_25861ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Formula 1",
+            "title": "Qualifying vs Austria (F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FORMULA-1-MSC-CRUISES-AUSTRIAN-GRAND-PRIX-2025-Old-Match-card.png",
+            "team_1": "Qualifying",
+            "team_2": "Austria",
+            "status": "LIVE",
+            "event_name": "F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025",
+            "match_name": "Qualifying",
+            "match_id": 118434,
+            "startTime": "07:30:00 PM 28-06-2025",
+            "dai_url": "https://d1l1cywglscget.cloudfront.net/out/v1/4f3ce10c57da46ea96d4112e3bf9a571/index.m3u8",
+            "adfree_url": "https://d1l1cywglscget.cloudfront.net/out/v1/4f3ce10c57da46ea96d4112e3bf9a571/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
-            "title": "England Women vs India Women (India Women tour of England, 2025)",
+            "title": "India Women vs England Women (India Women tour of England, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
-            "team_1": "England Women",
-            "team_2": "India Women",
+            "team_1": "India Women",
+            "team_2": "England Women",
             "status": "UPCOMING",
             "event_name": "India Women tour of England, 2025",
-            "match_name": "England Women vs India Women",
+            "match_name": "India Women vs England Women",
             "match_id": 128740,
             "startTime": "07:00:00 PM 28-06-2025"
         },
@@ -225,18 +225,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "IDream Tiruppur Tamizhans vs Nellai Royal Kings (Shriram Capital TNPL)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Tiruppur_v_Nellai_Old_match_card.jpg",
-            "team_1": "IDream Tiruppur Tamizhans",
-            "team_2": "Nellai Royal Kings",
-            "status": "UPCOMING",
-            "event_name": "Shriram Capital TNPL",
-            "match_name": "IDream Tiruppur Tamizhans vs Nellai Royal Kings",
-            "match_id": 126554,
-            "startTime": "03:15:00 PM 29-06-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "PCS-W vs Empire Lionesses-W (ECS-W Finland, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Finland_2025_Old_match-card_2025_Old_match-card_1_1750820537743.jpg",
             "team_1": "PCS-W",
@@ -246,6 +234,18 @@
             "match_name": "PCS-W vs Empire Lionesses-W",
             "match_id": 129646,
             "startTime": "07:45:00 PM 28-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "IDream Tiruppur Tamizhans vs Nellai Royal Kings (Shriram Capital TNPL)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Tiruppur_v_Nellai_Old_match_card.jpg",
+            "team_1": "IDream Tiruppur Tamizhans",
+            "team_2": "Nellai Royal Kings",
+            "status": "UPCOMING",
+            "event_name": "Shriram Capital TNPL",
+            "match_name": "IDream Tiruppur Tamizhans vs Nellai Royal Kings",
+            "match_id": 126554,
+            "startTime": "03:15:00 PM 29-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -416,18 +416,6 @@
             "startTime": "03:15:00 PM 29-06-2025"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Qualifying vs Austria (F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FORMULA-1-MSC-CRUISES-AUSTRIAN-GRAND-PRIX-2025-Old-Match-card.png",
-            "team_1": "Qualifying",
-            "team_2": "Austria",
-            "status": "UPCOMING",
-            "event_name": "F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025",
-            "match_name": "Qualifying",
-            "match_id": 118434,
-            "startTime": "07:30:00 PM 28-06-2025"
-        },
-        {
             "event_category": "Motorsports",
             "title": "Session 5 - Race Place & Finals vs Lago Maggiore (E1 Lago Maggiore GP)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/_E1--Maggiore-GP-old-match-card.png",
@@ -486,6 +474,18 @@
             "match_name": "Gloucestershire Women vs Glamorgan Women",
             "match_id": 126068,
             "startTime": "07:00:00 PM 29-06-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Scorchers Women vs Dragons Women (Evoke Super 20 Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Evoke-Super-20-Trophy-old.jpg",
+            "team_1": "Scorchers Women",
+            "team_2": "Dragons Women",
+            "status": "UPCOMING",
+            "event_name": "Evoke Super 20 Trophy, 2025",
+            "match_name": "Scorchers Women vs Dragons Women",
+            "match_id": 129007,
+            "startTime": "07:45:00 PM 29-06-2025"
         }
     ]
 }
