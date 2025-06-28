@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:45:48 AM 28-06-2025",
+    "last update time": "06:55:56 AM 28-06-2025",
     "matches": [
+        {
+            "event_category": "Baseball",
+            "title": "Arizona Diamondbacks vs Miami Marlins (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128387_CASACARDS_APP.png",
+            "team_1": "Arizona Diamondbacks",
+            "team_2": "Miami Marlins",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Arizona Diamondbacks vs Miami Marlins",
+            "match_id": 128387,
+            "startTime": "07:10:00 AM 28-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/128387_english_hls_72333ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128387_english_hls_72333ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
@@ -292,18 +306,6 @@
             "startTime": "03:30:00 PM 28-06-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Arizona Diamondbacks vs Miami Marlins (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128387_CASACARDS_APP.png",
-            "team_1": "Arizona Diamondbacks",
-            "team_2": "Miami Marlins",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Arizona Diamondbacks vs Miami Marlins",
-            "match_id": 128387,
-            "startTime": "07:10:00 AM 28-06-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Malaysia Reds vs Malaysia Blues (MCA T20 Tri-Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_01.jpg",
@@ -412,6 +414,18 @@
             "startTime": "05:00:00 PM 28-06-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Mahipar Stars vs Pamir Legends (Afghanistan National T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129336_5349_MPS_PAL_fc-web.jpg",
+            "team_1": "Mahipar Stars",
+            "team_2": "Pamir Legends",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan National T20, 2025",
+            "match_name": "Mahipar Stars vs Pamir Legends",
+            "match_id": 129336,
+            "startTime": "10:00:00 AM 29-06-2025"
+        },
+        {
             "event_category": "Golf",
             "title": "Featured Groups - Day 3 vs Detroit, Michigan (Rocket Classic)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
@@ -446,18 +460,6 @@
             "match_name": "Marquee Group - Day 3",
             "match_id": 129365,
             "startTime": "06:00:00 PM 28-06-2025"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Session 4 - Race Off vs Lago Maggiore (E1 Lago Maggiore GP)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/_E1--Maggiore-GP-old-match-card.png",
-            "team_1": "Session 4 - Race Off",
-            "team_2": "Lago Maggiore",
-            "status": "UPCOMING",
-            "event_name": "E1 Lago Maggiore GP",
-            "match_name": "Session 4 - Race Off",
-            "match_id": 129416,
-            "startTime": "06:15:00 PM 28-06-2025"
         }
     ]
 }
