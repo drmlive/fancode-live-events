@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:31:05 AM 29-06-2025",
+    "last update time": "01:41:11 AM 29-06-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -100,20 +100,6 @@
             "startTime": "10:30:00 PM 28-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/mZFVigHtRVult_gjikJq2A/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/129366_english_hls_30780ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "New York Yankees vs Oakland Athletics (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128388_CASACARDS_APP.png",
-            "team_1": "New York Yankees",
-            "team_2": "Oakland Athletics",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "New York Yankees vs Oakland Athletics",
-            "match_id": 128388,
-            "startTime": "10:35:00 PM 28-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/128388_english_hls_82554ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128388_english_hls_82554ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -480,6 +466,18 @@
             "match_name": "Day 4",
             "match_id": 128876,
             "startTime": "04:00:00 PM 29-06-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group - Day 4 vs Detroit, Michigan (Rocket Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
+            "team_1": "Marquee Group - Day 4",
+            "team_2": "Detroit, Michigan",
+            "status": "UPCOMING",
+            "event_name": "Rocket Classic",
+            "match_name": "Marquee Group - Day 4",
+            "match_id": 129368,
+            "startTime": "05:00:00 PM 29-06-2025"
         }
     ]
 }
