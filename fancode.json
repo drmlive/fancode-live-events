@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:47:46 PM 29-06-2025",
+    "last update time": "11:57:53 PM 29-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Piton Strikers vs Bamboo Blasters (St. Lucia T10 Blast, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/129255_5345_PTS_BMB_fc-Web.jpg",
-            "team_1": "Piton Strikers",
-            "team_2": "Bamboo Blasters",
-            "status": "LIVE",
-            "event_name": "St. Lucia T10 Blast, 2025",
-            "match_name": "Piton Strikers vs Bamboo Blasters",
-            "match_id": 129255,
-            "startTime": "09:30:00 PM 29-06-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HHiXdQBpTpKqJqG9wy1FYQ/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/129255_english_hls_34191ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Gulf Cable vs Thunder Cats (KCC T20 Challengers B League Edition 3, 2025)",
@@ -144,6 +130,20 @@
             "adfree_url": "https://dai.fancode.com/primary/129376_english_hls_60027ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Baseball",
+            "title": "Texas Rangers vs Seattle Mariners (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128392_CASACARDS_APP.png",
+            "team_1": "Texas Rangers",
+            "team_2": "Seattle Mariners",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Texas Rangers vs Seattle Mariners",
+            "match_id": 128392,
+            "startTime": "12:05:00 AM 30-06-2025",
+            "dai_url": "https://dai.fancode.com/primary/128392_english_hls_79122ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128392_english_hls_79122ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "South Africa vs Zimbabwe (South Africa tour of Zimbabwe, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-old-match-card-Revised-.png",
@@ -250,18 +250,6 @@
             "match_name": "MUS Akademik Ravens vs BCC Spartan",
             "match_id": 129510,
             "startTime": "07:15:00 PM 30-06-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Texas Rangers vs Seattle Mariners (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128392_CASACARDS_APP.png",
-            "team_1": "Texas Rangers",
-            "team_2": "Seattle Mariners",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Texas Rangers vs Seattle Mariners",
-            "match_id": 128392,
-            "startTime": "12:05:00 AM 30-06-2025"
         },
         {
             "event_category": "Cricket",
@@ -382,6 +370,18 @@
             "match_name": "Mumbai Upnagars vs Ratnagiri",
             "match_id": 129738,
             "startTime": "11:30:00 AM 01-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hindukush Strikers vs Pamir Legends (Afghanistan National T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129339_5349_HS_PAL_fc-web.jpg",
+            "team_1": "Hindukush Strikers",
+            "team_2": "Pamir Legends",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan National T20, 2025",
+            "match_name": "Hindukush Strikers vs Pamir Legends",
+            "match_id": 129339,
+            "startTime": "03:00:00 PM 01-07-2025"
         }
     ]
 }
