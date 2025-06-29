@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:28:20 AM 30-06-2025",
+    "last update time": "12:38:26 AM 30-06-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -86,20 +86,6 @@
             "startTime": "05:45:00 PM 29-06-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/B9jpnTMhQYKRsjibq9hy0w/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/129368_english_hls_71155ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Cleveland Guardians vs St. Louis Cardinals (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128391_CASACARDS_APP.png",
-            "team_1": "Cleveland Guardians",
-            "team_2": "St. Louis Cardinals",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Cleveland Guardians vs St. Louis Cardinals",
-            "match_id": 128391,
-            "startTime": "09:35:00 PM 29-06-2025",
-            "dai_url": "https://dai.fancode.com/primary/128391_english_hls_45088ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/128391_english_hls_45088ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -394,6 +380,30 @@
             "match_name": "North West Warriors vs Munster Reds",
             "match_id": 125126,
             "startTime": "03:15:00 PM 01-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "MUS Akademik Ravens vs Sofia Stars (ECS Bulgaria, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+            "team_1": "MUS Akademik Ravens",
+            "team_2": "Sofia Stars",
+            "status": "UPCOMING",
+            "event_name": "ECS Bulgaria, 2025",
+            "match_name": "MUS Akademik Ravens vs Sofia Stars",
+            "match_id": 129513,
+            "startTime": "03:15:00 PM 01-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "BSCU All Stars vs BSCU - MU Plovdiv (ECS Bulgaria, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+            "team_1": "BSCU All Stars",
+            "team_2": "BSCU - MU Plovdiv",
+            "status": "UPCOMING",
+            "event_name": "ECS Bulgaria, 2025",
+            "match_name": "BSCU All Stars vs BSCU - MU Plovdiv",
+            "match_id": 129514,
+            "startTime": "05:15:00 PM 01-07-2025"
         }
     ]
 }
