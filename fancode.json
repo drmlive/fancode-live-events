@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:54:08 PM 30-06-2025",
+    "last update time": "12:04:16 AM 01-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Whiptail Smashers vs Bamboo Blasters",
             "match_id": 129258,
             "startTime": "12:00:00 AM 01-07-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/hZjF5XHtSFmhYFZdbep3Pg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129258_english_hls_9776ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -117,6 +117,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "England Women vs India Women (India Women tour of England, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
+            "team_1": "England Women",
+            "team_2": "India Women",
+            "status": "UPCOMING",
+            "event_name": "India Women tour of England, 2025",
+            "match_name": "England Women vs India Women",
+            "match_id": 128741,
+            "startTime": "11:00:00 PM 01-07-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "North West Warriors vs Munster Reds (Ireland Inter-Provincial T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125126_5173_NWW_MUR_fc-Web.jpg",
             "team_1": "North West Warriors",
@@ -138,18 +150,6 @@
             "match_name": "MUS Akademik Ravens vs Sofia Stars",
             "match_id": 129513,
             "startTime": "03:15:00 PM 01-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England Women vs India Women (India Women tour of England, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
-            "team_1": "England Women",
-            "team_2": "India Women",
-            "status": "UPCOMING",
-            "event_name": "India Women tour of England, 2025",
-            "match_name": "England Women vs India Women",
-            "match_id": 128741,
-            "startTime": "11:00:00 PM 01-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -188,18 +188,6 @@
             "startTime": "10:00:00 AM 01-07-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Mumbai Upnagars vs Ratnagiri (Maharashtra Inter-District Youth Championship 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-            "team_1": "Mumbai Upnagars",
-            "team_2": "Ratnagiri",
-            "status": "UPCOMING",
-            "event_name": "Maharashtra Inter-District Youth Championship 2025",
-            "match_name": "Mumbai Upnagars vs Ratnagiri",
-            "match_id": 129738,
-            "startTime": "11:30:00 AM 01-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Northern Knights vs Leinster Lightning (Ireland Inter-Provincial T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125127_5173_NK_LLG_fc-Web.jpg",
@@ -210,6 +198,18 @@
             "match_name": "Northern Knights vs Leinster Lightning",
             "match_id": 125127,
             "startTime": "08:15:00 PM 01-07-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Mumbai Upnagars vs Ratnagiri (Maharashtra Inter-District Youth Championship 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+            "team_1": "Mumbai Upnagars",
+            "team_2": "Ratnagiri",
+            "status": "UPCOMING",
+            "event_name": "Maharashtra Inter-District Youth Championship 2025",
+            "match_name": "Mumbai Upnagars vs Ratnagiri",
+            "match_id": 129738,
+            "startTime": "11:30:00 AM 01-07-2025"
         },
         {
             "event_category": "Cricket",
