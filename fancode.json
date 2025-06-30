@@ -1,20 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:13:37 AM 30-06-2025",
+    "last update time": "08:23:45 AM 30-06-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "South Africa vs Zimbabwe (South Africa tour of Zimbabwe, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-old-match-card-Revised-.png",
-            "team_1": "South Africa",
-            "team_2": "Zimbabwe",
-            "status": "PAUSED",
-            "event_name": "South Africa tour of Zimbabwe, 2025",
-            "match_name": "South Africa vs Zimbabwe",
-            "match_id": 127558,
-            "startTime": "01:30:00 PM 28-06-2025"
-        },
         {
             "event_category": "Cricket",
             "title": "Black Eagles vs CAT (Sikkim T20 League, 2025)",
@@ -26,8 +14,20 @@
             "match_name": "Black Eagles vs CAT",
             "match_id": 128737,
             "startTime": "08:30:00 AM 30-06-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/cXMc7HARTv2_ZSlVSvSkJQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128737_english_hls_31073ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Africa vs Zimbabwe (South Africa tour of Zimbabwe, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-old-match-card-Revised-.png",
+            "team_1": "South Africa",
+            "team_2": "Zimbabwe",
+            "status": "PAUSED",
+            "event_name": "South Africa tour of Zimbabwe, 2025",
+            "match_name": "South Africa vs Zimbabwe",
+            "match_id": 127558,
+            "startTime": "01:30:00 PM 28-06-2025"
         },
         {
             "event_category": "Cricket",
