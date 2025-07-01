@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:21:49 AM 02-07-2025",
+    "last update time": "03:31:54 AM 02-07-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bamboo Blasters vs Iyanola Heritage (St. Lucia T10 Blast, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/129260_5345_IYH_BMB_fc-Web.jpg",
-            "team_1": "Bamboo Blasters",
-            "team_2": "Iyanola Heritage",
-            "status": "LIVE",
-            "event_name": "St. Lucia T10 Blast, 2025",
-            "match_name": "Bamboo Blasters vs Iyanola Heritage",
-            "match_id": 129260,
-            "startTime": "01:00:00 AM 02-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/VQuAhRwJSmO4hztvTuv0EA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/129260_english_hls_25840ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Baseball",
             "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
@@ -30,6 +16,20 @@
             "startTime": "12:37:00 AM 02-07-2025",
             "dai_url": "https://dai.fancode.com/primary/128398_english_hls_33814ta-di_h264/index.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128398_english_hls_33814ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bamboo Blasters vs Iyanola Heritage (St. Lucia T10 Blast, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129260_5345_IYH_BMB_fc-Web.jpg",
+            "team_1": "Bamboo Blasters",
+            "team_2": "Iyanola Heritage",
+            "status": "LIVE",
+            "event_name": "St. Lucia T10 Blast, 2025",
+            "match_name": "Bamboo Blasters vs Iyanola Heritage",
+            "match_id": 129260,
+            "startTime": "01:00:00 AM 02-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/VQuAhRwJSmO4hztvTuv0EA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129260_english_hls_25840ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -188,18 +188,6 @@
             "startTime": "09:30:00 PM 02-07-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Kolhapur vs Sangli (Maharashtra Inter-District Youth Championship 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/129741_CASACARDS_APP.png",
-            "team_1": "Kolhapur",
-            "team_2": "Sangli",
-            "status": "UPCOMING",
-            "event_name": "Maharashtra Inter-District Youth Championship 2025",
-            "match_name": "Kolhapur vs Sangli",
-            "match_id": 129741,
-            "startTime": "10:00:00 AM 02-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Phoenix Cricketers vs Thunder Cats - B (KCC T20 Challengers B League Edition 3, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -210,6 +198,18 @@
             "match_name": "Phoenix Cricketers vs Thunder Cats - B",
             "match_id": 128668,
             "startTime": "11:00:00 PM 02-07-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Kolhapur vs Sangli (Maharashtra Inter-District Youth Championship 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/129741_CASACARDS_APP.png",
+            "team_1": "Kolhapur",
+            "team_2": "Sangli",
+            "status": "UPCOMING",
+            "event_name": "Maharashtra Inter-District Youth Championship 2025",
+            "match_name": "Kolhapur vs Sangli",
+            "match_id": 129741,
+            "startTime": "10:00:00 AM 02-07-2025"
         },
         {
             "event_category": "Kabaddi",
