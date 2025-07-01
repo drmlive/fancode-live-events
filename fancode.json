@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:47:17 PM 01-07-2025",
+    "last update time": "07:57:30 PM 01-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,17 +33,17 @@
         },
         {
             "event_category": "Kabaddi",
-            "title": "Raigad vs Nashik (Maharashtra Inter-District Youth Championship 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/129739_CASACARDS_APP.png",
-            "team_1": "Raigad",
-            "team_2": "Nashik",
+            "title": "Nandurbar vs Beed (Maharashtra Inter-District Youth Championship 2025)",
+            "src": "https://images.fancode.com/aig/match/v2/129740_CASACARDS_APP.png",
+            "team_1": "Nandurbar",
+            "team_2": "Beed",
             "status": "LIVE",
             "event_name": "Maharashtra Inter-District Youth Championship 2025",
-            "match_name": "Raigad vs Nashik",
-            "match_id": 129739,
-            "startTime": "06:30:00 PM 01-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/1_EGH_PwRfyz2xd6QEsEfA/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/129739_english_hls_30387ta-di_h264/index.m3u8"
+            "match_name": "Nandurbar vs Beed",
+            "match_id": 129740,
+            "startTime": "08:00:00 PM 01-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/OL_lwzU1SuOCXzHtf0Q-AA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129740_english_hls_62705ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -63,11 +63,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125127_5173_NK_LLG_fc-Web.jpg",
             "team_1": "Northern Knights",
             "team_2": "Leinster Lightning",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Ireland Inter-Provincial T20 Trophy, 2025",
             "match_name": "Northern Knights vs Leinster Lightning",
             "match_id": 125127,
-            "startTime": "08:15:00 PM 01-07-2025"
+            "startTime": "08:15:00 PM 01-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/drfL7yWXT6Otkvp_w-4Bhw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/125127_english_hls_89399ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -80,18 +82,6 @@
             "match_name": "Sri Lanka vs Bangladesh",
             "match_id": 128428,
             "startTime": "02:30:00 PM 02-07-2025"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Nandurbar vs Beed (Maharashtra Inter-District Youth Championship 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/129740_CASACARDS_APP.png",
-            "team_1": "Nandurbar",
-            "team_2": "Beed",
-            "status": "UPCOMING",
-            "event_name": "Maharashtra Inter-District Youth Championship 2025",
-            "match_name": "Nandurbar vs Beed",
-            "match_id": 129740,
-            "startTime": "08:00:00 PM 01-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -452,6 +442,18 @@
             "match_name": "Malaysia Blues vs Malaysia Reds",
             "match_id": 129711,
             "startTime": "12:45:00 PM 03-07-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Ratnagiri vs Nashik (Maharashtra Inter-District Youth Championship 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/129746_CASACARDS_APP.png",
+            "team_1": "Ratnagiri",
+            "team_2": "Nashik",
+            "status": "UPCOMING",
+            "event_name": "Maharashtra Inter-District Youth Championship 2025",
+            "match_name": "Ratnagiri vs Nashik",
+            "match_id": 129746,
+            "startTime": "11:30:00 AM 03-07-2025"
         }
     ]
 }
