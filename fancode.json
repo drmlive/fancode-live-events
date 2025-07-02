@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:35:19 PM 02-07-2025",
+    "last update time": "11:45:26 PM 02-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "11:00:00 PM 02-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/cieq8MsmTtK4XsYhp74cug/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128668_english_hls_92417ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Whiptail Smashers vs Amazonian Warriors (St. Lucia T10 Blast, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129262_5345_WTS_AMW_fc-Web.jpg",
+            "team_1": "Whiptail Smashers",
+            "team_2": "Amazonian Warriors",
+            "status": "LIVE",
+            "event_name": "St. Lucia T10 Blast, 2025",
+            "match_name": "Whiptail Smashers vs Amazonian Warriors",
+            "match_id": 129262,
+            "startTime": "12:00:00 AM 03-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/AcZ1_aD3R76fZu4uGi-UaA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129262_english_hls_28568ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -58,18 +72,6 @@
             "startTime": "09:30:00 PM 02-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/KAWR9O0uTWyAwFRB1OL0vA/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/123345_english_hls_15070ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Whiptail Smashers vs Amazonian Warriors (St. Lucia T10 Blast, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/129262_5345_WTS_AMW_fc-Web.jpg",
-            "team_1": "Whiptail Smashers",
-            "team_2": "Amazonian Warriors",
-            "status": "UPCOMING",
-            "event_name": "St. Lucia T10 Blast, 2025",
-            "match_name": "Whiptail Smashers vs Amazonian Warriors",
-            "match_id": 129262,
-            "startTime": "12:00:00 AM 03-07-2025"
         },
         {
             "event_category": "Football",
@@ -418,6 +420,18 @@
             "match_name": "BSCU All Stars vs CC Yullis / MU Trakia",
             "match_id": 129526,
             "startTime": "11:15:00 AM 04-07-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Palghar vs Ratnagiri (Maharashtra Inter-District Youth Championship 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129749_5371_PGR_RTN_fc-WEB.jpg",
+            "team_1": "Palghar",
+            "team_2": "Ratnagiri",
+            "status": "UPCOMING",
+            "event_name": "Maharashtra Inter-District Youth Championship 2025",
+            "match_name": "Palghar vs Ratnagiri",
+            "match_id": 129749,
+            "startTime": "10:00:00 AM 04-07-2025"
         }
     ]
 }
