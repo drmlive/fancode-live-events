@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:35:30 AM 02-07-2025",
+    "last update time": "09:45:46 AM 02-07-2025",
     "matches": [
         {
             "event_category": "Baseball",
@@ -47,11 +47,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129340_5349_MDS_PAL_fc-web.jpg",
             "team_1": "Maiwand Champions",
             "team_2": "Pamir Legends",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Afghanistan National T20, 2025",
             "match_name": "Maiwand Champions vs Pamir Legends",
             "match_id": 129340,
-            "startTime": "10:00:00 AM 02-07-2025"
+            "startTime": "10:00:00 AM 02-07-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Kabaddi",
@@ -270,18 +272,6 @@
             "startTime": "11:15:00 AM 03-07-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Le Vaudreuil Golf Challenge vs Le Vaudreuil, France (Le Vaudreuil Golf Challenge)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Le-Vaudreuil-Golf-Challenge-old.jpg",
-            "team_1": "Le Vaudreuil Golf Challenge",
-            "team_2": "Le Vaudreuil, France",
-            "status": "UPCOMING",
-            "event_name": "Le Vaudreuil Golf Challenge",
-            "match_name": "Le Vaudreuil Golf Challenge",
-            "match_id": 129651,
-            "startTime": "03:25:00 PM 02-07-2025"
-        },
-        {
             "event_category": "Kabaddi",
             "title": "Mumbai Upnagars vs Raigad (Maharashtra Inter-District Youth Championship 2025)",
             "src": "https://images.fancode.com/aig/match/v1/129745_CASACARDS_APP.png",
@@ -292,6 +282,18 @@
             "match_name": "Mumbai Upnagars vs Raigad",
             "match_id": 129745,
             "startTime": "10:00:00 AM 03-07-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Le Vaudreuil Golf Challenge vs Le Vaudreuil, France (Le Vaudreuil Golf Challenge)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Le-Vaudreuil-Golf-Challenge-old.jpg",
+            "team_1": "Le Vaudreuil Golf Challenge",
+            "team_2": "Le Vaudreuil, France",
+            "status": "UPCOMING",
+            "event_name": "Le Vaudreuil Golf Challenge",
+            "match_name": "Le Vaudreuil Golf Challenge",
+            "match_id": 129651,
+            "startTime": "03:25:00 PM 02-07-2025"
         },
         {
             "event_category": "Cricket",
