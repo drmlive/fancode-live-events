@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:24:23 PM 02-07-2025",
+    "last update time": "10:34:31 PM 02-07-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Trichy Grand Cholas vs Dindigul Dragons (Shriram Capital TNPL)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Dindigul_v_Trichy_Old_match_card.jpg",
-            "team_1": "Trichy Grand Cholas",
-            "team_2": "Dindigul Dragons",
-            "status": "LIVE",
-            "event_name": "Shriram Capital TNPL",
-            "match_name": "Trichy Grand Cholas vs Dindigul Dragons",
-            "match_id": 126557,
-            "startTime": "07:15:00 PM 02-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/RiF-HWv-SYqam-PWYJwk4Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/126557_english_hls_48826ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Leinster Lightning vs North West Warriors (Ireland Inter-Provincial T20 Trophy, 2025)",
@@ -75,13 +61,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Phoenix Cricketers vs Thunder Cats - B (KCC T20 Challengers B League Edition 3, 2025)",
+            "title": "Trichy Grand Cholas vs Dindigul Dragons (Shriram Capital TNPL)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Dindigul_v_Trichy_Old_match_card.jpg",
+            "team_1": "Trichy Grand Cholas",
+            "team_2": "Dindigul Dragons",
+            "status": "LIVE",
+            "event_name": "Shriram Capital TNPL",
+            "match_name": "Trichy Grand Cholas vs Dindigul Dragons",
+            "match_id": 126557,
+            "startTime": "07:15:00 PM 02-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/RiF-HWv-SYqam-PWYJwk4Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/126557_english_hls_48826ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Thunder Cats - B vs Phoenix Cricketers (KCC T20 Challengers B League Edition 3, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/128668_CASACARDS_APP.png",
-            "team_1": "Phoenix Cricketers",
-            "team_2": "Thunder Cats - B",
+            "team_1": "Thunder Cats - B",
+            "team_2": "Phoenix Cricketers",
             "status": "UPCOMING",
             "event_name": "KCC T20 Challengers B League Edition 3, 2025",
-            "match_name": "Phoenix Cricketers vs Thunder Cats - B",
+            "match_name": "Thunder Cats - B vs Phoenix Cricketers",
             "match_id": 128668,
             "startTime": "11:00:00 PM 02-07-2025"
         },
@@ -432,6 +432,18 @@
             "match_name": "Pamir Legends vs Mahipar Stars",
             "match_id": 129342,
             "startTime": "10:00:00 AM 04-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "BSCU All Stars vs CC Yullis / MU Trakia (ECS Bulgaria, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+            "team_1": "BSCU All Stars",
+            "team_2": "CC Yullis / MU Trakia",
+            "status": "UPCOMING",
+            "event_name": "ECS Bulgaria, 2025",
+            "match_name": "BSCU All Stars vs CC Yullis / MU Trakia",
+            "match_id": 129526,
+            "startTime": "11:15:00 AM 04-07-2025"
         }
     ]
 }
