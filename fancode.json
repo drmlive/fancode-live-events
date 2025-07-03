@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:45:31 PM 03-07-2025",
+    "last update time": "03:55:38 PM 03-07-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia Blues vs Malaysia Reds (MCA T20 Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_01.jpg",
-            "team_1": "Malaysia Blues",
-            "team_2": "Malaysia Reds",
-            "status": "LIVE",
-            "event_name": "MCA T20 Tri-Series, 2025",
-            "match_name": "Malaysia Blues vs Malaysia Reds",
-            "match_id": 129711,
-            "startTime": "12:45:00 PM 03-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Lc3VCMxzTpaf9NCI26BMJg/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/129711_english_hls_73798ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Leinster Lightning vs Munster Reds (Ireland Inter-Provincial T20 Trophy, 2025)",
@@ -58,6 +44,20 @@
             "startTime": "04:00:00 PM 03-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/y-rFPwZNSlWowXFPAwFkew/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/130146_english_hls_80171ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia Blues vs Malaysia Reds (MCA T20 Tri-Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_01.jpg",
+            "team_1": "Malaysia Blues",
+            "team_2": "Malaysia Reds",
+            "status": "LIVE",
+            "event_name": "MCA T20 Tri-Series, 2025",
+            "match_name": "Malaysia Blues vs Malaysia Reds",
+            "match_id": 129711,
+            "startTime": "12:45:00 PM 03-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Lc3VCMxzTpaf9NCI26BMJg/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/129711_english_hls_73798ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -217,18 +217,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "BCC / MUS Plovdiv vs BCC Spartan (ECS Bulgaria, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-            "team_1": "BCC / MUS Plovdiv",
-            "team_2": "BCC Spartan",
-            "status": "UPCOMING",
-            "event_name": "ECS Bulgaria, 2025",
-            "match_name": "BCC / MUS Plovdiv vs BCC Spartan",
-            "match_id": 129528,
-            "startTime": "03:15:00 PM 04-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Durham Women vs Somerset Women (Women's Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125859_5206_DHW_SSW_fc-Web.jpg",
             "team_1": "Durham Women",
@@ -238,6 +226,18 @@
             "match_name": "Durham Women vs Somerset Women",
             "match_id": 125859,
             "startTime": "07:00:00 PM 04-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "BCC / MUS Plovdiv vs BCC Spartan (ECS Bulgaria, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+            "team_1": "BCC / MUS Plovdiv",
+            "team_2": "BCC Spartan",
+            "status": "UPCOMING",
+            "event_name": "ECS Bulgaria, 2025",
+            "match_name": "BCC / MUS Plovdiv vs BCC Spartan",
+            "match_id": 129528,
+            "startTime": "03:15:00 PM 04-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -420,18 +420,6 @@
             "startTime": "08:30:00 PM 04-07-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Practice vs Silverstone (F3 GREAT BRITAIN 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-            "team_1": "Practice",
-            "team_2": "Silverstone",
-            "status": "UPCOMING",
-            "event_name": "F3 GREAT BRITAIN 2025",
-            "match_name": "Practice",
-            "match_id": 119096,
-            "startTime": "01:15:00 PM 04-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Whiptail Smashers vs Bamboo Blasters (St. Lucia T10 Blast, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129265_5345_WTS_BMB_fc-Web.jpg",
@@ -442,6 +430,18 @@
             "match_name": "Whiptail Smashers vs Bamboo Blasters",
             "match_id": 129265,
             "startTime": "09:30:00 PM 04-07-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice vs Silverstone (F3 GREAT BRITAIN 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
+            "team_1": "Practice",
+            "team_2": "Silverstone",
+            "status": "UPCOMING",
+            "event_name": "F3 GREAT BRITAIN 2025",
+            "match_name": "Practice",
+            "match_id": 119096,
+            "startTime": "01:15:00 PM 04-07-2025"
         }
     ]
 }
