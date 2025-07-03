@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:02:05 AM 04-07-2025",
+    "last update time": "01:12:21 AM 04-07-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -70,8 +70,8 @@
             "match_name": "Main Feed - Day 1",
             "match_id": 130225,
             "startTime": "05:15:00 PM 03-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/kMx1tf4uQxm6gIrJjypj5Q/master.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/130225_english_hls_981ta-di_h264/index.m3u8"
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Golf",
@@ -167,18 +167,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "BSCU All Stars vs CC Yullis / MU Trakia (ECS Bulgaria, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-            "team_1": "BSCU All Stars",
-            "team_2": "CC Yullis / MU Trakia",
-            "status": "UPCOMING",
-            "event_name": "ECS Bulgaria, 2025",
-            "match_name": "BSCU All Stars vs CC Yullis / MU Trakia",
-            "match_id": 129526,
-            "startTime": "11:15:00 AM 04-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Somerset vs Glamorgan (Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125961_5207_SOM_GLA_fc-Web.jpg",
             "team_1": "Somerset",
@@ -212,6 +200,18 @@
             "match_name": "England Women vs India Women",
             "match_id": 128742,
             "startTime": "11:05:00 PM 04-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "BSCU All Stars vs CC Yullis / MU Trakia (ECS Bulgaria, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+            "team_1": "BSCU All Stars",
+            "team_2": "CC Yullis / MU Trakia",
+            "status": "UPCOMING",
+            "event_name": "ECS Bulgaria, 2025",
+            "match_name": "BSCU All Stars vs CC Yullis / MU Trakia",
+            "match_id": 129526,
+            "startTime": "11:15:00 AM 04-07-2025"
         },
         {
             "event_category": "Cricket",
