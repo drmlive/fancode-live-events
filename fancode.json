@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:19:47 PM 03-07-2025",
+    "last update time": "09:29:55 PM 03-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,8 +42,8 @@
             "match_name": "Belgium Women vs Italy Women",
             "match_id": 123347,
             "startTime": "09:30:00 PM 03-07-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/yjq_AcVeRyuOo6OwmR1zIw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/123347_english_hls_50659ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -128,6 +128,20 @@
             "startTime": "09:00:00 PM 03-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kI6gLHmeRmW-WKcxbGXaxg/master.m3u8",
             "adfree_url": "https://dai.fancode.com/primary/128869_english_hls_84475ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Miami Marlins vs Minnesota Twins (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/128397_CASACARDS_APP.png",
+            "team_1": "Miami Marlins",
+            "team_2": "Minnesota Twins",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Miami Marlins vs Minnesota Twins",
+            "match_id": 128397,
+            "startTime": "09:40:00 PM 03-07-2025",
+            "dai_url": "https://dai.fancode.com/primary/128397_english_hls_8384ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/128397_english_hls_8384ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -272,18 +286,6 @@
             "match_name": "BCC Spartan vs BSCU All Stars",
             "match_id": 129529,
             "startTime": "05:15:00 PM 04-07-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Miami Marlins vs Minnesota Twins (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/128397_CASACARDS_APP.png",
-            "team_1": "Miami Marlins",
-            "team_2": "Minnesota Twins",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Miami Marlins vs Minnesota Twins",
-            "match_id": 128397,
-            "startTime": "09:40:00 PM 03-07-2025"
         },
         {
             "event_category": "Cricket",
