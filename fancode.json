@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:56:24 PM 04-07-2025",
+    "last update time": "11:06:31 PM 04-07-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "England Women vs India Women (India Women tour of England, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
+            "team_1": "England Women",
+            "team_2": "India Women",
+            "status": "LIVE",
+            "event_name": "India Women tour of England, 2025",
+            "match_name": "England Women vs India Women",
+            "match_id": 128742,
+            "startTime": "11:05:00 PM 04-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022320/INWENW/master.m3u8?hdnea=exp=1751693791~acl=/*~id=74063746227642191529103106815631~hmac=79c4383fbfb1b2a704e6f9f5720bb96f99c28e97536b2fc25a36cb0f984ce3d9"
+        },
         {
             "event_category": "Cricket",
             "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
@@ -173,32 +187,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Chepauk Super Gillies vs Dindigul Dragons (Shriram Capital TNPL)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Dindigul_v_Chepauk_Old_match_card.jpg",
-            "team_1": "Chepauk Super Gillies",
-            "team_2": "Dindigul Dragons",
-            "status": "LIVE",
-            "event_name": "Shriram Capital TNPL",
-            "match_name": "Chepauk Super Gillies vs Dindigul Dragons",
-            "match_id": 126558,
-            "startTime": "07:15:00 PM 04-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/hEL4Sp_mS9CDlainwdPXww/master.m3u8",
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England Women vs India Women (India Women tour of England, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
-            "team_1": "England Women",
-            "team_2": "India Women",
-            "status": "UPCOMING",
-            "event_name": "India Women tour of England, 2025",
-            "match_name": "England Women vs India Women",
-            "match_id": 128742,
-            "startTime": "11:05:00 PM 04-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Tour-of-Sri-Lanka,-ODIs-old-match-card.png",
             "team_1": "Sri Lanka",
@@ -222,18 +210,6 @@
             "startTime": "12:00:00 AM 05-07-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Germany Women vs Poland Women (UEFA Women's EURO 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123348_5107_GER-W_POL-W_fc-web.jpg",
-            "team_1": "Germany Women",
-            "team_2": "Poland Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's EURO 2025",
-            "match_name": "Germany Women vs Poland Women",
-            "match_id": 123348,
-            "startTime": "12:30:00 AM 05-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Thunderstorm Outlanders vs Malaysia Blues (MCA T20 Tri-Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_02_1751607188364.jpg",
@@ -244,6 +220,18 @@
             "match_name": "Thunderstorm Outlanders vs Malaysia Blues",
             "match_id": 130377,
             "startTime": "07:00:00 AM 05-07-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Germany Women vs Poland Women (UEFA Women's EURO 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123348_5107_GER-W_POL-W_fc-web.jpg",
+            "team_1": "Germany Women",
+            "team_2": "Poland Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's EURO 2025",
+            "match_name": "Germany Women vs Poland Women",
+            "match_id": 123348,
+            "startTime": "12:30:00 AM 05-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -484,6 +472,18 @@
             "match_name": "Whiptail Smashers vs Calabash Giants",
             "match_id": 129268,
             "startTime": "12:00:00 AM 06-07-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "France Women vs England Women (UEFA Women's EURO 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123350_5107_FRA-W_ENG-W_fc-web.jpg",
+            "team_1": "France Women",
+            "team_2": "England Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's EURO 2025",
+            "match_name": "France Women vs England Women",
+            "match_id": 123350,
+            "startTime": "12:30:00 AM 06-07-2025"
         }
     ]
 }
