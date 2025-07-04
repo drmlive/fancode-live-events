@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:10:21 PM 04-07-2025",
+    "last update time": "02:20:28 PM 04-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Motorsports",
-            "title": "Practice vs Silverstone (F3 GREAT BRITAIN 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-            "team_1": "Practice",
-            "team_2": "Silverstone",
-            "status": "LIVE",
-            "event_name": "F3 GREAT BRITAIN 2025",
-            "match_name": "Practice",
-            "match_id": 119096,
-            "startTime": "01:15:00 PM 04-07-2025",
-            "dai_url": "https://dai.fancode.com/primary/119096_english_hls_9701adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://dai.fancode.com/primary/119096_english_hls_9701adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
             "title": "Free Practice 1 vs Norisring (DTM Norisring)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
             "team_1": "Free Practice 1",
@@ -56,8 +42,8 @@
             "match_name": "Free Practice 1",
             "match_id": 130200,
             "startTime": "02:15:00 PM 04-07-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/FPFLE74VS8yxL4vmeYSFcA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/130200_english_hls_10020ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -276,18 +262,6 @@
             "startTime": "10:00:00 AM 05-07-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Free Practice vs Silverstone (F2 GREAT BRITAIN 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-            "team_1": "Free Practice",
-            "team_2": "Silverstone",
-            "status": "UPCOMING",
-            "event_name": "F2 GREAT BRITAIN 2025",
-            "match_name": "Free Practice",
-            "match_id": 119053,
-            "startTime": "02:30:00 PM 04-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "CC Yullis / MU Trakia vs Sofia Stars (ECS Bulgaria, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
@@ -298,6 +272,18 @@
             "match_name": "CC Yullis / MU Trakia vs Sofia Stars",
             "match_id": 129531,
             "startTime": "11:15:00 AM 05-07-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Free Practice vs Silverstone (F2 GREAT BRITAIN 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+            "team_1": "Free Practice",
+            "team_2": "Silverstone",
+            "status": "UPCOMING",
+            "event_name": "F2 GREAT BRITAIN 2025",
+            "match_name": "Free Practice",
+            "match_id": 119053,
+            "startTime": "02:30:00 PM 04-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -370,6 +356,18 @@
             "match_name": "MUS Akademik Ravens vs BSCU All Stars",
             "match_id": 129533,
             "startTime": "03:15:00 PM 05-07-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Machida Zelvia vs Shimizu S-Pulse (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/126265_4795_MZ_PUL_fc-web.jpg",
+            "team_1": "Machida Zelvia",
+            "team_2": "Shimizu S-Pulse",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Machida Zelvia vs Shimizu S-Pulse",
+            "match_id": 126265,
+            "startTime": "02:30:00 PM 05-07-2025"
         },
         {
             "event_category": "Golf",
