@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:49:21 PM 04-07-2025",
+    "last update time": "12:59:31 PM 04-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -109,11 +109,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
             "team_1": "CC Yullis / MU Trakia",
             "team_2": "BCC / MUS Plovdiv",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECS Bulgaria, 2025",
             "match_name": "CC Yullis / MU Trakia vs BCC / MUS Plovdiv",
             "match_id": 129527,
-            "startTime": "01:15:00 PM 04-07-2025"
+            "startTime": "01:15:00 PM 04-07-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -188,18 +190,6 @@
             "startTime": "09:30:00 PM 04-07-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Denmark Women vs Sweden Women (UEFA Women's EURO 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123349_5107_DEN-W_SWE-W_fc-web.jpg",
-            "team_1": "Denmark Women",
-            "team_2": "Sweden Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's EURO 2025",
-            "match_name": "Denmark Women vs Sweden Women",
-            "match_id": 123349,
-            "startTime": "09:30:00 PM 04-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Iyanola Heritage vs Amazonian Warriors (St. Lucia T10 Blast, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129266_5345_IYH_AMW_fc-Web.jpg",
@@ -210,6 +200,18 @@
             "match_name": "Iyanola Heritage vs Amazonian Warriors",
             "match_id": 129266,
             "startTime": "12:00:00 AM 05-07-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Denmark Women vs Sweden Women (UEFA Women's EURO 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123349_5107_DEN-W_SWE-W_fc-web.jpg",
+            "team_1": "Denmark Women",
+            "team_2": "Sweden Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's EURO 2025",
+            "match_name": "Denmark Women vs Sweden Women",
+            "match_id": 123349,
+            "startTime": "09:30:00 PM 04-07-2025"
         },
         {
             "event_category": "Football",
@@ -236,18 +238,6 @@
             "startTime": "07:00:00 AM 05-07-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Practice vs Silverstone (F3 GREAT BRITAIN 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-            "team_1": "Practice",
-            "team_2": "Silverstone",
-            "status": "UPCOMING",
-            "event_name": "F3 GREAT BRITAIN 2025",
-            "match_name": "Practice",
-            "match_id": 119096,
-            "startTime": "01:15:00 PM 04-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Tour-of-Sri-Lanka,-ODIs-old-match-card.png",
@@ -258,6 +248,18 @@
             "match_name": "Sri Lanka vs Bangladesh",
             "match_id": 128429,
             "startTime": "02:30:00 PM 05-07-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice vs Silverstone (F3 GREAT BRITAIN 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
+            "team_1": "Practice",
+            "team_2": "Silverstone",
+            "status": "UPCOMING",
+            "event_name": "F3 GREAT BRITAIN 2025",
+            "match_name": "Practice",
+            "match_id": 119096,
+            "startTime": "01:15:00 PM 04-07-2025"
         },
         {
             "event_category": "Cricket",
