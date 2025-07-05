@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:24:58 PM 05-07-2025",
+    "last update time": "12:35:06 PM 05-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -29,6 +29,20 @@
             "match_id": 129531,
             "startTime": "11:15:00 AM 05-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/E0HWQtncS9W_ZGDz5F2XVQ/master.m3u8",
+            "adfree_url": null
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia Reds vs Thunderstorm Outlanders (MCA T20 Tri-Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_01_1751607188369.jpg",
+            "team_1": "Malaysia Reds",
+            "team_2": "Thunderstorm Outlanders",
+            "status": "LIVE",
+            "event_name": "MCA T20 Tri-Series, 2025",
+            "match_name": "Malaysia Reds vs Thunderstorm Outlanders",
+            "match_id": 130378,
+            "startTime": "12:45:00 PM 05-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/2KItvuWVS1qF6bd8TPwQnQ/master.m3u8",
             "adfree_url": null
         },
         {
@@ -80,18 +94,6 @@
             "match_name": "Sussex vs Hampshire",
             "match_id": 125965,
             "startTime": "11:30:00 PM 05-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia Reds vs Thunderstorm Outlanders (MCA T20 Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_01_1751607188369.jpg",
-            "team_1": "Malaysia Reds",
-            "team_2": "Thunderstorm Outlanders",
-            "status": "UPCOMING",
-            "event_name": "MCA T20 Tri-Series, 2025",
-            "match_name": "Malaysia Reds vs Thunderstorm Outlanders",
-            "match_id": 130378,
-            "startTime": "12:45:00 PM 05-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -315,11 +317,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
             "team_1": "Qualifying 1",
             "team_2": "Norisring",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "DTM Norisring",
             "match_name": "Qualifying 1",
             "match_id": 130202,
-            "startTime": "12:45:00 PM 05-07-2025"
+            "startTime": "12:45:00 PM 05-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/9x5BNk5tTyywslqgNGn-hw/master.m3u8",
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -382,6 +386,18 @@
             "startTime": "02:30:00 PM 06-07-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Scorchers Women vs Dragons Women (Evoke Super 20 Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Evoke-Super-20-Trophy-old.jpg",
+            "team_1": "Scorchers Women",
+            "team_2": "Dragons Women",
+            "status": "UPCOMING",
+            "event_name": "Evoke Super 20 Trophy, 2025",
+            "match_name": "Scorchers Women vs Dragons Women",
+            "match_id": 129009,
+            "startTime": "03:15:00 PM 06-07-2025"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Sprint Race vs Silverstone (F3 GREAT BRITAIN 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
@@ -439,18 +455,6 @@
             "event_name": "John Deere Classic",
             "match_name": "Main Feed - Day 3",
             "match_id": 130230,
-            "startTime": "05:30:00 PM 05-07-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 3 vs TPC Deere Run (John Deere Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
-            "team_1": "Featured Holes - Day 3",
-            "team_2": "TPC Deere Run",
-            "status": "UPCOMING",
-            "event_name": "John Deere Classic",
-            "match_name": "Featured Holes - Day 3",
-            "match_id": 130233,
             "startTime": "05:30:00 PM 05-07-2025"
         }
     ]
