@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:12:13 AM 06-07-2025",
+    "last update time": "12:22:29 AM 06-07-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "France Women vs England Women (UEFA Women's EURO 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123350_5107_FRA-W_ENG-W_fc-web.jpg",
+            "team_1": "France Women",
+            "team_2": "England Women",
+            "status": "LIVE",
+            "event_name": "UEFA Women's EURO 2025",
+            "match_name": "France Women vs England Women",
+            "match_id": 123350,
+            "startTime": "12:30:00 AM 06-07-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
         {
             "event_category": "Cricket",
             "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
@@ -57,20 +71,6 @@
             "match_id": 129268,
             "startTime": "12:00:00 AM 06-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/0iao5HJERWSuGBUeF88I_g/master.m3u8",
-            "adfree_url": null
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 3 vs TPC Deere Run (John Deere Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "TPC Deere Run",
-            "status": "LIVE",
-            "event_name": "John Deere Classic",
-            "match_name": "Main Feed - Day 3",
-            "match_id": 130230,
-            "startTime": "06:30:00 PM 05-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/OxjnhuIQQEiCjqONw9Z4Gg/master.m3u8",
             "adfree_url": null
         },
         {
@@ -168,18 +168,6 @@
             "match_name": "Zimbabwe vs South Africa",
             "match_id": 127559,
             "startTime": "01:30:00 PM 06-07-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "France Women vs England Women (UEFA Women's EURO 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123350_5107_FRA-W_ENG-W_fc-web.jpg",
-            "team_1": "France Women",
-            "team_2": "England Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's EURO 2025",
-            "match_name": "France Women vs England Women",
-            "match_id": 123350,
-            "startTime": "12:30:00 AM 06-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -480,6 +468,18 @@
             "match_name": "Men's Auction",
             "match_id": 130266,
             "startTime": "09:00:00 AM 06-07-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying 2 vs Norisring (DTM Norisring)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+            "team_1": "Qualifying 2",
+            "team_2": "Norisring",
+            "status": "UPCOMING",
+            "event_name": "DTM Norisring",
+            "match_name": "Qualifying 2",
+            "match_id": 130204,
+            "startTime": "12:45:00 PM 06-07-2025"
         }
     ]
 }
