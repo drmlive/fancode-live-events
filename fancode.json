@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:23:51 AM 05-07-2025",
+    "last update time": "10:33:56 AM 05-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,20 +18,6 @@
             "adfree_url": null
         },
         {
-            "event_category": "Baseball",
-            "title": "Oakland Athletics vs San Francisco Giants (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/130291_CASACARDS_APP.png",
-            "team_1": "Oakland Athletics",
-            "team_2": "San Francisco Giants",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Oakland Athletics vs San Francisco Giants",
-            "match_id": 130291,
-            "startTime": "07:35:00 AM 05-07-2025",
-            "dai_url": "https://in-mc-flive.fancode.com/mumbai/130291_english_hls_5704ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-flive.fancode.com/mumbai/130291_english_hls_5704ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Live events",
             "title": "Auction vs Grand Hyatt, Trivandrum (Kerala Cricket League Season 2)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Kerala-Cricket-League-Season-2_match-card.jpg",
@@ -43,20 +29,6 @@
             "match_id": 130463,
             "startTime": "10:00:00 AM 05-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/PpbIxVKIS4-6-cU1X6CqkQ/master.m3u8",
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia Blues vs Thunderstorm Outlanders (MCA T20 Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Tri-Series_old_02_1751607188364.jpg",
-            "team_1": "Malaysia Blues",
-            "team_2": "Thunderstorm Outlanders",
-            "status": "LIVE",
-            "event_name": "MCA T20 Tri-Series, 2025",
-            "match_name": "Malaysia Blues vs Thunderstorm Outlanders",
-            "match_id": 130377,
-            "startTime": "07:00:00 AM 05-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/gHXdfjwzQwuNbIp-0snUyA/master.m3u8",
             "adfree_url": null
         },
         {
@@ -372,6 +344,18 @@
             "startTime": "01:00:00 PM 06-07-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (ECS Bulgaria, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "ECS Bulgaria, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 129537,
+            "startTime": "01:15:00 PM 06-07-2025"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Qualifying 1 vs Norisring (DTM Norisring)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
@@ -408,18 +392,6 @@
             "startTime": "04:00:00 PM 05-07-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (ECS Bulgaria, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "ECS Bulgaria, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 129537,
-            "startTime": "01:15:00 PM 06-07-2025"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 3 vs Munich, Germany (BMW International Open)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-International-Open_old.jpg",
@@ -454,6 +426,30 @@
             "match_name": "Main Feed - Day 3",
             "match_id": 130230,
             "startTime": "05:30:00 PM 05-07-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 3 vs TPC Deere Run (John Deere Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
+            "team_1": "Featured Holes - Day 3",
+            "team_2": "TPC Deere Run",
+            "status": "UPCOMING",
+            "event_name": "John Deere Classic",
+            "match_name": "Featured Holes - Day 3",
+            "match_id": 130233,
+            "startTime": "05:30:00 PM 05-07-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Sprint Race vs Silverstone (F2 GREAT BRITAIN 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Silverstone",
+            "status": "UPCOMING",
+            "event_name": "F2 GREAT BRITAIN 2025",
+            "match_name": "Sprint Race",
+            "match_id": 119055,
+            "startTime": "05:45:00 PM 05-07-2025"
         }
     ]
 }
