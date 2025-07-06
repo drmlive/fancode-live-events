@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:04:02 PM 06-07-2025",
+    "last update time": "07:14:08 PM 06-07-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -16,6 +16,20 @@
             "startTime": "07:30:00 PM 06-07-2025",
             "dai_url": "https://dujudv04pcy56.cloudfront.net/out/v1/e669933ad5bf43038ebdb6ec9f817a8b/index.m3u8",
             "adfree_url": "https://dujudv04pcy56.cloudfront.net/out/v1/e669933ad5bf43038ebdb6ec9f817a8b/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+            "team_1": "Australia",
+            "team_2": "West Indies",
+            "status": "LIVE",
+            "event_name": "Australia Tour of West Indies, 2025",
+            "match_name": "Australia vs West Indies",
+            "match_id": 127551,
+            "startTime": "07:00:00 PM 03-07-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -71,20 +85,6 @@
             "match_id": 126559,
             "startTime": "07:15:00 PM 06-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/nNjqTyEHTyKGf5rplI8kow/master.m3u8",
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-            "team_1": "Australia",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "Australia Tour of West Indies, 2025",
-            "match_name": "Australia vs West Indies",
-            "match_id": 127551,
-            "startTime": "07:00:00 PM 03-07-2025",
-            "dai_url": null,
             "adfree_url": null
         },
         {
@@ -245,11 +245,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129851_5372_ITA_JER_fc-Web.jpg",
             "team_1": "Italy",
             "team_2": "Jersey",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men\u2019s T20 World Cup Europe Regional Final 2025",
             "match_name": "Italy vs Jersey",
             "match_id": 129851,
-            "startTime": "07:30:00 PM 06-07-2025"
+            "startTime": "07:30:00 PM 06-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/UVz3lyYGSgi975eW2BgnRw/master.m3u8",
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
