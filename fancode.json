@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:29:14 PM 06-07-2025",
+    "last update time": "12:39:21 PM 06-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -43,6 +43,20 @@
             "match_id": 130266,
             "startTime": "09:00:00 AM 06-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/fhgCV-8tRESxcaP7j-uUUw/master.m3u8",
+            "adfree_url": null
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying 2 vs Norisring (DTM Norisring)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+            "team_1": "Qualifying 2",
+            "team_2": "Norisring",
+            "status": "LIVE",
+            "event_name": "DTM Norisring",
+            "match_name": "Qualifying 2",
+            "match_id": 130204,
+            "startTime": "12:45:00 PM 06-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Uzz0JzWYTfyEBjckjPHnNA/master.m3u8",
             "adfree_url": null
         },
         {
@@ -322,18 +336,6 @@
             "startTime": "07:30:00 AM 07-07-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Qualifying 2 vs Norisring (DTM Norisring)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-            "team_1": "Qualifying 2",
-            "team_2": "Norisring",
-            "status": "UPCOMING",
-            "event_name": "DTM Norisring",
-            "match_name": "Qualifying 2",
-            "match_id": 130204,
-            "startTime": "12:45:00 PM 06-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Indonesia vs Philippines (Bali Bash International Tri Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130257_5392_INA_PHI_fc-Web.jpg",
@@ -418,6 +420,18 @@
             "startTime": "03:00:00 PM 07-07-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Scorchers Women vs Typhoons Women (Evoke Super 20 Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Evoke-Super-20-Trophy-old.jpg",
+            "team_1": "Scorchers Women",
+            "team_2": "Typhoons Women",
+            "status": "UPCOMING",
+            "event_name": "Evoke Super 20 Trophy, 2025",
+            "match_name": "Scorchers Women vs Typhoons Women",
+            "match_id": 129011,
+            "startTime": "03:15:00 PM 07-07-2025"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Feature Race vs Silverstone (F3 GREAT BRITAIN 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
@@ -452,18 +466,6 @@
             "match_name": "Feature Race",
             "match_id": 119056,
             "startTime": "03:35:00 PM 06-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Scorchers Women vs Typhoons Women (Evoke Super 20 Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Evoke-Super-20-Trophy-old.jpg",
-            "team_1": "Scorchers Women",
-            "team_2": "Typhoons Women",
-            "status": "UPCOMING",
-            "event_name": "Evoke Super 20 Trophy, 2025",
-            "match_name": "Scorchers Women vs Typhoons Women",
-            "match_id": 129011,
-            "startTime": "03:15:00 PM 07-07-2025"
         }
     ]
 }
