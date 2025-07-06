@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:32:42 PM 06-07-2025",
+    "last update time": "05:42:48 PM 06-07-2025",
     "matches": [
+        {
+            "event_category": "Formula 1",
+            "title": "Race vs Great Britain (F1 QATAR AIRWAYS BRITISH GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/British_GP_F1_GP_Old_match-card.jpg",
+            "team_1": "Race",
+            "team_2": "Great Britain",
+            "status": "LIVE",
+            "event_name": "F1 QATAR AIRWAYS BRITISH GRAND PRIX 2025",
+            "match_name": "Race",
+            "match_id": 118440,
+            "startTime": "07:30:00 PM 06-07-2025",
+            "dai_url": "https://dujudv04pcy56.cloudfront.net/out/v1/e669933ad5bf43038ebdb6ec9f817a8b/index.m3u8",
+            "adfree_url": "https://dujudv04pcy56.cloudfront.net/out/v1/e669933ad5bf43038ebdb6ec9f817a8b/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "South Africa vs Zimbabwe (South Africa tour of Zimbabwe, 2025)",
@@ -130,20 +144,6 @@
             "adfree_url": null
         },
         {
-            "event_category": "Formula 1",
-            "title": "Race vs Great Britain (F1 QATAR AIRWAYS BRITISH GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/British_GP_F1_GP_Old_match-card.jpg",
-            "team_1": "Race",
-            "team_2": "Great Britain",
-            "status": "LIVE",
-            "event_name": "F1 QATAR AIRWAYS BRITISH GRAND PRIX 2025",
-            "match_name": "Race",
-            "match_id": 118440,
-            "startTime": "07:30:00 PM 06-07-2025",
-            "dai_url": "https://dujudv04pcy56.cloudfront.net/out/v1/e669933ad5bf43038ebdb6ec9f817a8b/index.m3u8",
-            "adfree_url": "https://dujudv04pcy56.cloudfront.net/out/v1/e669933ad5bf43038ebdb6ec9f817a8b/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Australia vs West Indies (Australia Tour of West Indies, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
@@ -217,13 +217,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs Sofia Stars (ECS Bulgaria, 2025)",
+            "title": "Sofia Stars vs TBC (ECS Bulgaria, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-            "team_1": "TBC",
-            "team_2": "Sofia Stars",
+            "team_1": "Sofia Stars",
+            "team_2": "TBC",
             "status": "UPCOMING",
             "event_name": "ECS Bulgaria, 2025",
-            "match_name": "TBC vs Sofia Stars",
+            "match_name": "Sofia Stars vs TBC",
             "match_id": 129539,
             "startTime": "07:15:00 PM 06-07-2025"
         },
