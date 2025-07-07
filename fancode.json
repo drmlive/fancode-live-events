@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:58:16 PM 07-07-2025",
+    "last update time": "06:08:24 PM 07-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -107,11 +107,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
             "team_1": "Antwerp Giants",
             "team_2": "Leuven Lions",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECS Belgium, 2025",
             "match_name": "Antwerp Giants vs Leuven Lions",
             "match_id": 130332,
-            "startTime": "06:15:00 PM 07-07-2025"
+            "startTime": "06:15:00 PM 07-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/WiQIAQUwQuy5M_M0AQus4A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130332_english_hls_85075ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -462,16 +464,16 @@
             "startTime": "08:30:00 PM 08-07-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Angels vs Texas Rangers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/130298_CASACARDS_APP.png",
-            "team_1": "Los Angeles Angels",
-            "team_2": "Texas Rangers",
+            "event_category": "Cricket",
+            "title": "TBC vs Piton Strikers (St. Lucia T10 Blast, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "Piton Strikers",
             "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Angels vs Texas Rangers",
-            "match_id": 130298,
-            "startTime": "07:08:00 AM 08-07-2025"
+            "event_name": "St. Lucia T10 Blast, 2025",
+            "match_name": "TBC vs Piton Strikers",
+            "match_id": 129273,
+            "startTime": "09:30:00 PM 08-07-2025"
         }
     ]
 }
