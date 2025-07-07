@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:40:57 AM 07-07-2025",
+    "last update time": "06:51:07 AM 07-07-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Philippines vs South Korea (Bali Bash International Tri Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130256_5392_PHI_SK_fc-Web.jpg",
+            "team_1": "Philippines",
+            "team_2": "South Korea",
+            "status": "LIVE",
+            "event_name": "Bali Bash International Tri Series, 2025",
+            "match_name": "Philippines vs South Korea",
+            "match_id": 130256,
+            "startTime": "07:00:00 AM 07-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/jcGZsaRzSZybvBTRzT6owA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130256_english_hls_79912ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "South Africa vs Zimbabwe (South Africa tour of Zimbabwe, 2025)",
@@ -14,18 +28,6 @@
             "match_name": "South Africa vs Zimbabwe",
             "match_id": 127559,
             "startTime": "01:30:00 PM 06-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Philippines vs South Korea (Bali Bash International Tri Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130256_5392_PHI_SK_fc-Web.jpg",
-            "team_1": "Philippines",
-            "team_2": "South Korea",
-            "status": "UPCOMING",
-            "event_name": "Bali Bash International Tri Series, 2025",
-            "match_name": "Philippines vs South Korea",
-            "match_id": 130256,
-            "startTime": "07:00:00 AM 07-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -316,18 +318,6 @@
             "startTime": "07:00:00 AM 08-07-2025"
         },
         {
-            "event_category": "Live events",
-            "title": "Women's Auction vs Taj Palace, New Delhi (Delhi Premier League Auction 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Delhi_premier_league_Auction-Season-2_match-card.jpg",
-            "team_1": "Women's Auction",
-            "team_2": "Taj Palace, New Delhi",
-            "status": "UPCOMING",
-            "event_name": "Delhi Premier League Auction 2025",
-            "match_name": "Women's Auction",
-            "match_id": 130267,
-            "startTime": "09:00:00 AM 07-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gauhati Town Club vs 91 Yards Club (GTC Summer Challenge T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
@@ -338,6 +328,18 @@
             "match_name": "Gauhati Town Club vs 91 Yards Club",
             "match_id": 130404,
             "startTime": "09:30:00 AM 08-07-2025"
+        },
+        {
+            "event_category": "Live events",
+            "title": "Women's Auction vs Taj Palace, New Delhi (Delhi Premier League Auction 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Delhi_premier_league_Auction-Season-2_match-card.jpg",
+            "team_1": "Women's Auction",
+            "team_2": "Taj Palace, New Delhi",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League Auction 2025",
+            "match_name": "Women's Auction",
+            "match_id": 130267,
+            "startTime": "09:00:00 AM 07-07-2025"
         },
         {
             "event_category": "Cricket",
