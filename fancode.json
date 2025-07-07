@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:03:40 AM 07-07-2025",
+    "last update time": "11:13:48 AM 07-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -20,7 +20,7 @@
         {
             "event_category": "Live events",
             "title": "Women's Auction vs Taj Palace, New Delhi (Delhi Premier League Auction 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Delhi_premier_league_Auction-Season-2_match-card.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Delhi_premier_league_Auction-Season-2_match-card_1751866537990.jpg",
             "team_1": "Women's Auction",
             "team_2": "Taj Palace, New Delhi",
             "status": "LIVE",
@@ -49,11 +49,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130257_5392_INA_PHI_fc-Web.jpg",
             "team_1": "Indonesia",
             "team_2": "Philippines",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Bali Bash International Tri Series, 2025",
             "match_name": "Indonesia vs Philippines",
             "match_id": 130257,
-            "startTime": "11:30:00 AM 07-07-2025"
+            "startTime": "11:30:00 AM 07-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ppa6E91mQ7idZk6NizIrZg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130257_english_hls_3075ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -414,6 +416,18 @@
             "match_name": "Guernsey vs Jersey",
             "match_id": 129852,
             "startTime": "02:30:00 PM 08-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leinster Lightning vs Munster Reds (Ireland Inter-Provincial T20 Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125132_5173_LLG_MUR_fc-Web.jpg",
+            "team_1": "Leinster Lightning",
+            "team_2": "Munster Reds",
+            "status": "UPCOMING",
+            "event_name": "Ireland Inter-Provincial T20 Trophy, 2025",
+            "match_name": "Leinster Lightning vs Munster Reds",
+            "match_id": 125132,
+            "startTime": "03:15:00 PM 08-07-2025"
         }
     ]
 }
