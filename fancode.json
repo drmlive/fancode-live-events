@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:27:44 PM 08-07-2025",
+    "last update time": "10:37:52 PM 08-07-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Tour-of-Sri-Lanka,-ODIs-old-match-card.png",
-            "team_1": "Sri Lanka",
-            "team_2": "Bangladesh",
-            "status": "LIVE",
-            "event_name": "Bangladesh tour of Sri Lanka, 2025",
-            "match_name": "Sri Lanka vs Bangladesh",
-            "match_id": 128430,
-            "startTime": "02:30:00 PM 08-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1752037054~acl=/*~id=92593915061410228563724659866094~hmac=69c52012ac8551d65f94f5a3c7e6c84014f413fcd60ece05acf45156144de935"
-        },
         {
             "event_category": "Cricket",
             "title": "Scotland vs Netherlands (ICC Men\u2019s T20 World Cup Europe Regional Final 2025)",
@@ -61,20 +47,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Leuven Lions vs Brussels Bashers (ECS Belgium, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
-            "team_1": "Leuven Lions",
-            "team_2": "Brussels Bashers",
-            "status": "LIVE",
-            "event_name": "ECS Belgium, 2025",
-            "match_name": "Leuven Lions vs Brussels Bashers",
-            "match_id": 130338,
-            "startTime": "08:30:00 PM 08-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/QNc56O0OTSKX5ebZpQAw7Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130338_english_hls_94778ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Whiptail Smashers vs Piton Strikers (St. Lucia T10 Blast, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129246_5345_PTS_WTS_fc-Web.jpg",
             "team_1": "Whiptail Smashers",
@@ -98,8 +70,8 @@
             "match_name": "ACE KRM Panthers vs Super Lanka",
             "match_id": 129988,
             "startTime": "10:30:00 PM 08-07-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Su4-XO61TCu7lIGMAtR-4g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129988_english_hls_82599ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -114,6 +86,20 @@
             "startTime": "09:30:00 PM 08-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/gsbAjJqvR_-IeDks9K_Diw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/123357_english_hls_55822ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leuven Lions vs Brussels Bashers (ECS Belgium, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
+            "team_1": "Leuven Lions",
+            "team_2": "Brussels Bashers",
+            "status": "LIVE",
+            "event_name": "ECS Belgium, 2025",
+            "match_name": "Leuven Lions vs Brussels Bashers",
+            "match_id": 130338,
+            "startTime": "08:30:00 PM 08-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/QNc56O0OTSKX5ebZpQAw7Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130338_english_hls_94778ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -474,6 +460,18 @@
             "match_name": "France Women vs Wales Women",
             "match_id": 123359,
             "startTime": "12:30:00 AM 10-07-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Francisco Giants vs Philadelphia Phillies (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/130299_CASACARDS_APP.png",
+            "team_1": "San Francisco Giants",
+            "team_2": "Philadelphia Phillies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Francisco Giants vs Philadelphia Phillies",
+            "match_id": 130299,
+            "startTime": "07:15:00 AM 09-07-2025"
         }
     ]
 }
