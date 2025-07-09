@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:44:34 PM 09-07-2025",
+    "last update time": "10:54:41 PM 09-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
             "team_1": "England Women",
             "team_2": "India Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "India Women tour of England, 2025",
             "match_name": "England Women vs India Women",
             "match_id": 128743,
-            "startTime": "11:00:00 PM 09-07-2025"
+            "startTime": "11:00:00 PM 09-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022320/INWENW/master.m3u8?hdnea=exp=1752125081~acl=/*~id=07659980135263681679336851681960~hmac=492954c100c1581900e20593dbc56b7ce3bb3c890542f3ae47398c120ba4e632"
         },
         {
             "event_category": "Cricket",
@@ -26,20 +28,6 @@
             "match_name": "Gloucestershire vs Surrey",
             "match_id": 125977,
             "startTime": "11:30:00 PM 09-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Netherlands vs Guernsey (ICC Men\u2019s T20 World Cup Europe Regional Final 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/129855_5372_GSY_NED_fc-Web.jpg",
-            "team_1": "Netherlands",
-            "team_2": "Guernsey",
-            "status": "LIVE",
-            "event_name": "ICC Men\u2019s T20 World Cup Europe Regional Final 2025",
-            "match_name": "Netherlands vs Guernsey",
-            "match_id": 129855,
-            "startTime": "07:30:00 PM 09-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/cL8CmzDjRpe_0pZX0rfrGg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129855_english_hls_81632ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -456,6 +444,18 @@
             "match_name": "Guyana Amazon Warriors vs Rangpur Riders",
             "match_id": 130481,
             "startTime": "04:30:00 AM 11-07-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Baltimore Orioles vs New York Mets (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/130303_CASACARDS_APP.png",
+            "team_1": "Baltimore Orioles",
+            "team_2": "New York Mets",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Baltimore Orioles vs New York Mets",
+            "match_id": 130303,
+            "startTime": "10:35:00 PM 10-07-2025"
         }
     ]
 }
