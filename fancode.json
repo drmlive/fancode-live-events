@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:48:56 PM 09-07-2025",
+    "last update time": "02:59:04 PM 09-07-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -129,11 +129,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125134_5173_MUR_NK_fc-Web.jpg",
             "team_1": "Munster Reds",
             "team_2": "Northern Knights",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Ireland Inter-Provincial T20 Trophy, 2025",
             "match_name": "Munster Reds vs Northern Knights",
             "match_id": 125134,
-            "startTime": "03:15:00 PM 09-07-2025"
+            "startTime": "03:15:00 PM 09-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/fsAzoSoeTpW9M25LRIqAUw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/125134_english_hls_46932ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -448,18 +450,6 @@
             "startTime": "05:15:00 PM 10-07-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "San Francisco Giants vs Philadelphia Phillies (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/130301_CASACARDS_APP.png",
-            "team_1": "San Francisco Giants",
-            "team_2": "Philadelphia Phillies",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "San Francisco Giants vs Philadelphia Phillies",
-            "match_id": 130301,
-            "startTime": "01:15:00 AM 10-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Villianur Mohit Kings vs Karaikal Kniights (Pondicherry Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
@@ -470,6 +460,18 @@
             "match_name": "Villianur Mohit Kings vs Karaikal Kniights",
             "match_id": 130107,
             "startTime": "06:00:00 PM 10-07-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Francisco Giants vs Philadelphia Phillies (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/130301_CASACARDS_APP.png",
+            "team_1": "San Francisco Giants",
+            "team_2": "Philadelphia Phillies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Francisco Giants vs Philadelphia Phillies",
+            "match_id": 130301,
+            "startTime": "01:15:00 AM 10-07-2025"
         }
     ]
 }
