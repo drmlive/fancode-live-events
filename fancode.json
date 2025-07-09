@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:51:11 PM 09-07-2025",
+    "last update time": "06:01:22 PM 09-07-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Italy vs Scotland (ICC Men\u2019s T20 World Cup Europe Regional Final 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/129854_5372_ITA_SCO_fc-Web.jpg",
-            "team_1": "Italy",
-            "team_2": "Scotland",
-            "status": "LIVE",
-            "event_name": "ICC Men\u2019s T20 World Cup Europe Regional Final 2025",
-            "match_name": "Italy vs Scotland",
-            "match_id": 129854,
-            "startTime": "02:30:00 PM 09-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LXeyNhaJQtGJmC2pBBu_Gg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129854_english_hls_79321ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Munster Reds vs Northern Knights (Ireland Inter-Provincial T20 Trophy, 2025)",
@@ -75,6 +61,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Italy vs Scotland (ICC Men\u2019s T20 World Cup Europe Regional Final 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129854_5372_ITA_SCO_fc-Web.jpg",
+            "team_1": "Italy",
+            "team_2": "Scotland",
+            "status": "LIVE",
+            "event_name": "ICC Men\u2019s T20 World Cup Europe Regional Final 2025",
+            "match_name": "Italy vs Scotland",
+            "match_id": 129854,
+            "startTime": "02:30:00 PM 09-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LXeyNhaJQtGJmC2pBBu_Gg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129854_english_hls_79321ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "England Women vs India Women (India Women tour of England, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
             "team_1": "England Women",
@@ -103,11 +103,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
             "team_1": "Leuven Lions",
             "team_2": "Hasselt Titans",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECS Belgium, 2025",
             "match_name": "Leuven Lions vs Hasselt Titans",
             "match_id": 130342,
-            "startTime": "06:15:00 PM 09-07-2025"
+            "startTime": "06:15:00 PM 09-07-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -279,18 +281,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mahe Megalo Strikers vs Ossudu Accord Warriors (Pondicherry Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-            "team_1": "Mahe Megalo Strikers",
-            "team_2": "Ossudu Accord Warriors",
-            "status": "UPCOMING",
-            "event_name": "Pondicherry Premier League, 2025",
-            "match_name": "Mahe Megalo Strikers vs Ossudu Accord Warriors",
-            "match_id": 130106,
-            "startTime": "02:00:00 PM 10-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Sri Lanka vs Bangladesh (Bangladesh tour of Sri Lanka, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Sri Lanka",
@@ -300,6 +290,18 @@
             "match_name": "Sri Lanka vs Bangladesh",
             "match_id": 128431,
             "startTime": "07:00:00 PM 10-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mahe Megalo Strikers vs Ossudu Accord Warriors (Pondicherry Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
+            "team_1": "Mahe Megalo Strikers",
+            "team_2": "Ossudu Accord Warriors",
+            "status": "UPCOMING",
+            "event_name": "Pondicherry Premier League, 2025",
+            "match_name": "Mahe Megalo Strikers vs Ossudu Accord Warriors",
+            "match_id": 130106,
+            "startTime": "02:00:00 PM 10-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -444,6 +446,18 @@
             "match_name": "San Francisco Giants vs Philadelphia Phillies",
             "match_id": 130301,
             "startTime": "01:15:00 AM 10-07-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Detroit Tigers vs Tampa Bay Rays (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/130300_CASACARDS_APP.png",
+            "team_1": "Detroit Tigers",
+            "team_2": "Tampa Bay Rays",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Detroit Tigers vs Tampa Bay Rays",
+            "match_id": 130300,
+            "startTime": "02:40:00 AM 10-07-2025"
         }
     ]
 }
