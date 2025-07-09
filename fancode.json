@@ -1,20 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:09:11 PM 09-07-2025",
+    "last update time": "03:19:21 PM 09-07-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "England Women vs Netherlands Women (UEFA Women's EURO 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123358_5107_ENG-W_NED-W_fc-web.jpg",
-            "team_1": "England Women",
-            "team_2": "Netherlands Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's EURO 2025",
-            "match_name": "England Women vs Netherlands Women",
-            "match_id": 123358,
-            "startTime": "09:30:00 PM 09-07-2025"
-        },
         {
             "event_category": "Cricket",
             "title": "Thunderstorm Outlanders vs Malaysia Blues (MCA T20 Tri-Series, 2025)",
@@ -114,6 +102,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/125134_english_hls_46932ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Interwetten Open vs Austria (Interwetten Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Interwetten-Open-old_1751303961586.jpg",
+            "team_1": "Interwetten Open",
+            "team_2": "Austria",
+            "status": "LIVE",
+            "event_name": "Interwetten Open",
+            "match_name": "Interwetten Open",
+            "match_id": 129653,
+            "startTime": "03:25:00 PM 09-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/g_BUtcStReSRSCkZw7uVwg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129653_english_hls_46154ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "England Women vs India Women (India Women tour of England, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
@@ -151,13 +153,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Hasselt Titans vs Liege Stallions (ECS Belgium, 2025)",
+            "title": "Liege Stallions vs Hasselt Titans (ECS Belgium, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
-            "team_1": "Hasselt Titans",
-            "team_2": "Liege Stallions",
+            "team_1": "Liege Stallions",
+            "team_2": "Hasselt Titans",
             "status": "UPCOMING",
             "event_name": "ECS Belgium, 2025",
-            "match_name": "Hasselt Titans vs Liege Stallions",
+            "match_name": "Liege Stallions vs Hasselt Titans",
             "match_id": 130341,
             "startTime": "04:15:00 PM 09-07-2025"
         },
@@ -259,6 +261,18 @@
         },
         {
             "event_category": "Football",
+            "title": "England Women vs Netherlands Women (UEFA Women's EURO 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123358_5107_ENG-W_NED-W_fc-web.jpg",
+            "team_1": "England Women",
+            "team_2": "Netherlands Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's EURO 2025",
+            "match_name": "England Women vs Netherlands Women",
+            "match_id": 123358,
+            "startTime": "09:30:00 PM 09-07-2025"
+        },
+        {
+            "event_category": "Football",
             "title": "France Women vs Wales Women (UEFA Women's EURO 2025)",
             "src": "https://images.fancode.com/aig/match/v1/123359_CASACARDS_APP.png",
             "team_1": "France Women",
@@ -304,18 +318,6 @@
             "match_name": "Philippines vs South Korea",
             "match_id": 130261,
             "startTime": "11:30:00 AM 10-07-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Interwetten Open vs Austria (Interwetten Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Interwetten-Open-old_1751303961586.jpg",
-            "team_1": "Interwetten Open",
-            "team_2": "Austria",
-            "status": "UPCOMING",
-            "event_name": "Interwetten Open",
-            "match_name": "Interwetten Open",
-            "match_id": 129653,
-            "startTime": "03:25:00 PM 09-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -462,16 +464,16 @@
             "startTime": "06:00:00 PM 10-07-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "San Francisco Giants vs Philadelphia Phillies (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/130301_CASACARDS_APP.png",
-            "team_1": "San Francisco Giants",
-            "team_2": "Philadelphia Phillies",
+            "event_category": "Cricket",
+            "title": "Antwerp Giants vs Hasselt Titans (ECS Belgium, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
+            "team_1": "Antwerp Giants",
+            "team_2": "Hasselt Titans",
             "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "San Francisco Giants vs Philadelphia Phillies",
-            "match_id": 130301,
-            "startTime": "01:15:00 AM 10-07-2025"
+            "event_name": "ECS Belgium, 2025",
+            "match_name": "Antwerp Giants vs Hasselt Titans",
+            "match_id": 130348,
+            "startTime": "06:15:00 PM 10-07-2025"
         }
     ]
 }
