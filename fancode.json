@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:08:19 PM 09-07-2025",
+    "last update time": "02:18:36 PM 09-07-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,20 +14,6 @@
             "match_name": "England Women vs Netherlands Women",
             "match_id": 123358,
             "startTime": "09:30:00 PM 09-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Assam Women vs Malaysia Women (Assam Women tour of Malaysia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Assam-Women's-Tour-of-Malaysia-old-match-card.png",
-            "team_1": "Assam Women",
-            "team_2": "Malaysia Women",
-            "status": "LIVE",
-            "event_name": "Assam Women tour of Malaysia, 2025",
-            "match_name": "Assam Women vs Malaysia Women",
-            "match_id": 130524,
-            "startTime": "07:30:00 AM 09-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/xK6MW1I6TmiEPAKxspo73A/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130524_english_hls_70274ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -115,6 +101,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Italy vs Scotland (ICC Men\u2019s T20 World Cup Europe Regional Final 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129854_5372_ITA_SCO_fc-Web.jpg",
+            "team_1": "Italy",
+            "team_2": "Scotland",
+            "status": "LIVE",
+            "event_name": "ICC Men\u2019s T20 World Cup Europe Regional Final 2025",
+            "match_name": "Italy vs Scotland",
+            "match_id": 129854,
+            "startTime": "02:30:00 PM 09-07-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Cricket",
             "title": "England Women vs India Women (India Women tour of England, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_match-card.jpg",
             "team_1": "England Women",
@@ -136,18 +136,6 @@
             "match_name": "Gloucestershire vs Surrey",
             "match_id": 125977,
             "startTime": "11:30:00 PM 09-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Italy vs Scotland (ICC Men\u2019s T20 World Cup Europe Regional Final 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/129854_5372_ITA_SCO_fc-Web.jpg",
-            "team_1": "Italy",
-            "team_2": "Scotland",
-            "status": "UPCOMING",
-            "event_name": "ICC Men\u2019s T20 World Cup Europe Regional Final 2025",
-            "match_name": "Italy vs Scotland",
-            "match_id": 129854,
-            "startTime": "02:30:00 PM 09-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -472,6 +460,18 @@
             "match_name": "Malawi vs Germany",
             "match_id": 130194,
             "startTime": "05:15:00 PM 10-07-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Francisco Giants vs Philadelphia Phillies (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/130301_CASACARDS_APP.png",
+            "team_1": "San Francisco Giants",
+            "team_2": "Philadelphia Phillies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Francisco Giants vs Philadelphia Phillies",
+            "match_id": 130301,
+            "startTime": "01:15:00 AM 10-07-2025"
         }
     ]
 }
