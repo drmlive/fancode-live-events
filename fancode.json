@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:33:53 PM 10-07-2025",
+    "last update time": "01:44:01 PM 10-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -103,11 +103,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
             "team_1": "Ossudu Accord Warriors",
             "team_2": "Mahe Megalo Strikers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Pondicherry Premier League, 2025",
             "match_name": "Ossudu Accord Warriors vs Mahe Megalo Strikers",
             "match_id": 130106,
-            "startTime": "02:00:00 PM 10-07-2025"
+            "startTime": "02:00:00 PM 10-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/T5GmOi9-Q8OtfnhKkZUXPA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130106_english_hls_57832ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -410,18 +412,6 @@
             "startTime": "05:30:00 PM 10-07-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Baltimore Orioles vs New York Mets (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/130303_CASACARDS_APP.png",
-            "team_1": "Baltimore Orioles",
-            "team_2": "New York Mets",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Baltimore Orioles vs New York Mets",
-            "match_id": 130303,
-            "startTime": "09:35:00 PM 10-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gibraltar vs Bulgaria (ECN Bulgaria T20I, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Bulgaria-T20I-old.png",
@@ -432,6 +422,18 @@
             "match_name": "Gibraltar vs Bulgaria",
             "match_id": 130551,
             "startTime": "04:30:00 PM 11-07-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Baltimore Orioles vs New York Mets (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v2/130303_CASACARDS_APP.png",
+            "team_1": "Baltimore Orioles",
+            "team_2": "New York Mets",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Baltimore Orioles vs New York Mets",
+            "match_id": 130303,
+            "startTime": "09:35:00 PM 10-07-2025"
         },
         {
             "event_category": "Golf",
