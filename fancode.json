@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:19:46 PM 10-07-2025",
+    "last update time": "10:29:53 PM 10-07-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Tour-of-Sri-Lanka,-T20Is-old-match-card.png",
-            "team_1": "Bangladesh",
-            "team_2": "Sri Lanka",
-            "status": "LIVE",
-            "event_name": "Bangladesh tour of Sri Lanka, 2025",
-            "match_name": "Bangladesh vs Sri Lanka",
-            "match_id": 128431,
-            "startTime": "07:00:00 PM 10-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1752196658~acl=/*~id=94296374638660046758429788205981~hmac=e552e24cda67af7922e037db44ac361833518d7a82ff868305422229e0db369a"
-        },
         {
             "event_category": "Cricket",
             "title": "Dubai Capitals vs Central Stags (Global Super League, 2025)",
@@ -30,6 +16,20 @@
             "startTime": "07:30:00 PM 10-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_DHLHV9TSXOSqM-gcH-yZg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130480_english_hls_94270ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Sri Lanka (Bangladesh tour of Sri Lanka, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Tour-of-Sri-Lanka,-T20Is-old-match-card.png",
+            "team_1": "Bangladesh",
+            "team_2": "Sri Lanka",
+            "status": "LIVE",
+            "event_name": "Bangladesh tour of Sri Lanka, 2025",
+            "match_name": "Bangladesh vs Sri Lanka",
+            "match_id": 128431,
+            "startTime": "07:00:00 PM 10-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037140/DAI20BANSL/master.m3u8?hdnea=exp=1752196658~acl=/*~id=94296374638660046758429788205981~hmac=e552e24cda67af7922e037db44ac361833518d7a82ff868305422229e0db369a"
         },
         {
             "event_category": "Cricket",
@@ -86,20 +86,6 @@
             "startTime": "09:35:00 PM 10-07-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130303_english_hls_76019ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130303_english_hls_76019ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Leuven Lions vs Gent Wolves (ECS Belgium, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
-            "team_1": "Leuven Lions",
-            "team_2": "Gent Wolves",
-            "status": "LIVE",
-            "event_name": "ECS Belgium, 2025",
-            "match_name": "Leuven Lions vs Gent Wolves",
-            "match_id": 130349,
-            "startTime": "08:30:00 PM 10-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/EILJ9XqwTEmlsY8BHujXPA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130349_english_hls_50033ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -472,6 +458,18 @@
             "match_name": "Central Stags vs Guyana Amazon Warriors",
             "match_id": 130483,
             "startTime": "04:30:00 AM 12-07-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Sachsenring (LIQUI MOLY GRAND PRIX OF GERMANY)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Germany_MotoGP_old_Match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Sachsenring",
+            "status": "UPCOMING",
+            "event_name": "LIQUI MOLY GRAND PRIX OF GERMANY",
+            "match_name": "Day 1",
+            "match_id": 118604,
+            "startTime": "12:30:00 PM 11-07-2025"
         }
     ]
 }
