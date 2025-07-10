@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:51:33 AM 10-07-2025",
+    "last update time": "10:01:38 AM 10-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "09:30:00 AM 10-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/uuZNJGbRRS-FHLbIumL7zA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130408_english_hls_57142ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Oakland Athletics vs Atlanta Braves (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/130302_CASACARDS_APP.png",
-            "team_1": "Oakland Athletics",
-            "team_2": "Atlanta Braves",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Oakland Athletics vs Atlanta Braves",
-            "match_id": 130302,
-            "startTime": "07:35:00 AM 10-07-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130302_english_hls_42466ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130302_english_hls_42466ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -440,6 +426,18 @@
             "match_name": "Ossudu Accord Warriors vs Genid Yanam Royals",
             "match_id": 130108,
             "startTime": "02:00:00 PM 11-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (ECS Belgium, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "ECS Belgium, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 130351,
+            "startTime": "02:15:00 PM 11-07-2025"
         }
     ]
 }
