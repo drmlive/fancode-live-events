@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:34:49 PM 11-07-2025",
+    "last update time": "10:45:01 PM 11-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "10:00:00 PM 11-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/CgoFVNFJSTOuXiHzFNQenw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/125983_english_hls_52805ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hampshire Women vs Durham Women (Women's Vitality Blast T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/125870_5206_DHW_HAM-W_fc-Web.jpg",
+            "team_1": "Hampshire Women",
+            "team_2": "Durham Women",
+            "status": "LIVE",
+            "event_name": "Women's Vitality Blast T20, 2025",
+            "match_name": "Hampshire Women vs Durham Women",
+            "match_id": 125870,
+            "startTime": "11:00:00 PM 11-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/BzAXDZeEQzGMF6Xk-paxHw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/125870_english_hls_92521ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -89,41 +103,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Hasselt Titans vs Brussels Bashers (ECS Belgium, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_01.jpg",
-            "team_1": "Hasselt Titans",
-            "team_2": "Brussels Bashers",
-            "status": "LIVE",
-            "event_name": "ECS Belgium, 2025",
-            "match_name": "Hasselt Titans vs Brussels Bashers",
-            "match_id": 130353,
-            "startTime": "08:30:00 PM 11-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/i_-8e5ZNTDOcO8G5y47FFg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130353_english_hls_62489ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Somerset Women vs Warwickshire Women (Women's Vitality Blast T20, 2025)",
+            "title": "Warwickshire Women vs Somerset Women (Women's Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125871_5206_SSW_WKW_fc-Web.jpg",
-            "team_1": "Somerset Women",
-            "team_2": "Warwickshire Women",
-            "status": "UPCOMING",
+            "team_1": "Warwickshire Women",
+            "team_2": "Somerset Women",
+            "status": "LIVE",
             "event_name": "Women's Vitality Blast T20, 2025",
-            "match_name": "Somerset Women vs Warwickshire Women",
+            "match_name": "Warwickshire Women vs Somerset Women",
             "match_id": 125871,
-            "startTime": "11:00:00 PM 11-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Durham Women vs Hampshire Women (Women's Vitality Blast T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125870_5206_DHW_HAM-W_fc-Web.jpg",
-            "team_1": "Durham Women",
-            "team_2": "Hampshire Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Vitality Blast T20, 2025",
-            "match_name": "Durham Women vs Hampshire Women",
-            "match_id": 125870,
-            "startTime": "11:00:00 PM 11-07-2025"
+            "startTime": "11:00:00 PM 11-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/MQotSG0AQ56n0MxRz7iuJA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/125871_english_hls_74132ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -472,6 +462,18 @@
             "match_name": "Day 2",
             "match_id": 130545,
             "startTime": "01:30:00 AM 12-07-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Francisco Giants vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v2/130305_CASACARDS_APP.png",
+            "team_1": "San Francisco Giants",
+            "team_2": "Los Angeles Dodgers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Francisco Giants vs Los Angeles Dodgers",
+            "match_id": 130305,
+            "startTime": "07:45:00 AM 12-07-2025"
         }
     ]
 }
