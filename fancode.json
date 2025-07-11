@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:57:04 AM 12-07-2025",
+    "last update time": "02:07:09 AM 12-07-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Warwickshire Women vs Somerset Women (Women's Vitality Blast T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/125871_5206_SSW_WKW_fc-Web.jpg",
-            "team_1": "Warwickshire Women",
-            "team_2": "Somerset Women",
-            "status": "LIVE",
-            "event_name": "Women's Vitality Blast T20, 2025",
-            "match_name": "Warwickshire Women vs Somerset Women",
-            "match_id": 125871,
-            "startTime": "11:00:00 PM 11-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/MQotSG0AQ56n0MxRz7iuJA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/125871_english_hls_74132ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Yorkshire vs Lancashire (Vitality Blast T20, 2025)",
@@ -161,6 +147,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+            "team_1": "West Indies",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "event_name": "Australia Tour of West Indies, 2025",
+            "match_name": "West Indies vs Australia",
+            "match_id": 127552,
+            "startTime": "12:00:00 AM 13-07-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Belgium Belforts-W vs French Eiffels-W (ECS-W Belgium, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Belgium,-2025_match-card.jpg",
             "team_1": "Belgium Belforts-W",
@@ -182,18 +180,6 @@
             "match_name": "Turkiye vs Bulgaria",
             "match_id": 130552,
             "startTime": "12:30:00 PM 12-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-            "team_1": "West Indies",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "event_name": "Australia Tour of West Indies, 2025",
-            "match_name": "West Indies vs Australia",
-            "match_id": 127552,
-            "startTime": "12:00:00 AM 13-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -410,6 +396,18 @@
             "match_name": "Day 2",
             "match_id": 130244,
             "startTime": "04:35:00 PM 12-07-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs North Berwick, Scotland (Genesis Scottish Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Scottish-open-old.jpg",
+            "team_1": "Day 3",
+            "team_2": "North Berwick, Scotland",
+            "status": "UPCOMING",
+            "event_name": "Genesis Scottish Open",
+            "match_name": "Day 3",
+            "match_id": 130155,
+            "startTime": "07:00:00 PM 12-07-2025"
         }
     ]
 }
