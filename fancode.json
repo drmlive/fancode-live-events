@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:20:39 AM 12-07-2025",
+    "last update time": "07:30:46 AM 12-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "07:30:00 AM 12-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/MyEHCiiYTLOhvhPnm22zZQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129717_english_hls_53089ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Francisco Giants vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v2/130305_CASACARDS_APP.png",
+            "team_1": "San Francisco Giants",
+            "team_2": "Los Angeles Dodgers",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Francisco Giants vs Los Angeles Dodgers",
+            "match_id": 130305,
+            "startTime": "07:45:00 AM 12-07-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130305_english_hls_39471ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130305_english_hls_39471ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -298,18 +312,6 @@
             "startTime": "12:30:00 AM 13-07-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "San Francisco Giants vs Los Angeles Dodgers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/130305_CASACARDS_APP.png",
-            "team_1": "San Francisco Giants",
-            "team_2": "Los Angeles Dodgers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "San Francisco Giants vs Los Angeles Dodgers",
-            "match_id": 130305,
-            "startTime": "07:45:00 AM 12-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Indonesia vs Philippines (Bali Bash International Tri Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130264_5392_INA_PHI_fc-Web.jpg",
@@ -404,6 +406,18 @@
             "match_name": "New York Yankees vs Chicago Cubs",
             "match_id": 130306,
             "startTime": "10:35:00 PM 12-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Korea vs Indonesia (Bali Bash International Tri Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130265_5392_SK_INA_fc-Web.jpg",
+            "team_1": "South Korea",
+            "team_2": "Indonesia",
+            "status": "UPCOMING",
+            "event_name": "Bali Bash International Tri Series, 2025",
+            "match_name": "South Korea vs Indonesia",
+            "match_id": 130265,
+            "startTime": "11:30:00 AM 13-07-2025"
         }
     ]
 }
