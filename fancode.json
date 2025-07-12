@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:02:29 AM 13-07-2025",
+    "last update time": "02:12:34 AM 13-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "12:30:00 AM 13-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/6LhflSXcT9uZ30sZKQv-Aw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/123364_english_hls_7817ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "New York Yankees vs Chicago Cubs (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/130306_CASACARDS_APP.png",
-            "team_1": "New York Yankees",
-            "team_2": "Chicago Cubs",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "New York Yankees vs Chicago Cubs",
-            "match_id": 130306,
-            "startTime": "10:35:00 PM 12-07-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130306_english_hls_28936ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130306_english_hls_28936ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -472,6 +458,18 @@
             "match_name": "Race Day",
             "match_id": 118608,
             "startTime": "02:30:00 PM 13-07-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Real Club Valderrama, Spain (LIV Golf Andalucia 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Andalucia-old.jpg",
+            "team_1": "Day 3",
+            "team_2": "Real Club Valderrama, Spain",
+            "status": "UPCOMING",
+            "event_name": "LIV Golf Andalucia 2025",
+            "match_name": "Day 3",
+            "match_id": 130245,
+            "startTime": "03:05:00 PM 13-07-2025"
         }
     ]
 }
