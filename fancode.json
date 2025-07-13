@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:49:31 PM 13-07-2025",
+    "last update time": "01:59:43 PM 13-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -98,8 +98,8 @@
             "match_name": "Genid Yanam Royals vs Karaikal Kniights",
             "match_id": 130112,
             "startTime": "02:00:00 PM 13-07-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/xVgNRNhPRs2clFm2ESX2cw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130112_english_hls_66676ta-di_h264/index.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -193,11 +193,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Belgium,-2025_match-card.jpg",
             "team_1": "Belgium Belforts-W",
             "team_2": "Luxembourg Mullerthals-W",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECS-W Belgium, 2025",
             "match_name": "Belgium Belforts-W vs Luxembourg Mullerthals-W",
             "match_id": 130585,
-            "startTime": "02:15:00 PM 13-07-2025"
+            "startTime": "02:15:00 PM 13-07-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -369,18 +371,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "VFB Gelsenkirchen vs Koln CC (ECS Germany, Krefeld, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/130588_CASACARDS_APP.png",
-            "team_1": "VFB Gelsenkirchen",
-            "team_2": "Koln CC",
-            "status": "UPCOMING",
-            "event_name": "ECS Germany, Krefeld, 2025",
-            "match_name": "VFB Gelsenkirchen vs Koln CC",
-            "match_id": 130588,
-            "startTime": "12:30:00 PM 14-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Zimbabwe vs South Africa (Zimbabwe T20I Tri Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128753_5315_ZIM_SA_fc-web.jpg",
             "team_1": "Zimbabwe",
@@ -390,6 +380,18 @@
             "match_name": "Zimbabwe vs South Africa",
             "match_id": 128753,
             "startTime": "04:30:00 PM 14-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "VFB Gelsenkirchen vs Koln CC (ECS Germany, Krefeld, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/130588_CASACARDS_APP.png",
+            "team_1": "VFB Gelsenkirchen",
+            "team_2": "Koln CC",
+            "status": "UPCOMING",
+            "event_name": "ECS Germany, Krefeld, 2025",
+            "match_name": "VFB Gelsenkirchen vs Koln CC",
+            "match_id": 130588,
+            "startTime": "12:30:00 PM 14-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -428,18 +430,6 @@
             "startTime": "03:05:00 PM 13-07-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 vs North Berwick, Scotland (Genesis Scottish Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Scottish-open-old.jpg",
-            "team_1": "Day 4",
-            "team_2": "North Berwick, Scotland",
-            "status": "UPCOMING",
-            "event_name": "Genesis Scottish Open",
-            "match_name": "Day 4",
-            "match_id": 130156,
-            "startTime": "07:00:00 PM 13-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Koln CC vs Lenkerbeck Marl (ECS Germany, Krefeld, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/130590_CASACARDS_APP.png",
@@ -450,6 +440,18 @@
             "match_name": "Koln CC vs Lenkerbeck Marl",
             "match_id": 130590,
             "startTime": "04:45:00 PM 14-07-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs North Berwick, Scotland (Genesis Scottish Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Genesis-Scottish-open-old.jpg",
+            "team_1": "Day 4",
+            "team_2": "North Berwick, Scotland",
+            "status": "UPCOMING",
+            "event_name": "Genesis Scottish Open",
+            "match_name": "Day 4",
+            "match_id": 130156,
+            "startTime": "07:00:00 PM 13-07-2025"
         },
         {
             "event_category": "Golf",
