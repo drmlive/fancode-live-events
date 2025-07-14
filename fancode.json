@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:48:19 PM 14-07-2025",
+    "last update time": "08:58:30 PM 14-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "Grey Caps Aachen vs Lenkerbeck Marl",
             "match_id": 130592,
             "startTime": "09:00:00 PM 14-07-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/b6UXj3-HQNy1amVcvpNYuQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130592_english_hls_57622ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -139,18 +139,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Lenkerbeck Marl vs VFB Gelsenkirchen (ECS Germany, Krefeld, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
-            "team_1": "Lenkerbeck Marl",
-            "team_2": "VFB Gelsenkirchen",
-            "status": "UPCOMING",
-            "event_name": "ECS Germany, Krefeld, 2025",
-            "match_name": "Lenkerbeck Marl vs VFB Gelsenkirchen",
-            "match_id": 130596,
-            "startTime": "06:45:00 PM 15-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Durham vs Leicestershire (Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125998_5207_DUR_LEI_fc-Web.jpg",
             "team_1": "Durham",
@@ -160,6 +148,18 @@
             "match_name": "Durham vs Leicestershire",
             "match_id": 125998,
             "startTime": "11:00:00 PM 15-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lenkerbeck Marl vs VFB Gelsenkirchen (ECS Germany, Krefeld, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
+            "team_1": "Lenkerbeck Marl",
+            "team_2": "VFB Gelsenkirchen",
+            "status": "UPCOMING",
+            "event_name": "ECS Germany, Krefeld, 2025",
+            "match_name": "Lenkerbeck Marl vs VFB Gelsenkirchen",
+            "match_id": 130596,
+            "startTime": "06:45:00 PM 15-07-2025"
         },
         {
             "event_category": "Cricket",
