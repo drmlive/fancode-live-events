@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:51:23 AM 16-07-2025",
+    "last update time": "04:01:32 AM 16-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130486_5402_HUR_CS_fc-Web_1752057007000.jpg",
             "team_1": "Central Stags",
             "team_2": "Hobart Hurricanes",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Global Super League, 2025",
             "match_name": "Central Stags vs Hobart Hurricanes",
             "match_id": 130486,
-            "startTime": "04:30:00 AM 16-07-2025"
+            "startTime": "04:30:00 AM 16-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/yufQKSDbQx6eZV8OVkD8aA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130486_english_hls_44024ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -233,18 +235,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Fakhr-E-Kashmir vs Super Lanka (KCC T20 Summer League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/129998_5379_FEK_SUL_fc-web.jpg",
-            "team_1": "Fakhr-E-Kashmir",
-            "team_2": "Super Lanka",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Summer League, 2025",
-            "match_name": "Fakhr-E-Kashmir vs Super Lanka",
-            "match_id": 129998,
-            "startTime": "11:00:00 PM 16-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Guyana Amazon Warriors vs Hobart Hurricanes (Global Super League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130488_5402_GUY_HUR_fc-Web_1752057007043.jpg",
             "team_1": "Guyana Amazon Warriors",
@@ -254,6 +244,18 @@
             "match_name": "Guyana Amazon Warriors vs Hobart Hurricanes",
             "match_id": 130488,
             "startTime": "04:30:00 AM 17-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Fakhr-E-Kashmir vs Super Lanka (KCC T20 Summer League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129998_5379_FEK_SUL_fc-web.jpg",
+            "team_1": "Fakhr-E-Kashmir",
+            "team_2": "Super Lanka",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Summer League, 2025",
+            "match_name": "Fakhr-E-Kashmir vs Super Lanka",
+            "match_id": 129998,
+            "startTime": "11:00:00 PM 16-07-2025"
         },
         {
             "event_category": "Football",
