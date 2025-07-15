@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:58:29 PM 15-07-2025",
+    "last update time": "11:08:36 PM 15-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125998_5207_DUR_LEI_fc-Web.jpg",
             "team_1": "Durham",
             "team_2": "Leicestershire",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Vitality Blast T20, 2025",
             "match_name": "Durham vs Leicestershire",
             "match_id": 125998,
-            "startTime": "11:00:00 PM 15-07-2025"
+            "startTime": "11:00:00 PM 15-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -28,20 +30,6 @@
             "startTime": "10:30:00 PM 15-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/DEely_u4Rbq1F4AnF-3z_w/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129997_english_hls_64023ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "VFB Gelsenkirchen vs Grey Caps Aachen (ECS Germany, Krefeld, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
-            "team_1": "VFB Gelsenkirchen",
-            "team_2": "Grey Caps Aachen",
-            "status": "LIVE",
-            "event_name": "ECS Germany, Krefeld, 2025",
-            "match_name": "VFB Gelsenkirchen vs Grey Caps Aachen",
-            "match_id": 130597,
-            "startTime": "09:00:00 PM 15-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/kRG0r-fsTEu7_orKw1Ezwg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130597_english_hls_2150ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -461,6 +449,18 @@
             "event_name": "Global Super League, 2025",
             "match_name": "Rangpur Riders vs Central Stags",
             "match_id": 130489,
+            "startTime": "07:30:00 PM 17-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Miami Blaze vs Boca Raton Trailblazers (Max60 Season 2, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131450_5453_MIB_BRT_fc-Web.jpg",
+            "team_1": "Miami Blaze",
+            "team_2": "Boca Raton Trailblazers",
+            "status": "UPCOMING",
+            "event_name": "Max60 Season 2, 2025",
+            "match_name": "Miami Blaze vs Boca Raton Trailblazers",
+            "match_id": 131450,
             "startTime": "07:30:00 PM 17-07-2025"
         }
     ]
