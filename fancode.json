@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:04:44 PM 16-07-2025",
+    "last update time": "10:14:52 PM 16-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,29 +47,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Monchengladbach vs Bonn Blue Star (ECS Germany, Krefeld, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
-            "team_1": "Monchengladbach",
-            "team_2": "Bonn Blue Star",
-            "status": "LIVE",
-            "event_name": "ECS Germany, Krefeld, 2025",
-            "match_name": "Monchengladbach vs Bonn Blue Star",
-            "match_id": 130602,
-            "startTime": "09:00:00 PM 16-07-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Somerset Women vs The Blaze (Women's Vitality Blast T20, 2025)",
+            "title": "The Blaze vs Somerset Women (Women's Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/125878_5206_SSW_TBZ_fc-Web.jpg",
-            "team_1": "Somerset Women",
-            "team_2": "The Blaze",
-            "status": "UPCOMING",
+            "team_1": "The Blaze",
+            "team_2": "Somerset Women",
+            "status": "LIVE",
             "event_name": "Women's Vitality Blast T20, 2025",
-            "match_name": "Somerset Women vs The Blaze",
+            "match_name": "The Blaze vs Somerset Women",
             "match_id": 125878,
-            "startTime": "10:30:00 PM 16-07-2025"
+            "startTime": "10:30:00 PM 16-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/D_E8N7lYQeuQNcCVxrAHGw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/125878_english_hls_69770ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -360,18 +348,6 @@
             "startTime": "12:30:00 AM 18-07-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Royal Portrush Golf Club (The Open Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-old.jpg",
-            "team_1": "Day 1",
-            "team_2": "Royal Portrush Golf Club",
-            "status": "UPCOMING",
-            "event_name": "The Open Championship",
-            "match_name": "Day 1",
-            "match_id": 131280,
-            "startTime": "11:00:00 AM 17-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Al Mulla Exchange vs Royal Lions CC (KCC T20 Summer League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130000_5379_AEC_RLC_fc-web.jpg",
@@ -382,6 +358,18 @@
             "match_name": "Al Mulla Exchange vs Royal Lions CC",
             "match_id": 130000,
             "startTime": "01:30:00 AM 18-07-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Royal Portrush Golf Club (The Open Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-old.jpg",
+            "team_1": "Day 1",
+            "team_2": "Royal Portrush Golf Club",
+            "status": "UPCOMING",
+            "event_name": "The Open Championship",
+            "match_name": "Day 1",
+            "match_id": 131280,
+            "startTime": "11:00:00 AM 17-07-2025"
         },
         {
             "event_category": "Cricket",
