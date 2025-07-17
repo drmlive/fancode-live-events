@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:09:10 PM 17-07-2025",
+    "last update time": "08:19:18 PM 17-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/126000_5207_GLO_SUS_fc-Web.jpg",
             "team_1": "Gloucestershire",
             "team_2": "Sussex",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Vitality Blast T20, 2025",
             "match_name": "Gloucestershire vs Sussex",
             "match_id": 126000,
-            "startTime": "08:30:00 PM 17-07-2025"
+            "startTime": "08:30:00 PM 17-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/6AGOfOsrSZGdHVjUsiBIGA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/126000_english_hls_17226ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -42,20 +44,6 @@
             "startTime": "07:30:00 PM 17-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/pQnvMtSpRi2P5CO5OyafNQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130489_english_hls_23805ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kenya vs Nigeria (Pearl of Africa T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-            "team_1": "Kenya",
-            "team_2": "Nigeria",
-            "status": "LIVE",
-            "event_name": "Pearl of Africa T20, 2025",
-            "match_name": "Kenya vs Nigeria",
-            "match_id": 130759,
-            "startTime": "04:00:00 PM 17-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/RTaA-eo_R7SrtJ_lkqOSjw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130759_english_hls_83144ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -98,6 +86,20 @@
             "startTime": "11:00:00 AM 17-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/CQaYOqf1TIqsKsg32Vw0yg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131280_english_hls_19834ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kenya vs Nigeria (Pearl of Africa T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "team_1": "Kenya",
+            "team_2": "Nigeria",
+            "status": "LIVE",
+            "event_name": "Pearl of Africa T20, 2025",
+            "match_name": "Kenya vs Nigeria",
+            "match_id": 130759,
+            "startTime": "04:00:00 PM 17-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/RTaA-eo_R7SrtJ_lkqOSjw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130759_english_hls_83144ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
