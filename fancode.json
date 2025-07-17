@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:00:30 PM 17-07-2025",
+    "last update time": "10:10:36 PM 17-07-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Boca Raton Trailblazers vs Miami Blaze (Max60 Season 2, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131450_5453_MIB_BRT_fc-Web.jpg",
-            "team_1": "Boca Raton Trailblazers",
-            "team_2": "Miami Blaze",
-            "status": "LIVE",
-            "event_name": "Max60 Season 2, 2025",
-            "match_name": "Boca Raton Trailblazers vs Miami Blaze",
-            "match_id": 131665,
-            "startTime": "08:30:00 PM 17-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/DOB9GsO4SZykHpEcHHHuRA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131665_english_hls_82618ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Gloucestershire vs Sussex (Vitality Blast T20, 2025)",
@@ -61,6 +47,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Boca Raton Trailblazers vs Miami Blaze (Max60 Season 2, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131450_5453_MIB_BRT_fc-Web.jpg",
+            "team_1": "Boca Raton Trailblazers",
+            "team_2": "Miami Blaze",
+            "status": "LIVE",
+            "event_name": "Max60 Season 2, 2025",
+            "match_name": "Boca Raton Trailblazers vs Miami Blaze",
+            "match_id": 131665,
+            "startTime": "08:30:00 PM 17-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/DOB9GsO4SZykHpEcHHHuRA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131665_english_hls_82618ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "SC Krefeld Boosters vs Bonn Blue Star (ECS Germany, Krefeld, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
             "team_1": "SC Krefeld Boosters",
@@ -100,20 +100,6 @@
             "startTime": "11:00:00 AM 17-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/CQaYOqf1TIqsKsg32Vw0yg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131280_english_hls_19834ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ruby White Town Legends vs Mahe Megalo Strikers (Pondicherry Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-            "team_1": "Ruby White Town Legends",
-            "team_2": "Mahe Megalo Strikers",
-            "status": "LIVE",
-            "event_name": "Pondicherry Premier League, 2025",
-            "match_name": "Ruby White Town Legends vs Mahe Megalo Strikers",
-            "match_id": 130119,
-            "startTime": "06:00:00 PM 17-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/TKSH1jFoQSWSCiOpGOTfQA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130119_english_hls_48314ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -462,6 +448,18 @@
             "match_name": "Day 1",
             "match_id": 131255,
             "startTime": "03:30:00 AM 18-07-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Royal Portrush Golf Club (The Open Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-old.jpg",
+            "team_1": "Day 2",
+            "team_2": "Royal Portrush Golf Club",
+            "status": "UPCOMING",
+            "event_name": "The Open Championship",
+            "match_name": "Day 2",
+            "match_id": 131281,
+            "startTime": "11:00:00 AM 18-07-2025"
         }
     ]
 }
