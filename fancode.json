@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:28:31 AM 19-07-2025",
+    "last update time": "02:38:36 AM 19-07-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Spain Women vs Switzerland Women (UEFA Women's EURO 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123370_5107_SPA-W_SWE-W_fc-web.jpg",
-            "team_1": "Spain Women",
-            "team_2": "Switzerland Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's EURO 2025",
-            "match_name": "Spain Women vs Switzerland Women",
-            "match_id": 123370,
-            "startTime": "12:30:00 AM 19-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/_BJFSxxWQu-0eeRbxMikGw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/123370_english_hls_54392ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Cayman Bay Stingrays vs Vegas Vikings (Max60 Season 2, 2025)",
@@ -58,6 +44,20 @@
             "startTime": "11:50:00 PM 18-07-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130311_english_hls_58035ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130311_english_hls_58035ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Spain Women vs Switzerland Women (UEFA Women's EURO 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123370_5107_SPA-W_SWE-W_fc-web.jpg",
+            "team_1": "Spain Women",
+            "team_2": "Switzerland Women",
+            "status": "LIVE",
+            "event_name": "UEFA Women's EURO 2025",
+            "match_name": "Spain Women vs Switzerland Women",
+            "match_id": 123370,
+            "startTime": "12:30:00 AM 19-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/_BJFSxxWQu-0eeRbxMikGw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/123370_english_hls_54392ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -408,18 +408,6 @@
             "startTime": "03:30:00 PM 19-07-2025"
         },
         {
-            "event_category": "Football",
-            "title": "France Women vs Germany Women (UEFA Women's EURO 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/123371_5107_FRA-W_GER-W_fc-web.jpg",
-            "team_1": "France Women",
-            "team_2": "Germany Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's EURO 2025",
-            "match_name": "France Women vs Germany Women",
-            "match_id": 123371,
-            "startTime": "12:30:00 AM 20-07-2025"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 2 vs Tahoe Mountain Club (Old Greenwood) - Truckee, Cal (Barracuda Championship 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Barracuda-championship-old.png",
@@ -430,6 +418,18 @@
             "match_name": "Day 2",
             "match_id": 131256,
             "startTime": "03:30:00 AM 19-07-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "France Women vs Germany Women (UEFA Women's EURO 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/123371_5107_FRA-W_GER-W_fc-web.jpg",
+            "team_1": "France Women",
+            "team_2": "Germany Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's EURO 2025",
+            "match_name": "France Women vs Germany Women",
+            "match_id": 123371,
+            "startTime": "12:30:00 AM 20-07-2025"
         },
         {
             "event_category": "Baseball",
