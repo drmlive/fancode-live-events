@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:51:32 PM 18-07-2025",
+    "last update time": "04:01:40 PM 18-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/128755_5315_ZIM_NZ_fc-web.jpg",
             "team_1": "Zimbabwe",
             "team_2": "New Zealand",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Zimbabwe T20I Tri Series, 2025",
             "match_name": "Zimbabwe vs New Zealand",
             "match_id": 128755,
-            "startTime": "04:30:00 PM 18-07-2025"
+            "startTime": "04:30:00 PM 18-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/A9EXJ8ixRaaawhVewfxDbw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/128755_english_hls_90734ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -389,18 +391,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Nigeria vs Namibia A (Pearl of Africa T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-            "team_1": "Nigeria",
-            "team_2": "Namibia A",
-            "status": "UPCOMING",
-            "event_name": "Pearl of Africa T20, 2025",
-            "match_name": "Nigeria vs Namibia A",
-            "match_id": 130762,
-            "startTime": "12:00:00 PM 19-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies Champions vs South Africa Champions (World Championship of Legends, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129719_5370_WIC_SAC_fc-Web.jpg",
             "team_1": "West Indies Champions",
@@ -410,6 +400,18 @@
             "match_name": "West Indies Champions vs South Africa Champions",
             "match_id": 129719,
             "startTime": "05:00:00 PM 19-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nigeria vs Namibia A (Pearl of Africa T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "team_1": "Nigeria",
+            "team_2": "Namibia A",
+            "status": "UPCOMING",
+            "event_name": "Pearl of Africa T20, 2025",
+            "match_name": "Nigeria vs Namibia A",
+            "match_id": 130762,
+            "startTime": "12:00:00 PM 19-07-2025"
         },
         {
             "event_category": "Cricket",
