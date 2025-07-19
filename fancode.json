@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:07:23 PM 19-07-2025",
+    "last update time": "04:17:29 PM 19-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,6 +47,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "West Indies Champions vs South Africa Champions (World Championship of Legends, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129719_5370_WIC_SAC_fc-Web.jpg",
+            "team_1": "West Indies Champions",
+            "team_2": "South Africa Champions",
+            "status": "LIVE",
+            "event_name": "World Championship of Legends, 2025",
+            "match_name": "West Indies Champions vs South Africa Champions",
+            "match_id": 129719,
+            "startTime": "05:00:00 PM 19-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/UxgNiStQQ4WXSYyHlMu-LA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129719_english_hls_24272ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Nabajyoti Club vs Bud Cricket Club (GTC Summer Challenge T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
             "team_1": "Nabajyoti Club",
@@ -72,20 +86,6 @@
             "startTime": "02:00:00 PM 19-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/JHkZw0VwSImtqiM5zRWjKQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130121_english_hls_23950ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Baden-Wurttemberg United-W vs DJK Munich-W (ECS-W Germany, Krefeld, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/131556_CASACARDS_APP.png",
-            "team_1": "Baden-Wurttemberg United-W",
-            "team_2": "DJK Munich-W",
-            "status": "LIVE",
-            "event_name": "ECS-W Germany, Krefeld, 2025",
-            "match_name": "Baden-Wurttemberg United-W vs DJK Munich-W",
-            "match_id": 131556,
-            "startTime": "02:30:00 PM 19-07-2025",
-            "dai_url": null,
-            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -145,15 +145,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "West Indies Champions vs South Africa Champions (World Championship of Legends, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/129719_5370_WIC_SAC_fc-Web.jpg",
-            "team_1": "West Indies Champions",
-            "team_2": "South Africa Champions",
-            "status": "UPCOMING",
-            "event_name": "World Championship of Legends, 2025",
-            "match_name": "West Indies Champions vs South Africa Champions",
-            "match_id": 129719,
-            "startTime": "05:00:00 PM 19-07-2025"
+            "title": "Baden-Wurttemberg United-W vs DJK Munich-W (ECS-W Germany, Krefeld, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/131556_CASACARDS_APP.png",
+            "team_1": "Baden-Wurttemberg United-W",
+            "team_2": "DJK Munich-W",
+            "status": "LIVE",
+            "event_name": "ECS-W Germany, Krefeld, 2025",
+            "match_name": "Baden-Wurttemberg United-W vs DJK Munich-W",
+            "match_id": 131556,
+            "startTime": "02:30:00 PM 19-07-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
