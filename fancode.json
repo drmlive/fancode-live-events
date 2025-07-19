@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:22:59 AM 19-07-2025",
+    "last update time": "09:33:07 AM 19-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "91 Yards Club vs City Cricket Club",
             "match_id": 130426,
             "startTime": "09:30:00 AM 19-07-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/bIrG7zIFTz-yxCPwsCZaKg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130426_english_hls_13244ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -30,20 +30,6 @@
             "startTime": "07:10:00 AM 19-07-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130312_english_hls_8935ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130312_english_hls_8935ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Amazon Warriors vs Rangpur Riders (Global Super League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130481_5402_GUY_RAN_fc-Web_1752057006988.jpg",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Rangpur Riders",
-            "status": "LIVE",
-            "event_name": "Global Super League, 2025",
-            "match_name": "Guyana Amazon Warriors vs Rangpur Riders",
-            "match_id": 130490,
-            "startTime": "04:30:00 AM 19-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/86G01IR0TGSuRiikom5Ftw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130490_english_hls_3037ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -440,6 +426,18 @@
             "match_name": "Session 3 - Group Races",
             "match_id": 131390,
             "startTime": "03:20:00 PM 19-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Warriors-W vs DJK Munich-W (ECS-W Germany, Krefeld, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Western Warriors-W",
+            "team_2": "DJK Munich-W",
+            "status": "UPCOMING",
+            "event_name": "ECS-W Germany, Krefeld, 2025",
+            "match_name": "Western Warriors-W vs DJK Munich-W",
+            "match_id": 131560,
+            "startTime": "12:30:00 PM 20-07-2025"
         },
         {
             "event_category": "Motorsports",
