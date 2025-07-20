@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:31:38 PM 20-07-2025",
+    "last update time": "02:41:44 PM 20-07-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 4 vs Royal Portrush Golf Club (The Open Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-old.jpg",
-            "team_1": "Day 4",
-            "team_2": "Royal Portrush Golf Club",
-            "status": "LIVE",
-            "event_name": "The Open Championship",
-            "match_name": "Day 4",
-            "match_id": 131283,
-            "startTime": "01:30:00 PM 20-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/xS5Wa2w7ShOyUWHhOdnIMA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131283_english_hls_57029ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "MotoGP",
             "title": "Race Day vs Automotodrom Brno (GRAND PRIX OF CZECHIA)",
@@ -30,6 +16,20 @@
             "startTime": "02:30:00 PM 20-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/aurMZXANSS-UWRi8qTYlCg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119313_english_hls_20756ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Royal Portrush Golf Club (The Open Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-old.jpg",
+            "team_1": "Day 4",
+            "team_2": "Royal Portrush Golf Club",
+            "status": "LIVE",
+            "event_name": "The Open Championship",
+            "match_name": "Day 4",
+            "match_id": 131283,
+            "startTime": "01:30:00 PM 20-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/xS5Wa2w7ShOyUWHhOdnIMA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131283_english_hls_57029ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -61,13 +61,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "91 Yards Club vs Nabajyoti Club (GTC Summer Challenge T20 Trophy, 2025)",
+            "title": "Nabajyoti Club vs 91 Yards Club (GTC Summer Challenge T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-            "team_1": "91 Yards Club",
-            "team_2": "Nabajyoti Club",
+            "team_1": "Nabajyoti Club",
+            "team_2": "91 Yards Club",
             "status": "LIVE",
             "event_name": "GTC Summer Challenge T20 Trophy, 2025",
-            "match_name": "91 Yards Club vs Nabajyoti Club",
+            "match_name": "Nabajyoti Club vs 91 Yards Club",
             "match_id": 130429,
             "startTime": "01:30:00 PM 20-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_8ltcMCmSH-5LM4d-Aq1LA/master.m3u8",
@@ -117,27 +117,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Lesotho Women vs Rwanda Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/129859_CASACARDS_APP.png",
-            "team_1": "Lesotho Women",
-            "team_2": "Rwanda Women",
-            "status": "LIVE",
-            "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
-            "match_name": "Lesotho Women vs Rwanda Women",
-            "match_id": 129859,
-            "startTime": "01:00:00 PM 20-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/3_2MySvdQAiKqzH_rjHXlw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129859_english_hls_26898ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Speen Ghar Tigers vs Boost Defenders (Shpageeza Cricket League, 2025)",
+            "title": "Boost Defenders vs Speen Ghar Tigers (Shpageeza Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130792_5425_SG_BOS_fc-Web_1752947982243.jpg",
-            "team_1": "Speen Ghar Tigers",
-            "team_2": "Boost Defenders",
+            "team_1": "Boost Defenders",
+            "team_2": "Speen Ghar Tigers",
             "status": "UPCOMING",
             "event_name": "Shpageeza Cricket League, 2025",
-            "match_name": "Speen Ghar Tigers vs Boost Defenders",
+            "match_name": "Boost Defenders vs Speen Ghar Tigers",
             "match_id": 130792,
             "startTime": "03:00:00 PM 20-07-2025"
         },
@@ -464,6 +450,18 @@
             "match_name": "Stockholm CC-W vs Alby Zalmi-W",
             "match_id": 131622,
             "startTime": "02:15:00 PM 21-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Caribbean Tigers vs Grand Cayman Falcons (Max60 Season 2, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131470_5453_CAT_GCF_fc-Web.jpg",
+            "team_1": "Caribbean Tigers",
+            "team_2": "Grand Cayman Falcons",
+            "status": "UPCOMING",
+            "event_name": "Max60 Season 2, 2025",
+            "match_name": "Caribbean Tigers vs Grand Cayman Falcons",
+            "match_id": 131742,
+            "startTime": "06:30:00 PM 21-07-2025"
         }
     ]
 }
