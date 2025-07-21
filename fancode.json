@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:23:22 AM 22-07-2025",
+    "last update time": "02:33:29 AM 22-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131450_5453_MIB_BRT_fc-Web.jpg",
             "team_1": "Miami Blaze",
             "team_2": "Boca Raton Trailblazers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Max60 Season 2, 2025",
             "match_name": "Miami Blaze vs Boca Raton Trailblazers",
             "match_id": 131738,
-            "startTime": "02:45:00 AM 22-07-2025"
+            "startTime": "02:45:00 AM 22-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/dfTJkuqASdKx54laP9Rc6Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131738_english_hls_39001ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -259,18 +261,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Uganda vs Nigeria (Pearl of Africa T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-            "team_1": "Uganda",
-            "team_2": "Nigeria",
-            "status": "UPCOMING",
-            "event_name": "Pearl of Africa T20, 2025",
-            "match_name": "Uganda vs Nigeria",
-            "match_id": 130767,
-            "startTime": "04:00:00 PM 22-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Caribbean Tigers vs Miami Blaze (Max60 Season 2, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131462_5453_CAT_MIB_fc-Web.jpg",
             "team_1": "Caribbean Tigers",
@@ -280,6 +270,18 @@
             "match_name": "Caribbean Tigers vs Miami Blaze",
             "match_id": 131726,
             "startTime": "01:00:00 AM 23-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Uganda vs Nigeria (Pearl of Africa T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "team_1": "Uganda",
+            "team_2": "Nigeria",
+            "status": "UPCOMING",
+            "event_name": "Pearl of Africa T20, 2025",
+            "match_name": "Uganda vs Nigeria",
+            "match_id": 130767,
+            "startTime": "04:00:00 PM 22-07-2025"
         },
         {
             "event_category": "Cricket",
