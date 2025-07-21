@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:32:52 AM 21-07-2025",
+    "last update time": "09:42:59 AM 21-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130793_5425_AM_BD_fc-Web.jpg",
             "team_1": "Amo Sharks",
             "team_2": "Band-e-Amir Dragons",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Shpageeza Cricket League, 2025",
             "match_name": "Amo Sharks vs Band-e-Amir Dragons",
             "match_id": 130793,
-            "startTime": "10:00:00 AM 21-07-2025"
+            "startTime": "10:00:00 AM 21-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/cfLT3-vuRlGUDgQwPWJuXg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130793_english_hls_80569ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -343,18 +345,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Kenya vs Namibia A (Pearl of Africa T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-            "team_1": "Kenya",
-            "team_2": "Namibia A",
-            "status": "UPCOMING",
-            "event_name": "Pearl of Africa T20, 2025",
-            "match_name": "Kenya vs Namibia A",
-            "match_id": 130766,
-            "startTime": "12:00:00 PM 22-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Amo Sharks vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130796_5425_AM_MAK_fc-Web.jpg",
             "team_1": "Amo Sharks",
@@ -364,6 +354,18 @@
             "match_name": "Amo Sharks vs Mis-e-Ainak Knights",
             "match_id": 130796,
             "startTime": "03:00:00 PM 22-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kenya vs Namibia A (Pearl of Africa T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "team_1": "Kenya",
+            "team_2": "Namibia A",
+            "status": "UPCOMING",
+            "event_name": "Pearl of Africa T20, 2025",
+            "match_name": "Kenya vs Namibia A",
+            "match_id": 130766,
+            "startTime": "12:00:00 PM 22-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -400,6 +402,18 @@
             "match_name": "Bud Cricket Club vs City Cricket Club",
             "match_id": 130433,
             "startTime": "01:30:00 PM 22-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand vs South Africa (Zimbabwe T20I Tri Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/128757_5315_NZ_SA_fc-web.jpg",
+            "team_1": "New Zealand",
+            "team_2": "South Africa",
+            "status": "UPCOMING",
+            "event_name": "Zimbabwe T20I Tri Series, 2025",
+            "match_name": "New Zealand vs South Africa",
+            "match_id": 128757,
+            "startTime": "04:30:00 PM 22-07-2025"
         }
     ]
 }
