@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:37:43 AM 22-07-2025",
+    "last update time": "09:47:49 AM 22-07-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Speen Ghar Tigers vs Band-e-Amir Dragons (Shpageeza Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130795_5425_BD_SG_fc-Web.jpg",
+            "team_1": "Speen Ghar Tigers",
+            "team_2": "Band-e-Amir Dragons",
+            "status": "LIVE",
+            "event_name": "Shpageeza Cricket League, 2025",
+            "match_name": "Speen Ghar Tigers vs Band-e-Amir Dragons",
+            "match_id": 130795,
+            "startTime": "10:00:00 AM 22-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZKRxjJZzRvu1R7cPNthiLg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130795_english_hls_86114ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "91 Yards Club vs Navarang Club (GTC Summer Challenge T20 Trophy, 2025)",
@@ -30,32 +44,6 @@
             "startTime": "07:40:00 AM 22-07-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130317_english_hls_95713ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130317_english_hls_95713ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hong Kong, China vs Malaysia (Asia-Pacific Cricket Champions Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130782_5424_MAS_HK_fc-web.jpg",
-            "team_1": "Hong Kong, China",
-            "team_2": "Malaysia",
-            "status": "LIVE",
-            "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
-            "match_name": "Hong Kong, China vs Malaysia",
-            "match_id": 130782,
-            "startTime": "06:30:00 AM 22-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/QmxQ3JOjTNqfBd4F9Y6rtg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130782_english_hls_29811ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Band-e-Amir Dragons vs Speen Ghar Tigers (Shpageeza Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130795_5425_BD_SG_fc-Web.jpg",
-            "team_1": "Band-e-Amir Dragons",
-            "team_2": "Speen Ghar Tigers",
-            "status": "UPCOMING",
-            "event_name": "Shpageeza Cricket League, 2025",
-            "match_name": "Band-e-Amir Dragons vs Speen Ghar Tigers",
-            "match_id": 130795,
-            "startTime": "10:00:00 AM 22-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -452,6 +440,18 @@
             "match_name": "Malawi vs Rwanda",
             "match_id": 131270,
             "startTime": "12:45:00 PM 23-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Eswatini Women vs Mozambique Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129868_5373_SWAW_MOZW_fc-web.jpg",
+            "team_1": "Eswatini Women",
+            "team_2": "Mozambique Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
+            "match_name": "Eswatini Women vs Mozambique Women",
+            "match_id": 129868,
+            "startTime": "01:00:00 PM 23-07-2025"
         }
     ]
 }
