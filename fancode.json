@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:16:22 AM 22-07-2025",
+    "last update time": "07:26:28 AM 22-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "06:30:00 AM 22-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/QmxQ3JOjTNqfBd4F9Y6rtg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130782_english_hls_29811ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Minnesota Twins (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v2/130317_CASACARDS_APP.png",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Minnesota Twins",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Minnesota Twins",
+            "match_id": 130317,
+            "startTime": "07:40:00 AM 22-07-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130317_english_hls_95713ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130317_english_hls_95713ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -366,18 +380,6 @@
             "startTime": "05:30:00 PM 22-07-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs Minnesota Twins (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/130317_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "Minnesota Twins",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs Minnesota Twins",
-            "match_id": 130317,
-            "startTime": "07:40:00 AM 22-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Hong Kong, China vs Samoa (Asia-Pacific Cricket Champions Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130784_5424_HK_SAM_fc-web.jpg",
@@ -400,6 +402,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 130434,
             "startTime": "09:30:00 AM 23-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Singapore vs Malaysia (Asia-Pacific Cricket Champions Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130785_5424_SIN_MAS_fc-web.jpg",
+            "team_1": "Singapore",
+            "team_2": "Malaysia",
+            "status": "UPCOMING",
+            "event_name": "Asia-Pacific Cricket Champions Trophy, 2025",
+            "match_name": "Singapore vs Malaysia",
+            "match_id": 130785,
+            "startTime": "11:30:00 AM 23-07-2025"
         }
     ]
 }
