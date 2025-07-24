@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:54:04 PM 24-07-2025",
+    "last update time": "10:04:13 PM 24-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,8 +56,8 @@
             "match_name": "Tally Rangers vs Bader & Nie Cricket Club",
             "match_id": 130008,
             "startTime": "10:00:00 PM 24-07-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/wIvzEhhjSWSCeQM7ZuoKQw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130008_english_hls_76203ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -356,18 +356,6 @@
             "startTime": "12:30:00 AM 24-07-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Cleveland Guardians vs Baltimore Orioles (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/130274_CASACARDS_APP.png",
-            "team_1": "Cleveland Guardians",
-            "team_2": "Baltimore Orioles",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Cleveland Guardians vs Baltimore Orioles",
-            "match_id": 130274,
-            "startTime": "10:40:00 PM 24-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Genid Yanam Royals vs TBC (Pondicherry Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
@@ -378,6 +366,18 @@
             "match_name": "Genid Yanam Royals vs TBC",
             "match_id": 130131,
             "startTime": "07:00:00 PM 25-07-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Cleveland Guardians vs Baltimore Orioles (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/130274_CASACARDS_APP.png",
+            "team_1": "Cleveland Guardians",
+            "team_2": "Baltimore Orioles",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Cleveland Guardians vs Baltimore Orioles",
+            "match_id": 130274,
+            "startTime": "10:40:00 PM 24-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -452,16 +452,16 @@
             "startTime": "12:30:00 PM 25-07-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Free Practice vs Spa-Francorchamps (F2 BELGIUM 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-            "team_1": "Free Practice",
-            "team_2": "Spa-Francorchamps",
+            "event_category": "Cricket",
+            "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20OLD_01.jpg",
+            "team_1": "West Indies",
+            "team_2": "Australia",
             "status": "UPCOMING",
-            "event_name": "F2 BELGIUM 2025",
-            "match_name": "Free Practice",
-            "match_id": 119057,
-            "startTime": "01:40:00 PM 25-07-2025"
+            "event_name": "Australia Tour of West Indies, 2025",
+            "match_name": "West Indies vs Australia",
+            "match_id": 127555,
+            "startTime": "04:30:00 AM 26-07-2025"
         }
     ]
 }
