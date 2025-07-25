@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:02:48 AM 25-07-2025",
+    "last update time": "08:12:53 AM 25-07-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Utkal Cricket Club vs Fatemi Resources Cricket Club (Malaysia T10 Bash, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/131876_CASACARDS_APP.png",
-            "team_1": "Utkal Cricket Club",
-            "team_2": "Fatemi Resources Cricket Club",
-            "status": "LIVE",
-            "event_name": "Malaysia T10 Bash, 2025",
-            "match_name": "Utkal Cricket Club vs Fatemi Resources Cricket Club",
-            "match_id": 131876,
-            "startTime": "06:30:00 AM 25-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8DtFqUmpREuxNEDwal6Xdw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131876_english_hls_13119ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Baseball",
             "title": "Los Angeles Angels vs Seattle Mariners (Major League Baseball, 2025)",
@@ -30,6 +16,20 @@
             "startTime": "07:08:00 AM 25-07-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130275_english_hls_35597ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130275_english_hls_35597ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Utkal Cricket Club vs Fatemi Resources Cricket Club (Malaysia T10 Bash, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/131876_CASACARDS_APP.png",
+            "team_1": "Utkal Cricket Club",
+            "team_2": "Fatemi Resources Cricket Club",
+            "status": "LIVE",
+            "event_name": "Malaysia T10 Bash, 2025",
+            "match_name": "Utkal Cricket Club vs Fatemi Resources Cricket Club",
+            "match_id": 131876,
+            "startTime": "06:30:00 AM 25-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/8DtFqUmpREuxNEDwal6Xdw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131876_english_hls_13119ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -332,18 +332,6 @@
             "startTime": "08:40:00 AM 26-07-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Practice vs Spa-Francorchamps (F3 BELGIUM 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-            "team_1": "Practice",
-            "team_2": "Spa-Francorchamps",
-            "status": "UPCOMING",
-            "event_name": "F3 BELGIUM 2025",
-            "match_name": "Practice",
-            "match_id": 119100,
-            "startTime": "12:30:00 PM 25-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Utkal Cricket Club vs Maxx Cricket Club (Malaysia T10 Bash, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -354,6 +342,18 @@
             "match_name": "Utkal Cricket Club vs Maxx Cricket Club",
             "match_id": 131882,
             "startTime": "10:50:00 AM 26-07-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice vs Spa-Francorchamps (F3 BELGIUM 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
+            "team_1": "Practice",
+            "team_2": "Spa-Francorchamps",
+            "status": "UPCOMING",
+            "event_name": "F3 BELGIUM 2025",
+            "match_name": "Practice",
+            "match_id": 119100,
+            "startTime": "12:30:00 PM 25-07-2025"
         },
         {
             "event_category": "Motorsports",
