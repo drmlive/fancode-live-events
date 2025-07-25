@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:42:01 AM 25-07-2025",
+    "last update time": "06:52:08 AM 25-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -139,6 +139,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20OLD_01.jpg",
+            "team_1": "West Indies",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "event_name": "Australia Tour of West Indies, 2025",
+            "match_name": "West Indies vs Australia",
+            "match_id": 127555,
+            "startTime": "04:30:00 AM 26-07-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Sky Warriors Cricket Club vs MB Malik (Malaysia T10 Bash, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Sky Warriors Cricket Club",
@@ -160,18 +172,6 @@
             "match_name": "Hungary vs Romania",
             "match_id": 131969,
             "startTime": "03:00:00 PM 25-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20OLD_01.jpg",
-            "team_1": "West Indies",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "event_name": "Australia Tour of West Indies, 2025",
-            "match_name": "West Indies vs Australia",
-            "match_id": 127555,
-            "startTime": "04:30:00 AM 26-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -287,11 +287,13 @@
             "src": "https://images.fancode.com/aig/match/v2/130275_CASACARDS_APP.png",
             "team_1": "Los Angeles Angels",
             "team_2": "Seattle Mariners",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Major League Baseball, 2025",
             "match_name": "Los Angeles Angels vs Seattle Mariners",
             "match_id": 130275,
-            "startTime": "07:08:00 AM 25-07-2025"
+            "startTime": "07:08:00 AM 25-07-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130275_english_hls_35597ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130275_english_hls_35597ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
