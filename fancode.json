@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:12:19 PM 25-07-2025",
+    "last update time": "08:22:27 PM 25-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,6 +58,20 @@
             "startTime": "08:15:00 PM 25-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Ubk6nS6_QCmj6ImlZ0lz_Q/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131915_english_hls_79137ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Fakhr-E-Kashmir vs Royal Lions CC (KCC T20 Summer League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130010_5379_FEK_RLC_fc-web.jpg",
+            "team_1": "Fakhr-E-Kashmir",
+            "team_2": "Royal Lions CC",
+            "status": "LIVE",
+            "event_name": "KCC T20 Summer League, 2025",
+            "match_name": "Fakhr-E-Kashmir vs Royal Lions CC",
+            "match_id": 130010,
+            "startTime": "08:30:00 PM 25-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/dwKRgwZgQWOk9qMcue4uEA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130010_english_hls_52401ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -145,34 +159,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malawi vs Bahrain (Rwanda Tri Nations T20 Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
-            "team_1": "Malawi",
-            "team_2": "Bahrain",
-            "status": "LIVE",
-            "event_name": "Rwanda Tri Nations T20 Cup 2025",
-            "match_name": "Malawi vs Bahrain",
-            "match_id": 131273,
-            "startTime": "05:15:00 PM 25-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/99ZD53-xT5CIE63ZVvdYRA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131273_english_hls_11438ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Huddinge vs Rising Phoenix (ECS Sweden, Stockholm, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
-            "team_1": "Huddinge",
-            "team_2": "Rising Phoenix",
-            "status": "LIVE",
-            "event_name": "ECS Sweden, Stockholm, 2025",
-            "match_name": "Huddinge vs Rising Phoenix",
-            "match_id": 131914,
-            "startTime": "06:15:00 PM 25-07-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies vs Australia (Australia Tour of West Indies, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-AUS_T20_old_1753438652136.jpg",
             "team_1": "West Indies",
@@ -194,18 +180,6 @@
             "match_name": "Mis-e-Ainak Knights vs Boost Defenders",
             "match_id": 130801,
             "startTime": "10:00:00 AM 26-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Fakhr-E-Kashmir vs Royal Lions CC (KCC T20 Summer League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130010_5379_FEK_RLC_fc-web.jpg",
-            "team_1": "Fakhr-E-Kashmir",
-            "team_2": "Royal Lions CC",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Summer League, 2025",
-            "match_name": "Fakhr-E-Kashmir vs Royal Lions CC",
-            "match_id": 130010,
-            "startTime": "08:30:00 PM 25-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -482,6 +456,30 @@
             "match_name": "Rwanda Women vs Sierra Leone Women",
             "match_id": 129878,
             "startTime": "05:30:00 PM 26-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cameroon Women vs Mozambique Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/129877_CASACARDS_APP.png",
+            "team_1": "Cameroon Women",
+            "team_2": "Mozambique Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
+            "match_name": "Cameroon Women vs Mozambique Women",
+            "match_id": 129877,
+            "startTime": "05:30:00 PM 26-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rising Phoenix vs Jinnah CC Stockholm (ECS Sweden, Stockholm, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+            "team_1": "Rising Phoenix",
+            "team_2": "Jinnah CC Stockholm",
+            "status": "UPCOMING",
+            "event_name": "ECS Sweden, Stockholm, 2025",
+            "match_name": "Rising Phoenix vs Jinnah CC Stockholm",
+            "match_id": 131919,
+            "startTime": "06:15:00 PM 26-07-2025"
         }
     ]
 }
