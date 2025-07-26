@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:08:25 PM 26-07-2025",
+    "last update time": "04:18:32 PM 26-07-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand vs South Africa (Zimbabwe T20I Tri Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-vs-South-Africa_T20I_old.jpg",
+            "team_1": "New Zealand",
+            "team_2": "South Africa",
+            "status": "LIVE",
+            "event_name": "Zimbabwe T20I Tri Series, 2025",
+            "match_name": "New Zealand vs South Africa",
+            "match_id": 128759,
+            "startTime": "04:30:00 PM 26-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/CnidfemQQ4yVBn9s89T9hQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/128759_english_hls_77746ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Speen Ghar Tigers vs Amo Sharks (Shpageeza Cricket League, 2025)",
@@ -33,31 +47,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New Zealand vs South Africa (Zimbabwe T20I Tri Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-vs-South-Africa_T20I_old.jpg",
-            "team_1": "New Zealand",
-            "team_2": "South Africa",
+            "title": "India Champions vs Australia Champions (World Championship of Legends, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/129727_5370_IAC_AAC_fc-Web.jpg",
+            "team_1": "India Champions",
+            "team_2": "Australia Champions",
             "status": "LIVE",
-            "event_name": "Zimbabwe T20I Tri Series, 2025",
-            "match_name": "New Zealand vs South Africa",
-            "match_id": 128759,
-            "startTime": "04:30:00 PM 26-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/CnidfemQQ4yVBn9s89T9hQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/128759_english_hls_77746ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Botswana Women vs Malawi Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/129876_CASACARDS_APP.png",
-            "team_1": "Botswana Women",
-            "team_2": "Malawi Women",
-            "status": "LIVE",
-            "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
-            "match_name": "Botswana Women vs Malawi Women",
-            "match_id": 129876,
-            "startTime": "01:00:00 PM 26-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/kLUyJruKTQWZ8OjQan_82w/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129876_english_hls_13779ta-di_h264/index.m3u8"
+            "event_name": "World Championship of Legends, 2025",
+            "match_name": "India Champions vs Australia Champions",
+            "match_id": 129727,
+            "startTime": "05:00:00 PM 26-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/k_I0K7LDSnuMYGv6WeE-3A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129727_english_hls_13899ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -117,18 +117,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "India Champions vs Australia Champions (World Championship of Legends, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/129727_5370_IAC_AAC_fc-Web.jpg",
-            "team_1": "India Champions",
-            "team_2": "Australia Champions",
-            "status": "UPCOMING",
-            "event_name": "World Championship of Legends, 2025",
-            "match_name": "India Champions vs Australia Champions",
-            "match_id": 129727,
-            "startTime": "05:00:00 PM 26-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Pakistan Champions vs West Indies Champions (World Championship of Legends, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129728_5370_PNC_WIC_fc-Web.jpg",
             "team_1": "Pakistan Champions",
@@ -152,18 +140,6 @@
             "startTime": "04:30:00 AM 27-07-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Liverpool vs Milan (Club Friendlies 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Milan_old.jpg",
-            "team_1": "Liverpool",
-            "team_2": "Milan",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2025",
-            "match_name": "Liverpool vs Milan",
-            "match_id": 129902,
-            "startTime": "05:00:00 PM 26-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Rwanda vs Malawi (Rwanda Tri Nations T20 Cup 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
@@ -174,6 +150,18 @@
             "match_name": "Rwanda vs Malawi",
             "match_id": 131274,
             "startTime": "05:15:00 PM 26-07-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Liverpool vs Milan (Club Friendlies 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-Milan_old.jpg",
+            "team_1": "Liverpool",
+            "team_2": "Milan",
+            "status": "UPCOMING",
+            "event_name": "Club Friendlies 2025",
+            "match_name": "Liverpool vs Milan",
+            "match_id": 129902,
+            "startTime": "05:00:00 PM 26-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -334,7 +322,7 @@
         {
             "event_category": "Cricket",
             "title": "The Blaze vs Warwickshire Women (Women's Vitality Blast T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Blaze_vs_Warwickshire-Women_fc-Web.jpg",
             "team_1": "The Blaze",
             "team_2": "Warwickshire Women",
             "status": "UPCOMING",
@@ -404,6 +392,18 @@
             "startTime": "01:15:00 PM 27-07-2025"
         },
         {
+            "event_category": "Motorsports",
+            "title": "Sprint Race vs Spa-Francorchamps (F2 BELGIUM 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Spa-Francorchamps",
+            "status": "UPCOMING",
+            "event_name": "F2 BELGIUM 2025",
+            "match_name": "Sprint Race",
+            "match_id": 119059,
+            "startTime": "05:15:00 PM 26-07-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "91 Yards Club vs Nabajyoti Club (Guwahati Sixes, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/132383_CASACARDS_APP.png",
@@ -450,6 +450,30 @@
             "match_name": "Navarang Club vs City Cricket Club",
             "match_id": 132384,
             "startTime": "03:15:00 PM 27-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "United Arab Emirates vs Uganda (Pearl of Africa T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "team_1": "United Arab Emirates",
+            "team_2": "Uganda",
+            "status": "UPCOMING",
+            "event_name": "Pearl of Africa T20, 2025",
+            "match_name": "United Arab Emirates vs Uganda",
+            "match_id": 130775,
+            "startTime": "04:00:00 PM 27-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Rwanda Tri Nations T20 Cup 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rwanda-Tri-nations-T20-cup-old.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Rwanda Tri Nations T20 Cup 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 131275,
+            "startTime": "04:30:00 PM 27-07-2025"
         }
     ]
 }
