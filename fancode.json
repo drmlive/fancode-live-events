@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:48:09 PM 26-07-2025",
+    "last update time": "03:58:17 PM 26-07-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -47,6 +47,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "New Zealand vs South Africa (Zimbabwe T20I Tri Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-vs-South-Africa_T20I_old.jpg",
+            "team_1": "New Zealand",
+            "team_2": "South Africa",
+            "status": "LIVE",
+            "event_name": "Zimbabwe T20I Tri Series, 2025",
+            "match_name": "New Zealand vs South Africa",
+            "match_id": 128759,
+            "startTime": "04:30:00 PM 26-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/CnidfemQQ4yVBn9s89T9hQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/128759_english_hls_77746ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Botswana Women vs Malawi Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
             "src": "https://images.fancode.com/aig/match/v1/129876_CASACARDS_APP.png",
             "team_1": "Botswana Women",
@@ -58,20 +72,6 @@
             "startTime": "01:00:00 PM 26-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kLUyJruKTQWZ8OjQan_82w/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129876_english_hls_13779ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Lesotho Women vs Eswatini Women (ICC Women's Africa T20 WC Qualifier 2 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/129875_CASACARDS_APP.png",
-            "team_1": "Lesotho Women",
-            "team_2": "Eswatini Women",
-            "status": "LIVE",
-            "event_name": "ICC Women's Africa T20 WC Qualifier 2 2025",
-            "match_name": "Lesotho Women vs Eswatini Women",
-            "match_id": 129875,
-            "startTime": "01:00:00 PM 26-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Z_kypWwLSgOvp-nX6PSVzQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129875_english_hls_55731ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -114,18 +114,6 @@
             "startTime": "04:00:00 PM 26-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/3to8ayQQSK29v6jbhnldmw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130773_english_hls_23539ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand vs South Africa (Zimbabwe T20I Tri Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-vs-South-Africa_T20I_old.jpg",
-            "team_1": "New Zealand",
-            "team_2": "South Africa",
-            "status": "UPCOMING",
-            "event_name": "Zimbabwe T20I Tri Series, 2025",
-            "match_name": "New Zealand vs South Africa",
-            "match_id": 128759,
-            "startTime": "04:30:00 PM 26-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -357,18 +345,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Kenya vs Nigeria (Pearl of Africa T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
-            "team_1": "Kenya",
-            "team_2": "Nigeria",
-            "status": "UPCOMING",
-            "event_name": "Pearl of Africa T20, 2025",
-            "match_name": "Kenya vs Nigeria",
-            "match_id": 130774,
-            "startTime": "12:00:00 PM 27-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "The Blaze vs Warwickshire Women (Women's Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "The Blaze",
@@ -390,6 +366,18 @@
             "match_name": "South Africa Champions vs Australia Champions",
             "match_id": 129729,
             "startTime": "05:00:00 PM 27-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kenya vs Nigeria (Pearl of Africa T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pearl-of-Africa-T20-old.jpg",
+            "team_1": "Kenya",
+            "team_2": "Nigeria",
+            "status": "UPCOMING",
+            "event_name": "Pearl of Africa T20, 2025",
+            "match_name": "Kenya vs Nigeria",
+            "match_id": 130774,
+            "startTime": "12:00:00 PM 27-07-2025"
         },
         {
             "event_category": "Cricket",
