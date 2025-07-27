@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:30:26 AM 28-07-2025",
+    "last update time": "02:40:36 AM 28-07-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs TPC Twin Cities - Blaine, Minnesota  (3M Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-old-match-card.png",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "TPC Twin Cities - Blaine, Minnesota ",
-            "status": "LIVE",
-            "event_name": "3M Open",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 131602,
-            "startTime": "04:45:00 PM 27-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/4MSNvuRiSvOtBjfznnKA0Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131602_english_hls_88233ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Groups - Day 4 vs TPC Twin Cities - Blaine, Minnesota  (3M Open)",
@@ -28,8 +14,8 @@
             "match_name": "Featured Groups - Day 4",
             "match_id": 131603,
             "startTime": "06:30:00 PM 27-07-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/xEdPIrAhSUmfw9kpmOSRiw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131603_english_hls_60157ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -44,20 +30,6 @@
             "startTime": "10:30:00 PM 27-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/w0b5fLCbTM29DdF4VkdwnQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131601_english_hls_80163ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Boston Red Sox vs Los Angeles Dodgers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/130280_CASACARDS_APP.png",
-            "team_1": "Boston Red Sox",
-            "team_2": "Los Angeles Dodgers",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Boston Red Sox vs Los Angeles Dodgers",
-            "match_id": 130280,
-            "startTime": "11:05:00 PM 27-07-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130280_english_hls_32939ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130280_english_hls_32939ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -278,18 +250,6 @@
             "startTime": "09:00:00 AM 29-07-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "San Francisco Giants vs Pittsburgh Pirates (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/130282_CASACARDS_APP.png",
-            "team_1": "San Francisco Giants",
-            "team_2": "Pittsburgh Pirates",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "San Francisco Giants vs Pittsburgh Pirates",
-            "match_id": 130282,
-            "startTime": "07:15:00 AM 29-07-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Band-e-Amir Dragons vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130806_5425_BD_MAK_fc-Web.jpg",
@@ -300,6 +260,18 @@
             "match_name": "Band-e-Amir Dragons vs Mis-e-Ainak Knights",
             "match_id": 130806,
             "startTime": "03:00:00 PM 29-07-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Francisco Giants vs Pittsburgh Pirates (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v2/130282_CASACARDS_APP.png",
+            "team_1": "San Francisco Giants",
+            "team_2": "Pittsburgh Pirates",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Francisco Giants vs Pittsburgh Pirates",
+            "match_id": 130282,
+            "startTime": "07:15:00 AM 29-07-2025"
         },
         {
             "event_category": "Cricket",
@@ -372,6 +344,30 @@
             "match_name": "India Champions vs West Indies Champions",
             "match_id": 129732,
             "startTime": "09:00:00 PM 29-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Spencer vs Banstead (ECS England, Wimbledon, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
+            "team_1": "Spencer",
+            "team_2": "Banstead",
+            "status": "UPCOMING",
+            "event_name": "ECS England, Wimbledon, 2025",
+            "match_name": "Spencer vs Banstead",
+            "match_id": 132035,
+            "startTime": "08:30:00 PM 29-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Phoenix Cricketers vs Bihar CC (KCC T10 Summer League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Phoenix Cricketers",
+            "team_2": "Bihar CC",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Summer League, 2025",
+            "match_name": "Phoenix Cricketers vs Bihar CC",
+            "match_id": 132131,
+            "startTime": "10:15:00 PM 29-07-2025"
         }
     ]
 }
