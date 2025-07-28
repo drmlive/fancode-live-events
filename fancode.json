@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:50:23 PM 28-07-2025",
+    "last update time": "03:00:29 PM 28-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-Women's-tour-of-Ireland-old-match-card.png",
             "team_1": "Zimbabwe Women",
             "team_2": "Ireland Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Zimbabwe Women tour of Ireland, 2025",
             "match_name": "Zimbabwe Women vs Ireland Women",
             "match_id": 128766,
-            "startTime": "03:15:00 PM 28-07-2025"
+            "startTime": "03:15:00 PM 28-07-2025",
+            "dai_url": "https://mls3.fancode.com/6c50ebff-b885-419c-9c97-d7256abee4bd/index.m3u8",
+            "adfree_url": "https://mls3.fancode.com/6c50ebff-b885-419c-9c97-d7256abee4bd/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -143,18 +145,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Guwahati Giants vs Navarang Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132389_CASACARDS_APP.png",
-            "team_1": "Guwahati Giants",
-            "team_2": "Navarang Club",
-            "status": "UPCOMING",
-            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_name": "Guwahati Giants vs Navarang Club",
-            "match_id": 132389,
-            "startTime": "09:00:00 AM 29-07-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Band-e-Amir Dragons vs Mis-e-Ainak Knights (Shpageeza Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130806_5425_BD_MAK_fc-Web.jpg",
             "team_1": "Band-e-Amir Dragons",
@@ -164,6 +154,18 @@
             "match_name": "Band-e-Amir Dragons vs Mis-e-Ainak Knights",
             "match_id": 130806,
             "startTime": "03:00:00 PM 29-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guwahati Giants vs Navarang Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132389_CASACARDS_APP.png",
+            "team_1": "Guwahati Giants",
+            "team_2": "Navarang Club",
+            "status": "UPCOMING",
+            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "match_name": "Guwahati Giants vs Navarang Club",
+            "match_id": 132389,
+            "startTime": "09:00:00 AM 29-07-2025"
         },
         {
             "event_category": "Cricket",
