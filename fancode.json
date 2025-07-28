@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:25:06 AM 28-07-2025",
+    "last update time": "08:35:47 AM 28-07-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "MR KB Putrajaya CC vs Fatemi Resources Cricket Club (Malaysia T10 Bash, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/131889_CASACARDS_APP.png",
+            "team_1": "MR KB Putrajaya CC",
+            "team_2": "Fatemi Resources Cricket Club",
+            "status": "LIVE",
+            "event_name": "Malaysia T10 Bash, 2025",
+            "match_name": "MR KB Putrajaya CC vs Fatemi Resources Cricket Club",
+            "match_id": 131889,
+            "startTime": "08:40:00 AM 28-07-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/V3Ghq7VJT-CrmTDSA9xw1w/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131889_english_hls_44180ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Band-e-Amir Dragons vs Boost Defenders (Shpageeza Cricket League, 2025)",
@@ -38,20 +52,6 @@
             "match_name": "Ireland Women vs Zimbabwe Women",
             "match_id": 128766,
             "startTime": "03:15:00 PM 28-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "MR KB Putrajaya CC vs Fatemi Resources Cricket Club (Malaysia T10 Bash, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/131889_CASACARDS_APP.png",
-            "team_1": "MR KB Putrajaya CC",
-            "team_2": "Fatemi Resources Cricket Club",
-            "status": "LIVE",
-            "event_name": "Malaysia T10 Bash, 2025",
-            "match_name": "MR KB Putrajaya CC vs Fatemi Resources Cricket Club",
-            "match_id": 131889,
-            "startTime": "08:40:00 AM 28-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/V3Ghq7VJT-CrmTDSA9xw1w/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131889_english_hls_44180ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -352,6 +352,18 @@
             "match_name": "Baltimore Orioles vs Toronto Blue Jays",
             "match_id": 130283,
             "startTime": "10:05:00 PM 29-07-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Band-e-Amir Dragons vs Amo Sharks (Shpageeza Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130807_5425_BD_AM_fc-Web.jpg",
+            "team_1": "Band-e-Amir Dragons",
+            "team_2": "Amo Sharks",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2025",
+            "match_name": "Band-e-Amir Dragons vs Amo Sharks",
+            "match_id": 130807,
+            "startTime": "10:00:00 AM 30-07-2025"
         }
     ]
 }
