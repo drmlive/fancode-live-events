@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:25:11 PM 30-07-2025",
+    "last update time": "04:35:17 PM 30-07-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "03:00:00 PM 30-07-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/d3ccmr8PT7CIUwhL5bYQgA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130808_english_hls_72161ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Spencer vs East Molesey (ECS England, Wimbledon, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
-            "team_1": "Spencer",
-            "team_2": "East Molesey",
-            "status": "LIVE",
-            "event_name": "ECS England, Wimbledon, 2025",
-            "match_name": "Spencer vs East Molesey",
-            "match_id": 132037,
-            "startTime": "02:30:00 PM 30-07-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/4jXCpJssQqqHKWYATmn2Kw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132037_english_hls_32698ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -420,6 +406,18 @@
             "match_name": "World Feed - Day 1",
             "match_id": 132195,
             "startTime": "12:30:00 AM 01-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "West Indies",
+            "team_2": "Pakistan",
+            "status": "UPCOMING",
+            "event_name": "Pakistan tour of West Indies, 2025",
+            "match_name": "West Indies vs Pakistan",
+            "match_id": 131402,
+            "startTime": "05:30:00 AM 01-08-2025"
         }
     ]
 }
