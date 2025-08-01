@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:35:40 AM 01-08-2025",
+    "last update time": "06:45:56 AM 01-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Johor vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132606_5524_SEL_JOH_fc-web.jpg",
+            "team_1": "Johor",
+            "team_2": "Selangor",
+            "status": "LIVE",
+            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+            "match_name": "Johor vs Selangor",
+            "match_id": 132606,
+            "startTime": "07:00:00 AM 01-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/_OmAhKuqQmSbe4tR7HpA-A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132606_english_hls_62366ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Pakistan vs West Indies (Pakistan tour of West Indies, 2025)",
@@ -28,18 +42,6 @@
             "match_name": "Zimbabwe vs New Zealand",
             "match_id": 128760,
             "startTime": "01:30:00 PM 30-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Johor vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132606_5524_SEL_JOH_fc-web.jpg",
-            "team_1": "Johor",
-            "team_2": "Selangor",
-            "status": "UPCOMING",
-            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-            "match_name": "Johor vs Selangor",
-            "match_id": 132606,
-            "startTime": "07:00:00 AM 01-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -414,18 +416,6 @@
             "startTime": "06:30:00 PM 01-08-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Qualifying vs Budapest (F2 HUNGARY 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-            "team_1": "Qualifying",
-            "team_2": "Budapest",
-            "status": "UPCOMING",
-            "event_name": "F2 HUNGARY 2025",
-            "match_name": "Qualifying",
-            "match_id": 119062,
-            "startTime": "07:25:00 PM 01-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Rays vs Magic (Mackay T20 Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -436,6 +426,18 @@
             "match_name": "Rays vs Magic",
             "match_id": 132520,
             "startTime": "10:00:00 AM 02-08-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying vs Budapest (F2 HUNGARY 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+            "team_1": "Qualifying",
+            "team_2": "Budapest",
+            "status": "UPCOMING",
+            "event_name": "F2 HUNGARY 2025",
+            "match_name": "Qualifying",
+            "match_id": 119062,
+            "startTime": "07:25:00 PM 01-08-2025"
         },
         {
             "event_category": "Formula 1",
