@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:41:14 PM 01-08-2025",
+    "last update time": "12:51:23 PM 01-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,20 +14,6 @@
             "match_name": "Zimbabwe vs New Zealand",
             "match_id": 128760,
             "startTime": "01:30:00 PM 30-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Nabajyoti Club vs Bud Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132395_CASACARDS_APP.png",
-            "team_1": "Nabajyoti Club",
-            "team_2": "Bud Cricket Club",
-            "status": "LIVE",
-            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_name": "Nabajyoti Club vs Bud Cricket Club",
-            "match_id": 132395,
-            "startTime": "09:00:00 AM 01-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/GDbJxuglSxyh571oiNhVDQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132395_english_hls_76875ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -63,11 +49,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
             "team_1": "Paratus Jets",
             "team_2": "NPL Bears",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Namibia T20, 2025",
             "match_name": "Paratus Jets vs NPL Bears",
             "match_id": 132433,
-            "startTime": "01:00:00 PM 01-08-2025"
+            "startTime": "01:00:00 PM 01-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/VsQ2Y2MVRRSrcerRLO-cAw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132433_english_hls_45586ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -452,6 +440,18 @@
             "match_name": "Qualifying",
             "match_id": 119062,
             "startTime": "07:25:00 PM 01-08-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 2 vs Hungary (F1 LENOVO HUNGARIAN GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian-Grand-Prix_old.jpg",
+            "team_1": "Practice 2",
+            "team_2": "Hungary",
+            "status": "UPCOMING",
+            "event_name": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
+            "match_name": "Practice 2",
+            "match_id": 118447,
+            "startTime": "08:30:00 PM 01-08-2025"
         }
     ]
 }
