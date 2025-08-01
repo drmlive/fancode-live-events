@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:06:19 AM 01-08-2025",
+    "last update time": "07:16:30 AM 01-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "07:00:00 AM 01-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_OmAhKuqQmSbe4tR7HpA-A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132606_english_hls_62366ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Melaka vs Kelantan (MCA Men's T20 Inter-State Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132607_5524_KEL_MEL_fc-web.jpg",
+            "team_1": "Melaka",
+            "team_2": "Kelantan",
+            "status": "LIVE",
+            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+            "match_name": "Melaka vs Kelantan",
+            "match_id": 132607,
+            "startTime": "07:30:00 AM 01-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/zTv82Jh8SImyx6EEzLzXow/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132607_english_hls_24557ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -56,18 +70,6 @@
             "match_name": "Zimbabwe vs New Zealand",
             "match_id": 128760,
             "startTime": "01:30:00 PM 30-07-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kelantan vs Melaka (MCA Men's T20 Inter-State Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132607_5524_KEL_MEL_fc-web.jpg",
-            "team_1": "Kelantan",
-            "team_2": "Melaka",
-            "status": "UPCOMING",
-            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-            "match_name": "Kelantan vs Melaka",
-            "match_id": 132607,
-            "startTime": "07:30:00 AM 01-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -322,18 +324,6 @@
             "startTime": "09:00:00 AM 02-08-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Practice vs Budapest (F3 HUNGARY 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-            "team_1": "Practice",
-            "team_2": "Budapest",
-            "status": "UPCOMING",
-            "event_name": "F3 HUNGARY 2025",
-            "match_name": "Practice",
-            "match_id": 119104,
-            "startTime": "01:25:00 PM 01-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Rays vs Magic (Mackay T20 Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -344,6 +334,18 @@
             "match_name": "Rays vs Magic",
             "match_id": 132520,
             "startTime": "10:00:00 AM 02-08-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice vs Budapest (F3 HUNGARY 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
+            "team_1": "Practice",
+            "team_2": "Budapest",
+            "status": "UPCOMING",
+            "event_name": "F3 HUNGARY 2025",
+            "match_name": "Practice",
+            "match_id": 119104,
+            "startTime": "01:25:00 PM 01-08-2025"
         },
         {
             "event_category": "Motorsports",
