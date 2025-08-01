@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:54:59 PM 01-08-2025",
+    "last update time": "05:05:08 PM 01-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -86,6 +86,20 @@
             "startTime": "05:00:00 PM 01-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/1_0TIB-HTJmw7_nwji-PQg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132208_english_hls_13110ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group - Day 2 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+            "team_1": "Marquee Group - Day 2",
+            "team_2": "Sedgefield Country Club - Greensboro, NC",
+            "status": "LIVE",
+            "event_name": "Wyndham Championship 2025",
+            "match_name": "Marquee Group - Day 2",
+            "match_id": 132207,
+            "startTime": "05:15:00 PM 01-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/K2tvd8PbQC2VWNhmaKUjuQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132207_english_hls_12639ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -316,18 +330,6 @@
             "startTime": "01:30:00 PM 02-08-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Marquee Group - Day 2 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
-            "team_1": "Marquee Group - Day 2",
-            "team_2": "Sedgefield Country Club - Greensboro, NC",
-            "status": "UPCOMING",
-            "event_name": "Wyndham Championship 2025",
-            "match_name": "Marquee Group - Day 2",
-            "match_id": 132207,
-            "startTime": "05:15:00 PM 01-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gaming CC vs Rugby CC (ECS Gibraltar, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132821_5531_GAM_RGC_fc-web.jpg",
@@ -458,6 +460,18 @@
             "match_name": "World Feed - Day 2",
             "match_id": 132205,
             "startTime": "12:30:00 AM 02-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sloggers vs Rugby CC (ECS Gibraltar, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132824_5531_SLO_RGC_fc-web.jpg",
+            "team_1": "Sloggers",
+            "team_2": "Rugby CC",
+            "status": "UPCOMING",
+            "event_name": "ECS Gibraltar, 2025",
+            "match_name": "Sloggers vs Rugby CC",
+            "match_id": 132824,
+            "startTime": "08:15:00 PM 02-08-2025"
         }
     ]
 }
