@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:34:40 PM 01-08-2025",
+    "last update time": "04:44:51 PM 01-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,14 +74,28 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132209_english_hls_72462ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Featured Group - Day 2 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+            "team_1": "Featured Group - Day 2",
+            "team_2": "Sedgefield Country Club - Greensboro, NC",
+            "status": "LIVE",
+            "event_name": "Wyndham Championship 2025",
+            "match_name": "Featured Group - Day 2",
+            "match_id": 132208,
+            "startTime": "05:00:00 PM 01-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/1_0TIB-HTJmw7_nwji-PQg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132208_english_hls_13110ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
-            "title": "Eavion Eagles vs Pupkewitz Motors Wildcats (Namibia T20, 2025)",
+            "title": "Pupkewitz Motors Wildcats vs Eavion Eagles (Namibia T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-            "team_1": "Eavion Eagles",
-            "team_2": "Pupkewitz Motors Wildcats",
+            "team_1": "Pupkewitz Motors Wildcats",
+            "team_2": "Eavion Eagles",
             "status": "UPCOMING",
             "event_name": "Namibia T20, 2025",
-            "match_name": "Eavion Eagles vs Pupkewitz Motors Wildcats",
+            "match_name": "Pupkewitz Motors Wildcats vs Eavion Eagles",
             "match_id": 132434,
             "startTime": "05:30:00 PM 01-08-2025"
         },
@@ -208,7 +222,7 @@
         {
             "event_category": "Cricket",
             "title": "Rays vs Magic (Mackay T20 Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132520_5522_RYS_MGC_fc-web.jpg",
             "team_1": "Rays",
             "team_2": "Magic",
             "status": "UPCOMING",
@@ -292,7 +306,7 @@
         {
             "event_category": "Cricket",
             "title": "Chargers vs Wolves (Mackay T20 Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132524_5522_CHR_WLV_fc-web.jpg",
             "team_1": "Chargers",
             "team_2": "Wolves",
             "status": "UPCOMING",
@@ -300,18 +314,6 @@
             "match_name": "Chargers vs Wolves",
             "match_id": 132524,
             "startTime": "01:30:00 PM 02-08-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Group - Day 2 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
-            "team_1": "Featured Group - Day 2",
-            "team_2": "Sedgefield Country Club - Greensboro, NC",
-            "status": "UPCOMING",
-            "event_name": "Wyndham Championship 2025",
-            "match_name": "Featured Group - Day 2",
-            "match_id": 132208,
-            "startTime": "05:00:00 PM 01-08-2025"
         },
         {
             "event_category": "Golf",
@@ -444,6 +446,18 @@
             "match_name": "Cincinnati Reds vs Atlanta Braves",
             "match_id": 132834,
             "startTime": "10:10:00 PM 01-08-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 2 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+            "team_1": "World Feed - Day 2",
+            "team_2": "Sedgefield Country Club - Greensboro, NC",
+            "status": "UPCOMING",
+            "event_name": "Wyndham Championship 2025",
+            "match_name": "World Feed - Day 2",
+            "match_id": 132205,
+            "startTime": "12:30:00 AM 02-08-2025"
         }
     ]
 }
