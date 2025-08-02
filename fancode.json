@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:05:33 PM 02-08-2025",
+    "last update time": "05:15:41 PM 02-08-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "91 Yards Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/132398_CASACARDS_APP.png",
-            "team_1": "91 Yards Club",
-            "team_2": "Guwahati Giants",
-            "status": "LIVE",
-            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_name": "91 Yards Club vs Guwahati Giants",
-            "match_id": 132398,
-            "startTime": "01:15:00 PM 02-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/mMne4hNGRSGDeLSON6fOpw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132398_english_hls_15152ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Gaming CC vs Sloggers (ECS Gibraltar, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132822_5531_SLO_GAM_fc-web.jpg",
             "team_1": "Gaming CC",
@@ -44,6 +30,20 @@
             "startTime": "04:15:00 PM 02-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/LJ6StU86RtmdnsUhJlh0yA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132822_english_hls_36033ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Paratus Jets vs Eavion Eagles (Namibia T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
+            "team_1": "Paratus Jets",
+            "team_2": "Eavion Eagles",
+            "status": "LIVE",
+            "event_name": "Namibia T20, 2025",
+            "match_name": "Paratus Jets vs Eavion Eagles",
+            "match_id": 132436,
+            "startTime": "05:30:00 PM 02-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132436_english_hls_14666ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132436_english_hls_14666ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -126,18 +126,6 @@
             "match_name": "Pakistan Champions vs South Africa Champions",
             "match_id": 129735,
             "startTime": "09:00:00 PM 02-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Paratus Jets vs Eavion Eagles (Namibia T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-            "team_1": "Paratus Jets",
-            "team_2": "Eavion Eagles",
-            "status": "UPCOMING",
-            "event_name": "Namibia T20, 2025",
-            "match_name": "Paratus Jets vs Eavion Eagles",
-            "match_id": 132436,
-            "startTime": "05:30:00 PM 02-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -462,6 +450,30 @@
             "match_name": "Stockport County vs Bolton Wanderers",
             "match_id": 132020,
             "startTime": "04:30:00 PM 03-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Women Under-19 vs USA Women Under-19 (USA Women U19 tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/USA-Women-U19-tour-of-West-India,-2025_match-card.jpg",
+            "team_1": "West Indies Women Under-19",
+            "team_2": "USA Women Under-19",
+            "status": "UPCOMING",
+            "event_name": "USA Women U19 tour of West Indies, 2025",
+            "match_name": "West Indies Women Under-19 vs USA Women Under-19",
+            "match_id": 131673,
+            "startTime": "07:30:00 PM 03-08-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Qualifying vs Hungary (F1 LENOVO HUNGARIAN GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian-Grand-Prix_old.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Hungary",
+            "status": "UPCOMING",
+            "event_name": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
+            "match_name": "Qualifying",
+            "match_id": 118449,
+            "startTime": "07:30:00 PM 02-08-2025"
         }
     ]
 }
