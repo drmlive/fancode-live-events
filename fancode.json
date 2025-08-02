@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:34:15 PM 02-08-2025",
+    "last update time": "03:44:21 PM 02-08-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Hungarian-Grand-Prix_old.jpg",
             "team_1": "Practice 3",
             "team_2": "Hungary",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F1 LENOVO HUNGARIAN GRAND PRIX 2025",
             "match_name": "Practice 3",
             "match_id": 118448,
-            "startTime": "04:00:00 PM 02-08-2025"
+            "startTime": "04:00:00 PM 02-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/118448_english_hls_34581adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/118448_english_hls_34581adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -70,34 +72,6 @@
             "startTime": "02:15:00 PM 02-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/omwG2EegTtGmMGNZFegu7A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132821_english_hls_20602ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Qualifying Session vs Budapest (Porsche Mobil 1 Super Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP__Match_card_MRF_Old_match-card.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Budapest",
-            "status": "LIVE",
-            "event_name": "Porsche Mobil 1 Super Cup",
-            "match_name": "Qualifying Session",
-            "match_id": 132113,
-            "startTime": "02:50:00 PM 02-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132113_english_hls_33109adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132113_english_hls_33109adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kuala Lumpur vs Sarawak (MCA Men's T20 Inter-State Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132613_5524_KL_SAR_fc-web.jpg",
-            "team_1": "Kuala Lumpur",
-            "team_2": "Sarawak",
-            "status": "LIVE",
-            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-            "match_name": "Kuala Lumpur vs Sarawak",
-            "match_id": 132613,
-            "startTime": "12:00:00 PM 02-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ofoe96NUTzetTud5WOq2-Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132613_english_hls_74159ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -353,18 +327,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "West Indies",
-            "team_2": "Pakistan",
-            "status": "UPCOMING",
-            "event_name": "Pakistan tour of West Indies, 2025",
-            "match_name": "West Indies vs Pakistan",
-            "match_id": 131403,
-            "startTime": "05:30:00 AM 03-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "TBC vs TBC (Mackay T20 Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "TBC",
@@ -374,6 +336,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 132527,
             "startTime": "02:00:00 PM 03-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "West Indies",
+            "team_2": "Pakistan",
+            "status": "UPCOMING",
+            "event_name": "Pakistan tour of West Indies, 2025",
+            "match_name": "West Indies vs Pakistan",
+            "match_id": 131403,
+            "startTime": "05:30:00 AM 03-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -469,6 +443,30 @@
             "event_name": "Wyndham Championship 2025",
             "match_name": "Marquee Group - Day 3",
             "match_id": 132212,
+            "startTime": "05:00:00 PM 02-08-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 3 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+            "team_1": "Featured Holes - Day 3",
+            "team_2": "Sedgefield Country Club - Greensboro, NC",
+            "status": "UPCOMING",
+            "event_name": "Wyndham Championship 2025",
+            "match_name": "Featured Holes - Day 3",
+            "match_id": 132214,
+            "startTime": "05:00:00 PM 02-08-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Group - Day 3 vs Sedgefield Country Club - Greensboro, NC (Wyndham Championship 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wyndham-Championship-old-match-card.png",
+            "team_1": "Featured Group - Day 3",
+            "team_2": "Sedgefield Country Club - Greensboro, NC",
+            "status": "UPCOMING",
+            "event_name": "Wyndham Championship 2025",
+            "match_name": "Featured Group - Day 3",
+            "match_id": 132213,
             "startTime": "05:00:00 PM 02-08-2025"
         }
     ]
