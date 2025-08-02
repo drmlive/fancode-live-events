@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:18:22 PM 02-08-2025",
+    "last update time": "08:28:30 PM 02-08-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "South Delhi Superstarz vs East Delhi Riders (Delhi Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132464_5521_SDS_EDR_fc-Web.jpg",
-            "team_1": "South Delhi Superstarz",
-            "team_2": "East Delhi Riders",
-            "status": "LIVE",
-            "event_name": "Delhi Premier League, 2025",
-            "match_name": "South Delhi Superstarz vs East Delhi Riders",
-            "match_id": 132464,
-            "startTime": "08:00:00 PM 02-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/KVtIbL_RRTi1b7Q9vp8jxQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132464_english_hls_44402ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Pakistan Champions vs South Africa Champions (World Championship of Legends, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129726_5370_PNC_SAC_fc-Web.jpg",
             "team_1": "Pakistan Champions",
@@ -44,6 +30,20 @@
             "startTime": "09:00:00 PM 02-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/lfKd7xSGTU23Hcxsvs2d5g/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129735_english_hls_33337ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Delhi Superstarz vs East Delhi Riders (Delhi Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132464_5521_SDS_EDR_fc-Web.jpg",
+            "team_1": "South Delhi Superstarz",
+            "team_2": "East Delhi Riders",
+            "status": "LIVE",
+            "event_name": "Delhi Premier League, 2025",
+            "match_name": "South Delhi Superstarz vs East Delhi Riders",
+            "match_id": 132464,
+            "startTime": "08:00:00 PM 02-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/KVtIbL_RRTi1b7Q9vp8jxQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132464_english_hls_44402ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -374,18 +374,6 @@
             "startTime": "05:30:00 PM 03-08-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "West Indies",
-            "team_2": "Pakistan",
-            "status": "UPCOMING",
-            "event_name": "Pakistan tour of West Indies, 2025",
-            "match_name": "West Indies vs Pakistan",
-            "match_id": 131403,
-            "startTime": "05:30:00 AM 03-08-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Ajax vs Monaco (Club Friendlies 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
@@ -396,6 +384,18 @@
             "match_name": "Ajax vs Monaco",
             "match_id": 131251,
             "startTime": "05:30:00 PM 03-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "West Indies",
+            "team_2": "Pakistan",
+            "status": "UPCOMING",
+            "event_name": "Pakistan tour of West Indies, 2025",
+            "match_name": "West Indies vs Pakistan",
+            "match_id": 131403,
+            "startTime": "05:30:00 AM 03-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -422,18 +422,6 @@
             "startTime": "07:30:00 PM 03-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Stockport County vs Bolton Wanderers (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132020_5490_STC_BOL_fc-Web.jpg",
-            "team_1": "Stockport County",
-            "team_2": "Bolton Wanderers",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Stockport County vs Bolton Wanderers",
-            "match_id": 132020,
-            "startTime": "04:30:00 PM 03-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Rugby CC vs Pirates (ECS Gibraltar, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/132831_CASACARDS_APP.png",
@@ -444,6 +432,18 @@
             "match_name": "Rugby CC vs Pirates",
             "match_id": 132831,
             "startTime": "08:15:00 PM 03-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Stockport County vs Bolton Wanderers (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132020_5490_STC_BOL_fc-Web.jpg",
+            "team_1": "Stockport County",
+            "team_2": "Bolton Wanderers",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Stockport County vs Bolton Wanderers",
+            "match_id": 132020,
+            "startTime": "04:30:00 PM 03-08-2025"
         },
         {
             "event_category": "Cricket",
