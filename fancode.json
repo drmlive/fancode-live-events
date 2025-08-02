@@ -1,17 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:05:45 AM 03-08-2025",
+    "last update time": "05:15:53 AM 03-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+            "title": "Pakistan vs West Indies (Pakistan tour of West Indies, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "West Indies",
-            "team_2": "Pakistan",
+            "team_1": "Pakistan",
+            "team_2": "West Indies",
             "status": "LIVE",
             "event_name": "Pakistan tour of West Indies, 2025",
-            "match_name": "West Indies vs Pakistan",
+            "match_name": "Pakistan vs West Indies",
             "match_id": 131403,
             "startTime": "05:30:00 AM 03-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/XFMd_f62THmMUFbK1dkEZg/master.m3u8",
@@ -438,18 +438,6 @@
             "startTime": "05:30:00 AM 04-08-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Boston Red Sox vs Houston Astros (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132839_CASACARDS_APP.png",
-            "team_1": "Boston Red Sox",
-            "team_2": "Houston Astros",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Boston Red Sox vs Houston Astros",
-            "match_id": 132839,
-            "startTime": "09:05:00 PM 03-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gauhati Town Club vs Nabajyoti Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
             "src": "https://images.fancode.com/aig/match/v2/132401_CASACARDS_APP.png",
@@ -460,6 +448,18 @@
             "match_name": "Gauhati Town Club vs Nabajyoti Club",
             "match_id": 132401,
             "startTime": "09:00:00 AM 04-08-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Boston Red Sox vs Houston Astros (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132839_CASACARDS_APP.png",
+            "team_1": "Boston Red Sox",
+            "team_2": "Houston Astros",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Boston Red Sox vs Houston Astros",
+            "match_id": 132839,
+            "startTime": "09:05:00 PM 03-08-2025"
         }
     ]
 }
