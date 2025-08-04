@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:17:39 PM 04-08-2025",
+    "last update time": "04:27:50 PM 04-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,8 +14,8 @@
             "match_name": "Daegu vs Barcelona",
             "match_id": 129909,
             "startTime": "04:30:00 PM 04-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/cQ5rVGkWSpyNtUKtTHXHUw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129909_english_hls_71610ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -252,18 +252,6 @@
             "startTime": "04:30:00 PM 05-08-2025"
         },
         {
-            "event_category": "Basketball",
-            "title": "New Zealand vs Iraq (FIBA Asia Cup, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/133182_CASACARDS_APP.png",
-            "team_1": "New Zealand",
-            "team_2": "Iraq",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "New Zealand vs Iraq",
-            "match_id": 133182,
-            "startTime": "01:30:00 PM 05-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Guildford vs Kreative Sports XI (ECS England, Wimbledon, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
@@ -274,6 +262,18 @@
             "match_name": "Guildford vs Kreative Sports XI",
             "match_id": 132059,
             "startTime": "06:30:00 PM 05-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "New Zealand vs Iraq (FIBA Asia Cup, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/133182_CASACARDS_APP.png",
+            "team_1": "New Zealand",
+            "team_2": "Iraq",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "New Zealand vs Iraq",
+            "match_id": 133182,
+            "startTime": "01:30:00 PM 05-08-2025"
         },
         {
             "event_category": "Cricket",
