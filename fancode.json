@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:07:16 PM 04-08-2025",
+    "last update time": "04:17:39 PM 04-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Daegu vs Barcelona (Club Friendlies 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Daegu-VS-Barcelona_old.jpg",
+            "team_1": "Daegu",
+            "team_2": "Barcelona",
+            "status": "LIVE",
+            "event_name": "Club Friendlies 2025",
+            "match_name": "Daegu vs Barcelona",
+            "match_id": 129909,
+            "startTime": "04:30:00 PM 04-08-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
         {
             "event_category": "Cricket",
             "title": "Bengaluru Blasters Women vs Mangaluru Dragons Women (Maharani Trophy, 2025)",
@@ -19,6 +33,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Guildford vs Wimbledon (ECS England, Wimbledon, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
+            "team_1": "Guildford",
+            "team_2": "Wimbledon",
+            "status": "LIVE",
+            "event_name": "ECS England, Wimbledon, 2025",
+            "match_name": "Guildford vs Wimbledon",
+            "match_id": 132053,
+            "startTime": "04:30:00 PM 04-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZlBsr9rkRFuLgtnQ1qS0KA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132053_english_hls_17047ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "East Delhi Riders vs West Delhi Lions (Delhi Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132467_5521_EDR_WDL_fc-Web.jpg",
             "team_1": "East Delhi Riders",
@@ -30,30 +58,6 @@
             "startTime": "02:00:00 PM 04-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/FsX8lMCfRH2Dn0eKrFo8Og/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132467_english_hls_78715ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guildford vs Wimbledon (ECS England, Wimbledon, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
-            "team_1": "Guildford",
-            "team_2": "Wimbledon",
-            "status": "UPCOMING",
-            "event_name": "ECS England, Wimbledon, 2025",
-            "match_name": "Guildford vs Wimbledon",
-            "match_id": 132053,
-            "startTime": "04:30:00 PM 04-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Daegu vs Barcelona (Club Friendlies 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Daegu-VS-Barcelona_old.jpg",
-            "team_1": "Daegu",
-            "team_2": "Barcelona",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2025",
-            "match_name": "Daegu vs Barcelona",
-            "match_id": 129909,
-            "startTime": "04:30:00 PM 04-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -296,18 +300,6 @@
             "startTime": "07:40:00 AM 05-08-2025"
         },
         {
-            "event_category": "Basketball",
-            "title": "Jordan vs India (FIBA Asia Cup, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/133183_CASACARDS_APP.png",
-            "team_1": "Jordan",
-            "team_2": "India",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "Jordan vs India",
-            "match_id": 133183,
-            "startTime": "04:30:00 PM 05-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "London Spirit vs Oval Invincibles (The Hundred, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/London-Spirit-VS-Oval-Invincibles_old.jpg",
@@ -318,6 +310,18 @@
             "match_name": "London Spirit vs Oval Invincibles",
             "match_id": 132222,
             "startTime": "11:00:00 PM 05-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Jordan vs India (FIBA Asia Cup, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/133183_CASACARDS_APP.png",
+            "team_1": "Jordan",
+            "team_2": "India",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Jordan vs India",
+            "match_id": 133183,
+            "startTime": "04:30:00 PM 05-08-2025"
         },
         {
             "event_category": "Cricket",
