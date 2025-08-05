@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:20:18 AM 05-08-2025",
+    "last update time": "07:30:39 AM 05-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,22 @@
             "match_name": "Pahang vs Kelantan",
             "match_id": 132628,
             "startTime": "07:30:00 AM 05-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/pBiCw7ECQb-bZC4t9Qjeug/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132628_english_hls_29391ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs St. Louis Cardinals (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132842_CASACARDS_APP.png",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "St. Louis Cardinals",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs St. Louis Cardinals",
+            "match_id": 132842,
+            "startTime": "07:40:00 AM 05-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132842_english_hls_81421ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132842_english_hls_81421ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -260,18 +274,6 @@
             "startTime": "11:30:00 PM 05-08-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs St. Louis Cardinals (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132842_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "St. Louis Cardinals",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs St. Louis Cardinals",
-            "match_id": 132842,
-            "startTime": "07:40:00 AM 05-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Selangor vs Malacca (MCA Men's T20 Inter-State Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132631_5524_SEL_MEL_fc-web.jpg",
@@ -404,18 +406,6 @@
             "startTime": "01:45:00 PM 06-08-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Seattle Mariners vs Chicago White Sox (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132843_CASACARDS_APP.png",
-            "team_1": "Seattle Mariners",
-            "team_2": "Chicago White Sox",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Seattle Mariners vs Chicago White Sox",
-            "match_id": 132843,
-            "startTime": "07:10:00 AM 06-08-2025"
-        },
-        {
             "event_category": "Basketball",
             "title": "Australia vs South Korea (FIBA Asia Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133186_5549_AUS_SKR_fc-Web.jpg",
@@ -426,6 +416,18 @@
             "match_name": "Australia vs South Korea",
             "match_id": 133186,
             "startTime": "01:30:00 PM 06-08-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Chicago White Sox (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132843_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "Chicago White Sox",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Chicago White Sox",
+            "match_id": 132843,
+            "startTime": "07:10:00 AM 06-08-2025"
         },
         {
             "event_category": "Cricket",
