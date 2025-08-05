@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:39:39 PM 05-08-2025",
+    "last update time": "06:49:51 PM 05-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,11 +21,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132470_5521_WDL_SDS_fc-Web.jpg",
             "team_1": "South Delhi Superstarz",
             "team_2": "West Delhi Lions",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Delhi Premier League, 2025",
             "match_name": "South Delhi Superstarz vs West Delhi Lions",
             "match_id": 132470,
-            "startTime": "07:00:00 PM 05-08-2025"
+            "startTime": "07:00:00 PM 05-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/VnXGeHYXQS-gpQuUGX1qEA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132470_english_hls_64738ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -239,18 +241,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bud Cricket Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/132406_CASACARDS_APP.png",
-            "team_1": "Bud Cricket Club",
-            "team_2": "City Cricket Club",
-            "status": "UPCOMING",
-            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_name": "Bud Cricket Club vs City Cricket Club",
-            "match_id": 132406,
-            "startTime": "01:15:00 PM 06-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "North Delhi Strikers vs Outer Delhi Warriors (Delhi Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132472_5521_NDS_ODW_fc-Web.jpg",
             "team_1": "North Delhi Strikers",
@@ -260,6 +250,18 @@
             "match_name": "North Delhi Strikers vs Outer Delhi Warriors",
             "match_id": 132472,
             "startTime": "07:00:00 PM 06-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bud Cricket Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+            "src": "https://images.fancode.com/aig/match/v2/132406_CASACARDS_APP.png",
+            "team_1": "Bud Cricket Club",
+            "team_2": "City Cricket Club",
+            "status": "UPCOMING",
+            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "match_name": "Bud Cricket Club vs City Cricket Club",
+            "match_id": 132406,
+            "startTime": "01:15:00 PM 06-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -419,18 +421,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Ireland Women",
-            "team_2": "Pakistan Women",
-            "status": "UPCOMING",
-            "event_name": "Pakistan Women tour of Ireland, 2025",
-            "match_name": "Ireland Women vs Pakistan Women",
-            "match_id": 131606,
-            "startTime": "08:30:00 PM 06-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Wimbledon vs Kreative Sports XI (ECS England, Wimbledon, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
             "team_1": "Wimbledon",
@@ -440,6 +430,18 @@
             "match_name": "Wimbledon vs Kreative Sports XI",
             "match_id": 132066,
             "startTime": "10:45:00 PM 06-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Ireland Women",
+            "team_2": "Pakistan Women",
+            "status": "UPCOMING",
+            "event_name": "Pakistan Women tour of Ireland, 2025",
+            "match_name": "Ireland Women vs Pakistan Women",
+            "match_id": 131606,
+            "startTime": "08:30:00 PM 06-08-2025"
         }
     ]
 }
