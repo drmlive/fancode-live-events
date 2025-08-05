@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:26:59 PM 05-08-2025",
+    "last update time": "03:37:09 PM 05-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,20 +60,6 @@
             "adfree_url": null
         },
         {
-            "event_category": "Basketball",
-            "title": "New Zealand vs Iraq (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133182_5549_NZ_IRQ_fc-Web.jpg",
-            "team_1": "New Zealand",
-            "team_2": "Iraq",
-            "status": "LIVE",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "New Zealand vs Iraq",
-            "match_id": 133182,
-            "startTime": "01:30:00 PM 05-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Us3Bggn9R3mqyH3VBGvDgg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133182_english_hls_75048ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "West Delhi Lions vs South Delhi Superstarz (Delhi Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132470_5521_WDL_SDS_fc-Web.jpg",
@@ -119,6 +105,18 @@
             "event_name": "ECS England, Wimbledon, 2025",
             "match_name": "London County Cricket vs CFS Pinnacle Pro",
             "match_id": 132058,
+            "startTime": "04:30:00 PM 05-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Jordan vs India (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133183_5549_JDN_IND_fc-Web.jpg",
+            "team_1": "Jordan",
+            "team_2": "India",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Jordan vs India",
+            "match_id": 133183,
             "startTime": "04:30:00 PM 05-08-2025"
         },
         {
@@ -192,18 +190,6 @@
             "match_name": "New Delhi Tigers vs East Delhi Riders",
             "match_id": 132471,
             "startTime": "02:00:00 PM 06-08-2025"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Jordan vs India (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133183_5549_JDN_IND_fc-Web.jpg",
-            "team_1": "Jordan",
-            "team_2": "India",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "Jordan vs India",
-            "match_id": 133183,
-            "startTime": "04:30:00 PM 05-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -432,6 +418,30 @@
             "match_name": "Seattle Mariners vs Chicago White Sox",
             "match_id": 132843,
             "startTime": "07:10:00 AM 06-08-2025"
+        },
+        {
+            "event_category": "Live events",
+            "title": "Semi-Finals vs Mumbai (MSSA U16 Football Boys)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Boys_match-card.jpg",
+            "team_1": "Semi-Finals",
+            "team_2": "Mumbai",
+            "status": "UPCOMING",
+            "event_name": "MSSA U16 Football Boys",
+            "match_name": "Semi-Finals",
+            "match_id": 133178,
+            "startTime": "10:00:00 AM 06-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Manchester Originals vs Southern Brave (The Hundred, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132223_5505_MNR_SOB_fc-web.jpg",
+            "team_1": "Manchester Originals",
+            "team_2": "Southern Brave",
+            "status": "UPCOMING",
+            "event_name": "The Hundred, 2025",
+            "match_name": "Manchester Originals vs Southern Brave",
+            "match_id": 132223,
+            "startTime": "11:00:00 PM 06-08-2025"
         }
     ]
 }
