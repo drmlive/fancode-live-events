@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:53:27 PM 05-08-2025",
+    "last update time": "11:03:38 PM 05-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132222_5505_LNS_OVI_fc-web.jpg",
             "team_1": "London Spirit",
             "team_2": "Oval Invincibles",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "The Hundred, 2025",
             "match_name": "London Spirit vs Oval Invincibles",
             "match_id": 132222,
-            "startTime": "11:00:00 PM 05-08-2025"
+            "startTime": "11:00:00 PM 05-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754458418~acl=/*~id=45937026059927865130853896050343~hmac=a9099005e21af923b28f0ccacdc37ccc5ec104ba3d355d0e4b10fbed2a2877d9"
         },
         {
             "event_category": "Cricket",
@@ -42,20 +44,6 @@
             "startTime": "10:45:00 PM 05-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/d0-2XSu3RRC6yYozfOBdrg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132061_english_hls_58566ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "London County Cricket vs Kreative Sports XI (ECS England, Wimbledon, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2.jpg",
-            "team_1": "London County Cricket",
-            "team_2": "Kreative Sports XI",
-            "status": "LIVE",
-            "event_name": "ECS England, Wimbledon, 2025",
-            "match_name": "London County Cricket vs Kreative Sports XI",
-            "match_id": 132060,
-            "startTime": "08:45:00 PM 05-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/K27NFaBjRMuLKsKA9gg1YQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132060_english_hls_35817ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -358,18 +346,6 @@
             "startTime": "12:15:00 AM 07-08-2025"
         },
         {
-            "event_category": "Basketball",
-            "title": "Qatar vs Lebanon (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133189_5549_QAT_LEB_fc-Web.jpg",
-            "team_1": "Qatar",
-            "team_2": "Lebanon",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "Qatar vs Lebanon",
-            "match_id": 133189,
-            "startTime": "11:30:00 PM 06-08-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Feyenoord vs Fenerbah\u00e7e (UEFA Champions League Qualifiers 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
@@ -380,6 +356,18 @@
             "match_name": "Feyenoord vs Fenerbah\u00e7e",
             "match_id": 132970,
             "startTime": "12:30:00 AM 07-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Qatar vs Lebanon (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133189_5549_QAT_LEB_fc-Web.jpg",
+            "team_1": "Qatar",
+            "team_2": "Lebanon",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Qatar vs Lebanon",
+            "match_id": 133189,
+            "startTime": "11:30:00 PM 06-08-2025"
         },
         {
             "event_category": "Baseball",
@@ -416,6 +404,18 @@
             "match_name": "Day 2",
             "match_id": 132190,
             "startTime": "05:00:00 PM 06-08-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Pittsburgh Pirates vs San Francisco Giants (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132844_CASACARDS_APP.png",
+            "team_1": "Pittsburgh Pirates",
+            "team_2": "San Francisco Giants",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Pittsburgh Pirates vs San Francisco Giants",
+            "match_id": 132844,
+            "startTime": "10:05:00 PM 06-08-2025"
         }
     ]
 }
