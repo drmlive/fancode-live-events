@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:04:48 PM 05-08-2025",
+    "last update time": "01:14:59 PM 05-08-2025",
     "matches": [
         {
             "event_category": "Basketball",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133182_5549_NZ_IRQ_fc-Web.jpg",
             "team_1": "New Zealand",
             "team_2": "Iraq",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "FIBA Asia Cup, 2025",
             "match_name": "New Zealand vs Iraq",
             "match_id": 133182,
-            "startTime": "01:30:00 PM 05-08-2025"
+            "startTime": "01:30:00 PM 05-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Us3Bggn9R3mqyH3VBGvDgg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133182_english_hls_75048ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -418,18 +420,6 @@
             "startTime": "07:30:00 PM 06-08-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Seattle Mariners vs Chicago White Sox (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132843_CASACARDS_APP.png",
-            "team_1": "Seattle Mariners",
-            "team_2": "Chicago White Sox",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Seattle Mariners vs Chicago White Sox",
-            "match_id": 132843,
-            "startTime": "07:10:00 AM 06-08-2025"
-        },
-        {
             "event_category": "Basketball",
             "title": "Japan vs Syria (FIBA Asia Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133187_5549_JPN_SYR_fc-Web.jpg",
@@ -440,6 +430,18 @@
             "match_name": "Japan vs Syria",
             "match_id": 133187,
             "startTime": "04:40:00 PM 06-08-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Chicago White Sox (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132843_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "Chicago White Sox",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Chicago White Sox",
+            "match_id": 132843,
+            "startTime": "07:10:00 AM 06-08-2025"
         }
     ]
 }
