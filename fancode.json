@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:59:11 PM 05-08-2025",
+    "last update time": "06:09:16 PM 05-08-2025",
     "matches": [
-        {
-            "event_category": "Basketball",
-            "title": "Jordan vs India (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133183_5549_JDN_IND_fc-Web.jpg",
-            "team_1": "Jordan",
-            "team_2": "India",
-            "status": "LIVE",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "Jordan vs India",
-            "match_id": 133183,
-            "startTime": "04:30:00 PM 05-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/z81aeN8_Q_G6J-s0AKDSkQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133183_english_hls_26318ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "London Spirit Women vs Oval Invincibles Women (The Hundred Women, 2025)",
@@ -66,6 +52,20 @@
             "startTime": "04:30:00 PM 05-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/IMb4hfpFTDO8VfDj25VFZQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132058_english_hls_85780ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Jordan vs India (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133183_5549_JDN_IND_fc-Web.jpg",
+            "team_1": "Jordan",
+            "team_2": "India",
+            "status": "LIVE",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Jordan vs India",
+            "match_id": 133183,
+            "startTime": "04:30:00 PM 05-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/z81aeN8_Q_G6J-s0AKDSkQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133183_english_hls_26318ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Arm Wrestling",
@@ -202,18 +202,6 @@
             "startTime": "08:30:00 PM 05-08-2025"
         },
         {
-            "event_category": "Basketball",
-            "title": "Chinese Taipei vs Philippines (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133185_5549_CT_PHP_fc-Web.jpg",
-            "team_1": "Chinese Taipei",
-            "team_2": "Philippines",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "Chinese Taipei vs Philippines",
-            "match_id": 133185,
-            "startTime": "11:30:00 PM 05-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Hubli Tigers Women vs Mangaluru Dragons Women (Maharani Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
@@ -224,6 +212,18 @@
             "match_name": "Hubli Tigers Women vs Mangaluru Dragons Women",
             "match_id": 132921,
             "startTime": "09:45:00 AM 06-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Chinese Taipei vs Philippines (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133185_5549_CT_PHP_fc-Web.jpg",
+            "team_1": "Chinese Taipei",
+            "team_2": "Philippines",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Chinese Taipei vs Philippines",
+            "match_id": 133185,
+            "startTime": "11:30:00 PM 05-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -428,6 +428,18 @@
             "match_name": "Kuwait Swedish vs CECC",
             "match_id": 132142,
             "startTime": "10:15:00 PM 06-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Ireland Women",
+            "team_2": "Pakistan Women",
+            "status": "UPCOMING",
+            "event_name": "Pakistan Women tour of Ireland, 2025",
+            "match_name": "Ireland Women vs Pakistan Women",
+            "match_id": 131606,
+            "startTime": "08:30:00 PM 06-08-2025"
         }
     ]
 }
