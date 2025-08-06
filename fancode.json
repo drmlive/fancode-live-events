@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:11:23 PM 06-08-2025",
+    "last update time": "08:21:33 PM 06-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,17 +33,31 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Wimbledon vs CFS Pinnacle Pro (ECS England, Wimbledon, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
-            "team_1": "Wimbledon",
-            "team_2": "CFS Pinnacle Pro",
+            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Ireland Women",
+            "team_2": "Pakistan Women",
             "status": "LIVE",
-            "event_name": "ECS England, Wimbledon, 2025",
-            "match_name": "Wimbledon vs CFS Pinnacle Pro",
-            "match_id": 132064,
-            "startTime": "06:30:00 PM 06-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/U827iBUnRFulXKf0I2xW_A/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132064_english_hls_45135ta-di_h264/index.m3u8"
+            "event_name": "Pakistan Women tour of Ireland, 2025",
+            "match_name": "Ireland Women vs Pakistan Women",
+            "match_id": 131606,
+            "startTime": "08:30:00 PM 06-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/MXP1ESChTBG1DkVPS3P-9A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131606_english_hls_86275ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Guam vs Iran (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133188_5549_GUA_IRN_fc-Web.jpg",
+            "team_1": "Guam",
+            "team_2": "Iran",
+            "status": "LIVE",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Guam vs Iran",
+            "match_id": 133188,
+            "startTime": "08:30:00 PM 06-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/fpwGFBivSXaQkvrPEq794Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133188_english_hls_36521ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Arm Wrestling",
@@ -118,30 +132,6 @@
             "match_name": "Purani Delhi 6 vs West Delhi Lions",
             "match_id": 132473,
             "startTime": "02:00:00 PM 07-08-2025"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Guam vs Iran (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133188_5549_GUA_IRN_fc-Web.jpg",
-            "team_1": "Guam",
-            "team_2": "Iran",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "Guam vs Iran",
-            "match_id": 133188,
-            "startTime": "08:30:00 PM 06-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Ireland Women",
-            "team_2": "Pakistan Women",
-            "status": "UPCOMING",
-            "event_name": "Pakistan Women tour of Ireland, 2025",
-            "match_name": "Ireland Women vs Pakistan Women",
-            "match_id": 131606,
-            "startTime": "08:30:00 PM 06-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -466,6 +456,18 @@
             "match_name": "Colorado Rockies vs Toronto Blue Jays",
             "match_id": 132845,
             "startTime": "12:40:00 AM 07-08-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Chicago White Sox (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132904_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "Chicago White Sox",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Chicago White Sox",
+            "match_id": 132904,
+            "startTime": "07:10:00 AM 07-08-2025"
         }
     ]
 }
