@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:54:02 PM 06-08-2025",
+    "last update time": "11:04:09 PM 06-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132223_5505_MNR_SOB_fc-web.jpg",
             "team_1": "Manchester Originals",
             "team_2": "Southern Brave",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "The Hundred, 2025",
             "match_name": "Manchester Originals vs Southern Brave",
             "match_id": 132223,
-            "startTime": "11:00:00 PM 06-08-2025"
+            "startTime": "11:00:00 PM 06-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754544849~acl=/*~id=28012877013674887087216074137618~hmac=69fd997cfffdefbd85d650e2cf9b79a7f98ab3fa9e7c0a2b2e7da647bc75b87c"
         },
         {
             "event_category": "Cricket",
@@ -219,18 +221,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bengaluru Blasters Women vs Hubli Tigers Women (Maharani Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-            "team_1": "Bengaluru Blasters Women",
-            "team_2": "Hubli Tigers Women",
-            "status": "UPCOMING",
-            "event_name": "Maharani Trophy, 2025",
-            "match_name": "Bengaluru Blasters Women vs Hubli Tigers Women",
-            "match_id": 132923,
-            "startTime": "09:45:00 AM 07-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Mumbai vs Rajasthan (LEGEN\u2011Z T10 League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
             "team_1": "Mumbai",
@@ -240,6 +230,18 @@
             "match_name": "Mumbai vs Rajasthan",
             "match_id": 133362,
             "startTime": "09:00:00 PM 07-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bengaluru Blasters Women vs Hubli Tigers Women (Maharani Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+            "team_1": "Bengaluru Blasters Women",
+            "team_2": "Hubli Tigers Women",
+            "status": "UPCOMING",
+            "event_name": "Maharani Trophy, 2025",
+            "match_name": "Bengaluru Blasters Women vs Hubli Tigers Women",
+            "match_id": 132923,
+            "startTime": "09:45:00 AM 07-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -303,18 +305,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
-            "team_1": "Croatia",
-            "team_2": "Cyprus",
-            "status": "UPCOMING",
-            "event_name": "ECN Croatia-Cyprus T20I, 2025",
-            "match_name": "Croatia vs Cyprus",
-            "match_id": 133316,
-            "startTime": "05:00:00 PM 07-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Northern Superchargers vs Welsh Fire (The Hundred, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132224_5505_NOS_WEF_fc-web.jpg",
             "team_1": "Northern Superchargers",
@@ -324,6 +314,18 @@
             "match_name": "Northern Superchargers vs Welsh Fire",
             "match_id": 132224,
             "startTime": "11:00:00 PM 07-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
+            "team_1": "Croatia",
+            "team_2": "Cyprus",
+            "status": "UPCOMING",
+            "event_name": "ECN Croatia-Cyprus T20I, 2025",
+            "match_name": "Croatia vs Cyprus",
+            "match_id": 133316,
+            "startTime": "05:00:00 PM 07-08-2025"
         },
         {
             "event_category": "Basketball",
