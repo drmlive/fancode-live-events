@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:14:41 PM 06-08-2025",
+    "last update time": "12:24:49 PM 06-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "12:00:00 PM 06-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ZKAadUlgRYK57U5IQkut7w/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132634_english_hls_19549ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Live events",
-            "title": "Semi-Finals vs Mumbai (Dream Sports MSSA Football Boys U16 Div I)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MSSA-U16-Football-Boys_match-card.jpg",
-            "team_1": "Semi-Finals",
-            "team_2": "Mumbai",
-            "status": "LIVE",
-            "event_name": "Dream Sports MSSA Football Boys U16 Div I",
-            "match_name": "Semi-Finals",
-            "match_id": 133178,
-            "startTime": "10:00:00 AM 06-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/P5uzYQi2RYmXVnQ-xo36Tw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133178_english_hls_19223ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -408,18 +394,6 @@
             "startTime": "05:00:00 PM 06-08-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Pittsburgh Pirates vs San Francisco Giants (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132844_CASACARDS_APP.png",
-            "team_1": "Pittsburgh Pirates",
-            "team_2": "San Francisco Giants",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Pittsburgh Pirates vs San Francisco Giants",
-            "match_id": 132844,
-            "startTime": "10:05:00 PM 06-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Royal Challenger Delhi vs Bengol Tigers (LEGEN\u2011Z T10 League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -430,6 +404,18 @@
             "match_name": "Royal Challenger Delhi vs Bengol Tigers",
             "match_id": 133360,
             "startTime": "05:00:00 PM 07-08-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Pittsburgh Pirates vs San Francisco Giants (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132844_CASACARDS_APP.png",
+            "team_1": "Pittsburgh Pirates",
+            "team_2": "San Francisco Giants",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Pittsburgh Pirates vs San Francisco Giants",
+            "match_id": 132844,
+            "startTime": "10:05:00 PM 06-08-2025"
         },
         {
             "event_category": "Baseball",
@@ -454,6 +440,18 @@
             "match_name": "Central Delhi Kings vs South Delhi Superstarz",
             "match_id": 132474,
             "startTime": "07:00:00 PM 07-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (ECS England, Wimbledon, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "ECS England, Wimbledon, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 132068,
+            "startTime": "04:30:00 PM 07-08-2025"
         }
     ]
 }
