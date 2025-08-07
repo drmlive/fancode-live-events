@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:33:52 AM 07-08-2025",
+    "last update time": "09:44:02 AM 07-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Bengaluru Blasters Women vs Hubli Tigers Women",
             "match_id": 132923,
             "startTime": "09:45:00 AM 07-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/SQ-QK_fgRAWREje44PVbkA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132923_english_hls_7901ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -406,6 +406,18 @@
             "startTime": "11:30:00 AM 08-08-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
+            "team_1": "Croatia",
+            "team_2": "Cyprus",
+            "status": "UPCOMING",
+            "event_name": "ECN Croatia-Cyprus T20I, 2025",
+            "match_name": "Croatia vs Cyprus",
+            "match_id": 133317,
+            "startTime": "12:30:00 PM 08-08-2025"
+        },
+        {
             "event_category": "Arm Wrestling",
             "title": "Day 3 vs India (Pro Panja League Season 2 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
@@ -440,18 +452,6 @@
             "match_name": "Main Feed - Day 1",
             "match_id": 133288,
             "startTime": "05:45:00 PM 07-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Croatia vs Cyprus (ECN Croatia-Cyprus T20I, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Croatia-Cyprus-T20I_old.jpg",
-            "team_1": "Croatia",
-            "team_2": "Cyprus",
-            "status": "UPCOMING",
-            "event_name": "ECN Croatia-Cyprus T20I, 2025",
-            "match_name": "Croatia vs Cyprus",
-            "match_id": 133317,
-            "startTime": "12:30:00 PM 08-08-2025"
         },
         {
             "event_category": "Golf",
