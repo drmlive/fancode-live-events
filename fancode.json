@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:07:09 PM 07-08-2025",
+    "last update time": "01:17:20 PM 07-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card.jpg",
             "team_1": "Australia A Women",
             "team_2": "India A Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "India A Women tour of Australia, 2025",
             "match_name": "Australia A Women vs India A Women",
             "match_id": 133229,
-            "startTime": "01:30:00 PM 07-08-2025"
+            "startTime": "01:30:00 PM 07-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/RHcHhHkFQY-SSoePT8qBmQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133229_english_hls_67659ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Basketball",
@@ -21,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133190_5549_IND_CHN_fc-Web.jpg",
             "team_1": "India",
             "team_2": "China",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "FIBA Asia Cup, 2025",
             "match_name": "India vs China",
             "match_id": 133190,
-            "startTime": "01:30:00 PM 07-08-2025"
+            "startTime": "01:30:00 PM 07-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/CRXJ4_ZqQM-iIPW5IeGRfg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133190_english_hls_26281ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -286,18 +290,6 @@
             "startTime": "09:00:00 AM 08-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Port Vale vs Cardiff City (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132021_5490_PV_CAR_fc-Web.jpg",
-            "team_1": "Port Vale",
-            "team_2": "Cardiff City",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Port Vale vs Cardiff City",
-            "match_id": 132021,
-            "startTime": "12:30:00 AM 08-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Johor vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/132636_CASACARDS_APP.png",
@@ -308,6 +300,18 @@
             "match_name": "Johor vs Penang",
             "match_id": 132636,
             "startTime": "09:30:00 AM 08-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Port Vale vs Cardiff City (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132021_5490_PV_CAR_fc-Web.jpg",
+            "team_1": "Port Vale",
+            "team_2": "Cardiff City",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Port Vale vs Cardiff City",
+            "match_id": 132021,
+            "startTime": "12:30:00 AM 08-08-2025"
         },
         {
             "event_category": "Cricket",
