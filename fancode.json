@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:56:13 PM 07-08-2025",
+    "last update time": "11:06:23 PM 07-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132224_5505_NOS_WEF_fc-web.jpg",
             "team_1": "Welsh Fire",
             "team_2": "Northern Superchargers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "The Hundred, 2025",
             "match_name": "Welsh Fire vs Northern Superchargers",
             "match_id": 132224,
-            "startTime": "11:00:00 PM 07-08-2025"
+            "startTime": "11:00:00 PM 07-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754631383~acl=/*~id=74003926459322068862730056752640~hmac=0c48574664de3530f4f85c51d25e4dd58388acd52d60e847e1873273f9e37c3d"
         },
         {
             "event_category": "Cricket",
@@ -245,30 +247,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Johor vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132636_CASACARDS_APP.png",
-            "team_1": "Johor",
-            "team_2": "Penang",
-            "status": "UPCOMING",
-            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-            "match_name": "Johor vs Penang",
-            "match_id": 132636,
-            "startTime": "09:30:00 AM 08-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bengaluru Blasters Women vs Mysore Warriors Women (Maharani Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-            "team_1": "Bengaluru Blasters Women",
-            "team_2": "Mysore Warriors Women",
-            "status": "UPCOMING",
-            "event_name": "Maharani Trophy, 2025",
-            "match_name": "Bengaluru Blasters Women vs Mysore Warriors Women",
-            "match_id": 132925,
-            "startTime": "09:45:00 AM 08-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Mumbai vs Southern United (LEGEN\u2011Z T10 League)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133365_5560_MUM_SU_fc-Web.jpg",
             "team_1": "Mumbai",
@@ -290,6 +268,30 @@
             "match_name": "Mumbai vs Rajasthan",
             "match_id": 133362,
             "startTime": "09:00:00 PM 08-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Johor vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132636_CASACARDS_APP.png",
+            "team_1": "Johor",
+            "team_2": "Penang",
+            "status": "UPCOMING",
+            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+            "match_name": "Johor vs Penang",
+            "match_id": 132636,
+            "startTime": "09:30:00 AM 08-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bengaluru Blasters Women vs Mysore Warriors Women (Maharani Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+            "team_1": "Bengaluru Blasters Women",
+            "team_2": "Mysore Warriors Women",
+            "status": "UPCOMING",
+            "event_name": "Maharani Trophy, 2025",
+            "match_name": "Bengaluru Blasters Women vs Mysore Warriors Women",
+            "match_id": 132925,
+            "startTime": "09:45:00 AM 08-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -400,18 +402,6 @@
             "startTime": "05:00:00 PM 08-08-2025"
         },
         {
-            "event_category": "Basketball",
-            "title": "South Korea vs Qatar (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133202_5549_SKR_QAT_fc-Web.jpg",
-            "team_1": "South Korea",
-            "team_2": "Qatar",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "South Korea vs Qatar",
-            "match_id": 133202,
-            "startTime": "01:30:00 PM 08-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Paratus Jets vs NPL Bears (Namibia T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
@@ -422,6 +412,18 @@
             "match_name": "Paratus Jets vs NPL Bears",
             "match_id": 132440,
             "startTime": "05:30:00 PM 08-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "South Korea vs Qatar (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133202_5549_SKR_QAT_fc-Web.jpg",
+            "team_1": "South Korea",
+            "team_2": "Qatar",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "South Korea vs Qatar",
+            "match_id": 133202,
+            "startTime": "01:30:00 PM 08-08-2025"
         },
         {
             "event_category": "Football",
