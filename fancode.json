@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:16:20 PM 07-08-2025",
+    "last update time": "12:26:30 PM 07-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Cyprus vs Croatia",
             "match_id": 133315,
             "startTime": "12:30:00 PM 07-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Xk6PLLC_Q0u0kGL2nWRrKw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133315_english_hls_57001ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -297,18 +297,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Johor vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132636_CASACARDS_APP.png",
-            "team_1": "Johor",
-            "team_2": "Penang",
-            "status": "UPCOMING",
-            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-            "match_name": "Johor vs Penang",
-            "match_id": 132636,
-            "startTime": "09:30:00 AM 08-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "East Delhi Riders vs Outer Delhi Warriors (Delhi Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132475_5521_EDR_ODW_fc-Web.jpg",
             "team_1": "East Delhi Riders",
@@ -318,6 +306,18 @@
             "match_name": "East Delhi Riders vs Outer Delhi Warriors",
             "match_id": 132475,
             "startTime": "02:00:00 PM 08-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Johor vs Penang (MCA Men's T20 Inter-State Championship, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132636_CASACARDS_APP.png",
+            "team_1": "Johor",
+            "team_2": "Penang",
+            "status": "UPCOMING",
+            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+            "match_name": "Johor vs Penang",
+            "match_id": 132636,
+            "startTime": "09:30:00 AM 08-08-2025"
         },
         {
             "event_category": "Cricket",
