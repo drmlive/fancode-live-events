@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:42:48 AM 08-08-2025",
+    "last update time": "06:53:01 AM 08-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Perak vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132635_CASACARDS_APP.png",
+            "team_1": "Perak",
+            "team_2": "Selangor",
+            "status": "LIVE",
+            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+            "match_name": "Perak vs Selangor",
+            "match_id": 132635,
+            "startTime": "07:00:00 AM 08-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/SNkpwguDR1K7bYsrA-FYtA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132635_english_hls_9097ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Zimbabwe vs New Zealand (New Zealand tour of Zimbabwe, 2025)",
@@ -86,18 +100,6 @@
             "match_name": "Mumbai vs Southern United",
             "match_id": 133365,
             "startTime": "09:00:00 PM 08-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Perak vs Selangor (MCA Men's T20 Inter-State Championship, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132635_CASACARDS_APP.png",
-            "team_1": "Perak",
-            "team_2": "Selangor",
-            "status": "UPCOMING",
-            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-            "match_name": "Perak vs Selangor",
-            "match_id": 132635,
-            "startTime": "07:00:00 AM 08-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -424,6 +426,18 @@
             "startTime": "09:00:00 AM 09-08-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Malacca vs Perak (MCA Men's T20 Inter-State Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Malacca",
+            "team_2": "Perak",
+            "status": "UPCOMING",
+            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+            "match_name": "Malacca vs Perak",
+            "match_id": 132639,
+            "startTime": "09:30:00 AM 09-08-2025"
+        },
+        {
             "event_category": "Live events",
             "title": "Opening Ceremony vs State Sports Academy, Rajgir (Opening Ceremony - Asia Rugby U20 Sevens)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Rugby_live-events_Old_match_card.jpg",
@@ -437,27 +451,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malacca vs Perak (MCA Men's T20 Inter-State Championship, 2025)",
+            "title": "TBC vs TBC (Maharani Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Malacca",
-            "team_2": "Perak",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
-            "match_name": "Malacca vs Perak",
-            "match_id": 132639,
-            "startTime": "09:30:00 AM 09-08-2025"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Free Practice 1 vs Nurburgring (DTM Nurburgring 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-            "team_1": "Free Practice 1",
-            "team_2": "Nurburgring",
-            "status": "UPCOMING",
-            "event_name": "DTM Nurburgring 2025",
-            "match_name": "Free Practice 1",
-            "match_id": 133242,
-            "startTime": "02:10:00 PM 08-08-2025"
+            "event_name": "Maharani Trophy, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 132927,
+            "startTime": "09:45:00 AM 09-08-2025"
         }
     ]
 }
