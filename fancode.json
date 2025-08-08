@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:51:51 PM 08-08-2025",
+    "last update time": "05:02:01 PM 08-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,8 +56,8 @@
             "match_name": "Cyprus vs Croatia",
             "match_id": 133318,
             "startTime": "05:00:00 PM 08-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/srdnqXXvSvSh0M40W0C7_g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133318_english_hls_86242ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Basketball",
@@ -381,18 +381,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Ireland Women",
-            "team_2": "Pakistan Women",
-            "status": "UPCOMING",
-            "event_name": "Pakistan Women tour of Ireland, 2025",
-            "match_name": "Ireland Women vs Pakistan Women",
-            "match_id": 131607,
-            "startTime": "08:30:00 PM 08-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Keraniganj Challengers vs Kuwait Swedish (KCC T10 Summer League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
             "team_1": "Keraniganj Challengers",
@@ -402,6 +390,18 @@
             "match_name": "Keraniganj Challengers vs Kuwait Swedish",
             "match_id": 132147,
             "startTime": "12:15:00 PM 09-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Ireland Women",
+            "team_2": "Pakistan Women",
+            "status": "UPCOMING",
+            "event_name": "Pakistan Women tour of Ireland, 2025",
+            "match_name": "Ireland Women vs Pakistan Women",
+            "match_id": 131607,
+            "startTime": "08:30:00 PM 08-08-2025"
         },
         {
             "event_category": "Cricket",
