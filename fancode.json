@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:53:55 PM 08-08-2025",
+    "last update time": "07:14:25 PM 08-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -40,8 +40,8 @@
             "match_name": "Purani Delhi 6 vs New Delhi Tigers",
             "match_id": 132476,
             "startTime": "07:00:00 PM 08-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Aej_LjdaSp-ffXGw_DuLDQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132476_english_hls_60928ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -156,6 +156,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133325_english_hls_74220ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Motorsports",
+            "title": "Free Practice 2 vs Nurburgring (DTM Nurburgring 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+            "team_1": "Free Practice 2",
+            "team_2": "Nurburgring",
+            "status": "LIVE",
+            "event_name": "DTM Nurburgring 2025",
+            "match_name": "Free Practice 2",
+            "match_id": 133243,
+            "startTime": "07:05:00 PM 08-08-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Cricket",
             "title": "Birmingham Phoenix vs Trent Rockets (The Hundred, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132225_5505_BPH_TRT_fc-web.jpg",
@@ -166,6 +180,18 @@
             "match_name": "Birmingham Phoenix vs Trent Rockets",
             "match_id": 132225,
             "startTime": "11:00:00 PM 08-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "ACE KRM Panthers vs CECC (KCC T20 Summer League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Summer-League_old_01.jpg",
+            "team_1": "ACE KRM Panthers",
+            "team_2": "CECC",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Summer League, 2025",
+            "match_name": "ACE KRM Panthers vs CECC",
+            "match_id": 130019,
+            "startTime": "08:00:00 PM 08-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -217,51 +243,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "ACE KRM Panthers vs CECC (KCC T20 Summer League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Summer-League_old_01.jpg",
-            "team_1": "ACE KRM Panthers",
-            "team_2": "CECC",
-            "status": "UPCOMING",
-            "event_name": "KCC T20 Summer League, 2025",
-            "match_name": "ACE KRM Panthers vs CECC",
-            "match_id": 130019,
-            "startTime": "08:00:00 PM 08-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Spencer vs TBC (ECS England, Wimbledon, 2025)",
+            "title": "Spencer vs East Molesey (ECS England, Wimbledon, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card-op-2_1753431539332.jpg",
             "team_1": "Spencer",
-            "team_2": "TBC",
+            "team_2": "East Molesey",
             "status": "UPCOMING",
             "event_name": "ECS England, Wimbledon, 2025",
-            "match_name": "Spencer vs TBC",
+            "match_name": "Spencer vs East Molesey",
             "match_id": 132074,
             "startTime": "09:00:00 PM 08-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Newcastle United vs Espanyol (Club Friendlies 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-vs-Espanyol_old.jpg",
-            "team_1": "Newcastle United",
-            "team_2": "Espanyol",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2025",
-            "match_name": "Newcastle United vs Espanyol",
-            "match_id": 131254,
-            "startTime": "12:00:00 AM 09-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Birmingham City vs Ipswich Town (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "Birmingham City",
-            "team_2": "Ipswich Town",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Birmingham City vs Ipswich Town",
-            "match_id": 131987,
-            "startTime": "12:30:00 AM 09-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -286,6 +276,30 @@
             "match_name": "Mumbai Stars vs Royal Challenger Delhi",
             "match_id": 133363,
             "startTime": "05:00:00 PM 09-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle United vs Espanyol (Club Friendlies 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-vs-Espanyol_old.jpg",
+            "team_1": "Newcastle United",
+            "team_2": "Espanyol",
+            "status": "UPCOMING",
+            "event_name": "Club Friendlies 2025",
+            "match_name": "Newcastle United vs Espanyol",
+            "match_id": 131254,
+            "startTime": "12:00:00 AM 09-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Birmingham City vs Ipswich Town (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Birmingham City",
+            "team_2": "Ipswich Town",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Birmingham City vs Ipswich Town",
+            "match_id": 131987,
+            "startTime": "12:30:00 AM 09-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -397,18 +411,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Paratus Jets vs Eavion Eagles (Namibia T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-            "team_1": "Paratus Jets",
-            "team_2": "Eavion Eagles",
-            "status": "UPCOMING",
-            "event_name": "Namibia T20, 2025",
-            "match_name": "Paratus Jets vs Eavion Eagles",
-            "match_id": 132441,
-            "startTime": "01:00:00 PM 09-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Welsh Fire Women vs London Spirit Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132261_5506_WEF-W_LNS-W_Fc-Web.jpg",
             "team_1": "Welsh Fire Women",
@@ -469,15 +471,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Gauhati Town Club vs Navarang Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/132412_CASACARDS_APP.png",
-            "team_1": "Gauhati Town Club",
-            "team_2": "Navarang Club",
+            "title": "Paratus Jets vs Eavion Eagles (Namibia T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
+            "team_1": "Paratus Jets",
+            "team_2": "Eavion Eagles",
             "status": "UPCOMING",
-            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_name": "Gauhati Town Club vs Navarang Club",
-            "match_id": 132412,
-            "startTime": "01:15:00 PM 09-08-2025"
+            "event_name": "Namibia T20, 2025",
+            "match_name": "Paratus Jets vs Eavion Eagles",
+            "match_id": 132441,
+            "startTime": "01:00:00 PM 09-08-2025"
         }
     ]
 }
