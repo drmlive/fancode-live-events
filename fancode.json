@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:11:10 PM 09-08-2025",
+    "last update time": "02:21:20 PM 09-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -130,6 +130,34 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133194_english_hls_40547ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/133389_CASACARDS_APP.png",
+            "team_1": "Cyprus",
+            "team_2": "Croatia",
+            "status": "LIVE",
+            "event_name": "ECI Croatia-Cyprus, 2025",
+            "match_name": "Cyprus vs Croatia",
+            "match_id": 133389,
+            "startTime": "02:30:00 PM 09-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/rBBbw6zqT0CLALXwlHkdbQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133389_english_hls_45031ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Yokohama vs Urawa Red Diamonds (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132076_CASACARDS_APP.png",
+            "team_1": "Yokohama",
+            "team_2": "Urawa Red Diamonds",
+            "status": "LIVE",
+            "event_name": "J League 2025",
+            "match_name": "Yokohama vs Urawa Red Diamonds",
+            "match_id": 132076,
+            "startTime": "02:33:00 PM 09-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132076_english_hls_4796ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132076_english_hls_4796ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Live events",
             "title": "Day 1 vs Rajgir, Bihar (Asia Rugby U20 Men's & Women's Sevens)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Rugby-U20-Men's-&-Women's-Sevens-old-match-card.jpg",
@@ -202,30 +230,6 @@
             "match_name": "Welsh Fire vs London Spirit",
             "match_id": 132227,
             "startTime": "10:30:00 PM 09-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/133389_CASACARDS_APP.png",
-            "team_1": "Cyprus",
-            "team_2": "Croatia",
-            "status": "UPCOMING",
-            "event_name": "ECI Croatia-Cyprus, 2025",
-            "match_name": "Cyprus vs Croatia",
-            "match_id": 133389,
-            "startTime": "02:30:00 PM 09-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Yokohama vs Urawa Red Diamonds (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132076_CASACARDS_APP.png",
-            "team_1": "Yokohama",
-            "team_2": "Urawa Red Diamonds",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Yokohama vs Urawa Red Diamonds",
-            "match_id": 132076,
-            "startTime": "02:33:00 PM 09-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -360,18 +364,6 @@
             "startTime": "04:30:00 PM 09-08-2025"
         },
         {
-            "event_category": "Basketball",
-            "title": "India vs Saudi Arabia (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
-            "team_1": "India",
-            "team_2": "Saudi Arabia",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "India vs Saudi Arabia",
-            "match_id": 133196,
-            "startTime": "08:30:00 PM 09-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card.jpg",
@@ -382,6 +374,18 @@
             "match_name": "Australia A Women vs India A Women",
             "match_id": 133231,
             "startTime": "01:30:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "India vs Saudi Arabia (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
+            "team_1": "India",
+            "team_2": "Saudi Arabia",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "India vs Saudi Arabia",
+            "match_id": 133196,
+            "startTime": "08:30:00 PM 09-08-2025"
         },
         {
             "event_category": "Basketball",
