@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:05:58 PM 09-08-2025",
+    "last update time": "07:16:08 PM 09-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -86,6 +86,20 @@
             "startTime": "06:45:00 PM 09-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/hW92nCEAROSgKLCALFHVXg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133391_english_hls_9963ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Stoke City vs Derby County (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Stoke-City-VS-Derby-County_old.jpg",
+            "team_1": "Stoke City",
+            "team_2": "Derby County",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Stoke City vs Derby County",
+            "match_id": 131990,
+            "startTime": "07:30:00 PM 09-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/r6b2Xg7SSfekG2MToqfYfg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131990_english_hls_69257ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live events",
@@ -200,20 +214,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133329_english_hls_93256ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Southampton vs Wrexham (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-VS-Wrexham_old.jpg",
-            "team_1": "Southampton",
-            "team_2": "Wrexham",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton vs Wrexham",
-            "match_id": 131989,
-            "startTime": "05:00:00 PM 09-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/4FmhnVLiRveKlThZjoqsFA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131989_english_hls_3807ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Welsh Fire vs London Spirit (The Hundred, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132227_5505_WEF_LNS_fc-web.jpg",
@@ -224,18 +224,6 @@
             "match_name": "Welsh Fire vs London Spirit",
             "match_id": 132227,
             "startTime": "10:30:00 PM 09-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Stoke City vs Derby County (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Stoke-City-VS-Derby-County_old.jpg",
-            "team_1": "Stoke City",
-            "team_2": "Derby County",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Stoke City vs Derby County",
-            "match_id": 131990,
-            "startTime": "07:30:00 PM 09-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -488,6 +476,18 @@
             "match_name": "Kakinada Kings vs Vijayawada Sunshiners",
             "match_id": 132763,
             "startTime": "01:30:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Croatia vs Cyprus (ECI Croatia-Cyprus, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/133393_CASACARDS_APP.png",
+            "team_1": "Croatia",
+            "team_2": "Cyprus",
+            "status": "UPCOMING",
+            "event_name": "ECI Croatia-Cyprus, 2025",
+            "match_name": "Croatia vs Cyprus",
+            "match_id": 133393,
+            "startTime": "02:30:00 PM 10-08-2025"
         }
     ]
 }
