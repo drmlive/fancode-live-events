@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:00:11 AM 10-08-2025",
+    "last update time": "12:10:40 AM 10-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,20 +18,6 @@
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754801927~acl=/*~id=74050514570560342349098153417817~hmac=67df0154e4bd76725755b8f3d87f3a3975a90c8508bb1fa26f342f65ba71484d"
         },
         {
-            "event_category": "Basketball",
-            "title": "Chinese Taipei vs New Zealand (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
-            "team_1": "Chinese Taipei",
-            "team_2": "New Zealand",
-            "status": "LIVE",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "Chinese Taipei vs New Zealand",
-            "match_id": 133197,
-            "startTime": "11:30:00 PM 09-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/rvMI4DBBQDeN-yjw4rNMwg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133197_english_hls_32012ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Kuwait Swedish vs Keraniganj Challengers (KCC T10 Summer League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
@@ -44,6 +30,20 @@
             "startTime": "12:15:00 AM 10-08-2025",
             "dai_url": null,
             "adfree_url": null
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Chinese Taipei vs New Zealand (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
+            "team_1": "Chinese Taipei",
+            "team_2": "New Zealand",
+            "status": "LIVE",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Chinese Taipei vs New Zealand",
+            "match_id": 133197,
+            "startTime": "11:30:00 PM 09-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/rvMI4DBBQDeN-yjw4rNMwg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133197_english_hls_32012ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -303,6 +303,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Trent Rockets vs Northern Superchargers (The Hundred, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132229_5505_TRT_NOS_fc-web.jpg",
+            "team_1": "Trent Rockets",
+            "team_2": "Northern Superchargers",
+            "status": "UPCOMING",
+            "event_name": "The Hundred, 2025",
+            "match_name": "Trent Rockets vs Northern Superchargers",
+            "match_id": 132229,
+            "startTime": "10:30:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "NPL Bears vs Eavion Eagles (Namibia T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
             "team_1": "NPL Bears",
@@ -324,18 +336,6 @@
             "match_name": "Nabajyoti Club vs Guwahati Giants",
             "match_id": 132414,
             "startTime": "01:15:00 PM 10-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trent Rockets vs Northern Superchargers (The Hundred, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132229_5505_TRT_NOS_fc-web.jpg",
-            "team_1": "Trent Rockets",
-            "team_2": "Northern Superchargers",
-            "status": "UPCOMING",
-            "event_name": "The Hundred, 2025",
-            "match_name": "Trent Rockets vs Northern Superchargers",
-            "match_id": 132229,
-            "startTime": "10:30:00 PM 10-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -435,18 +435,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sanfrecce Hiroshima vs Shimizu S-Pulse (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132078_CASACARDS_APP.png",
-            "team_1": "Sanfrecce Hiroshima",
-            "team_2": "Shimizu S-Pulse",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Sanfrecce Hiroshima vs Shimizu S-Pulse",
-            "match_id": 132078,
-            "startTime": "03:00:00 PM 10-08-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Borussia Dortmund vs Juventus (Club Friendlies 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
             "team_1": "Borussia Dortmund",
@@ -455,6 +443,18 @@
             "event_name": "Club Friendlies 2025",
             "match_name": "Borussia Dortmund vs Juventus",
             "match_id": 131244,
+            "startTime": "09:00:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Leicester City vs Sheffield Wednesday (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Leicester City",
+            "team_2": "Sheffield Wednesday",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Leicester City vs Sheffield Wednesday",
+            "match_id": 131991,
             "startTime": "09:00:00 PM 10-08-2025"
         }
     ]
