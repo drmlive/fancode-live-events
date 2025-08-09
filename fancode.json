@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:14:53 AM 09-08-2025",
+    "last update time": "07:25:01 AM 09-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "11:30:00 PM 08-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Obd2kr-6Si-nrtKY-16T6A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131399_english_hls_99872ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Toronto Blue Jays (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132848_CASACARDS_APP.png",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Toronto Blue Jays",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Toronto Blue Jays",
+            "match_id": 132848,
+            "startTime": "07:40:00 AM 09-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132848_english_hls_99602ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132848_english_hls_99602ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -438,18 +452,6 @@
             "match_name": "Royal Trivianz vs Jhelum Jaguars",
             "match_id": 132146,
             "startTime": "10:15:00 PM 09-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield United vs Bristol City (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "Sheffield United",
-            "team_2": "Bristol City",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Sheffield United vs Bristol City",
-            "match_id": 131988,
-            "startTime": "10:00:00 PM 09-08-2025"
         }
     ]
 }
