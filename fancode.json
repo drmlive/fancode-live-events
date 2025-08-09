@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:55:48 PM 09-08-2025",
+    "last update time": "07:05:58 PM 09-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "London Spirit Women vs Welsh Fire Women (The Hundred Women, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132261_5506_WEF-W_LNS-W_Fc-Web.jpg",
+            "team_1": "London Spirit Women",
+            "team_2": "Welsh Fire Women",
+            "status": "LIVE",
+            "event_name": "The Hundred Women, 2025",
+            "match_name": "London Spirit Women vs Welsh Fire Women",
+            "match_id": 132261,
+            "startTime": "07:00:00 PM 09-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754789757~acl=/*~id=33170042234473971851737086229986~hmac=010935e401eef8b4b9fbcea13e53d8bb5874e5ac108f6366e91aac6fcba0b1db"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Manchester Originals vs Oval Invincibles (The Hundred, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132226_5505_OVI_MNR_fc-web.jpg",
+            "team_1": "Manchester Originals",
+            "team_2": "Oval Invincibles",
+            "status": "LIVE",
+            "event_name": "The Hundred, 2025",
+            "match_name": "Manchester Originals vs Oval Invincibles",
+            "match_id": 132226,
+            "startTime": "07:00:00 PM 09-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754789757~acl=/*~id=33170042234473971851737086229986~hmac=010935e401eef8b4b9fbcea13e53d8bb5874e5ac108f6366e91aac6fcba0b1db"
+        },
         {
             "event_category": "Cricket",
             "title": "East Delhi Riders vs South Delhi Superstarz (Delhi Premier League, 2025)",
@@ -58,20 +86,6 @@
             "startTime": "06:45:00 PM 09-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/hW92nCEAROSgKLCALFHVXg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133391_english_hls_9963ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Southampton vs Wrexham (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-VS-Wrexham_old.jpg",
-            "team_1": "Southampton",
-            "team_2": "Wrexham",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton vs Wrexham",
-            "match_id": 131989,
-            "startTime": "05:00:00 PM 09-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/4FmhnVLiRveKlThZjoqsFA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131989_english_hls_3807ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live events",
@@ -186,28 +200,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133329_english_hls_93256ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "London Spirit Women vs Welsh Fire Women (The Hundred Women, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132261_5506_WEF-W_LNS-W_Fc-Web.jpg",
-            "team_1": "London Spirit Women",
-            "team_2": "Welsh Fire Women",
-            "status": "UPCOMING",
-            "event_name": "The Hundred Women, 2025",
-            "match_name": "London Spirit Women vs Welsh Fire Women",
-            "match_id": 132261,
-            "startTime": "07:00:00 PM 09-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Manchester Originals vs Oval Invincibles (The Hundred, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132226_5505_OVI_MNR_fc-web.jpg",
-            "team_1": "Manchester Originals",
-            "team_2": "Oval Invincibles",
-            "status": "UPCOMING",
-            "event_name": "The Hundred, 2025",
-            "match_name": "Manchester Originals vs Oval Invincibles",
-            "match_id": 132226,
-            "startTime": "07:00:00 PM 09-08-2025"
+            "event_category": "Football",
+            "title": "Southampton vs Wrexham (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-VS-Wrexham_old.jpg",
+            "team_1": "Southampton",
+            "team_2": "Wrexham",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Southampton vs Wrexham",
+            "match_id": 131989,
+            "startTime": "05:00:00 PM 09-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/4FmhnVLiRveKlThZjoqsFA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131989_english_hls_3807ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -472,6 +476,18 @@
             "match_name": "Nabajyoti Club vs Guwahati Giants",
             "match_id": 132414,
             "startTime": "01:15:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kakinada Kings vs Vijayawada Sunshiners (Andhra Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132763_5529_KNK_VSS_fc-Web.jpg",
+            "team_1": "Kakinada Kings",
+            "team_2": "Vijayawada Sunshiners",
+            "status": "UPCOMING",
+            "event_name": "Andhra Premier League, 2025",
+            "match_name": "Kakinada Kings vs Vijayawada Sunshiners",
+            "match_id": 132763,
+            "startTime": "01:30:00 PM 10-08-2025"
         }
     ]
 }
