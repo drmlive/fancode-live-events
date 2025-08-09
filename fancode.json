@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:59:52 PM 09-08-2025",
+    "last update time": "01:10:02 PM 09-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,8 +56,8 @@
             "match_name": "Eavion Eagles vs Paratus Jets",
             "match_id": 132441,
             "startTime": "01:00:00 PM 09-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/vntV1Cu6R0qBPNjFRDvi8g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132441_english_hls_28237ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -100,20 +100,6 @@
             "startTime": "01:05:00 PM 09-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/R7TQMNK7Q6CM-4aU83ZO2g/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133244_english_hls_5606ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Shivamogga Lioness Women vs Mysore Warriors Women (Maharani Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-            "team_1": "Shivamogga Lioness Women",
-            "team_2": "Mysore Warriors Women",
-            "status": "LIVE",
-            "event_name": "Maharani Trophy, 2025",
-            "match_name": "Shivamogga Lioness Women vs Mysore Warriors Women",
-            "match_id": 132927,
-            "startTime": "09:45:00 AM 09-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/c8X0BQn-SPq8sm4DfQlMAQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132927_english_hls_50742ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -201,13 +187,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Vijayawada Sunshiners vs Royals of Rayalaseema (Andhra Premier League, 2025)",
+            "title": "Royals of Rayalaseema vs Vijayawada Sunshiners (Andhra Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132761_5529_VSS_ROR_fc-Web.jpg",
-            "team_1": "Vijayawada Sunshiners",
-            "team_2": "Royals of Rayalaseema",
+            "team_1": "Royals of Rayalaseema",
+            "team_2": "Vijayawada Sunshiners",
             "status": "UPCOMING",
             "event_name": "Andhra Premier League, 2025",
-            "match_name": "Vijayawada Sunshiners vs Royals of Rayalaseema",
+            "match_name": "Royals of Rayalaseema vs Vijayawada Sunshiners",
             "match_id": 132761,
             "startTime": "01:30:00 PM 09-08-2025"
         },
@@ -474,6 +460,18 @@
             "match_name": "Malacca vs Penang",
             "match_id": 132643,
             "startTime": "09:30:00 AM 10-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Maharani Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Maharani Trophy, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 132929,
+            "startTime": "10:00:00 AM 10-08-2025"
         }
     ]
 }
