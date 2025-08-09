@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:10:40 AM 10-08-2025",
+    "last update time": "12:20:54 AM 10-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Kuwait Swedish vs Keraniganj Challengers",
             "match_id": 132147,
             "startTime": "12:15:00 AM 10-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/55m1JRC9QEGdTx8PCnI1AQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132147_english_hls_56558ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Basketball",
@@ -142,20 +142,6 @@
             "startTime": "10:45:00 PM 09-08-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132849_english_hls_47780ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132849_english_hls_47780ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield United vs Bristol City (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sheffield-United-VS-Bristol-City_old.jpg",
-            "team_1": "Sheffield United",
-            "team_2": "Bristol City",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Sheffield United vs Bristol City",
-            "match_id": 131988,
-            "startTime": "10:00:00 PM 09-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/0wrdA5LMTgCCcuSeQhC2fw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131988_english_hls_95323ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -291,18 +277,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Croatia vs Cyprus (ECI Croatia-Cyprus, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/133392_CASACARDS_APP.png",
-            "team_1": "Croatia",
-            "team_2": "Cyprus",
-            "status": "UPCOMING",
-            "event_name": "ECI Croatia-Cyprus, 2025",
-            "match_name": "Croatia vs Cyprus",
-            "match_id": 133392,
-            "startTime": "12:30:00 PM 10-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Trent Rockets vs Northern Superchargers (The Hundred, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132229_5505_TRT_NOS_fc-web.jpg",
             "team_1": "Trent Rockets",
@@ -312,6 +286,18 @@
             "match_name": "Trent Rockets vs Northern Superchargers",
             "match_id": 132229,
             "startTime": "10:30:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Croatia vs Cyprus (ECI Croatia-Cyprus, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/133392_CASACARDS_APP.png",
+            "team_1": "Croatia",
+            "team_2": "Cyprus",
+            "status": "UPCOMING",
+            "event_name": "ECI Croatia-Cyprus, 2025",
+            "match_name": "Croatia vs Cyprus",
+            "match_id": 133392,
+            "startTime": "12:30:00 PM 10-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -456,6 +442,18 @@
             "match_name": "Leicester City vs Sheffield Wednesday",
             "match_id": 131991,
             "startTime": "09:00:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Shimizu S-Pulse (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132078_CASACARDS_APP.png",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Shimizu S-Pulse",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Sanfrecce Hiroshima vs Shimizu S-Pulse",
+            "match_id": 132078,
+            "startTime": "03:00:00 PM 10-08-2025"
         }
     ]
 }
