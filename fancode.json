@@ -1,8 +1,34 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:56:40 PM 09-08-2025",
+    "last update time": "08:06:48 PM 09-08-2025",
     "matches": [
+        {
+            "event_category": "Basketball",
+            "title": "India vs Saudi Arabia (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
+            "team_1": "India",
+            "team_2": "Saudi Arabia",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "India vs Saudi Arabia",
+            "match_id": 133196,
+            "startTime": "08:30:00 PM 09-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle United vs Atl\u00e9tico de Madrid (Club Friendlies 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-VS-Atletico-de-Madrid_old.jpg",
+            "team_1": "Newcastle United",
+            "team_2": "Atl\u00e9tico de Madrid",
+            "status": "LIVE",
+            "event_name": "Club Friendlies 2025",
+            "match_name": "Newcastle United vs Atl\u00e9tico de Madrid",
+            "match_id": 129906,
+            "startTime": "08:30:00 PM 09-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/qrPT0KSLTCKT-MKFZzPRRQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129906_english_hls_37591ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "London Spirit Women vs Welsh Fire Women (The Hundred Women, 2025)",
@@ -100,20 +126,6 @@
             "startTime": "07:30:00 PM 09-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/r6b2Xg7SSfekG2MToqfYfg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131990_english_hls_69257ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Newcastle United vs Atl\u00e9tico de Madrid (Club Friendlies 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-United-VS-Atletico-de-Madrid_old.jpg",
-            "team_1": "Newcastle United",
-            "team_2": "Atl\u00e9tico de Madrid",
-            "status": "LIVE",
-            "event_name": "Club Friendlies 2025",
-            "match_name": "Newcastle United vs Atl\u00e9tico de Madrid",
-            "match_id": 129906,
-            "startTime": "08:30:00 PM 09-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qrPT0KSLTCKT-MKFZzPRRQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/129906_english_hls_37591ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live events",
@@ -264,18 +276,6 @@
             "startTime": "02:00:00 PM 10-08-2025"
         },
         {
-            "event_category": "Basketball",
-            "title": "India vs Saudi Arabia (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
-            "team_1": "India",
-            "team_2": "Saudi Arabia",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "India vs Saudi Arabia",
-            "match_id": 133196,
-            "startTime": "08:30:00 PM 09-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Southern Brave Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132262_5506_SOB-W_BPH-W_Fc-Web.jpg",
@@ -408,18 +408,6 @@
             "startTime": "07:00:00 PM 10-08-2025"
         },
         {
-            "event_category": "Basketball",
-            "title": "Chinese Taipei vs New Zealand (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
-            "team_1": "Chinese Taipei",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "Chinese Taipei vs New Zealand",
-            "match_id": 133197,
-            "startTime": "11:30:00 PM 09-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Selangor vs Kuala Lumpur (MCA Men's T20 Inter-State Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg",
@@ -430,6 +418,18 @@
             "match_name": "Selangor vs Kuala Lumpur",
             "match_id": 132644,
             "startTime": "11:30:00 AM 10-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Chinese Taipei vs New Zealand (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
+            "team_1": "Chinese Taipei",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Chinese Taipei vs New Zealand",
+            "match_id": 133197,
+            "startTime": "11:30:00 PM 09-08-2025"
         },
         {
             "event_category": "Cricket",
