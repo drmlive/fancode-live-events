@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:16:55 PM 09-08-2025",
+    "last update time": "08:27:04 PM 09-08-2025",
     "matches": [
         {
             "event_category": "Basketball",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133196_5549_IND_SA_fc-Web.jpg",
             "team_1": "India",
             "team_2": "Saudi Arabia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "FIBA Asia Cup, 2025",
             "match_name": "India vs Saudi Arabia",
             "match_id": 133196,
-            "startTime": "08:30:00 PM 09-08-2025"
+            "startTime": "08:30:00 PM 09-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/i0glKfDfSkmzLO-OIEm7kg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133196_english_hls_65865ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -56,34 +58,6 @@
             "startTime": "07:00:00 PM 09-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754789757~acl=/*~id=33170042234473971851737086229986~hmac=010935e401eef8b4b9fbcea13e53d8bb5874e5ac108f6366e91aac6fcba0b1db"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "East Delhi Riders vs South Delhi Superstarz (Delhi Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132478_5521_EDR_SDS_fc-Web.jpg",
-            "team_1": "East Delhi Riders",
-            "team_2": "South Delhi Superstarz",
-            "status": "LIVE",
-            "event_name": "Delhi Premier League, 2025",
-            "match_name": "East Delhi Riders vs South Delhi Superstarz",
-            "match_id": 132478,
-            "startTime": "07:00:00 PM 09-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/V3LrNveSREGNJiWnFUPp2A/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132478_english_hls_38332ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "NPL Bears vs Pupkewitz Motors Wildcats (Namibia T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-            "team_1": "NPL Bears",
-            "team_2": "Pupkewitz Motors Wildcats",
-            "status": "LIVE",
-            "event_name": "Namibia T20, 2025",
-            "match_name": "NPL Bears vs Pupkewitz Motors Wildcats",
-            "match_id": 132442,
-            "startTime": "05:30:00 PM 09-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-YYQy91FRP-MpmEj5G4UkA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132442_english_hls_56644ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -361,18 +335,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mysore Warriors Women vs Hubli Tigers Women (Maharani Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-            "team_1": "Mysore Warriors Women",
-            "team_2": "Hubli Tigers Women",
-            "status": "UPCOMING",
-            "event_name": "Maharani Trophy, 2025",
-            "match_name": "Mysore Warriors Women vs Hubli Tigers Women",
-            "match_id": 132929,
-            "startTime": "10:00:00 AM 10-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Trent Rockets Women vs Northern Superchargers Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
             "team_1": "Trent Rockets Women",
@@ -406,6 +368,18 @@
             "match_name": "West Delhi Lions vs East Delhi Riders",
             "match_id": 132480,
             "startTime": "07:00:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors Women vs Hubli Tigers Women (Maharani Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+            "team_1": "Mysore Warriors Women",
+            "team_2": "Hubli Tigers Women",
+            "status": "UPCOMING",
+            "event_name": "Maharani Trophy, 2025",
+            "match_name": "Mysore Warriors Women vs Hubli Tigers Women",
+            "match_id": 132929,
+            "startTime": "10:00:00 AM 10-08-2025"
         },
         {
             "event_category": "Cricket",
