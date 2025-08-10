@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:44:53 PM 10-08-2025",
+    "last update time": "04:55:06 PM 10-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "01:30:00 PM 10-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/S6k_oAdUSGiCX3LTQni1bA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132763_english_hls_7178ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/133393_CASACARDS_APP.png",
-            "team_1": "Cyprus",
-            "team_2": "Croatia",
-            "status": "LIVE",
-            "event_name": "ECI Croatia-Cyprus, 2025",
-            "match_name": "Cyprus vs Croatia",
-            "match_id": 133393,
-            "startTime": "02:30:00 PM 10-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/9U7YdW-TTEaEaHK1HaAdMA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133393_english_hls_88140ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -168,8 +154,8 @@
             "match_name": "Day 6",
             "match_id": 132194,
             "startTime": "05:00:00 PM 10-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/3tZq6X-4RzmEBvvyuobAkQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132194_english_hls_7258ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Motorsports",
@@ -182,8 +168,22 @@
             "match_name": "Race 2",
             "match_id": 133247,
             "startTime": "05:00:00 PM 10-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/6pbc7duGQYWKz0f628DTqA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133247_english_hls_15320ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cyprus vs Croatia (ECI Croatia-Cyprus, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/133393_CASACARDS_APP.png",
+            "team_1": "Cyprus",
+            "team_2": "Croatia",
+            "status": "LIVE",
+            "event_name": "ECI Croatia-Cyprus, 2025",
+            "match_name": "Cyprus vs Croatia",
+            "match_id": 133393,
+            "startTime": "02:30:00 PM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/9U7YdW-TTEaEaHK1HaAdMA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133393_english_hls_88140ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -460,6 +460,18 @@
             "match_name": "West Indies vs Pakistan",
             "match_id": 131400,
             "startTime": "07:00:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zagreb Sokol vs Rijeka Markhors (ECS Croatia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+            "team_1": "Zagreb Sokol",
+            "team_2": "Rijeka Markhors",
+            "status": "UPCOMING",
+            "event_name": "ECS Croatia, 2025",
+            "match_name": "Zagreb Sokol vs Rijeka Markhors",
+            "match_id": 133401,
+            "startTime": "02:15:00 PM 11-08-2025"
         }
     ]
 }
