@@ -1,8 +1,34 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:57:36 PM 10-08-2025",
+    "last update time": "07:07:44 PM 10-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Chelsea vs Milan (Club Friendlies 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_old.jpg",
+            "team_1": "Chelsea",
+            "team_2": "Milan",
+            "status": "UPCOMING",
+            "event_name": "Club Friendlies 2025",
+            "match_name": "Chelsea vs Milan",
+            "match_id": 131245,
+            "startTime": "07:30:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Trent Rockets Women vs Northern Superchargers Women (The Hundred Women, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
+            "team_1": "Trent Rockets Women",
+            "team_2": "Northern Superchargers Women",
+            "status": "LIVE",
+            "event_name": "The Hundred Women, 2025",
+            "match_name": "Trent Rockets Women vs Northern Superchargers Women",
+            "match_id": 132263,
+            "startTime": "07:00:00 PM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754875654~acl=/*~id=98310964287683451949054792360111~hmac=f153f6afe9f384044e410cb71c96f197988a4735eb99573465797dde9cf62805"
+        },
         {
             "event_category": "Cricket",
             "title": "Birmingham Phoenix vs Southern Brave (The Hundred, 2025)",
@@ -86,20 +112,6 @@
             "startTime": "07:00:00 PM 10-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/1FPKT0X8Q-OmuUAWmNLtjQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131400_english_hls_30230ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Live events",
-            "title": "Day 2 vs Rajgir, Bihar (Asia Rugby U20 Men's & Women's Sevens)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Rugby-U20-Men's-&-Women's-Sevens-old-match-card.jpg",
-            "team_1": "Day 2",
-            "team_2": "Rajgir, Bihar",
-            "status": "LIVE",
-            "event_name": "Asia Rugby U20 Men's & Women's Sevens",
-            "match_name": "Day 2",
-            "match_id": 133383,
-            "startTime": "10:00:00 AM 10-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/frbgehnvRpS3UcR5hHkG4Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133383_english_hls_77156ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -187,20 +199,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Trent Rockets Women vs Northern Superchargers Women (The Hundred Women, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
-            "team_1": "Trent Rockets Women",
-            "team_2": "Northern Superchargers Women",
-            "status": "LIVE",
-            "event_name": "The Hundred Women, 2025",
-            "match_name": "Trent Rockets Women vs Northern Superchargers Women",
-            "match_id": 132263,
-            "startTime": "07:00:00 PM 10-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754875654~acl=/*~id=98310964287683451949054792360111~hmac=f153f6afe9f384044e410cb71c96f197988a4735eb99573465797dde9cf62805"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Trent Rockets vs Northern Superchargers (The Hundred, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132229_5505_TRT_NOS_fc-web.jpg",
             "team_1": "Trent Rockets",
@@ -210,18 +208,6 @@
             "match_name": "Trent Rockets vs Northern Superchargers",
             "match_id": 132229,
             "startTime": "10:30:00 PM 10-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chelsea vs Milan (Club Friendlies 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-vs-AC-Milan_old.jpg",
-            "team_1": "Chelsea",
-            "team_2": "Milan",
-            "status": "UPCOMING",
-            "event_name": "Club Friendlies 2025",
-            "match_name": "Chelsea vs Milan",
-            "match_id": 131245,
-            "startTime": "07:30:00 PM 10-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -405,18 +391,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Ireland Women",
-            "team_2": "Pakistan Women",
-            "status": "UPCOMING",
-            "event_name": "Pakistan Women tour of Ireland, 2025",
-            "match_name": "Ireland Women vs Pakistan Women",
-            "match_id": 131608,
-            "startTime": "08:30:00 PM 10-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Zagreb Sokol vs Rijeka Markhors (ECS Croatia, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
             "team_1": "Zagreb Sokol",
@@ -426,6 +400,18 @@
             "match_name": "Zagreb Sokol vs Rijeka Markhors",
             "match_id": 133401,
             "startTime": "02:15:00 PM 11-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Ireland Women",
+            "team_2": "Pakistan Women",
+            "status": "UPCOMING",
+            "event_name": "Pakistan Women tour of Ireland, 2025",
+            "match_name": "Ireland Women vs Pakistan Women",
+            "match_id": 131608,
+            "startTime": "08:30:00 PM 10-08-2025"
         },
         {
             "event_category": "Golf",
@@ -450,6 +436,18 @@
             "match_name": "Zagreb Warriors vs Zagreb Assassins",
             "match_id": 133402,
             "startTime": "04:15:00 PM 11-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Chinese Taipei vs Jordan (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
+            "team_1": "Chinese Taipei",
+            "team_2": "Jordan",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Chinese Taipei vs Jordan",
+            "match_id": 133252,
+            "startTime": "04:30:00 PM 11-08-2025"
         }
     ]
 }
