@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:35:43 AM 10-08-2025",
+    "last update time": "06:45:57 AM 10-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -81,11 +81,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_oldv1.jpg",
             "team_1": "Johor",
             "team_2": "Perak",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "MCA Men's T20 Inter-State Championship, 2025",
             "match_name": "Johor vs Perak",
             "match_id": 132642,
-            "startTime": "07:00:00 AM 10-08-2025"
+            "startTime": "07:00:00 AM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/kYzYoDA6RbecVsT2soSPnQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132642_english_hls_64638ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -388,18 +390,6 @@
             "startTime": "04:30:00 PM 10-08-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Seattle Mariners vs Tampa Bay Rays (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132851_CASACARDS_APP.png",
-            "team_1": "Seattle Mariners",
-            "team_2": "Tampa Bay Rays",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Seattle Mariners vs Tampa Bay Rays",
-            "match_id": 132851,
-            "startTime": "07:10:00 AM 10-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -410,6 +400,18 @@
             "match_name": "Ireland Women vs Pakistan Women",
             "match_id": 131608,
             "startTime": "08:30:00 PM 10-08-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Tampa Bay Rays (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132851_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "Tampa Bay Rays",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Tampa Bay Rays",
+            "match_id": 132851,
+            "startTime": "07:10:00 AM 10-08-2025"
         },
         {
             "event_category": "Cricket",
