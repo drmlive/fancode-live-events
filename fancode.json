@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:01:01 PM 10-08-2025",
+    "last update time": "10:11:11 PM 10-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -46,6 +46,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132764_english_hls_92324ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Tally Rangers vs SBS CC (KCC T10 Summer League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "team_1": "Tally Rangers",
+            "team_2": "SBS CC",
+            "status": "LIVE",
+            "event_name": "KCC T10 Summer League, 2025",
+            "match_name": "Tally Rangers vs SBS CC",
+            "match_id": 132148,
+            "startTime": "10:15:00 PM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/QEAv4y8TTUO8LcOPyCc3hg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132148_english_hls_1497ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Leicester City vs Sheffield Wednesday (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Leicester-vs-Sheffield-Wednesday_old_1754823831411.jpg",
@@ -72,20 +86,6 @@
             "startTime": "08:30:00 PM 10-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/GQsuEfwwSUuSjHzqOqyTlQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133200_english_hls_77409ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tally Rangers vs SBS CC (KCC T10 Summer League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "team_1": "Tally Rangers",
-            "team_2": "SBS CC",
-            "status": "LIVE",
-            "event_name": "KCC T10 Summer League, 2025",
-            "match_name": "Tally Rangers vs SBS CC",
-            "match_id": 132148,
-            "startTime": "10:15:00 PM 10-08-2025",
-            "dai_url": null,
-            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -275,18 +275,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "NCM Investment vs Phoenix Cricketers (KCC T10 Summer League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "team_1": "NCM Investment",
-            "team_2": "Phoenix Cricketers",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Summer League, 2025",
-            "match_name": "NCM Investment vs Phoenix Cricketers",
-            "match_id": 132149,
-            "startTime": "12:15:00 AM 11-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Manchester Originals Women vs London Spirit Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132264_5506_MNR-W_LNS-W_Fc-Web.jpg",
             "team_1": "Manchester Originals Women",
@@ -296,6 +284,18 @@
             "match_name": "Manchester Originals Women vs London Spirit Women",
             "match_id": 132264,
             "startTime": "07:30:00 PM 11-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "NCM Investment vs Phoenix Cricketers (KCC T10 Summer League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "team_1": "NCM Investment",
+            "team_2": "Phoenix Cricketers",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Summer League, 2025",
+            "match_name": "NCM Investment vs Phoenix Cricketers",
+            "match_id": 132149,
+            "startTime": "12:15:00 AM 11-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -322,18 +322,6 @@
             "startTime": "12:15:00 PM 11-08-2025"
         },
         {
-            "event_category": "Basketball",
-            "title": "Syria vs Iran (FIBA Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133201_5549_SYR_IRN_fc-Web.jpg",
-            "team_1": "Syria",
-            "team_2": "Iran",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "Syria vs Iran",
-            "match_id": 133201,
-            "startTime": "11:30:00 PM 10-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Navarang Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
             "src": "https://images.fancode.com/aig/match/v2/132416_CASACARDS_APP.png",
@@ -344,6 +332,18 @@
             "match_name": "Navarang Club vs Guwahati Giants",
             "match_id": 132416,
             "startTime": "01:15:00 PM 11-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Syria vs Iran (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133201_5549_SYR_IRN_fc-Web.jpg",
+            "team_1": "Syria",
+            "team_2": "Iran",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Syria vs Iran",
+            "match_id": 133201,
+            "startTime": "11:30:00 PM 10-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -430,6 +430,18 @@
             "startTime": "04:30:00 PM 11-08-2025"
         },
         {
+            "event_category": "Baseball",
+            "title": "New York Yankees vs Houston Astros (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132852_CASACARDS_APP.png",
+            "team_1": "New York Yankees",
+            "team_2": "Houston Astros",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "New York Yankees vs Houston Astros",
+            "match_id": 132852,
+            "startTime": "11:05:00 PM 10-08-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Zagreb Warriors vs Zagreb Assassins (ECS Croatia, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
@@ -452,18 +464,6 @@
             "match_name": "Cerezo Osaka vs Albirex Niigata",
             "match_id": 132077,
             "startTime": "03:30:00 PM 11-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mumbai Stars vs Bengal Tigers (LEGEN\u2011Z T10 League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Mumbai Stars",
-            "team_2": "Bengal Tigers",
-            "status": "UPCOMING",
-            "event_name": "LEGEN\u2011Z T10 League",
-            "match_name": "Mumbai Stars vs Bengal Tigers",
-            "match_id": 133539,
-            "startTime": "05:00:00 PM 11-08-2025"
         }
     ]
 }
