@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:35:03 AM 11-08-2025",
+    "last update time": "02:45:19 AM 11-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "07:00:00 PM 10-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/1FPKT0X8Q-OmuUAWmNLtjQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131400_english_hls_30230ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs TPC Southwind - Memphis, Tennessee  (FedEx St. Jude Championship 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "TPC Southwind - Memphis, Tennessee ",
-            "status": "LIVE",
-            "event_name": "FedEx St. Jude Championship 2025",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 133333,
-            "startTime": "05:15:00 PM 10-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/A5LKeOvGRyyk3FSG6yf72Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133333_english_hls_82298ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -384,6 +370,18 @@
             "match_name": "Day 7",
             "match_id": 132196,
             "startTime": "05:00:00 PM 11-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kuala Lumpur vs Johor (MCA Men's T20 Inter-State Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MCA-T20-Super-Series_old_v2.jpg",
+            "team_1": "Kuala Lumpur",
+            "team_2": "Johor",
+            "status": "UPCOMING",
+            "event_name": "MCA Men's T20 Inter-State Championship, 2025",
+            "match_name": "Kuala Lumpur vs Johor",
+            "match_id": 132645,
+            "startTime": "07:30:00 AM 12-08-2025"
         }
     ]
 }
