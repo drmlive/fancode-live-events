@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:46:02 AM 11-08-2025",
+    "last update time": "03:56:08 AM 11-08-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs West Indies (Pakistan tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Pakistan",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "Pakistan tour of West Indies, 2025",
-            "match_name": "Pakistan vs West Indies",
-            "match_id": 131400,
-            "startTime": "07:00:00 PM 10-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/1FPKT0X8Q-OmuUAWmNLtjQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131400_english_hls_30230ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "World Feed - Day 4 vs TPC Southwind - Memphis, Tennessee  (FedEx St. Jude Championship 2025)",
@@ -44,6 +30,20 @@
             "startTime": "01:40:00 AM 11-08-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132853_english_hls_37363ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132853_english_hls_37363ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs West Indies (Pakistan tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Pakistan",
+            "team_2": "West Indies",
+            "status": "LIVE",
+            "event_name": "Pakistan tour of West Indies, 2025",
+            "match_name": "Pakistan vs West Indies",
+            "match_id": 131400,
+            "startTime": "07:00:00 PM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/1FPKT0X8Q-OmuUAWmNLtjQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131400_english_hls_30230ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -250,18 +250,6 @@
             "startTime": "10:15:00 PM 11-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132077_CASACARDS_APP.png",
-            "team_1": "Cerezo Osaka",
-            "team_2": "Albirex Niigata",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Cerezo Osaka vs Albirex Niigata",
-            "match_id": 132077,
-            "startTime": "03:30:00 PM 11-08-2025"
-        },
-        {
             "event_category": "Basketball",
             "title": "Saudi Arabia vs Philippines (FIBA Asia Cup, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
@@ -272,6 +260,18 @@
             "match_name": "Saudi Arabia vs Philippines",
             "match_id": 133253,
             "startTime": "09:30:00 PM 11-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132077_CASACARDS_APP.png",
+            "team_1": "Cerezo Osaka",
+            "team_2": "Albirex Niigata",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Cerezo Osaka vs Albirex Niigata",
+            "match_id": 132077,
+            "startTime": "03:30:00 PM 11-08-2025"
         },
         {
             "event_category": "Cricket",
