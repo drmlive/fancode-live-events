@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:47:24 PM 10-08-2025",
+    "last update time": "06:57:36 PM 10-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Birmingham Phoenix vs Southern Brave (The Hundred, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
+            "team_1": "Birmingham Phoenix",
+            "team_2": "Southern Brave",
+            "status": "LIVE",
+            "event_name": "The Hundred, 2025",
+            "match_name": "Birmingham Phoenix vs Southern Brave",
+            "match_id": 132228,
+            "startTime": "07:00:00 PM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1754875654~acl=/*~id=98310964287683451949054792360111~hmac=f153f6afe9f384044e410cb71c96f197988a4735eb99573465797dde9cf62805"
+        },
         {
             "event_category": "Cricket",
             "title": "East Delhi Riders vs West Delhi Lions (Delhi Premier League, 2025)",
@@ -177,23 +191,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
             "team_1": "Trent Rockets Women",
             "team_2": "Northern Superchargers Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "The Hundred Women, 2025",
             "match_name": "Trent Rockets Women vs Northern Superchargers Women",
             "match_id": 132263,
-            "startTime": "07:00:00 PM 10-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Birmingham Phoenix vs Southern Brave (The Hundred, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
-            "team_1": "Birmingham Phoenix",
-            "team_2": "Southern Brave",
-            "status": "UPCOMING",
-            "event_name": "The Hundred, 2025",
-            "match_name": "Birmingham Phoenix vs Southern Brave",
-            "match_id": 132228,
-            "startTime": "07:00:00 PM 10-08-2025"
+            "startTime": "07:00:00 PM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1754875654~acl=/*~id=98310964287683451949054792360111~hmac=f153f6afe9f384044e410cb71c96f197988a4735eb99573465797dde9cf62805"
         },
         {
             "event_category": "Cricket",
@@ -365,18 +369,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Amaravathi Royals vs Tungabhadra Warriors (Andhra Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
-            "team_1": "Amaravathi Royals",
-            "team_2": "Tungabhadra Warriors",
-            "status": "UPCOMING",
-            "event_name": "Andhra Premier League, 2025",
-            "match_name": "Amaravathi Royals vs Tungabhadra Warriors",
-            "match_id": 132765,
-            "startTime": "01:30:00 PM 11-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Kalyani Bengaluru Blasters vs Mysore Warriors (Maharaja T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132786_5530_BB_MW_fc-Web.jpg",
             "team_1": "Kalyani Bengaluru Blasters",
@@ -389,15 +381,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Ireland Women",
-            "team_2": "Pakistan Women",
+            "title": "Amaravathi Royals vs Tungabhadra Warriors (Andhra Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132765_5529_AMR_TBW_fc-Web.jpg",
+            "team_1": "Amaravathi Royals",
+            "team_2": "Tungabhadra Warriors",
             "status": "UPCOMING",
-            "event_name": "Pakistan Women tour of Ireland, 2025",
-            "match_name": "Ireland Women vs Pakistan Women",
-            "match_id": 131608,
-            "startTime": "08:30:00 PM 10-08-2025"
+            "event_name": "Andhra Premier League, 2025",
+            "match_name": "Amaravathi Royals vs Tungabhadra Warriors",
+            "match_id": 132765,
+            "startTime": "01:30:00 PM 11-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -410,6 +402,18 @@
             "match_name": "Manchester Originals Women vs London Spirit Women",
             "match_id": 132264,
             "startTime": "07:30:00 PM 11-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ireland Women vs Pakistan Women (Pakistan Women tour of Ireland, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Ireland Women",
+            "team_2": "Pakistan Women",
+            "status": "UPCOMING",
+            "event_name": "Pakistan Women tour of Ireland, 2025",
+            "match_name": "Ireland Women vs Pakistan Women",
+            "match_id": 131608,
+            "startTime": "08:30:00 PM 10-08-2025"
         },
         {
             "event_category": "Cricket",
