@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:03:00 PM 10-08-2025",
+    "last update time": "03:13:10 PM 10-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -209,11 +209,13 @@
             "src": "https://images.fancode.com/aig/match/v1/132075_CASACARDS_APP.png",
             "team_1": "Machida Zelvia",
             "team_2": "Vissel Kobe",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "J League 2025",
             "match_name": "Machida Zelvia vs Vissel Kobe",
             "match_id": 132075,
-            "startTime": "03:30:00 PM 10-08-2025"
+            "startTime": "03:30:00 PM 10-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132075_english_hls_17425ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132075_english_hls_17425ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -421,18 +423,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "West Indies",
-            "team_2": "Pakistan",
-            "status": "UPCOMING",
-            "event_name": "Pakistan tour of West Indies, 2025",
-            "match_name": "West Indies vs Pakistan",
-            "match_id": 131400,
-            "startTime": "07:00:00 PM 10-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Zagreb Warriors vs Zagreb Sokol (ECS Croatia, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
             "team_1": "Zagreb Warriors",
@@ -442,6 +432,18 @@
             "match_name": "Zagreb Warriors vs Zagreb Sokol",
             "match_id": 133400,
             "startTime": "12:15:00 PM 11-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "West Indies",
+            "team_2": "Pakistan",
+            "status": "UPCOMING",
+            "event_name": "Pakistan tour of West Indies, 2025",
+            "match_name": "West Indies vs Pakistan",
+            "match_id": 131400,
+            "startTime": "07:00:00 PM 10-08-2025"
         },
         {
             "event_category": "Cricket",
