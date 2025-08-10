@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:14:00 PM 10-08-2025",
+    "last update time": "04:24:11 PM 10-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -237,11 +237,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133199_5549_GUA_JPN_fc-Web.jpg",
             "team_1": "Guam",
             "team_2": "Japan",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "FIBA Asia Cup, 2025",
             "match_name": "Guam vs Japan",
             "match_id": 133199,
-            "startTime": "04:40:00 PM 10-08-2025"
+            "startTime": "04:40:00 PM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/IKqv8RmFSL-sWzICX36tdg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133199_english_hls_82580ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -281,6 +283,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
+            "team_1": "South Delhi Superstarz",
+            "team_2": "New Delhi Tigers",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League, 2025",
+            "match_name": "South Delhi Superstarz vs New Delhi Tigers",
+            "match_id": 132481,
+            "startTime": "02:00:00 PM 11-08-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "NCM Investment vs Phoenix Cricketers (KCC T10 Summer League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
             "team_1": "NCM Investment",
@@ -302,18 +316,6 @@
             "match_name": "Chelsea vs Milan",
             "match_id": 131245,
             "startTime": "07:30:00 PM 10-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
-            "team_1": "South Delhi Superstarz",
-            "team_2": "New Delhi Tigers",
-            "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2025",
-            "match_name": "South Delhi Superstarz vs New Delhi Tigers",
-            "match_id": 132481,
-            "startTime": "02:00:00 PM 11-08-2025"
         },
         {
             "event_category": "Football",
@@ -412,6 +414,18 @@
             "startTime": "12:15:00 PM 11-08-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Navarang Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
+            "src": "https://images.fancode.com/aig/match/v2/132416_CASACARDS_APP.png",
+            "team_1": "Navarang Club",
+            "team_2": "Guwahati Giants",
+            "status": "UPCOMING",
+            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "match_name": "Navarang Club vs Guwahati Giants",
+            "match_id": 132416,
+            "startTime": "01:15:00 PM 11-08-2025"
+        },
+        {
             "event_category": "Arm Wrestling",
             "title": "Day 6 vs India (Pro Panja League Season 2 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Old-match-card-2.png",
@@ -436,28 +450,16 @@
             "startTime": "05:00:00 PM 10-08-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "West Indies",
-            "team_2": "Pakistan",
+            "event_category": "Golf",
+            "title": "Main Feed - Day 4 vs TPC Southwind - Memphis, Tennessee  (FedEx St. Jude Championship 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+            "team_1": "Main Feed - Day 4",
+            "team_2": "TPC Southwind - Memphis, Tennessee ",
             "status": "UPCOMING",
-            "event_name": "Pakistan tour of West Indies, 2025",
-            "match_name": "West Indies vs Pakistan",
-            "match_id": 131400,
-            "startTime": "07:00:00 PM 10-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Navarang Club vs Guwahati Giants (GTC Spring T20 Cup, 2nd Edition, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/132416_CASACARDS_APP.png",
-            "team_1": "Navarang Club",
-            "team_2": "Guwahati Giants",
-            "status": "UPCOMING",
-            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_name": "Navarang Club vs Guwahati Giants",
-            "match_id": 132416,
-            "startTime": "01:15:00 PM 11-08-2025"
+            "event_name": "FedEx St. Jude Championship 2025",
+            "match_name": "Main Feed - Day 4",
+            "match_id": 133333,
+            "startTime": "05:15:00 PM 10-08-2025"
         }
     ]
 }
