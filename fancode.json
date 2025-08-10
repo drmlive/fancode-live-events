@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:39:09 PM 10-08-2025",
+    "last update time": "08:49:23 PM 10-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_old.jpg",
             "team_1": "Borussia Dortmund",
             "team_2": "Juventus",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Club Friendlies 2025",
             "match_name": "Borussia Dortmund vs Juventus",
             "match_id": 131244,
-            "startTime": "09:00:00 PM 10-08-2025"
+            "startTime": "09:00:00 PM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/sHKmRSUITne8ut4hASxAhg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131244_english_hls_756ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -112,6 +114,20 @@
             "startTime": "08:30:00 PM 10-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/GQsuEfwwSUuSjHzqOqyTlQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133200_english_hls_77409ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Leicester City vs Sheffield Wednesday (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Leicester-vs-Sheffield-Wednesday_old_1754823831411.jpg",
+            "team_1": "Leicester City",
+            "team_2": "Sheffield Wednesday",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Leicester City vs Sheffield Wednesday",
+            "match_id": 131991,
+            "startTime": "09:00:00 PM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/kPLd1DDiTfe5EZlbAWMBAw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131991_english_hls_41406ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -252,18 +268,6 @@
             "startTime": "10:30:00 PM 10-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Leicester City vs Sheffield Wednesday (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Leicester-vs-Sheffield-Wednesday_old_1754823831411.jpg",
-            "team_1": "Leicester City",
-            "team_2": "Sheffield Wednesday",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Leicester City vs Sheffield Wednesday",
-            "match_id": 131991,
-            "startTime": "09:00:00 PM 10-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
@@ -313,18 +317,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "City Cricket Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/132415_CASACARDS_APP.png",
-            "team_1": "City Cricket Club",
-            "team_2": "91 Yards Club",
-            "status": "UPCOMING",
-            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_name": "City Cricket Club vs 91 Yards Club",
-            "match_id": 132415,
-            "startTime": "09:00:00 AM 11-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "North Delhi Strikers vs West Delhi Lions (Delhi Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132482_5521_NDS_WDL_fc-Web.jpg",
             "team_1": "North Delhi Strikers",
@@ -334,6 +326,18 @@
             "match_name": "North Delhi Strikers vs West Delhi Lions",
             "match_id": 132482,
             "startTime": "07:00:00 PM 11-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "City Cricket Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+            "src": "https://images.fancode.com/aig/match/v2/132415_CASACARDS_APP.png",
+            "team_1": "City Cricket Club",
+            "team_2": "91 Yards Club",
+            "status": "UPCOMING",
+            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "match_name": "City Cricket Club vs 91 Yards Club",
+            "match_id": 132415,
+            "startTime": "09:00:00 AM 11-08-2025"
         },
         {
             "event_category": "Cricket",
