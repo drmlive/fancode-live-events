@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:21:34 PM 10-08-2025",
+    "last update time": "01:31:44 PM 10-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:30:00 PM 10-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/dftk1nFwRS-g7JXb-Am0qg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133231_english_hls_16260ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hubli Tigers Women vs Mysore Warriors Women (Maharani Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
-            "team_1": "Hubli Tigers Women",
-            "team_2": "Mysore Warriors Women",
-            "status": "LIVE",
-            "event_name": "Maharani Trophy, 2025",
-            "match_name": "Hubli Tigers Women vs Mysore Warriors Women",
-            "match_id": 132929,
-            "startTime": "10:00:00 AM 10-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/YPEwHrSsSG-Hjsik7Xgepg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132929_english_hls_13383ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -112,8 +98,8 @@
             "match_name": "Qatar vs Australia",
             "match_id": 133198,
             "startTime": "01:30:00 PM 10-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/_K8iSRrISHuW_reMoIv4dA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133198_english_hls_40604ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live events",
@@ -128,6 +114,20 @@
             "startTime": "10:00:00 AM 10-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/frbgehnvRpS3UcR5hHkG4Q/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133383_english_hls_77156ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hubli Tigers Women vs Mysore Warriors Women (Maharani Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy,-2025_match-card.jpg",
+            "team_1": "Hubli Tigers Women",
+            "team_2": "Mysore Warriors Women",
+            "status": "LIVE",
+            "event_name": "Maharani Trophy, 2025",
+            "match_name": "Hubli Tigers Women vs Mysore Warriors Women",
+            "match_id": 132929,
+            "startTime": "10:00:00 AM 10-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YPEwHrSsSG-Hjsik7Xgepg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132929_english_hls_13383ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -346,6 +346,18 @@
             "startTime": "11:30:00 PM 10-08-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
+            "team_1": "South Delhi Superstarz",
+            "team_2": "New Delhi Tigers",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League, 2025",
+            "match_name": "South Delhi Superstarz vs New Delhi Tigers",
+            "match_id": 132481,
+            "startTime": "02:00:00 PM 11-08-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Sanfrecce Hiroshima vs Shimizu S-Pulse (J League 2025)",
             "src": "https://images.fancode.com/aig/match/v1/132078_CASACARDS_APP.png",
@@ -371,15 +383,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "South Delhi Superstarz vs New Delhi Tigers (Delhi Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
-            "team_1": "South Delhi Superstarz",
-            "team_2": "New Delhi Tigers",
+            "title": "City Cricket Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
+            "src": "https://images.fancode.com/aig/match/v2/132415_CASACARDS_APP.png",
+            "team_1": "City Cricket Club",
+            "team_2": "91 Yards Club",
             "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2025",
-            "match_name": "South Delhi Superstarz vs New Delhi Tigers",
-            "match_id": 132481,
-            "startTime": "02:00:00 PM 11-08-2025"
+            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "match_name": "City Cricket Club vs 91 Yards Club",
+            "match_id": 132415,
+            "startTime": "09:00:00 AM 11-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -392,18 +404,6 @@
             "match_name": "Ireland Women vs Pakistan Women",
             "match_id": 131608,
             "startTime": "08:30:00 PM 10-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "City Cricket Club vs 91 Yards Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/132415_CASACARDS_APP.png",
-            "team_1": "City Cricket Club",
-            "team_2": "91 Yards Club",
-            "status": "UPCOMING",
-            "event_name": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_name": "City Cricket Club vs 91 Yards Club",
-            "match_id": 132415,
-            "startTime": "09:00:00 AM 11-08-2025"
         },
         {
             "event_category": "Football",
