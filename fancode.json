@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:31:28 PM 11-08-2025",
+    "last update time": "10:41:37 PM 11-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Manchester Originals vs London Spirit (The Hundred, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132230_5505_MNR_LNS_fc-web.jpg",
+            "team_1": "Manchester Originals",
+            "team_2": "London Spirit",
+            "status": "UPCOMING",
+            "event_name": "The Hundred, 2025",
+            "match_name": "Manchester Originals vs London Spirit",
+            "match_id": 132230,
+            "startTime": "11:00:00 PM 11-08-2025"
+        },
         {
             "event_category": "Cricket",
             "title": "North Delhi Strikers vs West Delhi Lions (Delhi Premier League, 2025)",
@@ -86,32 +98,6 @@
             "startTime": "09:30:00 PM 11-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/bfVl7VNoRIOc14vKMl1u0g/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133253_english_hls_98235ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Zagreb Assassins vs Zagreb Warriors (ECS Croatia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-            "team_1": "Zagreb Assassins",
-            "team_2": "Zagreb Warriors",
-            "status": "LIVE",
-            "event_name": "ECS Croatia, 2025",
-            "match_name": "Zagreb Assassins vs Zagreb Warriors",
-            "match_id": 133404,
-            "startTime": "08:15:00 PM 11-08-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Manchester Originals vs London Spirit (The Hundred, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132230_5505_MNR_LNS_fc-web.jpg",
-            "team_1": "Manchester Originals",
-            "team_2": "London Spirit",
-            "status": "UPCOMING",
-            "event_name": "The Hundred, 2025",
-            "match_name": "Manchester Originals vs London Spirit",
-            "match_id": 132230,
-            "startTime": "11:00:00 PM 11-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -459,6 +445,18 @@
             "event_name": "Carabao Cup 2025-2026",
             "match_name": "Wrexham vs Hull City",
             "match_id": 131983,
+            "startTime": "12:15:00 AM 13-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Salford City vs Rotherham United (Carabao Cup 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Salford City",
+            "team_2": "Rotherham United",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2025-2026",
+            "match_name": "Salford City vs Rotherham United",
+            "match_id": 131981,
             "startTime": "12:15:00 AM 13-08-2025"
         }
     ]
