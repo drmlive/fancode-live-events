@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:43:57 PM 11-08-2025",
+    "last update time": "01:54:06 PM 11-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "New Delhi Tigers vs South Delhi Superstarz (Delhi Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
+            "team_1": "New Delhi Tigers",
+            "team_2": "South Delhi Superstarz",
+            "status": "LIVE",
+            "event_name": "Delhi Premier League, 2025",
+            "match_name": "New Delhi Tigers vs South Delhi Superstarz",
+            "match_id": 132481,
+            "startTime": "02:00:00 PM 11-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/eNxdS5kFSKeubID5o0mtWg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132481_english_hls_94018ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Zagreb Sokol vs Zagreb Warriors (ECS Croatia, 2025)",
@@ -58,18 +72,6 @@
             "startTime": "12:00:00 PM 11-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/65YEtddFRHiANFu8-oDvBw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133180_english_hls_6671ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Delhi Tigers vs South Delhi Superstarz (Delhi Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
-            "team_1": "New Delhi Tigers",
-            "team_2": "South Delhi Superstarz",
-            "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2025",
-            "match_name": "New Delhi Tigers vs South Delhi Superstarz",
-            "match_id": 132481,
-            "startTime": "02:00:00 PM 11-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -300,18 +302,6 @@
             "startTime": "02:00:00 PM 12-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132077_CASACARDS_APP.png",
-            "team_1": "Cerezo Osaka",
-            "team_2": "Albirex Niigata",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Cerezo Osaka vs Albirex Niigata",
-            "match_id": 132077,
-            "startTime": "03:30:00 PM 11-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gauhati Town Club vs City Cricket Club (GTC Spring T20 Cup, 2nd Edition, 2025)",
             "src": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
@@ -322,6 +312,18 @@
             "match_name": "Gauhati Town Club vs City Cricket Club",
             "match_id": 132417,
             "startTime": "09:00:00 AM 12-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cerezo Osaka vs Albirex Niigata (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132077_CASACARDS_APP.png",
+            "team_1": "Cerezo Osaka",
+            "team_2": "Albirex Niigata",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Cerezo Osaka vs Albirex Niigata",
+            "match_id": 132077,
+            "startTime": "03:30:00 PM 11-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -444,18 +446,6 @@
             "startTime": "07:15:00 PM 12-08-2025"
         },
         {
-            "event_category": "Arm Wrestling",
-            "title": "Day 7 vs India (Pro Panja League Season 2 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-            "team_1": "Day 7",
-            "team_2": "India",
-            "status": "UPCOMING",
-            "event_name": "Pro Panja League Season 2 2025",
-            "match_name": "Day 7",
-            "match_id": 132196,
-            "startTime": "05:00:00 PM 11-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Birmingham Phoenix Women vs Oval Invincibles Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132265_5506_BPH-W_OVI-W_Fc-Web.jpg",
@@ -466,6 +456,18 @@
             "match_name": "Birmingham Phoenix Women vs Oval Invincibles Women",
             "match_id": 132265,
             "startTime": "07:30:00 PM 12-08-2025"
+        },
+        {
+            "event_category": "Arm Wrestling",
+            "title": "Day 7 vs India (Pro Panja League Season 2 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+            "team_1": "Day 7",
+            "team_2": "India",
+            "status": "UPCOMING",
+            "event_name": "Pro Panja League Season 2 2025",
+            "match_name": "Day 7",
+            "match_id": 132196,
+            "startTime": "05:00:00 PM 11-08-2025"
         }
     ]
 }
