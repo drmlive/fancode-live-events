@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:50:44 AM 11-08-2025",
+    "last update time": "10:00:57 AM 11-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Third Place & Finals",
             "match_id": 133179,
             "startTime": "10:00:00 AM 11-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/SniNLMWaT1yWoI66k-ZomQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133179_english_hls_19664ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -345,18 +345,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Zagreb Warriors vs Zagreb Sokol (ECS Croatia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
-            "team_1": "Zagreb Warriors",
-            "team_2": "Zagreb Sokol",
-            "status": "UPCOMING",
-            "event_name": "ECS Croatia, 2025",
-            "match_name": "Zagreb Warriors vs Zagreb Sokol",
-            "match_id": 133405,
-            "startTime": "12:15:00 PM 12-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Hubli Tigers vs Shivamogga Lions (Maharaja T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132787_5530_HT_SS_fc-Web.jpg",
             "team_1": "Hubli Tigers",
@@ -366,6 +354,18 @@
             "match_name": "Hubli Tigers vs Shivamogga Lions",
             "match_id": 132787,
             "startTime": "03:15:00 PM 12-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zagreb Warriors vs Zagreb Sokol (ECS Croatia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+            "team_1": "Zagreb Warriors",
+            "team_2": "Zagreb Sokol",
+            "status": "UPCOMING",
+            "event_name": "ECS Croatia, 2025",
+            "match_name": "Zagreb Warriors vs Zagreb Sokol",
+            "match_id": 133405,
+            "startTime": "12:15:00 PM 12-08-2025"
         },
         {
             "event_category": "Live events",
