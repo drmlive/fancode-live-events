@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:01:50 AM 14-08-2025",
+    "last update time": "10:11:59 AM 14-08-2025",
     "matches": [
-        {
-            "event_category": "Baseball",
-            "title": "Oakland Athletics vs Tampa Bay Rays (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132858_CASACARDS_APP.png",
-            "team_1": "Oakland Athletics",
-            "team_2": "Tampa Bay Rays",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Oakland Athletics vs Tampa Bay Rays",
-            "match_id": 132858,
-            "startTime": "07:35:00 AM 14-08-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
-            "team_1": "Singapore Women",
-            "team_2": "Cambodia Women",
-            "status": "LIVE",
-            "event_name": "Cambodia Women tour of Singapore, 2025",
-            "match_name": "Singapore Women vs Cambodia Women",
-            "match_id": 133924,
-            "startTime": "07:00:00 AM 14-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/tAK60-5dQYO5btM10mHpvQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133924_english_hls_69250ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Mysore Warriors vs Mangaluru Dragons (Maharaja T20 Trophy, 2025)",
@@ -346,7 +318,7 @@
         {
             "event_category": "Golf",
             "title": "Day 1 vs Copenhagen, Denmark (Danish Golf Championship 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Danish-Golf-Championship_2025_Old_match-card.jpg",
             "team_1": "Day 1",
             "team_2": "Copenhagen, Denmark",
             "status": "UPCOMING",
@@ -440,6 +412,18 @@
             "startTime": "10:35:00 PM 14-08-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Simhadri Vizag Lions vs Royals of Rayalaseema (Andhra Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132771_5529_SVL_ROR_fc-Web.jpg",
+            "team_1": "Simhadri Vizag Lions",
+            "team_2": "Royals of Rayalaseema",
+            "status": "UPCOMING",
+            "event_name": "Andhra Premier League, 2025",
+            "match_name": "Simhadri Vizag Lions vs Royals of Rayalaseema",
+            "match_id": 132771,
+            "startTime": "01:30:00 PM 15-08-2025"
+        },
+        {
             "event_category": "Golf",
             "title": "World Feed - Day 1 vs  Ownings Mills, Maryland  (BMW Championship 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Championship--old-match-card.png",
@@ -452,16 +436,28 @@
             "startTime": "11:30:00 PM 14-08-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Simhadri Vizag Lions vs Royals of Rayalaseema (Andhra Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132771_5529_SVL_ROR_fc-Web.jpg",
-            "team_1": "Simhadri Vizag Lions",
-            "team_2": "Royals of Rayalaseema",
+            "event_category": "Baseball",
+            "title": "Toronto Blue Jays vs Chicago Cubs (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132860_CASACARDS_APP.png",
+            "team_1": "Toronto Blue Jays",
+            "team_2": "Chicago Cubs",
             "status": "UPCOMING",
-            "event_name": "Andhra Premier League, 2025",
-            "match_name": "Simhadri Vizag Lions vs Royals of Rayalaseema",
-            "match_id": 132771,
-            "startTime": "01:30:00 PM 15-08-2025"
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Toronto Blue Jays vs Chicago Cubs",
+            "match_id": 132860,
+            "startTime": "12:37:00 AM 15-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Northern Territory Strike vs Nepal (Top End T20 Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Northern Territory Strike",
+            "team_2": "Nepal",
+            "status": "UPCOMING",
+            "event_name": "Top End T20 Series, 2025",
+            "match_name": "Northern Territory Strike vs Nepal",
+            "match_id": 133503,
+            "startTime": "02:00:00 PM 15-08-2025"
         }
     ]
 }
