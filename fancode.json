@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:04:58 PM 15-08-2025",
+    "last update time": "09:15:06 PM 15-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133468_5570_SON_LEV_Fc-Web.jpg",
             "team_1": "SG Sonnenhof Gro\u00dfaspach",
             "team_2": "Bayer 04 Leverkusen",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "DFB Pokal 2025-26",
             "match_name": "SG Sonnenhof Gro\u00dfaspach vs Bayer 04 Leverkusen",
             "match_id": 133468,
-            "startTime": "09:30:00 PM 15-08-2025"
+            "startTime": "09:30:00 PM 15-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HqwRz3kwSM6hxU9KBkZk2g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133468_english_hls_9113a9676a7828ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -56,20 +58,6 @@
             "startTime": "07:30:00 PM 15-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755309794~acl=/*~id=15500384549201577200498814925920~hmac=68f3480f0d62270f50b7e04946872574fde7e87666536b5cf932534d0d040df9"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Muscat Thunders vs Renaissance Challengers (Oman D20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133671_5590_MUT_RNC_fc-Web.jpg",
-            "team_1": "Muscat Thunders",
-            "team_2": "Renaissance Challengers",
-            "status": "LIVE",
-            "event_name": "Oman D20 League, 2025",
-            "match_name": "Muscat Thunders vs Renaissance Challengers",
-            "match_id": 133671,
-            "startTime": "05:00:00 PM 15-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/UlMfST7bRz2xQPtw4BPdeg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133671_english_hls_81cde183dc27720ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -363,30 +351,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Melbourne Renegades Academy vs Australian Capital Territory (Top End T20 Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133504_5574_MRA_ACT_fc-web.jpg",
-            "team_1": "Melbourne Renegades Academy",
-            "team_2": "Australian Capital Territory",
-            "status": "UPCOMING",
-            "event_name": "Top End T20 Series, 2025",
-            "match_name": "Melbourne Renegades Academy vs Australian Capital Territory",
-            "match_id": 133504,
-            "startTime": "07:00:00 AM 16-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
-            "team_1": "Singapore Women",
-            "team_2": "Cambodia Women",
-            "status": "UPCOMING",
-            "event_name": "Cambodia Women tour of Singapore, 2025",
-            "match_name": "Singapore Women vs Cambodia Women",
-            "match_id": 133925,
-            "startTime": "07:00:00 AM 16-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Oval Invincibles Women vs Welsh Fire Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132271_5506_OVI-W_WEF-W_Fc-Web.jpg",
             "team_1": "Oval Invincibles Women",
@@ -420,6 +384,30 @@
             "match_name": "Central Delhi Kings vs North Delhi Strikers",
             "match_id": 132487,
             "startTime": "07:00:00 PM 16-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Melbourne Renegades Academy vs Australian Capital Territory (Top End T20 Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133504_5574_MRA_ACT_fc-web.jpg",
+            "team_1": "Melbourne Renegades Academy",
+            "team_2": "Australian Capital Territory",
+            "status": "UPCOMING",
+            "event_name": "Top End T20 Series, 2025",
+            "match_name": "Melbourne Renegades Academy vs Australian Capital Territory",
+            "match_id": 133504,
+            "startTime": "07:00:00 AM 16-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Singapore Women vs Cambodia Women (Cambodia Women tour of Singapore, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
+            "team_1": "Singapore Women",
+            "team_2": "Cambodia Women",
+            "status": "UPCOMING",
+            "event_name": "Cambodia Women tour of Singapore, 2025",
+            "match_name": "Singapore Women vs Cambodia Women",
+            "match_id": 133925,
+            "startTime": "07:00:00 AM 16-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -480,6 +468,30 @@
             "match_name": "Singapore Women vs Cambodia Women",
             "match_id": 133927,
             "startTime": "01:00:00 PM 16-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
+            "team_1": "Jinx Zagreb",
+            "team_2": "Lavender Lionesses",
+            "status": "UPCOMING",
+            "event_name": "ECS-W Croatia, 2025",
+            "match_name": "Jinx Zagreb vs Lavender Lionesses",
+            "match_id": 134047,
+            "startTime": "01:00:00 PM 16-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Amaravathi Royals vs Simhadri Vizag Lions (Andhra Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132773_5529_AMR_SVL_fc-Web.jpg",
+            "team_1": "Amaravathi Royals",
+            "team_2": "Simhadri Vizag Lions",
+            "status": "UPCOMING",
+            "event_name": "Andhra Premier League, 2025",
+            "match_name": "Amaravathi Royals vs Simhadri Vizag Lions",
+            "match_id": 132773,
+            "startTime": "01:30:00 PM 16-08-2025"
         }
     ]
 }
