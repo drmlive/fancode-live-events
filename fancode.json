@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:15:06 PM 15-08-2025",
+    "last update time": "09:25:18 PM 15-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -158,20 +158,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132914_english_hls_5f46b6831515659ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Arm Wrestling",
-            "title": "Day 11 vs Gwalior (Pro Panja League Season 2 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-            "team_1": "Day 11",
-            "team_2": "Gwalior",
-            "status": "LIVE",
-            "event_name": "Pro Panja League Season 2 2025",
-            "match_name": "Day 11",
-            "match_id": 132201,
-            "startTime": "05:00:00 PM 15-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/l8RYc1f9StKsGWQ0IJaYZg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132201_english_hls_2cb600908649082ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Padel",
             "title": "Khan Tigers vs Vedanta Leopards (World Padel League - Season 3)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132937_5502_TIG_LEO_fc-Web.jpg",
@@ -240,6 +226,20 @@
             "startTime": "07:45:00 PM 15-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/wBKxy_RZTnuhVuf0Fe2HEQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133266_english_hls_a4c77e7e2515695ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs The Club at Chatham Hills, USA (LIV Golf Indianapolis 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Indianapolis-_old_Match_card.jpg",
+            "team_1": "Day 1",
+            "team_2": "The Club at Chatham Hills, USA",
+            "status": "LIVE",
+            "event_name": "LIV Golf Indianapolis 2025",
+            "match_name": "Day 1",
+            "match_id": 133384,
+            "startTime": "09:35:00 PM 15-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/GAuvktZDRwq2HgkzCKk0dQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133384_english_hls_8c53ab33df75557ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -326,30 +326,6 @@
             "startTime": "01:15:00 AM 16-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Girona vs Rayo Vallecano (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/GironVSRayo_Old_match-card.jpg",
-            "team_1": "Girona",
-            "team_2": "Rayo Vallecano",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona vs Rayo Vallecano",
-            "match_id": 130836,
-            "startTime": "10:30:00 PM 15-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Villarreal vs Real Oviedo (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-vs-Real-Oviedo_oldmatchcard.jpg",
-            "team_1": "Villarreal",
-            "team_2": "Real Oviedo",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Villarreal vs Real Oviedo",
-            "match_id": 130832,
-            "startTime": "01:00:00 AM 16-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Oval Invincibles Women vs Welsh Fire Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132271_5506_OVI-W_WEF-W_Fc-Web.jpg",
@@ -386,6 +362,42 @@
             "startTime": "07:00:00 PM 16-08-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Girona vs Rayo Vallecano (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/GironVSRayo_Old_match-card.jpg",
+            "team_1": "Girona",
+            "team_2": "Rayo Vallecano",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona vs Rayo Vallecano",
+            "match_id": 130836,
+            "startTime": "10:30:00 PM 15-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Villarreal vs Real Oviedo (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Villarreal-vs-Real-Oviedo_oldmatchcard.jpg",
+            "team_1": "Villarreal",
+            "team_2": "Real Oviedo",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Villarreal vs Real Oviedo",
+            "match_id": 130832,
+            "startTime": "01:00:00 AM 16-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132796_5530_MW_HT_fc-Web.jpg",
+            "team_1": "Mysore Warriors",
+            "team_2": "Hubli Tigers",
+            "status": "UPCOMING",
+            "event_name": "Maharaja T20 Trophy, 2025",
+            "match_name": "Mysore Warriors vs Hubli Tigers",
+            "match_id": 132796,
+            "startTime": "07:15:00 PM 16-08-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Melbourne Renegades Academy vs Australian Capital Territory (Top End T20 Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133504_5574_MRA_ACT_fc-web.jpg",
@@ -408,18 +420,6 @@
             "match_name": "Singapore Women vs Cambodia Women",
             "match_id": 133925,
             "startTime": "07:00:00 AM 16-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mysore Warriors vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132796_5530_MW_HT_fc-Web.jpg",
-            "team_1": "Mysore Warriors",
-            "team_2": "Hubli Tigers",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2025",
-            "match_name": "Mysore Warriors vs Hubli Tigers",
-            "match_id": 132796,
-            "startTime": "07:15:00 PM 16-08-2025"
         },
         {
             "event_category": "Cricket",
