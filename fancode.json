@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:45:36 PM 15-08-2025",
+    "last update time": "09:55:44 PM 15-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Girona vs Rayo Vallecano (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/GironVSRayo_Old_match-card.jpg",
+            "team_1": "Girona",
+            "team_2": "Rayo Vallecano",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona vs Rayo Vallecano",
+            "match_id": 130836,
+            "startTime": "10:30:00 PM 15-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130836_english_hls_2879320c9b25228ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130836_english_hls_2879320c9b25228ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "SG Sonnenhof Gro\u00dfaspach vs Bayer 04 Leverkusen (DFB Pokal 2025-26)",
@@ -44,20 +58,6 @@
             "startTime": "07:15:00 PM 15-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/zQLWYWdyQpKnt_GqyHF8PQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132794_english_hls_4a6d4b8ffc64422ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Birmingham Phoenix Women vs Northern Superchargers Women (The Hundred Women, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132269_5506_NOS-W_BPH-W_Fc-Web.jpg",
-            "team_1": "Birmingham Phoenix Women",
-            "team_2": "Northern Superchargers Women",
-            "status": "LIVE",
-            "event_name": "The Hundred Women, 2025",
-            "match_name": "Birmingham Phoenix Women vs Northern Superchargers Women",
-            "match_id": 132269,
-            "startTime": "07:30:00 PM 15-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755309794~acl=/*~id=15500384549201577200498814925920~hmac=68f3480f0d62270f50b7e04946872574fde7e87666536b5cf932534d0d040df9"
         },
         {
             "event_category": "Cricket",
@@ -128,20 +128,6 @@
             "startTime": "09:00:00 PM 15-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/FZgrXbunRICa6PVJY6Y76g/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133672_english_hls_7b15cac35423764ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Girona vs Rayo Vallecano (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/GironVSRayo_Old_match-card.jpg",
-            "team_1": "Girona",
-            "team_2": "Rayo Vallecano",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona vs Rayo Vallecano",
-            "match_id": 130836,
-            "startTime": "10:30:00 PM 15-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130836_english_hls_2879320c9b25228ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130836_english_hls_2879320c9b25228ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -226,6 +212,20 @@
             "startTime": "09:35:00 PM 15-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/GAuvktZDRwq2HgkzCKk0dQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133384_english_hls_8c53ab33df75557ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Birmingham Phoenix Women vs Northern Superchargers Women (The Hundred Women, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132269_5506_NOS-W_BPH-W_Fc-Web.jpg",
+            "team_1": "Birmingham Phoenix Women",
+            "team_2": "Northern Superchargers Women",
+            "status": "LIVE",
+            "event_name": "The Hundred Women, 2025",
+            "match_name": "Birmingham Phoenix Women vs Northern Superchargers Women",
+            "match_id": 132269,
+            "startTime": "07:30:00 PM 15-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755309794~acl=/*~id=15500384549201577200498814925920~hmac=68f3480f0d62270f50b7e04946872574fde7e87666536b5cf932534d0d040df9"
         },
         {
             "event_category": "Cricket",
@@ -337,18 +337,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jhelum Jaguars vs CECC (KCC T10 Summer League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "team_1": "Jhelum Jaguars",
-            "team_2": "CECC",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Summer League, 2025",
-            "match_name": "Jhelum Jaguars vs CECC",
-            "match_id": 132160,
-            "startTime": "01:15:00 AM 16-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Mysore Warriors vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132796_5530_MW_HT_fc-Web.jpg",
             "team_1": "Mysore Warriors",
@@ -358,6 +346,18 @@
             "match_name": "Mysore Warriors vs Hubli Tigers",
             "match_id": 132796,
             "startTime": "07:15:00 PM 16-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jhelum Jaguars vs CECC (KCC T10 Summer League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "team_1": "Jhelum Jaguars",
+            "team_2": "CECC",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Summer League, 2025",
+            "match_name": "Jhelum Jaguars vs CECC",
+            "match_id": 132160,
+            "startTime": "01:15:00 AM 16-08-2025"
         },
         {
             "event_category": "Football",
