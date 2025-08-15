@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:41:29 PM 15-08-2025",
+    "last update time": "05:51:44 PM 15-08-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -84,8 +84,8 @@
             "match_name": "Vizianagaram Ninjas vs Bhimavaram Guardians",
             "match_id": 133704,
             "startTime": "06:00:00 PM 15-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/p7nD7UPLSLyPCZQB2hxgIA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133704_english_hls_f644d80e1712072ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Padel",
@@ -128,6 +128,20 @@
             "startTime": "05:00:00 PM 15-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/l8RYc1f9StKsGWQ0IJaYZg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132201_english_hls_2cb600908649082ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Padel",
+            "title": "Khan Tigers vs TBC (World Padel League - Season 3)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Padel_Tennis-1440-x-360.jpg",
+            "team_1": "Khan Tigers",
+            "team_2": "TBC",
+            "status": "LIVE",
+            "event_name": "World Padel League - Season 3",
+            "match_name": "Khan Tigers vs TBC",
+            "match_id": 132937,
+            "startTime": "06:00:00 PM 15-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/iq23tauZQnOLt61pOKYwrg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132937_english_hls_77e86ec43540054ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -217,6 +231,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Norway vs Hungary (ECI Norway, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+            "team_1": "Norway",
+            "team_2": "Hungary",
+            "status": "UPCOMING",
+            "event_name": "ECI Norway, 2025",
+            "match_name": "Norway vs Hungary",
+            "match_id": 133867,
+            "startTime": "06:45:00 PM 15-08-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "West Delhi Lions vs New Delhi Tigers (Delhi Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132486_5521_WDL_NDT_fc-Web.jpg",
             "team_1": "West Delhi Lions",
@@ -226,18 +252,6 @@
             "match_name": "West Delhi Lions vs New Delhi Tigers",
             "match_id": 132486,
             "startTime": "02:00:00 PM 16-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hungary vs Norway (ECI Norway, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-            "team_1": "Hungary",
-            "team_2": "Norway",
-            "status": "UPCOMING",
-            "event_name": "ECI Norway, 2025",
-            "match_name": "Hungary vs Norway",
-            "match_id": 133867,
-            "startTime": "06:45:00 PM 15-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -289,18 +303,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bader & Nie Cricket Club vs NCM Investment (KCC T10 Summer League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "team_1": "Bader & Nie Cricket Club",
-            "team_2": "NCM Investment",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Summer League, 2025",
-            "match_name": "Bader & Nie Cricket Club vs NCM Investment",
-            "match_id": 132159,
-            "startTime": "11:15:00 PM 15-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Shivamogga Lions vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132795_5530_SS_GMY_fc-Web.jpg",
             "team_1": "Shivamogga Lions",
@@ -313,6 +315,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Bader & Nie Cricket Club vs NCM Investment (KCC T10 Summer League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "team_1": "Bader & Nie Cricket Club",
+            "team_2": "NCM Investment",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Summer League, 2025",
+            "match_name": "Bader & Nie Cricket Club vs NCM Investment",
+            "match_id": 132159,
+            "startTime": "11:15:00 PM 15-08-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Jhelum Jaguars vs CECC (KCC T10 Summer League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
             "team_1": "Jhelum Jaguars",
@@ -322,6 +336,18 @@
             "match_name": "Jhelum Jaguars vs CECC",
             "match_id": 132160,
             "startTime": "01:15:00 AM 16-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Trent Rockets Women vs Southern Brave Women (The Hundred Women, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132270_5506_TRT-W_SOB-W_Fc-Web.jpg",
+            "team_1": "Trent Rockets Women",
+            "team_2": "Southern Brave Women",
+            "status": "UPCOMING",
+            "event_name": "The Hundred Women, 2025",
+            "match_name": "Trent Rockets Women vs Southern Brave Women",
+            "match_id": 132270,
+            "startTime": "03:30:00 PM 16-08-2025"
         },
         {
             "event_category": "Football",
@@ -346,18 +372,6 @@
             "match_name": "Girona vs Rayo Vallecano",
             "match_id": 130836,
             "startTime": "10:30:00 PM 15-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trent Rockets Women vs Southern Brave Women (The Hundred Women, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132270_5506_TRT-W_SOB-W_Fc-Web.jpg",
-            "team_1": "Trent Rockets Women",
-            "team_2": "Southern Brave Women",
-            "status": "UPCOMING",
-            "event_name": "The Hundred Women, 2025",
-            "match_name": "Trent Rockets Women vs Southern Brave Women",
-            "match_id": 132270,
-            "startTime": "03:30:00 PM 16-08-2025"
         },
         {
             "event_category": "Football",
@@ -466,18 +480,6 @@
             "match_name": "Real Valladolid vs Ceuta",
             "match_id": 133478,
             "startTime": "01:00:00 AM 16-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Amaravathi Royals vs Simhadri Vizag Lions (Andhra Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132773_5529_AMR_SVL_fc-Web.jpg",
-            "team_1": "Amaravathi Royals",
-            "team_2": "Simhadri Vizag Lions",
-            "status": "UPCOMING",
-            "event_name": "Andhra Premier League, 2025",
-            "match_name": "Amaravathi Royals vs Simhadri Vizag Lions",
-            "match_id": 132773,
-            "startTime": "01:30:00 PM 16-08-2025"
         }
     ]
 }
