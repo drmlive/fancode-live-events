@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:33:05 AM 16-08-2025",
+    "last update time": "06:43:17 AM 16-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -107,11 +107,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133504_5574_MRA_ACT_fc-web.jpg",
             "team_1": "Australian Capital Territory",
             "team_2": "Melbourne Renegades Academy",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Top End T20 Series, 2025",
             "match_name": "Australian Capital Territory vs Melbourne Renegades Academy",
             "match_id": 133504,
-            "startTime": "07:00:00 AM 16-08-2025"
+            "startTime": "07:00:00 AM 16-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/o6_YD4hARcieG25BFB8aRQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133504_english_hls_5d6734d71c22495ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -247,18 +249,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Hungary vs Norway (ECI Norway, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-            "team_1": "Hungary",
-            "team_2": "Norway",
-            "status": "UPCOMING",
-            "event_name": "ECI Norway, 2025",
-            "match_name": "Hungary vs Norway",
-            "match_id": 133870,
-            "startTime": "04:15:00 PM 16-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Antigua & Barbuda Falcons vs Barbados Royals (Caribbean Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132348_5512_ABF_BR_fc-web.jpg",
             "team_1": "Antigua & Barbuda Falcons",
@@ -268,6 +258,18 @@
             "match_name": "Antigua & Barbuda Falcons vs Barbados Royals",
             "match_id": 132348,
             "startTime": "04:30:00 AM 17-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hungary vs Norway (ECI Norway, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+            "team_1": "Hungary",
+            "team_2": "Norway",
+            "status": "UPCOMING",
+            "event_name": "ECI Norway, 2025",
+            "match_name": "Hungary vs Norway",
+            "match_id": 133870,
+            "startTime": "04:15:00 PM 16-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -331,18 +333,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_02.jpg",
-            "team_1": "Jinx Zagreb",
-            "team_2": "Lavender Lionesses",
-            "status": "UPCOMING",
-            "event_name": "ECS-W Croatia, 2025",
-            "match_name": "Jinx Zagreb vs Lavender Lionesses",
-            "match_id": 134050,
-            "startTime": "07:30:00 PM 16-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Australia A Women vs India A Women (India A Women tour of Australia, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IND_A_vs_AUS_Womens_Old_match-card-(1).jpg",
             "team_1": "Australia A Women",
@@ -352,6 +342,18 @@
             "match_name": "Australia A Women vs India A Women",
             "match_id": 133234,
             "startTime": "05:00:00 AM 17-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_02.jpg",
+            "team_1": "Jinx Zagreb",
+            "team_2": "Lavender Lionesses",
+            "status": "UPCOMING",
+            "event_name": "ECS-W Croatia, 2025",
+            "match_name": "Jinx Zagreb vs Lavender Lionesses",
+            "match_id": 134050,
+            "startTime": "07:30:00 PM 16-08-2025"
         },
         {
             "event_category": "Cricket",
