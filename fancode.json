@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:49:55 PM 16-08-2025",
+    "last update time": "02:00:07 PM 16-08-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -28,8 +28,8 @@
             "match_name": "New Delhi Tigers vs West Delhi Lions",
             "match_id": 132486,
             "startTime": "02:00:00 PM 16-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/fljzA0_0S1--inJBh-T3Dg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132486_english_hls_309225818c56845ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "12:00:00 PM 16-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/DekbxaVNRAGqB9Aw7cGaGw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133506_english_hls_6073a5333179293ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cambodia Women vs Singapore Women (Cambodia Women tour of Singapore, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/old.png",
-            "team_1": "Cambodia Women",
-            "team_2": "Singapore Women",
-            "status": "LIVE",
-            "event_name": "Cambodia Women tour of Singapore, 2025",
-            "match_name": "Cambodia Women vs Singapore Women",
-            "match_id": 133927,
-            "startTime": "12:00:00 PM 16-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/p7aS4ghtRzaQxb72n11xig/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133927_english_hls_d67191fa5b28423ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -114,20 +100,6 @@
             "startTime": "01:15:00 PM 16-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/zn48OlBRSmOpBnctU5ohcA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133707_english_hls_e3bf5edbb532560ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Hobart Hurricanes Academy vs Melbourne Stars Academy (Top End T20 Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133505_5574_MSA_HHA_fc-web.jpg",
-            "team_1": "Hobart Hurricanes Academy",
-            "team_2": "Melbourne Stars Academy",
-            "status": "LIVE",
-            "event_name": "Top End T20 Series, 2025",
-            "match_name": "Hobart Hurricanes Academy vs Melbourne Stars Academy",
-            "match_id": 133505,
-            "startTime": "10:00:00 AM 16-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/rIMY6wvfT_-nZsEYF46w-Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133505_english_hls_d659933c149435ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -243,23 +215,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
             "team_1": "Hungary",
             "team_2": "Sweden",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ECI Norway, 2025",
             "match_name": "Hungary vs Sweden",
             "match_id": 133869,
-            "startTime": "02:15:00 PM 16-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Kashima Antlers vs Avispa Fukuoka (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132079_CASACARDS_APP.png",
-            "team_1": "Kashima Antlers",
-            "team_2": "Avispa Fukuoka",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Kashima Antlers vs Avispa Fukuoka",
-            "match_id": 132079,
-            "startTime": "02:33:00 PM 16-08-2025"
+            "startTime": "02:15:00 PM 16-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/iyk_yKDMSa2kvZYr5WK2mQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133869_english_hls_a869629c9079878ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -284,6 +246,18 @@
             "match_name": "Jinx Zagreb-W vs Lavender Lionesses-W",
             "match_id": 134048,
             "startTime": "03:00:00 PM 16-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kashima Antlers vs Avispa Fukuoka (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132079_CASACARDS_APP.png",
+            "team_1": "Kashima Antlers",
+            "team_2": "Avispa Fukuoka",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Kashima Antlers vs Avispa Fukuoka",
+            "match_id": 132079,
+            "startTime": "02:33:00 PM 16-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -476,6 +450,30 @@
             "match_name": "Valencia vs Real Sociedad",
             "match_id": 130831,
             "startTime": "01:00:00 AM 17-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "China vs New Zealand (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-New-Zealand-old.jpg",
+            "team_1": "China",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "China vs New Zealand",
+            "match_id": 133296,
+            "startTime": "04:30:00 PM 16-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Australia vs Iran (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-Iran-old.jpg",
+            "team_1": "Australia",
+            "team_2": "Iran",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Australia vs Iran",
+            "match_id": 133297,
+            "startTime": "09:30:00 PM 16-08-2025"
         }
     ]
 }
