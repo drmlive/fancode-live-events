@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:16:23 AM 16-08-2025",
+    "last update time": "10:26:31 AM 16-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "10:15:00 AM 16-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/KRbU0zQSQ6yd4x3YsDH97A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133705_english_hls_a07c12a07d16317ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs San Diego Padres (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132863_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "San Diego Padres",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs San Diego Padres",
-            "match_id": 132863,
-            "startTime": "07:40:00 AM 16-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132863_english_hls_244efeccf683765ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132863_english_hls_244efeccf683765ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -466,6 +452,18 @@
             "match_name": "Valencia vs Real Sociedad",
             "match_id": 130831,
             "startTime": "01:00:00 AM 17-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "China vs New Zealand (FIBA Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/China-vs-New-Zealand-old.jpg",
+            "team_1": "China",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "China vs New Zealand",
+            "match_id": 133296,
+            "startTime": "04:30:00 PM 16-08-2025"
         }
     ]
 }
