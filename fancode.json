@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:29:30 PM 16-08-2025",
+    "last update time": "10:39:53 PM 16-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MallorcaVSBarcelona_Old_match-card.jpg",
             "team_1": "Mallorca",
             "team_2": "Barcelona",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "Mallorca vs Barcelona",
             "match_id": 130838,
-            "startTime": "11:00:00 PM 16-08-2025"
+            "startTime": "11:00:00 PM 16-08-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -98,6 +100,20 @@
             "startTime": "09:30:00 PM 16-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/iTZYRlkJSpePwLGxrWyoeQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133297_english_hls_dd00ac1ec289116ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "M\u00e1laga vs Eibar (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133476_5572_MAG_EIB_fc-web.jpg",
+            "team_1": "M\u00e1laga",
+            "team_2": "Eibar",
+            "status": "LIVE",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "M\u00e1laga vs Eibar",
+            "match_id": 133476,
+            "startTime": "11:00:00 PM 16-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/QBLrbVcNSiG6XwPBHgdSbA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133476_english_hls_db48a86c6b94638ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -310,18 +326,6 @@
             "startTime": "07:00:00 PM 17-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "M\u00e1laga vs Eibar (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133476_5572_MAG_EIB_fc-web.jpg",
-            "team_1": "M\u00e1laga",
-            "team_2": "Eibar",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "M\u00e1laga vs Eibar",
-            "match_id": 133476,
-            "startTime": "11:00:00 PM 16-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mysore Warriors vs Shivamogga Lions (Maharaja T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-Web.jpg",
@@ -383,18 +387,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Northern Territory Strike vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
-            "team_1": "Northern Territory Strike",
-            "team_2": "Hobart Hurricanes Academy",
-            "status": "UPCOMING",
-            "event_name": "Top End T20 Series, 2025",
-            "match_name": "Northern Territory Strike vs Hobart Hurricanes Academy",
-            "match_id": 133509,
-            "startTime": "09:00:00 AM 17-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "St Kitts and Nevis Patriots vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132349_5512_SKN_TKR_fc-web.jpg",
             "team_1": "St Kitts and Nevis Patriots",
@@ -404,6 +396,18 @@
             "match_name": "St Kitts and Nevis Patriots vs Trinbago Knight Riders",
             "match_id": 132349,
             "startTime": "08:30:00 PM 17-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Northern Territory Strike vs Hobart Hurricanes Academy (Top End T20 Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
+            "team_1": "Northern Territory Strike",
+            "team_2": "Hobart Hurricanes Academy",
+            "status": "UPCOMING",
+            "event_name": "Top End T20 Series, 2025",
+            "match_name": "Northern Territory Strike vs Hobart Hurricanes Academy",
+            "match_id": 133509,
+            "startTime": "09:00:00 AM 17-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -479,15 +483,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jinx Zagreb-W vs Lavender Lionesses-W (ECS-W Croatia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_02.jpg",
-            "team_1": "Jinx Zagreb-W",
-            "team_2": "Lavender Lionesses-W",
+            "title": "Birmingham Phoenix vs London Spirit (The Hundred, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132239_5505_BPH_LNS_fc-web.jpg",
+            "team_1": "Birmingham Phoenix",
+            "team_2": "London Spirit",
             "status": "UPCOMING",
-            "event_name": "ECS-W Croatia, 2025",
-            "match_name": "Jinx Zagreb-W vs Lavender Lionesses-W",
-            "match_id": 134054,
-            "startTime": "04:15:00 PM 17-08-2025"
+            "event_name": "The Hundred, 2025",
+            "match_name": "Birmingham Phoenix vs London Spirit",
+            "match_id": 132239,
+            "startTime": "10:30:00 PM 17-08-2025"
         }
     ]
 }
