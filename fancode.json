@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:05:53 AM 18-08-2025",
+    "last update time": "04:16:02 AM 18-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "Antigua & Barbuda Falcons vs Saint Lucia Kings",
             "match_id": 132350,
             "startTime": "04:30:00 AM 18-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/RJZC5i6VRcq3uJlbA4Hu7A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132350_english_hls_b5eba4a70166492ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -318,18 +318,6 @@
             "startTime": "12:15:00 AM 19-08-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Vizianagaram Ninjas vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133719_5591_VN_KK_fc-Web.jpg",
-            "team_1": "Vizianagaram Ninjas",
-            "team_2": "Kakinada Kraken",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Vizianagaram Ninjas vs Kakinada Kraken",
-            "match_id": 133719,
-            "startTime": "05:30:00 PM 18-08-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Elche vs Real Betis (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Elche-vs-Real-Betis_Match_card_oldmatchcard_logoVSlogo.jpg",
@@ -340,6 +328,18 @@
             "match_name": "Elche vs Real Betis",
             "match_id": 130839,
             "startTime": "12:30:00 AM 19-08-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Vizianagaram Ninjas vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133719_5591_VN_KK_fc-Web.jpg",
+            "team_1": "Vizianagaram Ninjas",
+            "team_2": "Kakinada Kraken",
+            "status": "UPCOMING",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Vizianagaram Ninjas vs Kakinada Kraken",
+            "match_id": 133719,
+            "startTime": "05:30:00 PM 18-08-2025"
         },
         {
             "event_category": "Football",
