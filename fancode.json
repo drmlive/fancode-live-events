@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:30:17 PM 17-08-2025",
+    "last update time": "09:40:27 PM 17-08-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "London Spirit Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132273_5506_BPH-W_LNS-W_Fc-Web.jpg",
-            "team_1": "London Spirit Women",
-            "team_2": "Birmingham Phoenix Women",
-            "status": "LIVE",
-            "event_name": "The Hundred Women, 2025",
-            "match_name": "London Spirit Women vs Birmingham Phoenix Women",
-            "match_id": 132273,
-            "startTime": "07:00:00 PM 17-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755480420~acl=/*~id=24855709020640125688812366201849~hmac=37c756a848914e0abd1bdb9b373ef1b6bc03f5cf1614efe6e0936f43e528b2ad"
-        },
         {
             "event_category": "Cricket",
             "title": "Manchester Originals vs Northern Superchargers (The Hundred, 2025)",
@@ -140,8 +126,8 @@
             "match_name": "Australia vs China",
             "match_id": 133299,
             "startTime": "09:30:00 PM 17-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/ypcrgjsJRtWigU6MJSMFgw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133299_english_hls_94798676a584409ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -243,6 +229,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "London Spirit Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132273_5506_BPH-W_LNS-W_Fc-Web.jpg",
+            "team_1": "London Spirit Women",
+            "team_2": "Birmingham Phoenix Women",
+            "status": "LIVE",
+            "event_name": "The Hundred Women, 2025",
+            "match_name": "London Spirit Women vs Birmingham Phoenix Women",
+            "match_id": 132273,
+            "startTime": "07:00:00 PM 17-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1755480420~acl=/*~id=24855709020640125688812366201849~hmac=37c756a848914e0abd1bdb9b373ef1b6bc03f5cf1614efe6e0936f43e528b2ad"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Birmingham Phoenix vs London Spirit (The Hundred, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132239_5505_BPH_LNS_fc-web.jpg",
             "team_1": "Birmingham Phoenix",
@@ -291,6 +291,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "New Delhi Tigers vs North Delhi Strikers (Delhi Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132489_5521_NDT_NDS_fc-Web.jpg",
+            "team_1": "New Delhi Tigers",
+            "team_2": "North Delhi Strikers",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League, 2025",
+            "match_name": "New Delhi Tigers vs North Delhi Strikers",
+            "match_id": 132489,
+            "startTime": "07:00:00 PM 18-08-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Tally Rangers vs CECC (KCC T10 Summer League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
             "team_1": "Tally Rangers",
@@ -303,15 +315,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New Delhi Tigers vs North Delhi Strikers (Delhi Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132489_5521_NDT_NDS_fc-Web.jpg",
-            "team_1": "New Delhi Tigers",
-            "team_2": "North Delhi Strikers",
+            "title": "Gulbarga Mystics vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132800_5530_GMY_HT_fc-Web_1755374792917.jpg",
+            "team_1": "Gulbarga Mystics",
+            "team_2": "Hubli Tigers",
             "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2025",
-            "match_name": "New Delhi Tigers vs North Delhi Strikers",
-            "match_id": 132489,
-            "startTime": "07:00:00 PM 18-08-2025"
+            "event_name": "Maharaja T20 Trophy, 2025",
+            "match_name": "Gulbarga Mystics vs Hubli Tigers",
+            "match_id": 132800,
+            "startTime": "07:15:00 PM 18-08-2025"
         },
         {
             "event_category": "Football",
@@ -336,18 +348,6 @@
             "match_name": "Espanyol vs Atl\u00e9tico de Madrid",
             "match_id": 130837,
             "startTime": "01:00:00 AM 18-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Gulbarga Mystics vs Hubli Tigers (Maharaja T20 Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132800_5530_GMY_HT_fc-Web_1755374792917.jpg",
-            "team_1": "Gulbarga Mystics",
-            "team_2": "Hubli Tigers",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2025",
-            "match_name": "Gulbarga Mystics vs Hubli Tigers",
-            "match_id": 132800,
-            "startTime": "07:15:00 PM 18-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -482,16 +482,16 @@
             "startTime": "05:00:00 PM 18-08-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Kurnool Knights vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133715_5591_KKK_KK_fc-Web.jpg",
-            "team_1": "Kurnool Knights",
-            "team_2": "Kakinada Kraken",
+            "event_category": "Cricket",
+            "title": "Southern Brave vs Oval Invincibles (The Hundred, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132240_5505_SOB_OVI_fc-web.jpg",
+            "team_1": "Southern Brave",
+            "team_2": "Oval Invincibles",
             "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Kurnool Knights vs Kakinada Kraken",
-            "match_id": 133715,
-            "startTime": "10:15:00 AM 18-08-2025"
+            "event_name": "The Hundred, 2025",
+            "match_name": "Southern Brave vs Oval Invincibles",
+            "match_id": 132240,
+            "startTime": "11:00:00 PM 18-08-2025"
         }
     ]
 }
