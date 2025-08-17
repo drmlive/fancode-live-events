@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:16:37 AM 17-08-2025",
+    "last update time": "07:26:45 AM 17-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "07:00:00 AM 17-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/eJ3DW0MRQduxg7U0DDdzqw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133508_english_hls_91ce671e0c51949ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Oakland Athletics vs Los Angeles Angels (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132866_CASACARDS_APP.png",
+            "team_1": "Oakland Athletics",
+            "team_2": "Los Angeles Angels",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Oakland Athletics vs Los Angeles Angels",
+            "match_id": 132866,
+            "startTime": "07:35:00 AM 17-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132866_english_hls_7a2e949c6766739ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132866_english_hls_7a2e949c6766739ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -452,18 +466,6 @@
             "match_name": "Fagiano Okayama vs Kashiwa Reysol",
             "match_id": 132081,
             "startTime": "02:33:00 PM 17-08-2025"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Tirupati Raiders vs Krishna Defenders (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133713_5591_TR_KD_fc-Web.jpg",
-            "team_1": "Tirupati Raiders",
-            "team_2": "Krishna Defenders",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Tirupati Raiders vs Krishna Defenders",
-            "match_id": 133713,
-            "startTime": "03:45:00 PM 17-08-2025"
         }
     ]
 }
