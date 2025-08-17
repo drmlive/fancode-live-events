@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:23:42 PM 17-08-2025",
+    "last update time": "03:34:05 PM 17-08-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132272_5506_MNR-W_NOS-W_Fc-Web.jpg",
             "team_1": "Manchester Originals Women",
             "team_2": "Northern Superchargers Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "The Hundred Women, 2025",
             "match_name": "Manchester Originals Women vs Northern Superchargers Women",
             "match_id": 132272,
-            "startTime": "03:30:00 PM 17-08-2025"
+            "startTime": "03:30:00 PM 17-08-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -128,6 +130,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132081_english_hls_1e5d2f4cab91883ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Kabaddi",
+            "title": "Tirupati Raiders vs Krishna Defenders (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133713_5591_TR_KD_fc-Web.jpg",
+            "team_1": "Tirupati Raiders",
+            "team_2": "Krishna Defenders",
+            "status": "LIVE",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Tirupati Raiders vs Krishna Defenders",
+            "match_id": 133713,
+            "startTime": "03:45:00 PM 17-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/pXBWtqKoQ2GCx4P8t7DbGw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133713_english_hls_9fb5677d0a85557ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Birmingham Phoenix Women vs London Spirit Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132273_5506_BPH-W_LNS-W_Fc-Web.jpg",
@@ -224,16 +240,28 @@
             "startTime": "04:15:00 PM 17-08-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Tirupati Raiders vs Krishna Defenders (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133713_5591_TR_KD_fc-Web.jpg",
-            "team_1": "Tirupati Raiders",
-            "team_2": "Krishna Defenders",
+            "event_category": "Football",
+            "title": "Ipswich Town vs Southampton (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ipswich-Town-VS-Southampton_old.jpg",
+            "team_1": "Ipswich Town",
+            "team_2": "Southampton",
             "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Tirupati Raiders vs Krishna Defenders",
-            "match_id": 133713,
-            "startTime": "03:45:00 PM 17-08-2025"
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Ipswich Town vs Southampton",
+            "match_id": 131993,
+            "startTime": "04:30:00 PM 17-08-2025"
+        },
+        {
+            "event_category": "Basketball",
+            "title": "Iran vs New Zealand (FIBA Asia Cup, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/133298_CASACARDS_APP.png",
+            "team_1": "Iran",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "FIBA Asia Cup, 2025",
+            "match_name": "Iran vs New Zealand",
+            "match_id": 133298,
+            "startTime": "04:30:00 PM 17-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -308,18 +336,6 @@
             "startTime": "10:15:00 PM 17-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Ipswich Town vs Southampton (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ipswich-Town-VS-Southampton_old.jpg",
-            "team_1": "Ipswich Town",
-            "team_2": "Southampton",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Ipswich Town vs Southampton",
-            "match_id": 131993,
-            "startTime": "04:30:00 PM 17-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Tally Rangers vs CECC (KCC T10 Summer League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
@@ -366,18 +382,6 @@
             "match_name": "Espanyol vs Atl\u00e9tico de Madrid",
             "match_id": 130837,
             "startTime": "01:00:00 AM 18-08-2025"
-        },
-        {
-            "event_category": "Basketball",
-            "title": "Iran vs New Zealand (FIBA Asia Cup, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/133298_CASACARDS_APP.png",
-            "team_1": "Iran",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "FIBA Asia Cup, 2025",
-            "match_name": "Iran vs New Zealand",
-            "match_id": 133298,
-            "startTime": "04:30:00 PM 17-08-2025"
         },
         {
             "event_category": "Cricket",
