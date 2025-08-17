@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:02:44 PM 17-08-2025",
+    "last update time": "02:12:51 PM 17-08-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -28,20 +28,6 @@
             "match_name": "Manchester Originals Women vs Northern Superchargers Women",
             "match_id": 132272,
             "startTime": "03:30:00 PM 17-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_02.jpg",
-            "team_1": "Jinx Zagreb",
-            "team_2": "Lavender Lionesses",
-            "status": "LIVE",
-            "event_name": "ECS-W Croatia, 2025",
-            "match_name": "Jinx Zagreb vs Lavender Lionesses",
-            "match_id": 134052,
-            "startTime": "12:15:00 PM 17-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/0bu-mq0_S0if_26DQKEIaQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134052_english_hls_f03fa8970d76038ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -96,8 +82,8 @@
             "match_name": "Lavender Lionesses vs Jinx Zagreb",
             "match_id": 134053,
             "startTime": "02:15:00 PM 17-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/M8zCJmYoSNmDQtW-LhVIVw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134053_english_hls_4d32f19cb788333ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -112,6 +98,20 @@
             "startTime": "01:30:00 PM 17-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/OV8dNzupQgyDNmEm9rPXCQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133712_english_hls_9fc31ea10718340ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jinx Zagreb vs Lavender Lionesses (ECS-W Croatia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_02.jpg",
+            "team_1": "Jinx Zagreb",
+            "team_2": "Lavender Lionesses",
+            "status": "LIVE",
+            "event_name": "ECS-W Croatia, 2025",
+            "match_name": "Jinx Zagreb vs Lavender Lionesses",
+            "match_id": 134052,
+            "startTime": "12:15:00 PM 17-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/0bu-mq0_S0if_26DQKEIaQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134052_english_hls_f03fa8970d76038ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -450,18 +450,6 @@
             "startTime": "10:00:00 AM 18-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Huesca vs Legan\u00e9s (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134125_5572_HUE_LEG_fc-Web.jpg",
-            "team_1": "Huesca",
-            "team_2": "Legan\u00e9s",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Huesca vs Legan\u00e9s",
-            "match_id": 134125,
-            "startTime": "01:00:00 AM 18-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mysore Warriors vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132799_5530_MW_BB_fc-Web_1755374792890.jpg",
@@ -472,6 +460,18 @@
             "match_name": "Mysore Warriors vs Bengaluru Blasters",
             "match_id": 132799,
             "startTime": "03:15:00 PM 18-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Huesca vs Legan\u00e9s (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134125_5572_HUE_LEG_fc-Web.jpg",
+            "team_1": "Huesca",
+            "team_2": "Legan\u00e9s",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Huesca vs Legan\u00e9s",
+            "match_id": 134125,
+            "startTime": "01:00:00 AM 18-08-2025"
         }
     ]
 }
