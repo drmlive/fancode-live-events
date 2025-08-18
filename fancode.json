@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:24:01 AM 19-08-2025",
+    "last update time": "02:34:10 AM 19-08-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Elche vs Real Betis (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Elche-vs-Real-Betis_Match_card_oldmatchcard_logoVSlogo.jpg",
-            "team_1": "Elche",
-            "team_2": "Real Betis",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche vs Real Betis",
-            "match_id": 130839,
-            "startTime": "12:30:00 AM 19-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130839_english_hls_bd582ba98527488adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130839_english_hls_bd582ba98527488adfreeta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Baseball",
             "title": "Chicago Cubs vs Milwaukee Brewers (Major League Baseball, 2025)",
@@ -30,6 +16,20 @@
             "startTime": "11:50:00 PM 18-08-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132869_english_hls_e80f2a328b40000ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132869_english_hls_e80f2a328b40000ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Elche vs Real Betis (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Elche-vs-Real-Betis_Match_card_oldmatchcard_logoVSlogo.jpg",
+            "team_1": "Elche",
+            "team_2": "Real Betis",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche vs Real Betis",
+            "match_id": 130839,
+            "startTime": "12:30:00 AM 19-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130839_english_hls_bd582ba98527488adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130839_english_hls_bd582ba98527488adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -333,18 +333,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "SBS CC vs CECC (KCC T10 Summer League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "team_1": "SBS CC",
-            "team_2": "CECC",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Summer League, 2025",
-            "match_name": "SBS CC vs CECC",
-            "match_id": 132168,
-            "startTime": "12:15:00 AM 20-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings (Caribbean Premier League, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/132351_CASACARDS_APP.png",
             "team_1": "St Kitts and Nevis Patriots",
@@ -354,6 +342,18 @@
             "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
             "match_id": 132351,
             "startTime": "04:30:00 AM 20-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "SBS CC vs CECC (KCC T10 Summer League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "team_1": "SBS CC",
+            "team_2": "CECC",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Summer League, 2025",
+            "match_name": "SBS CC vs CECC",
+            "match_id": 132168,
+            "startTime": "12:15:00 AM 20-08-2025"
         },
         {
             "event_category": "Football",
