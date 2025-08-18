@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:54:14 PM 18-08-2025",
+    "last update time": "03:04:24 PM 18-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Mysore Warriors vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132799_5530_MW_BB_fc-Web_1755374792890.jpg",
+            "team_1": "Mysore Warriors",
+            "team_2": "Bengaluru Blasters",
+            "status": "LIVE",
+            "event_name": "Maharaja T20 Trophy, 2025",
+            "match_name": "Mysore Warriors vs Bengaluru Blasters",
+            "match_id": 132799,
+            "startTime": "03:15:00 PM 18-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/4Tb0Q7-kR0eB4lBCcFlR2g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132799_english_hls_4b88940a8528248ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Vijayawada Sunshiners vs Tungabhadra Warriors (Andhra Premier League, 2025)",
@@ -58,18 +72,6 @@
             "startTime": "02:45:00 PM 18-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/GfZS2WahS4yBb7qdYIt_bA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134127_english_hls_ed3cf1386285683ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mysore Warriors vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132799_5530_MW_BB_fc-Web_1755374792890.jpg",
-            "team_1": "Mysore Warriors",
-            "team_2": "Bengaluru Blasters",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2025",
-            "match_name": "Mysore Warriors vs Bengaluru Blasters",
-            "match_id": 132799,
-            "startTime": "03:15:00 PM 18-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -432,18 +434,6 @@
             "startTime": "07:15:00 PM 19-08-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Krishna Defenders vs Vizag Commandos (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133722_5591_KD_VC_fc-Web.jpg",
-            "team_1": "Krishna Defenders",
-            "team_2": "Vizag Commandos",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Krishna Defenders vs Vizag Commandos",
-            "match_id": 133722,
-            "startTime": "01:15:00 PM 19-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Trent Rockets Women vs Manchester Originals Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132275_5506_TRT-W_MNR-W_Fc-Web.jpg",
@@ -454,6 +444,18 @@
             "match_name": "Trent Rockets Women vs Manchester Originals Women",
             "match_id": 132275,
             "startTime": "07:30:00 PM 19-08-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Krishna Defenders vs Vizag Commandos (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133722_5591_KD_VC_fc-Web.jpg",
+            "team_1": "Krishna Defenders",
+            "team_2": "Vizag Commandos",
+            "status": "UPCOMING",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Krishna Defenders vs Vizag Commandos",
+            "match_id": 133722,
+            "startTime": "01:15:00 PM 19-08-2025"
         }
     ]
 }
