@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:00:01 AM 19-08-2025",
+    "last update time": "10:10:14 AM 19-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "09:00:00 AM 19-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/TdH5o8QNRu2QNsFKvdf4ag/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133515_english_hls_e9d425b32613224ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Bhimavaram Guardians vs Kurnool Knights (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133720_5591_BG_KKK_fc-Web.jpg",
+            "team_1": "Bhimavaram Guardians",
+            "team_2": "Kurnool Knights",
+            "status": "LIVE",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Bhimavaram Guardians vs Kurnool Knights",
+            "match_id": 133720,
+            "startTime": "10:15:00 AM 19-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/u2Z4u4ZYQq6OX2Tsc9kH9Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133720_english_hls_37536ae4e842196ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -100,18 +114,6 @@
             "match_name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
             "match_id": 132351,
             "startTime": "04:30:00 AM 20-08-2025"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Bhimavaram Guardians vs Kurnool Knights (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133720_5591_BG_KKK_fc-Web.jpg",
-            "team_1": "Bhimavaram Guardians",
-            "team_2": "Kurnool Knights",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Bhimavaram Guardians vs Kurnool Knights",
-            "match_id": 133720,
-            "startTime": "10:15:00 AM 19-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -438,18 +440,6 @@
             "startTime": "04:00:00 PM 20-08-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Vizag Commandos vs Kurnool Knights (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
-            "team_1": "Vizag Commandos",
-            "team_2": "Kurnool Knights",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Vizag Commandos vs Kurnool Knights",
-            "match_id": 133726,
-            "startTime": "11:45:00 AM 20-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "North Delhi Strikers Women vs Central Delhi Queens (Delhi Women's Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132974_5536_NDS-W_CDQ_fc_web_1755513540602.jpg",
@@ -460,6 +450,18 @@
             "match_name": "North Delhi Strikers Women vs Central Delhi Queens",
             "match_id": 132974,
             "startTime": "02:00:00 PM 20-08-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Vizag Commandos vs Kurnool Knights (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
+            "team_1": "Vizag Commandos",
+            "team_2": "Kurnool Knights",
+            "status": "UPCOMING",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Vizag Commandos vs Kurnool Knights",
+            "match_id": 133726,
+            "startTime": "11:45:00 AM 20-08-2025"
         }
     ]
 }
