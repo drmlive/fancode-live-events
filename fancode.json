@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:17:54 PM 19-08-2025",
+    "last update time": "06:28:05 PM 19-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -28,20 +28,6 @@
             "startTime": "03:15:00 PM 19-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HDqdfpaUQ4-V2F6Yg5EItw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132801_english_hls_83edef071879017ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh A vs Northern Territory Strike (Top End T20 Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133535_5574_NTS_BN-A_fc-web.jpg",
-            "team_1": "Bangladesh A",
-            "team_2": "Northern Territory Strike",
-            "status": "LIVE",
-            "event_name": "Top End T20 Series, 2025",
-            "match_name": "Bangladesh A vs Northern Territory Strike",
-            "match_id": 133535,
-            "startTime": "03:00:00 PM 19-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/I7COGRrwRqKGrJQLu8QUPA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133535_english_hls_3d4160d8d944446ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -82,8 +68,8 @@
             "match_name": "Amaravathi Royals vs Vijayawada Sunshiners",
             "match_id": 132780,
             "startTime": "06:30:00 PM 19-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/C50M7fO7Q1SP7LIYwUTtAA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132780_english_hls_64ac88c9c179599ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -355,18 +341,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Netherlands Women vs Italy Women (ICC Women\u2019s T20 WC Europe Qualifier Division 1)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133747_5592_ND-W_ITA-W_fc-web.jpg",
-            "team_1": "Netherlands Women",
-            "team_2": "Italy Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
-            "match_name": "Netherlands Women vs Italy Women",
-            "match_id": 133747,
-            "startTime": "02:30:00 PM 20-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "London Spirit Women vs Northern Superchargers Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132277_5506_LNS-W_NOS-W_Fc-Web.jpg",
             "team_1": "London Spirit Women",
@@ -388,6 +362,18 @@
             "match_name": "Welsh Fire vs Southern Brave",
             "match_id": 132242,
             "startTime": "07:30:00 PM 20-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Netherlands Women vs Italy Women (ICC Women\u2019s T20 WC Europe Qualifier Division 1)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133747_5592_ND-W_ITA-W_fc-web.jpg",
+            "team_1": "Netherlands Women",
+            "team_2": "Italy Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
+            "match_name": "Netherlands Women vs Italy Women",
+            "match_id": 133747,
+            "startTime": "02:30:00 PM 20-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -426,18 +412,6 @@
             "startTime": "10:15:00 AM 20-08-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Vizag Commandos vs Kurnool Knights (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
-            "team_1": "Vizag Commandos",
-            "team_2": "Kurnool Knights",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Vizag Commandos vs Kurnool Knights",
-            "match_id": 133726,
-            "startTime": "11:45:00 AM 20-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "SC Europa vs SG Findorff (ECS Germany, Kiel, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
@@ -448,6 +422,18 @@
             "match_name": "SC Europa vs SG Findorff",
             "match_id": 134138,
             "startTime": "04:45:00 PM 20-08-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Vizag Commandos vs Kurnool Knights (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133726_5591_VC_KKK_fc-Web.jpg",
+            "team_1": "Vizag Commandos",
+            "team_2": "Kurnool Knights",
+            "status": "UPCOMING",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Vizag Commandos vs Kurnool Knights",
+            "match_id": 133726,
+            "startTime": "11:45:00 AM 20-08-2025"
         },
         {
             "event_category": "Kabaddi",
