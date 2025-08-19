@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:46:27 PM 19-08-2025",
+    "last update time": "04:56:37 PM 19-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -84,8 +84,8 @@
             "match_name": "Renaissance Challengers vs Royal Oman Stallions",
             "match_id": 133680,
             "startTime": "05:00:00 PM 19-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/V2u_G5_GQtO6nbB-D37PIw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133680_english_hls_600bbe867185553ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Arm Wrestling",
@@ -100,20 +100,6 @@
             "startTime": "05:00:00 PM 19-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/PXh0btv8T2iQb0blF95ljw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132449_english_hls_7c799390a862399ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Bhimavaram Guardians vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133723_5591_BG_KK_fc-Web.jpg",
-            "team_1": "Bhimavaram Guardians",
-            "team_2": "Kakinada Kraken",
-            "status": "LIVE",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Bhimavaram Guardians vs Kakinada Kraken",
-            "match_id": 133723,
-            "startTime": "03:45:00 PM 19-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/XUaEozzgRJ6-lgnhNsr5mg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133723_english_hls_12a12fb41130273ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -262,7 +248,7 @@
         {
             "event_category": "Football",
             "title": "Real Madrid vs Osasuna (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-vs-Osasuna_Match_card_oldmatchcard_logoVSlogo_v2.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-vs-Osasuna_Old_match-card.jpg",
             "team_1": "Real Madrid",
             "team_2": "Osasuna",
             "status": "UPCOMING",
@@ -270,18 +256,6 @@
             "match_name": "Real Madrid vs Osasuna",
             "match_id": 130830,
             "startTime": "12:30:00 AM 20-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chicago Kingsmen vs Australian Capital Territory (Top End T20 Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133517_5574_CHK_ACT_fc-web.jpg",
-            "team_1": "Chicago Kingsmen",
-            "team_2": "Australian Capital Territory",
-            "status": "UPCOMING",
-            "event_name": "Top End T20 Series, 2025",
-            "match_name": "Chicago Kingsmen vs Australian Capital Territory",
-            "match_id": 133517,
-            "startTime": "06:00:00 AM 20-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -294,6 +268,18 @@
             "match_name": "Gulbarga Mystics vs Mysore Warriors",
             "match_id": 132803,
             "startTime": "03:15:00 PM 20-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chicago Kingsmen vs Australian Capital Territory (Top End T20 Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133517_5574_CHK_ACT_fc-web.jpg",
+            "team_1": "Chicago Kingsmen",
+            "team_2": "Australian Capital Territory",
+            "status": "UPCOMING",
+            "event_name": "Top End T20 Series, 2025",
+            "match_name": "Chicago Kingsmen vs Australian Capital Territory",
+            "match_id": 133517,
+            "startTime": "06:00:00 AM 20-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -381,18 +367,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "HTB Cricket vs VFB Fallersleben (ECS Germany, Kiel, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-            "team_1": "HTB Cricket",
-            "team_2": "VFB Fallersleben",
-            "status": "UPCOMING",
-            "event_name": "ECS Germany, Kiel, 2025",
-            "match_name": "HTB Cricket vs VFB Fallersleben",
-            "match_id": 134137,
-            "startTime": "02:45:00 PM 20-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Outer Delhi Warriors vs North Delhi Strikers (Delhi Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132491_5521_ODW_NDS_fc-Web.jpg",
             "team_1": "Outer Delhi Warriors",
@@ -402,6 +376,18 @@
             "match_name": "Outer Delhi Warriors vs North Delhi Strikers",
             "match_id": 132491,
             "startTime": "07:00:00 PM 20-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "HTB Cricket vs VFB Fallersleben (ECS Germany, Kiel, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+            "team_1": "HTB Cricket",
+            "team_2": "VFB Fallersleben",
+            "status": "UPCOMING",
+            "event_name": "ECS Germany, Kiel, 2025",
+            "match_name": "HTB Cricket vs VFB Fallersleben",
+            "match_id": 134137,
+            "startTime": "02:45:00 PM 20-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -416,18 +402,6 @@
             "startTime": "03:00:00 PM 20-08-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Amaravati Crushers vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133725_5591_AC_KK_fc-Web.jpg",
-            "team_1": "Amaravati Crushers",
-            "team_2": "Kakinada Kraken",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Amaravati Crushers vs Kakinada Kraken",
-            "match_id": 133725,
-            "startTime": "10:15:00 AM 20-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Hubli Tigers vs Bengaluru Blasters (Maharaja T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132804_5530_HT_BB_fc-Web_1755374793058.jpg",
@@ -438,6 +412,18 @@
             "match_name": "Hubli Tigers vs Bengaluru Blasters",
             "match_id": 132804,
             "startTime": "07:15:00 PM 20-08-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Amaravati Crushers vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133725_5591_AC_KK_fc-Web.jpg",
+            "team_1": "Amaravati Crushers",
+            "team_2": "Kakinada Kraken",
+            "status": "UPCOMING",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Amaravati Crushers vs Kakinada Kraken",
+            "match_id": 133725,
+            "startTime": "10:15:00 AM 20-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -474,6 +460,18 @@
             "match_name": "Vizag Commandos vs Kurnool Knights",
             "match_id": 133726,
             "startTime": "11:45:00 AM 20-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "SC Europa vs SG Findorff (ECS Germany, Kiel, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+            "team_1": "SC Europa",
+            "team_2": "SG Findorff",
+            "status": "UPCOMING",
+            "event_name": "ECS Germany, Kiel, 2025",
+            "match_name": "SC Europa vs SG Findorff",
+            "match_id": 134138,
+            "startTime": "04:45:00 PM 20-08-2025"
         }
     ]
 }
