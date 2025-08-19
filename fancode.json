@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:18:59 PM 19-08-2025",
+    "last update time": "07:29:06 PM 19-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -21,11 +21,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132275_5506_TRT-W_MNR-W_Fc-Web.jpg",
             "team_1": "Trent Rockets Women",
             "team_2": "Manchester Originals Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "The Hundred Women, 2025",
             "match_name": "Trent Rockets Women vs Manchester Originals Women",
             "match_id": 132275,
-            "startTime": "07:30:00 PM 19-08-2025"
+            "startTime": "07:30:00 PM 19-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?{\"error\":\"transfer closed with 1 bytes remaining to read\"}"
         },
         {
             "event_category": "Cricket",
@@ -328,18 +330,6 @@
             "startTime": "02:30:00 PM 20-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Walsall vs Grimsby Town (League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-            "team_1": "Walsall",
-            "team_2": "Grimsby Town",
-            "status": "UPCOMING",
-            "event_name": "League Two 2025-26",
-            "match_name": "Walsall vs Grimsby Town",
-            "match_id": 132024,
-            "startTime": "12:30:00 AM 20-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "HTB Cricket vs VFB Fallersleben (ECS Germany, Kiel, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
@@ -350,6 +340,18 @@
             "match_name": "HTB Cricket vs VFB Fallersleben",
             "match_id": 134137,
             "startTime": "02:45:00 PM 20-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Walsall vs Grimsby Town (League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+            "team_1": "Walsall",
+            "team_2": "Grimsby Town",
+            "status": "UPCOMING",
+            "event_name": "League Two 2025-26",
+            "match_name": "Walsall vs Grimsby Town",
+            "match_id": 132024,
+            "startTime": "12:30:00 AM 20-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -424,18 +426,6 @@
             "startTime": "06:45:00 PM 20-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Sanfrecce Hiroshima vs Vissel Kobe (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132098_CASACARDS_APP.png",
-            "team_1": "Sanfrecce Hiroshima",
-            "team_2": "Vissel Kobe",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Sanfrecce Hiroshima vs Vissel Kobe",
-            "match_id": 132098,
-            "startTime": "03:30:00 PM 20-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Ireland Women vs Germany Women (ICC Women\u2019s T20 WC Europe Qualifier Division 1)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133748_5592_IR-W_GER-W_fc-web.jpg",
@@ -446,6 +436,18 @@
             "match_name": "Ireland Women vs Germany Women",
             "match_id": 133748,
             "startTime": "07:15:00 PM 20-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Vissel Kobe (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132098_CASACARDS_APP.png",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Vissel Kobe",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Sanfrecce Hiroshima vs Vissel Kobe",
+            "match_id": 132098,
+            "startTime": "03:30:00 PM 20-08-2025"
         },
         {
             "event_category": "Kabaddi",
