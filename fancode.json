@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:01:08 PM 19-08-2025",
+    "last update time": "10:11:18 PM 19-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,20 +14,6 @@
             "match_name": "Real Madrid vs Osasuna",
             "match_id": 130830,
             "startTime": "12:30:00 AM 20-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trent Rockets Women vs Manchester Originals Women (The Hundred Women, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132275_5506_TRT-W_MNR-W_Fc-Web.jpg",
-            "team_1": "Trent Rockets Women",
-            "team_2": "Manchester Originals Women",
-            "status": "LIVE",
-            "event_name": "The Hundred Women, 2025",
-            "match_name": "Trent Rockets Women vs Manchester Originals Women",
-            "match_id": 132275,
-            "startTime": "07:30:00 PM 19-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?{\"error\":\"transfer closed with 1 bytes remaining to read\"}"
         },
         {
             "event_category": "Cricket",
@@ -96,8 +82,8 @@
             "match_name": "Khan Zalmi Kings vs NCM Investment",
             "match_id": 132167,
             "startTime": "10:15:00 PM 19-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/J2yZOH19S2y9u5mVlRmsYA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132167_english_hls_af94e8c8d065289ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -173,18 +159,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "SBS CC vs CECC (KCC T10 Summer League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "team_1": "SBS CC",
-            "team_2": "CECC",
-            "status": "UPCOMING",
-            "event_name": "KCC T10 Summer League, 2025",
-            "match_name": "SBS CC vs CECC",
-            "match_id": 132168,
-            "startTime": "12:15:00 AM 20-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "London Spirit Women vs Northern Superchargers Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132277_5506_LNS-W_NOS-W_Fc-Web.jpg",
             "team_1": "London Spirit Women",
@@ -206,6 +180,18 @@
             "match_name": "Welsh Fire vs Southern Brave",
             "match_id": 132242,
             "startTime": "07:30:00 PM 20-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "SBS CC vs CECC (KCC T10 Summer League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "team_1": "SBS CC",
+            "team_2": "CECC",
+            "status": "UPCOMING",
+            "event_name": "KCC T10 Summer League, 2025",
+            "match_name": "SBS CC vs CECC",
+            "match_id": 132168,
+            "startTime": "12:15:00 AM 20-08-2025"
         },
         {
             "event_category": "Cricket",
