@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:41:52 PM 20-08-2025",
+    "last update time": "10:52:00 PM 20-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,20 +72,6 @@
             "startTime": "10:05:00 PM 20-08-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132873_english_hls_9e472708bb57755ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132873_english_hls_9e472708bb57755ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "SG Findorff vs Berlin CC (ECS Germany, Kiel, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-            "team_1": "SG Findorff",
-            "team_2": "Berlin CC",
-            "status": "LIVE",
-            "event_name": "ECS Germany, Kiel, 2025",
-            "match_name": "SG Findorff vs Berlin CC",
-            "match_id": 134140,
-            "startTime": "08:45:00 PM 20-08-2025",
-            "dai_url": null,
-            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -458,6 +444,30 @@
             "match_name": "Amaravati Crushers vs Kurnool Knights",
             "match_id": 133729,
             "startTime": "11:45:00 AM 21-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Trivandrum Royals vs Kochi Blue Tigers (Kerala Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133877_5600_TR_KBT_fc-Web.jpg",
+            "team_1": "Trivandrum Royals",
+            "team_2": "Kochi Blue Tigers",
+            "status": "UPCOMING",
+            "event_name": "Kerala Cricket League, 2025",
+            "match_name": "Trivandrum Royals vs Kochi Blue Tigers",
+            "match_id": 133877,
+            "startTime": "07:45:00 PM 21-08-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Vizag Commandos vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133730_5591_VC_VN_fc-Web.jpg",
+            "team_1": "Vizag Commandos",
+            "team_2": "Vizianagaram Ninjas",
+            "status": "UPCOMING",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Vizag Commandos vs Vizianagaram Ninjas",
+            "match_id": 133730,
+            "startTime": "01:15:00 PM 21-08-2025"
         }
     ]
 }
