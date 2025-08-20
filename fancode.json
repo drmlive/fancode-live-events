@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:04:46 PM 20-08-2025",
+    "last update time": "03:14:58 PM 20-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "Mysore Warriors vs Gulbarga Mystics",
             "match_id": 132803,
             "startTime": "03:15:00 PM 20-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/T5yqKqMsTmayEQI3Obi9WA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132803_english_hls_57b562128a50153ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -72,6 +72,34 @@
             "startTime": "03:00:00 PM 20-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ubTaOLAMQMa3Bcp_s1kYbg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133520_english_hls_2f720f68a936620ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Vissel Kobe (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132098_CASACARDS_APP.png",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Vissel Kobe",
+            "status": "LIVE",
+            "event_name": "J League 2025",
+            "match_name": "Sanfrecce Hiroshima vs Vissel Kobe",
+            "match_id": 132098,
+            "startTime": "03:30:00 PM 20-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132098_english_hls_896ba105bf62872ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132098_english_hls_896ba105bf62872ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Vierum\u00e4ki Finnish Challenge vs Cooke Course, Vierum\u00e4ki (Vierum\u00e4ki Finnish Challenge)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Vierumaki-Finnish-Challenge_match-card_Old_match-card.jpg",
+            "team_1": "Vierum\u00e4ki Finnish Challenge",
+            "team_2": "Cooke Course, Vierum\u00e4ki",
+            "status": "LIVE",
+            "event_name": "Vierum\u00e4ki Finnish Challenge",
+            "match_name": "Vierum\u00e4ki Finnish Challenge",
+            "match_id": 133811,
+            "startTime": "03:25:00 PM 20-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/vowZX0XARF2_EsgFLa4XMA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133811_english_hls_9a09e7d32892338ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -168,18 +196,6 @@
             "match_name": "Australia A Women vs India A Women",
             "match_id": 133235,
             "startTime": "05:00:00 AM 21-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sanfrecce Hiroshima vs Vissel Kobe (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132098_CASACARDS_APP.png",
-            "team_1": "Sanfrecce Hiroshima",
-            "team_2": "Vissel Kobe",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Sanfrecce Hiroshima vs Vissel Kobe",
-            "match_id": 132098,
-            "startTime": "03:30:00 PM 20-08-2025"
         },
         {
             "event_category": "Kabaddi",
@@ -314,6 +330,18 @@
             "startTime": "05:30:00 PM 20-08-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Northern Territory Strike vs Chicago Kingsmen (Top End T20 Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133523_5574_NTS_CHK_fc-web.jpg",
+            "team_1": "Northern Territory Strike",
+            "team_2": "Chicago Kingsmen",
+            "status": "UPCOMING",
+            "event_name": "Top End T20 Series, 2025",
+            "match_name": "Northern Territory Strike vs Chicago Kingsmen",
+            "match_id": 133523,
+            "startTime": "11:00:00 AM 21-08-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Bolton Wanderers vs Reading (League One 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132022_5490_BOL_RED_fc-Web.jpg",
@@ -327,18 +355,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Northern Territory Strike vs Chicago Kingsmen (Top End T20 Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133523_5574_NTS_CHK_fc-web.jpg",
-            "team_1": "Northern Territory Strike",
-            "team_2": "Chicago Kingsmen",
-            "status": "UPCOMING",
-            "event_name": "Top End T20 Series, 2025",
-            "match_name": "Northern Territory Strike vs Chicago Kingsmen",
-            "match_id": 133523,
-            "startTime": "11:00:00 AM 21-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Romania vs Czechia (ECN Romania-Czechia T20I, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/134939_CASACARDS_APP.png",
             "team_1": "Romania",
@@ -348,18 +364,6 @@
             "match_name": "Romania vs Czechia",
             "match_id": 134939,
             "startTime": "12:00:00 PM 21-08-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Vierum\u00e4ki Finnish Challenge vs Cooke Course, Vierum\u00e4ki (Vierum\u00e4ki Finnish Challenge)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Vierumaki-Finnish-Challenge_match-card_Old_match-card.jpg",
-            "team_1": "Vierum\u00e4ki Finnish Challenge",
-            "team_2": "Cooke Course, Vierum\u00e4ki",
-            "status": "UPCOMING",
-            "event_name": "Vierum\u00e4ki Finnish Challenge",
-            "match_name": "Vierum\u00e4ki Finnish Challenge",
-            "match_id": 133811,
-            "startTime": "03:25:00 PM 20-08-2025"
         },
         {
             "event_category": "Cricket",
