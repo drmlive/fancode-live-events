@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:33:23 PM 21-08-2025",
+    "last update time": "01:43:35 PM 21-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -187,11 +187,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132975_5536_CDQ_SDS-W_fc_web_1755513540591.jpg",
             "team_1": "South Delhi Superstarz Women",
             "team_2": "Central Delhi Queens",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Delhi Women's Premier League, 2025",
             "match_name": "South Delhi Superstarz Women vs Central Delhi Queens",
             "match_id": 132975,
-            "startTime": "02:00:00 PM 21-08-2025"
+            "startTime": "02:00:00 PM 21-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Y2zrkkVOQ0uhH1RyfTtHUw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132975_english_hls_3c605e59b816137ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -398,18 +400,6 @@
             "startTime": "03:45:00 PM 21-08-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Tirupati Raiders vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133732_5591_TR_KK_fc-Web.jpg",
-            "team_1": "Tirupati Raiders",
-            "team_2": "Kakinada Kraken",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Tirupati Raiders vs Kakinada Kraken",
-            "match_id": 133732,
-            "startTime": "05:30:00 PM 21-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Northern Territory Strike vs Perth Scorchers Academy (Top End T20 Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133526_5574_NTS_PSA_fc-web.jpg",
@@ -420,6 +410,18 @@
             "match_name": "Northern Territory Strike vs Perth Scorchers Academy",
             "match_id": 133526,
             "startTime": "09:00:00 AM 22-08-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Tirupati Raiders vs Kakinada Kraken (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133732_5591_TR_KK_fc-Web.jpg",
+            "team_1": "Tirupati Raiders",
+            "team_2": "Kakinada Kraken",
+            "status": "UPCOMING",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Tirupati Raiders vs Kakinada Kraken",
+            "match_id": 133732,
+            "startTime": "05:30:00 PM 21-08-2025"
         },
         {
             "event_category": "Cricket",
