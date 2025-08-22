@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:02:00 AM 22-08-2025",
+    "last update time": "10:12:13 AM 22-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "04:30:00 AM 21-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/b7sZrkOCQ4ifoSxQvTBPmw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133235_english_hls_ba3b3d673331519ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Melbourne Renegades Academy vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133525_5574_MRA_ASA_fc-web.jpg",
-            "team_1": "Melbourne Renegades Academy",
-            "team_2": "Adelaide Strikers Academy",
-            "status": "LIVE",
-            "event_name": "Top End T20 Series, 2025",
-            "match_name": "Melbourne Renegades Academy vs Adelaide Strikers Academy",
-            "match_id": 133525,
-            "startTime": "07:00:00 AM 22-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/5BP9Ja8xSa-Mtq8utxx7mQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133525_english_hls_1aea1184ac18145ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -56,8 +42,8 @@
             "match_name": "Amaravati Crushers vs Vizianagaram Ninjas",
             "match_id": 133733,
             "startTime": "10:15:00 AM 22-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/lQ4CKSBnRPWx1tHeJWJqXA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133733_english_hls_d8c89da51e17303ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live events",
@@ -468,6 +454,18 @@
             "match_name": "Chicago Kingsmen vs Hobart Hurricanes Academy",
             "match_id": 133528,
             "startTime": "07:00:00 AM 23-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Legan\u00e9s vs C\u00e1diz (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Legan\u00e9s",
+            "team_2": "C\u00e1diz",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Legan\u00e9s vs C\u00e1diz",
+            "match_id": 134943,
+            "startTime": "01:00:00 AM 23-08-2025"
         }
     ]
 }
