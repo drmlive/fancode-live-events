@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:23:25 PM 23-08-2025",
+    "last update time": "12:33:38 PM 23-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Yalla Shabab Giants vs Muscat Thunders",
             "match_id": 133687,
             "startTime": "12:30:00 PM 23-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/5QYg9RWAQbi3viRWlcfSXw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133687_english_hls_6c1dce2ac167258ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Kabaddi",
@@ -58,6 +58,20 @@
             "startTime": "12:10:00 PM 23-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Fqg0Xi9uTquO0s4IOSBuMA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119163_english_hls_6b5f77b97925659ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying 1 vs Germany (DTM Sachsenring)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
+            "team_1": "Qualifying 1",
+            "team_2": "Germany",
+            "status": "LIVE",
+            "event_name": "DTM Sachsenring",
+            "match_name": "Qualifying 1",
+            "match_id": 134993,
+            "startTime": "12:40:00 PM 23-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ny-gXGUHRXeN-2Zix1xCSQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134993_english_hls_06944686d962460ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -157,6 +171,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Northern Superchargers vs Oval Invincibles (The Hundred, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132246_5505_NOS_OVI_fc-web.jpg",
+            "team_1": "Northern Superchargers",
+            "team_2": "Oval Invincibles",
+            "status": "UPCOMING",
+            "event_name": "The Hundred, 2025",
+            "match_name": "Northern Superchargers vs Oval Invincibles",
+            "match_id": 135839,
+            "startTime": "07:00:00 PM 23-08-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Bengaluru Blasters vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132810_5530_BB_GMY_fc-Web_1755374793029.jpg",
             "team_1": "Bengaluru Blasters",
@@ -166,6 +192,18 @@
             "match_name": "Bengaluru Blasters vs Gulbarga Mystics",
             "match_id": 132810,
             "startTime": "07:15:00 PM 23-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "London Spirit vs Southern Brave (The Hundred, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
+            "team_1": "London Spirit",
+            "team_2": "Southern Brave",
+            "status": "UPCOMING",
+            "event_name": "The Hundred, 2025",
+            "match_name": "London Spirit vs Southern Brave",
+            "match_id": 135840,
+            "startTime": "10:30:00 PM 23-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -190,30 +228,6 @@
             "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
             "match_id": 132355,
             "startTime": "04:30:00 AM 24-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Northern Superchargers vs Oval Invincibles (The Hundred, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132246_5505_NOS_OVI_fc-web.jpg",
-            "team_1": "Northern Superchargers",
-            "team_2": "Oval Invincibles",
-            "status": "UPCOMING",
-            "event_name": "The Hundred, 2025",
-            "match_name": "Northern Superchargers vs Oval Invincibles",
-            "match_id": 135839,
-            "startTime": "07:00:00 PM 23-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "London Spirit vs Southern Brave (The Hundred, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132247_5505_LNS_SOB_fc-web.jpg",
-            "team_1": "London Spirit",
-            "team_2": "Southern Brave",
-            "status": "UPCOMING",
-            "event_name": "The Hundred, 2025",
-            "match_name": "London Spirit vs Southern Brave",
-            "match_id": 135840,
-            "startTime": "10:30:00 PM 23-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -454,18 +468,6 @@
             "match_name": "Real Zaragoza vs FC Andorra",
             "match_id": 134944,
             "startTime": "01:00:00 AM 24-08-2025"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Qualifying 1 vs Germany (DTM Sachsenring)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1755600452483.jpg",
-            "team_1": "Qualifying 1",
-            "team_2": "Germany",
-            "status": "UPCOMING",
-            "event_name": "DTM Sachsenring",
-            "match_name": "Qualifying 1",
-            "match_id": 134993,
-            "startTime": "12:40:00 PM 23-08-2025"
         }
     ]
 }
