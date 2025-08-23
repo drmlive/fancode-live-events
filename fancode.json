@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:57:28 AM 24-08-2025",
+    "last update time": "04:07:37 AM 24-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Saint Lucia Kings",
+            "status": "LIVE",
+            "event_name": "Caribbean Premier League, 2025",
+            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
+            "match_id": 132355,
+            "startTime": "04:30:00 AM 24-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/wplS0q8jTuycMlyxKSuhPQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132355_english_hls_e482cd6c6692504ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Golf",
             "title": "World Feed - Day 3 vs East Lake Golf Course (Tour Championship)",
@@ -44,20 +58,6 @@
             "startTime": "01:40:00 AM 24-08-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Saint Lucia Kings",
-            "status": "LIVE",
-            "event_name": "Caribbean Premier League, 2025",
-            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
-            "match_id": 132355,
-            "startTime": "04:30:00 AM 24-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/wplS0q8jTuycMlyxKSuhPQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132355_english_hls_e482cd6c6692504ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -384,18 +384,6 @@
             "startTime": "04:30:00 AM 25-08-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Kurnool Knights vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133724_5591_VN_KKK_fc-Web.jpg",
-            "team_1": "Kurnool Knights",
-            "team_2": "Vizianagaram Ninjas",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Kurnool Knights vs Vizianagaram Ninjas",
-            "match_id": 133741,
-            "startTime": "10:15:00 AM 24-08-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Real Sociedad vs Espanyol (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-vs-RCD-Espanyol_Old_match-card.jpg",
@@ -418,6 +406,18 @@
             "match_name": "Villarreal vs Girona",
             "match_id": 130841,
             "startTime": "11:00:00 PM 24-08-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Kurnool Knights vs Vizianagaram Ninjas (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133724_5591_VN_KKK_fc-Web.jpg",
+            "team_1": "Kurnool Knights",
+            "team_2": "Vizianagaram Ninjas",
+            "status": "UPCOMING",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Kurnool Knights vs Vizianagaram Ninjas",
+            "match_id": 133741,
+            "startTime": "10:15:00 AM 24-08-2025"
         },
         {
             "event_category": "Kabaddi",
