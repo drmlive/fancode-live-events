@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:34:41 AM 24-08-2025",
+    "last update time": "12:44:53 AM 24-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "10:30:00 PM 23-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756011753~acl=/*~id=19365123790319802203408696048138~hmac=8072009473d03148186fdd1e3c724d79bb4d89d3a13001d188f6271a36080f8f"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Royal Oman Stallions vs Majees Titans (Oman D20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133689_5590_ROS_MAT_fc-Web.jpg",
-            "team_1": "Royal Oman Stallions",
-            "team_2": "Majees Titans",
-            "status": "LIVE",
-            "event_name": "Oman D20 League, 2025",
-            "match_name": "Royal Oman Stallions vs Majees Titans",
-            "match_id": 133689,
-            "startTime": "09:00:00 PM 23-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/lpcXE0-nTJyKc143guszHQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133689_english_hls_d5ece8af9656119ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -321,11 +307,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
             "team_1": "Real Zaragoza",
             "team_2": "FC Andorra",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA Hypermotion 2025-26",
             "match_name": "Real Zaragoza vs FC Andorra",
             "match_id": 134944,
-            "startTime": "01:00:00 AM 24-08-2025"
+            "startTime": "01:00:00 AM 24-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LTYhJZlHTdirAjNEVMMvDA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -482,6 +470,18 @@
             "match_name": "Kurnool Knights vs Vizianagaram Ninjas",
             "match_id": 133741,
             "startTime": "10:15:00 AM 24-08-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133714_5591_VC_AC_fc-Web.jpg",
+            "team_1": "Amaravati Crushers",
+            "team_2": "Vizag Commandos",
+            "status": "UPCOMING",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Amaravati Crushers vs Vizag Commandos",
+            "match_id": 133742,
+            "startTime": "11:45:00 AM 24-08-2025"
         }
     ]
 }
