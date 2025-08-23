@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:44:53 AM 24-08-2025",
+    "last update time": "12:55:02 AM 24-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -58,6 +58,20 @@
             "startTime": "01:00:00 AM 24-08-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+            "team_1": "Real Zaragoza",
+            "team_2": "FC Andorra",
+            "status": "LIVE",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Zaragoza vs FC Andorra",
+            "match_id": 134944,
+            "startTime": "01:00:00 AM 24-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LTYhJZlHTdirAjNEVMMvDA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -302,20 +316,6 @@
             "startTime": "08:30:00 PM 24-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-            "team_1": "Real Zaragoza",
-            "team_2": "FC Andorra",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Zaragoza vs FC Andorra",
-            "match_id": 134944,
-            "startTime": "01:00:00 AM 24-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LTYhJZlHTdirAjNEVMMvDA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134944_english_hls_e988465b5488941ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Pakistan Shaheens vs Perth Scorchers Academy (Top End T20 Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -472,16 +472,16 @@
             "startTime": "10:15:00 AM 24-08-2025"
         },
         {
-            "event_category": "Kabaddi",
-            "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133714_5591_VC_AC_fc-Web.jpg",
-            "team_1": "Amaravati Crushers",
-            "team_2": "Vizag Commandos",
+            "event_category": "Football",
+            "title": "Osasuna vs Valencia (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Osasuna-vs-Valencia_Old_match-card.jpg",
+            "team_1": "Osasuna",
+            "team_2": "Valencia",
             "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Amaravati Crushers vs Vizag Commandos",
-            "match_id": 133742,
-            "startTime": "11:45:00 AM 24-08-2025"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Osasuna vs Valencia",
+            "match_id": 130844,
+            "startTime": "08:30:00 PM 24-08-2025"
         }
     ]
 }
