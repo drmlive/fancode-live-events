@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:27:01 AM 24-08-2025",
+    "last update time": "03:37:09 AM 24-08-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 3 vs East Lake Golf Course (Tour Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tour_Championship_Old_match_card_1.jpg",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "East Lake Golf Course",
-            "status": "LIVE",
-            "event_name": "Tour Championship",
-            "match_name": "Main Feed - Day 3",
-            "match_id": 134084,
-            "startTime": "09:45:00 PM 23-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/NOFUb8GwTV6f8KIeGpEcvg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134084_english_hls_13169ed34553946ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Marquee Group - Day 3 vs East Lake Golf Course (Tour Championship)",
@@ -88,18 +74,16 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132879_english_hls_b5e61ba78747153ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Levante vs Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Levante-vs-FC-Barcelona_Old_match-card.jpg",
-            "team_1": "Levante",
-            "team_2": "Barcelona",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Levante vs Barcelona",
-            "match_id": 130847,
-            "startTime": "01:00:00 AM 24-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130847_english_hls_0ef8c162e346480adfreeta-di_h264/index.m3u8"
+            "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Trinbago Knight Riders",
+            "status": "UPCOMING",
+            "event_name": "Caribbean Premier League, 2025",
+            "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
+            "match_id": 132355,
+            "startTime": "04:30:00 AM 24-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -112,18 +96,6 @@
             "match_name": "India A Women vs Australia A Women",
             "match_id": 133235,
             "startTime": "04:30:00 AM 21-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Saint Lucia Kings vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
-            "team_1": "Saint Lucia Kings",
-            "team_2": "Trinbago Knight Riders",
-            "status": "UPCOMING",
-            "event_name": "Caribbean Premier League, 2025",
-            "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
-            "match_id": 132355,
-            "startTime": "04:30:00 AM 24-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -438,6 +410,18 @@
             "startTime": "10:15:00 AM 24-08-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Barbados Royals (Caribbean Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132357_5512_SLK_BR_fc-web.jpg",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Barbados Royals",
+            "status": "UPCOMING",
+            "event_name": "Caribbean Premier League, 2025",
+            "match_name": "Saint Lucia Kings vs Barbados Royals",
+            "match_id": 132357,
+            "startTime": "04:30:00 AM 25-08-2025"
+        },
+        {
             "event_category": "Kabaddi",
             "title": "Amaravati Crushers vs Vizag Commandos (Yuva Andhra Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133714_5591_VC_AC_fc-Web.jpg",
@@ -472,6 +456,18 @@
             "match_name": "Villarreal vs Girona",
             "match_id": 130841,
             "startTime": "11:00:00 PM 24-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Tokyo vs Kyoto Sanga (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132084_CASACARDS_APP.png",
+            "team_1": "FC Tokyo",
+            "team_2": "Kyoto Sanga",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "FC Tokyo vs Kyoto Sanga",
+            "match_id": 132084,
+            "startTime": "03:30:00 PM 24-08-2025"
         }
     ]
 }
