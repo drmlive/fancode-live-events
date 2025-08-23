@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:29:36 PM 23-08-2025",
+    "last update time": "07:49:53 PM 23-08-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -43,7 +43,7 @@
             "match_id": 132281,
             "startTime": "07:00:00 PM 23-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8"
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1756001385~acl=/*~id=50606752287474811628271852927352~hmac=22d5544320bb61a3c220602dfcfbabf75a9da7c70c0f51970f88e8969486e629"
         },
         {
             "event_category": "Cricket",
@@ -71,7 +71,7 @@
             "match_id": 135839,
             "startTime": "07:00:00 PM 23-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?{\"error\":\"cookie not found\"}"
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756001385~acl=/*~id=50606752287474811628271852927352~hmac=22d5544320bb61a3c220602dfcfbabf75a9da7c70c0f51970f88e8969486e629"
         },
         {
             "event_category": "Cricket",
@@ -391,30 +391,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Top End T20 Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Top End T20 Series, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 133533,
-            "startTime": "12:00:00 PM 24-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Northern Suburbs vs Valley (KFC T20 Max, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_Fc-Web_1755807575963.jpg",
-            "team_1": "Northern Suburbs",
-            "team_2": "Valley",
-            "status": "UPCOMING",
-            "event_name": "KFC T20 Max, 2025",
-            "match_name": "Northern Suburbs vs Valley",
-            "match_id": 134891,
-            "startTime": "12:00:00 PM 24-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Manchester Originals Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132283_5506_MNR-W_BPH-W_Fc-Web.jpg",
             "team_1": "Manchester Originals Women",
@@ -436,6 +412,30 @@
             "match_name": "Welsh Fire vs Trent Rockets",
             "match_id": 132248,
             "startTime": "07:00:00 PM 24-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Top End T20 Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Top End T20 Series, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 133533,
+            "startTime": "12:00:00 PM 24-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Northern Suburbs vs Valley (KFC T20 Max, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_Fc-Web_1755807575963.jpg",
+            "team_1": "Northern Suburbs",
+            "team_2": "Valley",
+            "status": "UPCOMING",
+            "event_name": "KFC T20 Max, 2025",
+            "match_name": "Northern Suburbs vs Valley",
+            "match_id": 134891,
+            "startTime": "12:00:00 PM 24-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -462,18 +462,6 @@
             "startTime": "02:30:00 PM 24-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-            "team_1": "Real Zaragoza",
-            "team_2": "FC Andorra",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Zaragoza vs FC Andorra",
-            "match_id": 134944,
-            "startTime": "01:00:00 AM 24-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots (Caribbean Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132356_5512_ABF_SKN_fc-web.jpg",
@@ -484,6 +472,18 @@
             "match_name": "Antigua & Barbuda Falcons vs St Kitts and Nevis Patriots",
             "match_id": 132356,
             "startTime": "08:30:00 PM 24-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+            "team_1": "Real Zaragoza",
+            "team_2": "FC Andorra",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Zaragoza vs FC Andorra",
+            "match_id": 134944,
+            "startTime": "01:00:00 AM 24-08-2025"
         }
     ]
 }
