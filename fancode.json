@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:58:55 PM 23-08-2025",
+    "last update time": "07:09:11 PM 23-08-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -70,8 +70,22 @@
             "match_name": "Northern Superchargers vs Oval Invincibles",
             "match_id": 135839,
             "startTime": "07:00:00 PM 23-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?{\"error\":\"cookie not found\"}"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bengaluru Blasters vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132810_5530_BB_GMY_fc-Web_1755374793029.jpg",
+            "team_1": "Bengaluru Blasters",
+            "team_2": "Gulbarga Mystics",
+            "status": "LIVE",
+            "event_name": "Maharaja T20 Trophy, 2025",
+            "match_name": "Bengaluru Blasters vs Gulbarga Mystics",
+            "match_id": 132810,
+            "startTime": "07:15:00 PM 23-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/NX8kwBemRLquJGAibLVEVA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132810_english_hls_da5a863a4485513ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -116,18 +130,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132784_english_hls_6836e85d787762ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Charlton Athletic vs Leicester City (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
-            "team_1": "Charlton Athletic",
-            "team_2": "Leicester City",
+            "event_category": "Cricket",
+            "title": "Netherlands Women vs Germany Women (ICC Women\u2019s T20 WC Europe Qualifier Division 1)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133752_5592_ND-W_GER-W_fc-web.jpg",
+            "team_1": "Netherlands Women",
+            "team_2": "Germany Women",
             "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Charlton Athletic vs Leicester City",
-            "match_id": 131995,
-            "startTime": "05:00:00 PM 23-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/sZdi1KucTTe0Q7eAlObvIQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131995_english_hls_a3d435f86c65781ta-di_h264/index.m3u8"
+            "event_name": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
+            "match_name": "Netherlands Women vs Germany Women",
+            "match_id": 133752,
+            "startTime": "07:15:00 PM 23-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/jQMLqA-TQS-4juqjUeB0ow/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133752_english_hls_eb41a2213c24980ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -144,16 +158,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133911_english_hls_76fe12e9f260993ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Bengaluru Blasters vs Gulbarga Mystics (Maharaja T20 Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132810_5530_BB_GMY_fc-Web_1755374793029.jpg",
-            "team_1": "Bengaluru Blasters",
-            "team_2": "Gulbarga Mystics",
-            "status": "UPCOMING",
-            "event_name": "Maharaja T20 Trophy, 2025",
-            "match_name": "Bengaluru Blasters vs Gulbarga Mystics",
-            "match_id": 132810,
-            "startTime": "07:15:00 PM 23-08-2025"
+            "event_category": "Football",
+            "title": "Charlton Athletic vs Leicester City (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
+            "team_1": "Charlton Athletic",
+            "team_2": "Leicester City",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Charlton Athletic vs Leicester City",
+            "match_id": 131995,
+            "startTime": "05:00:00 PM 23-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/sZdi1KucTTe0Q7eAlObvIQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131995_english_hls_a3d435f86c65781ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -190,18 +206,6 @@
             "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
             "match_id": 132355,
             "startTime": "04:30:00 AM 24-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Netherlands Women vs Germany Women (ICC Women\u2019s T20 WC Europe Qualifier Division 1)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133752_5592_ND-W_GER-W_fc-web.jpg",
-            "team_1": "Netherlands Women",
-            "team_2": "Germany Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women\u2019s T20 WC Europe Qualifier Division 1",
-            "match_name": "Netherlands Women vs Germany Women",
-            "match_id": 133752,
-            "startTime": "07:15:00 PM 23-08-2025"
         },
         {
             "event_category": "Football",
@@ -444,18 +448,6 @@
             "startTime": "07:15:00 PM 24-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
-            "team_1": "Real Zaragoza",
-            "team_2": "FC Andorra",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Zaragoza vs FC Andorra",
-            "match_id": 134944,
-            "startTime": "01:00:00 AM 24-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Germany Women vs Ireland Women (ICC Women\u2019s T20 WC Europe Qualifier Division 1)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133753_5592_GER-W_IR-W_fc-web.jpg",
@@ -466,6 +458,18 @@
             "match_name": "Germany Women vs Ireland Women",
             "match_id": 133753,
             "startTime": "02:30:00 PM 24-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Zaragoza vs FC Andorra (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134944_5572_RZ_AND_fc-Web.jpg",
+            "team_1": "Real Zaragoza",
+            "team_2": "FC Andorra",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Zaragoza vs FC Andorra",
+            "match_id": 134944,
+            "startTime": "01:00:00 AM 24-08-2025"
         },
         {
             "event_category": "Cricket",
