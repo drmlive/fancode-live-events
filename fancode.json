@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:49:30 AM 23-08-2025",
+    "last update time": "06:59:38 AM 23-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "07:00:00 AM 23-08-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133528_english_hls_2677102b426078adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133528_english_hls_2677102b426078adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Diego Padres vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132877_CASACARDS_APP.png",
+            "team_1": "San Diego Padres",
+            "team_2": "Los Angeles Dodgers",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Diego Padres vs Los Angeles Dodgers",
+            "match_id": 132877,
+            "startTime": "07:10:00 AM 23-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132877_english_hls_7b9259466639652ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132877_english_hls_7b9259466639652ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -203,6 +217,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Trinbago Knight Riders",
+            "status": "UPCOMING",
+            "event_name": "Caribbean Premier League, 2025",
+            "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
+            "match_id": 132355,
+            "startTime": "04:30:00 AM 24-08-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Bangladesh A vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133530_5574_BN-A_ASA_fc-web.jpg",
             "team_1": "Bangladesh A",
@@ -224,18 +250,6 @@
             "match_name": "Ireland Women vs Italy Women",
             "match_id": 133751,
             "startTime": "02:30:00 PM 23-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Saint Lucia Kings vs Trinbago Knight Riders (Caribbean Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
-            "team_1": "Saint Lucia Kings",
-            "team_2": "Trinbago Knight Riders",
-            "status": "UPCOMING",
-            "event_name": "Caribbean Premier League, 2025",
-            "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
-            "match_id": 132355,
-            "startTime": "04:30:00 AM 24-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -452,18 +466,6 @@
             "match_name": "Tirupati Raiders vs Vizianagaram Ninjas",
             "match_id": 133740,
             "startTime": "05:30:00 PM 23-08-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "San Diego Padres vs Los Angeles Dodgers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132877_CASACARDS_APP.png",
-            "team_1": "San Diego Padres",
-            "team_2": "Los Angeles Dodgers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "San Diego Padres vs Los Angeles Dodgers",
-            "match_id": 132877,
-            "startTime": "07:10:00 AM 23-08-2025"
         }
     ]
 }
