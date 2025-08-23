@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:09:11 PM 23-08-2025",
+    "last update time": "07:19:18 PM 23-08-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -144,6 +144,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133752_english_hls_eb41a2213c24980ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Norwich City vs Middlesbrough (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
+            "team_1": "Norwich City",
+            "team_2": "Middlesbrough",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Norwich City vs Middlesbrough",
+            "match_id": 131997,
+            "startTime": "07:30:00 PM 23-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/FmZjuQKuQjW-LyLJOMwi_Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131997_english_hls_c8b9fdb08512172ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3 vs The Belfry, Sutton Coldfield (Betfred British Masters 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Betfred-British-Masters_old.jpg",
@@ -156,20 +170,6 @@
             "startTime": "05:00:00 PM 23-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/PxS1AydpSX2iiCosZWWTpQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133911_english_hls_76fe12e9f260993ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Charlton Athletic vs Leicester City (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131995_5489_CHL_LEI_fc-web.jpg",
-            "team_1": "Charlton Athletic",
-            "team_2": "Leicester City",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Charlton Athletic vs Leicester City",
-            "match_id": 131995,
-            "startTime": "05:00:00 PM 23-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/sZdi1KucTTe0Q7eAlObvIQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131995_english_hls_a3d435f86c65781ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -206,18 +206,6 @@
             "match_name": "Saint Lucia Kings vs Trinbago Knight Riders",
             "match_id": 132355,
             "startTime": "04:30:00 AM 24-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Norwich City vs Middlesbrough (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131997_5489_NOR_MIDD_fc-web.jpg",
-            "team_1": "Norwich City",
-            "team_2": "Middlesbrough",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Norwich City vs Middlesbrough",
-            "match_id": 131997,
-            "startTime": "07:30:00 PM 23-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -377,6 +365,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Kochi Blue Tigers vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133883_5600_KBT_AKS_fc-Web_1755771731265.jpg",
+            "team_1": "Kochi Blue Tigers",
+            "team_2": "Aries Kollam Sailors",
+            "status": "UPCOMING",
+            "event_name": "Kerala Cricket League, 2025",
+            "match_name": "Kochi Blue Tigers vs Aries Kollam Sailors",
+            "match_id": 133883,
+            "startTime": "06:45:00 PM 24-08-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "TBC vs TBC (Top End T20 Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "TBC",
@@ -398,18 +398,6 @@
             "match_name": "Northern Suburbs vs Valley",
             "match_id": 134891,
             "startTime": "12:00:00 PM 24-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kochi Blue Tigers vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133883_5600_KBT_AKS_fc-Web_1755771731265.jpg",
-            "team_1": "Kochi Blue Tigers",
-            "team_2": "Aries Kollam Sailors",
-            "status": "UPCOMING",
-            "event_name": "Kerala Cricket League, 2025",
-            "match_name": "Kochi Blue Tigers vs Aries Kollam Sailors",
-            "match_id": 133883,
-            "startTime": "06:45:00 PM 24-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -481,6 +469,18 @@
             "event_name": "ICC CWC Challenge League A, 2024-26",
             "match_name": "Papua New Guinea vs Kuwait",
             "match_id": 133790,
+            "startTime": "03:30:00 PM 24-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Qatar vs Kenya (ICC CWC Challenge League A, 2024-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133789_4464_QAT_KEN_fc-Web.jpg",
+            "team_1": "Qatar",
+            "team_2": "Kenya",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC Challenge League A, 2024-26",
+            "match_name": "Qatar vs Kenya",
+            "match_id": 133789,
             "startTime": "03:30:00 PM 24-08-2025"
         }
     ]
