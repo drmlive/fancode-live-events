@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:18:06 PM 24-08-2025",
+    "last update time": "09:28:18 PM 24-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -224,8 +224,8 @@
             "match_name": "World Feed - Day 4",
             "match_id": 134090,
             "startTime": "09:30:00 PM 24-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/rWjqH5FQSH6fz7xaHTPLkA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134090_english_hls_ee73d18bbf2711ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -240,6 +240,20 @@
             "startTime": "09:30:00 PM 24-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/sFQzEB2eTZyLUnPt_CEB_w/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134089_english_hls_41fb7e989a46754ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Pittsburgh Pirates vs Colorado Rockies (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132881_CASACARDS_APP.png",
+            "team_1": "Pittsburgh Pirates",
+            "team_2": "Colorado Rockies",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Pittsburgh Pirates vs Colorado Rockies",
+            "match_id": 132881,
+            "startTime": "09:35:00 PM 24-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132881_english_hls_8f74eea96835792ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132881_english_hls_8f74eea96835792ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -315,6 +329,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Alleppey Ripples vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133885_5600_AP_TR_fc-Web_1755771731354.jpg",
+            "team_1": "Alleppey Ripples",
+            "team_2": "Adani Trivandrum Royals",
+            "status": "UPCOMING",
+            "event_name": "Kerala Cricket League, 2025",
+            "match_name": "Alleppey Ripples vs Adani Trivandrum Royals",
+            "match_id": 133885,
+            "startTime": "06:45:00 PM 25-08-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "MI Emirates Development vs Gulf Giants Development (DP World ILT20 Development Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/135797_5636_MED_GGD_fc-web.jpg",
             "team_1": "MI Emirates Development",
@@ -339,15 +365,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Alleppey Ripples vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133885_5600_AP_TR_fc-Web_1755771731354.jpg",
-            "team_1": "Alleppey Ripples",
-            "team_2": "Adani Trivandrum Royals",
+            "title": "Purani Delhi 6 vs Central Delhi Kings (Delhi Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
+            "team_1": "Purani Delhi 6",
+            "team_2": "Central Delhi Kings",
             "status": "UPCOMING",
-            "event_name": "Kerala Cricket League, 2025",
-            "match_name": "Alleppey Ripples vs Adani Trivandrum Royals",
-            "match_id": 133885,
-            "startTime": "06:45:00 PM 25-08-2025"
+            "event_name": "Delhi Premier League, 2025",
+            "match_name": "Purani Delhi 6 vs Central Delhi Kings",
+            "match_id": 132498,
+            "startTime": "07:00:00 PM 25-08-2025"
         },
         {
             "event_category": "Football",
@@ -372,18 +398,6 @@
             "match_name": "Villarreal vs Girona",
             "match_id": 130841,
             "startTime": "11:00:00 PM 24-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Purani Delhi 6 vs Central Delhi Kings (Delhi Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132498_5521_PD_CDK_fc-Web.jpg",
-            "team_1": "Purani Delhi 6",
-            "team_2": "Central Delhi Kings",
-            "status": "UPCOMING",
-            "event_name": "Delhi Premier League, 2025",
-            "match_name": "Purani Delhi 6 vs Central Delhi Kings",
-            "match_id": 132498,
-            "startTime": "07:00:00 PM 25-08-2025"
         },
         {
             "event_category": "Football",
@@ -470,28 +484,16 @@
             "startTime": "10:15:00 AM 25-08-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Pittsburgh Pirates vs Colorado Rockies (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132881_CASACARDS_APP.png",
-            "team_1": "Pittsburgh Pirates",
-            "team_2": "Colorado Rockies",
+            "event_category": "Cricket",
+            "title": "Oval Invincibles vs London Spirit (The Hundred, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132250_5505_OVI_LNS_fc-web.jpg",
+            "team_1": "Oval Invincibles",
+            "team_2": "London Spirit",
             "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Pittsburgh Pirates vs Colorado Rockies",
-            "match_id": 132881,
-            "startTime": "09:35:00 PM 24-08-2025"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Kurnool Knights vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133729_5591_AC_KKK_fc-Web.jpg",
-            "team_1": "Kurnool Knights",
-            "team_2": "Amaravati Crushers",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Kurnool Knights vs Amaravati Crushers",
-            "match_id": 133746,
-            "startTime": "11:45:00 AM 25-08-2025"
+            "event_name": "The Hundred, 2025",
+            "match_name": "Oval Invincibles vs London Spirit",
+            "match_id": 135842,
+            "startTime": "11:00:00 PM 25-08-2025"
         }
     ]
 }
