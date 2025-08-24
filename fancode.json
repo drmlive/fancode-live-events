@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:18:59 PM 24-08-2025",
+    "last update time": "03:29:12 PM 24-08-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -61,6 +61,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Trent Rockets Women vs Welsh Fire Women (The Hundred Women, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-Web.jpg",
+            "team_1": "Trent Rockets Women",
+            "team_2": "Welsh Fire Women",
+            "status": "LIVE",
+            "event_name": "The Hundred Women, 2025",
+            "match_name": "Trent Rockets Women vs Welsh Fire Women",
+            "match_id": 132282,
+            "startTime": "03:30:00 PM 24-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1756072748~acl=/*~id=72952718297905632040723603417391~hmac=349c0835c9ffd65f40e0fd24203defb8364a8495bdebc485046297d6a7c71fbf"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Perth Scorchers Academy vs Adelaide Strikers Academy (Top End T20 Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133514_5574_ASA_PSA_fc-web.jpg",
             "team_1": "Perth Scorchers Academy",
@@ -72,20 +86,6 @@
             "startTime": "12:00:00 PM 24-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/kUXj6wnRS-mxVa4-5vxMew/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133533_english_hls_b06b42aff446814ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Valley vs Northern Suburbs (KFC T20 Max, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134891_5623_NSB_VLY_Fc-Web_1755807575963.jpg",
-            "team_1": "Valley",
-            "team_2": "Northern Suburbs",
-            "status": "LIVE",
-            "event_name": "KFC T20 Max, 2025",
-            "match_name": "Valley vs Northern Suburbs",
-            "match_id": 134891,
-            "startTime": "12:00:00 PM 24-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134891_english_hls_cbc425112294910ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134891_english_hls_cbc425112294910ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -144,16 +144,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132084_english_hls_d51cdb4f4990028ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Trent Rockets Women vs Welsh Fire Women (The Hundred Women, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132282_5506_WEF-W_TRT-W_Fc-Web.jpg",
-            "team_1": "Trent Rockets Women",
-            "team_2": "Welsh Fire Women",
-            "status": "UPCOMING",
-            "event_name": "The Hundred Women, 2025",
-            "match_name": "Trent Rockets Women vs Welsh Fire Women",
-            "match_id": 132282,
-            "startTime": "03:30:00 PM 24-08-2025"
+            "event_category": "Kabaddi",
+            "title": "Vizianagaram Ninjas vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg",
+            "team_1": "Vizianagaram Ninjas",
+            "team_2": "Amaravati Crushers",
+            "status": "LIVE",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Vizianagaram Ninjas vs Amaravati Crushers",
+            "match_id": 133743,
+            "startTime": "03:45:00 PM 24-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/w2yazq7GRgGPoEvv45ePVQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133743_english_hls_98170f12be97010ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -262,18 +264,6 @@
             "match_name": "Saint Lucia Kings vs Barbados Royals",
             "match_id": 132357,
             "startTime": "04:30:00 AM 25-08-2025"
-        },
-        {
-            "event_category": "Kabaddi",
-            "title": "Vizianagaram Ninjas vs Amaravati Crushers (Yuva Andhra Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133733_5591_AC_VN_fc-Web.jpg",
-            "team_1": "Vizianagaram Ninjas",
-            "team_2": "Amaravati Crushers",
-            "status": "UPCOMING",
-            "event_name": "Yuva Andhra Championship, 2025",
-            "match_name": "Vizianagaram Ninjas vs Amaravati Crushers",
-            "match_id": 133743,
-            "startTime": "03:45:00 PM 24-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -466,6 +456,18 @@
             "match_name": "Northern Suburbs vs Gold Coast",
             "match_id": 134892,
             "startTime": "01:30:00 PM 25-08-2025"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "Vizianagaram Ninjas vs Vizag Commandos (Yuva Andhra Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133730_5591_VC_VN_fc-Web.jpg",
+            "team_1": "Vizianagaram Ninjas",
+            "team_2": "Vizag Commandos",
+            "status": "UPCOMING",
+            "event_name": "Yuva Andhra Championship, 2025",
+            "match_name": "Vizianagaram Ninjas vs Vizag Commandos",
+            "match_id": 133745,
+            "startTime": "10:15:00 AM 25-08-2025"
         }
     ]
 }
