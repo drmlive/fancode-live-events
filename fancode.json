@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:15:49 PM 25-08-2025",
+    "last update time": "07:26:04 PM 25-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132284_5506_OVI-W_LNS-W_Fc-Web.jpg",
             "team_1": "Oval Invincibles Women",
             "team_2": "London Spirit Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "The Hundred Women, 2025",
             "match_name": "Oval Invincibles Women vs London Spirit Women",
             "match_id": 135903,
-            "startTime": "07:30:00 PM 25-08-2025"
+            "startTime": "07:30:00 PM 25-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1756173364~acl=/*~id=18149935705608120505856175541172~hmac=1a6c92766fd47d5d990c7097f2ca893e5b5398e9647fbae8e2de131d8dd56ed7"
         },
         {
             "event_category": "Cricket",
@@ -233,18 +235,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Valley vs Sandgate-Redcliffe (KFC T20 Max, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134894_5623_VLY_SGR_Fc-Web_1755807575969.jpg",
-            "team_1": "Valley",
-            "team_2": "Sandgate-Redcliffe",
-            "status": "UPCOMING",
-            "event_name": "KFC T20 Max, 2025",
-            "match_name": "Valley vs Sandgate-Redcliffe",
-            "match_id": 134894,
-            "startTime": "01:30:00 PM 26-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Northern Superchargers Women vs Manchester Originals Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132285_5506_NOS-W_MNR-W_Fc-Web.jpg",
             "team_1": "Northern Superchargers Women",
@@ -254,6 +244,18 @@
             "match_name": "Northern Superchargers Women vs Manchester Originals Women",
             "match_id": 132285,
             "startTime": "07:30:00 PM 26-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Valley vs Sandgate-Redcliffe (KFC T20 Max, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134894_5623_VLY_SGR_Fc-Web_1755807575969.jpg",
+            "team_1": "Valley",
+            "team_2": "Sandgate-Redcliffe",
+            "status": "UPCOMING",
+            "event_name": "KFC T20 Max, 2025",
+            "match_name": "Valley vs Sandgate-Redcliffe",
+            "match_id": 134894,
+            "startTime": "01:30:00 PM 26-08-2025"
         },
         {
             "event_category": "Cricket",
