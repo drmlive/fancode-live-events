@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:16:06 PM 26-08-2025",
+    "last update time": "07:26:13 PM 26-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132285_5506_NOS-W_MNR-W_Fc-Web.jpg",
             "team_1": "Manchester Originals Women",
             "team_2": "Northern Superchargers Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "The Hundred Women, 2025",
             "match_name": "Manchester Originals Women vs Northern Superchargers Women",
             "match_id": 135980,
-            "startTime": "07:30:00 PM 26-08-2025"
+            "startTime": "07:30:00 PM 26-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YFrT82nQRjyh8HlIPYbPfw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022319/DAI15WHUN/master.m3u8?hdnea=exp=1756259773~acl=/*~id=43486460387797288993793077041080~hmac=17aedcc3ce82c18f045a65c2abaf4d54b74096d3a0b0f6199662e4d641293186"
         },
         {
             "event_category": "Cricket",
@@ -319,18 +321,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Toombul vs Western Suburbs (KFC T20 Max, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Toombul",
-            "team_2": "Western Suburbs",
-            "status": "UPCOMING",
-            "event_name": "KFC T20 Max, 2025",
-            "match_name": "Toombul vs Western Suburbs",
-            "match_id": 134895,
-            "startTime": "01:30:00 PM 27-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Trent Rockets Women vs Birmingham Phoenix Women (The Hundred Women, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132286_5506_TRT-W_BPH-W_Fc-Web.jpg",
             "team_1": "Trent Rockets Women",
@@ -340,6 +330,18 @@
             "match_name": "Trent Rockets Women vs Birmingham Phoenix Women",
             "match_id": 132286,
             "startTime": "07:30:00 PM 27-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Toombul vs Western Suburbs (KFC T20 Max, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Toombul",
+            "team_2": "Western Suburbs",
+            "status": "UPCOMING",
+            "event_name": "KFC T20 Max, 2025",
+            "match_name": "Toombul vs Western Suburbs",
+            "match_id": 134895,
+            "startTime": "01:30:00 PM 27-08-2025"
         },
         {
             "event_category": "Cricket",
