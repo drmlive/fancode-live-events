@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:53:20 AM 27-08-2025",
+    "last update time": "04:03:30 AM 27-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132358_5512_SLK_GUY_fc-web.jpg",
             "team_1": "Saint Lucia Kings",
             "team_2": "Guyana Amazon Warriors",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Caribbean Premier League, 2025",
             "match_name": "Saint Lucia Kings vs Guyana Amazon Warriors",
             "match_id": 132358,
-            "startTime": "04:30:00 AM 27-08-2025"
+            "startTime": "04:30:00 AM 27-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/1fsKtr_YSye9Y-R6YOo7pQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132358_english_hls_00db99044721013ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -338,6 +340,18 @@
             "match_name": "Kochi Blue Tigers vs Adani Trivandrum Royals",
             "match_id": 133890,
             "startTime": "02:30:00 PM 28-08-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "The Dutch Futures vs Netherlands (The Dutch Futures)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+            "team_1": "The Dutch Futures",
+            "team_2": "Netherlands",
+            "status": "UPCOMING",
+            "event_name": "The Dutch Futures",
+            "match_name": "The Dutch Futures",
+            "match_id": 135852,
+            "startTime": "03:25:00 PM 27-08-2025"
         }
     ]
 }
