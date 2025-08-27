@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:53:07 PM 27-08-2025",
+    "last update time": "11:03:16 PM 27-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132252_5505_TRT_BPH_fc-web.jpg",
             "team_1": "Birmingham Phoenix",
             "team_2": "Trent Rockets",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "The Hundred, 2025",
             "match_name": "Birmingham Phoenix vs Trent Rockets",
             "match_id": 135844,
-            "startTime": "11:00:00 PM 27-08-2025"
+            "startTime": "11:00:00 PM 27-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756359196~acl=/*~id=94766703288827387951265405036619~hmac=3191783ef646ae67bf9a3e7c07443f4a5790c6d43a5b7d14137c9a4dcd7834db"
         },
         {
             "event_category": "Cricket",
@@ -56,20 +58,6 @@
             "startTime": "08:30:00 PM 27-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/LBGdEBx0R82JmZIapivspw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133759_english_hls_132e2230da88451ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Qatar vs Denmark (ICC CWC Challenge League A, 2024-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133793_4464_QAT_DEN_fc-Web.jpg",
-            "team_1": "Qatar",
-            "team_2": "Denmark",
-            "status": "LIVE",
-            "event_name": "ICC CWC Challenge League A, 2024-26",
-            "match_name": "Qatar vs Denmark",
-            "match_id": 133793,
-            "startTime": "03:30:00 PM 27-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/al78T4-fRVCglWi8J3QviA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133793_english_hls_97cfa9b04d10537ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -331,18 +319,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Royal Oman Stallions vs Yalla Shabab Giants (Oman D20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133696_5590_ROS_YSG_fc-Web.jpg",
-            "team_1": "Royal Oman Stallions",
-            "team_2": "Yalla Shabab Giants",
-            "status": "UPCOMING",
-            "event_name": "Oman D20 League, 2025",
-            "match_name": "Royal Oman Stallions vs Yalla Shabab Giants",
-            "match_id": 133696,
-            "startTime": "05:00:00 PM 28-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Southern Brave vs Welsh Fire (The Hundred, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132253_5505_SOB_WEF_fc-web.jpg",
             "team_1": "Southern Brave",
@@ -352,6 +328,18 @@
             "match_name": "Southern Brave vs Welsh Fire",
             "match_id": 135845,
             "startTime": "11:00:00 PM 28-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Royal Oman Stallions vs Yalla Shabab Giants (Oman D20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133696_5590_ROS_YSG_fc-Web.jpg",
+            "team_1": "Royal Oman Stallions",
+            "team_2": "Yalla Shabab Giants",
+            "status": "UPCOMING",
+            "event_name": "Oman D20 League, 2025",
+            "match_name": "Royal Oman Stallions vs Yalla Shabab Giants",
+            "match_id": 133696,
+            "startTime": "05:00:00 PM 28-08-2025"
         },
         {
             "event_category": "Cricket",
