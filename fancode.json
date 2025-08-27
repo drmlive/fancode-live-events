@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:14:12 AM 28-08-2025",
+    "last update time": "12:24:22 AM 28-08-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Grimsby Town vs Manchester United (Carabao Cup 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134968_5488_GR_MUN_fc-web.jpg",
+            "team_1": "Grimsby Town",
+            "team_2": "Manchester United",
+            "status": "LIVE",
+            "event_name": "Carabao Cup 2025-2026",
+            "match_name": "Grimsby Town vs Manchester United",
+            "match_id": 134968,
+            "startTime": "12:30:00 AM 28-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/SWp-2JPLS0eWdYczRFAnow/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134968_english_hls_91f803b36782787ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "SV Wehen Wiesbaden vs FC Bayern M\u00fcnchen (DFB Pokal 2025-26)",
@@ -30,18 +44,6 @@
             "startTime": "11:00:00 PM 27-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI08MENSHUN/master.m3u8?hdnea=exp=1756359196~acl=/*~id=94766703288827387951265405036619~hmac=3191783ef646ae67bf9a3e7c07443f4a5790c6d43a5b7d14137c9a4dcd7834db"
-        },
-        {
-            "event_category": "Football",
-            "title": "Grimsby Town vs Manchester United (Carabao Cup 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134968_5488_GR_MUN_fc-web.jpg",
-            "team_1": "Grimsby Town",
-            "team_2": "Manchester United",
-            "status": "UPCOMING",
-            "event_name": "Carabao Cup 2025-2026",
-            "match_name": "Grimsby Town vs Manchester United",
-            "match_id": 134968,
-            "startTime": "12:30:00 AM 28-08-2025"
         },
         {
             "event_category": "Football",
@@ -251,18 +253,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Dr Morepen Dazzlers vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Dr Morepen Dazzlers",
-            "team_2": "Capital Strikers",
-            "status": "UPCOMING",
-            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_name": "Dr Morepen Dazzlers vs Capital Strikers",
-            "match_id": 136208,
-            "startTime": "02:15:00 PM 28-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Southern Brave vs Welsh Fire (The Hundred, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132253_5505_SOB_WEF_fc-web.jpg",
             "team_1": "Southern Brave",
@@ -272,6 +262,18 @@
             "match_name": "Southern Brave vs Welsh Fire",
             "match_id": 135845,
             "startTime": "11:00:00 PM 28-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dr Morepen Dazzlers vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Dr Morepen Dazzlers",
+            "team_2": "Capital Strikers",
+            "status": "UPCOMING",
+            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+            "match_name": "Dr Morepen Dazzlers vs Capital Strikers",
+            "match_id": 136208,
+            "startTime": "02:15:00 PM 28-08-2025"
         },
         {
             "event_category": "Cricket",
