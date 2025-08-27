@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:26:32 AM 28-08-2025",
+    "last update time": "03:36:40 AM 28-08-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Canada vs Namibia (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133759_3908_CAN_NAM_fc-web_1755793966444.jpg",
-            "team_1": "Canada",
-            "team_2": "Namibia",
-            "status": "LIVE",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Canada vs Namibia",
-            "match_id": 133759,
-            "startTime": "08:30:00 PM 27-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LBGdEBx0R82JmZIapivspw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133759_english_hls_132e2230da88451ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Baseball",
             "title": "Seattle Mariners vs San Diego Padres (Major League Baseball, 2025)",
@@ -30,6 +16,20 @@
             "startTime": "01:40:00 AM 28-08-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132887_english_hls_2c81dc3f5535661ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Canada vs Namibia (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133759_3908_CAN_NAM_fc-web_1755793966444.jpg",
+            "team_1": "Canada",
+            "team_2": "Namibia",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "Canada vs Namibia",
+            "match_id": 133759,
+            "startTime": "08:30:00 PM 27-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LBGdEBx0R82JmZIapivspw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133759_english_hls_132e2230da88451ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -318,6 +318,18 @@
             "match_name": "Chandigarh Kings vs Talanoa Tigers",
             "match_id": 136209,
             "startTime": "10:00:00 AM 29-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Suburbs Women vs Valley Women (KFC Women's T20 Max, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
+            "team_1": "Western Suburbs Women",
+            "team_2": "Valley Women",
+            "status": "UPCOMING",
+            "event_name": "KFC Women's T20 Max, 2025",
+            "match_name": "Western Suburbs Women vs Valley Women",
+            "match_id": 135815,
+            "startTime": "10:30:00 AM 29-08-2025"
         }
     ]
 }
