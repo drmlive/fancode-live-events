@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:15:47 AM 27-08-2025",
+    "last update time": "07:25:59 AM 27-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -287,11 +287,13 @@
             "src": "https://images.fancode.com/aig/match/v1/132885_CASACARDS_APP.png",
             "team_1": "Los Angeles Dodgers",
             "team_2": "Cincinnati Reds",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Major League Baseball, 2025",
             "match_name": "Los Angeles Dodgers vs Cincinnati Reds",
             "match_id": 132885,
-            "startTime": "07:40:00 AM 27-08-2025"
+            "startTime": "07:40:00 AM 27-08-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -318,18 +320,6 @@
             "startTime": "10:35:00 PM 27-08-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Seattle Mariners vs San Diego Padres (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
-            "team_1": "Seattle Mariners",
-            "team_2": "San Diego Padres",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Seattle Mariners vs San Diego Padres",
-            "match_id": 132887,
-            "startTime": "01:40:00 AM 28-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Kochi Blue Tigers vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133890_5600_KBT_TR_fc-Web_1755771731227.jpg",
@@ -340,6 +330,18 @@
             "match_name": "Kochi Blue Tigers vs Adani Trivandrum Royals",
             "match_id": 133890,
             "startTime": "02:30:00 PM 28-08-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs San Diego Padres (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132887_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "San Diego Padres",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs San Diego Padres",
+            "match_id": 132887,
+            "startTime": "01:40:00 AM 28-08-2025"
         },
         {
             "event_category": "Cricket",
