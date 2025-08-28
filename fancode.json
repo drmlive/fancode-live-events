@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:41:17 AM 28-08-2025",
+    "last update time": "09:51:28 AM 28-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Altruistian vs Chandigarh Kings (Chandigarh Premier League T20 Tournament, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/136207_CASACARDS_APP.png",
+            "team_1": "Altruistian",
+            "team_2": "Chandigarh Kings",
+            "status": "LIVE",
+            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+            "match_name": "Altruistian vs Chandigarh Kings",
+            "match_id": 136207,
+            "startTime": "10:00:00 AM 28-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/FX5siArUT1mWzJGLc75anw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136207_english_hls_574928817b94826ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Baseball",
             "title": "Oakland Athletics vs Detroit Tigers (Major League Baseball, 2025)",
@@ -88,18 +102,6 @@
             "match_name": "Southern Brave vs Welsh Fire",
             "match_id": 135845,
             "startTime": "11:00:00 PM 28-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Altruistian vs Chandigarh Kings (Chandigarh Premier League T20 Tournament, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/136207_CASACARDS_APP.png",
-            "team_1": "Altruistian",
-            "team_2": "Chandigarh Kings",
-            "status": "UPCOMING",
-            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_name": "Altruistian vs Chandigarh Kings",
-            "match_id": 136207,
-            "startTime": "10:00:00 AM 28-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -234,18 +236,6 @@
             "startTime": "10:30:00 AM 29-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Damac vs Al-Hazem (Saudi Pro League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "Damac",
-            "team_2": "Al-Hazem",
-            "status": "UPCOMING",
-            "event_name": "Saudi Pro League 2025-2026",
-            "match_name": "Damac vs Al-Hazem",
-            "match_id": 136271,
-            "startTime": "09:35:00 PM 28-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Delhi Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -256,6 +246,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 132504,
             "startTime": "02:00:00 PM 29-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Damac vs Al-Hazem (Saudi Pro League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Damac",
+            "team_2": "Al-Hazem",
+            "status": "UPCOMING",
+            "event_name": "Saudi Pro League 2025-2026",
+            "match_name": "Damac vs Al-Hazem",
+            "match_id": 136271,
+            "startTime": "09:35:00 PM 28-08-2025"
         },
         {
             "event_category": "Football",
