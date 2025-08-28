@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:05:10 PM 28-08-2025",
+    "last update time": "02:25:37 PM 28-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Kochi Blue Tigers vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133890_5600_KBT_TR_fc-Web_1756275176751.jpg",
+            "team_1": "Kochi Blue Tigers",
+            "team_2": "Adani Trivandrum Royals",
+            "status": "LIVE",
+            "event_name": "Kerala Cricket League, 2025",
+            "match_name": "Kochi Blue Tigers vs Adani Trivandrum Royals",
+            "match_id": 133890,
+            "startTime": "02:30:00 PM 28-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/d7DZVmOpRQmPysTzLvkgcQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133890_english_hls_6a57cd7a3d63018ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Chandigarh Kings vs Altruistian (Chandigarh Premier League T20 Tournament, 2025)",
@@ -28,8 +42,8 @@
             "match_name": "Dr Morepen Dazzlers vs Capital Strikers",
             "match_id": 136208,
             "startTime": "02:15:00 PM 28-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/JGcXbby6Sua40SkBq1WE3Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136208_english_hls_8ff98f68db26014ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -44,18 +58,6 @@
             "startTime": "02:00:00 PM 28-08-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134899_english_hls_88bef0bf1c63714ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134899_english_hls_88bef0bf1c63714ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Kochi Blue Tigers vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133890_5600_KBT_TR_fc-Web_1756275176751.jpg",
-            "team_1": "Kochi Blue Tigers",
-            "team_2": "Adani Trivandrum Royals",
-            "status": "UPCOMING",
-            "event_name": "Kerala Cricket League, 2025",
-            "match_name": "Kochi Blue Tigers vs Adani Trivandrum Royals",
-            "match_id": 133890,
-            "startTime": "02:30:00 PM 28-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -274,18 +276,6 @@
             "startTime": "07:00:00 PM 29-08-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Golf Club Crans-sur-Sierre (Omega European Masters 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Omega_Old_match-card_2.jpg",
-            "team_1": "Day 1",
-            "team_2": "Golf Club Crans-sur-Sierre",
-            "status": "UPCOMING",
-            "event_name": "Omega European Masters 2025",
-            "match_name": "Day 1",
-            "match_id": 135821,
-            "startTime": "05:00:00 PM 28-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Muscat Thunders vs Renaissance Challengers (Oman D20 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133698_5590_MUT_RNC_fc-Web.jpg",
@@ -296,6 +286,30 @@
             "match_name": "Muscat Thunders vs Renaissance Challengers",
             "match_id": 133698,
             "startTime": "05:00:00 PM 29-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Scotland (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133760_3908_NAM_SCO_fc-web_1755793966432.jpg",
+            "team_1": "Namibia",
+            "team_2": "Scotland",
+            "status": "UPCOMING",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "Namibia vs Scotland",
+            "match_id": 133760,
+            "startTime": "08:00:00 PM 29-08-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Golf Club Crans-sur-Sierre (Omega European Masters 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Omega_Old_match-card_2.jpg",
+            "team_1": "Day 1",
+            "team_2": "Golf Club Crans-sur-Sierre",
+            "status": "UPCOMING",
+            "event_name": "Omega European Masters 2025",
+            "match_name": "Day 1",
+            "match_id": 135821,
+            "startTime": "05:00:00 PM 28-08-2025"
         },
         {
             "event_category": "Baseball",
@@ -311,15 +325,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia vs Scotland (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133760_3908_NAM_SCO_fc-web_1755793966432.jpg",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
+            "title": "Valley vs Western Suburbs (KFC T20 Max, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134901_5623_VLY_WSS_Fc-Web_1755807575978.jpg",
+            "team_1": "Valley",
+            "team_2": "Western Suburbs",
             "status": "UPCOMING",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Namibia vs Scotland",
-            "match_id": 133760,
-            "startTime": "08:00:00 PM 29-08-2025"
+            "event_name": "KFC T20 Max, 2025",
+            "match_name": "Valley vs Western Suburbs",
+            "match_id": 134901,
+            "startTime": "02:00:00 PM 29-08-2025"
         },
         {
             "event_category": "Baseball",
@@ -335,18 +349,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Valley vs Western Suburbs (KFC T20 Max, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134901_5623_VLY_WSS_Fc-Web_1755807575978.jpg",
-            "team_1": "Valley",
-            "team_2": "Western Suburbs",
-            "status": "UPCOMING",
-            "event_name": "KFC T20 Max, 2025",
-            "match_name": "Valley vs Western Suburbs",
-            "match_id": 134901,
-            "startTime": "02:00:00 PM 29-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Afghanistan vs Pakistan (Afghanistan and Pakistan tour of UAE, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Afghanistan",
@@ -356,6 +358,18 @@
             "match_name": "Afghanistan vs Pakistan",
             "match_id": 135784,
             "startTime": "08:30:00 PM 29-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/135804_5636_SWD_GGD_fc-web.jpg",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Gulf Giants Development",
+            "status": "UPCOMING",
+            "event_name": "DP World ILT20 Development Tournament, 2025",
+            "match_name": "Sharjah Warriorz Development vs Gulf Giants Development",
+            "match_id": 135804,
+            "startTime": "06:30:00 PM 29-08-2025"
         }
     ]
 }
