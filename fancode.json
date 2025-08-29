@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:05:08 PM 29-08-2025",
+    "last update time": "09:15:17 PM 29-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -18,20 +18,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136615_english_hls_488b7fa1b034240ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Practice 2 vs Netherlands (F1 HEINEKEN DUTCH GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
-            "team_1": "Practice 2",
-            "team_2": "Netherlands",
-            "status": "LIVE",
-            "event_name": "F1 HEINEKEN DUTCH GRAND PRIX 2025",
-            "match_name": "Practice 2",
-            "match_id": 118452,
-            "startTime": "07:30:00 PM 29-08-2025",
-            "dai_url": "https://d4h4uispb95h9.cloudfront.net/out/v1/5c005559deac428eb5e3963147ed5758/index.m3u8",
-            "adfree_url": "https://d4h4uispb95h9.cloudfront.net/out/v1/5c005559deac428eb5e3963147ed5758/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Zimbabwe (Sri Lanka tour of Zimbabwe, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-old-match-card_1756139254995.png",
@@ -44,6 +30,20 @@
             "startTime": "01:00:00 PM 29-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/coLUCm3iQ2KztVgG9Vrxpw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133665_english_hls_1f64ecae8b33591ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 2 vs Netherlands (F1 HEINEKEN DUTCH GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula-1-Heineken-Dutch-Grand-Prix-2025_match-card.jpg",
+            "team_1": "Practice 2",
+            "team_2": "Netherlands",
+            "status": "LIVE",
+            "event_name": "F1 HEINEKEN DUTCH GRAND PRIX 2025",
+            "match_name": "Practice 2",
+            "match_id": 118452,
+            "startTime": "07:30:00 PM 29-08-2025",
+            "dai_url": "https://d4h4uispb95h9.cloudfront.net/out/v1/5c005559deac428eb5e3963147ed5758/index.m3u8",
+            "adfree_url": "https://d4h4uispb95h9.cloudfront.net/out/v1/5c005559deac428eb5e3963147ed5758/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -425,18 +425,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Redlands vs Ipswich (KFC T20 Max, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134903_5623_RLS_IPS_Fc-Web_1755807575945.jpg",
-            "team_1": "Redlands",
-            "team_2": "Ipswich",
-            "status": "UPCOMING",
-            "event_name": "KFC T20 Max, 2025",
-            "match_name": "Redlands vs Ipswich",
-            "match_id": 134903,
-            "startTime": "08:45:00 AM 30-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies Under-19 vs Sri Lanka Under-19 (Sri Lanka Under-19 tour of West Indies, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Under-19-tour-of-West-Indies-2025-old-match-card.png",
             "team_1": "West Indies Under-19",
@@ -446,6 +434,18 @@
             "match_name": "West Indies Under-19 vs Sri Lanka Under-19",
             "match_id": 135981,
             "startTime": "07:00:00 PM 30-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Redlands vs Ipswich (KFC T20 Max, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134903_5623_RLS_IPS_Fc-Web_1755807575945.jpg",
+            "team_1": "Redlands",
+            "team_2": "Ipswich",
+            "status": "UPCOMING",
+            "event_name": "KFC T20 Max, 2025",
+            "match_name": "Redlands vs Ipswich",
+            "match_id": 134903,
+            "startTime": "08:45:00 AM 30-08-2025"
         },
         {
             "event_category": "Football",
