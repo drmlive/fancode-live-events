@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:12:51 PM 30-08-2025",
+    "last update time": "05:23:02 PM 30-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
             "team_1": "Netherlands",
             "team_2": "Bangladesh",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Netherlands tour of Bangladesh, 2025",
             "match_name": "Netherlands vs Bangladesh",
             "match_id": 135849,
-            "startTime": "05:30:00 PM 30-08-2025"
+            "startTime": "05:30:00 PM 30-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/CHpR7shoR7KXZkOG4MwQKA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135849_english_hls_26062c147728112ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Formula 1",
@@ -96,20 +98,6 @@
             "startTime": "05:00:00 PM 30-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/JeewrR2mTUuxW4KQBM2Qug/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131999_english_hls_8c9c72282369153ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Qualifying Session vs Zaandvoort (Porsche Mobil 1 Super Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Hungarian_GP__Match_card_MRF_Old_match-card.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Zaandvoort",
-            "status": "LIVE",
-            "event_name": "Porsche Mobil 1 Super Cup",
-            "match_name": "Qualifying Session",
-            "match_id": 132116,
-            "startTime": "04:30:00 PM 30-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132116_english_hls_3526f916b89418adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132116_english_hls_3526f916b89418adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -340,18 +328,6 @@
             "startTime": "10:00:00 AM 31-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Castell\u00f3n vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
-            "team_1": "Castell\u00f3n",
-            "team_2": "Real Zaragoza",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Castell\u00f3n vs Real Zaragoza",
-            "match_id": 135972,
-            "startTime": "01:00:00 AM 31-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Kenya Women vs Rwanda Women (ICC Women's T20 WC Africa Qualifier Division 1)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
@@ -374,6 +350,18 @@
             "match_name": "Nigeria Women vs Sierra Leone Women",
             "match_id": 133765,
             "startTime": "01:00:00 PM 31-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Castell\u00f3n vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
+            "team_1": "Castell\u00f3n",
+            "team_2": "Real Zaragoza",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Castell\u00f3n vs Real Zaragoza",
+            "match_id": 135972,
+            "startTime": "01:00:00 AM 31-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -458,6 +446,18 @@
             "match_name": "Canada vs Scotland",
             "match_id": 133761,
             "startTime": "08:00:00 PM 31-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Saint Lucia Kings vs Antigua & Barbuda Falcons (Caribbean Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Saint-Lucia-Kings-VS-Antigua-&-Barbuda-Falcons_old.jpg",
+            "team_1": "Saint Lucia Kings",
+            "team_2": "Antigua & Barbuda Falcons",
+            "status": "UPCOMING",
+            "event_name": "Caribbean Premier League, 2025",
+            "match_name": "Saint Lucia Kings vs Antigua & Barbuda Falcons",
+            "match_id": 132363,
+            "startTime": "08:30:00 PM 31-08-2025"
         }
     ]
 }
