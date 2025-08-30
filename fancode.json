@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:45:16 PM 30-08-2025",
+    "last update time": "07:55:28 PM 30-08-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -175,11 +175,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
             "team_1": "United Arab Emirates",
             "team_2": "Pakistan",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
             "match_name": "United Arab Emirates vs Pakistan",
             "match_id": 135785,
-            "startTime": "08:30:00 PM 30-08-2025"
+            "startTime": "08:30:00 PM 30-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/x69rOO2aTkWc4OYXA0EMOA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135785_english_hls_c44753a1b03331ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -398,18 +400,6 @@
             "startTime": "02:15:00 PM 31-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Castell\u00f3n vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
-            "team_1": "Castell\u00f3n",
-            "team_2": "Real Zaragoza",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Castell\u00f3n vs Real Zaragoza",
-            "match_id": 135972,
-            "startTime": "01:00:00 AM 31-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Saint Lucia Kings vs Antigua & Barbuda Falcons (Caribbean Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Saint-Lucia-Kings-VS-Antigua-&-Barbuda-Falcons_old.jpg",
@@ -420,6 +410,18 @@
             "match_name": "Saint Lucia Kings vs Antigua & Barbuda Falcons",
             "match_id": 132363,
             "startTime": "08:30:00 PM 31-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Castell\u00f3n vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
+            "team_1": "Castell\u00f3n",
+            "team_2": "Real Zaragoza",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Castell\u00f3n vs Real Zaragoza",
+            "match_id": 135972,
+            "startTime": "01:00:00 AM 31-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -459,15 +461,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Valley Women vs Wynnum-Manly Women (KFC Women's T20 Max, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
-            "team_1": "Valley Women",
-            "team_2": "Wynnum-Manly Women",
+            "title": "Uganda Women vs Tanzania Women (ICC Women's T20 WC Africa Qualifier Division 1)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
+            "team_1": "Uganda Women",
+            "team_2": "Tanzania Women",
             "status": "UPCOMING",
-            "event_name": "KFC Women's T20 Max, 2025",
-            "match_name": "Valley Women vs Wynnum-Manly Women",
-            "match_id": 135816,
-            "startTime": "05:30:00 AM 31-08-2025"
+            "event_name": "ICC Women's T20 WC Africa Qualifier Division 1",
+            "match_name": "Uganda Women vs Tanzania Women",
+            "match_id": 133768,
+            "startTime": "05:20:00 PM 31-08-2025"
         }
     ]
 }
