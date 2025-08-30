@@ -1,61 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:52:23 AM 31-08-2025",
+    "last update time": "04:02:30 AM 31-08-2025",
     "matches": [
-        {
-            "event_category": "Baseball",
-            "title": "Toronto Blue Jays vs Milwaukee Brewers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132892_CASACARDS_APP.png",
-            "team_1": "Toronto Blue Jays",
-            "team_2": "Milwaukee Brewers",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Toronto Blue Jays vs Milwaukee Brewers",
-            "match_id": 132892,
-            "startTime": "12:37:00 AM 31-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132892_english_hls_21b2b8afd391329ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132892_english_hls_21b2b8afd391329ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Madrid vs Mallorca (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130851_5427_RM_MRC_fc-Web.jpg",
-            "team_1": "Real Madrid",
-            "team_2": "Mallorca",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Madrid vs Mallorca",
-            "match_id": 130851,
-            "startTime": "01:00:00 AM 31-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130851_english_hls_70d86c826432982adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130851_english_hls_70d86c826432982adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Castell\u00f3n vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
-            "team_1": "Castell\u00f3n",
-            "team_2": "Real Zaragoza",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Castell\u00f3n vs Real Zaragoza",
-            "match_id": 135972,
-            "startTime": "01:00:00 AM 31-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-tljtzh5Ru-MeMnmbABPBQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135972_english_hls_2a1773e69d30696ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Trinbago Knight Riders vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132362_5512_TKR_GUY_fc-web.jpg",
             "team_1": "Trinbago Knight Riders",
             "team_2": "Guyana Amazon Warriors",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Caribbean Premier League, 2025",
             "match_name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
             "match_id": 132362,
-            "startTime": "04:30:00 AM 31-08-2025"
+            "startTime": "04:30:00 AM 31-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Zo9_7SgvTIi6yf5B4LoucQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132362_english_hls_ff6c8c5c7b28333ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -346,18 +306,6 @@
             "startTime": "05:30:00 AM 31-08-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (KFC Women's T20 Max, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "KFC Women's T20 Max, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 135817,
-            "startTime": "12:00:00 PM 31-08-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Rayo Vallecano vs Barcelona (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130859_5427_RVL_BAR_fc-Web.jpg",
@@ -368,6 +316,18 @@
             "match_name": "Rayo Vallecano vs Barcelona",
             "match_id": 130859,
             "startTime": "01:00:00 AM 01-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (KFC Women's T20 Max, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "KFC Women's T20 Max, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 135817,
+            "startTime": "12:00:00 PM 31-08-2025"
         },
         {
             "event_category": "Football",
