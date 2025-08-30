@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:39:45 PM 30-08-2025",
+    "last update time": "01:49:54 PM 30-08-2025",
     "matches": [
         {
             "event_category": "Motorsports",
@@ -9,21 +9,23 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
             "team_1": "Qualifying Session",
             "team_2": "Zandvoort",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F1 ACADEMY NETHERLANDS 2025",
             "match_name": "F1 Academy",
             "match_id": 119130,
-            "startTime": "01:55:00 PM 30-08-2025"
+            "startTime": "01:55:00 PM 30-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119130_english_hls_81823c412a84982adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119130_english_hls_81823c412a84982adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "Adani Trivandrum Royals vs Calicut Globstars (Kerala Cricket League, 2025)",
+            "title": "Calicut Globstars vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133894_5600_TR_CG_fc-Web_1756275176644.jpg",
-            "team_1": "Adani Trivandrum Royals",
-            "team_2": "Calicut Globstars",
+            "team_1": "Calicut Globstars",
+            "team_2": "Adani Trivandrum Royals",
             "status": "UPCOMING",
             "event_name": "Kerala Cricket League, 2025",
-            "match_name": "Adani Trivandrum Royals vs Calicut Globstars",
+            "match_name": "Calicut Globstars vs Adani Trivandrum Royals",
             "match_id": 133894,
             "startTime": "02:30:00 PM 30-08-2025"
         },
@@ -316,18 +318,6 @@
             "startTime": "02:30:00 PM 31-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Castell\u00f3n vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/135972_CASACARDS_APP.png",
-            "team_1": "Castell\u00f3n",
-            "team_2": "Real Zaragoza",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Castell\u00f3n vs Real Zaragoza",
-            "match_id": 135972,
-            "startTime": "01:00:00 AM 31-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Altruistian vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136213_5651_ALT_CST_fc-Web.jpg",
@@ -338,6 +328,18 @@
             "match_name": "Altruistian vs Capital Strikers",
             "match_id": 136213,
             "startTime": "10:00:00 AM 31-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Castell\u00f3n vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/135972_CASACARDS_APP.png",
+            "team_1": "Castell\u00f3n",
+            "team_2": "Real Zaragoza",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Castell\u00f3n vs Real Zaragoza",
+            "match_id": 135972,
+            "startTime": "01:00:00 AM 31-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -434,6 +436,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 135817,
             "startTime": "12:00:00 PM 31-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Delhi Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 132507,
+            "startTime": "07:00:00 PM 31-08-2025"
         }
     ]
 }
