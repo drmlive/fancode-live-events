@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:57:09 PM 30-08-2025",
+    "last update time": "10:07:15 PM 30-08-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -35,11 +35,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130857_5427_RO_RS_fc-Web.jpg",
             "team_1": "Real Oviedo",
             "team_2": "Real Sociedad",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "Real Oviedo vs Real Sociedad",
             "match_id": 130857,
-            "startTime": "10:30:00 PM 30-08-2025"
+            "startTime": "10:30:00 PM 30-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130857_english_hls_de80cfb95f7662adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130857_english_hls_de80cfb95f7662adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -82,20 +84,6 @@
             "startTime": "08:30:00 PM 30-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/x69rOO2aTkWc4OYXA0EMOA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135785_english_hls_c44753a1b03331ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Papua New Guinea vs Qatar (ICC CWC Challenge League A, 2024-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133797_4464_PNG_QAT_fc-Web.jpg",
-            "team_1": "Papua New Guinea",
-            "team_2": "Qatar",
-            "status": "LIVE",
-            "event_name": "ICC CWC Challenge League A, 2024-26",
-            "match_name": "Papua New Guinea vs Qatar",
-            "match_id": 133797,
-            "startTime": "03:30:00 PM 30-08-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ium0xKQHQsWdYA4dlciobQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133797_english_hls_f41569e00c48237ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -179,6 +167,30 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Dubai Capitals Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-web_1756269777730.jpg",
+            "team_1": "Dubai Capitals Development",
+            "team_2": "Sharjah Warriorz Development",
+            "status": "UPCOMING",
+            "event_name": "DP World ILT20 Development Tournament, 2025",
+            "match_name": "Dubai Capitals Development vs Sharjah Warriorz Development",
+            "match_id": 135807,
+            "startTime": "11:00:00 PM 30-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Girona vs Sevilla (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130856_5427_GIR_SEV_fc-Web.jpg",
+            "team_1": "Girona",
+            "team_2": "Sevilla",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona vs Sevilla",
+            "match_id": 130856,
+            "startTime": "11:00:00 PM 30-08-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Adani Trivandrum Royals vs Aries Kollam Sailors (Kerala Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133896_5600_TR_AKS_fc-Web_1756275176807.jpg",
             "team_1": "Adani Trivandrum Royals",
@@ -224,30 +236,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 132507,
             "startTime": "07:00:00 PM 31-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Dubai Capitals Development vs Sharjah Warriorz Development (DP World ILT20 Development Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/135807_5636_DCD_SWD_fc-web_1756269777730.jpg",
-            "team_1": "Dubai Capitals Development",
-            "team_2": "Sharjah Warriorz Development",
-            "status": "UPCOMING",
-            "event_name": "DP World ILT20 Development Tournament, 2025",
-            "match_name": "Dubai Capitals Development vs Sharjah Warriorz Development",
-            "match_id": 135807,
-            "startTime": "11:00:00 PM 30-08-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Girona vs Sevilla (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130856_5427_GIR_SEV_fc-Web.jpg",
-            "team_1": "Girona",
-            "team_2": "Sevilla",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona vs Sevilla",
-            "match_id": 130856,
-            "startTime": "11:00:00 PM 30-08-2025"
         },
         {
             "event_category": "Football",
@@ -382,18 +370,6 @@
             "startTime": "10:30:00 PM 31-08-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Castell\u00f3n vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
-            "team_1": "Castell\u00f3n",
-            "team_2": "Real Zaragoza",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Castell\u00f3n vs Real Zaragoza",
-            "match_id": 135972,
-            "startTime": "01:00:00 AM 31-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Uganda Women vs Tanzania Women (ICC Women's T20 WC Africa Qualifier Division 1)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
@@ -416,6 +392,18 @@
             "match_name": "Zimbabwe Women vs Namibia Women",
             "match_id": 133767,
             "startTime": "05:20:00 PM 31-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Castell\u00f3n vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/135972_5572_CAS_RZ_FC_web_1756542597538.jpg",
+            "team_1": "Castell\u00f3n",
+            "team_2": "Real Zaragoza",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Castell\u00f3n vs Real Zaragoza",
+            "match_id": 135972,
+            "startTime": "01:00:00 AM 31-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -442,18 +430,6 @@
             "startTime": "03:00:00 PM 31-08-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (KFC Women's T20 Max, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "KFC Women's T20 Max, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 135817,
-            "startTime": "12:00:00 PM 31-08-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Cerezo Osaka vs Sanfrecce Hiroshima (J League 2025)",
             "src": "https://images.fancode.com/aig/match/v1/132090_CASACARDS_APP.png",
@@ -464,6 +440,30 @@
             "match_name": "Cerezo Osaka vs Sanfrecce Hiroshima",
             "match_id": 132090,
             "startTime": "03:30:00 PM 31-08-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kawasaki Frontale vs Machida Zelvia (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132087_CASACARDS_APP.png",
+            "team_1": "Kawasaki Frontale",
+            "team_2": "Machida Zelvia",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Kawasaki Frontale vs Machida Zelvia",
+            "match_id": 132087,
+            "startTime": "03:30:00 PM 31-08-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (KFC Women's T20 Max, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KFC-Women's-T20-Max_old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "KFC Women's T20 Max, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 135817,
+            "startTime": "12:00:00 PM 31-08-2025"
         }
     ]
 }
