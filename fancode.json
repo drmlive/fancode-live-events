@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:51:17 AM 01-09-2025",
+    "last update time": "01:01:26 AM 01-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -60,6 +60,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135807_english_hls_7dd3e15ca258467ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Baseball",
+            "title": "Chicago White Sox vs New York Yankees (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132895_CASACARDS_APP.png",
+            "team_1": "Chicago White Sox",
+            "team_2": "New York Yankees",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Chicago White Sox vs New York Yankees",
+            "match_id": 132895,
+            "startTime": "11:40:00 PM 31-08-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132895_english_hls_e10e355e328129ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132895_english_hls_e10e355e328129ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Espanyol vs Osasuna (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130855_5427_ESL_OSN_fc-Web.jpg",
@@ -86,34 +100,6 @@
             "startTime": "11:00:00 PM 31-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/V0GYzgCTQaypEBk-t2LeSA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135973_english_hls_14ef6b713e65284ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Chicago White Sox vs New York Yankees (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132895_CASACARDS_APP.png",
-            "team_1": "Chicago White Sox",
-            "team_2": "New York Yankees",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Chicago White Sox vs New York Yankees",
-            "match_id": 132895,
-            "startTime": "11:40:00 PM 31-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132895_english_hls_e10e355e328129ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132895_english_hls_e10e355e328129ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Betis vs Athletic Club (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130858_5427_RB_ATH_fc-Web.jpg",
-            "team_1": "Real Betis",
-            "team_2": "Athletic Club",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Betis vs Athletic Club",
-            "match_id": 130858,
-            "startTime": "10:30:00 PM 31-08-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130858_english_hls_b091f20a352942adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130858_english_hls_b091f20a352942adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -354,6 +340,18 @@
             "match_name": "Milwaukee Brewers vs Philadelphia Phillies",
             "match_id": 132897,
             "startTime": "01:40:00 AM 02-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kamle Knights vs Dirang Daredevils (Arunachal T20 Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Kamle Knights",
+            "team_2": "Dirang Daredevils",
+            "status": "UPCOMING",
+            "event_name": "Arunachal T20 Championship, 2025",
+            "match_name": "Kamle Knights vs Dirang Daredevils",
+            "match_id": 136242,
+            "startTime": "09:00:00 AM 02-09-2025"
         }
     ]
 }
