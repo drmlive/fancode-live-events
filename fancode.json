@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:37:20 AM 31-08-2025",
+    "last update time": "09:47:32 AM 31-08-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Altruistian vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136213_5651_ALT_CST_fc-Web.jpg",
+            "team_1": "Altruistian",
+            "team_2": "Capital Strikers",
+            "status": "LIVE",
+            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+            "match_name": "Altruistian vs Capital Strikers",
+            "match_id": 136213,
+            "startTime": "10:00:00 AM 31-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/xFm-ruX0Qyim_ZOrDjo5qg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136213_english_hls_8676c616d286820ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Baseball",
             "title": "Oakland Athletics vs Texas Rangers (Major League Baseball, 2025)",
@@ -112,18 +126,6 @@
             "match_name": "Oval Invincibles vs Trent Rockets",
             "match_id": 135846,
             "startTime": "10:30:00 PM 31-08-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Altruistian vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136213_5651_ALT_CST_fc-Web.jpg",
-            "team_1": "Altruistian",
-            "team_2": "Capital Strikers",
-            "status": "UPCOMING",
-            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_name": "Altruistian vs Capital Strikers",
-            "match_id": 136213,
-            "startTime": "10:00:00 AM 31-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -402,18 +404,6 @@
             "startTime": "06:30:00 PM 31-08-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Cincinnati Reds vs St. Louis Cardinals (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132894_CASACARDS_APP.png",
-            "team_1": "Cincinnati Reds",
-            "team_2": "St. Louis Cardinals",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Cincinnati Reds vs St. Louis Cardinals",
-            "match_id": 132894,
-            "startTime": "09:40:00 PM 31-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Tanzania Women vs Kenya Women (ICC Women's T20 WC Africa Qualifier Division 1)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
@@ -439,15 +429,15 @@
         },
         {
             "event_category": "Baseball",
-            "title": "Chicago White Sox vs New York Yankees (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132895_CASACARDS_APP.png",
-            "team_1": "Chicago White Sox",
-            "team_2": "New York Yankees",
+            "title": "Cincinnati Reds vs St. Louis Cardinals (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132894_CASACARDS_APP.png",
+            "team_1": "Cincinnati Reds",
+            "team_2": "St. Louis Cardinals",
             "status": "UPCOMING",
             "event_name": "Major League Baseball, 2025",
-            "match_name": "Chicago White Sox vs New York Yankees",
-            "match_id": 132895,
-            "startTime": "11:40:00 PM 31-08-2025"
+            "match_name": "Cincinnati Reds vs St. Louis Cardinals",
+            "match_id": 132894,
+            "startTime": "09:40:00 PM 31-08-2025"
         },
         {
             "event_category": "Cricket",
@@ -460,6 +450,18 @@
             "match_name": "Kameng Kings vs Kurung Blasters",
             "match_id": 136241,
             "startTime": "01:15:00 PM 01-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Chicago White Sox vs New York Yankees (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132895_CASACARDS_APP.png",
+            "team_1": "Chicago White Sox",
+            "team_2": "New York Yankees",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Chicago White Sox vs New York Yankees",
+            "match_id": 132895,
+            "startTime": "11:40:00 PM 31-08-2025"
         }
     ]
 }
