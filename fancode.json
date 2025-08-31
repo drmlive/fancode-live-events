@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:36:25 PM 31-08-2025",
+    "last update time": "07:46:35 PM 31-08-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -72,6 +72,20 @@
             "startTime": "07:00:00 PM 31-08-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Ag2E_af3QzmoAhYUqqsWZg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132507_english_hls_b23ba01db158652ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Canada vs Scotland (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133761_3908_CAN_SCO_fc-web_1755793966439.jpg",
+            "team_1": "Canada",
+            "team_2": "Scotland",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "Canada vs Scotland",
+            "match_id": 133761,
+            "startTime": "08:00:00 PM 31-08-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/fTSwFFEGT9qBgUbkGNMZJg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133761_english_hls_254457eca020087ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -173,18 +187,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Canada vs Scotland (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133761_3908_CAN_SCO_fc-web_1755793966439.jpg",
-            "team_1": "Canada",
-            "team_2": "Scotland",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Canada vs Scotland",
-            "match_id": 133761,
-            "startTime": "08:00:00 PM 31-08-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Saint Lucia Kings vs Antigua & Barbuda Falcons (Caribbean Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Saint-Lucia-Kings-VS-Antigua-&-Barbuda-Falcons_old.jpg",
             "team_1": "Saint Lucia Kings",
@@ -256,6 +258,18 @@
             "startTime": "10:30:00 PM 31-08-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Netherlands (Netherlands tour of Bangladesh, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Netherlands",
+            "status": "UPCOMING",
+            "event_name": "Netherlands tour of Bangladesh, 2025",
+            "match_name": "Bangladesh vs Netherlands",
+            "match_id": 135850,
+            "startTime": "05:30:00 PM 01-09-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Espanyol vs Osasuna (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130855_5427_ESL_OSN_fc-Web.jpg",
@@ -278,18 +292,6 @@
             "match_name": "Rayo Vallecano vs Barcelona",
             "match_id": 130859,
             "startTime": "01:00:00 AM 01-09-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Netherlands (Netherlands tour of Bangladesh, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "Netherlands",
-            "status": "UPCOMING",
-            "event_name": "Netherlands tour of Bangladesh, 2025",
-            "match_name": "Bangladesh vs Netherlands",
-            "match_id": 135850,
-            "startTime": "05:30:00 PM 01-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -472,16 +474,16 @@
             "startTime": "01:30:00 PM 01-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Cincinnati Reds vs St. Louis Cardinals (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132894_CASACARDS_APP.png",
-            "team_1": "Cincinnati Reds",
-            "team_2": "St. Louis Cardinals",
+            "event_category": "Cricket",
+            "title": "Abu Dhabi Knight Riders Development vs Gulf Giants Development (DP World ILT20 Development Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/135810_5636_ADK_GGD_fc-web_1756269777818.jpg",
+            "team_1": "Abu Dhabi Knight Riders Development",
+            "team_2": "Gulf Giants Development",
             "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Cincinnati Reds vs St. Louis Cardinals",
-            "match_id": 132894,
-            "startTime": "09:40:00 PM 31-08-2025"
+            "event_name": "DP World ILT20 Development Tournament, 2025",
+            "match_name": "Abu Dhabi Knight Riders Development vs Gulf Giants Development",
+            "match_id": 135810,
+            "startTime": "10:30:00 PM 01-09-2025"
         }
     ]
 }
