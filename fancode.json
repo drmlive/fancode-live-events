@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:45:27 PM 31-08-2025",
+    "last update time": "06:55:37 PM 31-08-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -70,8 +70,8 @@
             "match_name": "Central Delhi Kings vs West Delhi Lions",
             "match_id": 132507,
             "startTime": "07:00:00 PM 31-08-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Ag2E_af3QzmoAhYUqqsWZg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132507_english_hls_b23ba01db158652ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -279,18 +279,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Siang Storm vs KRA Dominators (Arunachal T20 Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-            "team_1": "Siang Storm",
-            "team_2": "KRA Dominators",
-            "status": "UPCOMING",
-            "event_name": "Arunachal T20 Championship, 2025",
-            "match_name": "Siang Storm vs KRA Dominators",
-            "match_id": 136240,
-            "startTime": "09:00:00 AM 01-09-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bangladesh vs Netherlands (Netherlands tour of Bangladesh, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
             "team_1": "Bangladesh",
@@ -300,6 +288,18 @@
             "match_name": "Bangladesh vs Netherlands",
             "match_id": 135850,
             "startTime": "05:30:00 PM 01-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Siang Storm vs KRA Dominators (Arunachal T20 Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+            "team_1": "Siang Storm",
+            "team_2": "KRA Dominators",
+            "status": "UPCOMING",
+            "event_name": "Arunachal T20 Championship, 2025",
+            "match_name": "Siang Storm vs KRA Dominators",
+            "match_id": 136240,
+            "startTime": "09:00:00 AM 01-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -362,18 +362,6 @@
             "startTime": "01:00:00 PM 01-09-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Las Palmas vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/135973_5572_LAP_MAG_FC-Web.jpg",
-            "team_1": "Las Palmas",
-            "team_2": "M\u00e1laga",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Las Palmas vs M\u00e1laga",
-            "match_id": 135973,
-            "startTime": "11:00:00 PM 31-08-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Chandigarh Kings vs Panchkula Bashers (Chandigarh Premier League T20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136216_5651_CST_PKB_fc-Web.jpg",
@@ -384,6 +372,18 @@
             "match_name": "Chandigarh Kings vs Panchkula Bashers",
             "match_id": 136216,
             "startTime": "02:15:00 PM 01-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Las Palmas vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/135973_5572_LAP_MAG_FC-Web.jpg",
+            "team_1": "Las Palmas",
+            "team_2": "M\u00e1laga",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Las Palmas vs M\u00e1laga",
+            "match_id": 135973,
+            "startTime": "11:00:00 PM 31-08-2025"
         },
         {
             "event_category": "Cricket",
