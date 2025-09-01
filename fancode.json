@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:09:57 PM 01-09-2025",
+    "last update time": "10:30:17 PM 01-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -51,11 +51,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/135810_5636_ADK_GGD_fc-web_1756269777818.jpg",
             "team_1": "Abu Dhabi Knight Riders Development",
             "team_2": "Gulf Giants Development",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "DP World ILT20 Development Tournament, 2025",
             "match_name": "Abu Dhabi Knight Riders Development vs Gulf Giants Development",
             "match_id": 135810,
-            "startTime": "10:30:00 PM 01-09-2025"
+            "startTime": "10:30:00 PM 01-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/7i36pyctR76Z67MW0-R9UA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135810_english_hls_19b972e3ed90522ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Detroit Tigers vs New York Mets (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132896_CASACARDS_APP.png",
+            "team_1": "Detroit Tigers",
+            "team_2": "New York Mets",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Detroit Tigers vs New York Mets",
+            "match_id": 132896,
+            "startTime": "10:40:00 PM 01-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132896_english_hls_ec8e35ac5273396ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132896_english_hls_ec8e35ac5273396ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -82,18 +98,6 @@
             "startTime": "05:30:00 PM 02-09-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Huesca vs Eibar (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/135970_5572_HUE_EIB_FC-Web.jpg",
-            "team_1": "Huesca",
-            "team_2": "Eibar",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Huesca vs Eibar",
-            "match_id": 135970,
-            "startTime": "11:00:00 PM 01-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Thrissur Titans vs Adani Trivandrum Royals (Kerala Cricket League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133901_5600_TT_TR_fc-Web_1756713694249.jpg",
@@ -104,6 +108,18 @@
             "match_name": "Thrissur Titans vs Adani Trivandrum Royals",
             "match_id": 133901,
             "startTime": "06:45:00 PM 02-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Huesca vs Eibar (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/135970_5572_HUE_EIB_FC-Web.jpg",
+            "team_1": "Huesca",
+            "team_2": "Eibar",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Huesca vs Eibar",
+            "match_id": 135970,
+            "startTime": "11:00:00 PM 01-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -131,18 +147,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Dr Morepen Dazzlers vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136217_5651_DMD_TLT_fc-Web.jpg",
-            "team_1": "Dr Morepen Dazzlers",
-            "team_2": "Talanoa Tigers",
-            "status": "UPCOMING",
-            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_name": "Dr Morepen Dazzlers vs Talanoa Tigers",
-            "match_id": 136217,
-            "startTime": "10:00:00 AM 02-09-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Afghanistan vs Pakistan (Afghanistan and Pakistan tour of UAE, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
             "team_1": "Afghanistan",
@@ -152,6 +156,18 @@
             "match_name": "Afghanistan vs Pakistan",
             "match_id": 135787,
             "startTime": "08:30:00 PM 02-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dr Morepen Dazzlers vs Talanoa Tigers (Chandigarh Premier League T20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136217_5651_DMD_TLT_fc-Web.jpg",
+            "team_1": "Dr Morepen Dazzlers",
+            "team_2": "Talanoa Tigers",
+            "status": "UPCOMING",
+            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+            "match_name": "Dr Morepen Dazzlers vs Talanoa Tigers",
+            "match_id": 136217,
+            "startTime": "10:00:00 AM 02-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -200,18 +216,6 @@
             "match_name": "West Indies Under-19 vs Sri Lanka Under-19",
             "match_id": 135982,
             "startTime": "07:00:00 PM 02-09-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Detroit Tigers vs New York Mets (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132896_CASACARDS_APP.png",
-            "team_1": "Detroit Tigers",
-            "team_2": "New York Mets",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Detroit Tigers vs New York Mets",
-            "match_id": 132896,
-            "startTime": "10:40:00 PM 01-09-2025"
         },
         {
             "event_category": "Cricket",
