@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:22:43 PM 01-09-2025",
+    "last update time": "02:32:53 PM 01-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "Alleppey Ripples vs Thrissur Titans",
             "match_id": 133898,
             "startTime": "02:30:00 PM 01-09-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/IuU7a8KsT_i2ooI-FZdu0g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133898_english_hls_8a1cf4ec4762212ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -186,7 +186,7 @@
         {
             "event_category": "Football",
             "title": "India vs IR Iran (CAFA Nations Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136616_5656_IND_IRN_fc-app.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAFA-Nations-Cup_2025_Old_match-card.jpg",
             "team_1": "India",
             "team_2": "IR Iran",
             "status": "UPCOMING",
@@ -328,18 +328,6 @@
             "startTime": "10:40:00 PM 01-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Milwaukee Brewers vs Philadelphia Phillies (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132897_CASACARDS_APP.png",
-            "team_1": "Milwaukee Brewers",
-            "team_2": "Philadelphia Phillies",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Milwaukee Brewers vs Philadelphia Phillies",
-            "match_id": 132897,
-            "startTime": "01:40:00 AM 02-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Afghanistan vs Pakistan (Afghanistan and Pakistan tour of UAE, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
@@ -350,6 +338,18 @@
             "match_name": "Afghanistan vs Pakistan",
             "match_id": 135787,
             "startTime": "08:30:00 PM 02-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Milwaukee Brewers vs Philadelphia Phillies (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132897_CASACARDS_APP.png",
+            "team_1": "Milwaukee Brewers",
+            "team_2": "Philadelphia Phillies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Milwaukee Brewers vs Philadelphia Phillies",
+            "match_id": 132897,
+            "startTime": "01:40:00 AM 02-09-2025"
         },
         {
             "event_category": "Cricket",
