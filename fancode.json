@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:27:23 PM 02-09-2025",
+    "last update time": "05:37:35 PM 02-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-England_2025_Old_match-card_2025_Old_match-card.jpg",
             "team_1": "England",
             "team_2": "South Africa",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "South Africa tour of England, 2025",
             "match_name": "England vs South Africa",
             "match_id": 135988,
-            "startTime": "05:30:00 PM 02-09-2025"
+            "startTime": "05:30:00 PM 02-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI11FC/master_mdh.m3u8?hdnea=exp=1756858054~acl=/*~id=20603179047531168112273292211604~hmac=f15f7545e2a545493b582bdfac0423ca2f9b20cceead0ec3cf1bc2f8ade64279"
         },
         {
             "event_category": "Cricket",
@@ -67,18 +69,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Adani Trivandrum Royals vs Alleppey Ripples (Kerala Cricket League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133902_5600_TR_AP_fc-Web_1756713693983.jpg",
-            "team_1": "Adani Trivandrum Royals",
-            "team_2": "Alleppey Ripples",
-            "status": "UPCOMING",
-            "event_name": "Kerala Cricket League, 2025",
-            "match_name": "Adani Trivandrum Royals vs Alleppey Ripples",
-            "match_id": 133902,
-            "startTime": "02:30:00 PM 03-09-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Sharjah Warriorz Development vs Gulf Giants Development (DP World ILT20 Development Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/135804_5636_SWD_GGD_fc-web_1756269777839.jpg",
             "team_1": "Sharjah Warriorz Development",
@@ -88,6 +78,18 @@
             "match_name": "Sharjah Warriorz Development vs Gulf Giants Development",
             "match_id": 135811,
             "startTime": "06:30:00 PM 02-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Adani Trivandrum Royals vs Alleppey Ripples (Kerala Cricket League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133902_5600_TR_AP_fc-Web_1756713693983.jpg",
+            "team_1": "Adani Trivandrum Royals",
+            "team_2": "Alleppey Ripples",
+            "status": "UPCOMING",
+            "event_name": "Kerala Cricket League, 2025",
+            "match_name": "Adani Trivandrum Royals vs Alleppey Ripples",
+            "match_id": 133902,
+            "startTime": "02:30:00 PM 03-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -127,18 +129,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Chandigarh Kings vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136219_5651_CST_CST_fc-Web.jpg",
-            "team_1": "Chandigarh Kings",
-            "team_2": "Capital Strikers",
-            "status": "UPCOMING",
-            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_name": "Chandigarh Kings vs Capital Strikers",
-            "match_id": 136219,
-            "startTime": "10:00:00 AM 03-09-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Zimbabwe vs Sri Lanka (Sri Lanka tour of Zimbabwe, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
             "team_1": "Zimbabwe",
@@ -148,6 +138,18 @@
             "match_name": "Zimbabwe vs Sri Lanka",
             "match_id": 133667,
             "startTime": "05:00:00 PM 03-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chandigarh Kings vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136219_5651_CST_CST_fc-Web.jpg",
+            "team_1": "Chandigarh Kings",
+            "team_2": "Capital Strikers",
+            "status": "UPCOMING",
+            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+            "match_name": "Chandigarh Kings vs Capital Strikers",
+            "match_id": 136219,
+            "startTime": "10:00:00 AM 03-09-2025"
         },
         {
             "event_category": "Cricket",
