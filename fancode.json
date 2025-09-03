@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:25:02 PM 03-09-2025",
+    "last update time": "10:35:12 PM 03-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "08:30:00 PM 03-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ehlY_2JTTn6c6j5Xx1_D3A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135813_english_hls_c09974e4d849381ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Detroit Tigers vs New York Mets (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132899_CASACARDS_APP.png",
+            "team_1": "Detroit Tigers",
+            "team_2": "New York Mets",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Detroit Tigers vs New York Mets",
+            "match_id": 132899,
+            "startTime": "10:40:00 PM 03-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/132899_english_hls_f2b21eed6659024ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132899_english_hls_f2b21eed6659024ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -91,18 +105,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Tawang Titans vs Kameng Kings (Arunachal T20 Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-            "team_1": "Tawang Titans",
-            "team_2": "Kameng Kings",
-            "status": "UPCOMING",
-            "event_name": "Arunachal T20 Championship, 2025",
-            "match_name": "Tawang Titans vs Kameng Kings",
-            "match_id": 136246,
-            "startTime": "09:00:00 AM 04-09-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Pakistan vs United Arab Emirates (Afghanistan and Pakistan tour of UAE, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
             "team_1": "Pakistan",
@@ -112,6 +114,18 @@
             "match_name": "Pakistan vs United Arab Emirates",
             "match_id": 135788,
             "startTime": "08:30:00 PM 04-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tawang Titans vs Kameng Kings (Arunachal T20 Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+            "team_1": "Tawang Titans",
+            "team_2": "Kameng Kings",
+            "status": "UPCOMING",
+            "event_name": "Arunachal T20 Championship, 2025",
+            "match_name": "Tawang Titans vs Kameng Kings",
+            "match_id": 136246,
+            "startTime": "09:00:00 AM 04-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -220,18 +234,6 @@
             "match_name": "West Indies Under-19 vs Sri Lanka Under-19",
             "match_id": 135983,
             "startTime": "07:00:00 PM 04-09-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Detroit Tigers vs New York Mets (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132899_CASACARDS_APP.png",
-            "team_1": "Detroit Tigers",
-            "team_2": "New York Mets",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Detroit Tigers vs New York Mets",
-            "match_id": 132899,
-            "startTime": "10:40:00 PM 03-09-2025"
         },
         {
             "event_category": "Football",
@@ -375,6 +377,18 @@
             "event_name": "CAF World Cup Qualifiers",
             "match_name": "Cameroon vs Eswatini",
             "match_id": 136643,
+            "startTime": "12:30:00 AM 05-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Algeria vs Botswana (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136642_3741_ALG_BOT_Fc-Web.jpg",
+            "team_1": "Algeria",
+            "team_2": "Botswana",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Algeria vs Botswana",
+            "match_id": 136642,
             "startTime": "12:30:00 AM 05-09-2025"
         }
     ]
