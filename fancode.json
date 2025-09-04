@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:43:00 PM 04-09-2025",
+    "last update time": "07:53:10 PM 04-09-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Afghanistan vs India (CAFA Nations Cup 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CAFA-Nations-Cup_2025_Old_match-card_2.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "India",
-            "status": "LIVE",
-            "event_name": "CAFA Nations Cup 2025",
-            "match_name": "Afghanistan vs India",
-            "match_id": 136617,
-            "startTime": "05:30:00 PM 04-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LyWrCiXtSOSbZrwnjxVDHQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136617_english_hls_015e52addc66511ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "South Africa vs England (South Africa tour of England, 2025)",
@@ -44,6 +30,20 @@
             "startTime": "06:45:00 PM 04-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/nchu6nURQAWzF6Rln96hyw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133905_english_hls_efa9b0ca2133294ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Scotland (ICC CWC League 2, 2023-27)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133760_3908_NAM_SCO_fc-web_1755793966432.jpg",
+            "team_1": "Namibia",
+            "team_2": "Scotland",
+            "status": "LIVE",
+            "event_name": "ICC CWC League 2, 2023-27",
+            "match_name": "Namibia vs Scotland",
+            "match_id": 133763,
+            "startTime": "08:00:00 PM 04-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-qGY7VgaRhes1NaJWWO7Ig/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133763_english_hls_3dcef22ea086353ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -114,18 +114,6 @@
             "startTime": "12:30:00 PM 04-09-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/s3/c8c4762f-5adb-4d61-b9b8-2b49b71b224c/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia vs Scotland (ICC CWC League 2, 2023-27)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133760_3908_NAM_SCO_fc-web_1755793966432.jpg",
-            "team_1": "Namibia",
-            "team_2": "Scotland",
-            "status": "UPCOMING",
-            "event_name": "ICC CWC League 2, 2023-27",
-            "match_name": "Namibia vs Scotland",
-            "match_id": 133763,
-            "startTime": "08:00:00 PM 04-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -272,6 +260,18 @@
             "startTime": "02:45:00 PM 05-09-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Afghanistan vs United Arab Emirates (Afghanistan and Pakistan tour of UAE, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK_Tri-series_Vertical.png",
+            "team_1": "Afghanistan",
+            "team_2": "United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
+            "match_name": "Afghanistan vs United Arab Emirates",
+            "match_id": 135789,
+            "startTime": "08:30:00 PM 05-09-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Angola vs Libya (CAF World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136641_3741_AGL_LIB_Fc-Web.jpg",
@@ -381,18 +381,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Afghanistan vs United Arab Emirates (Afghanistan and Pakistan tour of UAE, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK_Tri-series_Vertical.png",
-            "team_1": "Afghanistan",
-            "team_2": "United Arab Emirates",
-            "status": "UPCOMING",
-            "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
-            "match_name": "Afghanistan vs United Arab Emirates",
-            "match_id": 135789,
-            "startTime": "08:30:00 PM 05-09-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Majees Titans vs Bin Ali Strikers (Oman D10 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Majees Titans",
@@ -461,6 +449,18 @@
             "event_name": "CAF World Cup Qualifiers",
             "match_name": "Namibia vs Malawi",
             "match_id": 136660,
+            "startTime": "06:30:00 PM 05-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kenya vs Gambia (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136655_3741_KEN_GAM_Fc-Web.jpg",
+            "team_1": "Kenya",
+            "team_2": "Gambia",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Kenya vs Gambia",
+            "match_id": 136655,
             "startTime": "06:30:00 PM 05-09-2025"
         }
     ]
