@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:16:43 AM 05-09-2025",
+    "last update time": "12:26:51 AM 05-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -86,20 +86,6 @@
             "startTime": "12:30:00 AM 05-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/uVVYAiwhRZqkg33AeZ5AgQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136642_english_hls_8408a31f9222978ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs United Arab Emirates (Afghanistan and Pakistan tour of UAE, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/UAE,-AFG-&-PAK-Tri-series_old-(1).jpg",
-            "team_1": "Pakistan",
-            "team_2": "United Arab Emirates",
-            "status": "LIVE",
-            "event_name": "Afghanistan and Pakistan tour of UAE, 2025",
-            "match_name": "Pakistan vs United Arab Emirates",
-            "match_id": 135788,
-            "startTime": "08:30:00 PM 04-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/pX3n_cMPRy-BJO_V2TIF3g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135788_english_hls_2152d5c7265259ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -223,18 +209,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Talanoa Tigers vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136224_5651_TLT_CST_fc-Web.jpg",
-            "team_1": "Talanoa Tigers",
-            "team_2": "Capital Strikers",
-            "status": "UPCOMING",
-            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_name": "Talanoa Tigers vs Capital Strikers",
-            "match_id": 136224,
-            "startTime": "02:15:00 PM 05-09-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Durham vs Hampshire (Vitality Blast T20, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/136725_CASACARDS_APP.png",
             "team_1": "Durham",
@@ -244,6 +218,18 @@
             "match_name": "Durham vs Hampshire",
             "match_id": 136725,
             "startTime": "11:00:00 PM 05-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Talanoa Tigers vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136224_5651_TLT_CST_fc-Web.jpg",
+            "team_1": "Talanoa Tigers",
+            "team_2": "Capital Strikers",
+            "status": "UPCOMING",
+            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+            "match_name": "Talanoa Tigers vs Capital Strikers",
+            "match_id": 136224,
+            "startTime": "02:15:00 PM 05-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -450,16 +436,28 @@
             "startTime": "11:00:00 PM 05-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Milwaukee Brewers vs Philadelphia Phillies (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132902_CASACARDS_APP.png",
-            "team_1": "Milwaukee Brewers",
-            "team_2": "Philadelphia Phillies",
+            "event_category": "Football",
+            "title": "Egypt vs Ethiopia (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136654_3741_EGY_ETH_Fc-Web.jpg",
+            "team_1": "Egypt",
+            "team_2": "Ethiopia",
             "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Milwaukee Brewers vs Philadelphia Phillies",
-            "match_id": 132902,
-            "startTime": "01:40:00 AM 05-09-2025"
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Egypt vs Ethiopia",
+            "match_id": 136654,
+            "startTime": "12:30:00 AM 06-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "C\u00f4te d'Ivoire vs Burundi (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136652_3741_IVC_BRD_Fc-Web.jpg",
+            "team_1": "C\u00f4te d'Ivoire",
+            "team_2": "Burundi",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "C\u00f4te d'Ivoire vs Burundi",
+            "match_id": 136652,
+            "startTime": "12:30:00 AM 06-09-2025"
         }
     ]
 }
