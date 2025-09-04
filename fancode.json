@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:19:46 AM 05-09-2025",
+    "last update time": "04:30:11 AM 05-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,48 @@
             "startTime": "08:00:00 PM 04-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/-qGY7VgaRhes1NaJWWO7Ig/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133763_english_hls_3dcef22ea086353ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uruguay vs Peru (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136673_3542_URU_PER_Fc-Web.jpg",
+            "team_1": "Uruguay",
+            "team_2": "Peru",
+            "status": "LIVE",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Uruguay vs Peru",
+            "match_id": 136673,
+            "startTime": "05:00:00 AM 05-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/59X-_2_cREOZyeu-iiSnAw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136673_english_hls_de86e0ba4643301ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Paraguay vs Ecuador (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136672_3542_PAR_ECU_Fc-Web.jpg",
+            "team_1": "Paraguay",
+            "team_2": "Ecuador",
+            "status": "LIVE",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Paraguay vs Ecuador",
+            "match_id": 136672,
+            "startTime": "05:00:00 AM 05-09-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Football",
+            "title": "Colombia vs Bolivia (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136671_3542_COL_BOL_fc-Web_1756972324443.jpg",
+            "team_1": "Colombia",
+            "team_2": "Bolivia",
+            "status": "LIVE",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Colombia vs Bolivia",
+            "match_id": 136671,
+            "startTime": "05:00:00 AM 05-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/esPLypkiQfuGgiWr-MZzXg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136671_english_hls_6168f28a2c32436ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -66,42 +108,6 @@
             "match_name": "Afghanistan vs United Arab Emirates",
             "match_id": 135789,
             "startTime": "08:30:00 PM 05-09-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Uruguay vs Peru (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136673_3542_URU_PER_Fc-Web.jpg",
-            "team_1": "Uruguay",
-            "team_2": "Peru",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Uruguay vs Peru",
-            "match_id": 136673,
-            "startTime": "05:00:00 AM 05-09-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Paraguay vs Ecuador (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136672_3542_PAR_ECU_Fc-Web.jpg",
-            "team_1": "Paraguay",
-            "team_2": "Ecuador",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Paraguay vs Ecuador",
-            "match_id": 136672,
-            "startTime": "05:00:00 AM 05-09-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Colombia vs Bolivia (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136671_3542_COL_BOL_fc-Web_1756972324443.jpg",
-            "team_1": "Colombia",
-            "team_2": "Bolivia",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Colombia vs Bolivia",
-            "match_id": 136671,
-            "startTime": "05:00:00 AM 05-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -450,6 +456,18 @@
             "match_name": "Practice",
             "match_id": 119108,
             "startTime": "01:05:00 PM 05-09-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Free Practice vs Monza (F2 MONZA 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "Free Practice",
+            "team_2": "Monza",
+            "status": "UPCOMING",
+            "event_name": "F2 MONZA 2025",
+            "match_name": "Free Practice",
+            "match_id": 119065,
+            "startTime": "02:30:00 PM 05-09-2025"
         }
     ]
 }
