@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:48:17 AM 06-09-2025",
+    "last update time": "03:58:23 AM 06-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132367_5512_BR_ABF_fc-web.jpg",
             "team_1": "Barbados Royals",
             "team_2": "Antigua & Barbuda Falcons",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Caribbean Premier League, 2025",
             "match_name": "Barbados Royals vs Antigua & Barbuda Falcons",
             "match_id": 132367,
-            "startTime": "04:30:00 AM 06-09-2025"
+            "startTime": "04:30:00 AM 06-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/4E4tYMiaSSGKtDWqvKPvIQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132367_english_hls_3605b5f50e1156ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -269,18 +271,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Valley vs Redlands (KFC T20 Max, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134918_5623_VLY_RLS_Fc-Web_1755807575981.jpg",
-            "team_1": "Valley",
-            "team_2": "Redlands",
-            "status": "UPCOMING",
-            "event_name": "KFC T20 Max, 2025",
-            "match_name": "Valley vs Redlands",
-            "match_id": 135007,
-            "startTime": "12:00:00 PM 06-09-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "KCA Angels vs KCA Queens (WCL Curtain Raiser, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WCL-Curtain-Raiser__Match_card.jpg",
             "team_1": "KCA Angels",
@@ -290,6 +280,18 @@
             "match_name": "KCA Angels vs KCA Queens",
             "match_id": 136796,
             "startTime": "07:00:00 PM 06-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Valley vs Redlands (KFC T20 Max, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134918_5623_VLY_RLS_Fc-Web_1755807575981.jpg",
+            "team_1": "Valley",
+            "team_2": "Redlands",
+            "status": "UPCOMING",
+            "event_name": "KFC T20 Max, 2025",
+            "match_name": "Valley vs Redlands",
+            "match_id": 135007,
+            "startTime": "12:00:00 PM 06-09-2025"
         },
         {
             "event_category": "Football",
