@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:26:43 PM 05-09-2025",
+    "last update time": "01:36:49 PM 05-09-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -16,20 +16,6 @@
             "startTime": "12:30:00 PM 05-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yOxY-YAjS3yA6psAtMDXmg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119176_english_hls_bcc13953ab96916ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Panchkula Bashers vs Altruistian (Chandigarh Premier League T20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136223_5651_PKB_ALT_fc-Web.jpg",
-            "team_1": "Panchkula Bashers",
-            "team_2": "Altruistian",
-            "status": "LIVE",
-            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_name": "Panchkula Bashers vs Altruistian",
-            "match_id": 136223,
-            "startTime": "10:00:00 AM 05-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Yk9Zn7U0QeqBEwWrNVFXsg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136223_english_hls_64941bc9ad22647ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +34,7 @@
         {
             "event_category": "Cricket",
             "title": "Valley vs South Brisbane (KFC T20 Max, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/135005_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Valley",
             "team_2": "South Brisbane",
             "status": "LIVE",
@@ -72,6 +58,20 @@
             "startTime": "01:05:00 PM 05-09-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119108_english_hls_dd90b0532b82372adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119108_english_hls_dd90b0532b82372adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Panchkula Bashers vs Altruistian (Chandigarh Premier League T20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136223_5651_PKB_ALT_fc-Web.jpg",
+            "team_1": "Panchkula Bashers",
+            "team_2": "Altruistian",
+            "status": "LIVE",
+            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
+            "match_name": "Panchkula Bashers vs Altruistian",
+            "match_id": 136223,
+            "startTime": "10:00:00 AM 05-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Yk9Zn7U0QeqBEwWrNVFXsg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136223_english_hls_64941bc9ad22647ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -230,6 +230,18 @@
             "startTime": "05:30:00 PM 05-09-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "KRA Dominators vs Pare Panthers (Arunachal T20 Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+            "team_1": "KRA Dominators",
+            "team_2": "Pare Panthers",
+            "status": "UPCOMING",
+            "event_name": "Arunachal T20 Championship, 2025",
+            "match_name": "KRA Dominators vs Pare Panthers",
+            "match_id": 136250,
+            "startTime": "09:00:00 AM 06-09-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Namibia vs Malawi (CAF World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136660_3741_NAM_MAL_Fc-Web.jpg",
@@ -252,18 +264,6 @@
             "match_name": "Kenya vs Gambia",
             "match_id": 136655,
             "startTime": "06:30:00 PM 05-09-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "KRA Dominators vs Pare Panthers (Arunachal T20 Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-            "team_1": "KRA Dominators",
-            "team_2": "Pare Panthers",
-            "status": "UPCOMING",
-            "event_name": "Arunachal T20 Championship, 2025",
-            "match_name": "KRA Dominators vs Pare Panthers",
-            "match_id": 136250,
-            "startTime": "09:00:00 AM 06-09-2025"
         },
         {
             "event_category": "Football",
@@ -410,6 +410,18 @@
             "startTime": "10:00:00 AM 06-09-2025"
         },
         {
+            "event_category": "Motorsports",
+            "title": "Free Practice vs Monza (F2 MONZA 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+            "team_1": "Free Practice",
+            "team_2": "Monza",
+            "status": "UPCOMING",
+            "event_name": "F2 MONZA 2025",
+            "match_name": "Free Practice",
+            "match_id": 119065,
+            "startTime": "02:30:00 PM 05-09-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (ICC Women's T20 WC Africa Qualifier Division 1)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
@@ -456,18 +468,6 @@
             "match_name": "Zimbabwe vs Sri Lanka",
             "match_id": 133668,
             "startTime": "05:00:00 PM 06-09-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Talanoa Tigers vs Dr Morepen Dazzlers (Chandigarh Premier League T20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136226_5651_TLT_DMD_fc-Web.jpg",
-            "team_1": "Talanoa Tigers",
-            "team_2": "Dr Morepen Dazzlers",
-            "status": "UPCOMING",
-            "event_name": "Chandigarh Premier League T20 Tournament, 2025",
-            "match_name": "Talanoa Tigers vs Dr Morepen Dazzlers",
-            "match_id": 136226,
-            "startTime": "02:15:00 PM 06-09-2025"
         }
     ]
 }
