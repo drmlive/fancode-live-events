@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:00:07 PM 05-09-2025",
+    "last update time": "07:10:44 PM 05-09-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -30,6 +30,20 @@
             "startTime": "06:45:00 PM 05-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/4pGoxU4BRwic5CG3pNLm-w/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133907_english_hls_bda23d8b9d13264ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Renaissance Challengers vs Pai XI Mavericks (Oman D10 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+            "team_1": "Renaissance Challengers",
+            "team_2": "Pai XI Mavericks",
+            "status": "LIVE",
+            "event_name": "Oman D10 League, 2025",
+            "match_name": "Renaissance Challengers vs Pai XI Mavericks",
+            "match_id": 136752,
+            "startTime": "07:15:00 PM 05-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/gDdi6byVQo2HhitK5bJb6w/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136752_english_hls_03ec30500d20387ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -84,8 +98,8 @@
             "match_name": "Kenya vs Gambia",
             "match_id": 136655,
             "startTime": "06:30:00 PM 05-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Y7ms1ZoKROqAQLcvm2ynVg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136655_english_hls_09708854cc94545ta-di_h264/index.m3u8"
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Golf",
@@ -150,20 +164,6 @@
             "match_name": "Barbados Royals vs Antigua & Barbuda Falcons",
             "match_id": 132367,
             "startTime": "04:30:00 AM 06-09-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Renaissance Challengers vs Pai XI Mavericks (Oman D10 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-            "team_1": "Renaissance Challengers",
-            "team_2": "Pai XI Mavericks",
-            "status": "LIVE",
-            "event_name": "Oman D10 League, 2025",
-            "match_name": "Renaissance Challengers vs Pai XI Mavericks",
-            "match_id": 136752,
-            "startTime": "07:15:00 PM 05-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/gDdi6byVQo2HhitK5bJb6w/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136752_english_hls_03ec30500d20387ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -452,6 +452,18 @@
             "match_name": "Qualifying Session",
             "match_id": 119066,
             "startTime": "07:25:00 PM 05-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Yalla Shabab Giants vs SFT Smashers (Oman D10 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_01.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "SFT Smashers",
+            "status": "UPCOMING",
+            "event_name": "Oman D10 League, 2025",
+            "match_name": "Yalla Shabab Giants vs SFT Smashers",
+            "match_id": 136756,
+            "startTime": "05:00:00 PM 06-09-2025"
         }
     ]
 }
