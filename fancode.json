@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:12:17 AM 06-09-2025",
+    "last update time": "10:22:23 AM 06-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "10:00:00 AM 06-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/iTPpEI5yQfS2RFRgRPhQNw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136225_english_hls_a14c53d89973064ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Arizona Diamondbacks vs Boston Red Sox (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136818_5028_AD_BRS_fc-Web.jpg",
-            "team_1": "Arizona Diamondbacks",
-            "team_2": "Boston Red Sox",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Arizona Diamondbacks vs Boston Red Sox",
-            "match_id": 136818,
-            "startTime": "07:10:00 AM 06-09-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136818_english_hls_6d2216ce4f88305ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136818_english_hls_6d2216ce4f88305ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -418,6 +404,18 @@
             "startTime": "05:00:00 PM 06-09-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Tawang Titans vs Siang Storm (Arunachal T20 Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+            "team_1": "Tawang Titans",
+            "team_2": "Siang Storm",
+            "status": "UPCOMING",
+            "event_name": "Arunachal T20 Championship, 2025",
+            "match_name": "Tawang Titans vs Siang Storm",
+            "match_id": 136252,
+            "startTime": "01:15:00 PM 07-09-2025"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Sprint Race vs Monza (F2 MONZA 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
@@ -442,18 +440,6 @@
             "startTime": "07:30:00 PM 06-09-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Tawang Titans vs Siang Storm (Arunachal T20 Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-            "team_1": "Tawang Titans",
-            "team_2": "Siang Storm",
-            "status": "UPCOMING",
-            "event_name": "Arunachal T20 Championship, 2025",
-            "match_name": "Tawang Titans vs Siang Storm",
-            "match_id": 136252,
-            "startTime": "01:15:00 PM 07-09-2025"
-        },
-        {
             "event_category": "Baseball",
             "title": "New York Yankees vs Toronto Blue Jays (Major League Baseball, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136819_5028_NEY_TOJ_fc-Web.jpg",
@@ -464,6 +450,18 @@
             "match_name": "New York Yankees vs Toronto Blue Jays",
             "match_id": 136819,
             "startTime": "10:35:00 PM 06-09-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Golfcrest Country Club (Aramco Houston Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco_Old_match-card_2_1757084244883.jpg",
+            "team_1": "Day 2",
+            "team_2": "Golfcrest Country Club",
+            "status": "UPCOMING",
+            "event_name": "Aramco Houston Championship",
+            "match_name": "Day 2",
+            "match_id": 133921,
+            "startTime": "11:30:00 PM 06-09-2025"
         }
     ]
 }
