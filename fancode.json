@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:58:12 PM 07-09-2025",
+    "last update time": "10:08:20 PM 07-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -128,20 +128,6 @@
             "startTime": "05:00:00 PM 07-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/P3s4pH3KSzqXi8ufXmhBeA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135828_english_hls_fd68dc1adc94209ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Race vs Italy (F1 PIRELLI GRAN PREMIO D\u2019ITALIA 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-GRAN-PREMIO-DITALIA-2025_match-card.jpg",
-            "team_1": "Race",
-            "team_2": "Italy",
-            "status": "LIVE",
-            "event_name": "F1 PIRELLI GRAN PREMIO D\u2019ITALIA 2025",
-            "match_name": "Race",
-            "match_id": 118460,
-            "startTime": "06:30:00 PM 07-09-2025",
-            "dai_url": "https://d266bbdxspm9rd.cloudfront.net/out/v1/aeb90808c10b4dfeb543017dc9144e91/index.m3u8",
-            "adfree_url": "https://d266bbdxspm9rd.cloudfront.net/out/v1/aeb90808c10b4dfeb543017dc9144e91/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -278,6 +264,18 @@
             "startTime": "10:30:00 PM 07-09-2025"
         },
         {
+            "event_category": "Baseball",
+            "title": "Baltimore Orioles vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136822_5028_BAO_LAD_fc-Web.jpg",
+            "team_1": "Baltimore Orioles",
+            "team_2": "Los Angeles Dodgers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Baltimore Orioles vs Los Angeles Dodgers",
+            "match_id": 136822,
+            "startTime": "11:05:00 PM 07-09-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Yalla Shabab Giants vs Pai XI Mavericks (Oman D10 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
@@ -411,18 +409,6 @@
         },
         {
             "event_category": "Baseball",
-            "title": "Baltimore Orioles vs Los Angeles Dodgers (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136822_5028_BAO_LAD_fc-Web.jpg",
-            "team_1": "Baltimore Orioles",
-            "team_2": "Los Angeles Dodgers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Baltimore Orioles vs Los Angeles Dodgers",
-            "match_id": 136822,
-            "startTime": "11:05:00 PM 07-09-2025"
-        },
-        {
-            "event_category": "Baseball",
             "title": "Texas Rangers vs Houston Astros (Major League Baseball, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136823_5028_TR_HAS_fc-Web.jpg",
             "team_1": "Texas Rangers",
@@ -432,6 +418,18 @@
             "match_name": "Texas Rangers vs Houston Astros",
             "match_id": 136823,
             "startTime": "12:05:00 AM 08-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Eibar vs FC Andorra (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/135975_5572_EIB_AND_fc-Web.jpg",
+            "team_1": "Eibar",
+            "team_2": "FC Andorra",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Eibar vs FC Andorra",
+            "match_id": 135975,
+            "startTime": "12:00:00 AM 09-09-2025"
         }
     ]
 }
