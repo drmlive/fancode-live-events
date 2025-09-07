@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:45:33 PM 07-09-2025",
+    "last update time": "06:55:39 PM 07-09-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -44,20 +44,6 @@
             "startTime": "03:30:00 PM 07-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022315/DAI11FC/master_mdh.m3u8?hdnea=exp=1757282600~acl=/*~id=73583059784068594759256127790303~hmac=59070b39fd47c6d85469354d3143c8940c33f64d425cb7ac683cc5c3bd86f09b"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Race Day vs Circuit de Barcelona-Catalunya (MONSTER ENERGY GRAND PRIX OF CATALONIA)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Catalonia_MOTOGP_2025_Old_match-card.jpg",
-            "team_1": "Race Day",
-            "team_2": "Circuit de Barcelona-Catalunya",
-            "status": "LIVE",
-            "event_name": "MONSTER ENERGY GRAND PRIX OF CATALONIA",
-            "match_name": "Race Day",
-            "match_id": 119180,
-            "startTime": "02:30:00 PM 07-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/z4ED4TgkR_KMBUpizQJa1g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119180_english_hls_7298acb22544206ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -400,6 +386,18 @@
             "match_name": "Bin Ali Strikers vs Ideal International",
             "match_id": 136765,
             "startTime": "09:45:00 PM 08-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Malawi vs Liberia (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136684_3741_MAL_LIB_Fc-Web.jpg",
+            "team_1": "Malawi",
+            "team_2": "Liberia",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Malawi vs Liberia",
+            "match_id": 136684,
+            "startTime": "09:30:00 PM 08-09-2025"
         }
     ]
 }
