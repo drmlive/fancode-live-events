@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:40:22 AM 08-09-2025",
+    "last update time": "12:50:27 AM 08-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "12:00:00 AM 08-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/TnangLakRlaJMLKz2oa5-w/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136762_english_hls_0695e195a77316ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Atlanta Braves vs Seattle Mariners (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136821_5028_AB_SEM_fc-Web.jpg",
-            "team_1": "Atlanta Braves",
-            "team_2": "Seattle Mariners",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Atlanta Braves vs Seattle Mariners",
-            "match_id": 136821,
-            "startTime": "09:35:00 PM 07-09-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136821_english_hls_3b6b632bf97939ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136821_english_hls_3b6b632bf97939ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -376,6 +362,18 @@
             "match_name": "Ghana vs Mali",
             "match_id": 136679,
             "startTime": "12:30:00 AM 09-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Samoa Women vs Philippines Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-East-Asia-Pacific-Qualifier_match-card.jpg",
+            "team_1": "Samoa Women",
+            "team_2": "Philippines Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
+            "match_name": "Samoa Women vs Philippines Women",
+            "match_id": 136706,
+            "startTime": "07:00:00 AM 09-09-2025"
         }
     ]
 }
