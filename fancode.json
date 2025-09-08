@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:33:48 AM 09-09-2025",
+    "last update time": "02:43:56 AM 09-09-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Libya vs Eswatini (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136682_3741_LIB_ESW_Fc-Web.jpg",
-            "team_1": "Libya",
-            "team_2": "Eswatini",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Libya vs Eswatini",
-            "match_id": 136682,
-            "startTime": "12:30:00 AM 09-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LxQ8zZu_TdS-bLIqotRM7Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136682_english_hls_25badfc51d95145ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Ghana vs Mali (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136679_3741_GHA_ML_Fc-Web.jpg",
-            "team_1": "Ghana",
-            "team_2": "Mali",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Ghana vs Mali",
-            "match_id": 136679,
-            "startTime": "12:30:00 AM 09-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/bOT-myEQTs2oDQjX0p7HfA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136679_english_hls_d456f96fb790ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Papua New Guinea Women vs Japan Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
@@ -45,13 +17,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Fiji Women vs Cook Islands Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
+            "title": "Cook Islands Women vs Fiji Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136703_5663_FIJW_COKW_fc-Web.jpg",
-            "team_1": "Fiji Women",
-            "team_2": "Cook Islands Women",
+            "team_1": "Cook Islands Women",
+            "team_2": "Fiji Women",
             "status": "UPCOMING",
             "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
-            "match_name": "Fiji Women vs Cook Islands Women",
+            "match_name": "Cook Islands Women vs Fiji Women",
             "match_id": 136703,
             "startTime": "03:00:00 AM 09-09-2025"
         },
@@ -438,6 +410,30 @@
             "match_name": "Los Angeles Dodgers vs Colorado Rockies",
             "match_id": 136824,
             "startTime": "07:40:00 AM 09-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Cook Islands Women vs Vanuatu Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136710_5663_COKW_VANW_fc-Web.jpg",
+            "team_1": "Cook Islands Women",
+            "team_2": "Vanuatu Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
+            "match_name": "Cook Islands Women vs Vanuatu Women",
+            "match_id": 136710,
+            "startTime": "07:00:00 AM 10-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Papua New Guinea Women vs Philippines Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136709_5663_PN-W_PHI_fc-Web.jpg",
+            "team_1": "Papua New Guinea Women",
+            "team_2": "Philippines Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
+            "match_name": "Papua New Guinea Women vs Philippines Women",
+            "match_id": 136709,
+            "startTime": "07:00:00 AM 10-09-2025"
         }
     ]
 }
