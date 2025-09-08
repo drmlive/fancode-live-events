@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:13:36 AM 09-09-2025",
+    "last update time": "02:23:42 AM 09-09-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Muscat Thunders vs Braveheart\u00a0XI (Oman D10 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
-            "team_1": "Muscat Thunders",
-            "team_2": "Braveheart\u00a0XI",
-            "status": "LIVE",
-            "event_name": "Oman D10 League, 2025",
-            "match_name": "Muscat Thunders vs Braveheart\u00a0XI",
-            "match_id": 136766,
-            "startTime": "12:00:00 AM 09-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/PLvmUJN9TZKijnaU4PIOvA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136766_english_hls_bb756ab8562348ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Libya vs Eswatini (CAF World Cup Qualifiers)",
@@ -44,20 +30,6 @@
             "startTime": "12:30:00 AM 09-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/bOT-myEQTs2oDQjX0p7HfA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136679_english_hls_d456f96fb790ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Eibar vs FC Andorra (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/135975_5572_EIB_AND_fc-Web.jpg",
-            "team_1": "Eibar",
-            "team_2": "FC Andorra",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Eibar vs FC Andorra",
-            "match_id": 135975,
-            "startTime": "12:00:00 AM 09-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ua2pe_uiRmK1Tz9h4Q9GBA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135975_english_hls_1410875fb425649ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -420,18 +392,6 @@
             "startTime": "12:30:00 AM 10-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs Colorado Rockies (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136824_5028_LAD_COR_fc-Web.jpg",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "Colorado Rockies",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs Colorado Rockies",
-            "match_id": 136824,
-            "startTime": "07:40:00 AM 09-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Peru vs Paraguay (CONMEBOL World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136675_3542_PER_PAR_fc-Web.jpg",
@@ -466,6 +426,18 @@
             "match_name": "Venezuela vs Colombia",
             "match_id": 136676,
             "startTime": "05:00:00 AM 10-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Colorado Rockies (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136824_5028_LAD_COR_fc-Web.jpg",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Colorado Rockies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Colorado Rockies",
+            "match_id": 136824,
+            "startTime": "07:40:00 AM 09-09-2025"
         }
     ]
 }
