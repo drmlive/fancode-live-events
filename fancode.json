@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:16:00 PM 08-09-2025",
+    "last update time": "06:26:15 PM 08-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -42,8 +42,8 @@
             "match_name": "Equatorial Guinea vs Tunisia",
             "match_id": 136678,
             "startTime": "06:30:00 PM 08-09-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/TatDa2JKTpWB48sn9LvlkQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136678_english_hls_4e1f34e3ae82706ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -70,8 +70,8 @@
             "match_name": "Mozambique vs Botswana",
             "match_id": 136685,
             "startTime": "06:30:00 PM 08-09-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/m8083X7WQnqoNXVZUoe2vQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136685_english_hls_dcb8d1836d81579ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -398,18 +398,6 @@
             "startTime": "06:30:00 PM 09-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs Colorado Rockies (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136824_5028_LAD_COR_fc-Web.jpg",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "Colorado Rockies",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs Colorado Rockies",
-            "match_id": 136824,
-            "startTime": "07:40:00 AM 09-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Muscat Thunders vs SFT Smashers (Oman D10 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
@@ -420,6 +408,18 @@
             "match_name": "Muscat Thunders vs SFT Smashers",
             "match_id": 136769,
             "startTime": "09:45:00 PM 09-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Colorado Rockies (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136824_5028_LAD_COR_fc-Web.jpg",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Colorado Rockies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Colorado Rockies",
+            "match_id": 136824,
+            "startTime": "07:40:00 AM 09-09-2025"
         }
     ]
 }
