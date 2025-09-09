@@ -1,12 +1,12 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:58:19 PM 09-09-2025",
+    "last update time": "02:08:30 PM 09-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
             "title": "Afghanistan vs Hong Kong, China (Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/match-1.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136731_5665_AFG_HK_fc-Web.jpg",
             "team_1": "Afghanistan",
             "team_2": "Hong Kong, China",
             "status": "UPCOMING",
@@ -35,11 +35,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136232_5651_TLT_CST_fc-Web.jpg",
             "team_1": "Talanoa Tigers",
             "team_2": "Chandigarh Kings",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Chandigarh Premier League T20 Tournament, 2025",
             "match_name": "Talanoa Tigers vs Chandigarh Kings",
             "match_id": 136232,
-            "startTime": "02:15:00 PM 09-09-2025"
+            "startTime": "02:15:00 PM 09-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/xo3iONKgT36cS33NfukJcA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136232_english_hls_4bb4fd4c223979ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -448,6 +450,18 @@
             "match_name": "England vs South Africa",
             "match_id": 135991,
             "startTime": "11:00:00 PM 10-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Trinbago Knight Riders Women vs Barbados Royals Women (Women's Caribbean Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133802_5594_TKR-W_BR-W_fc-Web_1757131430165.jpg",
+            "team_1": "Trinbago Knight Riders Women",
+            "team_2": "Barbados Royals Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Caribbean Premier League, 2025",
+            "match_name": "Trinbago Knight Riders Women vs Barbados Royals Women",
+            "match_id": 133802,
+            "startTime": "11:30:00 PM 10-09-2025"
         }
     ]
 }
