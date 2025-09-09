@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:11:15 AM 10-09-2025",
+    "last update time": "04:21:22 AM 10-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,20 +42,6 @@
             "startTime": "03:00:00 AM 10-09-2025",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Football",
-            "title": "Benin vs Lesotho (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136689_3741_BNI_LES_Fc-Web.jpg",
-            "team_1": "Benin",
-            "team_2": "Lesotho",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Benin vs Lesotho",
-            "match_id": 136689,
-            "startTime": "12:30:00 AM 10-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/NarWy2XOQ0ycUgcGBV18TA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136689_english_hls_648764249f25082ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -428,6 +414,18 @@
             "match_name": "Cook Islands Women vs Indonesia Women",
             "match_id": 136711,
             "startTime": "03:00:00 AM 12-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Samoa Women vs Papua New Guinea Women (ICC Women's T20 WC East Asia Pacific Qualifier)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136714_5663_SAMW_PN-W_fc-Web.jpg",
+            "team_1": "Samoa Women",
+            "team_2": "Papua New Guinea Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
+            "match_name": "Samoa Women vs Papua New Guinea Women",
+            "match_id": 136714,
+            "startTime": "07:00:00 AM 12-09-2025"
         }
     ]
 }
