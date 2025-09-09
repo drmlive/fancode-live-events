@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:41:38 AM 10-09-2025",
+    "last update time": "05:12:20 AM 10-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -45,27 +45,31 @@
         },
         {
             "event_category": "Football",
-            "title": "Peru vs Paraguay (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136675_3542_PER_PAR_fc-Web.jpg",
-            "team_1": "Peru",
-            "team_2": "Paraguay",
-            "status": "UPCOMING",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Peru vs Paraguay",
-            "match_id": 136675,
-            "startTime": "05:00:00 AM 10-09-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Chile vs Uruguay (CONMEBOL World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136674_3542_CHI_URU_fc-Web.jpg",
             "team_1": "Chile",
             "team_2": "Uruguay",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "CONMEBOL World Cup Qualifiers",
             "match_name": "Chile vs Uruguay",
             "match_id": 136674,
-            "startTime": "05:00:00 AM 10-09-2025"
+            "startTime": "05:00:00 AM 10-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ydjQiOWpRmiT_q6YZao7aw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136674_english_hls_b9b4a921b430117ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Peru vs Paraguay (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136675_3542_PER_PAR_fc-Web.jpg",
+            "team_1": "Peru",
+            "team_2": "Paraguay",
+            "status": "LIVE",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Peru vs Paraguay",
+            "match_id": 136675,
+            "startTime": "05:00:00 AM 10-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/4RDeHq19RdeQz_kUEjFqkg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136675_english_hls_cea640745d40393ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -73,11 +77,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136676_3542_VEN_COL_fc-Web.jpg",
             "team_1": "Venezuela",
             "team_2": "Colombia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "CONMEBOL World Cup Qualifiers",
             "match_name": "Venezuela vs Colombia",
             "match_id": 136676,
-            "startTime": "05:00:00 AM 10-09-2025"
+            "startTime": "05:00:00 AM 10-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/r_JONdxWReSOMl3X0blR_g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136676_english_hls_a5ae4abe5d58658ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
