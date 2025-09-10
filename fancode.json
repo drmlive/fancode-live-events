@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:53:39 AM 10-09-2025",
+    "last update time": "07:03:48 AM 10-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -26,8 +26,8 @@
             "match_name": "Cook Islands Women vs Vanuatu Women",
             "match_id": 136710,
             "startTime": "07:00:00 AM 10-09-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/tZNo-HpLSR2o29-hHkaklw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136710_english_hls_2188b5ec7d13852ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -135,6 +135,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons (Caribbean Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132371_5512_GUY_ABF_fc-web.jpg",
+            "team_1": "Guyana Amazon Warriors",
+            "team_2": "Antigua & Barbuda Falcons",
+            "status": "UPCOMING",
+            "event_name": "Caribbean Premier League, 2025",
+            "match_name": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
+            "match_id": 132371,
+            "startTime": "04:30:00 AM 11-09-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Kamle Knights vs KRA Dominators (Arunachal T20 Championship, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
             "team_1": "Kamle Knights",
@@ -156,18 +168,6 @@
             "match_name": "Capital Strikers vs Chandigarh Kings",
             "match_id": 136234,
             "startTime": "02:15:00 PM 10-09-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons (Caribbean Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132371_5512_GUY_ABF_fc-web.jpg",
-            "team_1": "Guyana Amazon Warriors",
-            "team_2": "Antigua & Barbuda Falcons",
-            "status": "UPCOMING",
-            "event_name": "Caribbean Premier League, 2025",
-            "match_name": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
-            "match_id": 132371,
-            "startTime": "04:30:00 AM 11-09-2025"
         },
         {
             "event_category": "Baseball",
@@ -194,18 +194,6 @@
             "startTime": "09:00:00 AM 11-09-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Rosa Challenge Tour vs Rosa Golf Club, Poland (Rosa Challenge Tour)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rosa-Challenge-Tour-2025_Old_match-card.jpg",
-            "team_1": "Rosa Challenge Tour",
-            "team_2": "Rosa Golf Club, Poland",
-            "status": "UPCOMING",
-            "event_name": "Rosa Challenge Tour",
-            "match_name": "Rosa Challenge Tour",
-            "match_id": 136624,
-            "startTime": "03:25:00 PM 10-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Panchkula Bashers vs Capital Strikers (Chandigarh Premier League T20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136235_5651_PKB_CST_fc-Web.jpg",
@@ -216,6 +204,18 @@
             "match_name": "Panchkula Bashers vs Capital Strikers",
             "match_id": 136235,
             "startTime": "10:00:00 AM 11-09-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Rosa Challenge Tour vs Rosa Golf Club, Poland (Rosa Challenge Tour)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rosa-Challenge-Tour-2025_Old_match-card.jpg",
+            "team_1": "Rosa Challenge Tour",
+            "team_2": "Rosa Golf Club, Poland",
+            "status": "UPCOMING",
+            "event_name": "Rosa Challenge Tour",
+            "match_name": "Rosa Challenge Tour",
+            "match_id": 136624,
+            "startTime": "03:25:00 PM 10-09-2025"
         },
         {
             "event_category": "Baseball",
