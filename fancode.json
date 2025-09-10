@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:22:26 AM 10-09-2025",
+    "last update time": "05:32:33 AM 10-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -45,20 +45,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Chile vs Uruguay (CONMEBOL World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136674_3542_CHI_URU_fc-Web.jpg",
-            "team_1": "Chile",
-            "team_2": "Uruguay",
-            "status": "LIVE",
-            "event_name": "CONMEBOL World Cup Qualifiers",
-            "match_name": "Chile vs Uruguay",
-            "match_id": 136674,
-            "startTime": "05:00:00 AM 10-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ydjQiOWpRmiT_q6YZao7aw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136674_english_hls_b9b4a921b430117ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Peru vs Paraguay (CONMEBOL World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136675_3542_PER_PAR_fc-Web.jpg",
             "team_1": "Peru",
@@ -70,6 +56,20 @@
             "startTime": "05:00:00 AM 10-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/4RDeHq19RdeQz_kUEjFqkg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136675_english_hls_cea640745d40393ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chile vs Uruguay (CONMEBOL World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136674_3542_CHI_URU_fc-Web.jpg",
+            "team_1": "Chile",
+            "team_2": "Uruguay",
+            "status": "LIVE",
+            "event_name": "CONMEBOL World Cup Qualifiers",
+            "match_name": "Chile vs Uruguay",
+            "match_id": 136674,
+            "startTime": "05:00:00 AM 10-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ydjQiOWpRmiT_q6YZao7aw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136674_english_hls_b9b4a921b430117ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -278,18 +278,6 @@
             "startTime": "01:15:00 PM 11-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs Colorado Rockies (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136828_5028_LAD_COR_fc-Web.jpg",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "Colorado Rockies",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs Colorado Rockies",
-            "match_id": 136828,
-            "startTime": "08:10:00 AM 11-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Talanoa Tigers vs Altruistian (Chandigarh Premier League T20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136236_5651_TLT_ALT_fc-Web.jpg",
@@ -300,6 +288,18 @@
             "match_name": "Talanoa Tigers vs Altruistian",
             "match_id": 136236,
             "startTime": "02:15:00 PM 11-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Colorado Rockies (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136828_5028_LAD_COR_fc-Web.jpg",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Colorado Rockies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Colorado Rockies",
+            "match_id": 136828,
+            "startTime": "08:10:00 AM 11-09-2025"
         },
         {
             "event_category": "Cricket",
