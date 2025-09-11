@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:34:03 AM 12-09-2025",
+    "last update time": "02:44:19 AM 12-09-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -16,20 +16,6 @@
             "startTime": "07:30:00 PM 11-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Rji0lEoNQ2Cz7ef4HHcmlA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136918_english_hls_d55f9486e458868ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Chicago White Sox vs Tampa Bay Rays (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chicago_white_Sox_vs_Tampa_bay_old_match-card.jpg",
-            "team_1": "Chicago White Sox",
-            "team_2": "Tampa Bay Rays",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Chicago White Sox vs Tampa Bay Rays",
-            "match_id": 136889,
-            "startTime": "11:40:00 PM 11-09-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136889_english_hls_13858419ab34431ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136889_english_hls_13858419ab34431ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -49,11 +35,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136712_5663_PHI_JPN-W_fc-Web.jpg",
             "team_1": "Japan Women",
             "team_2": "Philippines Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
             "match_name": "Japan Women vs Philippines Women",
             "match_id": 136712,
-            "startTime": "03:00:00 AM 12-09-2025"
+            "startTime": "03:00:00 AM 12-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZkbchgoxSNqzgUPoxHAo_w/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136712_english_hls_f6f0a2c13353197ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -61,11 +49,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136711_5663_COKW_INA-W_fc-Web.jpg",
             "team_1": "Indonesia Women",
             "team_2": "Cook Islands Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Women's T20 WC East Asia Pacific Qualifier",
             "match_name": "Indonesia Women vs Cook Islands Women",
             "match_id": 136711,
-            "startTime": "03:00:00 AM 12-09-2025"
+            "startTime": "03:00:00 AM 12-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/n1tIzoLGRB6h-JqYpcStsQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136711_english_hls_bec6cff4ed66437ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -200,18 +190,6 @@
             "startTime": "05:00:00 PM 12-09-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "KRA Dominators vs Tawang Titans (Arunachal T20 Championship, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
-            "team_1": "KRA Dominators",
-            "team_2": "Tawang Titans",
-            "status": "UPCOMING",
-            "event_name": "Arunachal T20 Championship, 2025",
-            "match_name": "KRA Dominators vs Tawang Titans",
-            "match_id": 136262,
-            "startTime": "09:00:00 AM 12-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Al-Ittihad vs Al-Fateh (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-VS-Al-Fateh_old.jpg",
@@ -222,6 +200,18 @@
             "match_name": "Al-Ittihad vs Al-Fateh",
             "match_id": 136612,
             "startTime": "11:30:00 PM 12-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "KRA Dominators vs Tawang Titans (Arunachal T20 Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Arunachal-T20-Championship_Match_card.jpg",
+            "team_1": "KRA Dominators",
+            "team_2": "Tawang Titans",
+            "status": "UPCOMING",
+            "event_name": "Arunachal T20 Championship, 2025",
+            "match_name": "KRA Dominators vs Tawang Titans",
+            "match_id": 136262,
+            "startTime": "09:00:00 AM 12-09-2025"
         },
         {
             "event_category": "Cricket",
