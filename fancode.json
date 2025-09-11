@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:47:12 PM 11-09-2025",
+    "last update time": "06:57:21 PM 11-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/1-BANvsHK_Old_match-card.jpg",
             "team_1": "Bangladesh",
             "team_2": "Hong Kong, China",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Asia Cup, 2025",
             "match_name": "Bangladesh vs Hong Kong, China",
             "match_id": 136733,
-            "startTime": "08:00:00 PM 11-09-2025"
+            "startTime": "08:00:00 PM 11-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/inq9igrMQ32gRZqcAKG_3w/master.m3u8",
+            "adfree_url": null
         },
         {
             "event_category": "Golf",
@@ -141,18 +143,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pai XI Mavericks vs Braveheart\u00a0XI (Oman D10 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
-            "team_1": "Pai XI Mavericks",
-            "team_2": "Braveheart\u00a0XI",
-            "status": "UPCOMING",
-            "event_name": "Oman D10 League, 2025",
-            "match_name": "Pai XI Mavericks vs Braveheart\u00a0XI",
-            "match_id": 136774,
-            "startTime": "12:00:00 AM 12-09-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Chandigarh Kings vs Panchkula Bashers (Chandigarh Premier League T20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136216_5651_CST_PKB_fc-Web.jpg",
             "team_1": "Chandigarh Kings",
@@ -162,6 +152,18 @@
             "match_name": "Chandigarh Kings vs Panchkula Bashers",
             "match_id": 136238,
             "startTime": "02:15:00 PM 12-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pai XI Mavericks vs Braveheart\u00a0XI (Oman D10 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
+            "team_1": "Pai XI Mavericks",
+            "team_2": "Braveheart\u00a0XI",
+            "status": "UPCOMING",
+            "event_name": "Oman D10 League, 2025",
+            "match_name": "Pai XI Mavericks vs Braveheart\u00a0XI",
+            "match_id": 136774,
+            "startTime": "12:00:00 AM 12-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -380,18 +382,6 @@
             "startTime": "02:35:00 PM 12-09-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Wentworth Club (BMW PGA Championship 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-Championship_old.jpg",
-            "team_1": "Day 2",
-            "team_2": "Wentworth Club",
-            "status": "UPCOMING",
-            "event_name": "BMW PGA Championship 2025",
-            "match_name": "Day 2",
-            "match_id": 135830,
-            "startTime": "04:30:00 PM 12-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Sevilla vs Elche (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130869_5427_SEV_ELC_fc-Web_1757156106480.jpg",
@@ -401,6 +391,18 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "Sevilla vs Elche",
             "match_id": 130869,
+            "startTime": "12:30:00 AM 13-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Ipswich Town vs Sheffield United (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132002_5489_IPT_SHF_fc-web.jpg",
+            "team_1": "Ipswich Town",
+            "team_2": "Sheffield United",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Ipswich Town vs Sheffield United",
+            "match_id": 132002,
             "startTime": "12:30:00 AM 13-09-2025"
         }
     ]
