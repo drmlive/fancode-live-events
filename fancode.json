@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:04:32 PM 12-09-2025",
+    "last update time": "04:14:41 PM 12-09-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -13,7 +13,7 @@
             "event_name": "RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA",
             "match_name": "Day 1",
             "match_id": 119192,
-            "startTime": "12:00:00 PM 12-09-2025",
+            "startTime": "06:30:00 PM 12-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/dND2mwV3S7a8_RfdCMdTUg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119192_english_hls_6480ffada670845ta-di_h264/index.m3u8"
         },
@@ -70,6 +70,20 @@
             "match_name": "Dirang Daredevils vs Kurung Blasters",
             "match_id": 136263,
             "startTime": "01:15:00 PM 12-09-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Wentworth Club (BMW PGA Championship 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-Championship_old.jpg",
+            "team_1": "Day 2",
+            "team_2": "Wentworth Club",
+            "status": "LIVE",
+            "event_name": "BMW PGA Championship 2025",
+            "match_name": "Day 2",
+            "match_id": 135830,
+            "startTime": "04:30:00 PM 12-09-2025",
             "dai_url": null,
             "adfree_url": null
         },
@@ -290,18 +304,6 @@
             "startTime": "12:00:00 AM 13-09-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Wentworth Club (BMW PGA Championship 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-Championship_old.jpg",
-            "team_1": "Day 2",
-            "team_2": "Wentworth Club",
-            "status": "UPCOMING",
-            "event_name": "BMW PGA Championship 2025",
-            "match_name": "Day 2",
-            "match_id": 135830,
-            "startTime": "04:30:00 PM 12-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Northamptonshire vs Hampshire (Vitality Blast T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Northamptonshire_v_Hampshire__Old_match_cards_1.jpg",
@@ -338,18 +340,6 @@
             "startTime": "08:00:00 PM 13-09-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Charlton Athletic vs Millwall (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132001_5489_CHL_MLW_fc-web.jpg",
-            "team_1": "Charlton Athletic",
-            "team_2": "Millwall",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Charlton Athletic vs Millwall",
-            "match_id": 132001,
-            "startTime": "05:00:00 PM 13-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Guyana Amazon Warriors vs Saint Lucia Kings (Caribbean Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/132374_5512_GUY_SLK_fc-web.jpg",
@@ -360,6 +350,18 @@
             "match_name": "Guyana Amazon Warriors vs Saint Lucia Kings",
             "match_id": 132374,
             "startTime": "08:30:00 PM 13-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Charlton Athletic vs Millwall (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132001_5489_CHL_MLW_fc-web.jpg",
+            "team_1": "Charlton Athletic",
+            "team_2": "Millwall",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Charlton Athletic vs Millwall",
+            "match_id": 132001,
+            "startTime": "05:00:00 PM 13-09-2025"
         },
         {
             "event_category": "Football",
