@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:31:29 PM 13-09-2025",
+    "last update time": "11:44:26 PM 13-09-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Sri Lanka (Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3-BANvsSRL_Old_match-card.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "Sri Lanka",
-            "status": "LIVE",
-            "event_name": "Asia Cup, 2025",
-            "match_name": "Bangladesh vs Sri Lanka",
-            "match_id": 136735,
-            "startTime": "08:00:00 PM 13-09-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Saint Lucia Kings vs Guyana Amazon Warriors (Caribbean Premier League, 2025)",
@@ -88,6 +74,34 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136783_english_hls_61ef59fb6b59268ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Baseball",
+            "title": "Chicago Cubs vs Tampa Bay Rays (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136893_5028_CHC_TAB_FC-Web.jpg",
+            "team_1": "Chicago Cubs",
+            "team_2": "Tampa Bay Rays",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Chicago Cubs vs Tampa Bay Rays",
+            "match_id": 136893,
+            "startTime": "11:50:00 PM 13-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136893_english_hls_f8676fd1e970885ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136893_english_hls_f8676fd1e970885ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Sri Lanka (Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3-BANvsSRL_Old_match-card.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Sri Lanka",
+            "status": "LIVE",
+            "event_name": "Asia Cup, 2025",
+            "match_name": "Bangladesh vs Sri Lanka",
+            "match_id": 136735,
+            "startTime": "08:00:00 PM 13-09-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Cricket",
             "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133803_5594_TKR-W_GUY-W_fc-Web_1757131430163.jpg",
@@ -141,11 +155,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
             "team_1": "Muscat Thunders",
             "team_2": "Renaissance Challengers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Oman D10 League, 2025",
             "match_name": "Muscat Thunders vs Renaissance Challengers",
             "match_id": 136784,
-            "startTime": "12:00:00 AM 14-09-2025"
+            "startTime": "12:00:00 AM 14-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Z2dIkR8oR4SX98RLdPPK1Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136784_english_hls_6d0e903f5580112ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -160,18 +176,6 @@
             "startTime": "12:30:00 AM 14-09-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Southampton vs Portsmouth (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132003_5489_SOU_PRM_fc-web.jpg",
-            "team_1": "Southampton",
-            "team_2": "Portsmouth",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton vs Portsmouth",
-            "match_id": 132003,
-            "startTime": "04:30:00 PM 14-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Barbados Royals Women vs Guyana Amazon Warriors Women (Women's Caribbean Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133804_5594_BR-W_GUY-W_fc-Web_1757131430160.jpg",
@@ -182,6 +186,18 @@
             "match_name": "Barbados Royals Women vs Guyana Amazon Warriors Women",
             "match_id": 133804,
             "startTime": "11:30:00 PM 14-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Southampton vs Portsmouth (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132003_5489_SOU_PRM_fc-web.jpg",
+            "team_1": "Southampton",
+            "team_2": "Portsmouth",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Southampton vs Portsmouth",
+            "match_id": 132003,
+            "startTime": "04:30:00 PM 14-09-2025"
         },
         {
             "event_category": "Football",
@@ -206,18 +222,6 @@
             "match_name": "Levante vs Real Betis",
             "match_id": 130868,
             "startTime": "07:45:00 PM 14-09-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Chicago Cubs vs Tampa Bay Rays (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136893_5028_CHC_TAB_FC-Web.jpg",
-            "team_1": "Chicago Cubs",
-            "team_2": "Tampa Bay Rays",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Chicago Cubs vs Tampa Bay Rays",
-            "match_id": 136893,
-            "startTime": "11:50:00 PM 13-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -340,6 +344,18 @@
             "startTime": "03:30:00 AM 14-09-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Royal Oman Stallions vs Renaissance Challengers (Oman D10 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
+            "team_1": "Royal Oman Stallions",
+            "team_2": "Renaissance Challengers",
+            "status": "UPCOMING",
+            "event_name": "Oman D10 League, 2025",
+            "match_name": "Royal Oman Stallions vs Renaissance Challengers",
+            "match_id": 136787,
+            "startTime": "12:00:00 AM 15-09-2025"
+        },
+        {
             "event_category": "Live events",
             "title": "Satara Hill Half Marathon vs Satara (JBG Satara Hill Half Marathon powered by Mala's)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Satara-Hill-Half-Marathon_old.jpg",
@@ -376,18 +392,6 @@
             "startTime": "07:35:00 AM 14-09-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Royal Oman Stallions vs Renaissance Challengers (Oman D10 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
-            "team_1": "Royal Oman Stallions",
-            "team_2": "Renaissance Challengers",
-            "status": "UPCOMING",
-            "event_name": "Oman D10 League, 2025",
-            "match_name": "Royal Oman Stallions vs Renaissance Challengers",
-            "match_id": 136787,
-            "startTime": "12:00:00 AM 15-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Granada vs Legan\u00e9s (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/136669_CASACARDS_APP.png",
@@ -398,30 +402,6 @@
             "match_name": "Granada vs Legan\u00e9s",
             "match_id": 136669,
             "startTime": "12:30:00 AM 15-09-2025"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Qualifying 2 vs Germany (DTM Red Bull Ring)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_-Austria-2025_old-match-card.jpg",
-            "team_1": "Qualifying 2",
-            "team_2": "Germany",
-            "status": "UPCOMING",
-            "event_name": "DTM Red Bull Ring",
-            "match_name": "Qualifying 2",
-            "match_id": 136632,
-            "startTime": "12:45:00 PM 14-09-2025"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Race Day vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RED-BULL-GRAND-PRIX-OF-SAN-MARINO--RIMINI-RIVIERA-old-match-card.jpg",
-            "team_1": "Race Day",
-            "team_2": "Misano World Circuit Marco Simoncelli",
-            "status": "UPCOMING",
-            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA",
-            "match_name": "San Marino GP",
-            "match_id": 119196,
-            "startTime": "01:10:00 PM 14-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -449,6 +429,30 @@
         },
         {
             "event_category": "Motorsports",
+            "title": "Qualifying 2 vs Germany (DTM Red Bull Ring)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_-Austria-2025_old-match-card.jpg",
+            "team_1": "Qualifying 2",
+            "team_2": "Germany",
+            "status": "UPCOMING",
+            "event_name": "DTM Red Bull Ring",
+            "match_name": "Qualifying 2",
+            "match_id": 136632,
+            "startTime": "12:45:00 PM 14-09-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Race Day vs Misano World Circuit Marco Simoncelli (RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/RED-BULL-GRAND-PRIX-OF-SAN-MARINO--RIMINI-RIVIERA-old-match-card.jpg",
+            "team_1": "Race Day",
+            "team_2": "Misano World Circuit Marco Simoncelli",
+            "status": "UPCOMING",
+            "event_name": "RED BULL GRAND PRIX OF SAN MARINO & RIMINI RIVIERA",
+            "match_name": "San Marino GP",
+            "match_id": 119196,
+            "startTime": "01:10:00 PM 14-09-2025"
+        },
+        {
+            "event_category": "Motorsports",
             "title": "NLS 8 vs Germany (Nurburgring Langstrecken Serie 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Nurburgring_Race_Langstrecken_Serie_2025_Old_match-card_2025_Old_match-card.jpg",
             "team_1": "NLS 8",
@@ -458,6 +462,18 @@
             "match_name": "NLS 8",
             "match_id": 136936,
             "startTime": "03:30:00 PM 14-09-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Wentworth Club (BMW PGA Championship 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-PGA-Championship_old.jpg",
+            "team_1": "Day 4",
+            "team_2": "Wentworth Club",
+            "status": "UPCOMING",
+            "event_name": "BMW PGA Championship 2025",
+            "match_name": "Day 4",
+            "match_id": 135832,
+            "startTime": "04:30:00 PM 14-09-2025"
         }
     ]
 }
