@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:02:29 AM 14-09-2025",
+    "last update time": "10:12:37 AM 14-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,20 +42,6 @@
             "startTime": "06:00:00 AM 14-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/4IhK6ciIQ2CqX_XlCBCQPw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136723_english_hls_820cf00ccd68327ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "San Francisco Giants vs Los Angeles Dodgers (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136892_5028_SFG_LAD_FC-Web.jpg",
-            "team_1": "San Francisco Giants",
-            "team_2": "Los Angeles Dodgers",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "San Francisco Giants vs Los Angeles Dodgers",
-            "match_id": 136892,
-            "startTime": "06:35:00 AM 14-09-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136892_english_hls_1a70536c4a60848ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136892_english_hls_1a70536c4a60848ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -394,6 +380,18 @@
             "match_name": "World Feed - Day 4",
             "match_id": 136930,
             "startTime": "03:30:00 AM 15-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "United Arab Emirates vs Oman (Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/5-UAEvsOMAN_Old_match-card.jpg",
+            "team_1": "United Arab Emirates",
+            "team_2": "Oman",
+            "status": "UPCOMING",
+            "event_name": "Asia Cup, 2025",
+            "match_name": "United Arab Emirates vs Oman",
+            "match_id": 136737,
+            "startTime": "05:30:00 PM 15-09-2025"
         }
     ]
 }
