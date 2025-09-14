@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:54:07 PM 14-09-2025",
+    "last update time": "12:04:16 AM 15-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130862_5427_BAR_VAL_fc-Web.jpg",
             "team_1": "Barcelona",
             "team_2": "Valencia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "Barcelona vs Valencia",
             "match_id": 130862,
-            "startTime": "12:30:00 AM 15-09-2025"
+            "startTime": "12:30:00 AM 15-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130862_english_hls_eb261c93457261adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130862_english_hls_eb261c93457261adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -58,34 +60,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133804_english_hls_261721a09146158ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Osasuna vs Rayo Vallecano (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130866_5427_OSN_RVL_fc-Web.jpg",
-            "team_1": "Osasuna",
-            "team_2": "Rayo Vallecano",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Osasuna vs Rayo Vallecano",
-            "match_id": 130866,
-            "startTime": "10:00:00 PM 14-09-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130866_english_hls_f683a2ccb318607adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130866_english_hls_f683a2ccb318607adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Yalla Shabab Giants vs Muscat Thunders (Oman D10 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
-            "team_1": "Yalla Shabab Giants",
-            "team_2": "Muscat Thunders",
-            "status": "LIVE",
-            "event_name": "Oman D10 League, 2025",
-            "match_name": "Yalla Shabab Giants vs Muscat Thunders",
-            "match_id": 136786,
-            "startTime": "10:00:00 PM 14-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/vi4AWQ6oRG-hiPpxvC9x8Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136786_english_hls_97e352122a52895ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Royal Oman Stallions vs Renaissance Challengers (Oman D10 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_03.jpg",
@@ -98,6 +72,20 @@
             "startTime": "12:00:00 AM 15-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/wnWIWxx2R-etlPFysQGjaQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136787_english_hls_5d5b6719a94791ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Osasuna vs Rayo Vallecano (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130866_5427_OSN_RVL_fc-Web.jpg",
+            "team_1": "Osasuna",
+            "team_2": "Rayo Vallecano",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Osasuna vs Rayo Vallecano",
+            "match_id": 130866,
+            "startTime": "10:00:00 PM 14-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130866_english_hls_f683a2ccb318607adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130866_english_hls_f683a2ccb318607adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -422,6 +410,18 @@
             "match_name": "Melbourne City vs Sanfrecce Hiroshima",
             "match_id": 135995,
             "startTime": "01:15:00 PM 16-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Machida Zelvia vs Seoul (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Machida Zelvia",
+            "team_2": "Seoul",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Machida Zelvia vs Seoul",
+            "match_id": 135997,
+            "startTime": "03:30:00 PM 16-09-2025"
         }
     ]
 }
