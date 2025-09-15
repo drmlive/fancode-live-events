@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:34:46 PM 15-09-2025",
+    "last update time": "09:44:58 PM 15-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,20 +18,6 @@
             "adfree_url": null
         },
         {
-            "event_category": "Cricket",
-            "title": "Sri Lanka Under-19 vs West Indies Under-19 (Sri Lanka Under-19 tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Under-19-tour-of-West-Indies-2025-old-match-card.png",
-            "team_1": "Sri Lanka Under-19",
-            "team_2": "West Indies Under-19",
-            "status": "LIVE",
-            "event_name": "Sri Lanka Under-19 tour of West Indies, 2025",
-            "match_name": "Sri Lanka Under-19 vs West Indies Under-19",
-            "match_id": 135987,
-            "startTime": "07:00:00 PM 15-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qe1tanAaQD-Leh_hH_krhQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135987_english_hls_2d1b2766dd58079ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Al Wahda vs Al-Ittihad (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Al-Wahda-vs-Al-Ittihad_Old_-Match_Cards.jpg",
@@ -44,6 +30,20 @@
             "startTime": "09:30:00 PM 15-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/gIjBYrm-Qn2SHsSc5Xd28w/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136044_english_hls_c594fd4c0232208ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka Under-19 vs West Indies Under-19 (Sri Lanka Under-19 tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Under-19-tour-of-West-Indies-2025-old-match-card.png",
+            "team_1": "Sri Lanka Under-19",
+            "team_2": "West Indies Under-19",
+            "status": "LIVE",
+            "event_name": "Sri Lanka Under-19 tour of West Indies, 2025",
+            "match_name": "Sri Lanka Under-19 vs West Indies Under-19",
+            "match_id": 135987,
+            "startTime": "07:00:00 PM 15-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/qe1tanAaQD-Leh_hH_krhQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135987_english_hls_2d1b2766dd58079ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -65,11 +65,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
             "team_1": "Royal Oman Stallions",
             "team_2": "Muscat Thunders",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Oman D10 League, 2025",
             "match_name": "Royal Oman Stallions vs Muscat Thunders",
             "match_id": 136789,
-            "startTime": "10:00:00 PM 15-09-2025"
+            "startTime": "10:00:00 PM 15-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/By96wyRzSaCNJj9BggbA6A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136789_english_hls_635fed411068331ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -276,18 +278,6 @@
             "startTime": "11:45:00 PM 16-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Pittsburgh Pirates vs Chicago Cubs (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136898_5028_PBP_CHC_FC-Web.jpg",
-            "team_1": "Pittsburgh Pirates",
-            "team_2": "Chicago Cubs",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Pittsburgh Pirates vs Chicago Cubs",
-            "match_id": 136898,
-            "startTime": "04:10:00 AM 16-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Muscat Thunders vs Majees Titans (Oman D10 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
@@ -298,6 +288,18 @@
             "match_name": "Muscat Thunders vs Majees Titans",
             "match_id": 136792,
             "startTime": "10:00:00 PM 16-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Pittsburgh Pirates vs Chicago Cubs (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136898_5028_PBP_CHC_FC-Web.jpg",
+            "team_1": "Pittsburgh Pirates",
+            "team_2": "Chicago Cubs",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Pittsburgh Pirates vs Chicago Cubs",
+            "match_id": 136898,
+            "startTime": "04:10:00 AM 16-09-2025"
         },
         {
             "event_category": "Baseball",
@@ -406,6 +408,18 @@
             "match_name": "Boston Red Sox vs Oakland Athletics",
             "match_id": 136901,
             "startTime": "04:15:00 AM 17-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Philadelphia Phillies (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136902_5028_LAD_PHP_FC-Web.jpg",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Philadelphia Phillies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Philadelphia Phillies",
+            "match_id": 136902,
+            "startTime": "07:40:00 AM 17-09-2025"
         }
     ]
 }
