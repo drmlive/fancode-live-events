@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:58:26 PM 16-09-2025",
+    "last update time": "12:08:38 AM 17-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136832_5488_CRY_MLW_FC-Web.jpg",
             "team_1": "Crystal Palace",
             "team_2": "Millwall",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Carabao Cup 2025-2026",
             "match_name": "Crystal Palace vs Millwall",
             "match_id": 136832,
-            "startTime": "12:15:00 AM 17-09-2025"
+            "startTime": "12:15:00 AM 17-09-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -49,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133805_5594_BR-W_TKR-W_fc-Web_1757131430971.jpg",
             "team_1": "Barbados Royals Women",
             "team_2": "Trinbago Knight Riders Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Women's Caribbean Premier League, 2025",
             "match_name": "Barbados Royals Women vs Trinbago Knight Riders Women",
             "match_id": 133805,
-            "startTime": "12:30:00 AM 17-09-2025"
+            "startTime": "12:30:00 AM 17-09-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -66,20 +70,6 @@
             "match_name": "Brentford vs Aston Villa",
             "match_id": 136833,
             "startTime": "12:30:00 AM 17-09-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Muscat Thunders vs Majees Titans (Oman D10 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D10_old_02.jpg",
-            "team_1": "Muscat Thunders",
-            "team_2": "Majees Titans",
-            "status": "LIVE",
-            "event_name": "Oman D10 League, 2025",
-            "match_name": "Muscat Thunders vs Majees Titans",
-            "match_id": 136792,
-            "startTime": "10:00:00 PM 16-09-2025",
-            "dai_url": null,
-            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -281,6 +271,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Swansea City vs Nottingham Forest (Carabao Cup 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136834_5488_SWA_NOT_FC-Web.jpg",
+            "team_1": "Swansea City",
+            "team_2": "Nottingham Forest",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2025-2026",
+            "match_name": "Swansea City vs Nottingham Forest",
+            "match_id": 136834,
+            "startTime": "12:30:00 AM 18-09-2025"
+        },
+        {
+            "event_category": "Football",
             "title": "Al Ahli (QAT) vs Khaldiya (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136104_5648_ASC_KHA_fc-Web.jpg",
             "team_1": "Al Ahli (QAT)",
@@ -314,18 +316,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 136795,
             "startTime": "09:30:00 PM 17-09-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Swansea City vs Nottingham Forest (Carabao Cup 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136834_5488_SWA_NOT_FC-Web.jpg",
-            "team_1": "Swansea City",
-            "team_2": "Nottingham Forest",
-            "status": "UPCOMING",
-            "event_name": "Carabao Cup 2025-2026",
-            "match_name": "Swansea City vs Nottingham Forest",
-            "match_id": 136834,
-            "startTime": "12:30:00 AM 18-09-2025"
         },
         {
             "event_category": "Football",
@@ -469,6 +459,18 @@
             "event_name": "AFC Champions League Two 2025-26",
             "match_name": "Selangor vs Bangkok United",
             "match_id": 136163,
+            "startTime": "03:30:00 PM 18-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wofoo Tai Po vs Macarthur (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136139_5648_WTP_MAC_fc-Web.jpg",
+            "team_1": "Wofoo Tai Po",
+            "team_2": "Macarthur",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Wofoo Tai Po vs Macarthur",
+            "match_id": 136139,
             "startTime": "03:30:00 PM 18-09-2025"
         }
     ]
