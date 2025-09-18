@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:52:54 PM 18-09-2025",
+    "last update time": "07:03:04 PM 18-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,21 +9,23 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/9-SRLvsAFG_Old_match-card.jpg",
             "team_1": "Sri Lanka",
             "team_2": "Afghanistan",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Asia Cup, 2025",
             "match_name": "Sri Lanka vs Afghanistan",
             "match_id": 136741,
-            "startTime": "08:00:00 PM 18-09-2025"
+            "startTime": "08:00:00 PM 18-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/daYZdmQGR6CnlLWkjW7MhQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136741_english_hls_bd85d9d91112870ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
-            "title": "Rourkela Steelers vs Sambalpur Warriors (Odisha Pro T20 League, 2025)",
+            "title": "Sambalpur Warriors vs Rourkela Steelers (Odisha Pro T20 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-            "team_1": "Rourkela Steelers",
-            "team_2": "Sambalpur Warriors",
+            "team_1": "Sambalpur Warriors",
+            "team_2": "Rourkela Steelers",
             "status": "LIVE",
             "event_name": "Odisha Pro T20 League, 2025",
-            "match_name": "Rourkela Steelers vs Sambalpur Warriors",
+            "match_name": "Sambalpur Warriors vs Rourkela Steelers",
             "match_id": 137062,
             "startTime": "07:00:00 PM 18-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/fqUocOMeRTO0qEg6w37jdQ/master.m3u8",
@@ -220,18 +222,6 @@
             "startTime": "11:30:00 AM 19-09-2025"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Practice 1 vs Azerbaijan (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Azerbaijan_Race_old.jpg",
-            "team_1": "Practice 1",
-            "team_2": "Azerbaijan",
-            "status": "UPCOMING",
-            "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025",
-            "match_name": "Practice 1",
-            "match_id": 118461,
-            "startTime": "02:00:00 PM 19-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Al-Ahli vs Al-Hilal (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136600_5655_AAS_AHS_fc-web.jpg",
@@ -242,6 +232,18 @@
             "match_name": "Al-Ahli vs Al-Hilal",
             "match_id": 136600,
             "startTime": "11:30:00 PM 19-09-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 1 vs Azerbaijan (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Azerbaijan_Race_old.jpg",
+            "team_1": "Practice 1",
+            "team_2": "Azerbaijan",
+            "status": "UPCOMING",
+            "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025",
+            "match_name": "Practice 1",
+            "match_id": 118461,
+            "startTime": "02:00:00 PM 19-09-2025"
         },
         {
             "event_category": "Motorsports",
