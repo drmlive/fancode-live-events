@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:33:27 AM 19-09-2025",
+    "last update time": "08:43:35 AM 19-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -26,8 +26,8 @@
             "match_name": "Los Angeles Dodgers vs San Francisco Giants",
             "match_id": 136908,
             "startTime": "07:40:00 AM 19-09-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136908_english_hls_b3459fe10975794ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136908_english_hls_b3459fe10975794ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -246,18 +246,6 @@
             "startTime": "07:10:00 AM 20-09-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Cerezo Osaka vs Kashiwa Reysol (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132097_CASACARDS_APP.png",
-            "team_1": "Cerezo Osaka",
-            "team_2": "Kashiwa Reysol",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Cerezo Osaka vs Kashiwa Reysol",
-            "match_id": 132097,
-            "startTime": "03:00:00 PM 20-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Puri Titans vs Sambalpur Warriors (Odisha Pro T20 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
@@ -268,6 +256,18 @@
             "match_name": "Puri Titans vs Sambalpur Warriors",
             "match_id": 137066,
             "startTime": "07:00:00 PM 20-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cerezo Osaka vs Kashiwa Reysol (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132097_CASACARDS_APP.png",
+            "team_1": "Cerezo Osaka",
+            "team_2": "Kashiwa Reysol",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Cerezo Osaka vs Kashiwa Reysol",
+            "match_id": 132097,
+            "startTime": "03:00:00 PM 20-09-2025"
         },
         {
             "event_category": "Football",
