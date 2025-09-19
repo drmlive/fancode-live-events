@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:04:50 PM 19-09-2025",
+    "last update time": "11:14:58 PM 19-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,25 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136600_5655_AAS_AHS_fc-web.jpg",
             "team_1": "Al-Ahli",
             "team_2": "Al-Hilal",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Roshn Saudi League 2025-2026",
             "match_name": "Al-Ahli vs Al-Hilal",
             "match_id": 136600,
-            "startTime": "11:30:00 PM 19-09-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bhubaneshwar Tigers vs Keonjhar Miners (Odisha Pro T20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-            "team_1": "Bhubaneshwar Tigers",
-            "team_2": "Keonjhar Miners",
-            "status": "LIVE",
-            "event_name": "Odisha Pro T20 League, 2025",
-            "match_name": "Bhubaneshwar Tigers vs Keonjhar Miners",
-            "match_id": 137064,
-            "startTime": "07:00:00 PM 19-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/i9WYLeSsR9WFiBDiKhCaxg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137064_english_hls_411fd3836787006ta-di_h264/index.m3u8"
+            "startTime": "11:30:00 PM 19-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/C80XFSO4Tvqe5FyACzYJQQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136600_english_hls_894116cebf88971ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -438,6 +426,18 @@
             "match_name": "Rayo Vallecano vs Celta de Vigo",
             "match_id": 130877,
             "startTime": "05:30:00 PM 21-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "India vs Pakistan (Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4-INDvsPAK_Old_match-card_v2.jpg",
+            "team_1": "India",
+            "team_2": "Pakistan",
+            "status": "UPCOMING",
+            "event_name": "Asia Cup, 2025",
+            "match_name": "India vs Pakistan",
+            "match_id": 136744,
+            "startTime": "08:00:00 PM 21-09-2025"
         }
     ]
 }
