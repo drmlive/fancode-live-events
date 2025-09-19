@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:49:51 AM 20-09-2025",
+    "last update time": "05:00:05 AM 20-09-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
+            "team_1": "Trinbago Knight Riders",
+            "team_2": "Saint Lucia Kings",
+            "status": "LIVE",
+            "event_name": "Caribbean Premier League, 2025",
+            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
+            "match_id": 132378,
+            "startTime": "05:30:00 AM 20-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/jlBvIehfTgmVAyAOEPa3xQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132378_english_hls_d6ee3ee6a995024ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
@@ -14,8 +28,8 @@
             "match_name": "New South Wales vs South Australia",
             "match_id": 133931,
             "startTime": "05:00:00 AM 20-09-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/ROasQiLkSmyRnl4wDGhdXw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133931_english_hls_eec0f3db9926223ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -30,18 +44,6 @@
             "startTime": "04:10:00 AM 20-09-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136909_english_hls_60532e88f794806ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136909_english_hls_60532e88f794806ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Trinbago Knight Riders vs Saint Lucia Kings (Caribbean Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132355_5512_SLK_TKR_fc-web.jpg",
-            "team_1": "Trinbago Knight Riders",
-            "team_2": "Saint Lucia Kings",
-            "status": "UPCOMING",
-            "event_name": "Caribbean Premier League, 2025",
-            "match_name": "Trinbago Knight Riders vs Saint Lucia Kings",
-            "match_id": 132378,
-            "startTime": "05:30:00 AM 20-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -165,18 +167,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Cerezo Osaka vs Kashiwa Reysol (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132097_CASACARDS_APP.png",
-            "team_1": "Cerezo Osaka",
-            "team_2": "Kashiwa Reysol",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Cerezo Osaka vs Kashiwa Reysol",
-            "match_id": 132097,
-            "startTime": "03:00:00 PM 20-09-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Valencia vs Athletic Club (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130875_5427_VAL_ATH_fc-Web_1758202426482.jpg",
             "team_1": "Valencia",
@@ -186,6 +176,18 @@
             "match_name": "Valencia vs Athletic Club",
             "match_id": 130875,
             "startTime": "12:30:00 AM 21-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cerezo Osaka vs Kashiwa Reysol (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132097_CASACARDS_APP.png",
+            "team_1": "Cerezo Osaka",
+            "team_2": "Kashiwa Reysol",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Cerezo Osaka vs Kashiwa Reysol",
+            "match_id": 132097,
+            "startTime": "03:00:00 PM 20-09-2025"
         },
         {
             "event_category": "Football",
