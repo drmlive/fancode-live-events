@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:30:26 PM 20-09-2025",
+    "last update time": "11:40:37 PM 20-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "11:30:00 PM 20-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/6QMo0lgESDKmKNWPahGQ7w/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136601_english_hls_2d50e5bd8533299ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Puri Titans vs Sambalpur Warriors (Odisha Pro T20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-            "team_1": "Puri Titans",
-            "team_2": "Sambalpur Warriors",
-            "status": "LIVE",
-            "event_name": "Odisha Pro T20 League, 2025",
-            "match_name": "Puri Titans vs Sambalpur Warriors",
-            "match_id": 137066,
-            "startTime": "07:00:00 PM 20-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/DSxq_Z0IRjqrZaF01EJfEA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137066_english_hls_7a0469502118128ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -86,6 +72,20 @@
             "startTime": "10:40:00 PM 20-09-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136911_english_hls_ead93dc50670569ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136911_english_hls_ead93dc50670569ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Puri Titans vs Sambalpur Warriors (Odisha Pro T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
+            "team_1": "Puri Titans",
+            "team_2": "Sambalpur Warriors",
+            "status": "LIVE",
+            "event_name": "Odisha Pro T20 League, 2025",
+            "match_name": "Puri Titans vs Sambalpur Warriors",
+            "match_id": 137066,
+            "startTime": "07:00:00 PM 20-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/DSxq_Z0IRjqrZaF01EJfEA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137066_english_hls_7a0469502118128ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -208,30 +208,6 @@
             "startTime": "12:30:00 AM 22-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Arizona Diamondbacks vs Philadelphia Phillies (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136912_5028_AD_PHP_FC-Web.jpg",
-            "team_1": "Arizona Diamondbacks",
-            "team_2": "Philadelphia Phillies",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Arizona Diamondbacks vs Philadelphia Phillies",
-            "match_id": 136912,
-            "startTime": "05:40:00 AM 21-09-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs San Francisco Giants (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-Web.jpg",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "San Francisco Giants",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs San Francisco Giants",
-            "match_id": 136913,
-            "startTime": "06:40:00 AM 21-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Burgos vs Granada (LALIGA Hypermotion 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
@@ -254,6 +230,30 @@
             "match_name": "Deportivo de La Coru\u00f1a vs Huesca",
             "match_id": 137101,
             "startTime": "12:00:00 AM 22-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Arizona Diamondbacks vs Philadelphia Phillies (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136912_5028_AD_PHP_FC-Web.jpg",
+            "team_1": "Arizona Diamondbacks",
+            "team_2": "Philadelphia Phillies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Arizona Diamondbacks vs Philadelphia Phillies",
+            "match_id": 136912,
+            "startTime": "05:40:00 AM 21-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs San Francisco Giants (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136913_5028_LAD_SFG_FC-Web.jpg",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "San Francisco Giants",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs San Francisco Giants",
+            "match_id": 136913,
+            "startTime": "06:40:00 AM 21-09-2025"
         },
         {
             "event_category": "Cricket",
