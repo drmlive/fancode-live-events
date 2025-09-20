@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:42:16 AM 21-09-2025",
+    "last update time": "01:52:24 AM 21-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,20 +28,6 @@
             "startTime": "12:30:00 AM 21-09-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130875_english_hls_713e4229b35522adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130875_english_hls_713e4229b35522adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Detroit Tigers vs Atlanta Braves (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136911_5028_DET_AB_FC-Web.jpg",
-            "team_1": "Detroit Tigers",
-            "team_2": "Atlanta Braves",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Detroit Tigers vs Atlanta Braves",
-            "match_id": 136911,
-            "startTime": "10:40:00 PM 20-09-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136911_english_hls_ead93dc50670569ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136911_english_hls_ead93dc50670569ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -428,6 +414,18 @@
             "match_name": "Gamba Osaka vs Yokohama F. Marinos",
             "match_id": 132101,
             "startTime": "03:30:00 PM 23-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs Sri Lanka (Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TBC_AsiaCup_OldMatchCard.jpg",
+            "team_1": "Pakistan",
+            "team_2": "Sri Lanka",
+            "status": "UPCOMING",
+            "event_name": "Asia Cup, 2025",
+            "match_name": "Pakistan vs Sri Lanka",
+            "match_id": 136745,
+            "startTime": "08:00:00 PM 23-09-2025"
         }
     ]
 }
