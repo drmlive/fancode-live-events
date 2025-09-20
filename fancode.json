@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:35:57 PM 20-09-2025",
+    "last update time": "06:56:19 PM 20-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/3-BANvsSRL_Old_match-card.jpg",
             "team_1": "Sri Lanka",
             "team_2": "Bangladesh",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Asia Cup, 2025",
             "match_name": "Sri Lanka vs Bangladesh",
             "match_id": 136743,
-            "startTime": "08:00:00 PM 20-09-2025"
+            "startTime": "08:00:00 PM 20-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/VnURQRGzTUujLPwt7nf4IA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136743_english_hls_36566c378196992ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -42,6 +44,20 @@
             "startTime": "05:30:00 PM 20-09-2025",
             "dai_url": "https://d1jaapyyfa7b7b.cloudfront.net/out/v1/1296b699d77344d0aa1da0ef879e6af4/index.m3u8",
             "adfree_url": "https://d1jaapyyfa7b7b.cloudfront.net/out/v1/1296b699d77344d0aa1da0ef879e6af4/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Puri Titans vs Sambalpur Warriors (Odisha Pro T20 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
+            "team_1": "Puri Titans",
+            "team_2": "Sambalpur Warriors",
+            "status": "LIVE",
+            "event_name": "Odisha Pro T20 League, 2025",
+            "match_name": "Puri Titans vs Sambalpur Warriors",
+            "match_id": 137066,
+            "startTime": "07:00:00 PM 20-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/DSxq_Z0IRjqrZaF01EJfEA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137066_english_hls_7a0469502118128ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -84,18 +100,6 @@
             "startTime": "06:30:00 PM 20-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yMYAGnWNQraCcQZM-2xA3Q/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133915_english_hls_788e846f0118184ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Puri Titans vs Sambalpur Warriors (Odisha Pro T20 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
-            "team_1": "Puri Titans",
-            "team_2": "Sambalpur Warriors",
-            "status": "UPCOMING",
-            "event_name": "Odisha Pro T20 League, 2025",
-            "match_name": "Puri Titans vs Sambalpur Warriors",
-            "match_id": 137066,
-            "startTime": "07:00:00 PM 20-09-2025"
         },
         {
             "event_category": "Football",
@@ -326,18 +330,6 @@
             "startTime": "04:00:00 PM 21-09-2025"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Race vs Azerbaijan (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Azerbaijan_Race_old.jpg",
-            "team_1": "Race",
-            "team_2": "Azerbaijan",
-            "status": "UPCOMING",
-            "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025",
-            "match_name": "Race",
-            "match_id": 118465,
-            "startTime": "04:30:00 PM 21-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Barcelona vs Getafe (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130871_5427_BAR_GEF_fc-Web.jpg",
@@ -348,6 +340,18 @@
             "match_name": "Barcelona vs Getafe",
             "match_id": 130871,
             "startTime": "12:30:00 AM 22-09-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Race vs Azerbaijan (F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Azerbaijan_Race_old.jpg",
+            "team_1": "Race",
+            "team_2": "Azerbaijan",
+            "status": "UPCOMING",
+            "event_name": "F1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025",
+            "match_name": "Race",
+            "match_id": 118465,
+            "startTime": "04:30:00 PM 21-09-2025"
         },
         {
             "event_category": "Golf",
