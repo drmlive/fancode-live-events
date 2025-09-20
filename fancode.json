@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:54:34 PM 20-09-2025",
+    "last update time": "05:04:44 PM 20-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,6 +42,20 @@
             "startTime": "05:00:00 PM 20-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/iZBY_0TpQ2ur3YvqLuisug/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132005_english_hls_67804aa61c87071ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Girona vs Levante (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130874_5427_GIR_LE_fc-Web.jpg",
+            "team_1": "Girona",
+            "team_2": "Levante",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona vs Levante",
+            "match_id": 130874,
+            "startTime": "05:30:00 PM 20-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130874_english_hls_532a70ac9b93479adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130874_english_hls_532a70ac9b93479adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -86,20 +100,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132095_english_hls_ab6ad821df6021ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Baku (F2 AZERBAIJAN 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Baku",
-            "status": "LIVE",
-            "event_name": "F2 AZERBAIJAN 2025",
-            "match_name": "Sprint Race",
-            "match_id": 119071,
-            "startTime": "03:45:00 PM 20-09-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/119071_english_hls_a4c70499d620948adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119071_english_hls_a4c70499d620948adfreeta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 3 vs Golf de Saint-Nom-La-Bret\u00e8che, Paris (FedEx Open de France)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-Open-de-France_match-card.jpg",
@@ -126,18 +126,6 @@
             "startTime": "05:30:00 PM 20-09-2025",
             "dai_url": "https://d1jaapyyfa7b7b.cloudfront.net/out/v1/1296b699d77344d0aa1da0ef879e6af4/index.m3u8",
             "adfree_url": "https://d1jaapyyfa7b7b.cloudfront.net/out/v1/1296b699d77344d0aa1da0ef879e6af4/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Girona vs Levante (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130874_5427_GIR_LE_fc-Web.jpg",
-            "team_1": "Girona",
-            "team_2": "Levante",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona vs Levante",
-            "match_id": 130874,
-            "startTime": "05:30:00 PM 20-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -248,18 +236,6 @@
             "startTime": "06:00:00 PM 21-09-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs La Sella (La Sella Open 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella-Open-_2025_Old_match-card.jpg",
-            "team_1": "Day 3",
-            "team_2": "La Sella",
-            "status": "UPCOMING",
-            "event_name": "La Sella Open 2025",
-            "match_name": "Day 3",
-            "match_id": 133915,
-            "startTime": "05:30:00 PM 20-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sambalpur Warriors vs Bhubaneshwar Tigers (Odisha Pro T20 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
@@ -306,6 +282,18 @@
             "match_name": "Keonjhar Miners vs Rourkela Steelers",
             "match_id": 137068,
             "startTime": "07:00:00 PM 21-09-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs La Sella (La Sella Open 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella-Open-_2025_Old_match-card.jpg",
+            "team_1": "Day 3",
+            "team_2": "La Sella",
+            "status": "UPCOMING",
+            "event_name": "La Sella Open 2025",
+            "match_name": "Day 3",
+            "match_id": 133915,
+            "startTime": "06:30:00 PM 20-09-2025"
         },
         {
             "event_category": "Baseball",
@@ -437,6 +425,18 @@
             "event_name": "LALIGA Hypermotion 2025-26",
             "match_name": "Burgos vs Granada",
             "match_id": 137103,
+            "startTime": "12:00:00 AM 22-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo de La Coru\u00f1a vs Huesca (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Deportivo de La Coru\u00f1a",
+            "team_2": "Huesca",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Deportivo de La Coru\u00f1a vs Huesca",
+            "match_id": 137101,
             "startTime": "12:00:00 AM 22-09-2025"
         }
     ]
