@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:25:26 PM 22-09-2025",
+    "last update time": "06:35:37 PM 22-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
             "team_1": "Sambalpur Warriors",
             "team_2": "Cuttack Panthers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Odisha Pro T20 League, 2025",
             "match_name": "Sambalpur Warriors vs Cuttack Panthers",
             "match_id": 137070,
-            "startTime": "07:00:00 PM 22-09-2025"
+            "startTime": "07:00:00 PM 22-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Wi6z5oyqTTGOFEQR95SrvQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137070_english_hls_0cdb108f6922370ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -42,18 +44,6 @@
             "startTime": "12:30:00 AM 23-09-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Burgos vs Granada (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/137103_CASACARDS_APP.png",
-            "team_1": "Burgos",
-            "team_2": "Granada",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Burgos vs Granada",
-            "match_id": 137103,
-            "startTime": "12:00:00 AM 23-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Cuttack Panthers vs Keonjhar Miners (Odisha Pro T20 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old-2.png",
@@ -64,6 +54,18 @@
             "match_name": "Cuttack Panthers vs Keonjhar Miners",
             "match_id": 137071,
             "startTime": "02:00:00 PM 23-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Burgos vs Granada (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/137103_CASACARDS_APP.png",
+            "team_1": "Burgos",
+            "team_2": "Granada",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Burgos vs Granada",
+            "match_id": 137103,
+            "startTime": "12:00:00 AM 23-09-2025"
         },
         {
             "event_category": "Cricket",
