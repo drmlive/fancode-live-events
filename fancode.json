@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:21:19 AM 24-09-2025",
+    "last update time": "12:31:25 AM 24-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,6 +30,20 @@
             "startTime": "12:30:00 AM 24-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ouihqJAJRuOSobUjenLtCw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136841_english_hls_098f24c31756429ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs Pakistan (Asia Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/10-PAKvsSRL_Old_match-card_v2.jpg",
+            "team_1": "Sri Lanka",
+            "team_2": "Pakistan",
+            "status": "LIVE",
+            "event_name": "Asia Cup, 2025",
+            "match_name": "Sri Lanka vs Pakistan",
+            "match_id": 136745,
+            "startTime": "08:00:00 PM 23-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/sMP3crThSnWqGsfKccLKcw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136745_english_hls_086eef9b8524650ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -130,30 +144,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136838_english_hls_d51c29e40282833ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs Pakistan (Asia Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/10-PAKvsSRL_Old_match-card_v2.jpg",
-            "team_1": "Sri Lanka",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "Asia Cup, 2025",
-            "match_name": "Sri Lanka vs Pakistan",
-            "match_id": 136745,
-            "startTime": "08:00:00 PM 23-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/sMP3crThSnWqGsfKccLKcw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136745_english_hls_086eef9b8524650ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Sevilla FC vs Villarreal CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130885_5427_SEV_VIL_fc-Web.jpg",
             "team_1": "Sevilla FC",
             "team_2": "Villarreal CF",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "Sevilla FC vs Villarreal CF",
             "match_id": 130885,
-            "startTime": "01:00:00 AM 24-09-2025"
+            "startTime": "01:00:00 AM 24-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130885_english_hls_ef7f416ac750244adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130885_english_hls_ef7f416ac750244adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -161,11 +163,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130884_5427_LE_RM_fc-Web.jpg",
             "team_1": "Levante",
             "team_2": "Real Madrid",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "Levante vs Real Madrid",
             "match_id": 130884,
-            "startTime": "01:00:00 AM 24-09-2025"
+            "startTime": "01:00:00 AM 24-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130884_english_hls_9c30c72b627427adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130884_english_hls_9c30c72b627427adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
