@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:49:26 PM 23-09-2025",
+    "last update time": "09:59:34 PM 23-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130883_5427_ESL_VAL_fc-Web.jpg",
             "team_1": "RCD Espanyol",
             "team_2": "Valencia CF",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "RCD Espanyol vs Valencia CF",
             "match_id": 130883,
-            "startTime": "10:30:00 PM 23-09-2025"
+            "startTime": "10:30:00 PM 23-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130883_english_hls_74eb07eade11705adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130883_english_hls_74eb07eade11705adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -49,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130881_5427_ATH_GIR_fc-Web.jpg",
             "team_1": "Athletic Club",
             "team_2": "Girona FC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "Athletic Club vs Girona FC",
             "match_id": 130881,
-            "startTime": "10:30:00 PM 23-09-2025"
+            "startTime": "10:30:00 PM 23-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130881_english_hls_d81ae0234888637adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130881_english_hls_d81ae0234888637adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -296,18 +300,6 @@
             "startTime": "12:15:00 AM 25-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-            "team_1": "Cleveland Guardians",
-            "team_2": "Detroit Tigers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Cleveland Guardians vs Detroit Tigers",
-            "match_id": 137128,
-            "startTime": "04:10:00 AM 24-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Port Vale F.C. vs Arsenal (Carabao Cup 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136845_5488_PV_ARS_fc-Web.jpg",
@@ -318,6 +310,18 @@
             "match_name": "Port Vale F.C. vs Arsenal",
             "match_id": 136845,
             "startTime": "12:30:00 AM 25-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+            "team_1": "Cleveland Guardians",
+            "team_2": "Detroit Tigers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Cleveland Guardians vs Detroit Tigers",
+            "match_id": 137128,
+            "startTime": "04:10:00 AM 24-09-2025"
         },
         {
             "event_category": "Baseball",
