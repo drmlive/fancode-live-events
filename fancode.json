@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:21:58 AM 25-09-2025",
+    "last update time": "02:32:03 AM 25-09-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Port Vale F.C. vs Arsenal (Carabao Cup 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136845_5488_PV_ARS_fc-Web.jpg",
-            "team_1": "Port Vale F.C.",
-            "team_2": "Arsenal",
-            "status": "LIVE",
-            "event_name": "Carabao Cup 2025-2026",
-            "match_name": "Port Vale F.C. vs Arsenal",
-            "match_id": 136845,
-            "startTime": "12:30:00 AM 25-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/IsBWO1COQ-2VqTRI9ZdlOg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136845_english_hls_6f8214390738209ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Atletico de Madrid vs Rayo Vallecano (LALIGA 2025-26)",
@@ -44,20 +30,6 @@
             "startTime": "01:00:00 AM 25-09-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130880_english_hls_7f47a783a657866adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130880_english_hls_7f47a783a657866adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Newcastle United vs Bradford City (Carabao Cup 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136843_5488_NEW_BC_fc-Web.jpg",
-            "team_1": "Newcastle United",
-            "team_2": "Bradford City",
-            "status": "LIVE",
-            "event_name": "Carabao Cup 2025-2026",
-            "match_name": "Newcastle United vs Bradford City",
-            "match_id": 136843,
-            "startTime": "12:15:00 AM 25-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HyD8TVscRgKcpGxRN2QKEA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136843_english_hls_e4b2c1515a4111ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -242,18 +214,6 @@
             "startTime": "01:10:00 AM 26-09-2025"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Generic-old-match-card_1741169482701.png",
-            "team_1": "Day 1",
-            "team_2": "Mobility Resort Motegi",
-            "status": "UPCOMING",
-            "event_name": "MOTUL GRAND PRIX OF JAPAN",
-            "match_name": "Japan GP",
-            "match_id": 119212,
-            "startTime": "05:30:00 AM 26-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Western Australia Women vs Queensland Fire (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
@@ -264,6 +224,18 @@
             "match_name": "Western Australia Women vs Queensland Fire",
             "match_id": 133953,
             "startTime": "11:30:00 AM 26-09-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Generic-old-match-card_1741169482701.png",
+            "team_1": "Day 1",
+            "team_2": "Mobility Resort Motegi",
+            "status": "UPCOMING",
+            "event_name": "MOTUL GRAND PRIX OF JAPAN",
+            "match_name": "Japan GP",
+            "match_id": 119212,
+            "startTime": "05:30:00 AM 26-09-2025"
         },
         {
             "event_category": "Baseball",
@@ -444,6 +416,30 @@
             "match_name": "Japan GP",
             "match_id": 119215,
             "startTime": "05:10:00 AM 27-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "USN Indians vs Dehradun Warriors (Uttarakhand Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137078_5686_UI_DHD_fc-web.jpg",
+            "team_1": "USN Indians",
+            "team_2": "Dehradun Warriors",
+            "status": "UPCOMING",
+            "event_name": "Uttarakhand Premier League, 2025",
+            "match_name": "USN Indians vs Dehradun Warriors",
+            "match_id": 137078,
+            "startTime": "11:00:00 AM 27-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137137_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "Los Angeles Dodgers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Los Angeles Dodgers",
+            "match_id": 137137,
+            "startTime": "07:10:00 AM 27-09-2025"
         }
     ]
 }
