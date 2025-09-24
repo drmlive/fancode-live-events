@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:42:08 AM 25-09-2025",
+    "last update time": "02:52:15 AM 25-09-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "01:00:00 AM 25-09-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130880_english_hls_7f47a783a657866adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130880_english_hls_7f47a783a657866adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Huddersfield Town A.F.C. vs Manchester City (Carabao Cup 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136842_5488_HUD_MCI_fc-Web.jpg",
-            "team_1": "Huddersfield Town A.F.C.",
-            "team_2": "Manchester City",
-            "status": "LIVE",
-            "event_name": "Carabao Cup 2025-2026",
-            "match_name": "Huddersfield Town A.F.C. vs Manchester City",
-            "match_id": 136842,
-            "startTime": "12:15:00 AM 25-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/CQOaQ8lyTm6cdGjfTBW5pQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136842_english_hls_361a7d47f211892ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,6 +128,18 @@
             "startTime": "01:00:00 AM 26-09-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Victoria Women vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "New South Wales Breakers",
+            "status": "UPCOMING",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Victoria Women vs New South Wales Breakers",
+            "match_id": 133951,
+            "startTime": "05:30:00 AM 26-09-2025"
+        },
+        {
             "event_category": "Baseball",
             "title": "Texas Rangers vs Minnesota Twins (Major League Baseball, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/137131_CASACARDS_APP.png",
@@ -164,18 +162,6 @@
             "match_name": "Arizona Diamondbacks vs Los Angeles Dodgers",
             "match_id": 137132,
             "startTime": "07:10:00 AM 25-09-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria Women vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2.jpg",
-            "team_1": "Victoria Women",
-            "team_2": "New South Wales Breakers",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "Victoria Women vs New South Wales Breakers",
-            "match_id": 133951,
-            "startTime": "05:30:00 AM 26-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -440,6 +426,18 @@
             "match_name": "Seattle Mariners vs Los Angeles Dodgers",
             "match_id": 137137,
             "startTime": "07:10:00 AM 27-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Francisco Giants vs Colorado Rockies (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137138_CASACARDS_APP.png",
+            "team_1": "San Francisco Giants",
+            "team_2": "Colorado Rockies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Francisco Giants vs Colorado Rockies",
+            "match_id": 137138,
+            "startTime": "07:45:00 AM 27-09-2025"
         }
     ]
 }
