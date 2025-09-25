@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:43:46 PM 25-09-2025",
+    "last update time": "06:53:55 PM 25-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -35,11 +35,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20-League-old.png",
             "team_1": "Cuttack Panthers",
             "team_2": "Puri Titans",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Odisha Pro T20 League, 2025",
             "match_name": "Cuttack Panthers vs Puri Titans",
             "match_id": 137076,
-            "startTime": "07:00:00 PM 25-09-2025"
+            "startTime": "07:00:00 PM 25-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/edADR3NWRaCIsGAbZNJWjg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137076_english_hls_4d1cd1805c27418ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -294,18 +296,6 @@
             "startTime": "11:30:00 PM 26-09-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Bethpage Black Course, USA (The Ryder Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Bethpage Black Course, USA",
-            "status": "UPCOMING",
-            "event_name": "The Ryder Cup",
-            "match_name": "Day 1",
-            "match_id": 136872,
-            "startTime": "04:30:00 PM 26-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Girona FC vs RCD Espanyol (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130899_5427_GIR_ESL_fc-Web.jpg",
@@ -328,6 +318,18 @@
             "match_name": "West Bromwich Albion F.C. vs Leicester City F.C.",
             "match_id": 132011,
             "startTime": "12:30:00 AM 27-09-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Bethpage Black Course, USA (The Ryder Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ryder_CUP_2025_Old_match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Bethpage Black Course, USA",
+            "status": "UPCOMING",
+            "event_name": "The Ryder Cup",
+            "match_name": "Day 1",
+            "match_id": 136872,
+            "startTime": "04:30:00 PM 26-09-2025"
         },
         {
             "event_category": "Football",
