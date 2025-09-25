@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:06:09 AM 25-09-2025",
+    "last update time": "08:16:16 AM 25-09-2025",
     "matches": [
-        {
-            "event_category": "Baseball",
-            "title": "Texas Rangers vs Minnesota Twins (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137131_CASACARDS_APP.png",
-            "team_1": "Texas Rangers",
-            "team_2": "Minnesota Twins",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Texas Rangers vs Minnesota Twins",
-            "match_id": 137131,
-            "startTime": "05:35:00 AM 25-09-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137131_english_hls_73cda3be0273424ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137131_english_hls_73cda3be0273424ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Baseball",
             "title": "Arizona Diamondbacks vs Los Angeles Dodgers (Major League Baseball, 2025)",
@@ -450,6 +436,18 @@
             "match_name": "Coventry City Football Club vs Birmingham City F.C.",
             "match_id": 132009,
             "startTime": "05:00:00 PM 27-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Getafe CF vs Levante (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Getafe CF",
+            "team_2": "Levante",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Getafe CF vs Levante",
+            "match_id": 130894,
+            "startTime": "05:30:00 PM 27-09-2025"
         }
     ]
 }
