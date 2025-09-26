@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:24:11 AM 26-09-2025",
+    "last update time": "07:34:20 AM 26-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -96,8 +96,8 @@
             "match_name": "Rise Up Championship vs Day 1, Court 1",
             "match_id": 137286,
             "startTime": "07:30:00 AM 26-09-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/LGjqVG94SzKEfcBWvShxIg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137286_english_hls_df5171435781145ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -280,18 +280,6 @@
             "startTime": "05:10:00 AM 27-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Seattle Mariners vs Los Angeles Dodgers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137137_CASACARDS_APP.png",
-            "team_1": "Seattle Mariners",
-            "team_2": "Los Angeles Dodgers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Seattle Mariners vs Los Angeles Dodgers",
-            "match_id": 137137,
-            "startTime": "07:10:00 AM 27-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Machida Zelvia vs Fagiano Okayama (J League 2025)",
             "src": "https://images.fancode.com/aig/match/v1/132103_CASACARDS_APP.png",
@@ -302,6 +290,18 @@
             "match_name": "Machida Zelvia vs Fagiano Okayama",
             "match_id": 132103,
             "startTime": "12:30:00 PM 27-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137137_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "Los Angeles Dodgers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Los Angeles Dodgers",
+            "match_id": 137137,
+            "startTime": "07:10:00 AM 27-09-2025"
         },
         {
             "event_category": "Baseball",
