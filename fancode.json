@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:01:23 PM 26-09-2025",
+    "last update time": "04:11:30 PM 26-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -43,27 +43,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia vs Kenya (ICC Men's T20 WC Africa Regional Final, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136797_5668_NAM_KEN_fc-Web.png",
-            "team_1": "Namibia",
-            "team_2": "Kenya",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
-            "match_name": "Namibia vs Kenya",
-            "match_id": 136797,
-            "startTime": "01:00:00 PM 26-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/DHhfH4CRQ6GvF-2tEbXxUg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136797_english_hls_ec77f68d6d89742ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tehri Queens Women vs Haridwar Storm Women (Women's Uttarakhand Premier League, 2025)",
+            "title": "Haridwar Storm Women vs Tehri Queens Women (Women's Uttarakhand Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Womens_UPL_OLD_match-card.jpg",
-            "team_1": "Tehri Queens Women",
-            "team_2": "Haridwar Storm Women",
+            "team_1": "Haridwar Storm Women",
+            "team_2": "Tehri Queens Women",
             "status": "LIVE",
             "event_name": "Women's Uttarakhand Premier League, 2025",
-            "match_name": "Tehri Queens Women vs Haridwar Storm Women",
+            "match_name": "Haridwar Storm Women vs Tehri Queens Women",
             "match_id": 137024,
             "startTime": "03:00:00 PM 26-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/0QhNcOLcToGXo6vAhCEwNQ/master.m3u8",
@@ -96,6 +82,20 @@
             "startTime": "07:30:00 AM 26-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/LGjqVG94SzKEfcBWvShxIg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137286_english_hls_df5171435781145ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Kenya (ICC Men's T20 WC Africa Regional Final, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136797_5668_NAM_KEN_fc-Web.png",
+            "team_1": "Namibia",
+            "team_2": "Kenya",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
+            "match_name": "Namibia vs Kenya",
+            "match_id": 136797,
+            "startTime": "01:00:00 PM 26-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/DHhfH4CRQ6GvF-2tEbXxUg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136797_english_hls_ec77f68d6d89742ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -266,18 +266,6 @@
             "startTime": "11:50:00 PM 26-09-2025"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/MOTUL-GRAND-PRIX-OF-JAPAN_Old_match-card.jpg",
-            "team_1": "Day 2",
-            "team_2": "Mobility Resort Motegi",
-            "status": "UPCOMING",
-            "event_name": "MOTUL GRAND PRIX OF JAPAN",
-            "match_name": "Japan GP",
-            "match_id": 119215,
-            "startTime": "05:10:00 AM 27-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Haridwar Spring Elmas vs Pithoragarh Hurricanes (Uttarakhand Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137080_5686_HAH_PIC_fc-web.jpg",
@@ -288,6 +276,18 @@
             "match_name": "Haridwar Spring Elmas vs Pithoragarh Hurricanes",
             "match_id": 137080,
             "startTime": "07:30:00 PM 27-09-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 2 vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/MOTUL-GRAND-PRIX-OF-JAPAN_Old_match-card.jpg",
+            "team_1": "Day 2",
+            "team_2": "Mobility Resort Motegi",
+            "status": "UPCOMING",
+            "event_name": "MOTUL GRAND PRIX OF JAPAN",
+            "match_name": "Japan GP",
+            "match_id": 119215,
+            "startTime": "05:10:00 AM 27-09-2025"
         },
         {
             "event_category": "Football",
@@ -314,18 +314,6 @@
             "startTime": "07:10:00 AM 27-09-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "San Francisco Giants vs Colorado Rockies (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137138_CASACARDS_APP.png",
-            "team_1": "San Francisco Giants",
-            "team_2": "Colorado Rockies",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "San Francisco Giants vs Colorado Rockies",
-            "match_id": 137138,
-            "startTime": "07:45:00 AM 27-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Atletico de Madrid vs Real Madrid (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130891_5427_ATL_RM_fc-Web.jpg",
@@ -336,6 +324,18 @@
             "match_name": "Atletico de Madrid vs Real Madrid",
             "match_id": 130891,
             "startTime": "07:45:00 PM 27-09-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "San Francisco Giants vs Colorado Rockies (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137138_CASACARDS_APP.png",
+            "team_1": "San Francisco Giants",
+            "team_2": "Colorado Rockies",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "San Francisco Giants vs Colorado Rockies",
+            "match_id": 137138,
+            "startTime": "07:45:00 AM 27-09-2025"
         },
         {
             "event_category": "Football",
