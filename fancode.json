@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:29:08 AM 27-09-2025",
+    "last update time": "01:39:16 AM 27-09-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al-Ittihad vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136603_5655_ITT_ANF_fc-web.jpg",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al-Nassr FC",
-            "status": "LIVE",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Ittihad vs Al-Nassr FC",
-            "match_id": 136603,
-            "startTime": "11:30:00 PM 26-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/WFUHIDprTZKzgcThNsAhgQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136603_english_hls_b113b7f97f86931ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Ryder Cup - Day 1 vs Bethpage Black Course, USA (The Ryder Cup)",
@@ -446,6 +432,18 @@
             "match_name": "Cerezo Osaka vs Kyoto Sanga",
             "match_id": 132106,
             "startTime": "03:00:00 PM 28-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kawasaki Frontale vs Kashiwa Reysol (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132104_CASACARDS_APP.png",
+            "team_1": "Kawasaki Frontale",
+            "team_2": "Kashiwa Reysol",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Kawasaki Frontale vs Kashiwa Reysol",
+            "match_id": 132104,
+            "startTime": "03:30:00 PM 28-09-2025"
         }
     ]
 }
