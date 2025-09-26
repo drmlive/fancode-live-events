@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:29:52 AM 27-09-2025",
+    "last update time": "02:40:00 AM 27-09-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -18,20 +18,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136872_english_hls_13308a908d66732ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Baseball",
-            "title": "Chicago Cubs vs St. Louis Cardinals (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137136_CASACARDS_APP.png",
-            "team_1": "Chicago Cubs",
-            "team_2": "St. Louis Cardinals",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Chicago Cubs vs St. Louis Cardinals",
-            "match_id": 137136,
-            "startTime": "11:50:00 PM 26-09-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137136_english_hls_03afa7f05a66845ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137136_english_hls_03afa7f05a66845ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Girona FC vs RCD Espanyol (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130899_5427_GIR_ESL_fc-Web.jpg",
@@ -44,20 +30,6 @@
             "startTime": "12:30:00 AM 27-09-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130899_english_hls_b1127ff55837432adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130899_english_hls_b1127ff55837432adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "West Bromwich Albion F.C. vs Leicester City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/132011_5489_WBA_LEI_fc-web.jpg",
-            "team_1": "West Bromwich Albion F.C.",
-            "team_2": "Leicester City F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "West Bromwich Albion F.C. vs Leicester City F.C.",
-            "match_id": 132011,
-            "startTime": "12:30:00 AM 27-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/t33KliboQJSQQPMHwbVkUA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/132011_english_hls_30f17f0a5870888ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -264,18 +236,6 @@
             "startTime": "05:30:00 AM 28-09-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Nurburgring Langstrecken Serie 2025 vs Nurburgring (Nurburgring Langstrecken Serie 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nurburgring_Race_Langstrecken_Serie_2025_Old_match-card_2025_Old_match-card.jpg",
-            "team_1": "Nurburgring Langstrecken Serie 2025",
-            "team_2": "Nurburgring",
-            "status": "UPCOMING",
-            "event_name": "Nurburgring Langstrecken Serie 2025",
-            "match_name": "Nurburgring Langstrecken Serie 2025",
-            "match_id": 137269,
-            "startTime": "03:30:00 PM 27-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "South Australian Scorpions vs Tasmania Women (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
@@ -286,6 +246,18 @@
             "match_name": "South Australian Scorpions vs Tasmania Women",
             "match_id": 133955,
             "startTime": "06:00:00 AM 28-09-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Nurburgring Langstrecken Serie 2025 vs Nurburgring (Nurburgring Langstrecken Serie 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nurburgring_Race_Langstrecken_Serie_2025_Old_match-card_2025_Old_match-card.jpg",
+            "team_1": "Nurburgring Langstrecken Serie 2025",
+            "team_2": "Nurburgring",
+            "status": "UPCOMING",
+            "event_name": "Nurburgring Langstrecken Serie 2025",
+            "match_name": "Nurburgring Langstrecken Serie 2025",
+            "match_id": 137269,
+            "startTime": "03:30:00 PM 27-09-2025"
         },
         {
             "event_category": "Golf",
@@ -442,6 +414,30 @@
             "match_name": "Kenya vs Malawi",
             "match_id": 136804,
             "startTime": "05:20:00 PM 28-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs Botswana (ICC Men's T20 WC Africa Regional Final, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136803_5668_ZIM_BOT_fc-Web.png",
+            "team_1": "Zimbabwe",
+            "team_2": "Botswana",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
+            "match_name": "Zimbabwe vs Botswana",
+            "match_id": 136803,
+            "startTime": "05:20:00 PM 28-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rayo Vallecano vs Sevilla FC (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130895_5427_RVL_SEV_fc-Web.jpg",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Sevilla FC",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rayo Vallecano vs Sevilla FC",
+            "match_id": 130895,
+            "startTime": "05:30:00 PM 28-09-2025"
         }
     ]
 }
