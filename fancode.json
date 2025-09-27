@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:09:52 AM 28-09-2025",
+    "last update time": "05:20:01 AM 28-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "08:00:00 PM 28-09-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "New South Wales Breakers vs Victoria Women (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+            "team_1": "New South Wales Breakers",
+            "team_2": "Victoria Women",
+            "status": "LIVE",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "New South Wales Breakers vs Victoria Women",
+            "match_id": 133954,
+            "startTime": "05:30:00 AM 28-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/6NGl2yI0QMqwSQEvrCJUgw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133954_english_hls_5708f6a7fd36779ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "MotoGP",
             "title": "Race Day vs Mobility Resort Motegi (MOTUL GRAND PRIX OF JAPAN)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MOTUL-GRAND-PRIX-OF-JAPAN_Old_match-card.jpg",
@@ -28,18 +42,6 @@
             "startTime": "07:30:00 AM 28-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yYwvD6q1S4O2rj6d_xzhvw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119216_english_hls_9b5cad453021915ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales Breakers vs Victoria Women (Women's National Cricket League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-            "team_1": "New South Wales Breakers",
-            "team_2": "Victoria Women",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "New South Wales Breakers vs Victoria Women",
-            "match_id": 133954,
-            "startTime": "05:30:00 AM 28-09-2025"
         },
         {
             "event_category": "Cricket",
@@ -163,18 +165,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Yokohama vs Shonan Bellmare (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132105_CASACARDS_APP.png",
-            "team_1": "Yokohama",
-            "team_2": "Shonan Bellmare",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Yokohama vs Shonan Bellmare",
-            "match_id": 132105,
-            "startTime": "01:30:00 PM 28-09-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Betis vs CA Osasuna (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130893_5427_RB_OSN_fc-Web.jpg",
             "team_1": "Real Betis",
@@ -184,6 +174,18 @@
             "match_name": "Real Betis vs CA Osasuna",
             "match_id": 130893,
             "startTime": "12:30:00 AM 29-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Yokohama vs Shonan Bellmare (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132105_CASACARDS_APP.png",
+            "team_1": "Yokohama",
+            "team_2": "Shonan Bellmare",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Yokohama vs Shonan Bellmare",
+            "match_id": 132105,
+            "startTime": "01:30:00 PM 28-09-2025"
         },
         {
             "event_category": "Football",
