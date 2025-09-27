@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:45:21 PM 27-09-2025",
+    "last update time": "11:55:29 PM 27-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,20 +28,6 @@
             "startTime": "10:00:00 PM 27-09-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130896_english_hls_1b7e0bc0b060004adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130896_english_hls_1b7e0bc0b060004adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Nepal vs West Indies (Nepal and West Indies tour of UAE, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Nepal-in-UAE-old-match-card.png",
-            "team_1": "Nepal",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "Nepal and West Indies tour of UAE, 2025",
-            "match_name": "Nepal vs West Indies",
-            "match_id": 137154,
-            "startTime": "08:00:00 PM 27-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Wb-TSDSrS3qOJaLOMJp8Eg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137154_english_hls_135dce2fa715229ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -86,16 +72,32 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137139_english_hls_c9f21c227459751ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Nepal vs West Indies (Nepal and West Indies tour of UAE, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Nepal-in-UAE-old-match-card.png",
+            "team_1": "Nepal",
+            "team_2": "West Indies",
+            "status": "LIVE",
+            "event_name": "Nepal and West Indies tour of UAE, 2025",
+            "match_name": "Nepal vs West Indies",
+            "match_id": 137154,
+            "startTime": "08:00:00 PM 27-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Wb-TSDSrS3qOJaLOMJp8Eg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137154_english_hls_135dce2fa715229ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Villarreal CF vs Athletic Club (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130897_5427_VIL_ATH_fc-Web.jpg",
             "team_1": "Villarreal CF",
             "team_2": "Athletic Club",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "Villarreal CF vs Athletic Club",
             "match_id": 130897,
-            "startTime": "12:30:00 AM 28-09-2025"
+            "startTime": "12:30:00 AM 28-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130897_english_hls_195bc2cd5111187adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130897_english_hls_195bc2cd5111187adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -443,6 +445,18 @@
             "event_name": "AFC Champions League Elite 2025-26",
             "match_name": "Tractor vs Al Wahda",
             "match_id": 136051,
+            "startTime": "09:30:00 PM 29-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Gharafa vs Al Shorta (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136050_5647_AGH_SHR_fc-Web.jpg",
+            "team_1": "Al Gharafa",
+            "team_2": "Al Shorta",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al Gharafa vs Al Shorta",
+            "match_id": 136050,
             "startTime": "09:30:00 PM 29-09-2025"
         }
     ]
