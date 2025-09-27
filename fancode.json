@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:35:51 AM 27-09-2025",
+    "last update time": "10:46:01 AM 27-09-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -63,11 +63,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137078_5686_UI_DHD_fc-web.jpg",
             "team_1": "USN Indians",
             "team_2": "Dehradun Warriors",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Uttarakhand Premier League, 2025",
             "match_name": "USN Indians vs Dehradun Warriors",
             "match_id": 137078,
-            "startTime": "11:00:00 AM 27-09-2025"
+            "startTime": "11:00:00 AM 27-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Lx5U_XagSbOuklH1iD_cRQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137078_english_hls_d3303fcb3910813ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -370,18 +372,6 @@
             "startTime": "03:00:00 PM 28-09-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Kawasaki Frontale vs Kashiwa Reysol (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/132104_CASACARDS_APP.png",
-            "team_1": "Kawasaki Frontale",
-            "team_2": "Kashiwa Reysol",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Kawasaki Frontale vs Kashiwa Reysol",
-            "match_id": 132104,
-            "startTime": "03:30:00 PM 28-09-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Kenya vs Malawi (ICC Men's T20 WC Africa Regional Final, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136804_5668_KEN_MAL_fc-Web.png",
@@ -404,6 +394,18 @@
             "match_name": "Zimbabwe vs Botswana",
             "match_id": 136803,
             "startTime": "05:20:00 PM 28-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kawasaki Frontale vs Kashiwa Reysol (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/132104_CASACARDS_APP.png",
+            "team_1": "Kawasaki Frontale",
+            "team_2": "Kashiwa Reysol",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Kawasaki Frontale vs Kashiwa Reysol",
+            "match_id": 132104,
+            "startTime": "03:30:00 PM 28-09-2025"
         },
         {
             "event_category": "Cricket",
