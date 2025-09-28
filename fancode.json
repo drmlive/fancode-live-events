@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:24:35 PM 28-09-2025",
+    "last update time": "09:34:46 PM 28-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130892_5427_BAR_RS_fc-Web.jpg",
             "team_1": "FC Barcelona",
             "team_2": "Real Sociedad",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "FC Barcelona vs Real Sociedad",
             "match_id": 130892,
-            "startTime": "10:00:00 PM 28-09-2025"
+            "startTime": "10:00:00 PM 28-09-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130892_english_hls_2689ebe0e14133adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130892_english_hls_2689ebe0e14133adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -83,18 +85,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Tehri Titans vs USN Indians (Uttarakhand Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137083_5686_TET_UI_fc-web.jpg",
-            "team_1": "Tehri Titans",
-            "team_2": "USN Indians",
-            "status": "UPCOMING",
-            "event_name": "Uttarakhand Premier League, 2025",
-            "match_name": "Tehri Titans vs USN Indians",
-            "match_id": 137083,
-            "startTime": "11:00:00 AM 29-09-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Nepal vs West Indies (Nepal and West Indies tour of UAE, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Nepal-in-UAE-old-match-card.png",
             "team_1": "Nepal",
@@ -104,6 +94,18 @@
             "match_name": "Nepal vs West Indies",
             "match_id": 137155,
             "startTime": "08:00:00 PM 29-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tehri Titans vs USN Indians (Uttarakhand Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137083_5686_TET_UI_fc-web.jpg",
+            "team_1": "Tehri Titans",
+            "team_2": "USN Indians",
+            "status": "UPCOMING",
+            "event_name": "Uttarakhand Premier League, 2025",
+            "match_name": "Tehri Titans vs USN Indians",
+            "match_id": 137083,
+            "startTime": "11:00:00 AM 29-09-2025"
         },
         {
             "event_category": "Cricket",
