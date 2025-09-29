@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:29:18 PM 29-09-2025",
+    "last update time": "11:39:28 PM 29-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "08:00:00 PM 29-09-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/YBkshv6pTD-NzRV5p8zJCg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137155_english_hls_17881a64ef92643ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tractor vs Al Wahda (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136051_5647_TFC_ALW_fc-Web.jpg",
-            "team_1": "Tractor",
-            "team_2": "Al Wahda",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Tractor vs Al Wahda",
-            "match_id": 136051,
-            "startTime": "09:30:00 PM 29-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/X7uM0TBCS_aK063-J_bGwA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136051_english_hls_b3b5daece518283ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -51,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136052_5647_ADH_AAS_fc-Web.jpg",
             "team_1": "Al Duhail",
             "team_2": "Al-Ahli Saudi FC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Elite 2025-26",
             "match_name": "Al Duhail vs Al-Ahli Saudi FC",
             "match_id": 136052,
-            "startTime": "11:45:00 PM 29-09-2025"
+            "startTime": "11:45:00 PM 29-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/aZ5pYH0ITVeWBVwonHfMpQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136052_english_hls_62406dc59971586ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -452,6 +440,18 @@
             "match_name": "Andijan vs Al Ahli (QAT)",
             "match_id": 136105,
             "startTime": "07:15:00 PM 01-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Wehdat vs Al Wasl (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136094_5648_ALW_AWL_fc-Web_1758118382698.jpg",
+            "team_1": "Al Wehdat",
+            "team_2": "Al Wasl",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Al Wehdat vs Al Wasl",
+            "match_id": 136094,
+            "startTime": "09:30:00 PM 01-10-2025"
         }
     ]
 }
