@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:22:46 PM 30-09-2025",
+    "last update time": "02:32:57 PM 30-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,6 +56,42 @@
             "startTime": "03:00:00 PM 30-09-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Seoul vs Buriram United (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136002_5647_SE_BU_fc-Web.jpg",
+            "team_1": "Seoul",
+            "team_2": "Buriram United",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Seoul vs Buriram United",
+            "match_id": 136002,
+            "startTime": "03:30:00 PM 30-09-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Shanghai Port (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136001_5647_HIR_SHG_fc-Web.jpg",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Shanghai Port",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Sanfrecce Hiroshima vs Shanghai Port",
+            "match_id": 136001,
+            "startTime": "03:30:00 PM 30-09-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand vs Australia (Australia tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-New-Zealand-old-match-card-.png",
+            "team_1": "New Zealand",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "event_name": "Australia tour of New Zealand, 2025",
+            "match_name": "New Zealand vs Australia",
+            "match_id": 136875,
+            "startTime": "11:45:00 AM 01-10-2025"
+        },
+        {
             "event_category": "Cricket",
             "title": "Kenya vs Nigeria (ICC Men's T20 WC Africa Regional Final, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136808_5668_KEN_NIG_fc-Web.png",
@@ -81,18 +117,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New Zealand vs Australia (Australia tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-New-Zealand-old-match-card-.png",
-            "team_1": "New Zealand",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "event_name": "Australia tour of New Zealand, 2025",
-            "match_name": "New Zealand vs Australia",
-            "match_id": 136875,
-            "startTime": "11:45:00 AM 01-10-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "USN Indians vs Rishikesh Falcons (Uttarakhand Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137088_5686_UI_RIF_fc-web.jpg",
             "team_1": "USN Indians",
@@ -102,30 +126,6 @@
             "match_name": "USN Indians vs Rishikesh Falcons",
             "match_id": 137088,
             "startTime": "07:30:00 PM 30-09-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Seoul vs Buriram United (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136002_5647_SE_BU_fc-Web.jpg",
-            "team_1": "Seoul",
-            "team_2": "Buriram United",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Seoul vs Buriram United",
-            "match_id": 136002,
-            "startTime": "03:30:00 PM 30-09-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sanfrecce Hiroshima vs Shanghai Port (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136001_5647_HIR_SHG_fc-Web.jpg",
-            "team_1": "Sanfrecce Hiroshima",
-            "team_2": "Shanghai Port",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Sanfrecce Hiroshima vs Shanghai Port",
-            "match_id": 136001,
-            "startTime": "03:30:00 PM 30-09-2025"
         },
         {
             "event_category": "Football",
@@ -272,18 +272,6 @@
             "startTime": "12:38:00 AM 01-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137333_CASACARDS_APP.png",
-            "team_1": "Boston Red Sox",
-            "team_2": "New York Yankees",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Boston Red Sox vs New York Yankees",
-            "match_id": 137333,
-            "startTime": "03:38:00 AM 01-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Lion City Sailors vs Selangor (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136165_5648_LIO_SEL_fc-Web_1758118382779.jpg",
@@ -294,6 +282,18 @@
             "match_name": "Lion City Sailors vs Selangor",
             "match_id": 136165,
             "startTime": "03:30:00 PM 01-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137333_CASACARDS_APP.png",
+            "team_1": "Boston Red Sox",
+            "team_2": "New York Yankees",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Boston Red Sox vs New York Yankees",
+            "match_id": 137333,
+            "startTime": "03:38:00 AM 01-10-2025"
         },
         {
             "event_category": "Football",
