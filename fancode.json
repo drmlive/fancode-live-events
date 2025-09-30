@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:26:13 PM 30-09-2025",
+    "last update time": "06:06:48 PM 30-09-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -59,43 +59,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Seoul vs Buriram United (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136002_5647_SE_BU_fc-Web.jpg",
-            "team_1": "Seoul",
-            "team_2": "Buriram United",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Seoul vs Buriram United",
-            "match_id": 136002,
-            "startTime": "03:30:00 PM 30-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/KtUfrdLiRQKsOBw7BVfZAg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136002_english_hls_49c643200158041ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sanfrecce Hiroshima vs Shanghai Port (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136001_5647_HIR_SHG_fc-Web.jpg",
-            "team_1": "Sanfrecce Hiroshima",
-            "team_2": "Shanghai Port",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Sanfrecce Hiroshima vs Shanghai Port",
-            "match_id": 136001,
-            "startTime": "03:30:00 PM 30-09-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HPV4SoryTrqBAiCyIDNgDA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136001_english_hls_060e77879d73659ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Johor Darul Ta'zim vs Machida Zelvia (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136004_5647_JDT_MZ_fc-Web_1758950977608.jpg",
             "team_1": "Johor Darul Ta'zim",
             "team_2": "Machida Zelvia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Elite 2025-26",
             "match_name": "Johor Darul Ta'zim vs Machida Zelvia",
             "match_id": 136004,
-            "startTime": "05:45:00 PM 30-09-2025"
+            "startTime": "05:45:00 PM 30-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/WKfUZs7kT7CDi9qGhq4_1g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136004_english_hls_ce141f289540134ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -103,11 +77,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136003_5647_CR_GW_fc-Web_1758950977627.jpg",
             "team_1": "Chengdu Rongcheng",
             "team_2": "Gangwon",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Elite 2025-26",
             "match_name": "Chengdu Rongcheng vs Gangwon",
             "match_id": 136003,
-            "startTime": "05:45:00 PM 30-09-2025"
+            "startTime": "05:45:00 PM 30-09-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/SC32rsfGTwqiN4hTNbS6JQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136003_english_hls_a72112f0bc55893ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -266,18 +242,6 @@
             "startTime": "07:30:00 PM 01-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Detroit Tigers vs Cleveland Guardians (Major League Baseball, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-            "team_1": "Detroit Tigers",
-            "team_2": "Cleveland Guardians",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Detroit Tigers vs Cleveland Guardians",
-            "match_id": 137330,
-            "startTime": "10:38:00 PM 30-09-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Bangkok United vs Persib Bandung (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136166_5648_BU_PER_fc-Web_1758118382769.jpg",
@@ -288,6 +252,18 @@
             "match_name": "Bangkok United vs Persib Bandung",
             "match_id": 136166,
             "startTime": "05:45:00 PM 01-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Detroit Tigers vs Cleveland Guardians (Major League Baseball, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+            "team_1": "Detroit Tigers",
+            "team_2": "Cleveland Guardians",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Detroit Tigers vs Cleveland Guardians",
+            "match_id": 137330,
+            "startTime": "10:38:00 PM 30-09-2025"
         },
         {
             "event_category": "Baseball",
@@ -456,6 +432,30 @@
             "match_name": "Haridwar Elmas vs Nainital Tigers",
             "match_id": 137092,
             "startTime": "11:00:00 AM 02-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia Women vs Nepal Women (Nepal Women tour of Malaysia, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Malaysia Women",
+            "team_2": "Nepal Women",
+            "status": "UPCOMING",
+            "event_name": "Nepal Women tour of Malaysia, 2025",
+            "match_name": "Malaysia Women vs Nepal Women",
+            "match_id": 137338,
+            "startTime": "11:30:00 AM 02-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (ICC Men's T20 WC Africa Regional Final, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 136810,
+            "startTime": "01:00:00 PM 02-10-2025"
         }
     ]
 }
