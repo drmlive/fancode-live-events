@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:13:06 AM 01-10-2025",
+    "last update time": "12:23:21 AM 01-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -32,6 +32,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136054_english_hls_9ce432eeae53747ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Derby County Football Club vs Charlton Athletic F.C (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136943_5489_DER_CHL_fc-web.jpg",
+            "team_1": "Derby County Football Club",
+            "team_2": "Charlton Athletic F.C",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Derby County Football Club vs Charlton Athletic F.C",
+            "match_id": 136943,
+            "startTime": "12:30:00 AM 01-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/iaBbndioTemEdC6UJWSbsg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136943_english_hls_f42d15e75e72130ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Baseball",
             "title": "Detroit Tigers vs Cleveland Guardians (Major League Baseball, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/137330_CASACARDS_APP.png",
@@ -56,18 +70,6 @@
             "match_name": "New Zealand vs Australia",
             "match_id": 136875,
             "startTime": "11:45:00 AM 01-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Derby County Football Club vs Charlton Athletic F.C (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136943_5489_DER_CHL_fc-web.jpg",
-            "team_1": "Derby County Football Club",
-            "team_2": "Charlton Athletic F.C",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Derby County Football Club vs Charlton Athletic F.C",
-            "match_id": 136943,
-            "startTime": "12:30:00 AM 01-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -135,11 +137,13 @@
             "src": "https://images.fancode.com/aig/match/v2/137331_CASACARDS_APP.png",
             "team_1": "San Diego Padres",
             "team_2": "Chicago Cubs",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Major League Baseball, 2025",
             "match_name": "San Diego Padres vs Chicago Cubs",
             "match_id": 137331,
-            "startTime": "12:38:00 AM 01-10-2025"
+            "startTime": "12:38:00 AM 01-10-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
