@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:07:47 AM 02-10-2025",
+    "last update time": "12:18:01 AM 02-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,6 +16,20 @@
             "startTime": "11:45:00 PM 01-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/uuQ8fJOSSDGZoD5X6R6Tog/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136130_english_hls_a6cd728ee280453ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Queens Park Rangers F.C. vs Oxford United (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136944_5489_QPR_OU_fc-web.jpg",
+            "team_1": "Queens Park Rangers F.C.",
+            "team_2": "Oxford United",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Queens Park Rangers F.C. vs Oxford United",
+            "match_id": 136944,
+            "startTime": "12:30:00 AM 02-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HJxfdpqRSAKzi8ERFsvYIQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136944_english_hls_f91501e0c716139ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -44,18 +58,6 @@
             "startTime": "10:38:00 PM 01-10-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137335_english_hls_3091cf74fb38971ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137335_english_hls_3091cf74fb38971ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Queens Park Rangers F.C. vs Oxford United (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136944_5489_QPR_OU_fc-web.jpg",
-            "team_1": "Queens Park Rangers F.C.",
-            "team_2": "Oxford United",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Queens Park Rangers F.C. vs Oxford United",
-            "match_id": 136944,
-            "startTime": "12:30:00 AM 02-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -183,11 +185,13 @@
             "src": "https://images.fancode.com/aig/match/v1/137336_CASACARDS_APP.png",
             "team_1": "San Diego Padres",
             "team_2": "Chicago Cubs",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Major League Baseball, 2025",
             "match_name": "San Diego Padres vs Chicago Cubs",
             "match_id": 137336,
-            "startTime": "12:38:00 AM 02-10-2025"
+            "startTime": "12:38:00 AM 02-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137336_english_hls_fb2082052b2732ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137336_english_hls_fb2082052b2732ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -250,18 +254,6 @@
             "startTime": "05:45:00 PM 02-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137337_CASACARDS_APP.png",
-            "team_1": "Boston Red Sox",
-            "team_2": "New York Yankees",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Boston Red Sox vs New York Yankees",
-            "match_id": 137337,
-            "startTime": "03:38:00 AM 02-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Rotherham United vs Bradford City (League One 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/135960_CASACARDS_APP.png",
@@ -272,6 +264,18 @@
             "match_name": "Rotherham United vs Bradford City",
             "match_id": 135960,
             "startTime": "12:30:00 AM 03-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137337_CASACARDS_APP.png",
+            "team_1": "Boston Red Sox",
+            "team_2": "New York Yankees",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Boston Red Sox vs New York Yankees",
+            "match_id": 137337,
+            "startTime": "03:38:00 AM 02-10-2025"
         },
         {
             "event_category": "Golf",
