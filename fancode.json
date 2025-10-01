@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:59:45 AM 01-10-2025",
+    "last update time": "07:09:54 AM 01-10-2025",
     "matches": [
-        {
-            "event_category": "Baseball",
-            "title": "Boston Red Sox vs New York Yankees (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v2/137333_CASACARDS_APP.png",
-            "team_1": "Boston Red Sox",
-            "team_2": "New York Yankees",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Boston Red Sox vs New York Yankees",
-            "match_id": 137333,
-            "startTime": "03:38:00 AM 01-10-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137333_english_hls_0eda41392456348ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137333_english_hls_0eda41392456348ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Baseball",
             "title": "Cincinnati Reds vs Los Angeles Dodgers (Major League Baseball, 2025)",
@@ -450,6 +436,18 @@
             "match_name": "Day 1",
             "match_id": 136855,
             "startTime": "04:30:00 PM 02-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Group - Day 1 vs The Country Club of Jackson (Sanderson Farms Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sanderson-Farms-Championship-old-match-card.jpg",
+            "team_1": "Featured Group - Day 1",
+            "team_2": "The Country Club of Jackson",
+            "status": "UPCOMING",
+            "event_name": "Sanderson Farms Championship",
+            "match_name": "Featured Group - Day 1",
+            "match_id": 137258,
+            "startTime": "05:30:00 PM 02-10-2025"
         }
     ]
 }
