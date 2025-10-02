@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:38:01 AM 02-10-2025",
+    "last update time": "10:48:12 AM 02-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,11 +33,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137092_5686_HAH_NLT_fc-web.jpg",
             "team_1": "Haridwar Elmas",
             "team_2": "Nainital Tigers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Uttarakhand Premier League, 2025",
             "match_name": "Haridwar Elmas vs Nainital Tigers",
             "match_id": 137092,
-            "startTime": "11:00:00 AM 02-10-2025"
+            "startTime": "11:00:00 AM 02-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/yjsTpFFeRH27hciAl3X1Dg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137092_english_hls_9e56a2c1bd14257ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -304,18 +306,6 @@
             "startTime": "12:40:00 PM 03-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137376_CASACARDS_APP.png",
-            "team_1": "Cleveland Guardians",
-            "team_2": "Detroit Tigers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Cleveland Guardians vs Detroit Tigers",
-            "match_id": 137376,
-            "startTime": "10:30:00 PM 02-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Nainital Tigers vs USN Indians (Uttarakhand Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137097_5686_NLT_UI_fc-web.jpg",
@@ -326,6 +316,18 @@
             "match_name": "Nainital Tigers vs USN Indians",
             "match_id": 137097,
             "startTime": "07:30:00 PM 03-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Cleveland Guardians vs Detroit Tigers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137376_CASACARDS_APP.png",
+            "team_1": "Cleveland Guardians",
+            "team_2": "Detroit Tigers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Cleveland Guardians vs Detroit Tigers",
+            "match_id": 137376,
+            "startTime": "10:30:00 PM 02-10-2025"
         },
         {
             "event_category": "Baseball",
