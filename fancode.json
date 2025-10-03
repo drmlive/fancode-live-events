@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:42:45 PM 03-10-2025",
+    "last update time": "07:52:55 PM 03-10-2025",
     "matches": [
-        {
-            "event_category": "Formula 1",
-            "title": "Practice 2 vs Singapore (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Singapore_Old_match-card.jpg",
-            "team_1": "Practice 2",
-            "team_2": "Singapore",
-            "status": "LIVE",
-            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025",
-            "match_name": "Practice 2",
-            "match_id": 118467,
-            "startTime": "06:30:00 PM 03-10-2025",
-            "dai_url": "https://d34gqyb2nk066a.cloudfront.net/out/v1/e9775fbc25324c8f901670693c4aa855/index.m3u8",
-            "adfree_url": "https://d34gqyb2nk066a.cloudfront.net/out/v1/e9775fbc25324c8f901670693c4aa855/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
@@ -72,6 +58,20 @@
             "startTime": "05:30:00 PM 03-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/gMTF13qxQE2kxQx81uO7DQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137260_english_hls_c93e9eef7e11778ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 2 vs Singapore (F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Singapore_Old_match-card.jpg",
+            "team_1": "Practice 2",
+            "team_2": "Singapore",
+            "status": "LIVE",
+            "event_name": "F1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025",
+            "match_name": "Practice 2",
+            "match_id": 118467,
+            "startTime": "06:30:00 PM 03-10-2025",
+            "dai_url": "https://d34gqyb2nk066a.cloudfront.net/out/v1/e9775fbc25324c8f901670693c4aa855/index.m3u8",
+            "adfree_url": "https://d34gqyb2nk066a.cloudfront.net/out/v1/e9775fbc25324c8f901670693c4aa855/index.m3u8"
         },
         {
             "event_category": "Motorsports",
@@ -269,18 +269,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sanfrecce Hiroshima vs Machida Zelvia (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137007_CASACARDS_APP.png",
-            "team_1": "Sanfrecce Hiroshima",
-            "team_2": "Machida Zelvia",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Sanfrecce Hiroshima vs Machida Zelvia",
-            "match_id": 137007,
-            "startTime": "12:30:00 PM 04-10-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Oviedo vs Levante (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130908_5427_RO_LE_fc-Web.jpg",
             "team_1": "Real Oviedo",
@@ -290,6 +278,18 @@
             "match_name": "Real Oviedo vs Levante",
             "match_id": 130908,
             "startTime": "05:30:00 PM 04-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Machida Zelvia (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137007_CASACARDS_APP.png",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Machida Zelvia",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Sanfrecce Hiroshima vs Machida Zelvia",
+            "match_id": 137007,
+            "startTime": "12:30:00 PM 04-10-2025"
         },
         {
             "event_category": "Football",
