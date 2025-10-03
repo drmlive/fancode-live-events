@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:22:22 PM 03-10-2025",
+    "last update time": "07:32:34 PM 03-10-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-T20_Old-(1).jpg",
             "team_1": "Afghanistan",
             "team_2": "Bangladesh",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
             "match_name": "Afghanistan vs Bangladesh",
             "match_id": 136879,
-            "startTime": "08:00:00 PM 03-10-2025"
+            "startTime": "08:00:00 PM 03-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/SxPumDhNQgmhS6ggi8IqBg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136879_english_hls_e604dbb0ac62362ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -362,18 +364,6 @@
             "startTime": "10:00:00 PM 04-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 2 vs The Country Club of Jackson (Sanderson Farms Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sanderson-Farms-Championship-old-match-card.jpg",
-            "team_1": "World Feed - Day 2",
-            "team_2": "The Country Club of Jackson",
-            "status": "UPCOMING",
-            "event_name": "Sanderson Farms Championship",
-            "match_name": "World Feed - Day 2",
-            "match_id": 137259,
-            "startTime": "01:30:00 AM 04-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Deportivo de La Coru\u00f1a vs Almer\u00eda (LALIGA Hypermotion 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137111_5572_DEP_ALM_fc-web.jpg",
@@ -384,6 +374,18 @@
             "match_name": "Deportivo de La Coru\u00f1a vs Almer\u00eda",
             "match_id": 137111,
             "startTime": "07:45:00 PM 04-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 2 vs The Country Club of Jackson (Sanderson Farms Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sanderson-Farms-Championship-old-match-card.jpg",
+            "team_1": "World Feed - Day 2",
+            "team_2": "The Country Club of Jackson",
+            "status": "UPCOMING",
+            "event_name": "Sanderson Farms Championship",
+            "match_name": "World Feed - Day 2",
+            "match_id": 137259,
+            "startTime": "01:30:00 AM 04-10-2025"
         },
         {
             "event_category": "Live events",
