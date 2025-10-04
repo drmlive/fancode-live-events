@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:32:06 PM 04-10-2025",
+    "last update time": "01:42:22 PM 04-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "06:10:00 AM 04-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/NAanZ_uYTOe0R74mJfpgCg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119231_english_hls_114632ab807493ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134015_5609_SAU_VCT_fc-Web_1759481455853.jpg",
-            "team_1": "South Australia",
-            "team_2": "Victoria",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "South Australia vs Victoria",
-            "match_id": 134015,
-            "startTime": "06:00:00 AM 04-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/SKgMaTQ8ThiTIG_Y1Ru3bw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134015_english_hls_a4e3c39f8f55572ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,20 +144,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119134_english_hls_bc097454c680630adfreeta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Qualifying 1 vs Germany (DTM Hockenheimring)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-            "team_1": "Qualifying 1",
-            "team_2": "Germany",
-            "status": "LIVE",
-            "event_name": "DTM Hockenheimring",
-            "match_name": "Qualifying 1",
-            "match_id": 136635,
-            "startTime": "01:05:00 PM 04-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-3tNdsMxRh-3iviMfzqQHA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136635_english_hls_1e143bb01f63830ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134014_5609_QUN_TAS_fc-Web_1759481455844.jpg",
@@ -182,6 +154,18 @@
             "match_name": "Tasmania vs Queensland",
             "match_id": 134014,
             "startTime": "05:30:00 AM 04-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134015_5609_SAU_VCT_fc-Web_1759481455853.jpg",
+            "team_1": "South Australia",
+            "team_2": "Victoria",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "South Australia vs Victoria",
+            "match_id": 134015,
+            "startTime": "06:00:00 AM 04-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -448,6 +432,18 @@
             "startTime": "09:35:00 PM 04-10-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Ipswich Town F.C. vs Norwich City F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136946_5489_IPT_NOR_fc-web.jpg",
+            "team_1": "Ipswich Town F.C.",
+            "team_2": "Norwich City F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Ipswich Town F.C. vs Norwich City F.C.",
+            "match_id": 136946,
+            "startTime": "04:30:00 PM 05-10-2025"
+        },
+        {
             "event_category": "Baseball",
             "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
@@ -460,16 +456,16 @@
             "startTime": "11:38:00 PM 04-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Ipswich Town F.C. vs Norwich City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136946_5489_IPT_NOR_fc-web.jpg",
-            "team_1": "Ipswich Town F.C.",
-            "team_2": "Norwich City F.C.",
+            "event_category": "Golf",
+            "title": "World Feed - Day 3 vs The Country Club of Jackson (Sanderson Farms Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sanderson-Farms-Championship-old-match-card.jpg",
+            "team_1": "World Feed - Day 3",
+            "team_2": "The Country Club of Jackson",
             "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Ipswich Town F.C. vs Norwich City F.C.",
-            "match_id": 136946,
-            "startTime": "04:30:00 PM 05-10-2025"
+            "event_name": "Sanderson Farms Championship",
+            "match_name": "World Feed - Day 3",
+            "match_id": 137261,
+            "startTime": "01:30:00 AM 05-10-2025"
         }
     ]
 }
