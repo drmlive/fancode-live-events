@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:45:53 PM 04-10-2025",
+    "last update time": "04:56:09 PM 04-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -26,8 +26,8 @@
             "match_name": "Hull City vs Sheffield United F.C.",
             "match_id": 136945,
             "startTime": "05:00:00 PM 04-10-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/OugApWUBQGq983MEO9PaPQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136945_english_hls_7b4ff00beb24898ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -56,6 +56,20 @@
             "startTime": "04:30:00 PM 04-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/IZEhSNc_St-Hyb8rY_pocg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136857_english_hls_2a8674b6dd22827ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Race 1 vs Germany (DTM Hockenheimring)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+            "team_1": "Race 1",
+            "team_2": "Germany",
+            "status": "LIVE",
+            "event_name": "DTM Hockenheimring",
+            "match_name": "Race 1",
+            "match_id": 136636,
+            "startTime": "05:00:00 PM 04-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/seF8w9aDTT2Jb5raBmKjLw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136636_english_hls_1bf8808bb764376ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -226,18 +240,6 @@
             "startTime": "07:45:00 PM 04-10-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Race 1 vs Germany (DTM Hockenheimring)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-            "team_1": "Race 1",
-            "team_2": "Germany",
-            "status": "UPCOMING",
-            "event_name": "DTM Hockenheimring",
-            "match_name": "Race 1",
-            "match_id": 136636,
-            "startTime": "05:00:00 PM 04-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Uttarakhand Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -370,18 +372,6 @@
             "startTime": "01:38:00 AM 05-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137469_CASACARDS_APP.png",
-            "team_1": "Philadelphia Phillies",
-            "team_2": "Los Angeles Dodgers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
-            "match_id": 137469,
-            "startTime": "04:08:00 AM 05-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Sevilla FC vs FC Barcelona (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130905_5427_SEV_BAR_fc-Web.jpg",
@@ -392,6 +382,18 @@
             "match_name": "Sevilla FC vs FC Barcelona",
             "match_id": 130905,
             "startTime": "07:45:00 PM 05-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137469_CASACARDS_APP.png",
+            "team_1": "Philadelphia Phillies",
+            "team_2": "Los Angeles Dodgers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
+            "match_id": 137469,
+            "startTime": "04:08:00 AM 05-10-2025"
         },
         {
             "event_category": "Baseball",
