@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:30:23 PM 04-10-2025",
+    "last update time": "08:40:32 PM 04-10-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Uganda vs Nigeria (ICC Men's T20 WC Africa Regional Final, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/136816_CASACARDS_APP.png",
-            "team_1": "Uganda",
-            "team_2": "Nigeria",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
-            "match_name": "Uganda vs Nigeria",
-            "match_id": 136816,
-            "startTime": "05:20:00 PM 04-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/lM_vvufjTMeWYUWklVQpKA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136816_english_hls_b8dd7889cd93273ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Namibia vs Zimbabwe (ICC Men's T20 WC Africa Regional Final, 2025)",
@@ -117,6 +103,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Uganda vs Nigeria (ICC Men's T20 WC Africa Regional Final, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/136816_CASACARDS_APP.png",
+            "team_1": "Uganda",
+            "team_2": "Nigeria",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
+            "match_name": "Uganda vs Nigeria",
+            "match_id": 136816,
+            "startTime": "05:20:00 PM 04-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/lM_vvufjTMeWYUWklVQpKA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136816_english_hls_b8dd7889cd93273ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134014_5609_QUN_TAS_fc-Web_1759481455844.jpg",
             "team_1": "Tasmania",
@@ -152,18 +152,6 @@
             "startTime": "07:30:00 AM 04-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Athletic Club vs RCD Mallorca (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130901_5427_ATH_MRC_fc-Web.jpg",
-            "team_1": "Athletic Club",
-            "team_2": "RCD Mallorca",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club vs RCD Mallorca",
-            "match_id": 130901,
-            "startTime": "10:00:00 PM 04-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Chicago CC vs Houston Generals CC (National Cricket T10 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137293_5711_CHI_HGC_fc-Web.jpg",
@@ -174,6 +162,18 @@
             "match_name": "Chicago CC vs Houston Generals CC",
             "match_id": 137293,
             "startTime": "04:30:00 AM 05-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club vs RCD Mallorca (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130901_5427_ATH_MRC_fc-Web.jpg",
+            "team_1": "Athletic Club",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club vs RCD Mallorca",
+            "match_id": 130901,
+            "startTime": "10:00:00 PM 04-10-2025"
         },
         {
             "event_category": "Football",
@@ -248,16 +248,16 @@
             "startTime": "04:30:00 PM 05-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Kashima Antlers vs Gamba Osaka (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137004_CASACARDS_APP.png",
-            "team_1": "Kashima Antlers",
-            "team_2": "Gamba Osaka",
+            "event_category": "Motorsports",
+            "title": "Session 2 - Qualifying Races vs Nigeria (E1 Lagos GP)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
+            "team_1": "Session 2 - Qualifying Races",
+            "team_2": "Nigeria",
             "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Kashima Antlers vs Gamba Osaka",
-            "match_id": 137004,
-            "startTime": "11:30:00 AM 05-10-2025"
+            "event_name": "E1 Lagos GP",
+            "match_name": "Session 2 - Qualifying Races",
+            "match_id": 137200,
+            "startTime": "09:35:00 PM 04-10-2025"
         },
         {
             "event_category": "Football",
@@ -270,6 +270,18 @@
             "match_name": "Deportivo Alaves vs Elche CF",
             "match_id": 130900,
             "startTime": "05:30:00 PM 05-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kashima Antlers vs Gamba Osaka (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137004_CASACARDS_APP.png",
+            "team_1": "Kashima Antlers",
+            "team_2": "Gamba Osaka",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Kashima Antlers vs Gamba Osaka",
+            "match_id": 137004,
+            "startTime": "11:30:00 AM 05-10-2025"
         },
         {
             "event_category": "Football",
@@ -306,18 +318,6 @@
             "match_name": "RCD Espanyol vs Real Betis",
             "match_id": 130906,
             "startTime": "10:00:00 PM 05-10-2025"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Session 2 - Qualifying Races vs Nigeria (E1 Lagos GP)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
-            "team_1": "Session 2 - Qualifying Races",
-            "team_2": "Nigeria",
-            "status": "UPCOMING",
-            "event_name": "E1 Lagos GP",
-            "match_name": "Session 2 - Qualifying Races",
-            "match_id": 137200,
-            "startTime": "09:35:00 PM 04-10-2025"
         },
         {
             "event_category": "Baseball",
