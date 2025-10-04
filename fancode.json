@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:35:30 PM 04-10-2025",
+    "last update time": "04:45:53 PM 04-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,6 +14,20 @@
             "match_name": "Real Oviedo vs Levante",
             "match_id": 130908,
             "startTime": "05:30:00 PM 04-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Hull City vs Sheffield United F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136945_5489_HUL_SHF_fc-web.jpg",
+            "team_1": "Hull City",
+            "team_2": "Sheffield United F.C.",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Hull City vs Sheffield United F.C.",
+            "match_id": 136945,
+            "startTime": "05:00:00 PM 04-10-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -45,20 +59,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malawi vs Botswana (ICC Men's T20 WC Africa Regional Final, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/136814_CASACARDS_APP.png",
-            "team_1": "Malawi",
-            "team_2": "Botswana",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Africa Regional Final, 2025",
-            "match_name": "Malawi vs Botswana",
-            "match_id": 136814,
-            "startTime": "01:00:00 PM 04-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8AQ-hxnORAaYEjRQGBM_iA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136814_english_hls_2d0c8e4ac033038ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Nigeria vs Uganda (ICC Men's T20 WC Africa Regional Final, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/136816_CASACARDS_APP.png",
             "team_1": "Nigeria",
@@ -80,18 +80,6 @@
             "match_name": "Zimbabwe vs Namibia",
             "match_id": 136815,
             "startTime": "05:20:00 PM 04-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Hull City vs Sheffield United F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136945_5489_HUL_SHF_fc-web.jpg",
-            "team_1": "Hull City",
-            "team_2": "Sheffield United F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Hull City vs Sheffield United F.C.",
-            "match_id": 136945,
-            "startTime": "05:00:00 PM 04-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -428,6 +416,18 @@
             "match_name": "Indonesia GP",
             "match_id": 119232,
             "startTime": "09:30:00 AM 05-10-2025"
+        },
+        {
+            "event_category": "Live events",
+            "title": "Football - Day 1 vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+            "team_1": "Football - Day 1",
+            "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
+            "status": "UPCOMING",
+            "event_name": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
+            "match_name": "Football - Day 1",
+            "match_id": 137412,
+            "startTime": "10:30:00 AM 05-10-2025"
         }
     ]
 }
