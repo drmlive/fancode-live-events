@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:49:46 AM 05-10-2025",
+    "last update time": "02:59:54 AM 05-10-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Real Madrid vs Villarreal CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130903_5427_RM_VIL_fc-Web.jpg",
-            "team_1": "Real Madrid",
-            "team_2": "Villarreal CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Madrid vs Villarreal CF",
-            "match_id": 130903,
-            "startTime": "12:30:00 AM 05-10-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130903_english_hls_7acae660d754143adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130903_english_hls_7acae660d754143adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137475_CASACARDS_APP.png",
-            "team_1": "Milwaukee Brewers",
-            "team_2": "Chicago Cubs",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Milwaukee Brewers vs Chicago Cubs",
-            "match_id": 137475,
-            "startTime": "11:38:00 PM 04-10-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137475_english_hls_798a4abeca15335ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137475_english_hls_798a4abeca15335ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "World Feed - Day 3 vs The Country Club of Jackson (Sanderson Farms Championship)",
@@ -372,6 +344,18 @@
             "startTime": "04:20:00 PM 05-10-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Chicago CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137296_5711_CHI_LAW_fc-Web.jpg",
+            "team_1": "Chicago CC",
+            "team_2": "Los Angeles Waves CC",
+            "status": "UPCOMING",
+            "event_name": "National Cricket T10 League, 2025",
+            "match_name": "Chicago CC vs Los Angeles Waves CC",
+            "match_id": 137296,
+            "startTime": "06:30:00 AM 06-10-2025"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Race 2 vs Germany (DTM Hockenheimring)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
@@ -394,18 +378,6 @@
             "match_name": "Race",
             "match_id": 118470,
             "startTime": "05:30:00 PM 05-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Chicago CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137296_5711_CHI_LAW_fc-Web.jpg",
-            "team_1": "Chicago CC",
-            "team_2": "Los Angeles Waves CC",
-            "status": "UPCOMING",
-            "event_name": "National Cricket T10 League, 2025",
-            "match_name": "Chicago CC vs Los Angeles Waves CC",
-            "match_id": 137296,
-            "startTime": "06:30:00 AM 06-10-2025"
         },
         {
             "event_category": "Motorsports",
@@ -454,6 +426,18 @@
             "match_name": "Seattle Mariners vs Detroit Tigers",
             "match_id": 137472,
             "startTime": "03:38:00 AM 06-10-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "F1 Kids vs Singapore (F1 Kids)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "F1 Kids",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "event_name": "F1 Kids",
+            "match_name": "F1 Kids",
+            "match_id": 137325,
+            "startTime": "05:30:00 PM 05-10-2025"
         }
     ]
 }
