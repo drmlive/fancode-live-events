@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:14:48 AM 05-10-2025",
+    "last update time": "08:24:55 AM 05-10-2025",
     "matches": [
+        {
+            "event_category": "MotoGP",
+            "title": "Race Day vs Pertamina Mandalika Circuit (PERTAMINA GRAND PRIX OF INDONESIA)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Indonesia_old_Match-card.jpg",
+            "team_1": "Race Day",
+            "team_2": "Pertamina Mandalika Circuit",
+            "status": "LIVE",
+            "event_name": "PERTAMINA GRAND PRIX OF INDONESIA",
+            "match_name": "Race Day",
+            "match_id": 119232,
+            "startTime": "09:30:00 AM 05-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/9H2fAKshT4mMSvozk6CD8w/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119232_english_hls_7894f0f16030146ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
@@ -47,20 +61,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New York Lions CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137294_5711_NYL_LAW_fc-Web.jpg",
-            "team_1": "New York Lions CC",
-            "team_2": "Los Angeles Waves CC",
-            "status": "LIVE",
-            "event_name": "National Cricket T10 League, 2025",
-            "match_name": "New York Lions CC vs Los Angeles Waves CC",
-            "match_id": 137294,
-            "startTime": "06:30:00 AM 05-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/yp8w3VYAT-m08KPEmB7tog/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137294_english_hls_53f425f70e70166ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Malaysia Women vs Nepal Women (Nepal Women tour of Malaysia, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-vs-Nepal-Women's-T20I-Series_Old_match-card.jpg",
             "team_1": "Malaysia Women",
@@ -100,20 +100,6 @@
             "startTime": "06:30:00 AM 05-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Y8_9oxugRf6uPrTDBxFJmQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137412_english_hls_61ef07ec2981153ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Race Day vs Pertamina Mandalika Circuit (PERTAMINA GRAND PRIX OF INDONESIA)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP_Indonesia_old_Match-card.jpg",
-            "team_1": "Race Day",
-            "team_2": "Pertamina Mandalika Circuit",
-            "status": "LIVE",
-            "event_name": "PERTAMINA GRAND PRIX OF INDONESIA",
-            "match_name": "Indonesia GP",
-            "match_id": 119232,
-            "startTime": "09:30:00 AM 05-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/9H2fAKshT4mMSvozk6CD8w/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119232_english_hls_7894f0f16030146ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -450,6 +436,30 @@
             "match_name": "Harrogate Town vs Crewe Alexandra",
             "match_id": 136998,
             "startTime": "12:30:00 AM 07-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chicago CC vs Houston Generals CC (National Cricket T10 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137297_5711_CHI_HGC_fc-Web.jpg",
+            "team_1": "Chicago CC",
+            "team_2": "Houston Generals CC",
+            "status": "UPCOMING",
+            "event_name": "National Cricket T10 League, 2025",
+            "match_name": "Chicago CC vs Houston Generals CC",
+            "match_id": 137297,
+            "startTime": "04:30:00 AM 07-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Los Angeles Waves CC vs Dallas Lonestars CC (National Cricket T10 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137298_5711_LAW_DL_fc-Web.jpg",
+            "team_1": "Los Angeles Waves CC",
+            "team_2": "Dallas Lonestars CC",
+            "status": "UPCOMING",
+            "event_name": "National Cricket T10 League, 2025",
+            "match_name": "Los Angeles Waves CC vs Dallas Lonestars CC",
+            "match_id": 137298,
+            "startTime": "06:30:00 AM 07-10-2025"
         }
     ]
 }
