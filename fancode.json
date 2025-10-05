@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:38:08 PM 05-10-2025",
+    "last update time": "09:48:27 PM 05-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130906_english_hls_f0e3347baf84536adfreeta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Racing de Santander vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137110_5572_RAC_MAG_fc-Web.jpg",
+            "team_1": "Racing de Santander",
+            "team_2": "M\u00e1laga",
+            "status": "LIVE",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Racing de Santander vs M\u00e1laga",
+            "match_id": 137110,
+            "startTime": "10:00:00 PM 05-10-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Motorsports",
             "title": "Session 5 - Race Place & Finals vs Nigeria (E1 Lagos GP)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
@@ -72,20 +86,6 @@
             "startTime": "08:30:00 PM 05-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/r3Mf5fP2TRC6-pL2Mhk-bg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137203_english_hls_fb619f92aa46922ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Nainital Tigers vs Haridwar Elmas (Uttarakhand Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137092_5686_HAH_NLT_fc-web.jpg",
-            "team_1": "Nainital Tigers",
-            "team_2": "Haridwar Elmas",
-            "status": "LIVE",
-            "event_name": "Uttarakhand Premier League, 2025",
-            "match_name": "Nainital Tigers vs Haridwar Elmas",
-            "match_id": 137100,
-            "startTime": "03:30:00 PM 05-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/hEC8OknHSOasWiAFog6Scw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137100_english_hls_689406d98b27443ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -122,18 +122,6 @@
             "match_name": "New South Wales vs Western Australia",
             "match_id": 134016,
             "startTime": "07:30:00 AM 04-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Racing de Santander vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137110_5572_RAC_MAG_fc-Web.jpg",
-            "team_1": "Racing de Santander",
-            "team_2": "M\u00e1laga",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Racing de Santander vs M\u00e1laga",
-            "match_id": 137110,
-            "startTime": "10:00:00 PM 05-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -458,6 +446,30 @@
             "match_name": "Afghanistan vs Bangladesh",
             "match_id": 136881,
             "startTime": "05:30:00 PM 08-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "United Arab Emirates vs Qatar (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "United Arab Emirates",
+            "team_2": "Qatar",
+            "status": "UPCOMING",
+            "event_name": "ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025",
+            "match_name": "United Arab Emirates vs Qatar",
+            "match_id": 137175,
+            "startTime": "04:00:00 PM 08-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sharjah vs Ajman (Emirates D20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Sharjah",
+            "team_2": "Ajman",
+            "status": "UPCOMING",
+            "event_name": "Emirates D20 Tournament, 2025",
+            "match_name": "Sharjah vs Ajman",
+            "match_id": 137481,
+            "startTime": "07:00:00 PM 08-10-2025"
         }
     ]
 }
