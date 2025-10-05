@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:34:40 PM 05-10-2025",
+    "last update time": "06:44:50 PM 05-10-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -85,20 +85,6 @@
         },
         {
             "event_category": "Motorsports",
-            "title": "Race 2 vs Germany (DTM Hockenheimring)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
-            "team_1": "Race 2",
-            "team_2": "Germany",
-            "status": "LIVE",
-            "event_name": "DTM Hockenheimring",
-            "match_name": "Race 2",
-            "match_id": 136638,
-            "startTime": "05:00:00 PM 05-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Nd5qxomqTsmuK8_3pPB6Sg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136638_english_hls_fdffb847cc79436ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
             "title": "F1 Kids vs Singapore (F1 Kids)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Default_sporty_Practice_Old_match-card.jpg",
             "team_1": "F1 Kids",
@@ -110,20 +96,6 @@
             "startTime": "05:30:00 PM 05-10-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137325_english_hls_641136b8d333720adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137325_english_hls_641136b8d333720adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Ipswich Town F.C. vs Norwich City F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136946_5489_IPT_NOR_fc-web.jpg",
-            "team_1": "Ipswich Town F.C.",
-            "team_2": "Norwich City F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Ipswich Town F.C. vs Norwich City F.C.",
-            "match_id": 136946,
-            "startTime": "04:30:00 PM 05-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/kaIGQP3KSnuvCpelRu8WDg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136946_english_hls_1cf612edf845267ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -472,6 +444,30 @@
             "match_name": "Barcelona Femenino vs FC Bayern M\u00fcnchen Ladies",
             "match_id": 137444,
             "startTime": "12:30:00 AM 08-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Paris FC F\u00e9minines vs OH Leuven Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Paris FC F\u00e9minines",
+            "team_2": "OH Leuven Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Paris FC F\u00e9minines vs OH Leuven Women",
+            "match_id": 137452,
+            "startTime": "12:30:00 AM 08-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Victoria Women vs Tasmania Women (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "Tasmania Women",
+            "status": "UPCOMING",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Victoria Women vs Tasmania Women",
+            "match_id": 133956,
+            "startTime": "04:30:00 AM 08-10-2025"
         }
     ]
 }
