@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:25:38 PM 05-10-2025",
+    "last update time": "07:46:10 PM 05-10-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-T20_Old-(1).jpg",
             "team_1": "Afghanistan",
             "team_2": "Bangladesh",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
             "match_name": "Afghanistan vs Bangladesh",
             "match_id": 136880,
-            "startTime": "08:00:00 PM 05-10-2025"
+            "startTime": "08:00:00 PM 05-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/CsFbu-WuQsmqXR6TeVE1sQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136880_english_hls_34e42d180581738ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -42,20 +44,6 @@
             "startTime": "07:45:00 PM 05-10-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130905_english_hls_a7aba932ac66270adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130905_english_hls_a7aba932ac66270adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo Alaves vs Elche CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130900_5427_ALA_ELC_fc-Web.jpg",
-            "team_1": "Deportivo Alaves",
-            "team_2": "Elche CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Deportivo Alaves vs Elche CF",
-            "match_id": 130900,
-            "startTime": "05:30:00 PM 05-10-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130900_english_hls_46fedbfb7430702adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130900_english_hls_46fedbfb7430702adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -87,6 +75,20 @@
         },
         {
             "event_category": "Motorsports",
+            "title": "Session 4 - Race Off vs Nigeria (E1 Lagos GP)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
+            "team_1": "Session 4 - Race Off",
+            "team_2": "Nigeria",
+            "status": "LIVE",
+            "event_name": "E1 Lagos GP",
+            "match_name": "Session 4 - Race Off",
+            "match_id": 137202,
+            "startTime": "07:50:00 PM 05-10-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Motorsports",
             "title": "F1 Kids vs Singapore (F1 Kids)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Default_sporty_Practice_Old_match-card.jpg",
             "team_1": "F1 Kids",
@@ -112,6 +114,20 @@
             "startTime": "07:00:00 PM 05-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/egKxi6cvT4mkrqKirbQbxg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137280_english_hls_0b8941cdbc84363ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo Alaves vs Elche CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130900_5427_ALA_ELC_fc-Web.jpg",
+            "team_1": "Deportivo Alaves",
+            "team_2": "Elche CF",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Deportivo Alaves vs Elche CF",
+            "match_id": 130900,
+            "startTime": "05:30:00 PM 05-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130900_english_hls_46fedbfb7430702adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130900_english_hls_46fedbfb7430702adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -220,18 +236,6 @@
             "match_name": "Racing de Santander vs M\u00e1laga",
             "match_id": 137110,
             "startTime": "10:00:00 PM 05-10-2025"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Session 4 - Race Off vs Nigeria (E1 Lagos GP)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-Lagos-GP--old-match-card.png",
-            "team_1": "Session 4 - Race Off",
-            "team_2": "Nigeria",
-            "status": "UPCOMING",
-            "event_name": "E1 Lagos GP",
-            "match_name": "Session 4 - Race Off",
-            "match_id": 137202,
-            "startTime": "07:50:00 PM 05-10-2025"
         },
         {
             "event_category": "Motorsports",
