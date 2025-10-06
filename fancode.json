@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:16:59 AM 06-10-2025",
+    "last update time": "06:27:11 AM 06-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Atlanta Kings CC vs New York Lions CC (National Cricket T10 League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137295_5711_ATL_NYL_fc-Web.jpg",
-            "team_1": "Atlanta Kings CC",
-            "team_2": "New York Lions CC",
-            "status": "LIVE",
-            "event_name": "National Cricket T10 League, 2025",
-            "match_name": "Atlanta Kings CC vs New York Lions CC",
-            "match_id": 137295,
-            "startTime": "04:30:00 AM 06-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-Nbpd9ouSHaXj0wIwhBpLA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137295_english_hls_3bc0f8fad543220ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Chicago CC vs Los Angeles Waves CC (National Cricket T10 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137296_5711_CHI_LAW_fc-Web.jpg",
             "team_1": "Chicago CC",
@@ -42,8 +28,8 @@
             "match_name": "Chicago CC vs Los Angeles Waves CC",
             "match_id": 137296,
             "startTime": "06:30:00 AM 06-10-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/E2gFvROVQDG2jNX150pEtw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137296_english_hls_d494e9259172316ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -457,6 +443,18 @@
             "event_name": "UEFA Women's Champions League 2025-26",
             "match_name": "Real Madrid Femenino vs Roma Femminile",
             "match_id": 137455,
+            "startTime": "10:15:00 PM 08-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Twente Women vs Chelsea Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137453_5720_TWE-W_CHE-W_fc-web.jpg",
+            "team_1": "FC Twente Women",
+            "team_2": "Chelsea Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "FC Twente Women vs Chelsea Women",
+            "match_id": 137453,
             "startTime": "10:15:00 PM 08-10-2025"
         }
     ]
