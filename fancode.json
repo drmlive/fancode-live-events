@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:15:50 AM 06-10-2025",
+    "last update time": "05:36:08 AM 06-10-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134014_5609_QUN_TAS_fc-Web_1759481455844.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Queensland",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs Queensland",
+            "match_id": 134014,
+            "startTime": "05:30:00 AM 04-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/BJC6W7-kTf2PTXzPQyx8KQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134014_english_hls_e37346407d3154ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Atlanta Kings CC vs New York Lions CC (National Cricket T10 League, 2025)",
@@ -19,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134014_5609_QUN_TAS_fc-Web_1759481455844.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Queensland",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs Queensland",
-            "match_id": 134014,
-            "startTime": "05:30:00 AM 04-10-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
             "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134015_5609_SAU_VCT_fc-Web_1759481455853.jpg",
             "team_1": "South Australia",
@@ -46,16 +46,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134015_english_hls_a4e3c39f8f36568ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Western Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs Western Australia",
-            "match_id": 134016,
-            "startTime": "07:30:00 AM 04-10-2025"
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137472_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "Detroit Tigers",
+            "status": "LIVE",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Detroit Tigers",
+            "match_id": 137472,
+            "startTime": "05:33:00 AM 06-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/s3/8a188626-f3dc-4959-b775-abafba8afdf8/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/s3/8a188626-f3dc-4959-b775-abafba8afdf8/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -70,16 +72,28 @@
             "startTime": "06:30:00 AM 06-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137472_CASACARDS_APP.png",
-            "team_1": "Seattle Mariners",
-            "team_2": "Detroit Tigers",
+            "event_category": "Cricket",
+            "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
+            "team_1": "New South Wales",
+            "team_2": "Western Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "New South Wales vs Western Australia",
+            "match_id": 134016,
+            "startTime": "07:30:00 AM 04-10-2025"
+        },
+        {
+            "event_category": "Live events",
+            "title": "Football vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+            "team_1": "Football",
+            "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
             "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Seattle Mariners vs Detroit Tigers",
-            "match_id": 137472,
-            "startTime": "05:33:00 AM 06-10-2025"
+            "event_name": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
+            "match_name": "Football",
+            "match_id": 137413,
+            "startTime": "06:30:00 AM 06-10-2025"
         },
         {
             "event_category": "Football",
@@ -140,18 +154,6 @@
             "match_name": "Malaysia Women vs Nepal Women",
             "match_id": 137341,
             "startTime": "07:30:00 AM 07-10-2025"
-        },
-        {
-            "event_category": "Live events",
-            "title": "Football vs Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-            "team_1": "Football",
-            "team_2": "Jawaharlal Nehru Indoor Stadium  'B' Ground, Chenn",
-            "status": "UPCOMING",
-            "event_name": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
-            "match_name": "Football",
-            "match_id": 137413,
-            "startTime": "06:30:00 AM 06-10-2025"
         },
         {
             "event_category": "Baseball",
