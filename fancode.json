@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:26:53 PM 06-10-2025",
+    "last update time": "03:47:22 PM 06-10-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Western Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs Western Australia",
-            "match_id": 134016,
-            "startTime": "07:30:00 AM 04-10-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Tasmania vs Queensland (Sheffield Shield, 2025-26)",
@@ -40,6 +26,18 @@
             "match_name": "South Australia vs Victoria",
             "match_id": 134015,
             "startTime": "06:00:00 AM 04-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134016_5609_WAU_NSW_fc-Web_1759481455849.jpg",
+            "team_1": "New South Wales",
+            "team_2": "Western Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "New South Wales vs Western Australia",
+            "match_id": 134016,
+            "startTime": "07:30:00 AM 04-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -102,18 +100,6 @@
             "startTime": "12:30:00 AM 07-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137473_CASACARDS_APP.png",
-            "team_1": "Philadelphia Phillies",
-            "team_2": "Los Angeles Dodgers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
-            "match_id": 137473,
-            "startTime": "03:38:00 AM 07-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sharjah vs Fujairah (Emirates D20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137479_5722_SHA_FUJ_fc-web.jpg",
@@ -124,6 +110,18 @@
             "match_name": "Sharjah vs Fujairah",
             "match_id": 137479,
             "startTime": "07:00:00 PM 07-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137473_CASACARDS_APP.png",
+            "team_1": "Philadelphia Phillies",
+            "team_2": "Los Angeles Dodgers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
+            "match_id": 137473,
+            "startTime": "03:38:00 AM 07-10-2025"
         },
         {
             "event_category": "Baseball",
@@ -438,16 +436,16 @@
             "startTime": "11:00:00 PM 08-10-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Brampton Blitz vs Toronto Sixers (Canada Super 60, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Brampton Blitz",
-            "team_2": "Toronto Sixers",
+            "event_category": "Football",
+            "title": "St. P\u00f6lten Women vs Atl\u00e9tico de Madrid Femenino (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "St. P\u00f6lten Women",
+            "team_2": "Atl\u00e9tico de Madrid Femenino",
             "status": "UPCOMING",
-            "event_name": "Canada Super 60, 2025",
-            "match_name": "Brampton Blitz vs Toronto Sixers",
-            "match_id": 137422,
-            "startTime": "02:30:00 AM 09-10-2025"
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "St. P\u00f6lten Women vs Atl\u00e9tico de Madrid Femenino",
+            "match_id": 137456,
+            "startTime": "12:30:00 AM 09-10-2025"
         }
     ]
 }
