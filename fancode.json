@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:39:23 AM 06-10-2025",
+    "last update time": "08:49:30 AM 06-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "07:30:00 AM 04-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/48oQrP1LR3y0MJBPh0HRvA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134016_english_hls_73c5fe0aeb79240ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Seattle Mariners vs Detroit Tigers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137472_CASACARDS_APP.png",
-            "team_1": "Seattle Mariners",
-            "team_2": "Detroit Tigers",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Seattle Mariners vs Detroit Tigers",
-            "match_id": 137472,
-            "startTime": "05:33:00 AM 06-10-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/s3/8a188626-f3dc-4959-b775-abafba8afdf8/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/s3/8a188626-f3dc-4959-b775-abafba8afdf8/index.m3u8"
         },
         {
             "event_category": "Live events",
@@ -458,6 +444,18 @@
             "match_name": "FC Twente Women vs Chelsea Women",
             "match_id": 137453,
             "startTime": "10:15:00 PM 08-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Indonesia",
+            "team_2": "Saudi Arabia",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Indonesia vs Saudi Arabia",
+            "match_id": 137264,
+            "startTime": "10:45:00 PM 08-10-2025"
         }
     ]
 }
