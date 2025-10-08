@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:17:48 AM 09-10-2025",
+    "last update time": "12:28:23 AM 09-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Manchester-United-Women-VS-Valerenga-Fotball-Women_old.jpg",
             "team_1": "Manchester United Women",
             "team_2": "Valerenga Fotball Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "UEFA Women's Champions League 2025-26",
             "match_name": "Manchester United Women vs Valerenga Fotball Women",
             "match_id": 137457,
-            "startTime": "12:30:00 AM 09-10-2025"
+            "startTime": "12:30:00 AM 09-10-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -35,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/VfL-Wolfsburg-Women-VS-Paris-Saint-Germain-Women_old.jpg",
             "team_1": "VfL Wolfsburg Women",
             "team_2": "Paris Saint-Germain Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "UEFA Women's Champions League 2025-26",
             "match_name": "VfL Wolfsburg Women vs Paris Saint-Germain Women",
             "match_id": 137458,
-            "startTime": "12:30:00 AM 09-10-2025"
+            "startTime": "12:30:00 AM 09-10-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -112,32 +116,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137364_english_hls_e72f636b5673705ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Real Madrid Women vs Roma Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-Women-VS-Roma-Women_old.jpg",
-            "team_1": "Real Madrid Women",
-            "team_2": "Roma Women",
+            "event_category": "Baseball",
+            "title": "Detroit Tigers vs Seattle Mariners (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137572_CASACARDS_APP.png",
+            "team_1": "Detroit Tigers",
+            "team_2": "Seattle Mariners",
             "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Real Madrid Women vs Roma Women",
-            "match_id": 137455,
-            "startTime": "10:15:00 PM 08-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/DCrDT8s0SJmQy3d-X99Cbw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137455_english_hls_d754bbfeb729190ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Twente Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137453_5720_TWE-W_CHE-W_fc-web.jpg",
-            "team_1": "FC Twente Women",
-            "team_2": "Chelsea F.C. Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "FC Twente Women vs Chelsea F.C. Women",
-            "match_id": 137453,
-            "startTime": "10:15:00 PM 08-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/hHKvsQg-StWAFgTE3xVoVQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137453_english_hls_32f6a6b32e34ta-di_h264/index.m3u8"
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Detroit Tigers vs Seattle Mariners",
+            "match_id": 137572,
+            "startTime": "12:38:00 AM 09-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137572_english_hls_61f3c17bb36178ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137572_english_hls_61f3c17bb36178ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -282,18 +272,6 @@
             "match_name": "Papua New Guinea vs Samoa",
             "match_id": 137179,
             "startTime": "08:30:00 PM 09-10-2025"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Detroit Tigers vs Seattle Mariners (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137572_CASACARDS_APP.png",
-            "team_1": "Detroit Tigers",
-            "team_2": "Seattle Mariners",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Detroit Tigers vs Seattle Mariners",
-            "match_id": 137572,
-            "startTime": "12:38:00 AM 09-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -464,16 +442,40 @@
             "startTime": "06:38:00 AM 09-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Club de Campo Villa de Madrid",
+            "event_category": "Cricket",
+            "title": "New South Wales Breakers vs Western Australia Women (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
+            "team_1": "New South Wales Breakers",
+            "team_2": "Western Australia Women",
             "status": "UPCOMING",
-            "event_name": "Acciona Spanish Open presented by Madrid",
-            "match_name": "Day 1",
-            "match_id": 136859,
-            "startTime": "05:30:00 PM 09-10-2025"
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "New South Wales Breakers vs Western Australia Women",
+            "match_id": 133958,
+            "startTime": "04:30:00 AM 10-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Victoria Women vs Tasmania Women (Women's National Cricket League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
+            "team_1": "Victoria Women",
+            "team_2": "Tasmania Women",
+            "status": "UPCOMING",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Victoria Women vs Tasmania Women",
+            "match_id": 133957,
+            "startTime": "04:30:00 AM 10-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dallas Lonestars CC vs Chicago CC (National Cricket T10 League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137303_5711_DL_CHI_fc-Web_1759932203337.jpg",
+            "team_1": "Dallas Lonestars CC",
+            "team_2": "Chicago CC",
+            "status": "UPCOMING",
+            "event_name": "National Cricket T10 League, 2025",
+            "match_name": "Dallas Lonestars CC vs Chicago CC",
+            "match_id": 137303,
+            "startTime": "04:30:00 AM 10-10-2025"
         }
     ]
 }
