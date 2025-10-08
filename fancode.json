@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:32:01 AM 09-10-2025",
+    "last update time": "03:42:11 AM 09-10-2025",
     "matches": [
-        {
-            "event_category": "Baseball",
-            "title": "Detroit Tigers vs Seattle Mariners (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137572_CASACARDS_APP.png",
-            "team_1": "Detroit Tigers",
-            "team_2": "Seattle Mariners",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Detroit Tigers vs Seattle Mariners",
-            "match_id": 137572,
-            "startTime": "12:38:00 AM 09-10-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137572_english_hls_61f3c17bb36178ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137572_english_hls_61f3c17bb36178ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Baseball",
             "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
@@ -224,6 +210,18 @@
             "startTime": "11:00:00 PM 09-10-2025"
         },
         {
+            "event_category": "Baseball",
+            "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137574_CASACARDS_APP.png",
+            "team_1": "Toronto Blue Jays",
+            "team_2": "New York Yankees",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Toronto Blue Jays vs New York Yankees",
+            "match_id": 137574,
+            "startTime": "04:38:00 AM 09-10-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Burundi vs Kenya (CAF World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137519_3741_BRD_KEN_FC-Web.jpg",
@@ -344,18 +342,6 @@
             "startTime": "08:00:00 AM 10-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137574_CASACARDS_APP.png",
-            "team_1": "Toronto Blue Jays",
-            "team_2": "New York Yankees",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Toronto Blue Jays vs New York Yankees",
-            "match_id": 137574,
-            "startTime": "04:38:00 AM 09-10-2025"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 1 vs Yokohama Country Club (Baycurrent Classic)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
@@ -450,6 +436,18 @@
             "match_name": "Milwaukee Brewers vs Chicago Cubs",
             "match_id": 137577,
             "startTime": "06:38:00 AM 10-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Yokohama Country Club (Baycurrent Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+            "team_1": "Day 2",
+            "team_2": "Yokohama Country Club",
+            "status": "UPCOMING",
+            "event_name": "Baycurrent Classic",
+            "match_name": "Day 2",
+            "match_id": 137312,
+            "startTime": "08:30:00 AM 10-10-2025"
         }
     ]
 }
