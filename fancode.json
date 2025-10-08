@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:53:44 PM 08-10-2025",
+    "last update time": "10:04:06 PM 08-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Madrid-Women-VS-Roma-Women_old.jpg",
             "team_1": "Real Madrid Women",
             "team_2": "Roma Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "UEFA Women's Champions League 2025-26",
             "match_name": "Real Madrid Women vs Roma Women",
             "match_id": 137455,
-            "startTime": "10:15:00 PM 08-10-2025"
+            "startTime": "10:15:00 PM 08-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/DCrDT8s0SJmQy3d-X99Cbw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137455_english_hls_d754bbfeb729190ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -35,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137453_5720_TWE-W_CHE-W_fc-web.jpg",
             "team_1": "FC Twente Women",
             "team_2": "Chelsea F.C. Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "UEFA Women's Champions League 2025-26",
             "match_name": "FC Twente Women vs Chelsea F.C. Women",
             "match_id": 137453,
-            "startTime": "10:15:00 PM 08-10-2025"
+            "startTime": "10:15:00 PM 08-10-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -141,20 +145,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ajman vs Sharjah (Emirates D20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137481_5722_SHA_AJM_fc-web.jpg",
-            "team_1": "Ajman",
-            "team_2": "Sharjah",
-            "status": "LIVE",
-            "event_name": "Emirates D20 Tournament, 2025",
-            "match_name": "Ajman vs Sharjah",
-            "match_id": 137481,
-            "startTime": "07:00:00 PM 08-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/x2tsrIIIRl-X9dkd_TeLag/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137481_english_hls_5e19920a1a21548ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Brampton Blitz vs Toronto Sixers (Canada Super 60, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137422_5719_BBZ_TTS_fc-Web.jpg",
             "team_1": "Brampton Blitz",
@@ -190,18 +180,6 @@
             "startTime": "11:00:00 AM 09-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137264_3740_INA_KSA_fc-Web.jpg",
-            "team_1": "Indonesia",
-            "team_2": "Saudi Arabia",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "Indonesia vs Saudi Arabia",
-            "match_id": 137264,
-            "startTime": "10:45:00 PM 08-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Dubai vs Fujairah (Emirates D20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137482_5722_DUB_FUJ_fc-web.jpg",
@@ -212,6 +190,18 @@
             "match_name": "Dubai vs Fujairah",
             "match_id": 137482,
             "startTime": "11:00:00 PM 08-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Indonesia vs Saudi Arabia (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137264_3740_INA_KSA_fc-Web.jpg",
+            "team_1": "Indonesia",
+            "team_2": "Saudi Arabia",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "Indonesia vs Saudi Arabia",
+            "match_id": 137264,
+            "startTime": "10:45:00 PM 08-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -476,6 +466,18 @@
             "match_name": "Mozambique vs Guinea",
             "match_id": 137520,
             "startTime": "09:30:00 PM 09-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mississauga Masters vs Brampton Blitz (Canada Super 60, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137425_5719_MGM_BBZ_fc-Web.jpg",
+            "team_1": "Mississauga Masters",
+            "team_2": "Brampton Blitz",
+            "status": "UPCOMING",
+            "event_name": "Canada Super 60, 2025",
+            "match_name": "Mississauga Masters vs Brampton Blitz",
+            "match_id": 137425,
+            "startTime": "03:30:00 AM 10-10-2025"
         }
     ]
 }
