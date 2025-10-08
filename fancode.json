@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:46:52 PM 08-10-2025",
+    "last update time": "11:57:05 PM 08-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,20 +47,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Nepal vs Kuwait (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137176_5697_NEP_KUW_fc-Web.jpg",
-            "team_1": "Nepal",
-            "team_2": "Kuwait",
-            "status": "LIVE",
-            "event_name": "ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025",
-            "match_name": "Nepal vs Kuwait",
-            "match_id": 137176,
-            "startTime": "08:30:00 PM 08-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/PuUsPsaTQzaE5VCgeLTUVQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137176_english_hls_71e3f30eab88807ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Dubai vs Fujairah (Emirates D20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137482_5722_DUB_FUJ_fc-web.jpg",
             "team_1": "Dubai",
@@ -86,6 +72,20 @@
             "startTime": "10:45:00 PM 08-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/rUeOag7ySBucGfB6m2nUEA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137264_english_hls_878a64bd3650988ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nepal vs Kuwait (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137176_5697_NEP_KUW_fc-Web.jpg",
+            "team_1": "Nepal",
+            "team_2": "Kuwait",
+            "status": "LIVE",
+            "event_name": "ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025",
+            "match_name": "Nepal vs Kuwait",
+            "match_id": 137176,
+            "startTime": "08:30:00 PM 08-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/PuUsPsaTQzaE5VCgeLTUVQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137176_english_hls_71e3f30eab88807ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -412,6 +412,18 @@
             "startTime": "09:30:00 PM 09-10-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Montreal Royal Tigers vs Vancouver Kings (Canada Super 60, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137426_5719_MRT_VCK_fc-Web.jpg",
+            "team_1": "Montreal Royal Tigers",
+            "team_2": "Vancouver Kings",
+            "status": "UPCOMING",
+            "event_name": "Canada Super 60, 2025",
+            "match_name": "Montreal Royal Tigers vs Vancouver Kings",
+            "match_id": 137426,
+            "startTime": "05:30:00 AM 10-10-2025"
+        },
+        {
             "event_category": "Baseball",
             "title": "Milwaukee Brewers vs Chicago Cubs (Major League Baseball, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
@@ -436,18 +448,6 @@
             "startTime": "04:38:00 AM 09-10-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Montreal Royal Tigers vs Vancouver Kings (Canada Super 60, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137426_5719_MRT_VCK_fc-Web.jpg",
-            "team_1": "Montreal Royal Tigers",
-            "team_2": "Vancouver Kings",
-            "status": "UPCOMING",
-            "event_name": "Canada Super 60, 2025",
-            "match_name": "Montreal Royal Tigers vs Vancouver Kings",
-            "match_id": 137426,
-            "startTime": "05:30:00 AM 10-10-2025"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 1 vs Yokohama Country Club (Baycurrent Classic)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
@@ -458,6 +458,18 @@
             "match_name": "Day 1",
             "match_id": 137311,
             "startTime": "06:30:00 AM 09-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Philadelphia Phillies vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137575_CASACARDS_APP.png",
+            "team_1": "Philadelphia Phillies",
+            "team_2": "Los Angeles Dodgers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Philadelphia Phillies vs Los Angeles Dodgers",
+            "match_id": 137575,
+            "startTime": "06:38:00 AM 09-10-2025"
         }
     ]
 }
