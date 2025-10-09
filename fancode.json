@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:50:14 AM 09-10-2025",
+    "last update time": "11:00:37 AM 09-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "Vancouver Kings vs White Rock Warriors",
             "match_id": 137424,
             "startTime": "11:00:00 AM 09-10-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/pJNUuRo_RmedKgXRTouAwQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137424_english_hls_0a7b4856a647813ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -60,28 +60,14 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133934_english_hls_984f5721c221253ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Yokohama Country Club (Baycurrent Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-            "team_1": "Day 1",
-            "team_2": "Yokohama Country Club",
-            "status": "LIVE",
-            "event_name": "Baycurrent Classic",
-            "match_name": "Day 1",
-            "match_id": 137311,
-            "startTime": "06:30:00 AM 09-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/wHT213ghRiajZA4VlGY39Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137311_english_hls_480401f87011181ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
-            "title": "Western Australia vs New South Wales (One Day Cup, 2025-26)",
+            "title": "New South Wales vs Western Australia (One Day Cup, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133936_5606_WAU_NSW_fc-web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "New South Wales",
+            "team_1": "New South Wales",
+            "team_2": "Western Australia",
             "status": "UPCOMING",
             "event_name": "One Day Cup, 2025-26",
-            "match_name": "Western Australia vs New South Wales",
+            "match_name": "New South Wales vs Western Australia",
             "match_id": 133936,
             "startTime": "11:30:00 AM 09-10-2025"
         },
@@ -423,15 +409,27 @@
         },
         {
             "event_category": "Football",
-            "title": "South Sudan vs Senegal (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137525_3741_SS_SEN_FC-Web.jpg",
-            "team_1": "South Sudan",
-            "team_2": "Senegal",
+            "title": "Seychelles vs C\u00f4te d'Ivoire (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137528_3741_SEY_IVC_FC-Web.jpg",
+            "team_1": "Seychelles",
+            "team_2": "C\u00f4te d'Ivoire",
             "status": "UPCOMING",
             "event_name": "CAF World Cup Qualifiers",
-            "match_name": "South Sudan vs Senegal",
-            "match_id": 137525,
-            "startTime": "05:30:00 PM 10-10-2025"
+            "match_name": "Seychelles vs C\u00f4te d'Ivoire",
+            "match_id": 137528,
+            "startTime": "06:30:00 PM 10-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sudan vs Mauritania (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137527_3741_SUD_MAU_FC-Web.jpg",
+            "team_1": "Sudan",
+            "team_2": "Mauritania",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Sudan vs Mauritania",
+            "match_id": 137527,
+            "startTime": "06:30:00 PM 10-10-2025"
         }
     ]
 }
