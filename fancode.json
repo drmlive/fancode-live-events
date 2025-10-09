@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:39:53 AM 09-10-2025",
+    "last update time": "10:50:14 AM 09-10-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Vancouver Kings vs White Rock Warriors (Canada Super 60, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137424_5719_VCK_WRW_fc-Web.jpg",
+            "team_1": "Vancouver Kings",
+            "team_2": "White Rock Warriors",
+            "status": "LIVE",
+            "event_name": "Canada Super 60, 2025",
+            "match_name": "Vancouver Kings vs White Rock Warriors",
+            "match_id": 137424,
+            "startTime": "11:00:00 AM 09-10-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
         {
             "event_category": "Cricket",
             "title": "New South Wales Breakers vs Western Australia Women (Women's National Cricket League, 2025-26)",
@@ -58,18 +72,6 @@
             "startTime": "06:30:00 AM 09-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/wHT213ghRiajZA4VlGY39Q/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137311_english_hls_480401f87011181ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vancouver Kings vs White Rock Warriors (Canada Super 60, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137424_5719_VCK_WRW_fc-Web.jpg",
-            "team_1": "Vancouver Kings",
-            "team_2": "White Rock Warriors",
-            "status": "UPCOMING",
-            "event_name": "Canada Super 60, 2025",
-            "match_name": "Vancouver Kings vs White Rock Warriors",
-            "match_id": 137424,
-            "startTime": "11:00:00 AM 09-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -216,18 +218,6 @@
             "startTime": "04:30:00 AM 10-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Burundi vs Kenya (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137519_3741_BRD_KEN_FC-Web.jpg",
-            "team_1": "Burundi",
-            "team_2": "Kenya",
-            "status": "UPCOMING",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Burundi vs Kenya",
-            "match_id": 137519,
-            "startTime": "06:30:00 PM 09-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "New York Lions CC vs Houston Generals CC (National Cricket T10 League, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/137304_CASACARDS_APP.png",
@@ -238,6 +228,18 @@
             "match_name": "New York Lions CC vs Houston Generals CC",
             "match_id": 137304,
             "startTime": "06:30:00 AM 10-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Burundi vs Kenya (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137519_3741_BRD_KEN_FC-Web.jpg",
+            "team_1": "Burundi",
+            "team_2": "Kenya",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Burundi vs Kenya",
+            "match_id": 137519,
+            "startTime": "06:30:00 PM 09-10-2025"
         },
         {
             "event_category": "Football",
