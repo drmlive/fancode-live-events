@@ -1,17 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:07:23 AM 09-10-2025",
+    "last update time": "08:17:33 AM 09-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Montreal Royal Tigers vs Mississauga Masters (Canada Super 60, 2025)",
+            "title": "Mississauga Masters vs Montreal Royal Tigers (Canada Super 60, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137423_5719_MRT_MGM_fc-Web.jpg",
-            "team_1": "Montreal Royal Tigers",
-            "team_2": "Mississauga Masters",
+            "team_1": "Mississauga Masters",
+            "team_2": "Montreal Royal Tigers",
             "status": "LIVE",
             "event_name": "Canada Super 60, 2025",
-            "match_name": "Montreal Royal Tigers vs Mississauga Masters",
+            "match_name": "Mississauga Masters vs Montreal Royal Tigers",
             "match_id": 137423,
             "startTime": "08:00:00 AM 09-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Sm-ctN5HQ8i1by5A5mWWOA/master.m3u8",
@@ -72,20 +72,6 @@
             "startTime": "06:30:00 AM 09-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_Qe4d2-YRFC3h7HjWKfGhg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137302_english_hls_77565fec8f80717ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Toronto Blue Jays vs New York Yankees (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137574_CASACARDS_APP.png",
-            "team_1": "Toronto Blue Jays",
-            "team_2": "New York Yankees",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Toronto Blue Jays vs New York Yankees",
-            "match_id": 137574,
-            "startTime": "04:38:00 AM 09-10-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137574_english_hls_2e17bb30523862ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137574_english_hls_2e17bb30523862ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -450,6 +436,18 @@
             "match_name": "Badminton",
             "match_id": 137419,
             "startTime": "10:30:00 AM 10-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Indonesia U23 vs India U23 (International Friendlies)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Indonesia U23",
+            "team_2": "India U23",
+            "status": "UPCOMING",
+            "event_name": "International Friendlies",
+            "match_name": "Indonesia U23 vs India U23",
+            "match_id": 137619,
+            "startTime": "06:30:00 PM 10-10-2025"
         }
     ]
 }
