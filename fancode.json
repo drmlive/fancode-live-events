@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:36:53 PM 09-10-2025",
+    "last update time": "04:47:04 PM 09-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers--old-.png",
             "team_1": "Singapore",
             "team_2": "India",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Asia Cup Qualifiers",
             "match_name": "Singapore vs India",
             "match_id": 137359,
-            "startTime": "05:00:00 PM 09-10-2025"
+            "startTime": "05:00:00 PM 09-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/i3evrrilQwq-oElhs38VXA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137359_english_hls_637332208d74294ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -308,18 +310,6 @@
             "startTime": "06:38:00 AM 10-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Yokohama Country Club (Baycurrent Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-            "team_1": "Day 2",
-            "team_2": "Yokohama Country Club",
-            "status": "UPCOMING",
-            "event_name": "Baycurrent Classic",
-            "match_name": "Day 2",
-            "match_id": 137312,
-            "startTime": "08:30:00 AM 10-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Oman vs Papua New Guinea (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137182_5697_OMN_PNG_fc-Web.jpg",
@@ -330,6 +320,18 @@
             "match_name": "Oman vs Papua New Guinea",
             "match_id": 137182,
             "startTime": "08:30:00 PM 10-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Yokohama Country Club (Baycurrent Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+            "team_1": "Day 2",
+            "team_2": "Yokohama Country Club",
+            "status": "UPCOMING",
+            "event_name": "Baycurrent Classic",
+            "match_name": "Day 2",
+            "match_id": 137312,
+            "startTime": "08:30:00 AM 10-10-2025"
         },
         {
             "event_category": "Football",
