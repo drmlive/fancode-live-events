@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:12:58 PM 09-10-2025",
+    "last update time": "01:23:10 PM 09-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "11:30:00 AM 09-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/tgBmTmKnRGKCfvAJa8Ca8A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137177_english_hls_1fe2e04f4779951ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Victoria (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133934_5606_SAU_VCT_fc-web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Victoria",
-            "status": "LIVE",
-            "event_name": "One Day Cup, 2025-26",
-            "match_name": "South Australia vs Victoria",
-            "match_id": 133934,
-            "startTime": "06:00:00 AM 09-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HS5AecHhQiS4_AbPmrve8Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133934_english_hls_984f5721c221253ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -274,18 +260,6 @@
             "startTime": "11:30:00 AM 10-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Club de Campo Villa de Madrid",
-            "status": "UPCOMING",
-            "event_name": "Acciona Spanish Open presented by Madrid",
-            "match_name": "Day 1",
-            "match_id": 136859,
-            "startTime": "05:30:00 PM 09-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Nepal vs Japan (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137181_5697_NEP_JPN_fc-Web.jpg",
@@ -296,6 +270,18 @@
             "match_name": "Nepal vs Japan",
             "match_id": 137181,
             "startTime": "04:00:00 PM 10-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Club de Campo Villa de Madrid (Acciona Spanish Open presented by Madrid)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Acciona-Spanish-Open-presented-by-Madrid_match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Club de Campo Villa de Madrid",
+            "status": "UPCOMING",
+            "event_name": "Acciona Spanish Open presented by Madrid",
+            "match_name": "Day 1",
+            "match_id": 136859,
+            "startTime": "05:30:00 PM 09-10-2025"
         },
         {
             "event_category": "Baseball",
@@ -404,6 +390,30 @@
             "match_name": "South Sudan vs Senegal",
             "match_id": 137525,
             "startTime": "06:30:00 PM 10-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Gambia vs Gabon (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137529_3741_GAM_GAB_FC-Web.jpg",
+            "team_1": "Gambia",
+            "team_2": "Gabon",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Gambia vs Gabon",
+            "match_id": 137529,
+            "startTime": "06:30:00 PM 10-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Oman vs Papua New Guinea (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137182_5697_OMN_PNG_fc-Web.jpg",
+            "team_1": "Oman",
+            "team_2": "Papua New Guinea",
+            "status": "UPCOMING",
+            "event_name": "ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025",
+            "match_name": "Oman vs Papua New Guinea",
+            "match_id": 137182,
+            "startTime": "08:30:00 PM 10-10-2025"
         }
     ]
 }
