@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:05:48 AM 12-10-2025",
+    "last update time": "04:15:58 AM 12-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "03:00:00 AM 12-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ljuWVwr5QmyBPCMPjYfybA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137461_english_hls_9317bf3604662ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Houston Generals CC vs Dallas Lonestars CC (National Cricket T10 League, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137306_CASACARDS_APP.png",
+            "team_1": "Houston Generals CC",
+            "team_2": "Dallas Lonestars CC",
+            "status": "LIVE",
+            "event_name": "National Cricket T10 League, 2025",
+            "match_name": "Houston Generals CC vs Dallas Lonestars CC",
+            "match_id": 137307,
+            "startTime": "04:30:00 AM 12-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/4rGUjsebTdeFM29wHAejdQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137307_english_hls_59cff0cb5b75871ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -52,18 +66,6 @@
             "match_name": "Vancouver Kings vs Brampton Blitz",
             "match_id": 137433,
             "startTime": "11:00:00 AM 12-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Dallas Lonestars CC vs Houston Generals CC (National Cricket T10 League, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137306_CASACARDS_APP.png",
-            "team_1": "Dallas Lonestars CC",
-            "team_2": "Houston Generals CC",
-            "status": "UPCOMING",
-            "event_name": "National Cricket T10 League, 2025",
-            "match_name": "Dallas Lonestars CC vs Houston Generals CC",
-            "match_id": 137307,
-            "startTime": "04:30:00 AM 12-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -388,6 +390,18 @@
             "match_name": "Emirates Blues vs Fujairah",
             "match_id": 137491,
             "startTime": "07:00:00 PM 13-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Equatorial Guinea vs Liberia (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137544_3741_EGU_LIB_FC-Web.jpg",
+            "team_1": "Equatorial Guinea",
+            "team_2": "Liberia",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Equatorial Guinea vs Liberia",
+            "match_id": 137544,
+            "startTime": "06:30:00 PM 13-10-2025"
         }
     ]
 }
