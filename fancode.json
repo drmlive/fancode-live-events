@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:40:37 PM 11-10-2025",
+    "last update time": "12:50:46 PM 11-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "06:30:00 AM 11-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/_YYznJfcSy6SipLTr_d0uQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137621_english_hls_b783c91d1c56442ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 3 vs Yokohama Country Club (Baycurrent Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-            "team_1": "Day 3",
-            "team_2": "Yokohama Country Club",
-            "status": "LIVE",
-            "event_name": "Baycurrent Classic",
-            "match_name": "Day 3",
-            "match_id": 137313,
-            "startTime": "08:30:00 AM 11-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/RfTQJfAfQdK5MvAOYfpazw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137313_english_hls_b062645a7074444ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -118,18 +104,6 @@
             "startTime": "11:00:00 PM 11-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "United Arab Emirates vs Oman (FIFA World Cup Asian Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137265_3740_UAE_OMN_fc-Web.jpg",
-            "team_1": "United Arab Emirates",
-            "team_2": "Oman",
-            "status": "UPCOMING",
-            "event_name": "FIFA World Cup Asian Qualifiers",
-            "match_name": "United Arab Emirates vs Oman",
-            "match_id": 137265,
-            "startTime": "10:45:00 PM 11-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Vancouver Kings vs Brampton Blitz (Canada Super 60, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137433_5719_VCK_BBZ_fc-Web.jpg",
@@ -140,6 +114,18 @@
             "match_name": "Vancouver Kings vs Brampton Blitz",
             "match_id": 137433,
             "startTime": "11:00:00 AM 12-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "United Arab Emirates vs Oman (FIFA World Cup Asian Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137265_3740_UAE_OMN_fc-Web.jpg",
+            "team_1": "United Arab Emirates",
+            "team_2": "Oman",
+            "status": "UPCOMING",
+            "event_name": "FIFA World Cup Asian Qualifiers",
+            "match_name": "United Arab Emirates vs Oman",
+            "match_id": 137265,
+            "startTime": "10:45:00 PM 11-10-2025"
         },
         {
             "event_category": "Football",
@@ -440,6 +426,18 @@
             "match_name": "Egypt vs Guinea-Bissau",
             "match_id": 137536,
             "startTime": "12:30:00 AM 13-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Brampton Blitz vs Montreal Royal Tigers (Canada Super 60, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137434_5719_BBZ_MRT_fc-Web.jpg",
+            "team_1": "Brampton Blitz",
+            "team_2": "Montreal Royal Tigers",
+            "status": "UPCOMING",
+            "event_name": "Canada Super 60, 2025",
+            "match_name": "Brampton Blitz vs Montreal Royal Tigers",
+            "match_id": 137434,
+            "startTime": "05:30:00 AM 13-10-2025"
         }
     ]
 }
