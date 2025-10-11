@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:34:10 AM 12-10-2025",
+    "last update time": "02:44:29 AM 12-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,6 +16,20 @@
             "startTime": "01:00:00 AM 12-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/XR5OvNWORSuLNIPtvhXUPA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137266_english_hls_7f222a51ba38053ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Vancouver Thunderbirds Women vs Toronto Sixers Women (Canada Women Super 60, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137461_5721_VTW_TSW_fc-Web.png",
+            "team_1": "Vancouver Thunderbirds Women",
+            "team_2": "Toronto Sixers Women",
+            "status": "LIVE",
+            "event_name": "Canada Women Super 60, 2025",
+            "match_name": "Vancouver Thunderbirds Women vs Toronto Sixers Women",
+            "match_id": 137461,
+            "startTime": "03:00:00 AM 12-10-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -52,18 +66,6 @@
             "match_name": "Vancouver Kings vs Brampton Blitz",
             "match_id": 137433,
             "startTime": "11:00:00 AM 12-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vancouver Thunderbirds Women vs Toronto Sixers Women (Canada Women Super 60, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137461_5721_VTW_TSW_fc-Web.png",
-            "team_1": "Vancouver Thunderbirds Women",
-            "team_2": "Toronto Sixers Women",
-            "status": "UPCOMING",
-            "event_name": "Canada Women Super 60, 2025",
-            "match_name": "Vancouver Thunderbirds Women vs Toronto Sixers Women",
-            "match_id": 137461,
-            "startTime": "03:00:00 AM 12-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -294,18 +296,6 @@
             "startTime": "05:38:00 AM 12-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 vs Yokohama Country Club (Baycurrent Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-            "team_1": "Day 4",
-            "team_2": "Yokohama Country Club",
-            "status": "UPCOMING",
-            "event_name": "Baycurrent Classic",
-            "match_name": "Day 4",
-            "match_id": 137314,
-            "startTime": "08:30:00 AM 12-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (National Cricket T10 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -316,6 +306,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137309,
             "startTime": "05:30:00 AM 13-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Yokohama Country Club (Baycurrent Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+            "team_1": "Day 4",
+            "team_2": "Yokohama Country Club",
+            "status": "UPCOMING",
+            "event_name": "Baycurrent Classic",
+            "match_name": "Day 4",
+            "match_id": 137314,
+            "startTime": "08:30:00 AM 12-10-2025"
         },
         {
             "event_category": "Golf",
