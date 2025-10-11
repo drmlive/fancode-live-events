@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:44:29 AM 12-10-2025",
+    "last update time": "02:54:41 AM 12-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -28,8 +28,8 @@
             "match_name": "Vancouver Thunderbirds Women vs Toronto Sixers Women",
             "match_id": 137461,
             "startTime": "03:00:00 AM 12-10-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/ljuWVwr5QmyBPCMPjYfybA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137461_english_hls_9317bf3604662ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -284,18 +284,6 @@
             "startTime": "08:00:00 AM 13-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Chicago Cubs vs Milwaukee Brewers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137580_CASACARDS_APP.png",
-            "team_1": "Chicago Cubs",
-            "team_2": "Milwaukee Brewers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Chicago Cubs vs Milwaukee Brewers",
-            "match_id": 137580,
-            "startTime": "05:38:00 AM 12-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (National Cricket T10 League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -306,6 +294,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137309,
             "startTime": "05:30:00 AM 13-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Chicago Cubs vs Milwaukee Brewers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137580_CASACARDS_APP.png",
+            "team_1": "Chicago Cubs",
+            "team_2": "Milwaukee Brewers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Chicago Cubs vs Milwaukee Brewers",
+            "match_id": 137580,
+            "startTime": "05:38:00 AM 12-10-2025"
         },
         {
             "event_category": "Golf",
