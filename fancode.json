@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:38:32 AM 11-10-2025",
+    "last update time": "10:48:52 AM 11-10-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Toronto Sixers vs Montreal Royal Tigers (Canada Super 60, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137430_5719_TTS_MRT_fc-Web.jpg",
+            "team_1": "Toronto Sixers",
+            "team_2": "Montreal Royal Tigers",
+            "status": "LIVE",
+            "event_name": "Canada Super 60, 2025",
+            "match_name": "Toronto Sixers vs Montreal Royal Tigers",
+            "match_id": 137430,
+            "startTime": "11:00:00 AM 11-10-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
         {
             "event_category": "Cricket",
             "title": "New South Wales Breakers vs Western Australia Women (Women's National Cricket League, 2025-26)",
@@ -16,20 +30,6 @@
             "startTime": "04:30:00 AM 11-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/GgYS0MmmSBaG3E2EN5mN_A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133959_english_hls_2164e8939718633ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Baseball",
-            "title": "Detroit Tigers vs Seattle Mariners (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137578_CASACARDS_APP.png",
-            "team_1": "Detroit Tigers",
-            "team_2": "Seattle Mariners",
-            "status": "LIVE",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Detroit Tigers vs Seattle Mariners",
-            "match_id": 137578,
-            "startTime": "05:38:00 AM 11-10-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137578_english_hls_6e6735030814613ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137578_english_hls_6e6735030814613ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live events",
@@ -58,18 +58,6 @@
             "startTime": "08:30:00 AM 11-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/RfTQJfAfQdK5MvAOYfpazw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137313_english_hls_b062645a7074444ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Toronto Sixers vs Montreal Royal Tigers (Canada Super 60, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137430_5719_TTS_MRT_fc-Web.jpg",
-            "team_1": "Toronto Sixers",
-            "team_2": "Montreal Royal Tigers",
-            "status": "UPCOMING",
-            "event_name": "Canada Super 60, 2025",
-            "match_name": "Toronto Sixers vs Montreal Royal Tigers",
-            "match_id": 137430,
-            "startTime": "11:00:00 AM 11-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -441,6 +429,18 @@
             "event_name": "CAF World Cup Qualifiers",
             "match_name": "Burkina Faso vs Ethiopia",
             "match_id": 137538,
+            "startTime": "12:30:00 AM 13-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Djibouti vs Sierra Leone (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137537_3741_DJI_SIL_FC-Web.jpg",
+            "team_1": "Djibouti",
+            "team_2": "Sierra Leone",
+            "status": "UPCOMING",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Djibouti vs Sierra Leone",
+            "match_id": 137537,
             "startTime": "12:30:00 AM 13-10-2025"
         }
     ]
