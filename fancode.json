@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:54:50 PM 11-10-2025",
+    "last update time": "05:05:06 PM 11-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
             "team_1": "Afghanistan",
             "team_2": "Bangladesh",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
             "match_name": "Afghanistan vs Bangladesh",
             "match_id": 136882,
-            "startTime": "05:30:00 PM 11-10-2025"
+            "startTime": "05:30:00 PM 11-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/PFDsJW1yQcGBWOxssGpKqg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136882_english_hls_76b1e59f7338382ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -21,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-South-Africa--old-match-card_1760067056062.png",
             "team_1": "South Africa",
             "team_2": "Namibia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "South Africa tour of Namibia, 2025",
             "match_name": "South Africa vs Namibia",
             "match_id": 137263,
-            "startTime": "05:30:00 PM 11-10-2025"
+            "startTime": "05:30:00 PM 11-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/dAHlm-k5Qx6Bas_-p5JzBA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137263_english_hls_8679ec6bc653565ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live events",
@@ -52,8 +56,8 @@
             "match_name": "Day 3",
             "match_id": 136861,
             "startTime": "05:00:00 PM 11-10-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/wrdHfEVZTPSnLB8NqEp3EA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136861_english_hls_2ad647d5bd50752ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -272,18 +276,6 @@
             "startTime": "08:30:00 PM 12-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 vs Yokohama Country Club (Baycurrent Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-            "team_1": "Day 4",
-            "team_2": "Yokohama Country Club",
-            "status": "UPCOMING",
-            "event_name": "Baycurrent Classic",
-            "match_name": "Day 4",
-            "match_id": 137314,
-            "startTime": "08:30:00 AM 12-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Zambia vs Niger (CAF World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137534_3741_ZMB_NGR_FC-Web.jpg",
@@ -294,6 +286,18 @@
             "match_name": "Zambia vs Niger",
             "match_id": 137534,
             "startTime": "06:30:00 PM 12-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Yokohama Country Club (Baycurrent Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+            "team_1": "Day 4",
+            "team_2": "Yokohama Country Club",
+            "status": "UPCOMING",
+            "event_name": "Baycurrent Classic",
+            "match_name": "Day 4",
+            "match_id": 137314,
+            "startTime": "08:30:00 AM 12-10-2025"
         },
         {
             "event_category": "Football",
