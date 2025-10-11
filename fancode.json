@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:31:10 PM 11-10-2025",
+    "last update time": "11:41:19 PM 11-10-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "Bangladesh",
-            "status": "LIVE",
-            "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
-            "match_name": "Afghanistan vs Bangladesh",
-            "match_id": 136882,
-            "startTime": "05:30:00 PM 11-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/PFDsJW1yQcGBWOxssGpKqg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136882_english_hls_76b1e59f7338382ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Fujairah vs Ajman (Emirates D20 Tournament, 2025)",
@@ -72,6 +58,20 @@
             "startTime": "10:00:00 PM 11-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Hsuhg3oZTZms2EBh9Dh3_Q/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137209_english_hls_20ae4c28513272ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Afghanistan vs Bangladesh (Afghanistan and Bangladesh tour in UAE, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Afghanistan-vs-Bangladesh-ODi_Old_1759319822634.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Bangladesh",
+            "status": "LIVE",
+            "event_name": "Afghanistan and Bangladesh tour in UAE, 2025",
+            "match_name": "Afghanistan vs Bangladesh",
+            "match_id": 136882,
+            "startTime": "05:30:00 PM 11-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/PFDsJW1yQcGBWOxssGpKqg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136882_english_hls_76b1e59f7338382ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -172,7 +172,7 @@
         {
             "event_category": "Cricket",
             "title": "Oman vs Qatar (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "src": "https://images.fancode.com/aig/match/v1/137183_CASACARDS_APP.png",
             "team_1": "Oman",
             "team_2": "Qatar",
             "status": "UPCOMING",
@@ -278,18 +278,6 @@
             "startTime": "05:38:00 AM 12-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 vs Yokohama Country Club (Baycurrent Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
-            "team_1": "Day 4",
-            "team_2": "Yokohama Country Club",
-            "status": "UPCOMING",
-            "event_name": "Baycurrent Classic",
-            "match_name": "Day 4",
-            "match_id": 137314,
-            "startTime": "08:30:00 AM 12-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Brampton Blitz vs Montreal Royal Tigers (Canada Super 60, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137434_5719_BBZ_MRT_fc-Web.jpg",
@@ -300,6 +288,18 @@
             "match_name": "Brampton Blitz vs Montreal Royal Tigers",
             "match_id": 137434,
             "startTime": "05:30:00 AM 13-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Yokohama Country Club (Baycurrent Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Baycurrent_Old_match-card_2.jpg",
+            "team_1": "Day 4",
+            "team_2": "Yokohama Country Club",
+            "status": "UPCOMING",
+            "event_name": "Baycurrent Classic",
+            "match_name": "Day 4",
+            "match_id": 137314,
+            "startTime": "08:30:00 AM 12-10-2025"
         },
         {
             "event_category": "Football",
