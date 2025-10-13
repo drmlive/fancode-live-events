@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:15:22 PM 13-10-2025",
+    "last update time": "08:25:30 PM 13-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,6 +30,20 @@
             "startTime": "07:00:00 PM 13-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/FXFa-jNwQP2t3h4e0xAcAg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137491_english_hls_0643377dc764802ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Nepal vs Qatar (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Nepal-Vs-Qatar.jpg",
+            "team_1": "Nepal",
+            "team_2": "Qatar",
+            "status": "LIVE",
+            "event_name": "ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025",
+            "match_name": "Nepal vs Qatar",
+            "match_id": 137187,
+            "startTime": "08:30:00 PM 13-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/iMAQINSuTYiY_yjQGmvH0g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137187_english_hls_85bb6be8d341853ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -122,20 +136,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 137439,
             "startTime": "09:00:00 AM 14-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Nepal vs Qatar (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Nepal-Vs-Qatar.jpg",
-            "team_1": "Nepal",
-            "team_2": "Qatar",
-            "status": "LIVE",
-            "event_name": "ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025",
-            "match_name": "Nepal vs Qatar",
-            "match_id": 137187,
-            "startTime": "08:30:00 PM 13-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/iMAQINSuTYiY_yjQGmvH0g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137187_english_hls_85bb6be8d341853ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -270,18 +270,6 @@
             "startTime": "10:30:00 PM 14-10-2025"
         },
         {
-            "event_category": "Live events",
-            "title": "Road Cycling vs Chennai (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-            "team_1": "Road Cycling",
-            "team_2": "Chennai",
-            "status": "UPCOMING",
-            "event_name": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
-            "match_name": "Road Cycling",
-            "match_id": 137415,
-            "startTime": "10:00:00 AM 14-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Somalia vs Mozambique (CAF World Cup Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137554_3741_SOM_MOZ_FC-Web.jpg",
@@ -340,6 +328,18 @@
             "match_name": "South Africa vs Rwanda",
             "match_id": 137550,
             "startTime": "09:30:00 PM 14-10-2025"
+        },
+        {
+            "event_category": "Live events",
+            "title": "Road Cycling vs Chennai (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
+            "team_1": "Road Cycling",
+            "team_2": "Chennai",
+            "status": "UPCOMING",
+            "event_name": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
+            "match_name": "Road Cycling",
+            "match_id": 137415,
+            "startTime": "10:00:00 AM 14-10-2025"
         },
         {
             "event_category": "Football",
@@ -426,16 +426,16 @@
             "startTime": "02:33:00 AM 14-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Milwaukee Brewers vs Los Angeles Dodgers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137686_CASACARDS_APP.png",
-            "team_1": "Milwaukee Brewers",
-            "team_2": "Los Angeles Dodgers",
+            "event_category": "Cricket",
+            "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Western Australia",
             "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Milwaukee Brewers vs Los Angeles Dodgers",
-            "match_id": 137686,
-            "startTime": "05:38:00 AM 14-10-2025"
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs Western Australia",
+            "match_id": 134018,
+            "startTime": "05:00:00 AM 15-10-2025"
         }
     ]
 }
