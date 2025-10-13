@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:43:30 PM 13-10-2025",
+    "last update time": "06:53:51 PM 13-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -30,6 +30,20 @@
             "startTime": "04:00:00 PM 13-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/pa4XIYk8Rm6TPx5u6R8_rw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137186_english_hls_6f11f39a7e86772ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Emirates Blues vs Fujairah (Emirates D20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137491_5722_EMB_FUJ_fc-web.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Fujairah",
+            "status": "LIVE",
+            "event_name": "Emirates D20 Tournament, 2025",
+            "match_name": "Emirates Blues vs Fujairah",
+            "match_id": 137491,
+            "startTime": "07:00:00 PM 13-10-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -88,20 +102,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137541_english_hls_be52e9210995516ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Live events",
-            "title": "Kabaddi vs MRK Stadium, Chennai (Tamil Nadu Chief Minister\u2019s Trophy Games 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tamil-Nadu-Chief-Ministers-Trophy-Games-2025_Old_match-card_3.jpg",
-            "team_1": "Kabaddi",
-            "team_2": "MRK Stadium, Chennai",
-            "status": "LIVE",
-            "event_name": "Tamil Nadu Chief Minister\u2019s Trophy Games 2025",
-            "match_name": "Kabaddi",
-            "match_id": 137420,
-            "startTime": "09:00:00 AM 13-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/w1RMCn7-Tcu7BFGBQQsWvg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137420_english_hls_cdda0df0db7268ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Vancouver Kings vs Montreal Tigers (Canada Super 60, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/137437_CASACARDS_APP.png",
@@ -136,18 +136,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 137439,
             "startTime": "09:00:00 AM 14-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Emirates Blues vs Fujairah (Emirates D20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137491_5722_EMB_FUJ_fc-web.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Fujairah",
-            "status": "UPCOMING",
-            "event_name": "Emirates D20 Tournament, 2025",
-            "match_name": "Emirates Blues vs Fujairah",
-            "match_id": 137491,
-            "startTime": "07:00:00 PM 13-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -436,6 +424,18 @@
             "match_name": "Senegal vs Mauritania",
             "match_id": 137555,
             "startTime": "12:30:00 AM 15-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Toronto Blue Jays vs Seattle Mariners (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137685_CASACARDS_APP.png",
+            "team_1": "Toronto Blue Jays",
+            "team_2": "Seattle Mariners",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Toronto Blue Jays vs Seattle Mariners",
+            "match_id": 137685,
+            "startTime": "02:33:00 AM 14-10-2025"
         }
     ]
 }
