@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:12:55 PM 13-10-2025",
+    "last update time": "06:33:21 PM 13-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/U-23_Friendlies_2025_Sporty_match-card_Old_match-card.jpg",
             "team_1": "Indonesia U23",
             "team_2": "India U23",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "International Friendlies",
             "match_name": "Indonesia U23 vs India U23",
             "match_id": 137620,
-            "startTime": "06:30:00 PM 13-10-2025"
+            "startTime": "06:30:00 PM 13-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/THel9VMcQpaxCq4ors3jMg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137620_english_hls_821802fd7b9236ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -28,6 +30,62 @@
             "startTime": "04:00:00 PM 13-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/pa4XIYk8Rm6TPx5u6R8_rw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137186_english_hls_6f11f39a7e86772ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Equatorial Guinea vs Liberia (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137544_3741_EGU_LIB_FC-Web.jpg",
+            "team_1": "Equatorial Guinea",
+            "team_2": "Liberia",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Equatorial Guinea vs Liberia",
+            "match_id": 137544,
+            "startTime": "06:30:00 PM 13-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/1u6WOeWcR1Ok1LV03idfHQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137544_english_hls_dd8d56a74496088ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "S\u00e3o Tom\u00e9 e Pr\u00edncipe vs Malawi (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137543_3741_STP_MAL_FC-Web.jpg",
+            "team_1": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+            "team_2": "Malawi",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "S\u00e3o Tom\u00e9 e Pr\u00edncipe vs Malawi",
+            "match_id": 137543,
+            "startTime": "06:30:00 PM 13-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/4Qd3dCghQOCrTo6Z4XOBsw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137543_english_hls_da9f97073084577ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tunisia vs Namibia (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137542_3741_TUN_NAM_FC-Web.jpg",
+            "team_1": "Tunisia",
+            "team_2": "Namibia",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "Tunisia vs Namibia",
+            "match_id": 137542,
+            "startTime": "06:30:00 PM 13-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/StR2qRb8S_ixvq97MC_JlA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137542_english_hls_7d280816f063132ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "South Sudan vs Togo (CAF World Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137541_3741_SS_TGO_FC-Web.jpg",
+            "team_1": "South Sudan",
+            "team_2": "Togo",
+            "status": "LIVE",
+            "event_name": "CAF World Cup Qualifiers",
+            "match_name": "South Sudan vs Togo",
+            "match_id": 137541,
+            "startTime": "06:30:00 PM 13-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/x0edkCk0SiKrV3GmNjjpVA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137541_english_hls_be52e9210995516ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live events",
@@ -90,54 +148,6 @@
             "match_name": "Emirates Blues vs Fujairah",
             "match_id": 137491,
             "startTime": "07:00:00 PM 13-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Equatorial Guinea vs Liberia (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137544_3741_EGU_LIB_FC-Web.jpg",
-            "team_1": "Equatorial Guinea",
-            "team_2": "Liberia",
-            "status": "UPCOMING",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Equatorial Guinea vs Liberia",
-            "match_id": 137544,
-            "startTime": "06:30:00 PM 13-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "S\u00e3o Tom\u00e9 e Pr\u00edncipe vs Malawi (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137543_3741_STP_MAL_FC-Web.jpg",
-            "team_1": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
-            "team_2": "Malawi",
-            "status": "UPCOMING",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "S\u00e3o Tom\u00e9 e Pr\u00edncipe vs Malawi",
-            "match_id": 137543,
-            "startTime": "06:30:00 PM 13-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Tunisia vs Namibia (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137542_3741_TUN_NAM_FC-Web.jpg",
-            "team_1": "Tunisia",
-            "team_2": "Namibia",
-            "status": "UPCOMING",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Tunisia vs Namibia",
-            "match_id": 137542,
-            "startTime": "06:30:00 PM 13-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "South Sudan vs Togo (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137541_3741_SS_TGO_FC-Web.jpg",
-            "team_1": "South Sudan",
-            "team_2": "Togo",
-            "status": "UPCOMING",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "South Sudan vs Togo",
-            "match_id": 137541,
-            "startTime": "06:30:00 PM 13-10-2025"
         },
         {
             "event_category": "Cricket",
