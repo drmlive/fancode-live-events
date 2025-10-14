@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:41:35 PM 14-10-2025",
+    "last update time": "11:51:46 PM 14-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "10:30:00 PM 14-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/AZyuCbd0RaiyKpmfOlRf4A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137267_english_hls_6d336fda439996ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Guinea vs Botswana (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137553_3741_GNA_BOT_FC-Web.jpg",
-            "team_1": "Guinea",
-            "team_2": "Botswana",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Guinea vs Botswana",
-            "match_id": 137553,
-            "startTime": "09:30:00 PM 14-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/UBH9HPMqRnGB6syqTQsuWA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137553_english_hls_6461724e6593591ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -430,6 +416,18 @@
             "match_name": "Huddersfield Town A.F.C. vs Bolton Wanderers",
             "match_id": 135961,
             "startTime": "12:30:00 AM 17-10-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Phillip Island (AUSTRALIAN MOTORCYCLE GRAND PRIX)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui-Moly-Australian-Motorcycle-Grand-Prix_Match_card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Phillip Island",
+            "status": "UPCOMING",
+            "event_name": "AUSTRALIAN MOTORCYCLE GRAND PRIX",
+            "match_name": "Australia GP",
+            "match_id": 119244,
+            "startTime": "03:30:00 AM 17-10-2025"
         }
     ]
 }
