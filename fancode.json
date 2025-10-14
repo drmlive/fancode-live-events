@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:51:46 PM 14-10-2025",
+    "last update time": "12:01:57 AM 15-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,29 +33,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Algeria vs Uganda (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-Uganda_old.jpg",
-            "team_1": "Algeria",
-            "team_2": "Uganda",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Algeria vs Uganda",
-            "match_id": 137552,
-            "startTime": "09:30:00 PM 14-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/cSTEX3dIQp2WsD-pJguFrw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137552_english_hls_e37da9ed2b19387ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Saudi Arabia vs Iraq (FIFA World Cup Asian Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137268_3740_KSA_IRQ_fc-Web.jpg",
             "team_1": "Saudi Arabia",
             "team_2": "Iraq",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "FIFA World Cup Asian Qualifiers",
             "match_name": "Saudi Arabia vs Iraq",
             "match_id": 137268,
-            "startTime": "12:15:00 AM 15-10-2025"
+            "startTime": "12:15:00 AM 15-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/-RgUWnGgTnmDWrocHB-Yvw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137268_english_hls_386f779c689813ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -428,6 +416,18 @@
             "match_name": "Australia GP",
             "match_id": 119244,
             "startTime": "03:30:00 AM 17-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Japan vs Oman (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Japan-Vs-Oman_1760331349632.jpg",
+            "team_1": "Japan",
+            "team_2": "Oman",
+            "status": "UPCOMING",
+            "event_name": "ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025",
+            "match_name": "Japan vs Oman",
+            "match_id": 137193,
+            "startTime": "11:30:00 AM 17-10-2025"
         }
     ]
 }
