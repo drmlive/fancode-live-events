@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:17:31 AM 16-10-2025",
+    "last update time": "12:27:42 AM 16-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Oud-Heverlee Leuven Women vs FC Twente Women",
             "match_id": 137466,
             "startTime": "12:30:00 AM 16-10-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/z6P7oMhDQX2iThseEfKY5A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137466_english_hls_20aec6d8d226956ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -58,20 +58,6 @@
             "startTime": "12:30:00 AM 16-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/7g7TjNTIRgeGIBRlUjVeww/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137464_english_hls_bd90d1517280766ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Valerenga Fotball Women vs VfL Wolfsburg Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Valerenga-Fotball-Women-VS-VfL-Wolfsburg-Women_old.jpg",
-            "team_1": "Valerenga Fotball Women",
-            "team_2": "VfL Wolfsburg Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Valerenga Fotball Women vs VfL Wolfsburg Women",
-            "match_id": 137463,
-            "startTime": "10:15:00 PM 15-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/xjdGVhA3Sfuzpnla1MpN9g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137463_english_hls_4ee8b9aafa91489ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -468,6 +454,18 @@
             "match_name": "New Zealand vs England",
             "match_id": 137157,
             "startTime": "11:45:00 AM 18-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Gamba Osaka vs Kashiwa Reysol (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
+            "team_1": "Gamba Osaka",
+            "team_2": "Kashiwa Reysol",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Gamba Osaka vs Kashiwa Reysol",
+            "match_id": 137009,
+            "startTime": "10:30:00 AM 18-10-2025"
         }
     ]
 }
