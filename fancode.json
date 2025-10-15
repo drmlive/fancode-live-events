@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:25:57 PM 15-10-2025",
+    "last update time": "01:36:09 PM 15-10-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Queensland",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "South Australia vs Queensland",
-            "match_id": 134019,
-            "startTime": "06:00:00 AM 15-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/wy1mnealSHabWp8itWGOVA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134019_english_hls_da71180f5852435ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Japan vs Qatar (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
@@ -54,6 +40,18 @@
             "match_name": "Victoria vs New South Wales",
             "match_id": 134017,
             "startTime": "05:00:00 AM 15-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Queensland",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "South Australia vs Queensland",
+            "match_id": 134019,
+            "startTime": "06:00:00 AM 15-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -142,7 +140,7 @@
         {
             "event_category": "Football",
             "title": "Chelsea F.C. Women vs Paris FC Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/137465_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Chelsea-F.C.-Women-VS-Paris-FC-Women_old.jpg",
             "team_1": "Chelsea F.C. Women",
             "team_2": "Paris FC Women",
             "status": "UPCOMING",
