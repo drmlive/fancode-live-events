@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:53:17 AM 16-10-2025",
+    "last update time": "06:03:32 AM 16-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,8 +42,8 @@
             "match_name": "South Australia vs Queensland",
             "match_id": 134019,
             "startTime": "06:00:00 AM 15-10-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/-MMEtr3OTh6fP7j7FsQgRg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134019_english_hls_da71180f5836386ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Baseball",
@@ -96,18 +96,6 @@
             "startTime": "08:30:00 PM 16-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Club Atletico de Madrid Femenino vs Manchester United Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "Club Atletico de Madrid Femenino",
-            "team_2": "Manchester United Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Club Atletico de Madrid Femenino vs Manchester United Women",
-            "match_id": 137467,
-            "startTime": "10:15:00 PM 16-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Fujairah vs Sharjah (Emirates D20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137496_5722_FUJ_SHA_fc-web.jpg",
@@ -118,6 +106,18 @@
             "match_name": "Fujairah vs Sharjah",
             "match_id": 137496,
             "startTime": "11:00:00 PM 16-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Club Atletico de Madrid Femenino vs Manchester United Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Club Atletico de Madrid Femenino",
+            "team_2": "Manchester United Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Club Atletico de Madrid Femenino vs Manchester United Women",
+            "match_id": 137467,
+            "startTime": "10:15:00 PM 16-10-2025"
         },
         {
             "event_category": "Football",
