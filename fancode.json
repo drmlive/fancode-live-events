@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:09:52 PM 16-10-2025",
+    "last update time": "12:20:01 PM 16-10-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -51,13 +51,11 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134017_5609_VCT_NSW_fc-Web.jpg",
             "team_1": "Victoria",
             "team_2": "New South Wales",
-            "status": "LIVE",
+            "status": "PAUSED",
             "event_name": "Sheffield Shield, 2025-26",
             "match_name": "Victoria vs New South Wales",
             "match_id": 134017,
-            "startTime": "05:00:00 AM 15-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/AALgkr0_TkmVQMiTqrsRvA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134017_english_hls_008c2e4cf120767ta-di_h264/index.m3u8"
+            "startTime": "05:00:00 AM 15-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -180,18 +178,6 @@
             "startTime": "11:30:00 AM 17-10-2025"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Phillip Island (AUSTRALIAN MOTORCYCLE GRAND PRIX)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui-Moly-Australian-Motorcycle-Grand-Prix_Match_card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Phillip Island",
-            "status": "UPCOMING",
-            "event_name": "AUSTRALIAN MOTORCYCLE GRAND PRIX",
-            "match_name": "Australia GP",
-            "match_id": 119244,
-            "startTime": "03:30:00 AM 17-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Samoa vs Nepal (ICC Men\u2019s T20 World Cup Asia & EAP Qualifier, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Samoa-Vs-Nepal_1760331349588.jpg",
@@ -202,6 +188,18 @@
             "match_name": "Samoa vs Nepal",
             "match_id": 137194,
             "startTime": "04:00:00 PM 17-10-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Phillip Island (AUSTRALIAN MOTORCYCLE GRAND PRIX)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui-Moly-Australian-Motorcycle-Grand-Prix_Match_card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Phillip Island",
+            "status": "UPCOMING",
+            "event_name": "AUSTRALIAN MOTORCYCLE GRAND PRIX",
+            "match_name": "Australia GP",
+            "match_id": 119244,
+            "startTime": "03:30:00 AM 17-10-2025"
         },
         {
             "event_category": "Football",
