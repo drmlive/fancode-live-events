@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:07:15 AM 17-10-2025",
+    "last update time": "04:17:25 AM 17-10-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -18,6 +18,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119244_english_hls_a3e33e3cc163583ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Victoria vs New South Wales (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134017_5609_VCT_NSW_fc-Web.jpg",
+            "team_1": "Victoria",
+            "team_2": "New South Wales",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Victoria vs New South Wales",
+            "match_id": 134017,
+            "startTime": "04:30:00 AM 15-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/s3/f0811f51-73e9-4a49-a256-8e64ff77d9bf/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/s3/f0811f51-73e9-4a49-a256-8e64ff77d9bf/index.m3u8"
+        },
+        {
             "event_category": "Baseball",
             "title": "Los Angeles Dodgers vs Milwaukee Brewers (Major League Baseball, 2025)",
             "src": "https://images.fancode.com/aig/match/v1/137739_CASACARDS_APP.png",
@@ -30,18 +44,6 @@
             "startTime": "03:38:00 AM 17-10-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137739_english_hls_0c59026abc56695ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137739_english_hls_0c59026abc56695ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria vs New South Wales (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134017_5609_VCT_NSW_fc-Web.jpg",
-            "team_1": "Victoria",
-            "team_2": "New South Wales",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Victoria vs New South Wales",
-            "match_id": 134017,
-            "startTime": "04:30:00 AM 15-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -248,18 +250,6 @@
             "startTime": "11:45:00 AM 18-10-2025"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Sprint Qualifying vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-MSC-CRUISES-UNITED-STATES-GRAND-PRIX-2025-TV-old-match-card.-psd.png",
-            "team_1": "Sprint Qualifying",
-            "team_2": "United States of America",
-            "status": "UPCOMING",
-            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
-            "match_name": "Sprint Qualifying",
-            "match_id": 118472,
-            "startTime": "03:00:00 AM 18-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -270,6 +260,18 @@
             "match_name": "Bangladesh vs West Indies",
             "match_id": 137700,
             "startTime": "01:00:00 PM 18-10-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Sprint Qualifying vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-MSC-CRUISES-UNITED-STATES-GRAND-PRIX-2025-TV-old-match-card.-psd.png",
+            "team_1": "Sprint Qualifying",
+            "team_2": "United States of America",
+            "status": "UPCOMING",
+            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
+            "match_name": "Sprint Qualifying",
+            "match_id": 118472,
+            "startTime": "03:00:00 AM 18-10-2025"
         },
         {
             "event_category": "MotoGP",
