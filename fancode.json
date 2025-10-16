@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:00:55 PM 16-10-2025",
+    "last update time": "01:11:03 PM 16-10-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Western Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs Western Australia",
-            "match_id": 134018,
-            "startTime": "05:00:00 AM 15-10-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
             "title": "South Australia vs Queensland (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134019_5609_SAU_QUN_fc-Web.jpg",
             "team_1": "South Australia",
@@ -44,6 +30,18 @@
             "startTime": "06:00:00 AM 15-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/-MMEtr3OTh6fP7j7FsQgRg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134019_english_hls_da71180f5836386ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134018_5609_TAS_WAU_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Western Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs Western Australia",
+            "match_id": 134018,
+            "startTime": "05:00:00 AM 15-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -262,18 +260,6 @@
             "startTime": "03:38:00 AM 17-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Seattle Mariners vs Toronto Blue Jays (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137740_CASACARDS_APP.png",
-            "team_1": "Seattle Mariners",
-            "team_2": "Toronto Blue Jays",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Seattle Mariners vs Toronto Blue Jays",
-            "match_id": 137740,
-            "startTime": "06:03:00 AM 17-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Wellington Wolves vs Stellenbosch Kings (Boland T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -284,6 +270,18 @@
             "match_name": "Wellington Wolves vs Stellenbosch Kings",
             "match_id": 137708,
             "startTime": "09:00:00 PM 17-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Seattle Mariners vs Toronto Blue Jays (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137740_CASACARDS_APP.png",
+            "team_1": "Seattle Mariners",
+            "team_2": "Toronto Blue Jays",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Seattle Mariners vs Toronto Blue Jays",
+            "match_id": 137740,
+            "startTime": "06:03:00 AM 17-10-2025"
         },
         {
             "event_category": "Cricket",
