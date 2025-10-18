@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:03:49 PM 18-10-2025",
+    "last update time": "07:14:02 PM 18-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -61,29 +61,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Queens Park Rangers F.C. vs Millwall F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136951_5489_QPR_MLW_fc-web.jpg",
-            "team_1": "Queens Park Rangers F.C.",
-            "team_2": "Millwall F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Queens Park Rangers F.C. vs Millwall F.C.",
-            "match_id": 136951,
-            "startTime": "05:00:00 PM 18-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/dcVk3KC7Q6mUczVP9m4pWw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136951_english_hls_1b5469b89033225ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Charlton Athletic F.C vs Sheffield Wednesday F.C. (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136949_5489_CHL_SHFF_fc-web.jpg",
             "team_1": "Charlton Athletic F.C",
             "team_2": "Sheffield Wednesday F.C.",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2025-26",
             "match_name": "Charlton Athletic F.C vs Sheffield Wednesday F.C.",
             "match_id": 136949,
-            "startTime": "07:30:00 PM 18-10-2025"
+            "startTime": "07:30:00 PM 18-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/fPFVuJQeSBWUp_VWLfREvA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136949_english_hls_b789f25f757047ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -91,11 +79,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130912_5427_BAR_GIR_fc-Web.jpg",
             "team_1": "FC Barcelona",
             "team_2": "Girona FC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "FC Barcelona vs Girona FC",
             "match_id": 130912,
-            "startTime": "07:45:00 PM 18-10-2025"
+            "startTime": "07:45:00 PM 18-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130912_english_hls_60f19ba8dd64134adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130912_english_hls_60f19ba8dd64134adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -314,18 +304,6 @@
             "startTime": "02:30:00 AM 19-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs Milwaukee Brewers (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137743_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "Milwaukee Brewers",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs Milwaukee Brewers",
-            "match_id": 137743,
-            "startTime": "05:38:00 AM 19-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Levante vs Rayo Vallecano (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130915_5427_LE_RVL_fc-Web.jpg",
@@ -336,6 +314,18 @@
             "match_name": "Levante vs Rayo Vallecano",
             "match_id": 130915,
             "startTime": "10:00:00 PM 19-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Milwaukee Brewers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137743_CASACARDS_APP.png",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Milwaukee Brewers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Milwaukee Brewers",
+            "match_id": 137743,
+            "startTime": "05:38:00 AM 19-10-2025"
         },
         {
             "event_category": "MotoGP",
@@ -456,6 +446,18 @@
             "match_name": "South Australia vs Queensland",
             "match_id": 133939,
             "startTime": "06:00:00 AM 20-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand vs England (England tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card.jpg",
+            "team_1": "New Zealand",
+            "team_2": "England",
+            "status": "UPCOMING",
+            "event_name": "England tour of New Zealand, 2025",
+            "match_name": "New Zealand vs England",
+            "match_id": 137158,
+            "startTime": "11:45:00 AM 20-10-2025"
         }
     ]
 }
