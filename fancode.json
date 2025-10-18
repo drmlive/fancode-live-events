@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:30:38 AM 18-10-2025",
+    "last update time": "05:40:50 AM 18-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "South Australia vs Queensland",
             "match_id": 134019,
             "startTime": "05:30:00 AM 15-10-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/O4m08Jm1QyyBoioNE1lflA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134019_english_hls_da71180f5851044ta-di_h264/index.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -120,18 +120,6 @@
             "startTime": "05:00:00 PM 18-10-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Sevilla FC vs RCD Mallorca (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130919_5427_SEV_MRC_fc-Web.jpg",
-            "team_1": "Sevilla FC",
-            "team_2": "RCD Mallorca",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Sevilla FC vs RCD Mallorca",
-            "match_id": 130919,
-            "startTime": "05:30:00 PM 18-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Fujairah vs Dubai (Emirates D20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137499_5722_FUJ_DUB_fc-web.jpg",
@@ -154,6 +142,18 @@
             "match_name": "West Coast Blues vs Wellington Wolves",
             "match_id": 137712,
             "startTime": "07:00:00 PM 18-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sevilla FC vs RCD Mallorca (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130919_5427_SEV_MRC_fc-Web.jpg",
+            "team_1": "Sevilla FC",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla FC vs RCD Mallorca",
+            "match_id": 130919,
+            "startTime": "05:30:00 PM 18-10-2025"
         },
         {
             "event_category": "Football",
@@ -241,18 +241,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Gamba Osaka vs Kashiwa Reysol (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
-            "team_1": "Gamba Osaka",
-            "team_2": "Kashiwa Reysol",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Gamba Osaka vs Kashiwa Reysol",
-            "match_id": 137009,
-            "startTime": "10:30:00 AM 18-10-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Atletico de Madrid vs CA Osasuna (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130911_5427_ATL_OSN_fc-Web.jpg",
             "team_1": "Atletico de Madrid",
@@ -262,6 +250,18 @@
             "match_name": "Atletico de Madrid vs CA Osasuna",
             "match_id": 130911,
             "startTime": "12:30:00 AM 19-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Gamba Osaka vs Kashiwa Reysol (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137009_CASACARDS_APP.png",
+            "team_1": "Gamba Osaka",
+            "team_2": "Kashiwa Reysol",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Gamba Osaka vs Kashiwa Reysol",
+            "match_id": 137009,
+            "startTime": "10:30:00 AM 18-10-2025"
         },
         {
             "event_category": "Baseball",
