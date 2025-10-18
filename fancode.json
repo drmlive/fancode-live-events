@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:14:54 AM 18-10-2025",
+    "last update time": "10:25:04 AM 18-10-2025",
     "matches": [
         {
             "event_category": "Golf",
@@ -42,20 +42,6 @@
             "startTime": "10:30:00 AM 18-10-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137009_english_hls_cc060ecfaa7591ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137009_english_hls_cc060ecfaa7591ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs Phillip Island (AUSTRALIAN MOTORCYCLE GRAND PRIX)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Liqui-Moly-Australian-Motorcycle-Grand-Prix_Match_card.jpg",
-            "team_1": "Day 2",
-            "team_2": "Phillip Island",
-            "status": "LIVE",
-            "event_name": "AUSTRALIAN MOTORCYCLE GRAND PRIX",
-            "match_name": "Australia GP",
-            "match_id": 119247,
-            "startTime": "03:10:00 AM 18-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/1FGCzawJQiy3goI02ERJew/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/119247_english_hls_dc051c047835971ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -464,6 +450,18 @@
             "match_name": "Racing de Santander vs Deportivo de La Coru\u00f1a",
             "match_id": 137215,
             "startTime": "10:00:00 PM 19-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Neom SC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136607_5655_NEOM_ALQ_fc-web.jpg",
+            "team_1": "Neom SC",
+            "team_2": "Al-Qadsiah FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Neom SC vs Al-Qadsiah FC",
+            "match_id": 136607,
+            "startTime": "11:30:00 PM 19-10-2025"
         }
     ]
 }
