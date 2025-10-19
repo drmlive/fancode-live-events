@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:55:43 PM 19-10-2025",
+    "last update time": "05:05:54 PM 19-10-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Elche CF vs Athletic Club (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130916_5427_ELC_ATH_fc-Web.jpg",
+            "team_1": "Elche CF",
+            "team_2": "Athletic Club",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs Athletic Club",
+            "match_id": 130916,
+            "startTime": "05:30:00 PM 19-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130916_english_hls_becb1dedf110593adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130916_english_hls_becb1dedf110593adfreeta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Paarl Rocks vs Northern Raiders (Boland T10, 2025)",
@@ -16,18 +30,6 @@
             "startTime": "04:30:00 PM 19-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/lykhntGOR6W1RMVg8L4n6A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137715_english_hls_124a20c88916558ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Elche CF vs Athletic Club (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130916_5427_ELC_ATH_fc-Web.jpg",
-            "team_1": "Elche CF",
-            "team_2": "Athletic Club",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche CF vs Athletic Club",
-            "match_id": 130916,
-            "startTime": "05:30:00 PM 19-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -424,6 +426,18 @@
             "match_name": "Melbourne City vs Buriram United",
             "match_id": 136007,
             "startTime": "01:15:00 PM 21-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chengdu Rongcheng vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136009_5647_CR_JDT_fc-Web.jpg",
+            "team_1": "Chengdu Rongcheng",
+            "team_2": "Johor Darul Ta'zim",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Chengdu Rongcheng vs Johor Darul Ta'zim",
+            "match_id": 136009,
+            "startTime": "03:30:00 PM 21-10-2025"
         }
     ]
 }
