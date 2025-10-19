@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:25:11 PM 19-10-2025",
+    "last update time": "04:35:22 PM 19-10-2025",
     "matches": [
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Delhi Golf Club, New Delhi (DP World India Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
+            "team_1": "Day 4",
+            "team_2": "Delhi Golf Club, New Delhi",
+            "status": "LIVE",
+            "event_name": "DP World India Championship",
+            "match_name": "Day 4",
+            "match_id": 136866,
+            "startTime": "11:30:00 AM 19-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/MUov6GNwSAe_oKzqyqfctg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136866_english_hls_c32ff0af0d3961ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Northern Raiders vs Paarl Rocks (Boland T10, 2025)",
@@ -18,18 +32,16 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137715_english_hls_124a20c88916558ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 vs Delhi Golf Club, New Delhi (DP World India Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-World-India-Championship_2025_Old_match-card.jpg",
-            "team_1": "Day 4",
-            "team_2": "Delhi Golf Club, New Delhi",
-            "status": "LIVE",
-            "event_name": "DP World India Championship",
-            "match_name": "Day 4",
-            "match_id": 136866,
-            "startTime": "11:30:00 AM 19-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/MUov6GNwSAe_oKzqyqfctg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136866_english_hls_c32ff0af0d3961ta-di_h264/index.m3u8"
+            "event_category": "Football",
+            "title": "Elche CF vs Athletic Club (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130916_5427_ELC_ATH_fc-Web.jpg",
+            "team_1": "Elche CF",
+            "team_2": "Athletic Club",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs Athletic Club",
+            "match_id": 130916,
+            "startTime": "05:30:00 PM 19-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -102,18 +114,6 @@
             "match_name": "Emirates Blues vs Abu Dhabi",
             "match_id": 137502,
             "startTime": "11:00:00 PM 19-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Elche CF vs Athletic Club (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130916_5427_ELC_ATH_fc-Web.jpg",
-            "team_1": "Elche CF",
-            "team_2": "Athletic Club",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche CF vs Athletic Club",
-            "match_id": 130916,
-            "startTime": "05:30:00 PM 19-10-2025"
         },
         {
             "event_category": "Football",
@@ -224,18 +224,6 @@
             "startTime": "07:00:00 PM 20-10-2025"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Race vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-MSC-CRUISES-UNITED-STATES-GRAND-PRIX-2025-TV-old-match-card.-psd.png",
-            "team_1": "Race",
-            "team_2": "United States of America",
-            "status": "UPCOMING",
-            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
-            "match_name": "Race",
-            "match_id": 118475,
-            "startTime": "12:30:00 AM 20-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Al Wahda vs Al Duhail (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136055_5647_ALW_ADH_fc-Web.jpg",
@@ -246,6 +234,18 @@
             "match_name": "Al Wahda vs Al Duhail",
             "match_id": 136055,
             "startTime": "07:15:00 PM 20-10-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Race vs United States of America (F1 MSC CRUISES UNITED STATES GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-MSC-CRUISES-UNITED-STATES-GRAND-PRIX-2025-TV-old-match-card.-psd.png",
+            "team_1": "Race",
+            "team_2": "United States of America",
+            "status": "UPCOMING",
+            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
+            "match_name": "Race",
+            "match_id": 118475,
+            "startTime": "12:30:00 AM 20-10-2025"
         },
         {
             "event_category": "Baseball",
