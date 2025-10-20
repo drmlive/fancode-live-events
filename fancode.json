@@ -1,34 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:24:01 PM 20-10-2025",
+    "last update time": "10:34:10 PM 20-10-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan--old-match-card.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "Zimbabwe",
-            "status": "PAUSED",
-            "event_name": "Afghanistan tour of Zimbabwe, 2025",
-            "match_name": "Afghanistan vs Zimbabwe",
-            "match_id": 137371,
-            "startTime": "01:30:00 PM 20-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi vs Dubai (Emirates D20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137503_5722_DUB_ABD_fc-web.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Dubai",
-            "status": "LIVE",
-            "event_name": "Emirates D20 Tournament, 2025",
-            "match_name": "Abu Dhabi vs Dubai",
-            "match_id": 137503,
-            "startTime": "07:00:00 PM 20-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/j2x-UW9pTSW9RoJUD4uqVg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137503_english_hls_75b34bf33163686ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Paarl Rapids vs Wellington Wolves (Boland T10, 2025)",
@@ -42,20 +16,6 @@
             "startTime": "09:30:00 PM 20-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/4UT-GgaFRDyWbMl6rYAjvg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137718_english_hls_a242eccc0f73048ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Wahda vs Al Duhail (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136055_5647_ALW_ADH_fc-Web.jpg",
-            "team_1": "Al Wahda",
-            "team_2": "Al Duhail",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al Wahda vs Al Duhail",
-            "match_id": 136055,
-            "startTime": "07:15:00 PM 20-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/R-KfaCzHQGqqNvbW1y-biw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136055_english_hls_ad1f6b859e47408ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -84,6 +44,18 @@
             "startTime": "09:30:00 PM 20-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/p8jCvDCeQLq8KBmEi_AxIw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136056_english_hls_17debc44e119713ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan--old-match-card.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Zimbabwe",
+            "status": "PAUSED",
+            "event_name": "Afghanistan tour of Zimbabwe, 2025",
+            "match_name": "Afghanistan vs Zimbabwe",
+            "match_id": 137371,
+            "startTime": "01:30:00 PM 20-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -456,6 +428,30 @@
             "match_name": "FK Istiklol vs AL Zawraa SC",
             "match_id": 136131,
             "startTime": "07:15:00 PM 22-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Andijan vs Khaldiya (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136107_5648_ABD_KHA_fc-Web_1758118382701.jpg",
+            "team_1": "Andijan",
+            "team_2": "Khaldiya",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Andijan vs Khaldiya",
+            "match_id": 136107,
+            "startTime": "07:15:00 PM 22-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Emirates Blues vs Sharjah (Emirates D20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137508_5722_EMB_SHA_fc-web.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Sharjah",
+            "status": "UPCOMING",
+            "event_name": "Emirates D20 Tournament, 2025",
+            "match_name": "Emirates Blues vs Sharjah",
+            "match_id": 137508,
+            "startTime": "09:00:00 PM 22-10-2025"
         }
     ]
 }
