@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:25:59 PM 21-10-2025",
+    "last update time": "09:36:17 PM 21-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -54,8 +54,8 @@
             "match_name": "Shabab Al Ahli vs Nasaf",
             "match_id": 136059,
             "startTime": "09:30:00 PM 21-10-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/e5lLERvqQEKoF8sa8dQ1kw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136059_english_hls_459015e9c721574ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -166,18 +166,6 @@
             "startTime": "03:30:00 PM 22-10-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Emirates Blues vs Sharjah (Emirates D20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137508_5722_EMB_SHA_fc-web.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Sharjah",
-            "status": "UPCOMING",
-            "event_name": "Emirates D20 Tournament, 2025",
-            "match_name": "Emirates Blues vs Sharjah",
-            "match_id": 137508,
-            "startTime": "09:00:00 PM 22-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Ratchaburi vs Eastern SC (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136156_5648_RAT_ESC_fc-Web_1758118383307.jpg",
@@ -238,6 +226,18 @@
             "startTime": "07:15:00 PM 22-10-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Emirates Blues vs Sharjah (Emirates D20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137508_5722_EMB_SHA_fc-web.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Sharjah",
+            "status": "UPCOMING",
+            "event_name": "Emirates D20 Tournament, 2025",
+            "match_name": "Emirates Blues vs Sharjah",
+            "match_id": 137508,
+            "startTime": "11:00:00 PM 22-10-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Al Ahli (QAT) vs Arkadag (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136108_5648_ASC_ARK_fc-Web_1758118382780.jpg",
@@ -274,18 +274,6 @@
             "startTime": "12:30:00 AM 23-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Hangzhou Open vs Hangzhou West Lake Golf Club (Hangzhou Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hangzhou-Open_old.jpg",
-            "team_1": "Hangzhou Open",
-            "team_2": "Hangzhou West Lake Golf Club",
-            "status": "UPCOMING",
-            "event_name": "Hangzhou Open",
-            "match_name": "Hangzhou Open",
-            "match_id": 137172,
-            "startTime": "03:25:00 PM 22-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Al Muharraq vs Al Wasl (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136096_5648_ALM_AWL_fc-Web_1758118382893.jpg",
@@ -296,6 +284,18 @@
             "match_name": "Al Muharraq vs Al Wasl",
             "match_id": 136096,
             "startTime": "11:45:00 PM 22-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Hangzhou Open vs Hangzhou West Lake Golf Club (Hangzhou Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hangzhou-Open_old.jpg",
+            "team_1": "Hangzhou Open",
+            "team_2": "Hangzhou West Lake Golf Club",
+            "status": "UPCOMING",
+            "event_name": "Hangzhou Open",
+            "match_name": "Hangzhou Open",
+            "match_id": 137172,
+            "startTime": "03:25:00 PM 22-10-2025"
         },
         {
             "event_category": "Cricket",
