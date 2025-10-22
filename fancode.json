@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:04:00 PM 22-10-2025",
+    "last update time": "03:14:22 PM 22-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -35,11 +35,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136011_5647_GW_VIS_fc-Web.jpg",
             "team_1": "Gangwon",
             "team_2": "Vissel Kobe",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Elite 2025-26",
             "match_name": "Gangwon vs Vissel Kobe",
             "match_id": 136011,
-            "startTime": "03:30:00 PM 22-10-2025"
+            "startTime": "03:30:00 PM 22-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/feeAnDRtSNmw8AgZOjszsg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136011_english_hls_da478fb58368848ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -47,11 +49,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136155_5648_OSK_ND_fc-Web_1758118383926.jpg",
             "team_1": "Gamba Osaka",
             "team_2": "Nam Dinh",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Two 2025-26",
             "match_name": "Gamba Osaka vs Nam Dinh",
             "match_id": 136155,
-            "startTime": "03:30:00 PM 22-10-2025"
+            "startTime": "03:30:00 PM 22-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/zRVcfvA7R-uLvddbKGpCSQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136155_english_hls_d49f60c82916179ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Hangzhou Open vs Hangzhou West Lake Golf Club (Hangzhou Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hangzhou-Open_old.jpg",
+            "team_1": "Hangzhou Open",
+            "team_2": "Hangzhou West Lake Golf Club",
+            "status": "LIVE",
+            "event_name": "Hangzhou Open",
+            "match_name": "Hangzhou Open",
+            "match_id": 137172,
+            "startTime": "03:25:00 PM 22-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/JvPveJdIRfiO9e5jTGxWZA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137172_english_hls_a5f8a8e8c97733ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -232,18 +250,6 @@
             "match_name": "Al Muharraq vs Al Wasl",
             "match_id": 136096,
             "startTime": "11:45:00 PM 22-10-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Hangzhou Open vs Hangzhou West Lake Golf Club (Hangzhou Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hangzhou-Open_old.jpg",
-            "team_1": "Hangzhou Open",
-            "team_2": "Hangzhou West Lake Golf Club",
-            "status": "UPCOMING",
-            "event_name": "Hangzhou Open",
-            "match_name": "Hangzhou Open",
-            "match_id": 137172,
-            "startTime": "03:25:00 PM 22-10-2025"
         },
         {
             "event_category": "Football",
