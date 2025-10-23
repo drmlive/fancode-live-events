@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:22:23 PM 23-10-2025",
+    "last update time": "05:42:45 PM 23-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:00:00 PM 23-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/OEaP_KR-SAm9DPv5mIPtUg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137702_english_hls_a99a194daf68548ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Kaya vs BG Pathum United (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136180_5648_KAYA_PNU_fc-Web_1758118382756.jpg",
-            "team_1": "Kaya",
-            "team_2": "BG Pathum United",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Kaya vs BG Pathum United",
-            "match_id": 136180,
-            "startTime": "03:30:00 PM 23-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/IjHuaP8wRcCUuTGivMt1Sg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136180_english_hls_d549e5ecc234893ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -65,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136168_5648_PER_SEL_fc-Web_1758118383088.jpg",
             "team_1": "Persib Bandung",
             "team_2": "Selangor",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Two 2025-26",
             "match_name": "Persib Bandung vs Selangor",
             "match_id": 136168,
-            "startTime": "05:45:00 PM 23-10-2025"
+            "startTime": "05:45:00 PM 23-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/mKig8r5jSw2pIOs0x-wJRw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136168_english_hls_8250d8ff7e25823ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -77,11 +65,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136167_5648_BU_LIO_fc-Web_1758118383570.jpg",
             "team_1": "Bangkok United",
             "team_2": "Lion City Sailors",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Two 2025-26",
             "match_name": "Bangkok United vs Lion City Sailors",
             "match_id": 136167,
-            "startTime": "05:45:00 PM 23-10-2025"
+            "startTime": "05:45:00 PM 23-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/eqknXrwATX2AOE617os37g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136167_english_hls_8a6d464f0f47948ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -89,11 +79,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136144_5648_CAH_MAC_fc-Web_1758118382875.jpg",
             "team_1": "Cong An Ha Noi",
             "team_2": "Macarthur",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Champions League Two 2025-26",
             "match_name": "Cong An Ha Noi vs Macarthur",
             "match_id": 136144,
-            "startTime": "05:45:00 PM 23-10-2025"
+            "startTime": "05:45:00 PM 23-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/cjXi5IMoRWq4YvUUhlFz5g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136144_english_hls_58a8d8376295505ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -204,18 +196,6 @@
             "startTime": "02:30:00 AM 24-10-2025"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg",
-            "team_1": "Day 1",
-            "team_2": "Petronas Sepang International Circuit",
-            "status": "UPCOMING",
-            "event_name": "PETRONAS GRAND PRIX OF MALAYSIA",
-            "match_name": "Day 1",
-            "match_id": 119261,
-            "startTime": "06:30:00 AM 24-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Emirates D20 Tournament, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -226,6 +206,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137511,
             "startTime": "09:00:00 PM 24-10-2025"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg",
+            "team_1": "Day 1",
+            "team_2": "Petronas Sepang International Circuit",
+            "status": "UPCOMING",
+            "event_name": "PETRONAS GRAND PRIX OF MALAYSIA",
+            "match_name": "Day 1",
+            "match_id": 119261,
+            "startTime": "06:30:00 AM 24-10-2025"
         },
         {
             "event_category": "Golf",
@@ -454,6 +446,18 @@
             "match_name": "Paarl Rocks vs Overberg Indwe",
             "match_id": 137723,
             "startTime": "02:00:00 PM 25-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Sunrise Golf and Country Club (Wistron Ladies Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg",
+            "team_1": "Day 2",
+            "team_2": "Sunrise Golf and Country Club",
+            "status": "UPCOMING",
+            "event_name": "Wistron Ladies Open",
+            "match_name": "Day 2",
+            "match_id": 137368,
+            "startTime": "11:30:00 AM 25-10-2025"
         }
     ]
 }
