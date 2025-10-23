@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:38:40 PM 23-10-2025",
+    "last update time": "10:59:02 PM 23-10-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Dubai vs Sharjah (Emirates D20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137494_5722_SHA_DUB_fc-web.jpg",
-            "team_1": "Dubai",
-            "team_2": "Sharjah",
-            "status": "LIVE",
-            "event_name": "Emirates D20 Tournament, 2025",
-            "match_name": "Dubai vs Sharjah",
-            "match_id": 137509,
-            "startTime": "07:00:00 PM 23-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8EVjc-_8QrmF3heRY8PTcA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137509_english_hls_aa7f4715e757525ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Paarl Rocks vs Wellington Wolves (Boland T10, 2025)",
@@ -32,6 +18,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137721_english_hls_3bdd15f70a87792ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Emirates Blues vs Ajman (Emirates D20 Tournament, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137490_5722_EMB_AJM_fc-web.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Ajman",
+            "status": "LIVE",
+            "event_name": "Emirates D20 Tournament, 2025",
+            "match_name": "Emirates Blues vs Ajman",
+            "match_id": 137510,
+            "startTime": "11:00:00 PM 23-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/lseSJfXxQw6nQKjV9SqZXQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137510_english_hls_714a46043a15482ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 1 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
@@ -44,18 +44,6 @@
             "startTime": "07:15:00 PM 23-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/9aEUSt6pQ6O5LqhEawi53A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137315_english_hls_d88bf815f681988ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Emirates Blues vs Ajman (Emirates D20 Tournament, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137490_5722_EMB_AJM_fc-web.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Ajman",
-            "status": "UPCOMING",
-            "event_name": "Emirates D20 Tournament, 2025",
-            "match_name": "Emirates Blues vs Ajman",
-            "match_id": 137510,
-            "startTime": "11:00:00 PM 23-10-2025"
         },
         {
             "event_category": "Football",
@@ -428,6 +416,18 @@
             "match_name": "Northern Raiders vs Wellington Wolves",
             "match_id": 137725,
             "startTime": "07:00:00 PM 25-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Blackburn Rovers F.C. vs Southampton F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136954_5489_BLK_SOU_fc-web.jpg",
+            "team_1": "Blackburn Rovers F.C.",
+            "team_2": "Southampton F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Blackburn Rovers F.C. vs Southampton F.C.",
+            "match_id": 136954,
+            "startTime": "07:30:00 PM 25-10-2025"
         }
     ]
 }
