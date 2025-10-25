@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:06:44 AM 25-10-2025",
+    "last update time": "10:16:53 AM 25-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,34 @@
             "startTime": "09:00:00 AM 25-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/cztdQCGsTqyQDIOggsJYtg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134004_english_hls_9c8dbd275969237ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kyoto Sanga vs Kashima Antlers (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137014_CASACARDS_APP.png",
+            "team_1": "Kyoto Sanga",
+            "team_2": "Kashima Antlers",
+            "status": "LIVE",
+            "event_name": "J League 2025",
+            "match_name": "Kyoto Sanga vs Kashima Antlers",
+            "match_id": 137014,
+            "startTime": "10:30:00 AM 25-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137014_english_hls_6aee5722dc58854ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137014_english_hls_6aee5722dc58854ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Urawa Red Diamonds vs Machida Zelvia (J League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137012_CASACARDS_APP.png",
+            "team_1": "Urawa Red Diamonds",
+            "team_2": "Machida Zelvia",
+            "status": "LIVE",
+            "event_name": "J League 2025",
+            "match_name": "Urawa Red Diamonds vs Machida Zelvia",
+            "match_id": 137012,
+            "startTime": "10:30:00 AM 25-10-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137012_english_hls_53b391b57c32486ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137012_english_hls_53b391b57c32486ta-di_h264/index.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -70,30 +98,6 @@
             "match_name": "New Zealand vs England",
             "match_id": 137160,
             "startTime": "06:30:00 AM 26-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Kyoto Sanga vs Kashima Antlers (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137014_CASACARDS_APP.png",
-            "team_1": "Kyoto Sanga",
-            "team_2": "Kashima Antlers",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Kyoto Sanga vs Kashima Antlers",
-            "match_id": 137014,
-            "startTime": "10:30:00 AM 25-10-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Urawa Red Diamonds vs Machida Zelvia (J League 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137012_CASACARDS_APP.png",
-            "team_1": "Urawa Red Diamonds",
-            "team_2": "Machida Zelvia",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Urawa Red Diamonds vs Machida Zelvia",
-            "match_id": 137012,
-            "startTime": "10:30:00 AM 25-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -348,18 +352,6 @@
             "startTime": "11:00:00 PM 25-10-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
-            "team_1": "Day 3 - World Feed",
-            "team_2": "Black Desert Resort",
-            "status": "UPCOMING",
-            "event_name": "Bank of Utah Championship",
-            "match_name": "Day 3 - World Feed",
-            "match_id": 137319,
-            "startTime": "02:00:00 AM 26-10-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Overberg Indwe vs Wellington Wolves (Boland T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137727_5728_OBI_WEW_fc-web.jpg",
@@ -370,6 +362,18 @@
             "match_name": "Overberg Indwe vs Wellington Wolves",
             "match_id": 137727,
             "startTime": "02:00:00 PM 26-10-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "Black Desert Resort",
+            "status": "UPCOMING",
+            "event_name": "Bank of Utah Championship",
+            "match_name": "Day 3 - World Feed",
+            "match_id": 137319,
+            "startTime": "02:00:00 AM 26-10-2025"
         },
         {
             "event_category": "Formula 1",
