@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:41:13 AM 27-10-2025",
+    "last update time": "01:51:26 AM 27-10-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -44,6 +44,20 @@
             "startTime": "01:30:00 AM 27-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/6iHThzX5QJ-fkh1ex7v3Pw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137614_english_hls_8401c31cb228585ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Black Desert Resort",
+            "status": "LIVE",
+            "event_name": "Bank of Utah Championship",
+            "match_name": "Day 4 - World Feed",
+            "match_id": 137320,
+            "startTime": "02:00:00 AM 27-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/t-qaL_N4QKqH-0b5iUebVA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137320_english_hls_8f5ba52e9215810ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -116,18 +130,6 @@
             "match_name": "Overberg Indwe vs Paarl Rocks",
             "match_id": 137731,
             "startTime": "09:00:00 PM 27-10-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 4 - World Feed vs Black Desert Resort (Bank of Utah Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "Black Desert Resort",
-            "status": "UPCOMING",
-            "event_name": "Bank of Utah Championship",
-            "match_name": "Day 4 - World Feed",
-            "match_id": 137320,
-            "startTime": "02:00:00 AM 27-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -428,6 +430,18 @@
             "match_name": "Kishtwar Giants vs Patnitop Warriors",
             "match_id": 137866,
             "startTime": "04:00:00 PM 29-10-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "SC Paderborn 07 vs Bayer 04 Leverkusen (DFB Pokal 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136939_5570_PDB_LEV_Fc-Web.jpg",
+            "team_1": "SC Paderborn 07",
+            "team_2": "Bayer 04 Leverkusen",
+            "status": "UPCOMING",
+            "event_name": "DFB Pokal 2025-26",
+            "match_name": "SC Paderborn 07 vs Bayer 04 Leverkusen",
+            "match_id": 136939,
+            "startTime": "10:30:00 PM 29-10-2025"
         }
     ]
 }
