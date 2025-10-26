@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:42:34 PM 26-10-2025",
+    "last update time": "06:52:47 PM 26-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -45,29 +45,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Ladakh Heros vs Kishtwar Giants (Indian Heaven Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137860_5740_LHH_KIG_FC-Web.jpg",
-            "team_1": "Ladakh Heros",
-            "team_2": "Kishtwar Giants",
-            "status": "LIVE",
-            "event_name": "Indian Heaven Premier League, 2025",
-            "match_name": "Ladakh Heros vs Kishtwar Giants",
-            "match_id": 137860,
-            "startTime": "04:00:00 PM 26-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/tAPp13RYQ4aYqQ4QBhwh8Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137860_english_hls_de961793617042ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Stellenbosch Kings vs Overberg Indwe (Boland T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137711_5728_OBI_SK_fc-web.jpg",
             "team_1": "Stellenbosch Kings",
             "team_2": "Overberg Indwe",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Boland T10, 2025",
             "match_name": "Stellenbosch Kings vs Overberg Indwe",
             "match_id": 137729,
-            "startTime": "07:00:00 PM 26-10-2025"
+            "startTime": "07:00:00 PM 26-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/pPLz6V5RQP65lf-OlRrc1g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137729_english_hls_753684e8ed94503ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -119,18 +107,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Melbourne Renegades Women vs ACT Meteors (T20 Spring Challenge, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134010_5608_MR-W_ACTM_FC-Web.jpg",
-            "team_1": "Melbourne Renegades Women",
-            "team_2": "ACT Meteors",
-            "status": "UPCOMING",
-            "event_name": "T20 Spring Challenge, 2025",
-            "match_name": "Melbourne Renegades Women vs ACT Meteors",
-            "match_id": 134010,
-            "startTime": "09:00:00 AM 27-10-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg",
             "team_1": "Bangladesh",
@@ -140,6 +116,18 @@
             "match_name": "Bangladesh vs West Indies",
             "match_id": 137703,
             "startTime": "05:30:00 PM 27-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Melbourne Renegades Women vs ACT Meteors (T20 Spring Challenge, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134010_5608_MR-W_ACTM_FC-Web.jpg",
+            "team_1": "Melbourne Renegades Women",
+            "team_2": "ACT Meteors",
+            "status": "UPCOMING",
+            "event_name": "T20 Spring Challenge, 2025",
+            "match_name": "Melbourne Renegades Women vs ACT Meteors",
+            "match_id": 134010,
+            "startTime": "09:00:00 AM 27-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -440,6 +428,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 134011,
             "startTime": "04:30:00 AM 29-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand vs England (England tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg",
+            "team_1": "New Zealand",
+            "team_2": "England",
+            "status": "UPCOMING",
+            "event_name": "England tour of New Zealand, 2025",
+            "match_name": "New Zealand vs England",
+            "match_id": 137161,
+            "startTime": "06:30:00 AM 29-10-2025"
         }
     ]
 }
