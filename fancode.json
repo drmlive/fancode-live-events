@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:17:54 PM 26-10-2025",
+    "last update time": "11:28:05 PM 26-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png",
             "team_1": "Race",
             "team_2": "Mexico",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025",
             "match_name": "Race",
             "match_id": 118480,
-            "startTime": "01:30:00 AM 27-10-2025"
+            "startTime": "01:30:00 AM 27-10-2025",
+            "dai_url": "https://d2nwrp55u0b6t5.cloudfront.net/out/v1/96ad667151f74336b8188cc435cfb2d4/index.m3u8",
+            "adfree_url": "https://d2nwrp55u0b6t5.cloudfront.net/out/v1/96ad667151f74336b8188cc435cfb2d4/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -42,20 +44,6 @@
             "startTime": "11:00:00 PM 26-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/QrTDBQXQQkChxcl0Q_qAUQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137613_english_hls_373c41c4e593199ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Madrid vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130925_5427_RM_BAR_fc-Web_1760681342618.jpg",
-            "team_1": "Real Madrid",
-            "team_2": "FC Barcelona",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Madrid vs FC Barcelona",
-            "match_id": 130925,
-            "startTime": "08:45:00 PM 26-10-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130925_english_hls_7a3c7317e146521adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -143,25 +131,25 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Boland T10, 2025)",
+            "title": "Overberg Indwe vs Paarl Rocks (Boland T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Overberg Indwe",
+            "team_2": "Paarl Rocks",
             "status": "UPCOMING",
             "event_name": "Boland T10, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "Overberg Indwe vs Paarl Rocks",
             "match_id": 137731,
             "startTime": "09:00:00 PM 27-10-2025"
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Boland T10, 2025)",
+            "title": "Stellenbosch Kings vs Paarl Rapids (Boland T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Stellenbosch Kings",
+            "team_2": "Paarl Rapids",
             "status": "UPCOMING",
             "event_name": "Boland T10, 2025",
-            "match_name": "TBC vs TBC",
+            "match_name": "Stellenbosch Kings vs Paarl Rapids",
             "match_id": 137732,
             "startTime": "11:30:00 PM 27-10-2025"
         },
@@ -440,6 +428,18 @@
             "match_name": "Zimbabwe vs Afghanistan",
             "match_id": 137372,
             "startTime": "05:00:00 PM 29-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg",
+            "team_1": "Bangladesh",
+            "team_2": "West Indies",
+            "status": "UPCOMING",
+            "event_name": "West Indies tour of Bangladesh, 2025",
+            "match_name": "Bangladesh vs West Indies",
+            "match_id": 137704,
+            "startTime": "05:30:00 PM 29-10-2025"
         }
     ]
 }
