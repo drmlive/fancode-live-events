@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:42:08 AM 28-10-2025",
+    "last update time": "04:52:21 AM 28-10-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Victoria vs Tasmania (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134021_5609_VCT_TAS_fc-Web.jpg",
+            "team_1": "Victoria",
+            "team_2": "Tasmania",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Victoria vs Tasmania",
+            "match_id": 134021,
+            "startTime": "05:00:00 AM 28-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ytAP6WSGSZ69s_ZLN1g3pQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134021_english_hls_d2062975c846751ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "United Arab Emirates vs USA (ICC CWC League 2, 2023-27)",
@@ -14,18 +28,6 @@
             "match_name": "United Arab Emirates vs USA",
             "match_id": 137252,
             "startTime": "11:00:00 AM 28-10-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria vs Tasmania (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134021_5609_VCT_TAS_fc-Web.jpg",
-            "team_1": "Victoria",
-            "team_2": "Tasmania",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Victoria vs Tasmania",
-            "match_id": 134021,
-            "startTime": "05:00:00 AM 28-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -100,18 +102,6 @@
             "startTime": "11:30:00 PM 28-10-2025"
         },
         {
-            "event_category": "Baseball",
-            "title": "Los Angeles Dodgers vs Toronto Blue Jays (Major League Baseball, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/137809_CASACARDS_APP.png",
-            "team_1": "Los Angeles Dodgers",
-            "team_2": "Toronto Blue Jays",
-            "status": "UPCOMING",
-            "event_name": "Major League Baseball, 2025",
-            "match_name": "Los Angeles Dodgers vs Toronto Blue Jays",
-            "match_id": 137809,
-            "startTime": "05:30:00 AM 28-10-2025"
-        },
-        {
             "event_category": "Football",
             "title": "FC Energie Cottbus vs RB Leipzig (DFB Pokal 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136938_5570_EC_LEP_Fc-Web.jpg",
@@ -146,6 +136,18 @@
             "match_name": "Grimsby Town vs Brentford",
             "match_id": 137347,
             "startTime": "01:15:00 AM 29-10-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Los Angeles Dodgers vs Toronto Blue Jays (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137809_CASACARDS_APP.png",
+            "team_1": "Los Angeles Dodgers",
+            "team_2": "Toronto Blue Jays",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Los Angeles Dodgers vs Toronto Blue Jays",
+            "match_id": 137809,
+            "startTime": "05:30:00 AM 28-10-2025"
         },
         {
             "event_category": "Football",
