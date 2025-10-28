@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:55:31 AM 29-10-2025",
+    "last update time": "01:05:52 AM 29-10-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -19,29 +19,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Eintracht Frankfurt vs Borussia Dortmund (DFB Pokal 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136937_5570_FRK_DOR_Fc-Web.jpg",
-            "team_1": "Eintracht Frankfurt",
-            "team_2": "Borussia Dortmund",
-            "status": "LIVE",
-            "event_name": "DFB Pokal 2025-26",
-            "match_name": "Eintracht Frankfurt vs Borussia Dortmund",
-            "match_id": 136937,
-            "startTime": "11:00:00 PM 28-10-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Football",
             "title": "Grimsby Town vs Brentford (Carabao Cup 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137347_5488_GR_BRE_fc-Web_1761388449728.jpg",
             "team_1": "Grimsby Town",
             "team_2": "Brentford",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Carabao Cup 2025-2026",
             "match_name": "Grimsby Town vs Brentford",
             "match_id": 137347,
-            "startTime": "01:15:00 AM 29-10-2025"
+            "startTime": "01:15:00 AM 29-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Qh9pGBweSbO6ygDkH46W-A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137347_english_hls_85bf131aed3047_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -49,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137348_5488_WYM_FUL_fc-Web.jpg",
             "team_1": "Wycombe Wanderers",
             "team_2": "Fulham",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Carabao Cup 2025-2026",
             "match_name": "Wycombe Wanderers vs Fulham",
             "match_id": 137348,
-            "startTime": "01:15:00 AM 29-10-2025"
+            "startTime": "01:15:00 AM 29-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/OZOQoGyeRoukcK4uzC6RBg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137348_english_hls_9963050ded86546_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -73,11 +63,27 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136938_5570_EC_LEP_Fc-Web.jpg",
             "team_1": "FC Energie Cottbus",
             "team_2": "RB Leipzig",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "DFB Pokal 2025-26",
             "match_name": "FC Energie Cottbus vs RB Leipzig",
             "match_id": 136938,
-            "startTime": "01:15:00 AM 29-10-2025"
+            "startTime": "01:15:00 AM 29-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/noZ_qyykQJSZtX5PeChjdQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136938_english_hls_810d2c42eb84686_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Eintracht Frankfurt vs Borussia Dortmund (DFB Pokal 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136937_5570_FRK_DOR_Fc-Web.jpg",
+            "team_1": "Eintracht Frankfurt",
+            "team_2": "Borussia Dortmund",
+            "status": "LIVE",
+            "event_name": "DFB Pokal 2025-26",
+            "match_name": "Eintracht Frankfurt vs Borussia Dortmund",
+            "match_id": 136937,
+            "startTime": "11:00:00 PM 28-10-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
