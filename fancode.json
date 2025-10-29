@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:37:44 AM 30-10-2025",
+    "last update time": "03:48:00 AM 30-10-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Newcastle United vs Tottenham Hotspur (Carabao Cup 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137357_5488_NEW_TOT_fc-Web.jpg",
-            "team_1": "Newcastle United",
-            "team_2": "Tottenham Hotspur",
-            "status": "LIVE",
-            "event_name": "Carabao Cup 2025-2026",
-            "match_name": "Newcastle United vs Tottenham Hotspur",
-            "match_id": 137357,
-            "startTime": "01:30:00 AM 30-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/j7HkmSENS7GOgR_Fidb1Mg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137357_english_hls_226a8fc2d631364_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "United Arab Emirates vs Nepal (ICC CWC League 2, 2023-27)",
@@ -400,6 +386,18 @@
             "match_name": "Breeders' Cup Classic",
             "match_id": 137854,
             "startTime": "11:30:00 PM 01-11-2025"
+        },
+        {
+            "event_category": "Baseball",
+            "title": "Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/137813_CASACARDS_APP.png",
+            "team_1": "Toronto Blue Jays",
+            "team_2": "Los Angeles Dodgers",
+            "status": "UPCOMING",
+            "event_name": "Major League Baseball, 2025",
+            "match_name": "Toronto Blue Jays vs Los Angeles Dodgers",
+            "match_id": 137813,
+            "startTime": "05:30:00 AM 02-11-2025"
         }
     ]
 }
