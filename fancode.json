@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:09:52 PM 30-10-2025",
+    "last update time": "01:20:08 PM 30-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "New South Wales vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134020_5609_QUN_NSW_fc-Web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Queensland",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs Queensland",
-            "match_id": 134020,
-            "startTime": "05:30:00 AM 28-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ev_qBrPhS4CRPUA4nV7JKA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b91272_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Victoria vs Tasmania (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134021_5609_VCT_TAS_fc-Web.jpg",
             "team_1": "Victoria",
@@ -56,6 +42,18 @@
             "match_name": "Victoria vs Tasmania",
             "match_id": 134021,
             "startTime": "05:00:00 AM 28-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New South Wales vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134020_5609_QUN_NSW_fc-Web.jpg",
+            "team_1": "New South Wales",
+            "team_2": "Queensland",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "New South Wales vs Queensland",
+            "match_id": 134020,
+            "startTime": "05:30:00 AM 28-10-2025"
         },
         {
             "event_category": "Cricket",
@@ -168,7 +166,7 @@
         {
             "event_category": "Football",
             "title": "Racing Club vs Real Sociedad B (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/137615_CASACARDS_APP.png",
+            "src": "https://images.fancode.com/aig/match/v2/137615_CASACARDS_APP.png",
             "team_1": "Racing Club",
             "team_2": "Real Sociedad B",
             "status": "UPCOMING",
