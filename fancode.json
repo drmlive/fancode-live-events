@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:54:52 PM 30-10-2025",
+    "last update time": "04:05:02 PM 30-10-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "11:00:00 AM 30-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/KImELYSZRD-tsaNuhdMekw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137253_english_hls_6c5a8b352529608_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Western Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Western Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "South Australia vs Western Australia",
-            "match_id": 134022,
-            "startTime": "08:00:00 AM 28-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/10BDqpneSKqf-CXJCNodfQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc142539_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -68,6 +54,18 @@
             "match_name": "New South Wales vs Queensland",
             "match_id": 134020,
             "startTime": "05:30:00 AM 28-10-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Western Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "South Australia vs Western Australia",
+            "match_id": 134022,
+            "startTime": "08:00:00 AM 28-10-2025"
         },
         {
             "event_category": "Football",
@@ -143,18 +141,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Wrexham A.F.C. vs Coventry City Football Club (EFL Championship 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/136958_CASACARDS_APP.png",
-            "team_1": "Wrexham A.F.C.",
-            "team_2": "Coventry City Football Club",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Wrexham A.F.C. vs Coventry City Football Club",
-            "match_id": 136958,
-            "startTime": "01:30:00 AM 01-11-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Getafe CF vs Girona FC (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130933_5427_GEF_GIR_fc-Web.jpg",
             "team_1": "Getafe CF",
@@ -163,6 +149,18 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "Getafe CF vs Girona FC",
             "match_id": 130933,
+            "startTime": "01:30:00 AM 01-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wrexham A.F.C. vs Coventry City Football Club (EFL Championship 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/136958_CASACARDS_APP.png",
+            "team_1": "Wrexham A.F.C.",
+            "team_2": "Coventry City Football Club",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Wrexham A.F.C. vs Coventry City Football Club",
+            "match_id": 136958,
             "startTime": "01:30:00 AM 01-11-2025"
         },
         {
