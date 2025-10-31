@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:52:41 PM 31-10-2025",
+    "last update time": "09:02:52 PM 31-10-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg",
-            "team_1": "Bangladesh",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "West Indies tour of Bangladesh, 2025",
-            "match_name": "Bangladesh vs West Indies",
-            "match_id": 137705,
-            "startTime": "05:30:00 PM 31-10-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Q_h7UU6lREqZb5h1jtgNfw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137705_english_hls_56e46184e037449_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al Hilal SFC vs Al-Shabab FC (Roshn Saudi League 2025-2026)",
@@ -30,6 +16,20 @@
             "startTime": "08:20:00 PM 31-10-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/rHGtTwS-Q1y38KQ-EKtozw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137890_english_hls_d76ffc379177424_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg",
+            "team_1": "Bangladesh",
+            "team_2": "West Indies",
+            "status": "LIVE",
+            "event_name": "West Indies tour of Bangladesh, 2025",
+            "match_name": "Bangladesh vs West Indies",
+            "match_id": 137705,
+            "startTime": "05:30:00 PM 31-10-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Q_h7UU6lREqZb5h1jtgNfw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137705_english_hls_56e46184e037449_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -225,18 +225,6 @@
         },
         {
             "event_category": "Horse Racing",
-            "title": "Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "Flemington Racecourse",
-            "status": "UPCOMING",
-            "event_name": "Melbourne Cup Carnival 2025",
-            "match_name": "Day 1",
-            "match_id": 137282,
-            "startTime": "06:00:00 AM 01-11-2025"
-        },
-        {
-            "event_category": "Horse Racing",
             "title": "Breeders' Cup Classic vs Del Mar Thoroughbred Club (Breeders' Cup Classic)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Breeders-Cup_Old_match-card_2_1761634546519.jpg",
             "team_1": "Breeders' Cup Classic",
@@ -246,6 +234,18 @@
             "match_name": "Breeders' Cup Classic",
             "match_id": 137854,
             "startTime": "11:30:00 PM 01-11-2025"
+        },
+        {
+            "event_category": "Horse Racing",
+            "title": "Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "Flemington Racecourse",
+            "status": "UPCOMING",
+            "event_name": "Melbourne Cup Carnival 2025",
+            "match_name": "Day 1",
+            "match_id": 137282,
+            "startTime": "06:00:00 AM 01-11-2025"
         },
         {
             "event_category": "Baseball",
