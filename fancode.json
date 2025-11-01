@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:38:11 PM 01-11-2025",
+    "last update time": "12:48:22 PM 01-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "11:00:00 AM 01-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/W1Rvr899TiG5Uixv9g7Lag/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137254_english_hls_ccca4ed3df97401_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Horse Racing",
-            "title": "Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "Flemington Racecourse",
-            "status": "LIVE",
-            "event_name": "Melbourne Cup Carnival 2025",
-            "match_name": "Day 1",
-            "match_id": 137282,
-            "startTime": "06:00:00 AM 01-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/aRVMFuwkTYSK4YTXEDyFIA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137282_english_hls_749d6c053152588_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -415,6 +401,18 @@
             "event_name": "AFC Champions League Elite 2025-26",
             "match_name": "Machida Zelvia vs Melbourne City",
             "match_id": 136014,
+            "startTime": "03:30:00 PM 04-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Gangwon (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136013_5647_HIR_GW_fc-Web.jpg",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Gangwon",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Sanfrecce Hiroshima vs Gangwon",
+            "match_id": 136013,
             "startTime": "03:30:00 PM 04-11-2025"
         }
     ]
