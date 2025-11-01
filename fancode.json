@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:34:27 AM 02-11-2025",
+    "last update time": "03:44:39 AM 02-11-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Real Madrid vs Valencia CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130934_5427_RM_VAL_fc-Web.jpg",
-            "team_1": "Real Madrid",
-            "team_2": "Valencia CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Madrid vs Valencia CF",
-            "match_id": 130934,
-            "startTime": "01:30:00 AM 02-11-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130934_english_hls_bb66b3cb3793090_1adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130934_english_hls_bb66b3cb3793090_1adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Almer\u00eda vs Eibar (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/137616_CASACARDS_APP.png",
-            "team_1": "Almer\u00eda",
-            "team_2": "Eibar",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Almer\u00eda vs Eibar",
-            "match_id": 137616,
-            "startTime": "01:30:00 AM 02-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/LHORdtKWQAS7MYXBJRuYGA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137616_english_hls_5f0e4c294537953_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Horse Racing",
             "title": "Breeders' Cup Classic vs Del Mar Thoroughbred Club (Breeders' Cup Classic)",
@@ -44,6 +16,20 @@
             "startTime": "03:00:00 AM 02-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ngZBjB-USIaLKsgAjuT1kg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137854_english_hls_956c19b07155876_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Madrid vs Valencia CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130934_5427_RM_VAL_fc-Web.jpg",
+            "team_1": "Real Madrid",
+            "team_2": "Valencia CF",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Madrid vs Valencia CF",
+            "match_id": 130934,
+            "startTime": "01:30:00 AM 02-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130934_english_hls_bb66b3cb3793090_1adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130934_english_hls_bb66b3cb3793090_1adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -416,6 +402,18 @@
             "match_name": "United Arab Emirates vs Nepal",
             "match_id": 137256,
             "startTime": "11:00:00 AM 05-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "New Zealand",
+            "team_2": "West Indies",
+            "status": "UPCOMING",
+            "event_name": "West Indies tour of New Zealand, 2025",
+            "match_name": "New Zealand vs West Indies",
+            "match_id": 137688,
+            "startTime": "11:45:00 AM 05-11-2025"
         }
     ]
 }
