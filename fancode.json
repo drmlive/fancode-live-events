@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:15:15 AM 06-11-2025",
+    "last update time": "01:25:30 AM 06-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -28,8 +28,8 @@
             "match_name": "Portsmouth F.C. vs Wrexham A.F.C.",
             "match_id": 136960,
             "startTime": "01:30:00 AM 06-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/nhC8XZLuQqCUKYijVpk0tQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136960_english_hls_1b24f33f8e81297_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -262,18 +262,6 @@
             "startTime": "11:15:00 AM 07-11-2025"
         },
         {
-            "event_category": "Horse Racing",
-            "title": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "Flemington Racecourse",
-            "status": "UPCOMING",
-            "event_name": "Melbourne Cup Carnival 2025",
-            "match_name": "Day 3",
-            "match_id": 137284,
-            "startTime": "07:00:00 AM 06-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Bangladesh (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -284,6 +272,18 @@
             "match_name": "Sri Lanka vs Bangladesh",
             "match_id": 137832,
             "startTime": "12:10:00 PM 07-11-2025"
+        },
+        {
+            "event_category": "Horse Racing",
+            "title": "Day 3 vs Flemington Racecourse (Melbourne Cup Carnival 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "Flemington Racecourse",
+            "status": "UPCOMING",
+            "event_name": "Melbourne Cup Carnival 2025",
+            "match_name": "Day 3",
+            "match_id": 137284,
+            "startTime": "07:00:00 AM 06-11-2025"
         },
         {
             "event_category": "Golf",
