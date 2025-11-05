@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:10:53 PM 05-11-2025",
+    "last update time": "09:21:16 PM 05-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -44,6 +44,34 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136097_english_hls_b409d9844659492_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "AL Zawraa SC vs FK Istiklol (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136133_5648_ALZ_ISK_fc-Web_1758118383957.jpg",
+            "team_1": "AL Zawraa SC",
+            "team_2": "FK Istiklol",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "AL Zawraa SC vs FK Istiklol",
+            "match_id": 136133,
+            "startTime": "09:30:00 PM 05-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/LSaAnS_YTPSqOQdBeSf9yg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136133_english_hls_b8663011fb72743_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Khaldiya vs Andijan (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136110_5648_KHA_ABD_fc-Web_1758118382795.jpg",
+            "team_1": "Khaldiya",
+            "team_2": "Andijan",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Khaldiya vs Andijan",
+            "match_id": 136110,
+            "startTime": "09:30:00 PM 05-11-2025",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Cricket",
             "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
@@ -54,30 +82,6 @@
             "match_name": "New Zealand vs West Indies",
             "match_id": 137689,
             "startTime": "11:45:00 AM 06-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "AL Zawraa SC vs FK Istiklol (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136133_5648_ALZ_ISK_fc-Web_1758118383957.jpg",
-            "team_1": "AL Zawraa SC",
-            "team_2": "FK Istiklol",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "AL Zawraa SC vs FK Istiklol",
-            "match_id": 136133,
-            "startTime": "09:30:00 PM 05-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Khaldiya vs Andijan (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136110_5648_KHA_ABD_fc-Web_1758118382795.jpg",
-            "team_1": "Khaldiya",
-            "team_2": "Andijan",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Khaldiya vs Andijan",
-            "match_id": 136110,
-            "startTime": "09:30:00 PM 05-11-2025"
         },
         {
             "event_category": "Football",
@@ -344,18 +348,6 @@
             "startTime": "12:10:00 PM 07-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
-            "status": "UPCOMING",
-            "event_name": "World Wide Technology Championship",
-            "match_name": "Day 1",
-            "match_id": 137973,
-            "startTime": "12:30:00 AM 07-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "India vs Pakistan (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -366,6 +358,18 @@
             "match_name": "India vs Pakistan",
             "match_id": 137833,
             "startTime": "01:05:00 PM 07-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
+            "status": "UPCOMING",
+            "event_name": "World Wide Technology Championship",
+            "match_name": "Day 1",
+            "match_id": 137973,
+            "startTime": "12:30:00 AM 07-11-2025"
         },
         {
             "event_category": "Cricket",
