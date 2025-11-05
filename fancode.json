@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:04:55 AM 06-11-2025",
+    "last update time": "01:15:15 AM 06-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,6 +16,20 @@
             "startTime": "11:45:00 PM 05-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/JvrdYNdDSAS0UCxtlfcwZw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136134_english_hls_cd7e0774a617370_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Portsmouth F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136960_5489_PRM_WRX_fc-web.jpg",
+            "team_1": "Portsmouth F.C.",
+            "team_2": "Wrexham A.F.C.",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Portsmouth F.C. vs Wrexham A.F.C.",
+            "match_id": 136960,
+            "startTime": "01:30:00 AM 06-11-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -42,18 +56,6 @@
             "match_name": "New Zealand vs West Indies",
             "match_id": 137689,
             "startTime": "11:45:00 AM 06-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Portsmouth F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136960_5489_PRM_WRX_fc-web.jpg",
-            "team_1": "Portsmouth F.C.",
-            "team_2": "Wrexham A.F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Portsmouth F.C. vs Wrexham A.F.C.",
-            "match_id": 136960,
-            "startTime": "01:30:00 AM 06-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -272,18 +274,6 @@
             "startTime": "07:00:00 AM 06-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "Yas Links, Abu Dhabi",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi HSBC Championship",
-            "match_name": "Day 1",
-            "match_id": 137163,
-            "startTime": "12:30:00 PM 06-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sri Lanka vs Bangladesh (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -294,6 +284,18 @@
             "match_name": "Sri Lanka vs Bangladesh",
             "match_id": 137832,
             "startTime": "12:10:00 PM 07-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "Yas Links, Abu Dhabi",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi HSBC Championship",
+            "match_name": "Day 1",
+            "match_id": 137163,
+            "startTime": "12:30:00 PM 06-11-2025"
         },
         {
             "event_category": "Cricket",
