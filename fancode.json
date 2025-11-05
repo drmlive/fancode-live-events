@@ -1,12 +1,12 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:37:00 PM 05-11-2025",
+    "last update time": "05:57:17 PM 05-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
             "title": "Nepal vs United Arab Emirates (ICC CWC League 2, 2023-27)",
-            "src": "https://images.fancode.com/aig/match/v1/137256_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg",
             "team_1": "Nepal",
             "team_2": "United Arab Emirates",
             "status": "LIVE",
@@ -56,8 +56,8 @@
             "match_name": "Nam Dinh vs Gamba Osaka",
             "match_id": 136158,
             "startTime": "05:45:00 PM 05-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/OAeLgeJrS3SolFyh_xUaBQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136158_english_hls_5131ce8dca1165_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -290,18 +290,6 @@
             "startTime": "07:00:00 AM 06-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "Yas Links, Abu Dhabi",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi HSBC Championship",
-            "match_name": "Day 1",
-            "match_id": 137163,
-            "startTime": "12:30:00 PM 06-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Bangladesh vs Hong Kong, China (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web.png",
@@ -312,6 +300,18 @@
             "match_name": "Bangladesh vs Hong Kong, China",
             "match_id": 137825,
             "startTime": "05:45:00 AM 07-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "Yas Links, Abu Dhabi",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi HSBC Championship",
+            "match_name": "Day 1",
+            "match_id": 137163,
+            "startTime": "12:30:00 PM 06-11-2025"
         },
         {
             "event_category": "Cricket",
