@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:45:43 PM 06-11-2025",
+    "last update time": "02:06:01 PM 06-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,22 +14,8 @@
             "match_name": "New Zealand vs West Indies",
             "match_id": 137689,
             "startTime": "11:45:00 AM 06-11-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138012_5753_INA_TLS_FC-Web.jpg",
-            "team_1": "Timor-Leste",
-            "team_2": "Indonesia",
-            "status": "LIVE",
-            "event_name": "Rising East Asia Tri-Series, 2025",
-            "match_name": "Timor-Leste vs Indonesia",
-            "match_id": 138012,
-            "startTime": "11:30:00 AM 06-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762460135~acl=/*~id=84286535704864234747349133479054~hmac=6fb465be23305cd476de8e52d63d6a623ac7d105ae5ab04e54853a2ced7ab2ac"
         },
         {
             "event_category": "Football",
@@ -42,8 +28,8 @@
             "match_name": "Macarthur vs Cong An Ha Noi",
             "match_id": 136145,
             "startTime": "01:15:00 PM 06-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/o3tzKWcNQ1C1b4GKgjGDtA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136145_english_hls_dc0caf46b316141_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -56,8 +42,8 @@
             "match_name": "Day 1",
             "match_id": 137217,
             "startTime": "10:30:00 AM 06-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Iv16PUX6S3OA-cHerY7bDA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137217_english_hls_47cf9b40c594039_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -70,8 +56,8 @@
             "match_name": "Day 1",
             "match_id": 137163,
             "startTime": "12:30:00 PM 06-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/N2Rc7MorSaWWDTeILg4VMQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137163_english_hls_dcc69f8d5311203_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -444,6 +430,18 @@
             "match_name": "Session 2 - Qualifying Races",
             "match_id": 137969,
             "startTime": "12:30:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137837,
+            "startTime": "07:35:00 AM 08-11-2025"
         }
     ]
 }
