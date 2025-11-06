@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:30:05 AM 06-11-2025",
+    "last update time": "06:40:21 AM 06-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -21,11 +21,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138011_5753_INA_MYN_FC-Web.jpg",
             "team_1": "Indonesia",
             "team_2": "Myanmar",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Rising East Asia Tri-Series, 2025",
             "match_name": "Indonesia vs Myanmar",
             "match_id": 138011,
-            "startTime": "07:00:00 AM 06-11-2025"
+            "startTime": "07:00:00 AM 06-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/YBFi_0LXT_CAvfOWcsLYMQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138011_english_hls_e8fc3165a843123_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -76,6 +78,18 @@
             "startTime": "01:15:00 PM 06-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137827_5738_PAK_KUW_fc-web.png",
+            "team_1": "Pakistan",
+            "team_2": "Kuwait",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "Pakistan vs Kuwait",
+            "match_id": 137827,
+            "startTime": "07:35:00 AM 07-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Pohang Steelers vs Tampines Rovers FC (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136181_5648_PHG_TAM_fc-Web_1758118383614.jpg",
@@ -98,18 +112,6 @@
             "match_name": "Lion City Sailors vs Bangkok United",
             "match_id": 136169,
             "startTime": "03:30:00 PM 06-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137827_5738_PAK_KUW_fc-web.png",
-            "team_1": "Pakistan",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "Pakistan vs Kuwait",
-            "match_id": 137827,
-            "startTime": "07:35:00 AM 07-11-2025"
         },
         {
             "event_category": "Football",
@@ -281,18 +283,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
-            "status": "UPCOMING",
-            "event_name": "World Wide Technology Championship",
-            "match_name": "Day 1",
-            "match_id": 137973,
-            "startTime": "12:30:00 AM 07-11-2025"
-        },
-        {
-            "event_category": "Golf",
             "title": "Day 2 vs Mission Hills China (Aramco Shenzhen Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
             "team_1": "Day 2",
@@ -302,6 +292,18 @@
             "match_name": "Day 2",
             "match_id": 137218,
             "startTime": "10:30:00 AM 07-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+            "team_1": "Day 1",
+            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
+            "status": "UPCOMING",
+            "event_name": "World Wide Technology Championship",
+            "match_name": "Day 1",
+            "match_id": 137973,
+            "startTime": "12:30:00 AM 07-11-2025"
         },
         {
             "event_category": "MotoGP",
