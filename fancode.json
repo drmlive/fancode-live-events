@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:46:44 PM 06-11-2025",
+    "last update time": "02:56:53 PM 06-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "01:15:00 PM 06-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/o3tzKWcNQ1C1b4GKgjGDtA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136145_english_hls_dc0caf46b316141_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Mission Hills China (Aramco China Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Mission Hills China",
-            "status": "LIVE",
-            "event_name": "Aramco China Championship",
-            "match_name": "Day 1",
-            "match_id": 137217,
-            "startTime": "10:30:00 AM 06-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Iv16PUX6S3OA-cHerY7bDA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137217_english_hls_47cf9b40c594039_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -442,6 +428,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137837,
             "startTime": "07:35:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137838,
+            "startTime": "08:30:00 AM 08-11-2025"
         }
     ]
 }
