@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:15:39 AM 07-11-2025",
+    "last update time": "08:25:56 AM 07-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Afghanistan vs Nepal",
             "match_id": 137828,
             "startTime": "08:30:00 AM 07-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/LWkIOOF8SvSJySdWUX6BoA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137828_english_hls_eb8f41d9c083729_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -286,6 +286,18 @@
             "startTime": "01:05:00 PM 08-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137844,
+            "startTime": "02:00:00 PM 08-11-2025"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
@@ -310,18 +322,6 @@
             "startTime": "12:30:00 PM 07-11-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 137844,
-            "startTime": "02:00:00 PM 08-11-2025"
-        },
-        {
             "event_category": "MotoGP",
             "title": "Day 1 vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
@@ -334,18 +334,6 @@
             "startTime": "02:30:00 PM 07-11-2025"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Practice 1 vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
-            "team_1": "Practice 1",
-            "team_2": "Brazil",
-            "status": "UPCOMING",
-            "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
-            "match_name": "Practice 1",
-            "match_id": 118481,
-            "startTime": "08:00:00 PM 07-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Myanmar vs Indonesia (Rising East Asia Tri-Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138015_5753_MYN_INA_FC-Web.jpg",
@@ -356,6 +344,18 @@
             "match_name": "Myanmar vs Indonesia",
             "match_id": 138015,
             "startTime": "11:30:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 1 vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
+            "team_1": "Practice 1",
+            "team_2": "Brazil",
+            "status": "UPCOMING",
+            "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
+            "match_name": "Practice 1",
+            "match_id": 118481,
+            "startTime": "08:00:00 PM 07-11-2025"
         },
         {
             "event_category": "Motorsports",
