@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:57:25 AM 07-11-2025",
+    "last update time": "10:07:35 AM 07-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137830_5738_AUS_UAE_fc-web_1762413988168.png",
             "team_1": "Australia",
             "team_2": "United Arab Emirates",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Hong Kong Sixes, 2025",
             "match_name": "Australia vs United Arab Emirates",
             "match_id": 137830,
-            "startTime": "10:20:00 AM 07-11-2025"
+            "startTime": "10:20:00 AM 07-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/TUZY-q3ITzmSKOLbmb1bvg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137830_english_hls_4d020996e557013_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -138,6 +140,18 @@
             "startTime": "11:00:00 PM 07-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137839,
+            "startTime": "09:25:00 AM 08-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Elche CF vs Real Sociedad (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130942_5427_ELC_RS_fc-Web.jpg",
@@ -170,18 +184,6 @@
             "status": "UPCOMING",
             "event_name": "Hong Kong Sixes, 2025",
             "match_name": "TBC vs TBC",
-            "match_id": 137839,
-            "startTime": "09:25:00 AM 08-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "TBC vs TBC",
             "match_id": 137840,
             "startTime": "10:20:00 AM 08-11-2025"
         },
@@ -198,18 +200,6 @@
             "startTime": "11:15:00 AM 08-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
-            "team_1": "Day 2",
-            "team_2": "Mission Hills China",
-            "status": "UPCOMING",
-            "event_name": "Aramco China Championship",
-            "match_name": "Day 2",
-            "match_id": 137218,
-            "startTime": "10:30:00 AM 07-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138014_5753_TLS_INA_FC-Web.jpg",
@@ -220,6 +210,18 @@
             "match_name": "Timor-Leste vs Indonesia",
             "match_id": 138014,
             "startTime": "07:00:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
+            "team_1": "Day 2",
+            "team_2": "Mission Hills China",
+            "status": "UPCOMING",
+            "event_name": "Aramco China Championship",
+            "match_name": "Day 2",
+            "match_id": 137218,
+            "startTime": "10:30:00 AM 07-11-2025"
         },
         {
             "event_category": "Football",
