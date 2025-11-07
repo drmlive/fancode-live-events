@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:22:18 AM 07-11-2025",
+    "last update time": "05:32:29 AM 07-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137825_5738_BAN_HK_fc-web_1762413988202.png",
             "team_1": "Bangladesh",
             "team_2": "Hong Kong, China",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Hong Kong Sixes, 2025",
             "match_name": "Bangladesh vs Hong Kong, China",
             "match_id": 137825,
-            "startTime": "05:45:00 AM 07-11-2025"
+            "startTime": "05:45:00 AM 07-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Z9r_0517T8yU9n0Egx_GUw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137825_english_hls_60445c44a677245_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -268,6 +270,18 @@
             "startTime": "10:20:00 AM 08-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137841,
+            "startTime": "11:15:00 AM 08-11-2025"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 2 vs Mission Hills China (Aramco China Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
@@ -290,18 +304,6 @@
             "match_name": "Day 2",
             "match_id": 137164,
             "startTime": "12:30:00 PM 07-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 137841,
-            "startTime": "11:15:00 AM 08-11-2025"
         },
         {
             "event_category": "MotoGP",
