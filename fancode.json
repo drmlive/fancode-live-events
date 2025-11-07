@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:22:59 AM 08-11-2025",
+    "last update time": "12:33:12 AM 08-11-2025",
     "matches": [
+        {
+            "event_category": "Formula 1",
+            "title": "Sprint Qualifying vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
+            "team_1": "Sprint Qualifying",
+            "team_2": "Brazil",
+            "status": "LIVE",
+            "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
+            "match_name": "Sprint Qualifying",
+            "match_id": 118482,
+            "startTime": "12:00:00 AM 08-11-2025",
+            "dai_url": "https://dkslnbbux04ky.cloudfront.net/out/v1/5a817f337b234ff09487dbd20711bcd2/index.m3u8",
+            "adfree_url": "https://dkslnbbux04ky.cloudfront.net/out/v1/5a817f337b234ff09487dbd20711bcd2/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "Al-Najmah SC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
@@ -30,20 +44,6 @@
             "startTime": "09:35:00 PM 07-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/OqIOsjg2S6OFffbHshIcug/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137968_english_hls_6535ee454728585_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Sprint Qualifying vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
-            "team_1": "Sprint Qualifying",
-            "team_2": "Brazil",
-            "status": "LIVE",
-            "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
-            "match_name": "Sprint Qualifying",
-            "match_id": 118482,
-            "startTime": "12:00:00 AM 08-11-2025",
-            "dai_url": "https://dkslnbbux04ky.cloudfront.net/out/v1/5a817f337b234ff09487dbd20711bcd2/index.m3u8",
-            "adfree_url": "https://dkslnbbux04ky.cloudfront.net/out/v1/5a817f337b234ff09487dbd20711bcd2/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -167,30 +167,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Mirand\u00e9s vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/137824_CASACARDS_APP.png",
-            "team_1": "Mirand\u00e9s",
-            "team_2": "Sporting de Gij\u00f3n",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Mirand\u00e9s vs Sporting de Gij\u00f3n",
-            "match_id": 137824,
-            "startTime": "01:00:00 AM 08-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138014_5753_TLS_INA_FC-Web.jpg",
-            "team_1": "Timor-Leste",
-            "team_2": "Indonesia",
-            "status": "UPCOMING",
-            "event_name": "Rising East Asia Tri-Series, 2025",
-            "match_name": "Timor-Leste vs Indonesia",
-            "match_id": 138014,
-            "startTime": "07:00:00 AM 08-11-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Elche CF vs Real Sociedad (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130942_5427_ELC_RS_fc-Web.jpg",
             "team_1": "Elche CF",
@@ -212,6 +188,30 @@
             "match_name": "Watford F.C. vs Bristol City F.C.",
             "match_id": 136963,
             "startTime": "01:30:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mirand\u00e9s vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/137824_CASACARDS_APP.png",
+            "team_1": "Mirand\u00e9s",
+            "team_2": "Sporting de Gij\u00f3n",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Mirand\u00e9s vs Sporting de Gij\u00f3n",
+            "match_id": 137824,
+            "startTime": "01:00:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Timor-Leste vs Indonesia (Rising East Asia Tri-Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138014_5753_TLS_INA_FC-Web.jpg",
+            "team_1": "Timor-Leste",
+            "team_2": "Indonesia",
+            "status": "UPCOMING",
+            "event_name": "Rising East Asia Tri-Series, 2025",
+            "match_name": "Timor-Leste vs Indonesia",
+            "match_id": 138014,
+            "startTime": "07:00:00 AM 08-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -275,18 +275,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
-            "team_1": "Kashiwa Reysol",
-            "team_2": "Nagoya Grampus",
-            "status": "UPCOMING",
-            "event_name": "J League 2025",
-            "match_name": "Kashiwa Reysol vs Nagoya Grampus",
-            "match_id": 137941,
-            "startTime": "12:30:00 PM 08-11-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Stoke City F.C. vs Coventry City Football Club (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136962_5489_STK_CVC_fc-web.jpg",
             "team_1": "Stoke City F.C.",
@@ -296,6 +284,18 @@
             "match_name": "Stoke City F.C. vs Coventry City Football Club",
             "match_id": 136962,
             "startTime": "08:30:00 PM 08-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kashiwa Reysol vs Nagoya Grampus (J League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137941_4795_REY_NGY_fc-web.jpg",
+            "team_1": "Kashiwa Reysol",
+            "team_2": "Nagoya Grampus",
+            "status": "UPCOMING",
+            "event_name": "J League 2025",
+            "match_name": "Kashiwa Reysol vs Nagoya Grampus",
+            "match_id": 137941,
+            "startTime": "12:30:00 PM 08-11-2025"
         },
         {
             "event_category": "Football",
@@ -320,6 +320,18 @@
             "match_name": "Session 2 - Qualifying Races",
             "match_id": 137969,
             "startTime": "01:15:00 AM 08-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
+            "status": "UPCOMING",
+            "event_name": "World Wide Technology Championship",
+            "match_name": "Day 2",
+            "match_id": 137974,
+            "startTime": "01:30:00 AM 08-11-2025"
         },
         {
             "event_category": "Football",
@@ -383,18 +395,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Day 2 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "El Cardonal at Diamante - Los Cabos, Mexico",
-            "status": "UPCOMING",
-            "event_name": "World Wide Technology Championship",
-            "match_name": "Day 2",
-            "match_id": 137974,
-            "startTime": "01:30:00 AM 08-11-2025"
-        },
-        {
-            "event_category": "Golf",
             "title": "Day 3 vs Mission Hills China (Aramco China Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
             "team_1": "Day 3",
@@ -418,16 +418,16 @@
             "startTime": "12:30:00 PM 08-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "M\u00e1laga vs C\u00f3rdoba (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "M\u00e1laga",
-            "team_2": "C\u00f3rdoba",
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "M\u00e1laga vs C\u00f3rdoba",
-            "match_id": 137823,
-            "startTime": "01:30:00 AM 09-11-2025"
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137846,
+            "startTime": "06:40:00 AM 09-11-2025"
         }
     ]
 }
