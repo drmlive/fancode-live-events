@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:04:52 AM 08-11-2025",
+    "last update time": "11:15:08 AM 08-11-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "South Africa vs Pakistan (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/04_South-Africa-vs-Pakistan_1762568648719.png",
-            "team_1": "South Africa",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "South Africa vs Pakistan",
-            "match_id": 137840,
-            "startTime": "10:20:00 AM 08-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/w7cZV98VS_q3DhWaxD01FA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137840_english_hls_91fde3d8e495579_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Nepal vs India (Hong Kong Sixes, 2025)",
@@ -28,8 +14,22 @@
             "match_name": "Nepal vs India",
             "match_id": 137841,
             "startTime": "11:15:00 AM 08-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/h6RZUchGRdSptHWHVojwoQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137841_english_hls_9f3b94438e61683_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138015_5753_MYN_INA_FC-Web.jpg",
+            "team_1": "Indonesia",
+            "team_2": "Myanmar",
+            "status": "LIVE",
+            "event_name": "Rising East Asia Tri-Series, 2025",
+            "match_name": "Indonesia vs Myanmar",
+            "match_id": 138015,
+            "startTime": "11:30:00 AM 08-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/oAxFleWMRS-8VVGzCMGEvg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138015_english_hls_f7ae03cd3689571_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -108,18 +108,6 @@
             "match_name": "Kuwait vs Afghanistan",
             "match_id": 137844,
             "startTime": "02:00:00 PM 08-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Myanmar vs Indonesia (Rising East Asia Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138015_5753_MYN_INA_FC-Web.jpg",
-            "team_1": "Myanmar",
-            "team_2": "Indonesia",
-            "status": "UPCOMING",
-            "event_name": "Rising East Asia Tri-Series, 2025",
-            "match_name": "Myanmar vs Indonesia",
-            "match_id": 138015,
-            "startTime": "11:30:00 AM 08-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -456,6 +444,18 @@
             "match_name": "Session 4 - Race Off",
             "match_id": 137971,
             "startTime": "10:10:00 PM 08-11-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Qualifying vs Brazil (F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Brazil_GP_F1_Old_match-card.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Brazil",
+            "status": "UPCOMING",
+            "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
+            "match_name": "Qualifying",
+            "match_id": 118484,
+            "startTime": "11:30:00 PM 08-11-2025"
         }
     ]
 }
