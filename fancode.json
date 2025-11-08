@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:19:53 AM 08-11-2025",
+    "last update time": "06:30:05 AM 08-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "India vs Kuwait (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137836_5738_IND_KUW_fc-web.png",
+            "team_1": "India",
+            "team_2": "Kuwait",
+            "status": "LIVE",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "India vs Kuwait",
+            "match_id": 137836,
+            "startTime": "06:40:00 AM 08-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/h6GzTz56TFq4jQ3I_k5lpw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137836_english_hls_78d4b9cc9081475_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Nepal vs South Africa (Hong Kong Sixes, 2025)",
@@ -30,18 +44,6 @@
             "startTime": "06:30:00 AM 08-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/eE09s5ENTk66TGEirITqzg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137285_english_hls_56d34759da22421_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "India vs Kuwait (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137836_5738_IND_KUW_fc-web.png",
-            "team_1": "India",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "India vs Kuwait",
-            "match_id": 137836,
-            "startTime": "06:40:00 AM 08-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -344,18 +346,6 @@
             "startTime": "08:30:00 AM 09-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "M\u00e1laga vs C\u00f3rdoba (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "M\u00e1laga",
-            "team_2": "C\u00f3rdoba",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "M\u00e1laga vs C\u00f3rdoba",
-            "match_id": 137823,
-            "startTime": "01:30:00 AM 09-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -366,6 +356,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137849,
             "startTime": "09:25:00 AM 09-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "M\u00e1laga vs C\u00f3rdoba (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "M\u00e1laga",
+            "team_2": "C\u00f3rdoba",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "M\u00e1laga vs C\u00f3rdoba",
+            "match_id": 137823,
+            "startTime": "01:30:00 AM 09-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -404,6 +406,18 @@
             "startTime": "11:15:00 AM 09-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "TBC vs TBC",
+            "match_id": 137852,
+            "startTime": "12:10:00 PM 09-11-2025"
+        },
+        {
             "event_category": "Golf",
             "title": "Day 3 vs Mission Hills China (Aramco China Championship)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg",
@@ -426,18 +440,6 @@
             "match_name": "Day 3",
             "match_id": 137165,
             "startTime": "12:30:00 PM 08-11-2025"
-        },
-        {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs Aut\u00f3dromo Internacional do Algarve (QATAR AIRWAYS GRAND PRIX OF PORTUGAL)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Portugal_MOTOGP_2025_Old_match-card.jpg",
-            "team_1": "Day 2",
-            "team_2": "Aut\u00f3dromo Internacional do Algarve",
-            "status": "UPCOMING",
-            "event_name": "QATAR AIRWAYS GRAND PRIX OF PORTUGAL",
-            "match_name": "Portugal GP",
-            "match_id": 119280,
-            "startTime": "02:10:00 PM 08-11-2025"
         }
     ]
 }
