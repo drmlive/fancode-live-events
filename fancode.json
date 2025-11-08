@@ -1,31 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:06:06 PM 08-11-2025",
+    "last update time": "12:16:20 PM 08-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Nepal vs India (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Nepal-vs-India.png",
-            "team_1": "Nepal",
-            "team_2": "India",
-            "status": "LIVE",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "Nepal vs India",
-            "match_id": 137841,
-            "startTime": "11:15:00 AM 08-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/h6RZUchGRdSptHWHVojwoQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137841_english_hls_9f3b94438e61683_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "United Arab Emirates vs Sri Lanka (Hong Kong Sixes, 2025)",
+            "title": "Sri Lanka vs United Arab Emirates (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/05_UAE-vs-Sri-Lanka.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Sri Lanka",
+            "team_1": "Sri Lanka",
+            "team_2": "United Arab Emirates",
             "status": "LIVE",
             "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "United Arab Emirates vs Sri Lanka",
+            "match_name": "Sri Lanka vs United Arab Emirates",
             "match_id": 137842,
             "startTime": "12:10:00 PM 08-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/XB0ruWzhRIqT8YePC23x1w/master.m3u8",
@@ -369,11 +355,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png",
             "team_1": "Day 3",
             "team_2": "Yas Links, Abu Dhabi",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Abu Dhabi HSBC Championship",
             "match_name": "Day 3",
             "match_id": 137165,
-            "startTime": "12:30:00 PM 08-11-2025"
+            "startTime": "12:30:00 PM 08-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZbPlSMhpQXiTDyYUBV9lmw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137165_english_hls_64c91acf3d780_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -457,6 +445,18 @@
             "event_name": "F1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2025",
             "match_name": "Qualifying",
             "match_id": 118484,
+            "startTime": "11:30:00 PM 08-11-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Session 5 - Finals vs Miami (E1 Miami GP)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/E1-E1-Miami-GP--old-match-card_1761731303279.png",
+            "team_1": "Session 5 - Finals",
+            "team_2": "Miami",
+            "status": "UPCOMING",
+            "event_name": "E1 Miami GP",
+            "match_name": "Session 5 - Finals",
+            "match_id": 137972,
             "startTime": "11:30:00 PM 08-11-2025"
         }
     ]
