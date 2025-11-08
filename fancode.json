@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:11:50 AM 08-11-2025",
+    "last update time": "08:21:59 AM 08-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "United Arab Emirates vs India (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/02_UAE-vs-India_1762568575511.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "India",
+            "status": "LIVE",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "United Arab Emirates vs India",
+            "match_id": 137838,
+            "startTime": "08:30:00 AM 08-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/9vqZ8AW-QIG6wp3Z9OX2FQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137838_english_hls_59f8d8158b51840_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Nepal vs Sri Lanka (Hong Kong Sixes, 2025)",
@@ -44,18 +58,6 @@
             "startTime": "06:30:00 AM 08-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/eE09s5ENTk66TGEirITqzg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137285_english_hls_56d34759da22421_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "United Arab Emirates vs India (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/02_UAE-vs-India_1762568575511.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "India",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "United Arab Emirates vs India",
-            "match_id": 137838,
-            "startTime": "08:30:00 AM 08-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -190,18 +192,6 @@
             "startTime": "06:30:00 PM 08-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Neom SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Neom-SC-vs-Al-nassr_old.jpg",
-            "team_1": "Neom SC",
-            "team_2": "Al-Nassr FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Neom SC vs Al-Nassr FC",
-            "match_id": 137893,
-            "startTime": "07:20:00 PM 08-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Hong Kong Sixes, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -212,6 +202,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 137846,
             "startTime": "06:40:00 AM 09-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Neom SC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Neom-SC-vs-Al-nassr_old.jpg",
+            "team_1": "Neom SC",
+            "team_2": "Al-Nassr FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Neom SC vs Al-Nassr FC",
+            "match_id": 137893,
+            "startTime": "07:20:00 PM 08-11-2025"
         },
         {
             "event_category": "Football",
