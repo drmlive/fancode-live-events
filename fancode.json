@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:43:53 PM 09-11-2025",
+    "last update time": "02:54:14 PM 09-11-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-Final_Old-match-card_V2.jpg",
-            "team_1": "Pakistan",
-            "team_2": "Kuwait",
-            "status": "LIVE",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "Pakistan vs Kuwait",
-            "match_id": 137853,
-            "startTime": "01:05:00 PM 09-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ptc7RJKLTQe19D9Nzef2WA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137853_english_hls_b6840d1b522735_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
@@ -28,8 +14,8 @@
             "match_name": "Timor-Leste vs Myanmar",
             "match_id": 138016,
             "startTime": "07:00:00 AM 09-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qW1TWGzwSyCWbvzQCqBwVg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8"
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -58,6 +44,20 @@
             "startTime": "12:00:00 PM 09-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/KtgcevrJRyG9hocHUVIldw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137166_english_hls_5b54d9bbc484916_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-Final_Old-match-card_V2.jpg",
+            "team_1": "Pakistan",
+            "team_2": "Kuwait",
+            "status": "LIVE",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "Pakistan vs Kuwait",
+            "match_id": 137853,
+            "startTime": "01:05:00 PM 09-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ptc7RJKLTQe19D9Nzef2WA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137853_english_hls_b6840d1b522735_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
