@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:41:40 PM 09-11-2025",
+    "last update time": "12:51:54 PM 09-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,6 +19,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-Final_Old-match-card_V2.jpg",
+            "team_1": "Pakistan",
+            "team_2": "Kuwait",
+            "status": "LIVE",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "Pakistan vs Kuwait",
+            "match_id": 137853,
+            "startTime": "01:05:00 PM 09-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ptc7RJKLTQe19D9Nzef2WA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137853_english_hls_b6840d1b522735_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg",
             "team_1": "Timor-Leste",
@@ -30,20 +44,6 @@
             "startTime": "07:00:00 AM 09-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/qW1TWGzwSyCWbvzQCqBwVg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Kyoto Sanga vs Yokohama F. Marinos (J League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137942_4795_KYS_YKFM_fc-web.jpg",
-            "team_1": "Kyoto Sanga",
-            "team_2": "Yokohama F. Marinos",
-            "status": "LIVE",
-            "event_name": "J League 2025",
-            "match_name": "Kyoto Sanga vs Yokohama F. Marinos",
-            "match_id": 137942,
-            "startTime": "10:30:00 AM 09-11-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/137942_english_hls_6591f7195481228_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137942_english_hls_6591f7195481228_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -72,18 +72,6 @@
             "startTime": "12:00:00 PM 09-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/KtgcevrJRyG9hocHUVIldw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137166_english_hls_5b54d9bbc484916_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan vs Kuwait (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-Final_Old-match-card_V2.jpg",
-            "team_1": "Pakistan",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "Pakistan vs Kuwait",
-            "match_id": 137853,
-            "startTime": "01:05:00 PM 09-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -336,6 +324,18 @@
             "match_name": "Roma Women vs Valerenga Fotball Women",
             "match_id": 137560,
             "startTime": "11:15:00 PM 11-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "SKN St. Polten Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137563_5720_POL-W_CHE-W_fc-web.jpg",
+            "team_1": "SKN St. Polten Women",
+            "team_2": "Chelsea F.C. Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "SKN St. Polten Women vs Chelsea F.C. Women",
+            "match_id": 137563,
+            "startTime": "01:30:00 AM 12-11-2025"
         }
     ]
 }
