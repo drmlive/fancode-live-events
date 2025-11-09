@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:58:32 AM 09-11-2025",
+    "last update time": "10:08:48 AM 09-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,6 +19,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "England vs Kuwait (Hong Kong Sixes, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/06_England-vs-Kuwait-(1).png",
+            "team_1": "England",
+            "team_2": "Kuwait",
+            "status": "LIVE",
+            "event_name": "Hong Kong Sixes, 2025",
+            "match_name": "England vs Kuwait",
+            "match_id": 137850,
+            "startTime": "10:20:00 AM 09-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/0CSoP_ACTOisXNfWZEhBMg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137850_english_hls_1a0db4cd6579918_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg",
             "team_1": "Timor-Leste",
@@ -30,18 +44,6 @@
             "startTime": "07:00:00 AM 09-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/qW1TWGzwSyCWbvzQCqBwVg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England vs Kuwait (Hong Kong Sixes, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/06_England-vs-Kuwait-(1).png",
-            "team_1": "England",
-            "team_2": "Kuwait",
-            "status": "UPCOMING",
-            "event_name": "Hong Kong Sixes, 2025",
-            "match_name": "England vs Kuwait",
-            "match_id": 137850,
-            "startTime": "10:20:00 AM 09-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -330,6 +332,18 @@
             "match_name": "Indonesia vs Myanmar",
             "match_id": 138017,
             "startTime": "07:00:00 AM 11-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Queensland",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Queensland",
+            "match_id": 134025,
+            "startTime": "08:00:00 AM 11-11-2025"
         }
     ]
 }
