@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:44:58 AM 09-11-2025",
+    "last update time": "06:55:12 AM 09-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,8 +42,8 @@
             "match_name": "Timor-Leste vs Myanmar",
             "match_id": 138016,
             "startTime": "07:00:00 AM 09-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/qW1TWGzwSyCWbvzQCqBwVg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +142,6 @@
             "startTime": "06:30:00 PM 09-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Rayo Vallecano vs Real Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130944_5427_RVL_RM_fc-Web.jpg",
-            "team_1": "Rayo Vallecano",
-            "team_2": "Real Madrid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Rayo Vallecano vs Real Madrid",
-            "match_id": 130944,
-            "startTime": "08:45:00 PM 09-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg",
@@ -164,6 +152,18 @@
             "match_name": "New Zealand vs West Indies",
             "match_id": 137691,
             "startTime": "05:45:00 AM 10-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rayo Vallecano vs Real Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130944_5427_RVL_RM_fc-Web.jpg",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Real Madrid",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rayo Vallecano vs Real Madrid",
+            "match_id": 130944,
+            "startTime": "08:45:00 PM 09-11-2025"
         },
         {
             "event_category": "Football",
