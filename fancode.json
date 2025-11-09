@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:25:53 AM 09-11-2025",
+    "last update time": "07:36:05 AM 09-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,8 +42,8 @@
             "match_name": "Hong Kong, China vs Afghanistan",
             "match_id": 137847,
             "startTime": "07:35:00 AM 09-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/LVRflj3uQWuG6801Ao5UKw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137847_english_hls_0cac05045d10365_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -252,18 +252,6 @@
             "startTime": "06:00:00 PM 09-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Granada vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-            "team_1": "Granada",
-            "team_2": "Real Zaragoza",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Granada vs Real Zaragoza",
-            "match_id": 137822,
-            "startTime": "11:00:00 PM 09-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Tasmania vs South Australia (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134024_5609_TAS_SAU_fc-Web.jpg",
@@ -286,6 +274,18 @@
             "match_name": "New South Wales vs Victoria",
             "match_id": 134023,
             "startTime": "05:00:00 AM 10-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Granada vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Granada",
+            "team_2": "Real Zaragoza",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Granada vs Real Zaragoza",
+            "match_id": 137822,
+            "startTime": "11:00:00 PM 09-11-2025"
         },
         {
             "event_category": "Golf",
@@ -346,6 +346,18 @@
             "match_name": "Day 4",
             "match_id": 137976,
             "startTime": "01:30:00 AM 10-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Burgos vs Castell\u00f3n (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "Burgos",
+            "team_2": "Castell\u00f3n",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Burgos vs Castell\u00f3n",
+            "match_id": 137821,
+            "startTime": "01:00:00 AM 11-11-2025"
         }
     ]
 }
