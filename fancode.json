@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:14:38 PM 09-11-2025",
+    "last update time": "03:24:49 PM 09-11-2025",
     "matches": [
         {
             "event_category": "MotoGP",
@@ -44,20 +44,6 @@
             "startTime": "12:00:00 PM 09-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/KtgcevrJRyG9hocHUVIldw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137166_english_hls_5b54d9bbc484916_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138016_5753_TLS_MYN_FC-Web.jpg",
-            "team_1": "Timor-Leste",
-            "team_2": "Myanmar",
-            "status": "LIVE",
-            "event_name": "Rising East Asia Tri-Series, 2025",
-            "match_name": "Timor-Leste vs Myanmar",
-            "match_id": 138016,
-            "startTime": "07:00:00 AM 09-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qW1TWGzwSyCWbvzQCqBwVg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138016_english_hls_662895dd1731538_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -346,6 +332,18 @@
             "match_name": "ISPE WFC vs Tokyo Verdy Beleza",
             "match_id": 137950,
             "startTime": "02:00:00 PM 12-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Naegohyang Women's FC vs Suwon FC (AFC Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137951_5744_NAE-W_SUW_fc-web.jpg",
+            "team_1": "Naegohyang Women's FC",
+            "team_2": "Suwon FC",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Champions League 2025-26",
+            "match_name": "Naegohyang Women's FC vs Suwon FC",
+            "match_id": 137951,
+            "startTime": "06:00:00 PM 12-11-2025"
         }
     ]
 }
