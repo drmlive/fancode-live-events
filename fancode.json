@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:36:53 AM 11-11-2025",
+    "last update time": "06:47:05 AM 11-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+            "team_1": "Bangladesh",
+            "team_2": "Ireland",
+            "status": "UPCOMING",
+            "event_name": "Ireland tour of Bangladesh, 2025",
+            "match_name": "Bangladesh vs Ireland",
+            "match_id": 138237,
+            "startTime": "09:00:00 AM 11-11-2025"
+        },
         {
             "event_category": "Cricket",
             "title": "Tasmania vs South Australia (Sheffield Shield, 2025-26)",
@@ -33,27 +45,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-            "team_1": "Bangladesh",
-            "team_2": "Ireland",
-            "status": "UPCOMING",
-            "event_name": "Ireland tour of Bangladesh, 2025",
-            "match_name": "Bangladesh vs Ireland",
-            "match_id": 138237,
-            "startTime": "09:00:00 AM 11-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Indonesia vs Myanmar (Rising East Asia Tri-Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138017_5753_INA_MYN_FC-Web.jpg",
             "team_1": "Indonesia",
             "team_2": "Myanmar",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Rising East Asia Tri-Series, 2025",
             "match_name": "Indonesia vs Myanmar",
             "match_id": 138017,
-            "startTime": "07:00:00 AM 11-11-2025"
+            "startTime": "07:00:00 AM 11-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/qBSPsaQhTQOxUJ3PU6ldSA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138017_english_hls_a1adf02fad71641_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
