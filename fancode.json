@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:23:37 AM 13-11-2025",
+    "last update time": "01:33:55 AM 13-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -14,8 +14,8 @@
             "match_name": "Manchester United Women vs Paris Saint-Germain Women",
             "match_id": 137567,
             "startTime": "01:30:00 AM 13-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/n_lWcQgCRZ6Ikar4196foA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137567_english_hls_a2d42a567a46880_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -135,18 +135,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Melbourne City Women vs Lion City Sailors (AFC Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137946_5744_MLC-W_LIO_fc-web.jpg",
-            "team_1": "Melbourne City Women",
-            "team_2": "Lion City Sailors",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Champions League 2025-26",
-            "match_name": "Melbourne City Women vs Lion City Sailors",
-            "match_id": 137946,
-            "startTime": "01:30:00 PM 13-11-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "United Arab Emirates vs Iraq (FIFA World Cup Asian Qualifiers)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
             "team_1": "United Arab Emirates",
@@ -156,6 +144,18 @@
             "match_name": "United Arab Emirates vs Iraq",
             "match_id": 138101,
             "startTime": "09:30:00 PM 13-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City Women vs Lion City Sailors (AFC Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137946_5744_MLC-W_LIO_fc-web.jpg",
+            "team_1": "Melbourne City Women",
+            "team_2": "Lion City Sailors",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Champions League 2025-26",
+            "match_name": "Melbourne City Women vs Lion City Sailors",
+            "match_id": 137946,
+            "startTime": "01:30:00 PM 13-11-2025"
         },
         {
             "event_category": "Football",
@@ -206,18 +206,6 @@
             "startTime": "12:30:00 PM 13-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 1 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
-            "status": "UPCOMING",
-            "event_name": "Butterfield Bermuda Championship",
-            "match_name": "Day 1",
-            "match_id": 137977,
-            "startTime": "10:30:00 PM 13-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Timor-Leste vs Myanmar (Rising East Asia Tri-Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138022_5753_TLS_MYN_FC-Web.jpg",
@@ -228,6 +216,18 @@
             "match_name": "Timor-Leste vs Myanmar",
             "match_id": 138022,
             "startTime": "07:00:00 AM 14-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 1 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
+            "team_1": "Day 1",
+            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
+            "status": "UPCOMING",
+            "event_name": "Butterfield Bermuda Championship",
+            "match_name": "Day 1",
+            "match_id": 137977,
+            "startTime": "10:30:00 PM 13-11-2025"
         },
         {
             "event_category": "Golf",
