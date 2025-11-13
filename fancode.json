@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:39:04 PM 13-11-2025",
+    "last update time": "03:49:17 PM 13-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,34 +18,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138237_english_hls_3626c1011457026_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Queensland vs Western Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Western Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Queensland vs Western Australia",
-            "match_id": 134025,
-            "startTime": "08:00:00 AM 11-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/hAM465abR_6XQqth1aQ8Sw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134025_english_hls_f309bf133764617_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne City Women vs Lion City Sailors (AFC Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137946_5744_MLC-W_LIO_fc-web.jpg",
-            "team_1": "Melbourne City Women",
-            "team_2": "Lion City Sailors",
-            "status": "LIVE",
-            "event_name": "AFC Women's Champions League 2025-26",
-            "match_name": "Melbourne City Women vs Lion City Sailors",
-            "match_id": 137946,
-            "startTime": "01:30:00 PM 13-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/fqMMaBQXSnKFJZabpGQblQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137946_english_hls_ec120e4ade32156_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 1 vs Jumeirah Golf Estates, Earth Course (DP World Tour Championship, Dubai)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/DP-WORLD_Old_match-card_2.jpg",
@@ -58,6 +30,18 @@
             "startTime": "12:30:00 PM 13-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/QlYRSb4tRBap6FgIuQL5Jg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137167_english_hls_11108ed49784558_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134025_5609_WAU_QUN_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "Western Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Queensland vs Western Australia",
+            "match_id": 134025,
+            "startTime": "08:00:00 AM 11-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -180,18 +164,6 @@
             "startTime": "01:30:00 PM 14-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
-            "team_1": "Day 2",
-            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
-            "status": "UPCOMING",
-            "event_name": "Butterfield Bermuda Championship",
-            "match_name": "Day 2",
-            "match_id": 137978,
-            "startTime": "11:30:00 PM 14-11-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Real Valladolid vs Las Palmas (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/138060_CASACARDS_APP.png",
@@ -202,6 +174,18 @@
             "match_name": "Real Valladolid vs Las Palmas",
             "match_id": 138060,
             "startTime": "01:00:00 AM 15-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
+            "team_1": "Day 2",
+            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
+            "status": "UPCOMING",
+            "event_name": "Butterfield Bermuda Championship",
+            "match_name": "Day 2",
+            "match_id": 137978,
+            "startTime": "11:30:00 PM 14-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -454,6 +438,18 @@
             "match_name": "Real Zaragoza vs Huesca",
             "match_id": 138063,
             "startTime": "01:30:00 AM 17-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka A vs Hong Kong, China (ACC Asia Cup Rising Stars 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/138248_CASACARDS_APP.png",
+            "team_1": "Sri Lanka A",
+            "team_2": "Hong Kong, China",
+            "status": "UPCOMING",
+            "event_name": "ACC Asia Cup Rising Stars 2025",
+            "match_name": "Sri Lanka A vs Hong Kong, China",
+            "match_id": 138248,
+            "startTime": "12:30:00 PM 17-11-2025"
         }
     ]
 }
