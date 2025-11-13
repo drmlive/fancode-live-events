@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:39:07 AM 14-11-2025",
+    "last update time": "12:49:15 AM 14-11-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Nigeria vs Gabon (CAF World Cup Qualifiers)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria_vs_Gabon_FC-Web.jpg",
-            "team_1": "Nigeria",
-            "team_2": "Gabon",
-            "status": "LIVE",
-            "event_name": "CAF World Cup Qualifiers",
-            "match_name": "Nigeria vs Gabon",
-            "match_id": 138150,
-            "startTime": "09:30:00 PM 13-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/lfxw6MVoRauXMhbtkeIn0A/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138150_english_hls_8cebbcf49114628_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Cameroon vs DR Congo (CAF World Cup Qualifiers)",
@@ -452,6 +438,18 @@
             "match_name": "Wuhan Jiangda Women vs PFC Nasaf",
             "match_id": 137949,
             "startTime": "04:30:00 PM 17-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh A vs Afghanistan A (ACC Asia Cup Rising Stars 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/138249_CASACARDS_APP.png",
+            "team_1": "Bangladesh A",
+            "team_2": "Afghanistan A",
+            "status": "UPCOMING",
+            "event_name": "ACC Asia Cup Rising Stars 2025",
+            "match_name": "Bangladesh A vs Afghanistan A",
+            "match_id": 138249,
+            "startTime": "08:00:00 PM 17-11-2025"
         }
     ]
 }
