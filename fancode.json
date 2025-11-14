@@ -1,35 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:37:52 AM 15-11-2025",
+    "last update time": "04:48:08 AM 15-11-2025",
     "matches": [
         {
-            "event_category": "Football",
-            "title": "Real Valladolid vs Las Palmas (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/138060_CASACARDS_APP.png",
-            "team_1": "Real Valladolid",
-            "team_2": "Las Palmas",
+            "event_category": "Cricket",
+            "title": "South Australia vs Tasmania (One Day Cup, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133941_5606_TAS_SAU_fc-web.jpg",
+            "team_1": "South Australia",
+            "team_2": "Tasmania",
             "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Valladolid vs Las Palmas",
-            "match_id": 138060,
-            "startTime": "01:00:00 AM 15-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/-a8F8GT0Th2qSU_JO4LhPg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138060_english_hls_95776d147e11786_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 2 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
-            "team_1": "Day 2",
-            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
-            "status": "LIVE",
-            "event_name": "Butterfield Bermuda Championship",
-            "match_name": "Day 2",
-            "match_id": 137978,
-            "startTime": "11:30:00 PM 14-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/f7IslqbKRLOIAijRrVv3xw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137978_english_hls_c0f2f2c28e47805_1ta-di_h264/index.m3u8"
+            "event_name": "One Day Cup, 2025-26",
+            "match_name": "South Australia vs Tasmania",
+            "match_id": 133941,
+            "startTime": "05:00:00 AM 15-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/F0a5bePgQiub7TQZzhC55w/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133941_english_hls_23fa5a5f2895880_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -54,18 +40,6 @@
             "match_name": "Sri Lanka A vs Afghanistan A",
             "match_id": 138245,
             "startTime": "05:00:00 PM 15-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "South Australia vs Tasmania (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133941_5606_TAS_SAU_fc-web.jpg",
-            "team_1": "South Australia",
-            "team_2": "Tasmania",
-            "status": "UPCOMING",
-            "event_name": "One Day Cup, 2025-26",
-            "match_name": "South Australia vs Tasmania",
-            "match_id": 133941,
-            "startTime": "05:00:00 AM 15-11-2025"
         },
         {
             "event_category": "Football",
@@ -426,6 +400,30 @@
             "match_name": "India A vs Oman",
             "match_id": 138251,
             "startTime": "08:00:00 PM 18-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Deccan Gladiators vs Delhi Bulls (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138204_5763_DG_DB_fc-web.png",
+            "team_1": "Deccan Gladiators",
+            "team_2": "Delhi Bulls",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Deccan Gladiators vs Delhi Bulls",
+            "match_id": 138204,
+            "startTime": "09:30:00 PM 18-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Bangladesh vs India (AFC Asia Cup Qualifiers)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asia-Cup-Qualifiers--old-.png",
+            "team_1": "Bangladesh",
+            "team_2": "India",
+            "status": "UPCOMING",
+            "event_name": "AFC Asia Cup Qualifiers",
+            "match_name": "Bangladesh vs India",
+            "match_id": 137370,
+            "startTime": "07:30:00 PM 18-11-2025"
         }
     ]
 }
