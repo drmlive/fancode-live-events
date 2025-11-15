@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:40:28 PM 15-11-2025",
+    "last update time": "04:50:40 PM 15-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138245_5765_SL-A_AF-A_fc-web_1763068128437.jpg",
             "team_1": "Sri Lanka A",
             "team_2": "Afghanistan A",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ACC Asia Cup Rising Stars 2025",
             "match_name": "Sri Lanka A vs Afghanistan A",
             "match_id": 138245,
-            "startTime": "05:00:00 PM 15-11-2025"
+            "startTime": "05:00:00 PM 15-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763248840~acl=/*~id=52350084453702976945207356326394~hmac=ddd46cc4a490638c3301a8c48a6c8085379bd1ffcd92198631c3d2fe62761173"
         },
         {
             "event_category": "MotoGP",
@@ -200,18 +202,6 @@
             "startTime": "12:30:00 AM 17-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
-            "team_1": "Day 4",
-            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
-            "status": "UPCOMING",
-            "event_name": "Butterfield Bermuda Championship",
-            "match_name": "Day 4",
-            "match_id": 137980,
-            "startTime": "09:30:00 PM 16-11-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Real Zaragoza vs Huesca (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/138063_CASACARDS_APP.png",
@@ -222,6 +212,18 @@
             "match_name": "Real Zaragoza vs Huesca",
             "match_id": 138063,
             "startTime": "01:30:00 AM 17-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-Bermuda-Championship_2025_match-card_OLd_match-card.jpg",
+            "team_1": "Day 4",
+            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
+            "status": "UPCOMING",
+            "event_name": "Butterfield Bermuda Championship",
+            "match_name": "Day 4",
+            "match_id": 137980,
+            "startTime": "09:30:00 PM 16-11-2025"
         },
         {
             "event_category": "Cricket",
