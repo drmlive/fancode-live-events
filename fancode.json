@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:25:22 AM 17-11-2025",
+    "last update time": "03:35:29 AM 17-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "12:30:00 AM 17-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/0P_zbICqSxai9NrC9sc3aw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138152_english_hls_9d1f489bc949759_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Zaragoza vs Huesca (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/138063_CASACARDS_APP.png",
-            "team_1": "Real Zaragoza",
-            "team_2": "Huesca",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Zaragoza vs Huesca",
-            "match_id": 138063,
-            "startTime": "01:30:00 AM 17-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/tLBuw5D4Si27w5d8y-F0dw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138063_english_hls_38f195a62968715_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -425,6 +411,18 @@
             "event_name": "UEFA Women's Champions League 2025-26",
             "match_name": "FC Twente Women vs Club Atletico de Madrid Femenino",
             "match_id": 137588,
+            "startTime": "01:30:00 AM 20-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Paris FC Women vs Benfica Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137587_5720_PFC-W_BEN-W_fc-web.jpg",
+            "team_1": "Paris FC Women",
+            "team_2": "Benfica Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Paris FC Women vs Benfica Women",
+            "match_id": 137587,
             "startTime": "01:30:00 AM 20-11-2025"
         }
     ]
