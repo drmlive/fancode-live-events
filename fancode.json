@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:24:08 PM 18-11-2025",
+    "last update time": "03:34:19 PM 18-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Biratnagar-Kings_vs_Pokhara-Avengers_Old_match-card_02.jpg",
             "team_1": "Biratnagar Kings",
             "team_2": "Pokhara Avengers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Nepal Premier League, 2025",
             "match_name": "Biratnagar Kings vs Pokhara Avengers",
             "match_id": 138295,
-            "startTime": "03:45:00 PM 18-11-2025"
+            "startTime": "03:45:00 PM 18-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138295_english_hls_35bd7ab90585502_1adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138295_english_hls_35bd7ab90585502_1adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -28,20 +30,6 @@
             "startTime": "03:00:00 PM 18-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763501016~acl=/*~id=18321088492899604655667070905573~hmac=848e5c057d7372ec733d86ef085cba009fbaee32190d87404ab6353064e3efa0"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Karnali Yaks vs Chitwan Rhinos (Nepal Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Chitwan-Rhinos_vs_Karnali-Yaks_Old_match-card_02.jpg",
-            "team_1": "Karnali Yaks",
-            "team_2": "Chitwan Rhinos",
-            "status": "LIVE",
-            "event_name": "Nepal Premier League, 2025",
-            "match_name": "Karnali Yaks vs Chitwan Rhinos",
-            "match_id": 138294,
-            "startTime": "11:30:00 AM 18-11-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138294_english_hls_6ae83aca8751323_1adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138294_english_hls_6ae83aca8751323_1adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -165,18 +153,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Kathmandu Gorkhas vs Sudurpaschim Royals (Nepal Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Kathmandu-Gurkhas_vs_Sudurpaschim-Royals_Old_match-card_02.jpg",
-            "team_1": "Kathmandu Gorkhas",
-            "team_2": "Sudurpaschim Royals",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2025",
-            "match_name": "Kathmandu Gorkhas vs Sudurpaschim Royals",
-            "match_id": 138296,
-            "startTime": "03:45:00 PM 19-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Royal Champs vs Vista Riders (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138206_5763_ROC_VTR_fc-web.png",
             "team_1": "Royal Champs",
@@ -186,6 +162,18 @@
             "match_name": "Royal Champs vs Vista Riders",
             "match_id": 138206,
             "startTime": "07:15:00 PM 19-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kathmandu Gorkhas vs Sudurpaschim Royals (Nepal Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Kathmandu-Gurkhas_vs_Sudurpaschim-Royals_Old_match-card_02.jpg",
+            "team_1": "Kathmandu Gorkhas",
+            "team_2": "Sudurpaschim Royals",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2025",
+            "match_name": "Kathmandu Gorkhas vs Sudurpaschim Royals",
+            "match_id": 138296,
+            "startTime": "03:45:00 PM 19-11-2025"
         },
         {
             "event_category": "Football",
@@ -438,6 +426,18 @@
             "match_name": "Lumbini Lions vs Chitwan Rhinos",
             "match_id": 138297,
             "startTime": "03:45:00 PM 20-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "UAE Bulls vs Vista Riders (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web.png",
+            "team_1": "UAE Bulls",
+            "team_2": "Vista Riders",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "UAE Bulls vs Vista Riders",
+            "match_id": 138209,
+            "startTime": "07:15:00 PM 20-11-2025"
         }
     ]
 }
