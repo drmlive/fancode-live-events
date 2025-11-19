@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:55:17 PM 19-11-2025",
+    "last update time": "11:05:32 PM 19-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/137583_5720_WOL-W_MUN-W_fc-web.jpg",
             "team_1": "VfL Wolfsburg Women",
             "team_2": "Manchester United Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "UEFA Women's Champions League 2025-26",
             "match_name": "VfL Wolfsburg Women vs Manchester United Women",
             "match_id": 137583,
-            "startTime": "11:15:00 PM 19-11-2025"
+            "startTime": "11:15:00 PM 19-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/MrmZ-UzxTuGkA98KApTxKw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137583_english_hls_04c50fde5622470_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -86,6 +88,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138042_english_hls_37719ef62380360_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Juventus Women vs Olympique Lyonnais Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137584_5720_JUV-W_OLY-W_fc-web.jpg",
+            "team_1": "Juventus Women",
+            "team_2": "Olympique Lyonnais Women",
+            "status": "LIVE",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Juventus Women vs Olympique Lyonnais Women",
+            "match_id": 137584,
+            "startTime": "11:15:00 PM 19-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/tgQdJY_KR_uwey_M5ZHOJQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137584_english_hls_c460e9f6ec94769_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
@@ -108,18 +124,6 @@
             "match_name": "Leeward Islands Hurricanes vs Windward Islands Volcanoes",
             "match_id": 138046,
             "startTime": "11:30:00 PM 19-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Juventus Women vs Olympique Lyonnais Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137584_5720_JUV-W_OLY-W_fc-web.jpg",
-            "team_1": "Juventus Women",
-            "team_2": "Olympique Lyonnais Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Juventus Women vs Olympique Lyonnais Women",
-            "match_id": 137584,
-            "startTime": "11:15:00 PM 19-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -396,6 +400,18 @@
             "match_name": "Netherlands Women vs United Arab Emirates Women",
             "match_id": 138075,
             "startTime": "07:30:00 AM 21-11-2025"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 1 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
+            "team_1": "Practice 1",
+            "team_2": "United States of America",
+            "status": "UPCOMING",
+            "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
+            "match_name": "Practice 1",
+            "match_id": 118486,
+            "startTime": "06:00:00 AM 21-11-2025"
         }
     ]
 }
