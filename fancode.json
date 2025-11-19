@@ -1,19 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:27:12 PM 19-11-2025",
+    "last update time": "03:37:23 PM 19-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Kathmandu Gorkhas vs Sudurpaschim Royals (Nepal Premier League, 2025)",
+            "title": "Sudurpaschim Royals vs Kathmandu Gorkhas (Nepal Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Kathmandu-Gurkhas_vs_Sudurpaschim-Royals_Old_match-card_02.jpg",
-            "team_1": "Kathmandu Gorkhas",
-            "team_2": "Sudurpaschim Royals",
-            "status": "UPCOMING",
+            "team_1": "Sudurpaschim Royals",
+            "team_2": "Kathmandu Gorkhas",
+            "status": "LIVE",
             "event_name": "Nepal Premier League, 2025",
-            "match_name": "Kathmandu Gorkhas vs Sudurpaschim Royals",
+            "match_name": "Sudurpaschim Royals vs Kathmandu Gorkhas",
             "match_id": 138296,
-            "startTime": "03:45:00 PM 19-11-2025"
+            "startTime": "03:45:00 PM 19-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138296_english_hls_4099c76e8233550_1adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138296_english_hls_4099c76e8233550_1adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -28,20 +30,6 @@
             "startTime": "09:00:00 AM 19-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ubI70thYRY-RacdGcyWydQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c90019_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_ODIs_old.jpg",
-            "team_1": "West Indies",
-            "team_2": "New Zealand",
-            "status": "LIVE",
-            "event_name": "West Indies tour of New Zealand, 2025",
-            "match_name": "West Indies vs New Zealand",
-            "match_id": 137694,
-            "startTime": "06:30:00 AM 19-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1763585148~acl=/*~id=22828516963776451581638365653246~hmac=49118d0d78ba3bc904d9e714e5c576c39a5a6c72add945276f56cef60f5ff6ee"
         },
         {
             "event_category": "Cricket",
@@ -301,18 +289,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Lumbini Lions vs Chitwan Rhinos (Nepal Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Lumbini-Lions_vs_Chitwan-Rhinos_Old_match-card_02.jpg",
-            "team_1": "Lumbini Lions",
-            "team_2": "Chitwan Rhinos",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2025",
-            "match_name": "Lumbini Lions vs Chitwan Rhinos",
-            "match_id": 138297,
-            "startTime": "03:45:00 PM 20-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "UAE Bulls vs Vista Riders (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web_1763465215308.png",
             "team_1": "UAE Bulls",
@@ -322,6 +298,18 @@
             "match_name": "UAE Bulls vs Vista Riders",
             "match_id": 138209,
             "startTime": "07:15:00 PM 20-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Lumbini Lions vs Chitwan Rhinos (Nepal Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Lumbini-Lions_vs_Chitwan-Rhinos_Old_match-card_02.jpg",
+            "team_1": "Lumbini Lions",
+            "team_2": "Chitwan Rhinos",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2025",
+            "match_name": "Lumbini Lions vs Chitwan Rhinos",
+            "match_id": 138297,
+            "startTime": "03:45:00 PM 20-11-2025"
         },
         {
             "event_category": "Football",
