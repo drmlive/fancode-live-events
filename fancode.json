@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:41:03 AM 20-11-2025",
+    "last update time": "03:51:13 AM 20-11-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Arsenal Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137586_5720_ARS-W_RM-W_fc-web.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Real Madrid Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Arsenal Women vs Real Madrid Women",
-            "match_id": 137586,
-            "startTime": "01:30:00 AM 20-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/UW-wgEYtRtKkO0m94qhlFg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137586_english_hls_8a6f3b494730331_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)",
@@ -58,6 +44,20 @@
             "startTime": "01:30:00 AM 20-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/7F5ZdTRARQS1p14HvnXOnA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137587_english_hls_daf48bb8fd61320_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Arsenal Women vs Real Madrid Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137586_5720_ARS-W_RM-W_fc-web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Real Madrid Women",
+            "status": "LIVE",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Arsenal Women vs Real Madrid Women",
+            "match_id": 137586,
+            "startTime": "01:30:00 AM 20-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/UW-wgEYtRtKkO0m94qhlFg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137586_english_hls_8a6f3b494730331_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -278,18 +278,6 @@
             "startTime": "07:00:00 AM 21-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 1 vs Sea Island Golf Club (The RSM Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
-            "team_1": "Featured Groups - Day 1",
-            "team_2": "Sea Island Golf Club",
-            "status": "UPCOMING",
-            "event_name": "The RSM Classic",
-            "match_name": "Featured Groups - Day 1",
-            "match_id": 138271,
-            "startTime": "07:00:00 PM 20-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Thailand Women vs Papua New Guinea Women (ICC Women's Emerging Nations Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138088_5758_TL-W_PN-W_FC-Web.jpg",
@@ -312,6 +300,18 @@
             "match_name": "Netherlands Women vs United Arab Emirates Women",
             "match_id": 138075,
             "startTime": "07:30:00 AM 21-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 1 vs Sea Island Golf Club (The RSM Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+            "team_1": "Featured Groups - Day 1",
+            "team_2": "Sea Island Golf Club",
+            "status": "UPCOMING",
+            "event_name": "The RSM Classic",
+            "match_name": "Featured Groups - Day 1",
+            "match_id": 138271,
+            "startTime": "07:00:00 PM 20-11-2025"
         },
         {
             "event_category": "Golf",
@@ -386,16 +386,16 @@
             "startTime": "07:30:00 AM 21-11-2025"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Practice 2 vs United States of America (F1 HEINEKEN LAS VEGAS GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_LAS_Vegas_Old_match-card.png",
-            "team_1": "Practice 2",
-            "team_2": "United States of America",
+            "event_category": "Cricket",
+            "title": "Deccan Gladiators vs Quetta Qavalry (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138211_5763_DG_QQY_fc-web.png",
+            "team_1": "Deccan Gladiators",
+            "team_2": "Quetta Qavalry",
             "status": "UPCOMING",
-            "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2025",
-            "match_name": "Practice 2",
-            "match_id": 118487,
-            "startTime": "09:30:00 AM 21-11-2025"
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Deccan Gladiators vs Quetta Qavalry",
+            "match_id": 138211,
+            "startTime": "05:00:00 PM 21-11-2025"
         }
     ]
 }
