@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:13:27 PM 19-11-2025",
+    "last update time": "09:23:42 PM 19-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138207_5763_AJT_QQY_fc-web.png",
             "team_1": "Ajman Titans",
             "team_2": "Quetta Qavalry",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Abu Dhabi T10, 2025",
             "match_name": "Ajman Titans vs Quetta Qavalry",
             "match_id": 138207,
-            "startTime": "09:30:00 PM 19-11-2025"
+            "startTime": "09:30:00 PM 19-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/1vX30pXiTEWZH1_tsM8rvg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138207_english_hls_5230361d2f54310_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -183,6 +185,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "UAE Bulls vs Vista Riders (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web_1763465215308.png",
+            "team_1": "UAE Bulls",
+            "team_2": "Vista Riders",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "UAE Bulls vs Vista Riders",
+            "match_id": 138209,
+            "startTime": "07:15:00 PM 20-11-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Papua New Guinea Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138086_5758_PN-W_UAE-W_FC-Web.jpg",
             "team_1": "Papua New Guinea Women",
@@ -204,18 +218,6 @@
             "match_name": "Thailand Women vs Netherlands Women",
             "match_id": 138073,
             "startTime": "08:00:00 AM 20-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "UAE Bulls vs Vista Riders (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138209_5763_DB_VTR_fc-web_1763465215308.png",
-            "team_1": "UAE Bulls",
-            "team_2": "Vista Riders",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "UAE Bulls vs Vista Riders",
-            "match_id": 138209,
-            "startTime": "07:15:00 PM 20-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -395,6 +397,18 @@
             "event_name": "ICC Women's Emerging Nations Trophy, 2025",
             "match_name": "Thailand Women vs Papua New Guinea Women",
             "match_id": 138088,
+            "startTime": "08:00:00 AM 21-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Netherlands Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138075_5758_ND-W_UAE-W_FC-Web.jpg",
+            "team_1": "Netherlands Women",
+            "team_2": "United Arab Emirates Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+            "match_name": "Netherlands Women vs United Arab Emirates Women",
+            "match_id": 138075,
             "startTime": "08:00:00 AM 21-11-2025"
         }
     ]
