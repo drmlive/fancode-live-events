@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:35:29 AM 20-11-2025",
+    "last update time": "08:45:41 AM 20-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+            "team_1": "Bangladesh",
+            "team_2": "Ireland",
+            "status": "LIVE",
+            "event_name": "Ireland tour of Bangladesh, 2025",
+            "match_name": "Bangladesh vs Ireland",
+            "match_id": 138238,
+            "startTime": "09:00:00 AM 19-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Pj-I2d3aS_eBBxFXv4rUcA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c31988_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Papua New Guinea Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -30,18 +44,6 @@
             "startTime": "07:30:00 AM 20-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Epz4nU-mRfGPEW8v3r4nYA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138073_english_hls_07d50909df94591_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-            "team_1": "Bangladesh",
-            "team_2": "Ireland",
-            "status": "PAUSED",
-            "event_name": "Ireland tour of Bangladesh, 2025",
-            "match_name": "Bangladesh vs Ireland",
-            "match_id": 138238,
-            "startTime": "09:00:00 AM 19-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -272,18 +274,6 @@
             "startTime": "07:00:00 PM 20-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 1 vs Sea Island Golf Club (The RSM Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
-            "team_1": "World Feed - Day 1",
-            "team_2": "Sea Island Golf Club",
-            "status": "UPCOMING",
-            "event_name": "The RSM Classic",
-            "match_name": "World Feed - Day 1",
-            "match_id": 138270,
-            "startTime": "10:30:00 PM 20-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Bangladesh A vs India A (ACC Asia Cup Rising Stars 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
@@ -294,6 +284,18 @@
             "match_name": "Bangladesh A vs India A",
             "match_id": 138254,
             "startTime": "03:00:00 PM 21-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 1 vs Sea Island Golf Club (The RSM Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+            "team_1": "World Feed - Day 1",
+            "team_2": "Sea Island Golf Club",
+            "status": "UPCOMING",
+            "event_name": "The RSM Classic",
+            "match_name": "World Feed - Day 1",
+            "match_id": 138270,
+            "startTime": "10:30:00 PM 20-11-2025"
         },
         {
             "event_category": "Formula 1",
