@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:54:53 AM 20-11-2025",
+    "last update time": "08:05:01 AM 20-11-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Leeward Islands Hurricanes vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Leeward Islands Hurricanes",
-            "team_2": "Windward Islands Volcanoes",
-            "status": "LIVE",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Leeward Islands Hurricanes vs Windward Islands Volcanoes",
-            "match_id": 138046,
-            "startTime": "11:30:00 PM 19-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/8Na1mliBQmaKoRMW1cwksg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138046_english_hls_396bb5eb2159172_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Papua New Guinea Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -44,6 +30,20 @@
             "startTime": "07:30:00 AM 20-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Epz4nU-mRfGPEW8v3r4nYA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138073_english_hls_07d50909df94591_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leeward Islands Hurricanes vs Windward Islands Volcanoes (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Leeward Islands Hurricanes",
+            "team_2": "Windward Islands Volcanoes",
+            "status": "LIVE",
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Leeward Islands Hurricanes vs Windward Islands Volcanoes",
+            "match_id": 138046,
+            "startTime": "11:30:00 PM 19-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/8Na1mliBQmaKoRMW1cwksg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138046_english_hls_396bb5eb2159172_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -299,13 +299,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs India A (ACC Asia Cup Rising Stars 2025)",
+            "title": "Bangladesh A vs India A (ACC Asia Cup Rising Stars 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
+            "team_1": "Bangladesh A",
             "team_2": "India A",
             "status": "UPCOMING",
             "event_name": "ACC Asia Cup Rising Stars 2025",
-            "match_name": "TBC vs India A",
+            "match_name": "Bangladesh A vs India A",
             "match_id": 138254,
             "startTime": "03:00:00 PM 21-11-2025"
         },
@@ -370,18 +370,6 @@
             "startTime": "09:30:00 AM 21-11-2025"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Qualifying Session vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Las Vegas",
-            "status": "UPCOMING",
-            "event_name": "F1 ACADEMY LAS VEGAS 2025",
-            "match_name": "Qualifying Session",
-            "match_id": 119137,
-            "startTime": "11:00:00 AM 21-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Northern Warriors vs Ajman Titans (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138212_5763_NW_AJT_fc-web.png",
@@ -392,6 +380,18 @@
             "match_name": "Northern Warriors vs Ajman Titans",
             "match_id": 138212,
             "startTime": "07:15:00 PM 21-11-2025"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session vs Las Vegas (F1 ACADEMY LAS VEGAS 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Las Vegas",
+            "status": "UPCOMING",
+            "event_name": "F1 ACADEMY LAS VEGAS 2025",
+            "match_name": "Qualifying Session",
+            "match_id": 119137,
+            "startTime": "11:00:00 AM 21-11-2025"
         }
     ]
 }
