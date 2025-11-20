@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:22:26 PM 20-11-2025",
+    "last update time": "03:32:37 PM 20-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Lumbini-Lions_vs_Chitwan-Rhinos_Old_match-card_02.jpg",
             "team_1": "Lumbini Lions",
             "team_2": "Chitwan Rhinos",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Nepal Premier League, 2025",
             "match_name": "Lumbini Lions vs Chitwan Rhinos",
             "match_id": 138297,
-            "startTime": "03:45:00 PM 20-11-2025"
+            "startTime": "03:45:00 PM 20-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138297_english_hls_d43d2c886c67988_1adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138297_english_hls_d43d2c886c67988_1adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -28,34 +30,6 @@
             "startTime": "09:00:00 AM 19-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Pj-I2d3aS_eBBxFXv4rUcA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c31988_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Scotland Women vs Uganda Women (ICC Women's Emerging Nations Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138087_5758_SC-W_UG-W_FC-Web.jpg",
-            "team_1": "Scotland Women",
-            "team_2": "Uganda Women",
-            "status": "LIVE",
-            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-            "match_name": "Scotland Women vs Uganda Women",
-            "match_id": 138087,
-            "startTime": "11:15:00 AM 20-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/gRdpqqoWQ1-y-VgFtiNTeA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138087_english_hls_8f81cf409f65405_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Namibia Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138074_5758_NAM-W_TANW_FC-Web.jpg",
-            "team_1": "Namibia Women",
-            "team_2": "Tanzania Women",
-            "status": "LIVE",
-            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-            "match_name": "Namibia Women vs Tanzania Women",
-            "match_id": 138074,
-            "startTime": "11:15:00 AM 20-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Mr8Xtnk5TNe4K2iEBYpcpQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138074_english_hls_dedebee81521238_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -92,6 +66,18 @@
             "match_name": "Aspin Stallions vs Ajman Titans",
             "match_id": 138210,
             "startTime": "09:30:00 PM 20-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "PFC Nasaf vs Bam Khatoon FC (AFC Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/137955_5744_NAS-W_BKFC_fc-web_1763103330257.jpg",
+            "team_1": "PFC Nasaf",
+            "team_2": "Bam Khatoon FC",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Champions League 2025-26",
+            "match_name": "PFC Nasaf vs Bam Khatoon FC",
+            "match_id": 137955,
+            "startTime": "04:30:00 PM 20-11-2025"
         },
         {
             "event_category": "Football",
@@ -188,18 +174,6 @@
             "match_name": "Bangladesh A vs India A",
             "match_id": 138254,
             "startTime": "03:00:00 PM 21-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "PFC Nasaf vs Bam Khatoon FC (AFC Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137955_5744_NAS-W_BKFC_fc-web_1763103330257.jpg",
-            "team_1": "PFC Nasaf",
-            "team_2": "Bam Khatoon FC",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Champions League 2025-26",
-            "match_name": "PFC Nasaf vs Bam Khatoon FC",
-            "match_id": 137955,
-            "startTime": "04:30:00 PM 20-11-2025"
         },
         {
             "event_category": "Football",
@@ -404,6 +378,30 @@
             "match_name": "Leeward Islands Hurricanes vs Barbados Pride",
             "match_id": 138047,
             "startTime": "06:30:00 PM 21-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Ahli Saudi FC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-VS-Al-Qadsiah-FC_old.jpg",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Al-Qadsiah FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Ahli Saudi FC vs Al-Qadsiah FC",
+            "match_id": 138429,
+            "startTime": "11:00:00 PM 21-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 2 vs Sea Island Golf Club (The RSM Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+            "team_1": "Featured Groups - Day 2",
+            "team_2": "Sea Island Golf Club",
+            "status": "UPCOMING",
+            "event_name": "The RSM Classic",
+            "match_name": "Featured Groups - Day 2",
+            "match_id": 138273,
+            "startTime": "07:00:00 PM 21-11-2025"
         }
     ]
 }
