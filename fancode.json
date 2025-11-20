@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:24:16 PM 20-11-2025",
+    "last update time": "04:34:27 PM 20-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "03:45:00 PM 20-11-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138297_english_hls_d43d2c886c67988_1adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138297_english_hls_d43d2c886c67988_1adfreeta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
-            "team_1": "Bangladesh",
-            "team_2": "Ireland",
-            "status": "LIVE",
-            "event_name": "Ireland tour of Bangladesh, 2025",
-            "match_name": "Bangladesh vs Ireland",
-            "match_id": 138238,
-            "startTime": "09:00:00 AM 19-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Pj-I2d3aS_eBBxFXv4rUcA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c31988_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -56,6 +42,18 @@
             "match_name": "Royal Champs vs Deccan Gladiators",
             "match_id": 138208,
             "startTime": "05:00:00 PM 20-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
+            "team_1": "Bangladesh",
+            "team_2": "Ireland",
+            "status": "PAUSED",
+            "event_name": "Ireland tour of Bangladesh, 2025",
+            "match_name": "Bangladesh vs Ireland",
+            "match_id": 138238,
+            "startTime": "09:00:00 AM 19-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -394,16 +392,16 @@
             "startTime": "11:00:00 PM 21-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 2 vs Sea Island Golf Club (The RSM Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
-            "team_1": "Featured Groups - Day 2",
-            "team_2": "Sea Island Golf Club",
+            "event_category": "Cricket",
+            "title": "Trinidad & Tobago Red Force vs Jamaica Scorpions (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Trinidad & Tobago Red Force",
+            "team_2": "Jamaica Scorpions",
             "status": "UPCOMING",
-            "event_name": "The RSM Classic",
-            "match_name": "Featured Groups - Day 2",
-            "match_id": 138273,
-            "startTime": "07:00:00 PM 21-11-2025"
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Trinidad & Tobago Red Force vs Jamaica Scorpions",
+            "match_id": 138049,
+            "startTime": "11:30:00 PM 21-11-2025"
         }
     ]
 }
