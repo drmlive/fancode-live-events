@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:08:45 AM 22-11-2025",
+    "last update time": "01:19:01 AM 22-11-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,6 +16,20 @@
             "startTime": "01:30:00 AM 22-11-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130957_english_hls_632814f62c63409_1adfreeta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130957_english_hls_632814f62c63409_1adfreeta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Preston North End F.C. vs Blackburn Rovers F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136966_5489_PST_BLK_fc-web.jpg",
+            "team_1": "Preston North End F.C.",
+            "team_2": "Blackburn Rovers F.C.",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Preston North End F.C. vs Blackburn Rovers F.C.",
+            "match_id": 136966,
+            "startTime": "01:30:00 AM 22-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/9AZbqH3-QymEoO0flgMAsg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136966_english_hls_648c635fbc45265_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -122,18 +136,6 @@
             "match_name": "Aspin Stallions vs Vista Riders",
             "match_id": 138214,
             "startTime": "04:30:00 PM 22-11-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Preston North End F.C. vs Blackburn Rovers F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136966_5489_PST_BLK_fc-web.jpg",
-            "team_1": "Preston North End F.C.",
-            "team_2": "Blackburn Rovers F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Preston North End F.C. vs Blackburn Rovers F.C.",
-            "match_id": 136966,
-            "startTime": "01:30:00 AM 22-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -397,6 +399,18 @@
             "event_name": "ICC Women's Emerging Nations Trophy, 2025",
             "match_name": "Thailand Women vs Namibia Women",
             "match_id": 138091,
+            "startTime": "11:15:00 AM 23-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "United Arab Emirates Women vs Scotland Women (ICC Women's Emerging Nations Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138090_5758_UAE-W_SC-W_FC-Web.jpg",
+            "team_1": "United Arab Emirates Women",
+            "team_2": "Scotland Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+            "match_name": "United Arab Emirates Women vs Scotland Women",
+            "match_id": 138090,
             "startTime": "11:15:00 AM 23-11-2025"
         }
     ]
