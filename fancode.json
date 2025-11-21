@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:08:42 PM 21-11-2025",
+    "last update time": "04:18:52 PM 21-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,13 +23,11 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-vs-IRE_old-match-card.png",
             "team_1": "Bangladesh",
             "team_2": "Ireland",
-            "status": "LIVE",
+            "status": "PAUSED",
             "event_name": "Ireland tour of Bangladesh, 2025",
             "match_name": "Bangladesh vs Ireland",
             "match_id": 138238,
-            "startTime": "09:00:00 AM 19-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/KBxom_QgQ6-gJ5_V2C9SZA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138238_english_hls_3c279f8f2c58850_1ta-di_h264/index.m3u8"
+            "startTime": "09:00:00 AM 19-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -227,18 +225,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Trinidad & Tobago Red Force vs Jamaica Scorpions (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Trinidad & Tobago Red Force",
-            "team_2": "Jamaica Scorpions",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Trinidad & Tobago Red Force vs Jamaica Scorpions",
-            "match_id": 138049,
-            "startTime": "11:30:00 PM 21-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Aspin Stallions vs Vista Riders (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138214_5763_AST_VTR_fc-web.png",
             "team_1": "Aspin Stallions",
@@ -248,6 +234,18 @@
             "match_name": "Aspin Stallions vs Vista Riders",
             "match_id": 138214,
             "startTime": "05:00:00 PM 22-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Trinidad & Tobago Red Force vs Jamaica Scorpions (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Trinidad & Tobago Red Force",
+            "team_2": "Jamaica Scorpions",
+            "status": "UPCOMING",
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Trinidad & Tobago Red Force vs Jamaica Scorpions",
+            "match_id": 138049,
+            "startTime": "11:30:00 PM 21-11-2025"
         },
         {
             "event_category": "Football",
