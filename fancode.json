@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:47:12 PM 21-11-2025",
+    "last update time": "11:57:21 PM 21-11-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Pakistan Shaheens vs Sri Lanka A (ACC Asia Cup Rising Stars 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/PAK_A-vs-SRI_A_old.jpg",
-            "team_1": "Pakistan Shaheens",
-            "team_2": "Sri Lanka A",
-            "status": "LIVE",
-            "event_name": "ACC Asia Cup Rising Stars 2025",
-            "match_name": "Pakistan Shaheens vs Sri Lanka A",
-            "match_id": 138255,
-            "startTime": "08:00:00 PM 21-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/eerPuh7PQM-0T7qEJ9TwHQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2022318/DAI24ME-ACRSM/master.m3u8?hdnea=exp=1763778168~acl=/*~id=41815704819752864819362985217951~hmac=9617a48b78cb8bb3cb5737fa072e645a3dbdcfd5edcf2ed965b545f7f4faf42a"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "UAE Bulls vs Royal Champs (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138213_5763_DB_ROC_fc-web_1763728589891.png",
-            "team_1": "UAE Bulls",
-            "team_2": "Royal Champs",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "UAE Bulls vs Royal Champs",
-            "match_id": 138213,
-            "startTime": "09:30:00 PM 21-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/hSBXb_17SeCJ1IxFNx5Szg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138213_english_hls_d53cac4a6173665_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "England Under-19 vs West Indies Under-19 (England Under-19 tour of West Indies, 2025)",
@@ -162,6 +134,18 @@
             "startTime": "05:00:00 AM 22-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
+            "team_1": "Quetta Qavalry",
+            "team_2": "UAE Bulls",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Quetta Qavalry vs UAE Bulls",
+            "match_id": 138216,
+            "startTime": "09:30:00 PM 22-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Valencia CF vs Levante (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130957_5427_VAL_LE_fc-Web.jpg",
@@ -184,18 +168,6 @@
             "match_name": "Preston North End F.C. vs Blackburn Rovers F.C.",
             "match_id": 136966,
             "startTime": "01:30:00 AM 22-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
-            "team_1": "Quetta Qavalry",
-            "team_2": "UAE Bulls",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Quetta Qavalry vs UAE Bulls",
-            "match_id": 138216,
-            "startTime": "09:30:00 PM 22-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -259,18 +231,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Las Palmas vs Albacete (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
-            "team_1": "Las Palmas",
-            "team_2": "Albacete",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Las Palmas vs Albacete",
-            "match_id": 138066,
-            "startTime": "01:00:00 AM 22-11-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Deportivo Alaves vs RC Celta (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130959_5427_ALA_CEV_fc-web.jpg",
             "team_1": "Deportivo Alaves",
@@ -280,6 +240,18 @@
             "match_name": "Deportivo Alaves vs RC Celta",
             "match_id": 130959,
             "startTime": "06:30:00 PM 22-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Las Palmas vs Albacete (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/138066_CASACARDS_APP.png",
+            "team_1": "Las Palmas",
+            "team_2": "Albacete",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Las Palmas vs Albacete",
+            "match_id": 138066,
+            "startTime": "01:00:00 AM 22-11-2025"
         },
         {
             "event_category": "Football",
