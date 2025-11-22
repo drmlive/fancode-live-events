@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:19:27 PM 22-11-2025",
+    "last update time": "09:29:37 PM 22-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,8 +42,8 @@
             "match_name": "UAE Bulls vs Quetta Qavalry",
             "match_id": 138216,
             "startTime": "09:30:00 PM 22-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/vNmAnF2kSJa7ZNli1q9NEA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138216_english_hls_23827d0dc475773_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -122,18 +122,6 @@
             "startTime": "11:00:00 PM 22-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Villarreal CF vs RCD Mallorca (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130958_5427_VIL_MRC_fc-Web.jpg",
-            "team_1": "Villarreal CF",
-            "team_2": "RCD Mallorca",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Villarreal CF vs RCD Mallorca",
-            "match_id": 130958,
-            "startTime": "01:30:00 AM 23-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Quetta Qavalry vs Aspin Stallions (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138218_5763_QQY_AST_fc-web.png",
@@ -144,6 +132,18 @@
             "match_name": "Quetta Qavalry vs Aspin Stallions",
             "match_id": 138218,
             "startTime": "07:15:00 PM 23-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Villarreal CF vs RCD Mallorca (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130958_5427_VIL_MRC_fc-Web.jpg",
+            "team_1": "Villarreal CF",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Villarreal CF vs RCD Mallorca",
+            "match_id": 130958,
+            "startTime": "01:30:00 AM 23-11-2025"
         },
         {
             "event_category": "Cricket",
