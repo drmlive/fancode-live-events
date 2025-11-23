@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:34:52 PM 23-11-2025",
+    "last update time": "12:45:03 PM 23-11-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -70,20 +70,6 @@
             "startTime": "12:15:00 PM 23-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/c0Lv6JZwQq2okV7X1csVpQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138090_english_hls_990ddebe0d4_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Tasmania",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs Tasmania",
-            "match_id": 134026,
-            "startTime": "05:00:00 AM 22-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/dXecZswnSdmIbtI5X0tfFw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e44969_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -174,6 +160,18 @@
             "match_name": "Northern Warriors vs Vista Riders",
             "match_id": 138219,
             "startTime": "09:30:00 PM 23-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
+            "team_1": "New South Wales",
+            "team_2": "Tasmania",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "New South Wales vs Tasmania",
+            "match_id": 134026,
+            "startTime": "05:00:00 AM 22-11-2025"
         },
         {
             "event_category": "Football",
@@ -356,18 +354,6 @@
             "startTime": "01:30:00 PM 24-11-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 4 vs Sea Island Golf Club (The RSM Classic)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
-            "team_1": "World Feed - Day 4",
-            "team_2": "Sea Island Golf Club",
-            "status": "UPCOMING",
-            "event_name": "The RSM Classic",
-            "match_name": "World Feed - Day 4",
-            "match_id": 138275,
-            "startTime": "11:30:00 PM 23-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sudurpaschim Royals vs Karnali Yaks (Nepal Premier League, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Sudurpaschim-Royals_right_Old_match-card_02.jpg",
@@ -378,6 +364,18 @@
             "match_name": "Sudurpaschim Royals vs Karnali Yaks",
             "match_id": 138302,
             "startTime": "03:45:00 PM 24-11-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 4 vs Sea Island Golf Club (The RSM Classic)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-RSM-Classic--old-match-card.png",
+            "team_1": "World Feed - Day 4",
+            "team_2": "Sea Island Golf Club",
+            "status": "UPCOMING",
+            "event_name": "The RSM Classic",
+            "match_name": "World Feed - Day 4",
+            "match_id": 138275,
+            "startTime": "11:30:00 PM 23-11-2025"
         },
         {
             "event_category": "Hockey",
