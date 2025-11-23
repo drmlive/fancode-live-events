@@ -1,8 +1,20 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:47:00 PM 23-11-2025",
+    "last update time": "02:57:10 PM 23-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Ajman Titans vs Royal Champs (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138217_5763_AJT_ROC_fc-web_1763728590035.png",
+            "team_1": "Ajman Titans",
+            "team_2": "Royal Champs",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Ajman Titans vs Royal Champs",
+            "match_id": 138217,
+            "startTime": "05:00:00 PM 23-11-2025"
+        },
         {
             "event_category": "Cricket",
             "title": "Thailand Women vs Namibia Women (ICC Women's Emerging Nations Trophy, 2025)",
@@ -58,32 +70,6 @@
             "startTime": "09:30:00 AM 22-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/w7HWTyzRTCObi6B4tGrZIA/master.m3u8",
             "adfree_url": null
-        },
-        {
-            "event_category": "Football",
-            "title": "East Bengal vs PFC Nasaf (AFC Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137960_5744_EBFC_NAS-W_fc-web_1763103330276.jpg",
-            "team_1": "East Bengal",
-            "team_2": "PFC Nasaf",
-            "status": "LIVE",
-            "event_name": "AFC Women's Champions League 2025-26",
-            "match_name": "East Bengal vs PFC Nasaf",
-            "match_id": 137960,
-            "startTime": "12:30:00 PM 23-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ou6LU--wRrCRMretrGNPDw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137960_english_hls_a280c4cd9476521_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ajman Titans vs Royal Champs (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138217_5763_AJT_ROC_fc-web_1763728590035.png",
-            "team_1": "Ajman Titans",
-            "team_2": "Royal Champs",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Ajman Titans vs Royal Champs",
-            "match_id": 138217,
-            "startTime": "05:00:00 PM 23-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -408,6 +394,18 @@
             "match_name": "Nasaf vs Tractor",
             "match_id": 136067,
             "startTime": "07:15:00 PM 24-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Duhail vs Al-Ittihad (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136069_5647_ADH_ITT_fc-Web.jpg",
+            "team_1": "Al Duhail",
+            "team_2": "Al-Ittihad",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al Duhail vs Al-Ittihad",
+            "match_id": 136069,
+            "startTime": "09:30:00 PM 24-11-2025"
         }
     ]
 }
