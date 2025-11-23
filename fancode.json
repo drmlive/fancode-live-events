@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:20:51 AM 24-11-2025",
+    "last update time": "03:30:57 AM 24-11-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Elche CF vs Real Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130951_5427_ELC_RM_fc-Web.jpg",
-            "team_1": "Elche CF",
-            "team_2": "Real Madrid",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche CF vs Real Madrid",
-            "match_id": 130951,
-            "startTime": "01:30:00 AM 24-11-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130951_english_hls_c2f7a9169e77509_1adfreeta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130951_english_hls_c2f7a9169e77509_1adfreeta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Trinidad & Tobago Red Force vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
@@ -44,6 +30,20 @@
             "startTime": "01:30:00 AM 24-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/7myllF2AS7irqczULPZYyg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138067_english_hls_14f0cc4cc710805_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Elche CF vs Real Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130951_5427_ELC_RM_fc-Web.jpg",
+            "team_1": "Elche CF",
+            "team_2": "Real Madrid",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs Real Madrid",
+            "match_id": 130951,
+            "startTime": "01:30:00 AM 24-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130951_english_hls_c2f7a9169e77509_1adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130951_english_hls_c2f7a9169e77509_1adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -106,18 +106,6 @@
             "startTime": "06:30:00 PM 24-11-2025"
         },
         {
-            "event_category": "Hockey",
-            "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
-            "team_1": "Korea",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Korea vs New Zealand",
-            "match_id": 138414,
-            "startTime": "01:30:00 PM 24-11-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Nasaf vs Tractor (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136067_5647_NQ_TFC_fc-Web.jpg",
@@ -128,6 +116,18 @@
             "match_name": "Nasaf vs Tractor",
             "match_id": 136067,
             "startTime": "07:15:00 PM 24-11-2025"
+        },
+        {
+            "event_category": "Hockey",
+            "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
+            "team_1": "Korea",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Korea vs New Zealand",
+            "match_id": 138414,
+            "startTime": "01:30:00 PM 24-11-2025"
         },
         {
             "event_category": "Cricket",
