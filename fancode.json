@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:48:22 AM 24-11-2025",
+    "last update time": "12:58:34 AM 24-11-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Getafe CF vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130956_5427_GEF_ATL_fc-Web.jpg",
-            "team_1": "Getafe CF",
-            "team_2": "Atletico de Madrid",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Getafe CF vs Atletico de Madrid",
-            "match_id": 130956,
-            "startTime": "11:00:00 PM 23-11-2025",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Football",
             "title": "Al-Nassr FC vs Al-Khaleej (Roshn Saudi League 2025-2026)",
@@ -30,6 +16,20 @@
             "startTime": "11:00:00 PM 23-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Cm-h18leRWGE8Ck48QmYiQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138431_english_hls_4a5fdcc78869499_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Elche CF vs Real Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130951_5427_ELC_RM_fc-Web.jpg",
+            "team_1": "Elche CF",
+            "team_2": "Real Madrid",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs Real Madrid",
+            "match_id": 130951,
+            "startTime": "01:30:00 AM 24-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130951_english_hls_c2f7a9169e77509_1adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130951_english_hls_c2f7a9169e77509_1adfreeta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -61,15 +61,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Elche CF vs Real Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130951_5427_ELC_RM_fc-Web.jpg",
-            "team_1": "Elche CF",
-            "team_2": "Real Madrid",
-            "status": "UPCOMING",
+            "title": "Getafe CF vs Atletico de Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130956_5427_GEF_ATL_fc-Web.jpg",
+            "team_1": "Getafe CF",
+            "team_2": "Atletico de Madrid",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
-            "match_name": "Elche CF vs Real Madrid",
-            "match_id": 130951,
-            "startTime": "01:30:00 AM 24-11-2025"
+            "match_name": "Getafe CF vs Atletico de Madrid",
+            "match_id": 130956,
+            "startTime": "11:00:00 PM 23-11-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -144,18 +146,6 @@
             "startTime": "09:30:00 AM 22-11-2025"
         },
         {
-            "event_category": "Hockey",
-            "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
-            "team_1": "Korea",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Korea vs New Zealand",
-            "match_id": 138414,
-            "startTime": "01:30:00 PM 24-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
@@ -166,6 +156,18 @@
             "match_name": "West Indies Under-19 vs England Under-19",
             "match_id": 138039,
             "startTime": "06:30:00 PM 24-11-2025"
+        },
+        {
+            "event_category": "Hockey",
+            "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
+            "team_1": "Korea",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Korea vs New Zealand",
+            "match_id": 138414,
+            "startTime": "01:30:00 PM 24-11-2025"
         },
         {
             "event_category": "Hockey",
