@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:42:28 PM 24-11-2025",
+    "last update time": "11:52:38 PM 24-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Shabab Al Ahli vs Al Gharafa (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136068_5647_SAA_AGH_fc-Web.jpg",
-            "team_1": "Shabab Al Ahli",
-            "team_2": "Al Gharafa",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Shabab Al Ahli vs Al Gharafa",
-            "match_id": 136068,
-            "startTime": "09:30:00 PM 24-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/mYmyLwvKRRqG9UF89aNi2w/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136068_english_hls_91037e37ca15928_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Al-Ahli Saudi FC vs Sharjah (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136070_5647_AAS_SHJ_fc-Web.jpg",
             "team_1": "Al-Ahli Saudi FC",
@@ -42,8 +28,8 @@
             "match_name": "Al-Ahli Saudi FC vs Sharjah",
             "match_id": 136070,
             "startTime": "11:45:00 PM 24-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/pAK0KvzkQWS_nSvmIs0Yzg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136070_english_hls_7d4def0b4728554_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -56,6 +42,18 @@
             "match_name": "Vista Riders vs Ajman Titans",
             "match_id": 138220,
             "startTime": "07:15:00 PM 25-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Deccan Gladiators vs Aspin Stallions (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138221_5763_DG_AST_fc-web_1763728589994.png",
+            "team_1": "Deccan Gladiators",
+            "team_2": "Aspin Stallions",
+            "status": "UPCOMING",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Deccan Gladiators vs Aspin Stallions",
+            "match_id": 138221,
+            "startTime": "09:30:00 PM 25-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -104,18 +102,6 @@
             "match_name": "Thailand Women vs Tanzania Women",
             "match_id": 138092,
             "startTime": "08:00:00 AM 25-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Deccan Gladiators vs Aspin Stallions (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138221_5763_DG_AST_fc-web_1763728589994.png",
-            "team_1": "Deccan Gladiators",
-            "team_2": "Aspin Stallions",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Deccan Gladiators vs Aspin Stallions",
-            "match_id": 138221,
-            "startTime": "09:30:00 PM 25-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -440,6 +426,18 @@
             "match_name": "Biratnagar Kings vs Chitwan Rhinos",
             "match_id": 138304,
             "startTime": "03:45:00 PM 26-11-2025"
+        },
+        {
+            "event_category": "Hockey",
+            "title": "Korea vs Belgium (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138418_5777_KOR_BEL_fc-Web.jpg",
+            "team_1": "Korea",
+            "team_2": "Belgium",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Korea vs Belgium",
+            "match_id": 138418,
+            "startTime": "03:30:00 PM 26-11-2025"
         }
     ]
 }
