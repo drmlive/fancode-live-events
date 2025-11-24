@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:19:54 PM 24-11-2025",
+    "last update time": "12:30:10 PM 24-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -43,7 +43,7 @@
             "match_id": 134026,
             "startTime": "05:00:00 AM 22-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/IjqlXMDLRwK0gMXR5T5EqA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e49656_1ta-di_h264/index.m3u8"
+            "adfree_url": "https://dai.google.com/linear/pods/v1/p/IjqlXMDLRwK0gMXR5T5EqA/4f71e829-276f-4022-9011-981f0492519a:TPE/89/1/0/b1bcfbfa64a551f33875b87d5edf24cb/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -72,6 +72,18 @@
             "startTime": "09:30:00 AM 22-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/zOztNpanQg2_rmKuDW4zkg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f277251_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Hockey",
+            "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
+            "team_1": "Korea",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Korea vs New Zealand",
+            "match_id": 138414,
+            "startTime": "01:30:00 PM 24-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -156,18 +168,6 @@
             "match_name": "RCD Espanyol vs Sevilla FC",
             "match_id": 130952,
             "startTime": "01:30:00 AM 25-11-2025"
-        },
-        {
-            "event_category": "Hockey",
-            "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
-            "team_1": "Korea",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Korea vs New Zealand",
-            "match_id": 138414,
-            "startTime": "01:30:00 PM 24-11-2025"
         },
         {
             "event_category": "Hockey",
