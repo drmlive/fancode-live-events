@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:22:53 AM 24-11-2025",
+    "last update time": "05:33:03 AM 24-11-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Trinidad & Tobago Red Force vs Guyana Harpy Eagles (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Trinidad & Tobago Red Force",
-            "team_2": "Guyana Harpy Eagles",
-            "status": "LIVE",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Trinidad & Tobago Red Force vs Guyana Harpy Eagles",
-            "match_id": 138052,
-            "startTime": "11:30:00 PM 23-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/yF5lRWVBRdKiCbS04NbL9g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138052_english_hls_b89cc9c69828531_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
@@ -30,6 +16,20 @@
             "startTime": "05:00:00 AM 22-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/IjqlXMDLRwK0gMXR5T5EqA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e49656_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Guyana Harpy Eagles",
+            "team_2": "Trinidad & Tobago Red Force",
+            "status": "LIVE",
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Guyana Harpy Eagles vs Trinidad & Tobago Red Force",
+            "match_id": 138052,
+            "startTime": "11:30:00 PM 23-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/yF5lRWVBRdKiCbS04NbL9g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138052_english_hls_b89cc9c69828531_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -128,30 +128,6 @@
             "startTime": "03:30:00 PM 24-11-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Western Australia vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs South Australia",
-            "match_id": 134028,
-            "startTime": "09:30:00 AM 22-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134027_5609_QUN_VCT_fc-Web.jpg",
-            "team_1": "Victoria",
-            "team_2": "Queensland",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Victoria vs Queensland",
-            "match_id": 134027,
-            "startTime": "09:30:00 AM 22-11-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Al Duhail vs Al-Ittihad (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136069_5647_ADH_ITT_fc-Web.jpg",
@@ -174,6 +150,30 @@
             "match_name": "Shabab Al Ahli vs Al Gharafa",
             "match_id": 136068,
             "startTime": "09:30:00 PM 24-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs South Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134028_5609_SAU_WAU_fc-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs South Australia",
+            "match_id": 134028,
+            "startTime": "09:30:00 AM 22-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Victoria vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134027_5609_QUN_VCT_fc-Web.jpg",
+            "team_1": "Victoria",
+            "team_2": "Queensland",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Victoria vs Queensland",
+            "match_id": 134027,
+            "startTime": "09:30:00 AM 22-11-2025"
         },
         {
             "event_category": "Hockey",
