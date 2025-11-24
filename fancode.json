@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:08:51 AM 24-11-2025",
+    "last update time": "11:19:00 AM 24-11-2025",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Biratnagar Kings vs Janakpur Bolts (Nepal Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Janakpur-Bolts_vs_Biratnagar-Kings_Old_match-card_02.jpg",
+            "team_1": "Biratnagar Kings",
+            "team_2": "Janakpur Bolts",
+            "status": "LIVE",
+            "event_name": "Nepal Premier League, 2025",
+            "match_name": "Biratnagar Kings vs Janakpur Bolts",
+            "match_id": 138301,
+            "startTime": "11:30:00 AM 24-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138301_english_hls_18272100d893851_1adfreeta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138301_english_hls_18272100d893851_1adfreeta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
@@ -44,18 +58,6 @@
             "startTime": "09:30:00 AM 22-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/zOztNpanQg2_rmKuDW4zkg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f277251_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Biratnagar Kings vs Janakpur Bolts (Nepal Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NPL_Janakpur-Bolts_vs_Biratnagar-Kings_Old_match-card_02.jpg",
-            "team_1": "Biratnagar Kings",
-            "team_2": "Janakpur Bolts",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2025",
-            "match_name": "Biratnagar Kings vs Janakpur Bolts",
-            "match_id": 138301,
-            "startTime": "11:30:00 AM 24-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +144,6 @@
             "startTime": "11:45:00 PM 24-11-2025"
         },
         {
-            "event_category": "Hockey",
-            "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
-            "team_1": "Korea",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Korea vs New Zealand",
-            "match_id": 138414,
-            "startTime": "01:30:00 PM 24-11-2025"
-        },
-        {
             "event_category": "Football",
             "title": "RCD Espanyol vs Sevilla FC (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130952_5427_ESL_SEV_fc-Web.jpg",
@@ -164,6 +154,18 @@
             "match_name": "RCD Espanyol vs Sevilla FC",
             "match_id": 130952,
             "startTime": "01:30:00 AM 25-11-2025"
+        },
+        {
+            "event_category": "Hockey",
+            "title": "Korea vs New Zealand (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138414_5777_KOR_NZ_fc-Web.jpg",
+            "team_1": "Korea",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Korea vs New Zealand",
+            "match_id": 138414,
+            "startTime": "01:30:00 PM 24-11-2025"
         },
         {
             "event_category": "Hockey",
