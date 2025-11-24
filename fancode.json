@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:26:26 PM 24-11-2025",
+    "last update time": "06:36:37 PM 24-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,20 +32,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138039_english_hls_fcb862dcd94142_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Victoria vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134027_5609_QUN_VCT_fc-Web.jpg",
-            "team_1": "Victoria",
-            "team_2": "Queensland",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Victoria vs Queensland",
-            "match_id": 134027,
-            "startTime": "09:30:00 AM 22-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/zOztNpanQg2_rmKuDW4zkg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f277251_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Hockey",
             "title": "Malaysia vs Canada (Sultan Azlan Shah Cup)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138416_5777_ML_CAN_fc-Web.jpg",
@@ -58,6 +44,20 @@
             "startTime": "06:30:00 PM 24-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/IP1ucu9tQt2T55WFp089VQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138416_english_hls_e53ad3684370112_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Victoria vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134027_5609_QUN_VCT_fc-Web.jpg",
+            "team_1": "Victoria",
+            "team_2": "Queensland",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Victoria vs Queensland",
+            "match_id": 134027,
+            "startTime": "09:30:00 AM 22-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/zOztNpanQg2_rmKuDW4zkg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f277251_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -240,18 +240,6 @@
             "startTime": "01:15:00 PM 25-11-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Real Sociedad B vs Real Valladolid (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-B_vs_Real-Valladolid_Old.jpg",
-            "team_1": "Real Sociedad B",
-            "team_2": "Real Valladolid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Sociedad B vs Real Valladolid",
-            "match_id": 138068,
-            "startTime": "01:00:00 AM 25-11-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Vista Riders vs Ajman Titans (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138220_5763_VTR_AJT_fc-web_1763728590101.png",
@@ -262,6 +250,18 @@
             "match_name": "Vista Riders vs Ajman Titans",
             "match_id": 138220,
             "startTime": "07:15:00 PM 25-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad B vs Real Valladolid (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-B_vs_Real-Valladolid_Old.jpg",
+            "team_1": "Real Sociedad B",
+            "team_2": "Real Valladolid",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Sociedad B vs Real Valladolid",
+            "match_id": 138068,
+            "startTime": "01:00:00 AM 25-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -406,6 +406,18 @@
             "match_name": "Southampton F.C. vs Leicester City F.C.",
             "match_id": 136968,
             "startTime": "01:30:00 AM 26-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Thailand Women vs Uganda Women (ICC Women's Emerging Nations Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138079_5758_TL-W_UG-W_FC-Web.jpg",
+            "team_1": "Thailand Women",
+            "team_2": "Uganda Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+            "match_name": "Thailand Women vs Uganda Women",
+            "match_id": 138079,
+            "startTime": "07:30:00 AM 26-11-2025"
         }
     ]
 }
