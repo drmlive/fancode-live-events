@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:05:58 PM 24-11-2025",
+    "last update time": "06:16:14 PM 24-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,6 +19,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
+            "team_1": "West Indies Under-19",
+            "team_2": "England Under-19",
+            "status": "LIVE",
+            "event_name": "England Under-19 tour of West Indies, 2025",
+            "match_name": "West Indies Under-19 vs England Under-19",
+            "match_id": 138039,
+            "startTime": "06:30:00 PM 24-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/p1XgqC7mSXGI1mj6WDptig/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138039_english_hls_fcb862dcd94142_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Victoria vs Queensland (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134027_5609_QUN_VCT_fc-Web.jpg",
             "team_1": "Victoria",
@@ -32,28 +46,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134027_english_hls_07bbfaa6f277251_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "West Indies Under-19 vs England Under-19 (England Under-19 tour of West Indies, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/eng_wi_old_match-card_2.jpg",
-            "team_1": "West Indies Under-19",
-            "team_2": "England Under-19",
-            "status": "UPCOMING",
-            "event_name": "England Under-19 tour of West Indies, 2025",
-            "match_name": "West Indies Under-19 vs England Under-19",
-            "match_id": 138039,
-            "startTime": "06:30:00 PM 24-11-2025"
-        },
-        {
             "event_category": "Hockey",
             "title": "Malaysia vs Canada (Sultan Azlan Shah Cup)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138416_5777_ML_CAN_fc-Web.jpg",
             "team_1": "Malaysia",
             "team_2": "Canada",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Sultan Azlan Shah Cup",
             "match_name": "Malaysia vs Canada",
             "match_id": 138416,
-            "startTime": "06:30:00 PM 24-11-2025"
+            "startTime": "06:30:00 PM 24-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/IP1ucu9tQt2T55WFp089VQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138416_english_hls_e53ad3684370112_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -225,18 +229,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Real Sociedad B vs Real Valladolid (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-B_vs_Real-Valladolid_Old.jpg",
-            "team_1": "Real Sociedad B",
-            "team_2": "Real Valladolid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Sociedad B vs Real Valladolid",
-            "match_id": 138068,
-            "startTime": "01:00:00 AM 25-11-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "Melbourne City vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136019_5647_MLC_JDT_fc-Web.jpg",
             "team_1": "Melbourne City",
@@ -246,6 +238,18 @@
             "match_name": "Melbourne City vs Johor Darul Ta'zim",
             "match_id": 136019,
             "startTime": "01:15:00 PM 25-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad B vs Real Valladolid (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Real-Sociedad-B_vs_Real-Valladolid_Old.jpg",
+            "team_1": "Real Sociedad B",
+            "team_2": "Real Valladolid",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Sociedad B vs Real Valladolid",
+            "match_id": 138068,
+            "startTime": "01:00:00 AM 25-11-2025"
         },
         {
             "event_category": "Cricket",
