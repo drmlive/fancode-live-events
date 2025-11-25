@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:05:06 AM 25-11-2025",
+    "last update time": "11:15:18 AM 25-11-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Bahrain vs Malaysia (Mini SEA Games Men's T20, 2025)",
-            "src": "https://images.fancode.com/aig/match/v1/138453_CASACARDS_APP.png",
-            "team_1": "Bahrain",
-            "team_2": "Malaysia",
-            "status": "LIVE",
-            "event_name": "Mini SEA Games Men's T20, 2025",
-            "match_name": "Bahrain vs Malaysia",
-            "match_id": 138453,
-            "startTime": "07:30:00 AM 25-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ndmr09laSkubTFsjGOZmZA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138453_english_hls_dcffcc407a81112_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Western Australia vs South Australia (Sheffield Shield, 2025-26)",
@@ -44,6 +30,20 @@
             "startTime": "05:00:00 AM 22-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/yR2LjWshTXCRb4aumT5DIg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e57501_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bahrain vs Malaysia (Mini SEA Games Men's T20, 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/138453_CASACARDS_APP.png",
+            "team_1": "Bahrain",
+            "team_2": "Malaysia",
+            "status": "LIVE",
+            "event_name": "Mini SEA Games Men's T20, 2025",
+            "match_name": "Bahrain vs Malaysia",
+            "match_id": 138453,
+            "startTime": "07:30:00 AM 25-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ndmr09laSkubTFsjGOZmZA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138453_english_hls_dcffcc407a81112_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -451,6 +451,18 @@
             "event_name": "AFC Champions League Two 2025-26",
             "match_name": "FK Istiklol vs Al-Nassr FC",
             "match_id": 136135,
+            "startTime": "07:15:00 PM 26-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Andijan vs Arkadag (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136112_5648_ABD_ARK_fc-Web_1758118382836.jpg",
+            "team_1": "Andijan",
+            "team_2": "Arkadag",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Andijan vs Arkadag",
+            "match_id": 136112,
             "startTime": "07:15:00 PM 26-11-2025"
         }
     ]
