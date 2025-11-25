@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:35:42 AM 25-11-2025",
+    "last update time": "11:45:54 AM 25-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "09:30:00 AM 22-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/zfbBewIvRYKvrH3zqYrhiA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134028_english_hls_f04e10b40623957_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs Tasmania (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134026_5609_NSW_TAS_fc-Web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "Tasmania",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs Tasmania",
-            "match_id": 134026,
-            "startTime": "05:00:00 AM 22-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/yR2LjWshTXCRb4aumT5DIg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134026_english_hls_afdc2d131e57501_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -61,11 +47,13 @@
             "src": "https://images.fancode.com/aig/match/v1/138458_CASACARDS_APP.png",
             "team_1": "Malaysia A",
             "team_2": "Thailand",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Mini SEA Games Men's T20, 2025",
             "match_name": "Malaysia A vs Thailand",
             "match_id": 138458,
-            "startTime": "12:00:00 PM 25-11-2025"
+            "startTime": "12:00:00 PM 25-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/bhqlE_r5REaBd0muF7d54g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138458_english_hls_9c49dd83e744004_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -225,18 +213,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jamaica Scorpions vs Barbados Pride (CG United Super50 Cup, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Barbados Pride",
-            "status": "UPCOMING",
-            "event_name": "CG United Super50 Cup, 2025",
-            "match_name": "Jamaica Scorpions vs Barbados Pride",
-            "match_id": 138055,
-            "startTime": "11:30:00 PM 25-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Tanzania Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138095_5758_TANW_UAE-W_FC-Web.jpg",
             "team_1": "Tanzania Women",
@@ -258,6 +234,18 @@
             "match_name": "Thailand Women vs Uganda Women",
             "match_id": 138079,
             "startTime": "08:00:00 AM 26-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions vs Barbados Pride (CG United Super50 Cup, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CG-United-Super50-2025_match-card.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Barbados Pride",
+            "status": "UPCOMING",
+            "event_name": "CG United Super50 Cup, 2025",
+            "match_name": "Jamaica Scorpions vs Barbados Pride",
+            "match_id": 138055,
+            "startTime": "11:30:00 PM 25-11-2025"
         },
         {
             "event_category": "Cricket",
@@ -461,6 +449,18 @@
             "event_name": "AFC Champions League Two 2025-26",
             "match_name": "AL Zawraa SC vs FC Goa",
             "match_id": 136136,
+            "startTime": "09:30:00 PM 26-11-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Esteghlal FC vs Al Wasl (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136100_5648_ESG_AWL_fc-Web_1758118383077.jpg",
+            "team_1": "Esteghlal FC",
+            "team_2": "Al Wasl",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Esteghlal FC vs Al Wasl",
+            "match_id": 136100,
             "startTime": "09:30:00 PM 26-11-2025"
         }
     ]
