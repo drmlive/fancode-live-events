@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:57:45 PM 26-11-2025",
+    "last update time": "05:07:56 PM 26-11-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Chitwan Rhinos vs Biratnagar Kings (Nepal Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg",
-            "team_1": "Chitwan Rhinos",
-            "team_2": "Biratnagar Kings",
-            "status": "LIVE",
-            "event_name": "Nepal Premier League, 2025",
-            "match_name": "Chitwan Rhinos vs Biratnagar Kings",
-            "match_id": 138304,
-            "startTime": "03:45:00 PM 26-11-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138304_english_hls_985fc8490194243_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138304_english_hls_985fc8490194243_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Hockey",
             "title": "India vs Malaysia (Sultan Azlan Shah Cup)",
@@ -30,6 +16,20 @@
             "startTime": "03:30:00 PM 26-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/REEIIzLbTDeuDeYTwv3bHg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138419_english_hls_c3f6bd17bb50998_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Chitwan Rhinos vs Biratnagar Kings (Nepal Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138304_5771_BK_CWR_FC-Web.jpg",
+            "team_1": "Chitwan Rhinos",
+            "team_2": "Biratnagar Kings",
+            "status": "LIVE",
+            "event_name": "Nepal Premier League, 2025",
+            "match_name": "Chitwan Rhinos vs Biratnagar Kings",
+            "match_id": 138304,
+            "startTime": "03:45:00 PM 26-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138304_english_hls_985fc8490194243_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138304_english_hls_985fc8490194243_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -181,18 +181,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malaysia vs Malaysia A (Mini SEA Games Men's T20, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138459_5780_MAS_MALA_fc-Web_1764062589963.jpg",
-            "team_1": "Malaysia",
-            "team_2": "Malaysia A",
-            "status": "UPCOMING",
-            "event_name": "Mini SEA Games Men's T20, 2025",
-            "match_name": "Malaysia vs Malaysia A",
-            "match_id": 138459,
-            "startTime": "12:00:00 PM 27-11-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IRE-vs-BAN_old.jpg",
             "team_1": "Bangladesh",
@@ -202,6 +190,18 @@
             "match_name": "Bangladesh vs Ireland",
             "match_id": 138239,
             "startTime": "05:30:00 PM 27-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia vs Malaysia A (Mini SEA Games Men's T20, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138459_5780_MAS_MALA_fc-Web_1764062589963.jpg",
+            "team_1": "Malaysia",
+            "team_2": "Malaysia A",
+            "status": "UPCOMING",
+            "event_name": "Mini SEA Games Men's T20, 2025",
+            "match_name": "Malaysia vs Malaysia A",
+            "match_id": 138459,
+            "startTime": "12:00:00 PM 27-11-2025"
         },
         {
             "event_category": "Football",
