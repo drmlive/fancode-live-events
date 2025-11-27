@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:28:38 PM 27-11-2025",
+    "last update time": "12:38:47 PM 27-11-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,20 +18,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138305_english_hls_083300e36265785_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Hockey",
-            "title": "Korea vs Canada (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-Web.jpg",
-            "team_1": "Korea",
-            "team_2": "Canada",
-            "status": "LIVE",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Korea vs Canada",
-            "match_id": 138420,
-            "startTime": "11:30:00 AM 27-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/gIzYCfKQQ4K9DylfRSHqPg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138420_english_hls_de2fddf00127815_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Malaysia vs Malaysia A (Mini SEA Games Men's T20, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138459_5780_MAS_MALA_fc-Web_1764062589963.jpg",
@@ -44,6 +30,20 @@
             "startTime": "12:00:00 PM 27-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/xhQRy8J6TgWFWFOl6bYy3Q/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138459_english_hls_568a6f3a0990070_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Hockey",
+            "title": "Korea vs Canada (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138420_5777_KOR_CAN_fc-Web.jpg",
+            "team_1": "Korea",
+            "team_2": "Canada",
+            "status": "LIVE",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Korea vs Canada",
+            "match_id": 138420,
+            "startTime": "11:30:00 AM 27-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/gIzYCfKQQ4K9DylfRSHqPg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138420_english_hls_de2fddf00127815_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -94,6 +94,18 @@
             "startTime": "09:30:00 PM 27-11-2025"
         },
         {
+            "event_category": "Hockey",
+            "title": "India vs New Zealand (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138421_5777_IND_NZ_fc-Web.jpg",
+            "team_1": "India",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "India vs New Zealand",
+            "match_id": 138421,
+            "startTime": "01:30:00 PM 27-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Macarthur vs Wofoo Tai Po (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136147_5648_MAC_WTP_fc-Web_1758118382695.jpg",
@@ -116,18 +128,6 @@
             "match_name": "Janakpur Bolts vs Pokhara Avengers",
             "match_id": 138306,
             "startTime": "03:45:00 PM 27-11-2025"
-        },
-        {
-            "event_category": "Hockey",
-            "title": "India vs New Zealand (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138421_5777_IND_NZ_fc-Web.jpg",
-            "team_1": "India",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "India vs New Zealand",
-            "match_id": 138421,
-            "startTime": "01:30:00 PM 27-11-2025"
         },
         {
             "event_category": "Hockey",
@@ -190,6 +190,30 @@
             "startTime": "03:30:00 PM 27-11-2025"
         },
         {
+            "event_category": "Cricket",
+            "title": "Uganda Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138098_5758_UG-W_TANW_FC-Web.jpg",
+            "team_1": "Uganda Women",
+            "team_2": "Tanzania Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+            "match_name": "Uganda Women vs Tanzania Women",
+            "match_id": 138098,
+            "startTime": "08:00:00 AM 28-11-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Thailand Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138097_5758_TL-W_UAE-W_FC-Web.jpg",
+            "team_1": "Thailand Women",
+            "team_2": "United Arab Emirates Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
+            "match_name": "Thailand Women vs United Arab Emirates Women",
+            "match_id": 138097,
+            "startTime": "08:00:00 AM 28-11-2025"
+        },
+        {
             "event_category": "Football",
             "title": "Tampines Rovers FC vs Kaya (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136184_5648_TAM_KAYA_fc-Web_1758118382630.jpg",
@@ -236,30 +260,6 @@
             "match_name": "Guyana Harpy Eagles vs Barbados Pride",
             "match_id": 138056,
             "startTime": "06:30:00 PM 27-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Uganda Women vs Tanzania Women (ICC Women's Emerging Nations Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138098_5758_UG-W_TANW_FC-Web.jpg",
-            "team_1": "Uganda Women",
-            "team_2": "Tanzania Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-            "match_name": "Uganda Women vs Tanzania Women",
-            "match_id": 138098,
-            "startTime": "08:00:00 AM 28-11-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Thailand Women vs United Arab Emirates Women (ICC Women's Emerging Nations Trophy, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138097_5758_TL-W_UAE-W_FC-Web.jpg",
-            "team_1": "Thailand Women",
-            "team_2": "United Arab Emirates Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's Emerging Nations Trophy, 2025",
-            "match_name": "Thailand Women vs United Arab Emirates Women",
-            "match_id": 138097,
-            "startTime": "08:00:00 AM 28-11-2025"
         },
         {
             "event_category": "Cricket",
