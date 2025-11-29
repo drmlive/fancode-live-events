@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:40:14 PM 29-11-2025",
+    "last update time": "08:50:23 PM 29-11-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "FC Barcelona vs Deportivo Alaves (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130964_5427_BAR_ALA_fc-Web.jpg",
+            "team_1": "FC Barcelona",
+            "team_2": "Deportivo Alaves",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "FC Barcelona vs Deportivo Alaves",
+            "match_id": 130964,
+            "startTime": "08:45:00 PM 29-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130964_english_hls_9d5146c35b25640_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130964_english_hls_9d5146c35b25640_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Formula 1",
             "title": "Sprint vs Qatar (F1 QATAR AIRWAYS QATAR GRAND PRIX 2025)",
@@ -30,20 +44,6 @@
             "startTime": "05:30:00 PM 29-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/aSnBNX8SRUC3k5hY8szSng/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138240_english_hls_5bff52a45c14478_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "RCD Mallorca vs CA Osasuna (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130961_5427_MRC_OSN_fc-Web.jpg",
-            "team_1": "RCD Mallorca",
-            "team_2": "CA Osasuna",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RCD Mallorca vs CA Osasuna",
-            "match_id": 130961,
-            "startTime": "06:30:00 PM 29-11-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130961_english_hls_96fcbfdf7790351_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130961_english_hls_96fcbfdf7790351_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -102,20 +102,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136973_english_hls_02108dda7f25947_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "FC Barcelona vs Deportivo Alaves (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130964_5427_BAR_ALA_fc-Web.jpg",
-            "team_1": "FC Barcelona",
-            "team_2": "Deportivo Alaves",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "FC Barcelona vs Deportivo Alaves",
-            "match_id": 130964,
-            "startTime": "08:45:00 PM 29-11-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130964_english_hls_9d5146c35b25640_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130964_english_hls_9d5146c35b25640_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Golf",
             "title": "Day 3 vs Andalucia, Spain (Andalucia Costa Del Sol Open De Espana 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Anda-Lucia_Old_match-card_2.jpg",
@@ -128,6 +114,20 @@
             "startTime": "06:30:00 PM 29-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/B7TvDbXTTMyJF8xCfc2XzQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137197_english_hls_b87cef92fc45166_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "RCD Mallorca vs CA Osasuna (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130961_5427_MRC_OSN_fc-Web.jpg",
+            "team_1": "RCD Mallorca",
+            "team_2": "CA Osasuna",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Mallorca vs CA Osasuna",
+            "match_id": 130961,
+            "startTime": "06:30:00 PM 29-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130961_english_hls_96fcbfdf7790351_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130961_english_hls_96fcbfdf7790351_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -394,6 +394,18 @@
             "startTime": "10:30:00 AM 30-11-2025"
         },
         {
+            "event_category": "Motorsports",
+            "title": "Sprint Race vs Lusail (F2 QATAR 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Lusail",
+            "status": "UPCOMING",
+            "event_name": "F2 QATAR 2025",
+            "match_name": "Sprint Race",
+            "match_id": 119075,
+            "startTime": "09:50:00 PM 29-11-2025"
+        },
+        {
             "event_category": "Hockey",
             "title": "TBC vs TBC (Sultan Azlan Shah Cup)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Hockey-1440-x-360.jpg",
@@ -464,18 +476,6 @@
             "match_name": "RC Celta vs RCD Espanyol",
             "match_id": 130969,
             "startTime": "11:00:00 PM 30-11-2025"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Lusail (F2 QATAR 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Lusail",
-            "status": "UPCOMING",
-            "event_name": "F2 QATAR 2025",
-            "match_name": "Sprint Race",
-            "match_id": 119075,
-            "startTime": "09:50:00 PM 29-11-2025"
         }
     ]
 }
