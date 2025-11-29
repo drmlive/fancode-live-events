@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:22:57 PM 29-11-2025",
+    "last update time": "11:33:07 PM 29-11-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -16,20 +16,6 @@
             "startTime": "11:30:00 PM 29-11-2025",
             "dai_url": "https://dx2t0z1gzcvgu.cloudfront.net/out/v1/fab241a5180048cb864ca24c5c83dda4/index.m3u8",
             "adfree_url": "https://dx2t0z1gzcvgu.cloudfront.net/out/v1/fab241a5180048cb864ca24c5c83dda4/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "UAE Bulls vs Ajman Titans (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138228_5763_AJT_DB_fc-web_1763728590149.png",
-            "team_1": "UAE Bulls",
-            "team_2": "Ajman Titans",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "UAE Bulls vs Ajman Titans",
-            "match_id": 138232,
-            "startTime": "09:30:00 PM 29-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/FMupNUuuREmXtPRgYQ50IQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138232_english_hls_e7b17301d282908_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -62,7 +48,7 @@
         {
             "event_category": "Football",
             "title": "Al-Ittihad vs Al-Shabab FC (Saudi Kings Cup 2025-2026)",
-            "src": "https://images.fancode.com/aig/match/v1/138028_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-VS-Al-Shabab-FC_old.jpg",
             "team_1": "Al-Ittihad",
             "team_2": "Al-Shabab FC",
             "status": "LIVE",
@@ -103,13 +89,27 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Quetta Qavalry vs TBC (Abu Dhabi T10, 2025)",
+            "title": "UAE Bulls vs Ajman Titans (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138228_5763_AJT_DB_fc-web_1763728590149.png",
+            "team_1": "UAE Bulls",
+            "team_2": "Ajman Titans",
+            "status": "LIVE",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "UAE Bulls vs Ajman Titans",
+            "match_id": 138232,
+            "startTime": "09:30:00 PM 29-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/FMupNUuuREmXtPRgYQ50IQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138232_english_hls_e7b17301d282908_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Quetta Qavalry",
-            "team_2": "TBC",
+            "team_2": "UAE Bulls",
             "status": "UPCOMING",
             "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Quetta Qavalry vs TBC",
+            "match_name": "Quetta Qavalry vs UAE Bulls",
             "match_id": 138233,
             "startTime": "05:00:00 PM 30-11-2025"
         },
