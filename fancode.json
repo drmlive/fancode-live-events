@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:51:19 AM 01-12-2025",
+    "last update time": "04:01:29 AM 01-12-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Girona FC vs Real Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130960_5427_GIR_RM_fc-Web.jpg",
-            "team_1": "Girona FC",
-            "team_2": "Real Madrid",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona FC vs Real Madrid",
-            "match_id": 130960,
-            "startTime": "01:30:00 AM 01-12-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130960_english_hls_858887ec0e9573_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130960_english_hls_858887ec0e9573_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Malaysia vs Bahrain (Mini SEA Games Men's T20, 2025)",
@@ -436,6 +422,18 @@
             "match_name": "Day 1",
             "match_id": 138276,
             "startTime": "12:00:00 AM 05-12-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Melbourne, Australia (Crown Australian Open 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/2025-Crown-Australian-Open_Old-Match-Card.png",
+            "team_1": "Day 3",
+            "team_2": "Melbourne, Australia",
+            "status": "UPCOMING",
+            "event_name": "Crown Australian Open 2025",
+            "match_name": "Day 3",
+            "match_id": 138615,
+            "startTime": "06:30:00 AM 05-12-2025"
         }
     ]
 }
