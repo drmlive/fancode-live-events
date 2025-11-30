@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:52:11 PM 30-11-2025",
+    "last update time": "07:02:23 PM 30-11-2025",
     "matches": [
         {
             "event_category": "Hockey",
@@ -30,6 +30,20 @@
             "startTime": "06:30:00 PM 30-11-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Aspin Stallions vs UAE Bulls (Abu Dhabi T10, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138226_5763_DB_AST_fc-web_1763729430464.png",
+            "team_1": "Aspin Stallions",
+            "team_2": "UAE Bulls",
+            "status": "LIVE",
+            "event_name": "Abu Dhabi T10, 2025",
+            "match_name": "Aspin Stallions vs UAE Bulls",
+            "match_id": 138234,
+            "startTime": "07:15:00 PM 30-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/IrDQ0wGER6qT1u8v2uPs1A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138234_english_hls_ea6d09dcc85340_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -72,46 +86,6 @@
             "startTime": "06:00:00 PM 30-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/m5-WqJoXQ5-bg_y9vtmsvQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137198_english_hls_48cd739f0748161_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138216_5763_QQY_DB_fc-web_1763728589864.png",
-            "team_1": "Quetta Qavalry",
-            "team_2": "UAE Bulls",
-            "status": "LIVE",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "Quetta Qavalry vs UAE Bulls",
-            "match_id": 138233,
-            "startTime": "05:00:00 PM 30-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/D_i3eLprQv-PdTkLQefcxQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138233_english_hls_5b3e3f9b7684299_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Karnali Yaks vs Kathmandu Gorkhas (Nepal Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138311_5771_KNY_KMG_FC-Web.jpg",
-            "team_1": "Karnali Yaks",
-            "team_2": "Kathmandu Gorkhas",
-            "status": "LIVE",
-            "event_name": "Nepal Premier League, 2025",
-            "match_name": "Karnali Yaks vs Kathmandu Gorkhas",
-            "match_id": 138311,
-            "startTime": "03:15:00 PM 30-11-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138311_english_hls_61ec21c4158250_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138311_english_hls_61ec21c4158250_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "TBC vs TBC (Abu Dhabi T10, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Abu Dhabi T10, 2025",
-            "match_name": "TBC vs TBC",
-            "match_id": 138234,
-            "startTime": "07:15:00 PM 30-11-2025"
         },
         {
             "event_category": "Football",
@@ -424,6 +398,18 @@
             "match_name": "Athletic Club vs Real Madrid",
             "match_id": 131017,
             "startTime": "11:30:00 PM 03-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "1. FC Union Berlin vs FC Bayern M\u00fcnchen (DFB Pokal 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "team_1": "1. FC Union Berlin",
+            "team_2": "FC Bayern M\u00fcnchen",
+            "status": "UPCOMING",
+            "event_name": "DFB Pokal 2025-26",
+            "match_name": "1. FC Union Berlin vs FC Bayern M\u00fcnchen",
+            "match_id": 138403,
+            "startTime": "01:15:00 AM 04-12-2025"
         }
     ]
 }
