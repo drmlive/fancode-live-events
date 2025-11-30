@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:21:28 PM 30-11-2025",
+    "last update time": "06:31:54 PM 30-11-2025",
     "matches": [
+        {
+            "event_category": "Hockey",
+            "title": "Belgium vs India (Sultan Azlan Shah Cup)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138415_5777_BEL_IND_fc-Web.jpg",
+            "team_1": "Belgium",
+            "team_2": "India",
+            "status": "LIVE",
+            "event_name": "Sultan Azlan Shah Cup",
+            "match_name": "Belgium vs India",
+            "match_id": 138428,
+            "startTime": "06:00:00 PM 30-11-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ge_MfXtpRNWskiPUWVQ8rQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138428_english_hls_a0db59900b79127_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Quetta Qavalry vs UAE Bulls (Abu Dhabi T10, 2025)",
@@ -16,6 +30,20 @@
             "startTime": "05:00:00 PM 30-11-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/D_i3eLprQv-PdTkLQefcxQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138233_english_hls_5b3e3f9b7684299_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Villarreal CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130963_5427_RS_VIL_fc-Web.jpg",
+            "team_1": "Real Sociedad",
+            "team_2": "Villarreal CF",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Sociedad vs Villarreal CF",
+            "match_id": 130963,
+            "startTime": "06:30:00 PM 30-11-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -33,34 +61,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Real Sociedad vs Villarreal CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130963_5427_RS_VIL_fc-Web.jpg",
-            "team_1": "Real Sociedad",
-            "team_2": "Villarreal CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Sociedad vs Villarreal CF",
-            "match_id": 130963,
-            "startTime": "06:30:00 PM 30-11-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130963_english_hls_a9ceb8708f85727_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Hockey",
-            "title": "Belgium vs India (Sultan Azlan Shah Cup)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138415_5777_BEL_IND_fc-Web.jpg",
-            "team_1": "Belgium",
-            "team_2": "India",
-            "status": "LIVE",
-            "event_name": "Sultan Azlan Shah Cup",
-            "match_name": "Belgium vs India",
-            "match_id": 138428,
-            "startTime": "06:00:00 PM 30-11-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ge_MfXtpRNWskiPUWVQ8rQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138428_english_hls_a0db59900b79127_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Zaragoza vs Legan\u00e9s (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/138072_CASACARDS_APP.png",
             "team_1": "Real Zaragoza",
@@ -70,8 +70,8 @@
             "match_name": "Real Zaragoza vs Legan\u00e9s",
             "match_id": 138072,
             "startTime": "06:30:00 PM 30-11-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/9mRPIC3DTYWMFsSCWR5Amg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138072_english_hls_7fa992dab119799_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Motorsports",
