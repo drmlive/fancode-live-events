@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:53:02 AM 02-12-2025",
+    "last update time": "12:03:09 PM 02-12-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
-            "team_1": "New Zealand",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "West Indies tour of New Zealand, 2025",
-            "match_name": "New Zealand vs West Indies",
-            "match_id": 137696,
-            "startTime": "03:30:00 AM 02-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764696728~acl=/*~id=42132006586068843678200198527966~hmac=96a8fa1e748a774847f77d0fdbe91c0bdb209cfd8c644c4d1fa270e1f2bdd839"
-        },
         {
             "event_category": "Cricket",
             "title": "Chitwan Rhinos vs Janakpur Bolts (Nepal Premier League, 2025)",
@@ -44,6 +30,18 @@
             "startTime": "04:30:00 AM 02-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ExwudwIKRlWHCagrbbgtTQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133942_english_hls_924fd5469f81107_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
+            "team_1": "New Zealand",
+            "team_2": "West Indies",
+            "status": "PAUSED",
+            "event_name": "West Indies tour of New Zealand, 2025",
+            "match_name": "New Zealand vs West Indies",
+            "match_id": 137696,
+            "startTime": "03:30:00 AM 02-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -451,6 +449,18 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "Real Oviedo vs RCD Mallorca",
             "match_id": 130976,
+            "startTime": "01:30:00 AM 06-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Hull City vs Middlesbrough F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hull-City-VS-Middlesbrough_old.jpg",
+            "team_1": "Hull City",
+            "team_2": "Middlesbrough F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Hull City vs Middlesbrough F.C.",
+            "match_id": 136976,
             "startTime": "01:30:00 AM 06-12-2025"
         }
     ]
