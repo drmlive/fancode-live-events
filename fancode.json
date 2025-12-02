@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:12:20 AM 02-12-2025",
+    "last update time": "11:22:30 AM 02-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -47,6 +47,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Chitwan Rhinos vs Janakpur Bolts (Nepal Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138312_5771_JKB_CWR_FC-Web_1764576119656.jpg",
+            "team_1": "Chitwan Rhinos",
+            "team_2": "Janakpur Bolts",
+            "status": "LIVE",
+            "event_name": "Nepal Premier League, 2025",
+            "match_name": "Chitwan Rhinos vs Janakpur Bolts",
+            "match_id": 138312,
+            "startTime": "11:30:00 AM 02-12-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138312_english_hls_0045c9ba337372_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138312_english_hls_0045c9ba337372_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Bangladesh vs Ireland (Ireland tour of Bangladesh, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/IRE-vs-BAN_old.jpg",
             "team_1": "Bangladesh",
@@ -68,18 +82,6 @@
             "match_name": "Dubai Capitals vs Desert Vipers",
             "match_id": 138623,
             "startTime": "08:00:00 PM 02-12-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Janakpur Bolts vs Chitwan Rhinos (Nepal Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138312_5771_JKB_CWR_FC-Web_1764576119656.jpg",
-            "team_1": "Janakpur Bolts",
-            "team_2": "Chitwan Rhinos",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2025",
-            "match_name": "Janakpur Bolts vs Chitwan Rhinos",
-            "match_id": 138312,
-            "startTime": "11:30:00 AM 02-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -452,6 +454,18 @@
             "match_name": "Practice 2",
             "match_id": 118497,
             "startTime": "06:30:00 PM 05-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Oviedo vs RCD Mallorca (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130976_5427_RO_MRC_fc-Web.jpg",
+            "team_1": "Real Oviedo",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Oviedo vs RCD Mallorca",
+            "match_id": 130976,
+            "startTime": "01:30:00 AM 06-12-2025"
         }
     ]
 }
