@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:02:38 AM 04-12-2025",
+    "last update time": "11:12:51 AM 04-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "match_id": 137696,
             "startTime": "03:30:00 AM 02-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764840832~acl=/*~id=90930447720659842738322545832791~hmac=9153eb73b9189394ac2b00ba1032eb253b49964a136a654bf6f3e250afbe106c"
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1764870170~acl=/*~id=48683818107256253280293859991432~hmac=a67dfde836f75989156b6db6e905c5e07bbc1ec92d359d707a876a12ea94da0e"
         },
         {
             "event_category": "Cricket",
@@ -61,20 +61,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Hong Kong, China Women vs Malaysia Women (Hong Kong, China Women tour of Malaysia, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-China-Women's-Tour-of-Malaysia_old.jpg",
-            "team_1": "Hong Kong, China Women",
-            "team_2": "Malaysia Women",
-            "status": "LIVE",
-            "event_name": "Hong Kong, China Women tour of Malaysia, 2025",
-            "match_name": "Hong Kong, China Women vs Malaysia Women",
-            "match_id": 138661,
-            "startTime": "07:00:00 AM 04-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/UOcXHcJYRoWu_dn8lxN6dQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138661_english_hls_9b3121322078790_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Gulf Giants vs MI Emirates (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138625_5786_GG_MIE_FC-Web.jpg",
             "team_1": "Gulf Giants",
@@ -91,11 +77,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138315_5771_PKA_KMG_FC-Web_1764576119645.jpg",
             "team_1": "Pokhara Avengers",
             "team_2": "Kathmandu Gorkhas",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Nepal Premier League, 2025",
             "match_name": "Pokhara Avengers vs Kathmandu Gorkhas",
             "match_id": 138315,
-            "startTime": "11:30:00 AM 04-12-2025"
+            "startTime": "11:30:00 AM 04-12-2025",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/138315_english_hls_f04c407d7645939_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138315_english_hls_f04c407d7645939_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -456,6 +444,18 @@
             "match_name": "Villarreal CF vs Getafe CF",
             "match_id": 130974,
             "startTime": "06:30:00 PM 06-12-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Sun City, South Africa (Nedbank Golf Challenge in honour of Gary Player)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nedbank-Golf-Challenge_2025_Old_match-cards.jpg",
+            "team_1": "Day 3",
+            "team_2": "Sun City, South Africa",
+            "status": "UPCOMING",
+            "event_name": "Nedbank Golf Challenge in honour of Gary Player",
+            "match_name": "Day 3",
+            "match_id": 138674,
+            "startTime": "02:30:00 PM 06-12-2025"
         }
     ]
 }
