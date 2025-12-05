@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:42:19 PM 05-12-2025",
+    "last update time": "12:02:39 AM 06-12-2025",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi Knight Riders vs Desert Vipers (DP World ILT20 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138626_5786_DV_ADKR_FC-Web.jpg",
-            "team_1": "Abu Dhabi Knight Riders",
-            "team_2": "Desert Vipers",
-            "status": "LIVE",
-            "event_name": "DP World ILT20 2025-26",
-            "match_name": "Abu Dhabi Knight Riders vs Desert Vipers",
-            "match_id": 138626,
-            "startTime": "08:00:00 PM 05-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/viuhuSG3QKCOGrwUxn6qjA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138626_english_hls_d4c434877c85745_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 2 vs United States (Skechers World Champions Cup)",
@@ -30,6 +16,20 @@
             "startTime": "07:00:00 PM 05-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/GuiUTHQbSCWsl1WuqC1L-w/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138681_english_hls_b3a6bc363277119_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Albany GC (Hero World Challenge)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg",
+            "team_1": "Day 2",
+            "team_2": "Albany GC",
+            "status": "LIVE",
+            "event_name": "Hero World Challenge",
+            "match_name": "Day 2",
+            "match_id": 138277,
+            "startTime": "12:00:00 AM 06-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/cUGnLTeaTKW3XnHNrVvShA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138277_english_hls_ae42a95a2d44810_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -90,6 +90,18 @@
             "match_name": "Sudurpaschim Royals vs Biratnagar Kings",
             "match_id": 138318,
             "startTime": "11:00:00 AM 06-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Oman Women vs Bahrain Women (Oman Women's T20I Triangular Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "team_1": "Oman Women",
+            "team_2": "Bahrain Women",
+            "status": "UPCOMING",
+            "event_name": "Oman Women's T20I Triangular Series, 2025",
+            "match_name": "Oman Women vs Bahrain Women",
+            "match_id": 138708,
+            "startTime": "03:00:00 PM 06-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -212,18 +224,6 @@
             "startTime": "10:30:00 AM 06-12-2025"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 2 vs Albany GC (Hero World Challenge)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg",
-            "team_1": "Day 2",
-            "team_2": "Albany GC",
-            "status": "UPCOMING",
-            "event_name": "Hero World Challenge",
-            "match_name": "Day 2",
-            "match_id": 138277,
-            "startTime": "12:00:00 AM 06-12-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Bristol City F.C. vs Millwall F.C. (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Bristol-City-VS-Millwall_old.jpg",
@@ -246,18 +246,6 @@
             "match_name": "Deportivo Alaves vs Real Sociedad",
             "match_id": 130978,
             "startTime": "08:45:00 PM 06-12-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Oman Women vs Bahrain Women (Oman Women's T20I Triangular Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "team_1": "Oman Women",
-            "team_2": "Bahrain Women",
-            "status": "UPCOMING",
-            "event_name": "Oman Women's T20I Triangular Series, 2025",
-            "match_name": "Oman Women vs Bahrain Women",
-            "match_id": 138708,
-            "startTime": "03:00:00 PM 06-12-2025"
         },
         {
             "event_category": "Football",
@@ -405,18 +393,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
-            "team_1": "Karnali Yaks",
-            "team_2": "Janakpur Bolts",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2025",
-            "match_name": "Karnali Yaks vs Janakpur Bolts",
-            "match_id": 138320,
-            "startTime": "03:15:00 PM 07-12-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Oman Women vs Qatar Women (Oman Women's T20I Triangular Series, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "team_1": "Oman Women",
@@ -426,6 +402,18 @@
             "match_name": "Oman Women vs Qatar Women",
             "match_id": 138710,
             "startTime": "03:00:00 PM 07-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
+            "team_1": "Karnali Yaks",
+            "team_2": "Janakpur Bolts",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2025",
+            "match_name": "Karnali Yaks vs Janakpur Bolts",
+            "match_id": 138320,
+            "startTime": "03:15:00 PM 07-12-2025"
         },
         {
             "event_category": "Cricket",
