@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:57:21 PM 06-12-2025",
+    "last update time": "01:07:36 PM 06-12-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -31,34 +31,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "Victoria",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs Victoria",
-            "match_id": 134029,
-            "startTime": "05:00:00 AM 04-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/_M3uFHvkShOstM0mPl7UtQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134029_english_hls_af4f51ce7060032_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134031_5609_SAU_TAS_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "South Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs South Australia",
-            "match_id": 134031,
-            "startTime": "05:30:00 AM 05-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/OvIElgvURl6iay85SZb-5g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134031_english_hls_0385f5e48575559_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Dubai Capitals vs Gulf Giants (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138627_5786_DC_GG_FC-Web.jpg",
             "team_1": "Dubai Capitals",
@@ -68,6 +40,30 @@
             "match_name": "Dubai Capitals vs Gulf Giants",
             "match_id": 138627,
             "startTime": "08:00:00 PM 06-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Victoria",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Victoria",
+            "match_id": 134029,
+            "startTime": "05:00:00 AM 04-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania vs South Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134031_5609_SAU_TAS_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs South Australia",
+            "match_id": 134031,
+            "startTime": "05:30:00 AM 05-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -428,6 +424,18 @@
             "match_name": "Real Madrid vs RC Celta",
             "match_id": 130973,
             "startTime": "01:30:00 AM 08-12-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 4 vs Albany GC (Hero World Challenge)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg",
+            "team_1": "Day 4",
+            "team_2": "Albany GC",
+            "status": "UPCOMING",
+            "event_name": "Hero World Challenge",
+            "match_name": "Day 4",
+            "match_id": 138279,
+            "startTime": "10:00:00 PM 07-12-2025"
         }
     ]
 }
