@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:17:02 PM 06-12-2025",
+    "last update time": "07:27:23 PM 06-12-2025",
     "matches": [
-        {
-            "event_category": "Formula 1",
-            "title": "Qualifying vs Abu Dhabi (F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Abu Dhabi",
-            "status": "LIVE",
-            "event_name": "F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025",
-            "match_name": "Qualifying",
-            "match_id": 118499,
-            "startTime": "07:30:00 PM 06-12-2025",
-            "dai_url": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8",
-            "adfree_url": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Derby County Football Club vs Leicester City F.C. (EFL Championship 2025-26)",
@@ -72,6 +58,20 @@
             "startTime": "07:00:00 PM 06-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/ximLitgVR2K-j0nAk6ipRQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138662_english_hls_9c11adf4eb97375_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Qualifying vs Abu Dhabi (F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg",
+            "team_1": "Qualifying",
+            "team_2": "Abu Dhabi",
+            "status": "LIVE",
+            "event_name": "F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025",
+            "match_name": "Qualifying",
+            "match_id": 118499,
+            "startTime": "07:30:00 PM 06-12-2025",
+            "dai_url": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8",
+            "adfree_url": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -182,18 +182,6 @@
             "startTime": "05:30:00 AM 05-12-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Huesca vs Real Valladolid (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/138266_CASACARDS_APP.png",
-            "team_1": "Huesca",
-            "team_2": "Real Valladolid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Huesca vs Real Valladolid",
-            "match_id": 138266,
-            "startTime": "08:45:00 PM 06-12-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Dubai Capitals vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138629_5786_DC_ADKR_FC-Web.jpg",
@@ -204,6 +192,18 @@
             "match_name": "Dubai Capitals vs Abu Dhabi Knight Riders",
             "match_id": 138629,
             "startTime": "08:00:00 PM 07-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Huesca vs Real Valladolid (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/138266_CASACARDS_APP.png",
+            "team_1": "Huesca",
+            "team_2": "Real Valladolid",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Huesca vs Real Valladolid",
+            "match_id": 138266,
+            "startTime": "08:45:00 PM 06-12-2025"
         },
         {
             "event_category": "Cricket",
