@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:35:53 PM 06-12-2025",
+    "last update time": "06:46:16 PM 06-12-2025",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg",
             "team_1": "Qualifying",
             "team_2": "Abu Dhabi",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025",
             "match_name": "Qualifying",
             "match_id": 118499,
-            "startTime": "07:30:00 PM 06-12-2025"
+            "startTime": "07:30:00 PM 06-12-2025",
+            "dai_url": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8",
+            "adfree_url": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -82,8 +84,8 @@
             "match_name": "Indian Supercross Racing League",
             "match_id": 138662,
             "startTime": "07:00:00 PM 06-12-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/ximLitgVR2K-j0nAk6ipRQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138662_english_hls_9c11adf4eb97375_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -233,18 +235,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
-            "team_1": "Karnali Yaks",
-            "team_2": "Janakpur Bolts",
-            "status": "UPCOMING",
-            "event_name": "Nepal Premier League, 2025",
-            "match_name": "Karnali Yaks vs Janakpur Bolts",
-            "match_id": 138320,
-            "startTime": "03:15:00 PM 07-12-2025"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Dubai Capitals vs Abu Dhabi Knight Riders (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138629_5786_DC_ADKR_FC-Web.jpg",
             "team_1": "Dubai Capitals",
@@ -254,6 +244,18 @@
             "match_name": "Dubai Capitals vs Abu Dhabi Knight Riders",
             "match_id": 138629,
             "startTime": "08:00:00 PM 07-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Karnali Yaks vs Janakpur Bolts (Nepal Premier League, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138320_5771_KNY_JKB_FC-Web_1764576118859.jpg",
+            "team_1": "Karnali Yaks",
+            "team_2": "Janakpur Bolts",
+            "status": "UPCOMING",
+            "event_name": "Nepal Premier League, 2025",
+            "match_name": "Karnali Yaks vs Janakpur Bolts",
+            "match_id": 138320,
+            "startTime": "03:15:00 PM 07-12-2025"
         },
         {
             "event_category": "Football",
@@ -352,6 +354,18 @@
             "startTime": "11:00:00 PM 07-12-2025"
         },
         {
+            "event_category": "Football",
+            "title": "Real Madrid vs RC Celta (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130973_5427_RM_CEV_fc-Web.jpg",
+            "team_1": "Real Madrid",
+            "team_2": "RC Celta",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Madrid vs RC Celta",
+            "match_id": 130973,
+            "startTime": "01:30:00 AM 08-12-2025"
+        },
+        {
             "event_category": "Formula 1",
             "title": "Race vs Abu Dhabi (F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg",
@@ -374,18 +388,6 @@
             "match_name": "F1 Kids",
             "match_id": 138024,
             "startTime": "06:30:00 PM 07-12-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Madrid vs RC Celta (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130973_5427_RM_CEV_fc-Web.jpg",
-            "team_1": "Real Madrid",
-            "team_2": "RC Celta",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Madrid vs RC Celta",
-            "match_id": 130973,
-            "startTime": "01:30:00 AM 08-12-2025"
         },
         {
             "event_category": "Golf",
