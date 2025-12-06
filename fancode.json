@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:01:34 PM 06-12-2025",
+    "last update time": "10:11:51 PM 06-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -74,34 +74,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138674_english_hls_7b47ff6fec24460_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Indian Supercross Racing League vs Hyderabad (Indian Supercross Racing League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ISRL_Old_match-card_2_1764661126526.jpg",
-            "team_1": "Indian Supercross Racing League",
-            "team_2": "Hyderabad",
-            "status": "LIVE",
-            "event_name": "Indian Supercross Racing League",
-            "match_name": "Indian Supercross Racing League",
-            "match_id": 138662,
-            "startTime": "07:00:00 PM 06-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ximLitgVR2K-j0nAk6ipRQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138662_english_hls_9c11adf4eb97375_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Qualifying vs Abu Dhabi (F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-AbuDhabi_Old_match-card.jpg",
-            "team_1": "Qualifying",
-            "team_2": "Abu Dhabi",
-            "status": "LIVE",
-            "event_name": "F1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025",
-            "match_name": "Qualifying",
-            "match_id": 118499,
-            "startTime": "07:30:00 PM 06-12-2025",
-            "dai_url": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8",
-            "adfree_url": "https://d35ky0yx76u70r.cloudfront.net/out/v1/0018736122654365be4cf5e7dfdbcc0b/index.m3u8"
-        },
-        {
             "event_category": "Football",
             "title": "Real Betis vs FC Barcelona (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130972_5427_RB_BAR_fc-Web.jpg",
@@ -151,6 +123,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Oman Women vs Qatar Women (Oman Women's T20I Triangular Series, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/OMAN-vs-Qatar-web.jpg",
+            "team_1": "Oman Women",
+            "team_2": "Qatar Women",
+            "status": "UPCOMING",
+            "event_name": "Oman Women's T20I Triangular Series, 2025",
+            "match_name": "Oman Women vs Qatar Women",
+            "match_id": 138710,
+            "startTime": "03:00:00 PM 07-12-2025"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg",
             "team_1": "Western Australia",
@@ -184,18 +168,6 @@
             "match_name": "Tasmania vs South Australia",
             "match_id": 134031,
             "startTime": "05:30:00 AM 05-12-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Oman Women vs Qatar Women (Oman Women's T20I Triangular Series, 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/OMAN-vs-Qatar-web.jpg",
-            "team_1": "Oman Women",
-            "team_2": "Qatar Women",
-            "status": "UPCOMING",
-            "event_name": "Oman Women's T20I Triangular Series, 2025",
-            "match_name": "Oman Women vs Qatar Women",
-            "match_id": 138710,
-            "startTime": "03:00:00 PM 07-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -448,6 +420,30 @@
             "match_name": "Qatar Women vs Bahrain Women",
             "match_id": 138709,
             "startTime": "03:00:00 PM 09-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Machida Zelvia vs Ulsan HD (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136026_5647_MZ_ULS_fc-Web.jpg",
+            "team_1": "Machida Zelvia",
+            "team_2": "Ulsan HD",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Machida Zelvia vs Ulsan HD",
+            "match_id": 136026,
+            "startTime": "03:30:00 PM 09-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Vissel Kobe vs Chengdu Rongcheng (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136025_5647_VIS_CR_fc-Web.jpg",
+            "team_1": "Vissel Kobe",
+            "team_2": "Chengdu Rongcheng",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Vissel Kobe vs Chengdu Rongcheng",
+            "match_id": 136025,
+            "startTime": "03:30:00 PM 09-12-2025"
         }
     ]
 }
