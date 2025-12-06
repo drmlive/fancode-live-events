@@ -1,21 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:08:49 AM 07-12-2025",
+    "last update time": "04:19:04 AM 07-12-2025",
     "matches": [
         {
-            "event_category": "Football",
-            "title": "Athletic Club vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130979_5427_ATH_ATL_fc-Web.jpg",
-            "team_1": "Athletic Club",
-            "team_2": "Atletico de Madrid",
+            "event_category": "Cricket",
+            "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Victoria",
             "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club vs Atletico de Madrid",
-            "match_id": 130979,
-            "startTime": "01:30:00 AM 07-12-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130979_english_hls_f51551c30624650_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130979_english_hls_f51551c30624650_1ta-di_h264/index.m3u8"
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Victoria",
+            "match_id": 134029,
+            "startTime": "05:00:00 AM 04-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ywxp-xAUSZO-DSt0xQzB-A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134029_english_hls_af4f51ce70992_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -76,18 +76,6 @@
             "match_name": "Elche CF vs Girona FC",
             "match_id": 130970,
             "startTime": "06:30:00 PM 07-12-2025"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134029_5609_VCT_WAU_fc-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "Victoria",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs Victoria",
-            "match_id": 134029,
-            "startTime": "05:00:00 AM 04-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -435,6 +423,18 @@
             "event_name": "EFL Championship 2025-26",
             "match_name": "Queens Park Rangers F.C. vs Birmingham City F.C.",
             "match_id": 136977,
+            "startTime": "01:30:00 AM 10-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Arsenal Women vs FC Twente Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "FC Twente Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Arsenal Women vs FC Twente Women",
+            "match_id": 137595,
             "startTime": "01:30:00 AM 10-12-2025"
         }
     ]
