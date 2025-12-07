@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:06:13 AM 08-12-2025",
+    "last update time": "03:16:24 AM 08-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "01:30:00 AM 08-12-2025",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130973_english_hls_b35ef444f080590_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130973_english_hls_b35ef444f080590_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 4 vs Albany GC (Hero World Challenge)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hero-World-Challenge_Old-Match-Card.jpg",
-            "team_1": "Day 4",
-            "team_2": "Albany GC",
-            "status": "LIVE",
-            "event_name": "Hero World Challenge",
-            "match_name": "Day 4",
-            "match_id": 138279,
-            "startTime": "10:00:00 PM 07-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/gyK3UzGUSamn_yF9ByCIxw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138279_english_hls_3d11395b7578551_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -438,6 +424,18 @@
             "match_name": "Club Atletico de Madrid Femenino vs Bayern Munich Women",
             "match_id": 137598,
             "startTime": "01:30:00 AM 11-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bengaluru Eagles vs Mumbai Fighters (Ability Sports League 2025)",
+            "src": "https://images.fancode.com/aig/match/v1/138703_CASACARDS_APP.png",
+            "team_1": "Bengaluru Eagles",
+            "team_2": "Mumbai Fighters",
+            "status": "UPCOMING",
+            "event_name": "Ability Sports League 2025",
+            "match_name": "Bengaluru Eagles vs Mumbai Fighters",
+            "match_id": 138703,
+            "startTime": "09:30:00 AM 11-12-2025"
         }
     ]
 }
