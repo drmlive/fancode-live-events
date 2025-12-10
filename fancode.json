@@ -1,75 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:48:41 AM 11-12-2025",
+    "last update time": "03:58:53 AM 11-12-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Hull City vs Wrexham A.F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136978_5489_HUL_WRX_fc-web.jpg",
-            "team_1": "Hull City",
-            "team_2": "Wrexham A.F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Hull City vs Wrexham A.F.C.",
-            "match_id": 136978,
-            "startTime": "01:30:00 AM 11-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/oB4QJjF1SYmQax5GmcURww/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136978_english_hls_2ecf71ede99421_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chelsea F.C. Women vs Roma Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137600_5720_CHE-W_ROM-W_fc-web.jpg",
-            "team_1": "Chelsea F.C. Women",
-            "team_2": "Roma Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Chelsea F.C. Women vs Roma Women",
-            "match_id": 137600,
-            "startTime": "01:30:00 AM 11-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/kd1WwyW9QHKRZ2_LhKb-Cw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137600_english_hls_7193987d9244471_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Manchester United Women vs Olympique Lyonnais Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137599_5720_MUN-W_OLY-W_fc-web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Olympique Lyonnais Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Manchester United Women vs Olympique Lyonnais Women",
-            "match_id": 137599,
-            "startTime": "01:30:00 AM 11-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ysIxWFiwSn-_4EePDugrzA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137599_english_hls_f5585e759a54262_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Club Atletico de Madrid Femenino vs Bayern Munich Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/137598_5720_ATL-W_BAY-W_fc-web.jpg",
-            "team_1": "Club Atletico de Madrid Femenino",
-            "team_2": "Bayern Munich Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Club Atletico de Madrid Femenino vs Bayern Munich Women",
-            "match_id": 137598,
-            "startTime": "01:30:00 AM 11-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/qy6xDPkoRRaF7q5LrTs2pg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137598_english_hls_a8e04758e026714_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "West Indies vs New Zealand (West Indies tour of New Zealand, 2025)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg",
             "team_1": "West Indies",
             "team_2": "New Zealand",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "West Indies tour of New Zealand, 2025",
             "match_name": "West Indies vs New Zealand",
             "match_id": 137697,
-            "startTime": "03:30:00 AM 10-12-2025"
+            "startTime": "03:30:00 AM 10-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1765448933~acl=/*~id=21883217984861336068122341916192~hmac=12dfafe5a8f5c63a5c55ef4b6e1e84004ec4e387c0bf452c484f92f545b44f21"
         },
         {
             "event_category": "Cricket",
@@ -454,6 +400,54 @@
             "match_name": "Atletico de Madrid vs Valencia CF",
             "match_id": 130988,
             "startTime": "06:30:00 PM 13-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bahrain Women vs Kuwait Women (GCC Women's T20I Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138717_5798_BRNW_KU-W_fc-web.jpg",
+            "team_1": "Bahrain Women",
+            "team_2": "Kuwait Women",
+            "status": "UPCOMING",
+            "event_name": "GCC Women's T20I Championship, 2025",
+            "match_name": "Bahrain Women vs Kuwait Women",
+            "match_id": 138717,
+            "startTime": "08:00:00 PM 13-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wrexham A.F.C. vs Watford F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136982_5489_WRX_WAT_fc-web.jpg",
+            "team_1": "Wrexham A.F.C.",
+            "team_2": "Watford F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Wrexham A.F.C. vs Watford F.C.",
+            "match_id": 136982,
+            "startTime": "08:30:00 PM 13-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "RCD Mallorca vs Elche CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130983_5427_MRC_ELC_fc-web.jpg",
+            "team_1": "RCD Mallorca",
+            "team_2": "Elche CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Mallorca vs Elche CF",
+            "match_id": 130983,
+            "startTime": "08:45:00 PM 13-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting de Gij\u00f3n vs Granada (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/138619_CASACARDS_APP.png",
+            "team_1": "Sporting de Gij\u00f3n",
+            "team_2": "Granada",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Sporting de Gij\u00f3n vs Granada",
+            "match_id": 138619,
+            "startTime": "08:45:00 PM 13-12-2025"
         }
     ]
 }
