@@ -1,50 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:48:55 AM 13-12-2025",
+    "last update time": "03:59:04 AM 13-12-2025",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Tibur\u00f3n Golf Club (Grant Thornton Invitational)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Grant-Thornton-Invitational_old-match-card.jpg",
-            "team_1": "Day 1",
-            "team_2": "Tibur\u00f3n Golf Club",
-            "status": "LIVE",
-            "event_name": "Grant Thornton Invitational",
-            "match_name": "Day 1",
-            "match_id": 138728,
-            "startTime": "11:30:00 PM 12-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/fQaRUDUXTLmiwzrRkpN-8Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138728_english_hls_e8e498860d11924_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs Girona FC (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130985_5427_RS_GIR_fc-web.jpg",
-            "team_1": "Real Sociedad",
-            "team_2": "Girona FC",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Sociedad vs Girona FC",
-            "match_id": 130985,
-            "startTime": "01:30:00 AM 13-12-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130985_english_hls_106e3de95c91001_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130985_english_hls_106e3de95c91001_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "West Bromwich Albion F.C. vs Sheffield United F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136981_5489_WBA_SHF_fc-web.jpg",
-            "team_1": "West Bromwich Albion F.C.",
-            "team_2": "Sheffield United F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "West Bromwich Albion F.C. vs Sheffield United F.C.",
-            "match_id": 136981,
-            "startTime": "01:30:00 AM 13-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/b_H1B4luRnyBFHIGzlvnFg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136981_english_hls_02bf4173d456222_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Abu Dhabi Knight Riders vs Dubai Capitals (DP World ILT20 2025-26)",
@@ -167,18 +125,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Brisbane Roar (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138796_5802_SYW_BRB_fc-web.jpg",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Brisbane Roar",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Western Sydney Wanderers vs Brisbane Roar",
-            "match_id": 138796,
-            "startTime": "11:30:00 AM 13-12-2025"
-        },
-        {
-            "event_category": "Football",
             "title": "FC Barcelona vs CA Osasuna (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg",
             "team_1": "FC Barcelona",
@@ -188,6 +134,18 @@
             "match_name": "FC Barcelona vs CA Osasuna",
             "match_id": 130989,
             "startTime": "11:00:00 PM 13-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Brisbane Roar (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138796_5802_SYW_BRB_fc-web.jpg",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Brisbane Roar",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Western Sydney Wanderers vs Brisbane Roar",
+            "match_id": 138796,
+            "startTime": "11:30:00 AM 13-12-2025"
         },
         {
             "event_category": "Football",
@@ -440,6 +398,42 @@
             "match_name": "Sharjah Warriorz vs Gulf Giants",
             "match_id": 138638,
             "startTime": "08:00:00 PM 15-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kuwait Women vs United Arab Emirates Women (GCC Women's T20I Championship, 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138720_5798_KU-W_UAE-W_fc-web.jpg",
+            "team_1": "Kuwait Women",
+            "team_2": "United Arab Emirates Women",
+            "status": "UPCOMING",
+            "event_name": "GCC Women's T20I Championship, 2025",
+            "match_name": "Kuwait Women vs United Arab Emirates Women",
+            "match_id": 138720,
+            "startTime": "08:00:00 PM 15-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rayo Vallecano vs Real Betis (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130982_5427_RVL_RB_fc-web.jpg",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Real Betis",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rayo Vallecano vs Real Betis",
+            "match_id": 130982,
+            "startTime": "01:30:00 AM 16-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sheffield Wednesday F.C. vs Derby County Football Club (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136980_5489_SHFF_DER_fc-web.jpg",
+            "team_1": "Sheffield Wednesday F.C.",
+            "team_2": "Derby County Football Club",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Sheffield Wednesday F.C. vs Derby County Football Club",
+            "match_id": 136980,
+            "startTime": "01:30:00 AM 16-12-2025"
         }
     ]
 }
