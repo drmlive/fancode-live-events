@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:39:25 AM 14-12-2025",
+    "last update time": "03:49:34 AM 14-12-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Real Zaragoza vs C\u00e1diz (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/138620_CASACARDS_APP.png",
-            "team_1": "Real Zaragoza",
-            "team_2": "C\u00e1diz",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Zaragoza vs C\u00e1diz",
-            "match_id": 138620,
-            "startTime": "01:30:00 AM 14-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/DjuBOzTvSrW_pyulLOctdQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138620_english_hls_de9c8afe1380585_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Getafe CF vs RCD Espanyol (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130984_5427_GEF_ESL_fc-web.jpg",
-            "team_1": "Getafe CF",
-            "team_2": "RCD Espanyol",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Getafe CF vs RCD Espanyol",
-            "match_id": 130984,
-            "startTime": "01:30:00 AM 14-12-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130984_english_hls_1506319c7e67106_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130984_english_hls_1506319c7e67106_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "MI Emirates vs Sharjah Warriorz (DP World ILT20 2025-26)",
@@ -450,6 +422,30 @@
             "match_name": "Albacete vs RC Celta",
             "match_id": 138901,
             "startTime": "11:30:00 PM 17-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "CD Atletico Baleares vs Atletico de Madrid (Copa del Rey, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "CD Atletico Baleares",
+            "team_2": "Atletico de Madrid",
+            "status": "UPCOMING",
+            "event_name": "Copa del Rey, 2025-26",
+            "match_name": "CD Atletico Baleares vs Atletico de Madrid",
+            "match_id": 138900,
+            "startTime": "11:30:00 PM 17-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Manchester City vs Brentford (Carabao Cup 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Manchester-City-vs--Brentford_.jpg",
+            "team_1": "Manchester City",
+            "team_2": "Brentford",
+            "status": "UPCOMING",
+            "event_name": "Carabao Cup 2025-2026",
+            "match_name": "Manchester City vs Brentford",
+            "match_id": 137983,
+            "startTime": "01:00:00 AM 18-12-2025"
         }
     ]
 }
