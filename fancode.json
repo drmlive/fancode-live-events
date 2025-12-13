@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:24:03 PM 13-12-2025",
+    "last update time": "12:34:27 PM 13-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "Bengaluru Eagles vs Lucknow Stallions",
             "match_id": 138707,
             "startTime": "09:00:00 AM 13-12-2025",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/dTCipLiZSb2SzCfw2QC4Og/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138707_english_hls_fc3780759015550_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -214,18 +214,6 @@
             "startTime": "01:30:00 AM 14-12-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Wellington Phoenix vs Newcastle Jets (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138799_5802_WEL_NJ_fc-web.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Newcastle Jets",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix vs Newcastle Jets",
-            "match_id": 138799,
-            "startTime": "07:30:00 AM 14-12-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "MI Emirates vs Sharjah Warriorz (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138636_5786_MIE_SWR_FC-Web.jpg",
@@ -236,6 +224,18 @@
             "match_name": "MI Emirates vs Sharjah Warriorz",
             "match_id": 138636,
             "startTime": "03:30:00 PM 14-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Newcastle Jets (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138799_5802_WEL_NJ_fc-web.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Newcastle Jets",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix vs Newcastle Jets",
+            "match_id": 138799,
+            "startTime": "07:30:00 AM 14-12-2025"
         },
         {
             "event_category": "Golf",
