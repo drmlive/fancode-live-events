@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:17:10 AM 14-12-2025",
+    "last update time": "01:27:20 AM 14-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -44,20 +44,6 @@
             "startTime": "12:30:00 AM 14-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/TCxMln2lQRyR1PI-M6IKkQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138729_english_hls_509a3b62cb30853_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "FC Barcelona vs CA Osasuna (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130989_5427_BAR_OSN_fc-web.jpg",
-            "team_1": "FC Barcelona",
-            "team_2": "CA Osasuna",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "FC Barcelona vs CA Osasuna",
-            "match_id": 130989,
-            "startTime": "11:00:00 PM 13-12-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130989_english_hls_4028905a0a57778_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -453,6 +439,18 @@
             "event_name": "UEFA Women's Champions League 2025-26",
             "match_name": "Olympique Lyonnais Women vs Club Atletico de Madrid Femenino",
             "match_id": 137604,
+            "startTime": "01:30:00 AM 18-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Benfica Women vs Paris FC Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/137603_CASACARDS_APP.png",
+            "team_1": "Benfica Women",
+            "team_2": "Paris FC Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Benfica Women vs Paris FC Women",
+            "match_id": 137603,
             "startTime": "01:30:00 AM 18-12-2025"
         }
     ]
