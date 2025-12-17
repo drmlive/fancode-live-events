@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:38:25 AM 18-12-2025",
+    "last update time": "12:48:40 AM 18-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Manchester-City-vs--Brentford_.jpg",
             "team_1": "Manchester City",
             "team_2": "Brentford",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Carabao Cup 2025-2026",
             "match_name": "Manchester City vs Brentford",
             "match_id": 137983,
-            "startTime": "01:00:00 AM 18-12-2025"
+            "startTime": "01:00:00 AM 18-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/ZOx9AzTJQ4O9oQhu3VPSKA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/137983_english_hls_60626a727d89666_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -94,20 +96,6 @@
             "startTime": "11:30:00 PM 17-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/Z7NFprXLSOeD0JYkyJj4oQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138901_english_hls_bcb508a9e692026_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Cultural Leonesa vs Levante (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138899_5806_CL_LE_FC-Web.jpg",
-            "team_1": "Cultural Leonesa",
-            "team_2": "Levante",
-            "status": "LIVE",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Cultural Leonesa vs Levante",
-            "match_id": 138899,
-            "startTime": "10:30:00 PM 17-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/DHa8FbQYT7-BcWjzIoEL5w/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138899_english_hls_201af2524850827_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -254,18 +242,6 @@
             "startTime": "01:30:00 AM 18-12-2025"
         },
         {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi Knight Riders vs Gulf Giants (DP World ILT20 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138641_5786_ADKR_GG_FC-Web.jpg",
-            "team_1": "Abu Dhabi Knight Riders",
-            "team_2": "Gulf Giants",
-            "status": "UPCOMING",
-            "event_name": "DP World ILT20 2025-26",
-            "match_name": "Abu Dhabi Knight Riders vs Gulf Giants",
-            "match_id": 138641,
-            "startTime": "08:00:00 PM 18-12-2025"
-        },
-        {
             "event_category": "Football",
             "title": "Newcastle United vs Fulham (Carabao Cup 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Newcastle-United-vs-Fulham-(1).jpg",
@@ -276,6 +252,18 @@
             "match_name": "Newcastle United vs Fulham",
             "match_id": 137986,
             "startTime": "01:45:00 AM 18-12-2025"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Abu Dhabi Knight Riders vs Gulf Giants (DP World ILT20 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138641_5786_ADKR_GG_FC-Web.jpg",
+            "team_1": "Abu Dhabi Knight Riders",
+            "team_2": "Gulf Giants",
+            "status": "UPCOMING",
+            "event_name": "DP World ILT20 2025-26",
+            "match_name": "Abu Dhabi Knight Riders vs Gulf Giants",
+            "match_id": 138641,
+            "startTime": "08:00:00 PM 18-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -456,6 +444,18 @@
             "match_name": "Sharjah Warriorz vs Dubai Capitals",
             "match_id": 138642,
             "startTime": "08:00:00 PM 19-12-2025"
+        },
+        {
+            "event_category": "Golf",
+            "title": "AfrAsia Bank Mauritius Open vs Heritage La R\u00e9serve GC, Heritage Bel Ombre, Maurit (AfrAsia Bank Mauritius Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AfrAsia-Bank-Mauritius-Open_New_old.jpg",
+            "team_1": "AfrAsia Bank Mauritius Open",
+            "team_2": "Heritage La R\u00e9serve GC, Heritage Bel Ombre, Maurit",
+            "status": "UPCOMING",
+            "event_name": "AfrAsia Bank Mauritius Open",
+            "match_name": "AfrAsia Bank Mauritius Open",
+            "match_id": 138696,
+            "startTime": "02:00:00 PM 19-12-2025"
         }
     ]
 }
