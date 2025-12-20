@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:34:34 PM 20-12-2025",
+    "last update time": "05:44:39 PM 20-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -87,11 +87,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136984_5489_SOU_CVC_fc-web.jpg",
             "team_1": "Southampton F.C.",
             "team_2": "Coventry City Football Club",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2025-26",
             "match_name": "Southampton F.C. vs Coventry City Football Club",
             "match_id": 136984,
-            "startTime": "06:00:00 PM 20-12-2025"
+            "startTime": "06:00:00 PM 20-12-2025",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -130,18 +132,6 @@
             "startTime": "08:45:00 PM 20-12-2025"
         },
         {
-            "event_category": "Football",
-            "title": "CA Osasuna vs Deportivo Alaves (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130991_5427_OSN_ALA_fc-web_1765803323624.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Deportivo Alaves",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "CA Osasuna vs Deportivo Alaves",
-            "match_id": 130991,
-            "startTime": "11:00:00 PM 20-12-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Gulf Giants vs Dubai Capitals (DP World ILT20 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138645_5786_GG_DC_FC-Web.jpg",
@@ -154,16 +144,16 @@
             "startTime": "03:30:00 PM 21-12-2025"
         },
         {
-            "event_category": "Team Tennis",
-            "title": "AOS Eagles vs Aussie Mavericks Kites (World Tennis League 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138827_5803_AMK_AOS_fc-web.jpg",
-            "team_1": "AOS Eagles",
-            "team_2": "Aussie Mavericks Kites",
+            "event_category": "Football",
+            "title": "CA Osasuna vs Deportivo Alaves (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/130991_5427_OSN_ALA_fc-web_1765803323624.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Deportivo Alaves",
             "status": "UPCOMING",
-            "event_name": "World Tennis League 2025",
-            "match_name": "AOS Eagles vs Aussie Mavericks Kites",
-            "match_id": 138831,
-            "startTime": "06:00:00 PM 20-12-2025"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "CA Osasuna vs Deportivo Alaves",
+            "match_id": 130991,
+            "startTime": "11:00:00 PM 20-12-2025"
         },
         {
             "event_category": "Football",
@@ -176,6 +166,18 @@
             "match_name": "Wellington Phoenix vs Central Coast Mariners",
             "match_id": 138806,
             "startTime": "07:30:00 AM 21-12-2025"
+        },
+        {
+            "event_category": "Team Tennis",
+            "title": "AOS Eagles vs Aussie Mavericks Kites (World Tennis League 2025)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138827_5803_AMK_AOS_fc-web.jpg",
+            "team_1": "AOS Eagles",
+            "team_2": "Aussie Mavericks Kites",
+            "status": "UPCOMING",
+            "event_name": "World Tennis League 2025",
+            "match_name": "AOS Eagles vs Aussie Mavericks Kites",
+            "match_id": 138831,
+            "startTime": "06:00:00 PM 20-12-2025"
         },
         {
             "event_category": "Cricket",
