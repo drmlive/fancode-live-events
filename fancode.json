@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:46:32 AM 21-12-2025",
+    "last update time": "04:56:37 AM 21-12-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Real Madrid vs Sevilla FC (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/130990_5427_RM_SEV_fc-web_1765803328431.png",
-            "team_1": "Real Madrid",
-            "team_2": "Sevilla FC",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Madrid vs Sevilla FC",
-            "match_id": 130990,
-            "startTime": "01:30:00 AM 21-12-2025",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/130990_english_hls_c8f61dfffc635_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/130990_english_hls_c8f61dfffc635_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "New Zealand vs West Indies (West Indies tour of New Zealand, 2025)",
@@ -30,20 +16,6 @@
             "startTime": "03:30:00 AM 18-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766309706~acl=/*~id=86543231812836849982855201433166~hmac=e8dad67559a77a7b9c7ccb697fa0a8ce7deef78e1b3f556678718c2ffb9ab5c7"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 2 vs Ritz-Carlton Golf Club (PNC Championship 2025)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship_FC-Web_1766132279851.jpg",
-            "team_1": "Day 2",
-            "team_2": "Ritz-Carlton Golf Club",
-            "status": "LIVE",
-            "event_name": "PNC Championship 2025",
-            "match_name": "Day 2",
-            "match_id": 138961,
-            "startTime": "11:30:00 PM 20-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/YEjYmrXyQCCpXD7Hf1mA2w/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138961_english_hls_d6e276404364593_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -440,6 +412,18 @@
             "match_name": "Algeria vs Sudan",
             "match_id": 138344,
             "startTime": "08:30:00 PM 24-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Nassr FC vs AL Zawraa SC (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136138_5648_ANF_ALZ_FC-Web.jpg",
+            "team_1": "Al-Nassr FC",
+            "team_2": "AL Zawraa SC",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Al-Nassr FC vs AL Zawraa SC",
+            "match_id": 136138,
+            "startTime": "09:30:00 PM 24-12-2025"
         }
     ]
 }
