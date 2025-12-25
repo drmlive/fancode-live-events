@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:23:16 AM 25-12-2025",
+    "last update time": "09:33:28 AM 25-12-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al-Nassr FC vs AL Zawraa SC (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136138_5648_ANF_ALZ_FC-Web.jpg",
-            "team_1": "Al-Nassr FC",
-            "team_2": "AL Zawraa SC",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Al-Nassr FC vs AL Zawraa SC",
-            "match_id": 136138,
-            "startTime": "09:30:00 PM 24-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/SC1ZuFh8R3ayFLBc8klDcg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136138_english_hls_30dc12587a12429_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Al Barkat vs Anjuman English Allana (129th Harris Shield Cricket Tournament)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/129th-Harris-Shield-Cricket-Tournament-old-match-card_v2_1765970952698.jpg",
             "team_1": "Al Barkat",
             "team_2": "Anjuman English Allana",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "129th Harris Shield Cricket Tournament",
             "match_name": "Al Barkat vs Anjuman English Allana",
             "match_id": 139142,
-            "startTime": "09:45:00 AM 23-12-2025"
+            "startTime": "09:45:00 AM 23-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/wERTrqW_SUap6eorG6feZg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139142_english_hls_074be7c0d133243_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -436,6 +424,18 @@
             "match_name": "Muscat Thunders vs Majees Titans",
             "match_id": 139152,
             "startTime": "09:00:00 PM 27-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uganda vs Tanzania (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138353_5774_UGN_TNZ_fc-web_1766386874109.jpg",
+            "team_1": "Uganda",
+            "team_2": "Tanzania",
+            "status": "UPCOMING",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Uganda vs Tanzania",
+            "match_id": 138353,
+            "startTime": "11:00:00 PM 27-12-2025"
         }
     ]
 }
