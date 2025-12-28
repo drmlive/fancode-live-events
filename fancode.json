@@ -1,21 +1,35 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:11:19 AM 29-12-2025",
+    "last update time": "01:21:37 AM 29-12-2025",
     "matches": [
         {
             "event_category": "Football",
-            "title": "Algeria vs Burkina Faso (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138356_5774_ALG_BRK_fc-web_1766386874254.jpg",
-            "team_1": "Algeria",
-            "team_2": "Burkina Faso",
+            "title": "Ivory Coast vs Cameroon (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138365_5774_IVC_CMR_fc-web_1766386874740.jpg",
+            "team_1": "Ivory Coast",
+            "team_2": "Cameroon",
             "status": "LIVE",
             "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Algeria vs Burkina Faso",
-            "match_id": 138356,
-            "startTime": "11:00:00 PM 28-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/9sQ-UvOsQaqL8zkczHn5yg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138356_english_hls_e4d1cef68e84641_1ta-di_h264/index.m3u8"
+            "match_name": "Ivory Coast vs Cameroon",
+            "match_id": 138365,
+            "startTime": "01:30:00 AM 29-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/V-ERIDjFRuOn48yGrdtplg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138365_english_hls_6a81e90d8c90298_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "New York vs Atlanta vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "New York vs Atlanta",
+            "team_2": "Florida",
+            "status": "LIVE",
+            "event_name": "TGL Season 2",
+            "match_name": "New York vs Atlanta",
+            "match_id": 139163,
+            "startTime": "01:30:00 AM 29-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/hdI31ONnRLuBE5dUQpZTfw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139163_english_hls_96cb51060916107_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -52,18 +66,6 @@
             "match_name": "Rangpur Riders vs Chattogram Royals",
             "match_id": 138920,
             "startTime": "12:30:00 PM 29-12-2025"
-        },
-        {
-            "event_category": "Football",
-            "title": "Ivory Coast vs Cameroon (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138365_5774_IVC_CMR_fc-web_1766386874740.jpg",
-            "team_1": "Ivory Coast",
-            "team_2": "Cameroon",
-            "status": "UPCOMING",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Ivory Coast vs Cameroon",
-            "match_id": 138365,
-            "startTime": "01:30:00 AM 29-12-2025"
         },
         {
             "event_category": "Cricket",
@@ -136,18 +138,6 @@
             "match_name": "Angola vs Egypt",
             "match_id": 138369,
             "startTime": "09:30:00 PM 29-12-2025"
-        },
-        {
-            "event_category": "Golf",
-            "title": "New York vs Atlanta vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "New York vs Atlanta",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "New York vs Atlanta",
-            "match_id": 139163,
-            "startTime": "01:30:00 AM 29-12-2025"
         },
         {
             "event_category": "Football",
@@ -423,6 +413,18 @@
             "event_name": "Africa Cup of Nations 2025-26",
             "match_name": "Mozambique vs Cameroon",
             "match_id": 138378,
+            "startTime": "12:30:00 AM 01-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Gabon vs Ivory Coast (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138377_5774_GAB_IVC_fc-web_1766386874349.jpg",
+            "team_1": "Gabon",
+            "team_2": "Ivory Coast",
+            "status": "UPCOMING",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Gabon vs Ivory Coast",
+            "match_id": 138377,
             "startTime": "12:30:00 AM 01-01-2026"
         }
     ]
