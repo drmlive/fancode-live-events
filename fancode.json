@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:49:54 AM 30-12-2025",
+    "last update time": "04:00:04 AM 30-12-2025",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Birmingham City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136989_5489_BIR_SOU_fc-web.jpg",
-            "team_1": "Birmingham City F.C.",
-            "team_2": "Southampton F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Birmingham City F.C. vs Southampton F.C.",
-            "match_id": 136989,
-            "startTime": "01:45:00 AM 30-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/weiQWUvuQfSwZ5QH3mHHKA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136989_english_hls_c7fe32b87e91650_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Otago Sparks vs Central Hinds (Women's Super Smash, 2025-26)",
@@ -412,6 +398,18 @@
             "match_name": "Auckland Hearts vs Wellington Blaze",
             "match_id": 138770,
             "startTime": "05:10:00 AM 02-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Auckland Aces vs Wellington Firebirds (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138738_5800_AA_WF_fc-web_1766641250920.jpg",
+            "team_1": "Auckland Aces",
+            "team_2": "Wellington Firebirds",
+            "status": "UPCOMING",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Auckland Aces vs Wellington Firebirds",
+            "match_id": 138738,
+            "startTime": "08:55:00 AM 02-01-2026"
         }
     ]
 }
