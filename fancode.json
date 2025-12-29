@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:37:22 AM 30-12-2025",
+    "last update time": "01:47:32 AM 30-12-2025",
     "matches": [
         {
             "event_category": "Football",
@@ -58,20 +58,6 @@
             "startTime": "01:45:00 AM 30-12-2025",
             "dai_url": "https://dai.google.com/linear/hls/event/weiQWUvuQfSwZ5QH3mHHKA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136989_english_hls_c7fe32b87e91650_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Coventry City Football Club vs Ipswich Town F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136990_5489_CVC_IPT_fc-web.jpg",
-            "team_1": "Coventry City Football Club",
-            "team_2": "Ipswich Town F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Coventry City Football Club vs Ipswich Town F.C.",
-            "match_id": 136990,
-            "startTime": "11:30:00 PM 29-12-2025",
-            "dai_url": "https://dai.google.com/linear/hls/event/ira8A0pSQ5iqRsSEnunbpA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136990_english_hls_a3291ac80654702_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -420,6 +406,18 @@
             "match_name": "Southampton F.C. vs Millwall F.C.",
             "match_id": 136994,
             "startTime": "08:30:00 PM 01-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Oman D20 League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Oman D20 League, 2025-26",
+            "match_name": "TBC vs TBC",
+            "match_id": 139158,
+            "startTime": "09:00:00 PM 01-01-2026"
         }
     ]
 }
