@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:42:25 AM 29-12-2025",
+    "last update time": "11:52:36 AM 29-12-2025",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138920_5808_RAN_CCH_fc-web_1766733054132.jpg",
             "team_1": "Rangpur Riders",
             "team_2": "Chattogram Royals",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Bangladesh Premier League, 2025-26",
             "match_name": "Rangpur Riders vs Chattogram Royals",
             "match_id": 138920,
-            "startTime": "12:30:00 PM 29-12-2025"
+            "startTime": "12:30:00 PM 29-12-2025",
+            "dai_url": "https://dai.google.com/linear/hls/event/vChD82AMQTuc9NZuXeK4QQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138920_english_hls_c3c8e1c36052146_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -174,18 +176,6 @@
             "startTime": "01:45:00 AM 30-12-2025"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138811_5802_MLV_WEL_fc-web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Wellington Phoenix",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Wellington Phoenix",
-            "match_id": 138811,
-            "startTime": "01:30:00 PM 29-12-2025"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sylhet Titans vs Chattogram Royals (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138922_5808_SYL_CCH_fc-web_1766733054335.jpg",
@@ -196,6 +186,18 @@
             "match_name": "Sylhet Titans vs Chattogram Royals",
             "match_id": 138922,
             "startTime": "12:30:00 PM 30-12-2025"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Wellington Phoenix (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138811_5802_MLV_WEL_fc-web.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Wellington Phoenix",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Wellington Phoenix",
+            "match_id": 138811,
+            "startTime": "01:30:00 PM 29-12-2025"
         },
         {
             "event_category": "Cricket",
