@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:33:54 PM 01-01-2026",
+    "last update time": "10:44:05 PM 01-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,34 +30,6 @@
             "startTime": "09:00:00 PM 01-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/vjk-mE4BTa20LndyZnwChQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139158_english_hls_30b544bb9436907_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Wycombe Wanderers vs Cardiff City (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
-            "team_1": "Wycombe Wanderers",
-            "team_2": "Cardiff City",
-            "status": "LIVE",
-            "event_name": "League One 2025-26",
-            "match_name": "Wycombe Wanderers vs Cardiff City",
-            "match_id": 135967,
-            "startTime": "08:30:00 PM 01-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/hrRmFD9rT9i5nd4cWthieg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/135967_english_hls_84efa0182874587_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Southampton F.C. vs Millwall F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/136994_5489_SOU_MLW_fc-web.jpg",
-            "team_1": "Southampton F.C.",
-            "team_2": "Millwall F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton F.C. vs Millwall F.C.",
-            "match_id": 136994,
-            "startTime": "08:30:00 PM 01-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/0YN0xYNfSI-4T1E29-xCfA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136994_english_hls_888c12be8e43192_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -101,11 +73,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/136993_5489_SHF_LEI_fc-web.jpg",
             "team_1": "Sheffield United F.C.",
             "team_2": "Leicester City F.C.",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2025-26",
             "match_name": "Sheffield United F.C. vs Leicester City F.C.",
             "match_id": 136993,
-            "startTime": "11:00:00 PM 01-01-2026"
+            "startTime": "11:00:00 PM 01-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/nnZv1QHiSoCvVdLhqO3uEA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136993_english_hls_bc374b493e82679_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -442,6 +416,30 @@
             "match_name": "Day 1",
             "match_id": 139184,
             "startTime": "10:30:00 AM 04-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United vs Central Coast Mariners (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138818_5802_ADL_CCM_fc-web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Central Coast Mariners",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Central Coast Mariners",
+            "match_id": 138818,
+            "startTime": "02:05:00 PM 04-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dhaka Capitals vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138923_5808_DC_RAN_fc-web_1766733054311.jpg",
+            "team_1": "Dhaka Capitals",
+            "team_2": "Rangpur Riders",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Dhaka Capitals vs Rangpur Riders",
+            "match_id": 138923,
+            "startTime": "05:30:00 PM 04-01-2026"
         }
     ]
 }
