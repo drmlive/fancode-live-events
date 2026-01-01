@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:01:57 AM 01-01-2026",
+    "last update time": "10:12:08 AM 01-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Canterbury vs Central Stags (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138737_5800_CTB_CS_fc-web_1766641250989.jpg",
+            "team_1": "Canterbury",
+            "team_2": "Central Stags",
+            "status": "LIVE",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Canterbury vs Central Stags",
+            "match_id": 138737,
+            "startTime": "10:25:00 AM 01-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/7zbdyhvFRgmlkzfEPiZq2w/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138737_english_hls_bb09d5de5079575_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "Auckland vs Newcastle Jets (A League 2025-26)",
@@ -16,18 +30,6 @@
             "startTime": "09:30:00 AM 01-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/5OljjuJESceo78xoxOEQBA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138813_english_hls_76303c626a1474_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Canterbury vs Central Stags (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138737_5800_CTB_CS_fc-web_1766641250989.jpg",
-            "team_1": "Canterbury",
-            "team_2": "Central Stags",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Canterbury vs Central Stags",
-            "match_id": 138737,
-            "startTime": "10:25:00 AM 01-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -198,18 +200,6 @@
             "startTime": "12:30:00 PM 02-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Perth Glory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138815_5802_MLV_PG_fc-web.jpg",
-            "team_1": "Melbourne Victory",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Perth Glory",
-            "match_id": 138815,
-            "startTime": "02:05:00 PM 02-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
@@ -220,6 +210,18 @@
             "match_name": "Sylhet Titans vs Rangpur Riders",
             "match_id": 138927,
             "startTime": "06:30:00 PM 02-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Perth Glory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138815_5802_MLV_PG_fc-web.jpg",
+            "team_1": "Melbourne Victory",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Perth Glory",
+            "match_id": 138815,
+            "startTime": "02:05:00 PM 02-01-2026"
         },
         {
             "event_category": "Cricket",
