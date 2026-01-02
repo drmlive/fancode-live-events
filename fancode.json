@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:42:02 PM 02-01-2026",
+    "last update time": "05:52:15 PM 02-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
+            "team_1": "Sylhet Titans",
+            "team_2": "Rangpur Riders",
+            "status": "LIVE",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Sylhet Titans vs Rangpur Riders",
+            "match_id": 138927,
+            "startTime": "06:30:00 PM 02-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/o-p3_ocHSIO3A5x5lUcYjA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138927_english_hls_2ad2b01ca384942_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Majees Titans vs Renaissance Challengers (Oman D20 League, 2025-26)",
@@ -16,18 +30,6 @@
             "startTime": "05:00:00 PM 02-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/lahQHbS7RtKWZvVd0iXYvw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139160_english_hls_72995e4f2798476_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sylhet Titans vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg",
-            "team_1": "Sylhet Titans",
-            "team_2": "Rangpur Riders",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Sylhet Titans vs Rangpur Riders",
-            "match_id": 138927,
-            "startTime": "06:30:00 PM 02-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -174,18 +176,6 @@
             "startTime": "07:30:00 PM 03-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Boston vs Los Angeles",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Boston vs Los Angeles",
-            "match_id": 139164,
-            "startTime": "05:30:00 AM 03-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "CA Osasuna vs Athletic Club (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131000_5427_OSN_ATH_fc-web.png",
@@ -196,6 +186,18 @@
             "match_name": "CA Osasuna vs Athletic Club",
             "match_id": 131000,
             "startTime": "08:45:00 PM 03-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Boston vs Los Angeles",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Boston vs Los Angeles",
+            "match_id": 139164,
+            "startTime": "05:30:00 AM 03-01-2026"
         },
         {
             "event_category": "Football",
