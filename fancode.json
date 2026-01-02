@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:39:22 AM 03-01-2026",
+    "last update time": "12:49:30 AM 03-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "IAS Invincibles vs Royal Oman Stallions (Oman D20 League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-            "team_1": "IAS Invincibles",
-            "team_2": "Royal Oman Stallions",
-            "status": "LIVE",
-            "event_name": "Oman D20 League, 2025-26",
-            "match_name": "IAS Invincibles vs Royal Oman Stallions",
-            "match_id": 139161,
-            "startTime": "09:00:00 PM 02-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/ajlLxiqjTBqOESJ5FVs7QA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139161_english_hls_863599e16528674_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al-Ahli Saudi FC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
@@ -30,6 +16,20 @@
             "startTime": "11:00:00 PM 02-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/QsA-vWvzSdqs_MuA9iESWw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139198_english_hls_8e24473f2b52638_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Eibar vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Eibar",
+            "team_2": "Mirand\u00e9s",
+            "status": "LIVE",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Eibar vs Mirand\u00e9s",
+            "match_id": 138912,
+            "startTime": "01:00:00 AM 03-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/5pN4Bf0lRSiDCIYsHBaaJg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138912_english_hls_c0feeb32aa10392_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -66,18 +66,6 @@
             "match_name": "Rayo Vallecano vs Getafe CF",
             "match_id": 131004,
             "startTime": "01:30:00 AM 03-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Eibar vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Eibar",
-            "team_2": "Mirand\u00e9s",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Eibar vs Mirand\u00e9s",
-            "match_id": 138912,
-            "startTime": "01:00:00 AM 03-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -402,6 +390,18 @@
             "match_name": "Real Madrid vs Real Betis",
             "match_id": 131003,
             "startTime": "08:45:00 PM 04-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Morocco vs Tanzania (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Morocco-vs-Tanzania_fc-web.jpg",
+            "team_1": "Morocco",
+            "team_2": "Tanzania",
+            "status": "UPCOMING",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Morocco vs Tanzania",
+            "match_id": 138384,
+            "startTime": "09:30:00 PM 04-01-2026"
         }
     ]
 }
