@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:14:02 AM 03-01-2026",
+    "last update time": "05:24:16 AM 03-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "05:10:00 AM 03-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/qcdiTInsQo6FUa741Ee-rA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138771_english_hls_927149832076500_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Boston vs Los Angeles",
+            "team_2": "Florida",
+            "status": "LIVE",
+            "event_name": "TGL Season 2",
+            "match_name": "Boston vs Los Angeles",
+            "match_id": 139164,
+            "startTime": "05:30:00 AM 03-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/IOi6_cvnSoeQpgOZKo-rFw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139164_english_hls_e73df5a93a99098_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -150,18 +164,6 @@
             "startTime": "02:05:00 PM 03-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "RCD Espanyol vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131002_5427_ESL_BAR_fc-web.png",
-            "team_1": "RCD Espanyol",
-            "team_2": "FC Barcelona",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RCD Espanyol vs FC Barcelona",
-            "match_id": 131002,
-            "startTime": "01:30:00 AM 04-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Northern Brave Women vs Otago Sparks (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
@@ -174,16 +176,16 @@
             "startTime": "06:40:00 AM 04-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Boston vs Los Angeles vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Boston vs Los Angeles",
-            "team_2": "Florida",
+            "event_category": "Football",
+            "title": "RCD Espanyol vs FC Barcelona (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131002_5427_ESL_BAR_fc-web.png",
+            "team_1": "RCD Espanyol",
+            "team_2": "FC Barcelona",
             "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Boston vs Los Angeles",
-            "match_id": 139164,
-            "startTime": "05:30:00 AM 03-01-2026"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Espanyol vs FC Barcelona",
+            "match_id": 131002,
+            "startTime": "01:30:00 AM 04-01-2026"
         },
         {
             "event_category": "Football",
