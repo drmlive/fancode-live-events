@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:37:32 AM 03-01-2026",
+    "last update time": "08:47:45 AM 03-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138739_5800_CS_CTB_fc-web_1766641251032.jpg",
             "team_1": "Central Stags",
             "team_2": "Canterbury",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Super Smash, 2025-26",
             "match_name": "Central Stags vs Canterbury",
             "match_id": 138739,
-            "startTime": "08:55:00 AM 03-01-2026"
+            "startTime": "08:55:00 AM 03-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/xUeu_Z1tSS6SNKgEeZNu2Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138739_english_hls_3e7a73d0358892_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -29,18 +31,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Majees Titans vs IAS Invincibles (Oman D20 League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
-            "team_1": "Majees Titans",
-            "team_2": "IAS Invincibles",
-            "status": "UPCOMING",
-            "event_name": "Oman D20 League, 2025-26",
-            "match_name": "Majees Titans vs IAS Invincibles",
-            "match_id": 139162,
-            "startTime": "07:30:00 PM 03-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Northern Brave Women vs Otago Sparks (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138772_5801_NB-W_OS-W_fc-web_1766596522204.jpg",
             "team_1": "Northern Brave Women",
@@ -50,6 +40,18 @@
             "match_name": "Northern Brave Women vs Otago Sparks",
             "match_id": 138772,
             "startTime": "06:40:00 AM 04-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Majees Titans vs IAS Invincibles (Oman D20 League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg",
+            "team_1": "Majees Titans",
+            "team_2": "IAS Invincibles",
+            "status": "UPCOMING",
+            "event_name": "Oman D20 League, 2025-26",
+            "match_name": "Majees Titans vs IAS Invincibles",
+            "match_id": 139162,
+            "startTime": "07:30:00 PM 03-01-2026"
         },
         {
             "event_category": "Football",
