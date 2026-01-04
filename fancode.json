@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:21:40 AM 05-01-2026",
+    "last update time": "03:31:51 AM 05-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "01:30:00 AM 05-01-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131001_english_hls_61a5b6264b76453_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131001_english_hls_61a5b6264b76453_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo La Coruna vs C\u00e1diz (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/138915_CASACARDS_APP.png",
-            "team_1": "Deportivo La Coruna",
-            "team_2": "C\u00e1diz",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Deportivo La Coruna vs C\u00e1diz",
-            "match_id": 138915,
-            "startTime": "01:30:00 AM 05-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/RevwHmedSkuwxMCWGJDlIA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138915_english_hls_d46df3cb6315335_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -402,6 +388,18 @@
             "match_name": "Sri Lanka vs Pakistan",
             "match_id": 139215,
             "startTime": "07:00:00 PM 07-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Korea Republic U23 vs IR Iran U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139254_5822_KR-U23_IRN-U23_fc-web.jpg",
+            "team_1": "Korea Republic U23",
+            "team_2": "IR Iran U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Korea Republic U23 vs IR Iran U23",
+            "match_id": 139254,
+            "startTime": "05:00:00 PM 07-01-2026"
         }
     ]
 }
