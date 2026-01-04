@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:04:41 PM 04-01-2026",
+    "last update time": "09:14:55 PM 04-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138923_5808_DC_RAN_fc-web_1766733054311.jpg",
-            "team_1": "Rangpur Riders",
-            "team_2": "Dhaka Capitals",
-            "status": "LIVE",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Rangpur Riders vs Dhaka Capitals",
-            "match_id": 138923,
-            "startTime": "05:30:00 PM 04-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/S7wGzp6OTQWSADvUswg9vA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138923_english_hls_dde84a7f2d34956_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Desert Vipers vs MI Emirates (DP World ILT20 2025-26)",
@@ -61,6 +47,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138923_5808_DC_RAN_fc-web_1766733054311.jpg",
+            "team_1": "Rangpur Riders",
+            "team_2": "Dhaka Capitals",
+            "status": "LIVE",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Rangpur Riders vs Dhaka Capitals",
+            "match_id": 138923,
+            "startTime": "05:30:00 PM 04-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/S7wGzp6OTQWSADvUswg9vA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138923_english_hls_dde84a7f2d34956_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Noakhali Express vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138930_5808_NOE_SYL_fc-web_1766733054379.jpg",
             "team_1": "Noakhali Express",
@@ -77,11 +77,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Morocco-vs-Tanzania_fc-web.jpg",
             "team_1": "Morocco",
             "team_2": "Tanzania",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Africa Cup of Nations 2025-26",
             "match_name": "Morocco vs Tanzania",
             "match_id": 138384,
-            "startTime": "09:30:00 PM 04-01-2026"
+            "startTime": "09:30:00 PM 04-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/cyuiXRtQQ0O7QMLVjQff6A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138384_english_hls_2cc98e8fd362998_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
