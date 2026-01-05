@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:05:18 PM 05-01-2026",
+    "last update time": "04:15:30 PM 05-01-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "Pat Rafter Arena - Day 2 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-            "team_1": "Pat Rafter Arena - Day 2",
-            "team_2": "Rafter Arena, Brisbane",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Brisbane",
-            "match_name": "Pat Rafter Arena - Day 2",
-            "match_id": 139186,
-            "startTime": "08:30:00 AM 05-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/XIGLGcHWQcS6CCO9oZ6hkg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139186_english_hls_0cc21fa7cf61944_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Center Court - Day 1 vs Hong Kong (ATP 250 - Hong Kong)",
@@ -428,6 +414,18 @@
             "match_name": "Qatar U23 vs United Arab Emirates U23",
             "match_id": 139256,
             "startTime": "10:00:00 PM 07-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Barcelona vs Athletic Club (SuperCopa 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-vs-Athletic-Club_fc-web.jpg",
+            "team_1": "FC Barcelona",
+            "team_2": "Athletic Club",
+            "status": "UPCOMING",
+            "event_name": "SuperCopa 2026",
+            "match_name": "FC Barcelona vs Athletic Club",
+            "match_id": 138957,
+            "startTime": "12:30:00 AM 08-01-2026"
         }
     ]
 }
