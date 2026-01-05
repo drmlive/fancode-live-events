@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:26:57 AM 06-01-2026",
+    "last update time": "02:37:08 AM 06-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Nigeria vs Mozambique (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Mozambique_fc-web.jpg",
-            "team_1": "Nigeria",
-            "team_2": "Mozambique",
-            "status": "LIVE",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Nigeria vs Mozambique",
-            "match_id": 138386,
-            "startTime": "12:30:00 AM 06-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/J9nFqZXaTFOQ3EqAzqS9lw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138386_english_hls_bb262e69c947373_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Leicester City F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
@@ -30,6 +16,20 @@
             "startTime": "01:30:00 AM 06-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/Ou0Q98hyRCuIY8bIAgOUrw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136996_english_hls_0dcfed604a94678_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nigeria vs Mozambique (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Mozambique_fc-web.jpg",
+            "team_1": "Nigeria",
+            "team_2": "Mozambique",
+            "status": "LIVE",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Nigeria vs Mozambique",
+            "match_id": 138386,
+            "startTime": "12:30:00 AM 06-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/J9nFqZXaTFOQ3EqAzqS9lw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138386_english_hls_bb262e69c947373_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -224,18 +224,6 @@
             "startTime": "08:55:00 AM 07-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "The Bay vs Atlanta vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "The Bay vs Atlanta",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "The Bay vs Atlanta",
-            "match_id": 139165,
-            "startTime": "03:30:00 AM 07-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Dhaka Capitals vs Noakhali Express (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138940_5808_DC_NOE_fc-web_1766733054889.jpg",
@@ -246,6 +234,18 @@
             "match_name": "Dhaka Capitals vs Noakhali Express",
             "match_id": 138940,
             "startTime": "12:30:00 PM 07-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "The Bay vs Atlanta vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "The Bay vs Atlanta",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "The Bay vs Atlanta",
+            "match_id": 139165,
+            "startTime": "03:30:00 AM 07-01-2026"
         },
         {
             "event_category": "Tennis",
