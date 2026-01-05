@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:43:05 PM 05-01-2026",
+    "last update time": "01:53:17 PM 05-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,20 +33,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Show Court 1 - Day 2 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-            "team_1": "Show Court 1 - Day 2",
-            "team_2": "Show Court 1, Brisbane",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Brisbane",
-            "match_name": "Show Court 1 - Day 2",
-            "match_id": 139187,
-            "startTime": "06:30:00 AM 05-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/YVL5FgEUTMCJxypEiAkwfw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139187_english_hls_1f1ff8471c36119_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
             "title": "Pat Rafter Arena - Day 2 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
             "team_1": "Pat Rafter Arena - Day 2",
@@ -72,6 +58,20 @@
             "startTime": "11:00:00 AM 05-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/dPthBMYHT_mdWLN-hEjE9A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139204_english_hls_1ebe611e3851403_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 1 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+            "team_1": "Centre Court - Day 1",
+            "team_2": "Bengaluru",
+            "status": "LIVE",
+            "event_name": "ATP Challenger 125 -  Bengaluru Open",
+            "match_name": "Centre Court - Day 1",
+            "match_id": 139283,
+            "startTime": "02:00:00 PM 05-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/6QUEKaZbQOS9Lnjv2kJmNQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139283_english_hls_ea5c6b725a48855_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -168,18 +168,6 @@
             "match_name": "Tasmania Women vs Queensland Fire",
             "match_id": 133965,
             "startTime": "05:00:00 AM 06-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 1 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-            "team_1": "Centre Court - Day 1",
-            "team_2": "Bengaluru",
-            "status": "UPCOMING",
-            "event_name": "ATP Challenger 125 -  Bengaluru Open",
-            "match_name": "Centre Court - Day 1",
-            "match_id": 139283,
-            "startTime": "02:00:00 PM 05-01-2026"
         },
         {
             "event_category": "Football",
@@ -432,6 +420,18 @@
             "match_name": "Japan U23 vs Syria U23",
             "match_id": 139253,
             "startTime": "05:00:00 PM 07-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 3 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+            "team_1": "Centre Court - Day 3",
+            "team_2": "Bengaluru",
+            "status": "UPCOMING",
+            "event_name": "ATP Challenger 125 -  Bengaluru Open",
+            "match_name": "Centre Court - Day 3",
+            "match_id": 139285,
+            "startTime": "02:00:00 PM 07-01-2026"
         }
     ]
 }
