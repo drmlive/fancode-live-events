@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:08:46 AM 06-01-2026",
+    "last update time": "04:19:00 AM 06-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Victoria Women vs ACT Meteors (Women's National Cricket League, 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/133963_CASACARDS_APP.png",
+            "team_1": "Victoria Women",
+            "team_2": "ACT Meteors",
+            "status": "LIVE",
+            "event_name": "Women's National Cricket League, 2025-26",
+            "match_name": "Victoria Women vs ACT Meteors",
+            "match_id": 133963,
+            "startTime": "04:30:00 AM 06-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/cv7NURR_QY6aS9iT1ZcZGQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133963_english_hls_7ca9b4a79566659_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Auckland Aces vs Otago Volts (Super Smash, 2025-26)",
@@ -26,18 +40,6 @@
             "match_name": "Auckland Hearts vs Otago Sparks",
             "match_id": 138773,
             "startTime": "09:20:00 AM 06-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "ACT Meteors vs Victoria Women (Women's National Cricket League, 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/133963_CASACARDS_APP.png",
-            "team_1": "ACT Meteors",
-            "team_2": "Victoria Women",
-            "status": "UPCOMING",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "ACT Meteors vs Victoria Women",
-            "match_id": 133963,
-            "startTime": "04:30:00 AM 06-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -76,18 +78,6 @@
             "startTime": "11:30:00 PM 06-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne City vs Brisbane Roar (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Brisbane Roar",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne City vs Brisbane Roar",
-            "match_id": 139297,
-            "startTime": "01:30:00 PM 06-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Wellington Blaze vs Central Hinds (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138774_5801_WB-W_CH-W_fc-web_1766596522150.jpg",
@@ -98,6 +88,18 @@
             "match_name": "Wellington Blaze vs Central Hinds",
             "match_id": 138774,
             "startTime": "05:10:00 AM 07-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City vs Brisbane Roar (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Brisbane Roar",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City vs Brisbane Roar",
+            "match_id": 139297,
+            "startTime": "01:30:00 PM 06-01-2026"
         },
         {
             "event_category": "Football",
@@ -244,18 +246,6 @@
             "startTime": "05:30:00 AM 07-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Center Court - Day 3 vs Hong Kong (ATP 250 - Hong Kong)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
-            "team_1": "Center Court - Day 3",
-            "team_2": "Hong Kong",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Hong Kong",
-            "match_name": "Center Court - Day 3",
-            "match_id": 139206,
-            "startTime": "10:00:00 AM 07-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Chattogram Royals vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138941_5808_CCH_SYL_fc-web_1766733054205.jpg",
@@ -266,6 +256,18 @@
             "match_name": "Chattogram Royals vs Sylhet Titans",
             "match_id": 138941,
             "startTime": "05:30:00 PM 07-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Center Court - Day 3 vs Hong Kong (ATP 250 - Hong Kong)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
+            "team_1": "Center Court - Day 3",
+            "team_2": "Hong Kong",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Hong Kong",
+            "match_name": "Center Court - Day 3",
+            "match_id": 139206,
+            "startTime": "10:00:00 AM 07-01-2026"
         },
         {
             "event_category": "Cricket",
