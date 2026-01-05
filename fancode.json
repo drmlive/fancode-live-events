@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:24:43 PM 05-01-2026",
+    "last update time": "03:34:53 PM 05-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Macarthur vs Auckland (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139296_CASACARDS_APP.png",
-            "team_1": "Macarthur",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Macarthur vs Auckland",
-            "match_id": 139296,
-            "startTime": "01:30:00 PM 05-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/31NDWMIsQIqcisOToES8pA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139296_english_hls_75a262b85778831_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Pat Rafter Arena - Day 2 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
@@ -418,6 +404,18 @@
             "match_name": "Centre Court - Day 3",
             "match_id": 139285,
             "startTime": "02:00:00 PM 07-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uzbekistan U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139255_5822_UZB-U23_LEB-U23_fc-web.jpg",
+            "team_1": "Uzbekistan U23",
+            "team_2": "Lebanon U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Uzbekistan U23 vs Lebanon U23",
+            "match_id": 139255,
+            "startTime": "07:30:00 PM 07-01-2026"
         }
     ]
 }
