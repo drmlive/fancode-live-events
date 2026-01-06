@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:59:29 PM 06-01-2026",
+    "last update time": "12:09:44 AM 07-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Algeria vs DR Congo (Africa Cup of Nations 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-web.jpg",
-            "team_1": "Algeria",
-            "team_2": "DR Congo",
-            "status": "LIVE",
-            "event_name": "Africa Cup of Nations 2025-26",
-            "match_name": "Algeria vs DR Congo",
-            "match_id": 138385,
-            "startTime": "09:30:00 PM 06-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Ezh29GBMSEKXUOf4jCOwYA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138385_english_hls_661a51027281776_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Granada vs Rayo Vallecano (Copa del Rey, 2025-26)",
@@ -30,6 +16,20 @@
             "startTime": "11:30:00 PM 06-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/dwrwINh-SgCgUNe-KQNEpg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138909_english_hls_a06e4ac05a52513_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Algeria vs DR Congo (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-web.jpg",
+            "team_1": "Algeria",
+            "team_2": "DR Congo",
+            "status": "LIVE",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Algeria vs DR Congo",
+            "match_id": 138385,
+            "startTime": "09:30:00 PM 06-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ezh29GBMSEKXUOf4jCOwYA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138385_english_hls_661a51027281776_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -73,11 +73,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ivory-Coast-vs-Burkina-Faso_fc-web.jpg",
             "team_1": "Ivory Coast",
             "team_2": "Burkina Faso",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Africa Cup of Nations 2025-26",
             "match_name": "Ivory Coast vs Burkina Faso",
             "match_id": 138382,
-            "startTime": "12:30:00 AM 07-01-2026"
+            "startTime": "12:30:00 AM 07-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/_FjSDe0vQYmIoGi3IsxMCg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138382_english_hls_0ed4026f7a8462_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
