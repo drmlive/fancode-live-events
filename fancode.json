@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:02:53 AM 06-01-2026",
+    "last update time": "08:13:02 AM 06-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Auckland Aces vs Otago Volts (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-web_1766641250967.jpg",
-            "team_1": "Auckland Aces",
-            "team_2": "Otago Volts",
-            "status": "LIVE",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Auckland Aces vs Otago Volts",
-            "match_id": 138741,
-            "startTime": "05:10:00 AM 06-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/wctGIR8sTPOo1blpDrAlbA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138741_english_hls_b36cd39d8d7465_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Victoria Women vs ACT Meteors (Women's National Cricket League, 2025-26)",
@@ -58,6 +44,20 @@
             "startTime": "06:30:00 AM 06-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/T5VAk0GASbyyzI3k0rKsxQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139189_english_hls_113052468285825_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Auckland Aces vs Otago Volts (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138741_5800_AA_OV_fc-web_1766641250967.jpg",
+            "team_1": "Auckland Aces",
+            "team_2": "Otago Volts",
+            "status": "LIVE",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Auckland Aces vs Otago Volts",
+            "match_id": 138741,
+            "startTime": "05:10:00 AM 06-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/wctGIR8sTPOo1blpDrAlbA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138741_english_hls_b36cd39d8d7465_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -120,18 +120,6 @@
             "startTime": "12:30:00 AM 07-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne City vs Brisbane Roar (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Brisbane Roar",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne City vs Brisbane Roar",
-            "match_id": 139297,
-            "startTime": "01:30:00 PM 06-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Wellington Firebirds vs Central Stags (Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138742_5800_WF_CS_fc-web_1766641251042.jpg",
@@ -142,6 +130,18 @@
             "match_name": "Wellington Firebirds vs Central Stags",
             "match_id": 138742,
             "startTime": "08:55:00 AM 07-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City vs Brisbane Roar (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Brisbane Roar",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City vs Brisbane Roar",
+            "match_id": 139297,
+            "startTime": "01:30:00 PM 06-01-2026"
         },
         {
             "event_category": "Football",
