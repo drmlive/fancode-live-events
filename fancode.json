@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:41:23 PM 06-01-2026",
+    "last update time": "04:51:35 PM 06-01-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Vietnam U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139251_5822_VIE-U23_JOR-U23_fc-web.jpg",
+            "team_1": "Vietnam U23",
+            "team_2": "Jordan U23",
+            "status": "LIVE",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Vietnam U23 vs Jordan U23",
+            "match_id": 139251,
+            "startTime": "05:00:00 PM 06-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/jUu53LwJTi6YT5i_DaYRaw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139251_english_hls_06a0584b3f96296_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "Center Court - Day 2 vs Hong Kong (ATP 250 - Hong Kong)",
@@ -69,18 +83,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Vietnam U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139251_5822_VIE-U23_JOR-U23_fc-web.jpg",
-            "team_1": "Vietnam U23",
-            "team_2": "Jordan U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Vietnam U23 vs Jordan U23",
-            "match_id": 139251,
-            "startTime": "05:00:00 PM 06-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Algeria vs DR Congo (Africa Cup of Nations 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Algeria-vs-DR-Congo_fc-web.jpg",
             "team_1": "Algeria",
@@ -116,18 +118,6 @@
             "startTime": "12:30:00 AM 07-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Saudi Arabia U23 vs Kyrgyz Republic U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139252_5822_SU-U23_KYG-U23_fc-web.jpg",
-            "team_1": "Saudi Arabia U23",
-            "team_2": "Kyrgyz Republic U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Saudi Arabia U23 vs Kyrgyz Republic U23",
-            "match_id": 139252,
-            "startTime": "09:30:00 PM 06-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Chattogram Royals vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138941_5808_CCH_SYL_fc-web_1766733054205.jpg",
@@ -138,6 +128,18 @@
             "match_name": "Chattogram Royals vs Sylhet Titans",
             "match_id": 138941,
             "startTime": "05:30:00 PM 07-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Saudi Arabia U23 vs Kyrgyz Republic U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139252_5822_SU-U23_KYG-U23_fc-web.jpg",
+            "team_1": "Saudi Arabia U23",
+            "team_2": "Kyrgyz Republic U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Saudi Arabia U23 vs Kyrgyz Republic U23",
+            "match_id": 139252,
+            "startTime": "09:30:00 PM 06-01-2026"
         },
         {
             "event_category": "Cricket",
