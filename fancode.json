@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:48:42 PM 07-01-2026",
+    "last update time": "04:58:54 PM 07-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "Chattogram Royals vs Sylhet Titans",
             "match_id": 138941,
             "startTime": "05:30:00 PM 07-01-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Sc3EV0_YSOOoT_d_zSlKlg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138941_english_hls_48ed6eee9983049_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -172,18 +172,6 @@
             "startTime": "11:30:00 AM 08-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Uzbekistan U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139255_5822_UZB-U23_LEB-U23_fc-web.jpg",
-            "team_1": "Uzbekistan U23",
-            "team_2": "Lebanon U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Uzbekistan U23 vs Lebanon U23",
-            "match_id": 139255,
-            "startTime": "07:30:00 PM 07-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Dhaka Capitals vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-web_1766733054878.jpg",
@@ -194,6 +182,18 @@
             "match_name": "Dhaka Capitals vs Sylhet Titans",
             "match_id": 138943,
             "startTime": "05:30:00 PM 08-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Uzbekistan U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139255_5822_UZB-U23_LEB-U23_fc-web.jpg",
+            "team_1": "Uzbekistan U23",
+            "team_2": "Lebanon U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Uzbekistan U23 vs Lebanon U23",
+            "match_id": 139255,
+            "startTime": "07:30:00 PM 07-01-2026"
         },
         {
             "event_category": "Football",
