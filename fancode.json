@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:08:10 AM 07-01-2026",
+    "last update time": "08:18:24 AM 07-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Central Hinds vs Wellington Blaze (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138774_5801_WB-W_CH-W_fc-web_1766596522150.jpg",
-            "team_1": "Central Hinds",
-            "team_2": "Wellington Blaze",
-            "status": "LIVE",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Central Hinds vs Wellington Blaze",
-            "match_id": 138774,
-            "startTime": "05:10:00 AM 07-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Zx1sFI56TpGl7w-6kMIURw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138774_english_hls_84bd2b394a42375_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "The Bay vs Atlanta vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "The Bay vs Atlanta",
-            "team_2": "Florida",
-            "status": "LIVE",
-            "event_name": "TGL Season 2",
-            "match_name": "The Bay vs Atlanta",
-            "match_id": 139165,
-            "startTime": "03:30:00 AM 07-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/XHKVZWWXT4WUfyTuiDLV8w/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139165_english_hls_b04d47724517739_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Show Court 1 - Day 4 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
@@ -44,6 +16,34 @@
             "startTime": "06:30:00 AM 07-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/bk5UDBBmSTe3_fLKS6SRcw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139191_english_hls_078c776f8b1233_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Pat Rafter Arena - Day 4 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+            "team_1": "Pat Rafter Arena - Day 4",
+            "team_2": "Rafter Arena, Brisbane",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Brisbane",
+            "match_name": "Pat Rafter Arena - Day 4",
+            "match_id": 139190,
+            "startTime": "08:30:00 AM 07-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/o3nVGQBcTceCIuwPsAd5ew/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139190_english_hls_e3450c9bd795754_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Central Hinds vs Wellington Blaze (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138774_5801_WB-W_CH-W_fc-web_1766596522150.jpg",
+            "team_1": "Central Hinds",
+            "team_2": "Wellington Blaze",
+            "status": "LIVE",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Central Hinds vs Wellington Blaze",
+            "match_id": 138774,
+            "startTime": "05:10:00 AM 07-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Zx1sFI56TpGl7w-6kMIURw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138774_english_hls_84bd2b394a42375_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +142,6 @@
             "startTime": "05:00:00 PM 07-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Uzbekistan U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139255_5822_UZB-U23_LEB-U23_fc-web.jpg",
-            "team_1": "Uzbekistan U23",
-            "team_2": "Lebanon U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Uzbekistan U23 vs Lebanon U23",
-            "match_id": 139255,
-            "startTime": "07:30:00 PM 07-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "ACT Meteors vs Victoria Women (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg",
@@ -167,6 +155,18 @@
         },
         {
             "event_category": "Football",
+            "title": "Uzbekistan U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139255_5822_UZB-U23_LEB-U23_fc-web.jpg",
+            "team_1": "Uzbekistan U23",
+            "team_2": "Lebanon U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Uzbekistan U23 vs Lebanon U23",
+            "match_id": 139255,
+            "startTime": "07:30:00 PM 07-01-2026"
+        },
+        {
+            "event_category": "Football",
             "title": "Qatar U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139256_5822_QAT-U23_UAE-U23_fc-web.jpg",
             "team_1": "Qatar U23",
@@ -176,18 +176,6 @@
             "match_name": "Qatar U23 vs United Arab Emirates U23",
             "match_id": 139256,
             "startTime": "10:00:00 PM 07-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Pat Rafter Arena - Day 4 vs Rafter Arena, Brisbane (ATP 250 - Brisbane)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-            "team_1": "Pat Rafter Arena - Day 4",
-            "team_2": "Rafter Arena, Brisbane",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Brisbane",
-            "match_name": "Pat Rafter Arena - Day 4",
-            "match_id": 139190,
-            "startTime": "08:30:00 AM 07-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -452,6 +440,18 @@
             "match_name": "Brisbane Roar vs Auckland",
             "match_id": 138819,
             "startTime": "02:05:00 PM 09-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Noakhali Express vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138945_5808_NOE_RAN_fc-web_1766733054323.jpg",
+            "team_1": "Noakhali Express",
+            "team_2": "Rangpur Riders",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Noakhali Express vs Rangpur Riders",
+            "match_id": 138945,
+            "startTime": "06:30:00 PM 09-01-2026"
         }
     ]
 }
