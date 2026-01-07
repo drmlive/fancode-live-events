@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:25:32 PM 07-01-2026",
+    "last update time": "10:35:42 PM 07-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs Pakistan (Pakistan tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-Sri-Lanka,-2026-match-card-old-.png",
-            "team_1": "Sri Lanka",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "Pakistan tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka vs Pakistan",
-            "match_id": 139215,
-            "startTime": "07:00:00 PM 07-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1767835286~acl=/*~id=24083722361771934502237631970999~hmac=be3a612bd54de0735cb9e3400c68a6a1e9851b3cff03b6e49fc8fb3ee9432a78"
-        },
         {
             "event_category": "Football",
             "title": "Qatar U23 vs United Arab Emirates U23 (AFC U23 Asian Cup, 2026)",
@@ -30,20 +16,6 @@
             "startTime": "10:00:00 PM 07-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/_EejriGMQdKJozJ4dnVelA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139256_english_hls_a78ab4d7eb41061_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 3 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-            "team_1": "Centre Court - Day 3",
-            "team_2": "Bengaluru",
-            "status": "LIVE",
-            "event_name": "ATP Challenger 125 -  Bengaluru Open",
-            "match_name": "Centre Court - Day 3",
-            "match_id": 139285,
-            "startTime": "12:00:00 PM 07-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/uBKDeF1kQ36yIRB1kgVeMA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139285_english_hls_b93736c6a4488_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -416,6 +388,18 @@
             "match_name": "Cameroon vs Morocco",
             "match_id": 138388,
             "startTime": "12:30:00 AM 10-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Getafe CF vs Real Sociedad (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131018_5427_GEF_RS_fc-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Real Sociedad",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Getafe CF vs Real Sociedad",
+            "match_id": 131018,
+            "startTime": "01:30:00 AM 10-01-2026"
         }
     ]
 }
