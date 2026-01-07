@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:34:28 PM 07-01-2026",
+    "last update time": "09:44:47 PM 07-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "07:00:00 PM 07-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-PAKvsSL/master.m3u8?hdnea=exp=1767835286~acl=/*~id=24083722361771934502237631970999~hmac=be3a612bd54de0735cb9e3400c68a6a1e9851b3cff03b6e49fc8fb3ee9432a78"
-        },
-        {
-            "event_category": "Football",
-            "title": "Uzbekistan U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139255_5822_UZB-U23_LEB-U23_fc-web.jpg",
-            "team_1": "Uzbekistan U23",
-            "team_2": "Lebanon U23",
-            "status": "LIVE",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Uzbekistan U23 vs Lebanon U23",
-            "match_id": 139255,
-            "startTime": "07:30:00 PM 07-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/KgaA0_x6QIWtvLIM2x6FZw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139255_english_hls_7e14811ef061786_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -113,11 +99,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139256_5822_QAT-U23_UAE-U23_fc-web.jpg",
             "team_1": "Qatar U23",
             "team_2": "United Arab Emirates U23",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC U23 Asian Cup, 2026",
             "match_name": "Qatar U23 vs United Arab Emirates U23",
             "match_id": 139256,
-            "startTime": "10:00:00 PM 07-01-2026"
+            "startTime": "10:00:00 PM 07-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/_EejriGMQdKJozJ4dnVelA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139256_english_hls_a78ab4d7eb41061_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -204,18 +192,6 @@
             "startTime": "11:00:00 PM 08-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 5 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
-            "team_1": "Show Court 1 - Day 5",
-            "team_2": "Show Court 1, Brisbane",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Brisbane",
-            "match_name": "Show Court 1 - Day 5",
-            "match_id": 139193,
-            "startTime": "06:30:00 AM 08-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Atletico de Madrid vs Real Madrid (SuperCopa 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Atletico-de-Madrid-vs-Real-Madrid_fc-web.jpg",
@@ -226,6 +202,18 @@
             "match_name": "Atletico de Madrid vs Real Madrid",
             "match_id": 138958,
             "startTime": "12:30:00 AM 09-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 5 vs Show Court 1, Brisbane (ATP 250 - Brisbane)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
+            "team_1": "Show Court 1 - Day 5",
+            "team_2": "Show Court 1, Brisbane",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Brisbane",
+            "match_name": "Show Court 1 - Day 5",
+            "match_id": 139193,
+            "startTime": "06:30:00 AM 08-01-2026"
         },
         {
             "event_category": "Tennis",
@@ -430,6 +418,18 @@
             "match_name": "Jordan U23 vs Saudi Arabia U23",
             "match_id": 139260,
             "startTime": "10:00:00 PM 09-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Cameroon vs Morocco (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Cameroon",
+            "team_2": "Morocco",
+            "status": "UPCOMING",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Cameroon vs Morocco",
+            "match_id": 138388,
+            "startTime": "12:30:00 AM 10-01-2026"
         }
     ]
 }
