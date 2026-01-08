@@ -1,17 +1,17 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:06:13 PM 08-01-2026",
+    "last update time": "05:16:23 PM 08-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Dhaka Capitals vs Sylhet Titans (Bangladesh Premier League, 2025-26)",
+            "title": "Sylhet Titans vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138943_5808_DC_SYL_fc-web_1766733054878.jpg",
-            "team_1": "Dhaka Capitals",
-            "team_2": "Sylhet Titans",
+            "team_1": "Sylhet Titans",
+            "team_2": "Dhaka Capitals",
             "status": "LIVE",
             "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Dhaka Capitals vs Sylhet Titans",
+            "match_name": "Sylhet Titans vs Dhaka Capitals",
             "match_id": 138943,
             "startTime": "05:30:00 PM 08-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/lJh_7mXuQJu5Osp8b0tPAw/master.m3u8",
@@ -44,20 +44,6 @@
             "startTime": "05:00:00 PM 08-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/gdl6vuJHRly0veZnB4xkkg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139257_english_hls_020213e63d91795_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Center Court - Day 4 vs Hong Kong (ATP 250 - Hong Kong)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Hong-Kong_2026_Web_1080_x_810.jpg",
-            "team_1": "Center Court - Day 4",
-            "team_2": "Hong Kong",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Hong Kong",
-            "match_name": "Center Court - Day 4",
-            "match_id": 139207,
-            "startTime": "11:00:00 AM 08-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/y9eMffdqTmqbdql6zL3pNg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139207_english_hls_98c1615b9493405_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -408,6 +394,18 @@
             "match_name": "Alcaraz vs Sinner",
             "match_id": 139368,
             "startTime": "12:30:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory vs Central Coast Mariners (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138822_5802_PG_CCM_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Central Coast Mariners",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory vs Central Coast Mariners",
+            "match_id": 138822,
+            "startTime": "04:15:00 PM 10-01-2026"
         }
     ]
 }
