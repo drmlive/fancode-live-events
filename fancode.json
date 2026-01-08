@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:09:52 PM 08-01-2026",
+    "last update time": "08:20:02 PM 08-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "05:30:00 PM 08-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/lJh_7mXuQJu5Osp8b0tPAw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138943_english_hls_91d58682b68698_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Hilal SFC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Hazem FC",
+            "status": "LIVE",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al Hilal SFC vs Al-Hazem FC",
+            "match_id": 139201,
+            "startTime": "08:25:00 PM 08-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/sp_0OC0dT1WRPRR__Lyi7g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139201_english_hls_2182a66a3147455_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -68,20 +82,6 @@
             "match_name": "Wellington Firebirds vs Otago Volts",
             "match_id": 138744,
             "startTime": "08:55:00 AM 09-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Hilal SFC vs Al-Hazem FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Hazem FC",
-            "status": "LIVE",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Hilal SFC vs Al-Hazem FC",
-            "match_id": 139201,
-            "startTime": "08:25:00 PM 08-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/sp_0OC0dT1WRPRR__Lyi7g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139201_english_hls_2182a66a3147455_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -154,6 +154,18 @@
             "match_name": "Brisbane Roar vs Auckland",
             "match_id": 138819,
             "startTime": "02:05:00 PM 09-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Yalla Shabab Giants vs Renaissance Challengers (Oman Super League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Renaissance Challengers",
+            "status": "UPCOMING",
+            "event_name": "Oman Super League T20, 2026",
+            "match_name": "Yalla Shabab Giants vs Renaissance Challengers",
+            "match_id": 139572,
+            "startTime": "04:30:00 PM 09-01-2026"
         },
         {
             "event_category": "Football",
@@ -384,28 +396,16 @@
             "startTime": "04:15:00 PM 10-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Arsenal Women vs Manchester United Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Arsenal Women",
-            "team_2": "Manchester United Women",
+            "event_category": "Cricket",
+            "title": "IAS Invincibles vs Yalla Shabab Giants (Oman Super League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "IAS Invincibles",
+            "team_2": "Yalla Shabab Giants",
             "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Arsenal Women vs Manchester United Women",
-            "match_id": 139301,
-            "startTime": "06:00:00 PM 10-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Lebanon U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139262_5822_LEB-U23_KR-U23_fc-web.jpg",
-            "team_1": "Lebanon U23",
-            "team_2": "Korea Republic U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Lebanon U23 vs Korea Republic U23",
-            "match_id": 139262,
-            "startTime": "05:00:00 PM 10-01-2026"
+            "event_name": "Oman Super League T20, 2026",
+            "match_name": "IAS Invincibles vs Yalla Shabab Giants",
+            "match_id": 139574,
+            "startTime": "04:30:00 PM 10-01-2026"
         }
     ]
 }
