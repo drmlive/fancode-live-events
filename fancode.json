@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:04:20 PM 09-01-2026",
+    "last update time": "09:14:37 PM 09-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -89,11 +89,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mali-vs-Senegal_fc-web.jpg",
             "team_1": "Mali",
             "team_2": "Senegal",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Africa Cup of Nations 2025-26",
             "match_name": "Mali vs Senegal",
             "match_id": 138387,
-            "startTime": "09:30:00 PM 09-01-2026"
+            "startTime": "09:30:00 PM 09-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/nO9v91wvT56b2qlEbuOF6g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138387_english_hls_a23068726030840_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -144,18 +146,6 @@
             "startTime": "01:30:00 AM 10-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "C\u00e1diz vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139247_CASACARDS_APP.png",
-            "team_1": "C\u00e1diz",
-            "team_2": "Sporting de Gij\u00f3n",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00e1diz vs Sporting de Gij\u00f3n",
-            "match_id": 139247,
-            "startTime": "01:00:00 AM 10-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "IAS Invincibles vs Yalla Shabab Giants (Oman Super League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
@@ -166,6 +156,18 @@
             "match_name": "IAS Invincibles vs Yalla Shabab Giants",
             "match_id": 139574,
             "startTime": "04:30:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "C\u00e1diz vs Sporting de Gij\u00f3n (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139247_CASACARDS_APP.png",
+            "team_1": "C\u00e1diz",
+            "team_2": "Sporting de Gij\u00f3n",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "C\u00e1diz vs Sporting de Gij\u00f3n",
+            "match_id": 139247,
+            "startTime": "01:00:00 AM 10-01-2026"
         },
         {
             "event_category": "Football",
@@ -372,18 +374,6 @@
             "startTime": "01:00:00 PM 10-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
-            "team_1": "Centre Court - Day 6",
-            "team_2": "Bengaluru",
-            "status": "UPCOMING",
-            "event_name": "ATP Challenger 125 -  Bengaluru Open",
-            "match_name": "Centre Court - Day 6",
-            "match_id": 139288,
-            "startTime": "02:00:00 PM 10-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Las Palmas vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/139248_CASACARDS_APP.png",
@@ -394,6 +384,18 @@
             "match_name": "Las Palmas vs Deportivo La Coruna",
             "match_id": 139248,
             "startTime": "11:00:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 6 vs Bengaluru (ATP Challenger 125 -  Bengaluru Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1767345135310.png",
+            "team_1": "Centre Court - Day 6",
+            "team_2": "Bengaluru",
+            "status": "UPCOMING",
+            "event_name": "ATP Challenger 125 -  Bengaluru Open",
+            "match_name": "Centre Court - Day 6",
+            "match_id": 139288,
+            "startTime": "02:00:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",
