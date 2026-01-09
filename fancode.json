@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:08:59 PM 09-01-2026",
+    "last update time": "04:19:10 PM 09-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:30:00 PM 09-01-2026",
             "dai_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8",
             "adfree_url": "https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Brisbane Roar vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138819_5802_BRB_AFC_fc-web.jpg",
-            "team_1": "Brisbane Roar",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Brisbane Roar vs Auckland",
-            "match_id": 138819,
-            "startTime": "02:05:00 PM 09-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/9z7dn-QcRI63k1BjXqxsPQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138819_english_hls_0e8076fa1729415_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -432,6 +418,18 @@
             "match_name": "Syria U23 vs Qatar U23",
             "match_id": 139264,
             "startTime": "10:00:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Egypt vs Ivory Coast (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Egypt",
+            "team_2": "Ivory Coast",
+            "status": "UPCOMING",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Egypt vs Ivory Coast",
+            "match_id": 138390,
+            "startTime": "12:30:00 AM 11-01-2026"
         }
     ]
 }
