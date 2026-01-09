@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:26:04 PM 09-01-2026",
+    "last update time": "10:36:14 PM 09-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Noakhali Express vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138945_5808_NOE_RAN_fc-web_1766733054323.jpg",
-            "team_1": "Noakhali Express",
-            "team_2": "Rangpur Riders",
-            "status": "LIVE",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Noakhali Express vs Rangpur Riders",
-            "match_id": 138945,
-            "startTime": "06:30:00 PM 09-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/KCBfVblrQpKdvQV5V2u1yA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138945_english_hls_425d16059e35160_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Majees Titans vs Oman Development Team (Oman Super League T20, 2026)",
@@ -58,6 +44,20 @@
             "startTime": "10:00:00 PM 09-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/8FqNRkQlR7-S8E7VzOTawA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139260_english_hls_5dd96706e371962_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Noakhali Express vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138945_5808_NOE_RAN_fc-web_1766733054323.jpg",
+            "team_1": "Noakhali Express",
+            "team_2": "Rangpur Riders",
+            "status": "LIVE",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Noakhali Express vs Rangpur Riders",
+            "match_id": 138945,
+            "startTime": "06:30:00 PM 09-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/KCBfVblrQpKdvQV5V2u1yA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138945_english_hls_425d16059e35160_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -289,18 +289,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Syria U23 vs Qatar U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139264_5822_SYR-U23_QAT-U23_fc-web.jpg",
-            "team_1": "Syria U23",
-            "team_2": "Qatar U23",
-            "status": "UPCOMING",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "Syria U23 vs Qatar U23",
-            "match_id": 139264,
-            "startTime": "10:00:00 PM 10-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Egypt vs Ivory Coast (Africa Cup of Nations 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
             "team_1": "Egypt",
@@ -310,6 +298,18 @@
             "match_name": "Egypt vs Ivory Coast",
             "match_id": 138390,
             "startTime": "12:30:00 AM 11-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Syria U23 vs Qatar U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139264_5822_SYR-U23_QAT-U23_fc-web.jpg",
+            "team_1": "Syria U23",
+            "team_2": "Qatar U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Syria U23 vs Qatar U23",
+            "match_id": 139264,
+            "startTime": "10:00:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",
