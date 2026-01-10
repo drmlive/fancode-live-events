@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:23:35 AM 10-01-2026",
+    "last update time": "06:33:46 AM 10-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138777_5801_CM-W_AH-W_fc-web_1766596522070.jpg",
             "team_1": "Auckland Hearts",
             "team_2": "Canterbury Magicians",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Women's Super Smash, 2025-26",
             "match_name": "Auckland Hearts vs Canterbury Magicians",
             "match_id": 138777,
-            "startTime": "06:40:00 AM 10-01-2026"
+            "startTime": "06:40:00 AM 10-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Q0MBHI9qScW2Dw0cbcAClQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138777_english_hls_516c18a24482246_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -65,18 +67,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Renaissance Challengers vs Majees Titans (Oman Super League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
-            "team_1": "Renaissance Challengers",
-            "team_2": "Majees Titans",
-            "status": "UPCOMING",
-            "event_name": "Oman Super League T20, 2026",
-            "match_name": "Renaissance Challengers vs Majees Titans",
-            "match_id": 139575,
-            "startTime": "08:30:00 PM 10-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Wellington Blaze vs Northern Brave Women (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138778_5801_WB-W_NB-W_fc-web_1766596522077.jpg",
             "team_1": "Wellington Blaze",
@@ -86,6 +76,18 @@
             "match_name": "Wellington Blaze vs Northern Brave Women",
             "match_id": 138778,
             "startTime": "05:10:00 AM 11-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Renaissance Challengers vs Majees Titans (Oman Super League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
+            "team_1": "Renaissance Challengers",
+            "team_2": "Majees Titans",
+            "status": "UPCOMING",
+            "event_name": "Oman Super League T20, 2026",
+            "match_name": "Renaissance Challengers vs Majees Titans",
+            "match_id": 139575,
+            "startTime": "08:30:00 PM 10-01-2026"
         },
         {
             "event_category": "Football",
