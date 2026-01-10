@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:47:11 AM 11-01-2026",
+    "last update time": "12:57:24 AM 11-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -87,11 +87,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131014_5427_VAL_ELC_fc-Web.png",
             "team_1": "Valencia CF",
             "team_2": "Elche CF",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "Valencia CF vs Elche CF",
             "match_id": 131014,
-            "startTime": "01:30:00 AM 11-01-2026"
+            "startTime": "01:30:00 AM 11-01-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131014_english_hls_bfd56b4c1f36423_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131014_english_hls_bfd56b4c1f36423_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -191,18 +193,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Wellington Phoenix vs Adelaide United (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138823_5802_WEL_ADL_fc-web.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Adelaide United",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix vs Adelaide United",
-            "match_id": 138823,
-            "startTime": "07:30:00 AM 11-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Liverpool Women vs London City Lionesses (Women's Super League 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/139328_CASACARDS_APP.png",
             "team_1": "Liverpool Women",
@@ -212,6 +202,18 @@
             "match_name": "Liverpool Women vs London City Lionesses",
             "match_id": 139328,
             "startTime": "08:00:00 PM 11-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Adelaide United (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138823_5802_WEL_ADL_fc-web.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Adelaide United",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix vs Adelaide United",
+            "match_id": 138823,
+            "startTime": "07:30:00 AM 11-01-2026"
         },
         {
             "event_category": "Football",
