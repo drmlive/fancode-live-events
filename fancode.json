@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:22:40 PM 10-01-2026",
+    "last update time": "08:32:49 PM 10-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Real Oviedo vs Real Betis (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131012_5427_RO_RB_fc-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Real Betis",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Oviedo vs Real Betis",
-            "match_id": 131012,
-            "startTime": "06:30:00 PM 10-01-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131012_english_hls_fe2488cb1637903_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131012_english_hls_fe2488cb1637903_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Renaissance Challengers vs Majees Titans (Oman Super League T20, 2026)",
@@ -74,6 +60,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139288_english_hls_bd71635cff65201_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Real Oviedo vs Real Betis (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131012_5427_RO_RB_fc-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Real Betis",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Oviedo vs Real Betis",
+            "match_id": 131012,
+            "startTime": "06:30:00 PM 10-01-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131012_english_hls_fe2488cb1637903_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131012_english_hls_fe2488cb1637903_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Wellington Blaze vs Northern Brave Women (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138778_5801_WB-W_NB-W_fc-web_1766596522077.jpg",
@@ -110,18 +110,6 @@
             "startTime": "12:30:00 PM 11-01-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Noakhali Express vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138939_5808_NOE_DC_fc-web_1766733054389.jpg",
-            "team_1": "Noakhali Express",
-            "team_2": "Dhaka Capitals",
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Premier League, 2025-26",
-            "match_name": "Noakhali Express vs Dhaka Capitals",
-            "match_id": 138939,
-            "startTime": "05:30:00 PM 11-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Algeria vs Nigeria (Africa Cup of Nations 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -132,6 +120,18 @@
             "match_name": "Algeria vs Nigeria",
             "match_id": 138389,
             "startTime": "09:30:00 PM 10-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Noakhali Express vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138939_5808_NOE_DC_fc-web_1766733054389.jpg",
+            "team_1": "Noakhali Express",
+            "team_2": "Dhaka Capitals",
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Premier League, 2025-26",
+            "match_name": "Noakhali Express vs Dhaka Capitals",
+            "match_id": 138939,
+            "startTime": "05:30:00 PM 11-01-2026"
         },
         {
             "event_category": "Football",
