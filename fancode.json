@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:50:02 PM 11-01-2026",
+    "last update time": "08:00:18 PM 11-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "06:30:00 PM 11-01-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131016_english_hls_dba317f43c54625_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131016_english_hls_dba317f43c54625_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Liverpool Women vs London City Lionesses (Women's Super League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139328_CASACARDS_APP.png",
+            "team_1": "Liverpool Women",
+            "team_2": "London City Lionesses",
+            "status": "LIVE",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Liverpool Women vs London City Lionesses",
+            "match_id": 139328,
+            "startTime": "08:00:00 PM 11-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/B1W3Jd6ASCuBHs16SJfRJw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139328_english_hls_d4dd6389ed9929_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -96,18 +110,6 @@
             "match_name": "Otago Volts vs Auckland Aces",
             "match_id": 138747,
             "startTime": "08:55:00 AM 12-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Liverpool Women vs London City Lionesses (Women's Super League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139328_CASACARDS_APP.png",
-            "team_1": "Liverpool Women",
-            "team_2": "London City Lionesses",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Liverpool Women vs London City Lionesses",
-            "match_id": 139328,
-            "startTime": "08:00:00 PM 11-01-2026"
         },
         {
             "event_category": "Football",
@@ -194,6 +196,18 @@
             "startTime": "08:30:00 PM 12-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Al Hilal SFC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Al Hilal SFC",
+            "team_2": "Al-Nassr FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al Hilal SFC vs Al-Nassr FC",
+            "match_id": 139357,
+            "startTime": "11:00:00 PM 12-01-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Show Court 1 - Day 1 vs Adelaide (ATP 250 - Adelaide International)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
@@ -216,18 +230,6 @@
             "match_name": "Centre Court - Day 1",
             "match_id": 139532,
             "startTime": "08:30:00 AM 12-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al Hilal SFC vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Al Hilal SFC",
-            "team_2": "Al-Nassr FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al Hilal SFC vs Al-Nassr FC",
-            "match_id": 139357,
-            "startTime": "11:00:00 PM 12-01-2026"
         },
         {
             "event_category": "Football",
@@ -420,6 +422,18 @@
             "match_name": "Damac vs Al-Ittihad",
             "match_id": 139358,
             "startTime": "11:00:00 PM 13-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "United Arab Emirates U23 vs Syria U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139272_5822_UAE-U23_SYR-U23_fc-web.jpg",
+            "team_1": "United Arab Emirates U23",
+            "team_2": "Syria U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "United Arab Emirates U23 vs Syria U23",
+            "match_id": 139272,
+            "startTime": "10:00:00 PM 13-01-2026"
         }
     ]
 }
