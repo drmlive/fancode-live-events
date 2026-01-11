@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:07:45 PM 11-01-2026",
+    "last update time": "12:12:49 PM 11-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Wellington Firebirds vs Northern Districts (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138746_5800_WF_ND_fc-web_1766641251667.jpg",
-            "team_1": "Wellington Firebirds",
-            "team_2": "Northern Districts",
-            "status": "LIVE",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Wellington Firebirds vs Northern Districts",
-            "match_id": 138746,
-            "startTime": "08:55:00 AM 11-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/ifC2FSsJQ5C3rxMFqY7vNg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138746_english_hls_cc56011f2922595_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Rajshahi Warriors vs Rangpur Riders (Bangladesh Premier League, 2025-26)",
@@ -44,6 +30,20 @@
             "startTime": "11:30:00 AM 11-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/K9iX280WQ9SedQGD4qWivg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138824_english_hls_97d46b4ea769591_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Wellington Firebirds vs Northern Districts (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138746_5800_WF_ND_fc-web_1766641251667.jpg",
+            "team_1": "Wellington Firebirds",
+            "team_2": "Northern Districts",
+            "status": "LIVE",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Wellington Firebirds vs Northern Districts",
+            "match_id": 138746,
+            "startTime": "08:55:00 AM 11-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/ifC2FSsJQ5C3rxMFqY7vNg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138746_english_hls_cc56011f2922595_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -243,11 +243,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg",
             "team_1": "Pat Rafter Arena - Day 8",
             "team_2": "Rafter Arena, Brisbane",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ATP 250 - Brisbane",
             "match_name": "Pat Rafter Arena - Day 8",
             "match_id": 139197,
-            "startTime": "12:30:00 PM 11-01-2026"
+            "startTime": "12:30:00 PM 11-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/simGQYXlRFSYaI0uMpxsIw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139197_english_hls_245973bb4850380_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
