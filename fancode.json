@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:34:58 PM 12-01-2026",
+    "last update time": "09:45:15 PM 12-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -59,11 +59,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139268_5822_JOR-U23_KYG-U23_fc-web.jpg",
             "team_1": "Jordan U23",
             "team_2": "Kyrgyz Republic U23",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC U23 Asian Cup, 2026",
             "match_name": "Jordan U23 vs Kyrgyz Republic U23",
             "match_id": 139268,
-            "startTime": "10:00:00 PM 12-01-2026"
+            "startTime": "10:00:00 PM 12-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Ow4RJYQ5RIaVSYyW7w3PAw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139268_english_hls_63b31d136a76601_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -71,11 +73,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139267_5822_SU-U23_VIE-U23_fc-web.jpg",
             "team_1": "Saudi Arabia U23",
             "team_2": "Vietnam U23",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC U23 Asian Cup, 2026",
             "match_name": "Saudi Arabia U23 vs Vietnam U23",
             "match_id": 139267,
-            "startTime": "10:00:00 PM 12-01-2026"
+            "startTime": "10:00:00 PM 12-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/WuMipmWjRaWe6OIoqG1w9w/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139267_english_hls_e99d09524030874_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -198,30 +202,6 @@
             "startTime": "12:00:00 AM 14-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
-            "team_1": "Show Court 1 - Day 2",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Show Court 1 - Day 2",
-            "match_id": 139535,
-            "startTime": "05:00:00 AM 13-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
-            "team_1": "Centre Court - Day 2",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Centre Court - Day 2",
-            "match_id": 139534,
-            "startTime": "05:00:00 AM 13-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "United Arab Emirates U23 vs Syria U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139272_5822_UAE-U23_SYR-U23_fc-web.jpg",
@@ -244,6 +224,30 @@
             "match_name": "Japan U23 vs Qatar U23",
             "match_id": 139271,
             "startTime": "10:00:00 PM 13-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+            "team_1": "Show Court 1 - Day 2",
+            "team_2": "Adelaide",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Show Court 1 - Day 2",
+            "match_id": 139535,
+            "startTime": "05:00:00 AM 13-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+            "team_1": "Centre Court - Day 2",
+            "team_2": "Adelaide",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Centre Court - Day 2",
+            "match_id": 139534,
+            "startTime": "05:00:00 AM 13-01-2026"
         },
         {
             "event_category": "Football",
