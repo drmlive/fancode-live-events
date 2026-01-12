@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:48:10 PM 12-01-2026",
+    "last update time": "02:58:18 PM 12-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "09:30:00 AM 12-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/tnv5WmDTT6-R1N2mUxrDaA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b987500_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-            "team_1": "ATP 250 - ASB Classic",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Auckland Open",
-            "match_name": "ATP 250 - ASB Classic",
-            "match_id": 139536,
-            "startTime": "04:00:00 AM 12-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/jFqwHGYqTV-oc_qTS_qlIQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139536_english_hls_31cccb3ff817193_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -408,6 +394,18 @@
             "match_name": "Trinidad and Tobago Women vs Barbados Women",
             "match_id": 139747,
             "startTime": "04:30:00 AM 14-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Auckland Hearts vs Canterbury Magicians (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138781_5801_AH-W_CM-W_fc-web_1766596522091.jpg",
+            "team_1": "Auckland Hearts",
+            "team_2": "Canterbury Magicians",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Auckland Hearts vs Canterbury Magicians",
+            "match_id": 138781,
+            "startTime": "09:20:00 AM 14-01-2026"
         }
     ]
 }
