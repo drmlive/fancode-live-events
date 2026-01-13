@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:48:03 AM 14-01-2026",
+    "last update time": "04:58:14 AM 14-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Canterbury vs Auckland Aces (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
+            "team_1": "Canterbury",
+            "team_2": "Auckland Aces",
+            "status": "LIVE",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Canterbury vs Auckland Aces",
+            "match_id": 138749,
+            "startTime": "05:10:00 AM 14-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Z8bgbrROT_Wvozn-fxikeg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138749_english_hls_48464bcb1d93181_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Trinidad and Tobago Women vs Barbados Women (CWI T20 Blaze 2026)",
@@ -30,32 +44,6 @@
             "startTime": "04:00:00 AM 14-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/stbSBSmaTq-JQ5U3KNHxaQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs CA Osasuna (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139669_5806_RS_OSN_FC-Web.jpg",
-            "team_1": "Real Sociedad",
-            "team_2": "CA Osasuna",
-            "status": "LIVE",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Real Sociedad vs CA Osasuna",
-            "match_id": 139669,
-            "startTime": "01:30:00 AM 14-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/MQdiBqL5S2qgcMM3Vg7fIA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139669_english_hls_ccaf31104e46425_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Auckland Aces vs Canterbury (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg",
-            "team_1": "Auckland Aces",
-            "team_2": "Canterbury",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Auckland Aces vs Canterbury",
-            "match_id": 138749,
-            "startTime": "05:10:00 AM 14-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -154,18 +142,6 @@
             "startTime": "05:00:00 PM 14-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Jupiter vs New York vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs New York",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Jupiter vs New York",
-            "match_id": 139166,
-            "startTime": "05:30:00 AM 14-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Nigeria vs Morocco (Africa Cup of Nations 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg",
@@ -224,6 +200,18 @@
             "match_name": "Deportivo Alaves vs Rayo Vallecano",
             "match_id": 139672,
             "startTime": "01:30:00 AM 15-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Jupiter vs New York vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Jupiter vs New York",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Jupiter vs New York",
+            "match_id": 139166,
+            "startTime": "05:30:00 AM 14-01-2026"
         },
         {
             "event_category": "Cricket",
