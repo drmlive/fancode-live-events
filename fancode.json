@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:07:35 AM 13-01-2026",
+    "last update time": "09:27:57 AM 13-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "04:00:00 AM 13-01-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/s3/53d0a95d-be66-44b8-b9ef-71a778a8b56e/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/s3/53d0a95d-be66-44b8-b9ef-71a778a8b56e/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
+            "team_1": "Show Court 1 - Day 2",
+            "team_2": "Adelaide",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Show Court 1 - Day 2",
+            "match_id": 139535,
+            "startTime": "06:00:00 AM 13-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/MFvE-fczS7eNyNnDe76t5Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139535_english_hls_ad9d8e1ce860874_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -63,11 +77,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
             "team_1": "V N Sule",
             "team_2": "Dyandeep Seva Mandal",
-            "status": "PAUSED",
+            "status": "LIVE",
             "event_name": "Giles Shield 2026",
             "match_name": "V N Sule vs Dyandeep Seva Mandal",
             "match_id": 139666,
-            "startTime": "09:30:00 AM 12-01-2026"
+            "startTime": "09:30:00 AM 12-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/FxPRf-LpRDy8MUFZjSBLgQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139666_english_hls_653eb329b995755_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -272,18 +288,6 @@
             "match_name": "Japan U23 vs Qatar U23",
             "match_id": 139271,
             "startTime": "10:00:00 PM 13-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 2 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767942977104.png",
-            "team_1": "Show Court 1 - Day 2",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Show Court 1 - Day 2",
-            "match_id": 139535,
-            "startTime": "06:00:00 AM 13-01-2026"
         },
         {
             "event_category": "Tennis",
