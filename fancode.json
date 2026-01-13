@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:36:55 AM 14-01-2026",
+    "last update time": "03:47:08 AM 14-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -32,32 +32,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139669_english_hls_ccaf31104e46425_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Newcastle United vs Manchester City (Carabao Cup 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/01_Newcastle-United-vs-Manchester-City_1768301098208.png",
-            "team_1": "Newcastle United",
-            "team_2": "Manchester City",
+            "event_category": "Tennis",
+            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+            "team_1": "ATP 250 - ASB Classic",
+            "team_2": "Auckland",
             "status": "LIVE",
-            "event_name": "Carabao Cup 2025-2026",
-            "match_name": "Newcastle United vs Manchester City",
-            "match_id": 139211,
-            "startTime": "01:30:00 AM 14-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/u5809GXrR5qFxJXioFvaqw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139211_english_hls_79637da9ad62597_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo La Coruna vs Atletico de Madrid (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139671_5806_COR_ATL_FC-Web_1768310393634.jpg",
-            "team_1": "Deportivo La Coruna",
-            "team_2": "Atletico de Madrid",
-            "status": "LIVE",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Deportivo La Coruna vs Atletico de Madrid",
-            "match_id": 139671,
-            "startTime": "01:30:00 AM 14-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/HikB1veKSXekOMAfZhkIcA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139671_english_hls_c19d2bb8e243669_1ta-di_h264/index.m3u8"
+            "event_name": "ATP 250 - Auckland Open",
+            "match_name": "ATP 250 - ASB Classic",
+            "match_id": 139538,
+            "startTime": "04:00:00 AM 14-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/stbSBSmaTq-JQ5U3KNHxaQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -144,6 +130,18 @@
             "startTime": "11:00:00 PM 14-01-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Otago Sparks vs Wellington Blaze (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-web_1766596522256.jpg",
+            "team_1": "Otago Sparks",
+            "team_2": "Wellington Blaze",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Otago Sparks vs Wellington Blaze",
+            "match_id": 138782,
+            "startTime": "05:10:00 AM 15-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Thailand U23 vs China PR U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139274_5822_THA-U23_CHN-U23_fc-web.jpg",
@@ -166,30 +164,6 @@
             "match_name": "Iraq U23 vs Australia U23",
             "match_id": 139273,
             "startTime": "05:00:00 PM 14-01-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-            "team_1": "ATP 250 - ASB Classic",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Auckland Open",
-            "match_name": "ATP 250 - ASB Classic",
-            "match_id": 139538,
-            "startTime": "04:00:00 AM 14-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Otago Sparks vs Wellington Blaze (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138782_5801_OS-W_WB-W_fc-web_1766596522256.jpg",
-            "team_1": "Otago Sparks",
-            "team_2": "Wellington Blaze",
-            "status": "UPCOMING",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Otago Sparks vs Wellington Blaze",
-            "match_id": 138782,
-            "startTime": "05:10:00 AM 15-01-2026"
         },
         {
             "event_category": "Football",
@@ -442,6 +416,30 @@
             "match_name": "Featured Group - Day 1",
             "match_id": 139776,
             "startTime": "10:30:00 PM 15-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Guyana Women vs Leeward Islands Women (CWI T20 Blaze 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
+            "team_1": "Guyana Women",
+            "team_2": "Leeward Islands Women",
+            "status": "UPCOMING",
+            "event_name": "CWI T20 Blaze 2026",
+            "match_name": "Guyana Women vs Leeward Islands Women",
+            "match_id": 139750,
+            "startTime": "04:30:00 AM 16-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Central Hinds vs Auckland Hearts (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138783_5801_CH-W_AH-W_fc-web_1766596522088.jpg",
+            "team_1": "Central Hinds",
+            "team_2": "Auckland Hearts",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Central Hinds vs Auckland Hearts",
+            "match_id": 138783,
+            "startTime": "06:40:00 AM 16-01-2026"
         }
     ]
 }
