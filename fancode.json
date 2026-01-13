@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:17:52 PM 13-01-2026",
+    "last update time": "07:28:01 PM 13-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "07:00:00 PM 13-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/1ryOXWArSk-erkmFKP9_zA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139745_english_hls_d1cc286a141232_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "IR Iran U23 vs Lebanon U23 (AFC U23 Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139270_5822_IRN-U23_LEB-U23_fc-web.jpg",
-            "team_1": "IR Iran U23",
-            "team_2": "Lebanon U23",
-            "status": "LIVE",
-            "event_name": "AFC U23 Asian Cup, 2026",
-            "match_name": "IR Iran U23 vs Lebanon U23",
-            "match_id": 139270,
-            "startTime": "05:00:00 PM 13-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/wEjuVldyTvWIkBdDSBPHnw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139270_english_hls_eb382f054113596_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -426,6 +412,18 @@
             "match_name": "Rajshahi Warriors vs Sylhet Titans",
             "match_id": 138935,
             "startTime": "05:30:00 PM 15-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Yalla Shabab Giants vs Oman Development Team (Oman Super League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Oman Development Team",
+            "status": "UPCOMING",
+            "event_name": "Oman Super League T20, 2026",
+            "match_name": "Yalla Shabab Giants vs Oman Development Team",
+            "match_id": 139580,
+            "startTime": "04:00:00 PM 15-01-2026"
         }
     ]
 }
