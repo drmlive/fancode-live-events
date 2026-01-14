@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:14:27 PM 14-01-2026",
+    "last update time": "04:24:38 PM 14-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
-            "team_1": "Swami Vivekanand",
-            "team_2": "Rizvi",
-            "status": "LIVE",
-            "event_name": "Giles Shield 2026",
-            "match_name": "Swami Vivekanand vs Rizvi",
-            "match_id": 139667,
-            "startTime": "09:45:00 AM 13-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/AGIBKB8DT5i4wztbfTNEDA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139667_english_hls_e061157e2f95075_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
@@ -30,6 +16,18 @@
             "startTime": "04:00:00 AM 14-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/stbSBSmaTq-JQ5U3KNHxaQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Swami Vivekanand vs Rizvi (Giles Shield 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+            "team_1": "Swami Vivekanand",
+            "team_2": "Rizvi",
+            "status": "PAUSED",
+            "event_name": "Giles Shield 2026",
+            "match_name": "Swami Vivekanand vs Rizvi",
+            "match_id": 139667,
+            "startTime": "09:45:00 AM 13-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -356,18 +354,6 @@
             "startTime": "05:30:00 AM 16-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 5 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-            "team_1": "Centre Court - Day 5",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Centre Court - Day 5",
-            "match_id": 139568,
-            "startTime": "07:00:00 AM 16-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg",
@@ -378,6 +364,18 @@
             "match_name": "Rangpur Riders vs Dhaka Capitals",
             "match_id": 138928,
             "startTime": "01:30:00 PM 16-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 5 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+            "team_1": "Centre Court - Day 5",
+            "team_2": "Adelaide",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Centre Court - Day 5",
+            "match_id": 139568,
+            "startTime": "07:00:00 AM 16-01-2026"
         },
         {
             "event_category": "Cricket",
