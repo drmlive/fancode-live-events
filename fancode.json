@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:23:58 AM 15-01-2026",
+    "last update time": "01:34:09 AM 15-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -28,8 +28,8 @@
             "match_name": "Chelsea vs Arsenal",
             "match_id": 139212,
             "startTime": "01:30:00 AM 15-01-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/m-xmghZeTK6BuRZyPUmR2w/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139212_english_hls_e719443f7d79652_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -242,18 +242,6 @@
             "startTime": "06:00:00 AM 15-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 4 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-            "team_1": "Show Court 1 - Day 4",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Show Court 1 - Day 4",
-            "match_id": 139567,
-            "startTime": "10:00:00 AM 15-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Guyana Women vs Leeward Islands Women (CWI T20 Blaze 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
@@ -264,6 +252,18 @@
             "match_name": "Guyana Women vs Leeward Islands Women",
             "match_id": 139750,
             "startTime": "04:30:00 AM 16-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Show Court 1 - Day 4 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+            "team_1": "Show Court 1 - Day 4",
+            "team_2": "Adelaide",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Show Court 1 - Day 4",
+            "match_id": 139567,
+            "startTime": "10:00:00 AM 15-01-2026"
         },
         {
             "event_category": "Golf",
