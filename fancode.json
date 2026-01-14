@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:43:44 AM 14-01-2026",
+    "last update time": "10:53:52 AM 14-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "04:00:00 AM 14-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/stbSBSmaTq-JQ5U3KNHxaQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139538_english_hls_c6f5ec0eb789572_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Show Court 1 - Day 3 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-            "team_1": "Show Court 1 - Day 3",
-            "team_2": "Adelaide",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Show Court 1 - Day 3",
-            "match_id": 139565,
-            "startTime": "06:00:00 AM 14-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/3k-3ODj0Sn6ME7BSTwfeKA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139565_english_hls_a0240f661f82860_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -446,6 +432,18 @@
             "match_name": "Chattogram Royals vs Rajshahi Warriors",
             "match_id": 138929,
             "startTime": "06:30:00 PM 16-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Melbourne City",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City vs Auckland",
+            "match_id": 139424,
+            "startTime": "02:05:00 PM 16-01-2026"
         }
     ]
 }
