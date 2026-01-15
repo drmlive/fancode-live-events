@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:05:40 AM 16-01-2026",
+    "last update time": "04:15:48 AM 16-01-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -30,20 +30,6 @@
             "startTime": "03:30:00 AM 16-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/QE9HCQrUSl6abaf3EqxO1A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139540_english_hls_8ee11e5cff66218_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Racing Club vs FC Barcelona (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139676_5806_RAC_BAR_FC-Web_1768470725855.jpg",
-            "team_1": "Racing Club",
-            "team_2": "FC Barcelona",
-            "status": "LIVE",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Racing Club vs FC Barcelona",
-            "match_id": 139676,
-            "startTime": "01:30:00 AM 16-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/h-9_q1AZSIaFCQ4_HTIlMg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139676_english_hls_9487df73e183602_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -440,6 +426,18 @@
             "match_name": "Egypt vs Nigeria",
             "match_id": 138393,
             "startTime": "09:30:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Australia U23 vs Korea Republic U23 (AFC U23 Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Australia U23",
+            "team_2": "Korea Republic U23",
+            "status": "UPCOMING",
+            "event_name": "AFC U23 Asian Cup, 2026",
+            "match_name": "Australia U23 vs Korea Republic U23",
+            "match_id": 139278,
+            "startTime": "09:00:00 PM 17-01-2026"
         }
     ]
 }
