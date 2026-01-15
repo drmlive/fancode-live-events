@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:04:47 AM 16-01-2026",
+    "last update time": "03:15:00 AM 16-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Windward Islands Women vs Trinidad and Tobago Women (CWI T20 Blaze 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
-            "team_1": "Windward Islands Women",
-            "team_2": "Trinidad and Tobago Women",
-            "status": "LIVE",
-            "event_name": "CWI T20 Blaze 2026",
-            "match_name": "Windward Islands Women vs Trinidad and Tobago Women",
-            "match_id": 139749,
-            "startTime": "12:00:00 AM 16-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/R37HwLKlR8mN2Dc0ZE_ciQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139749_english_hls_0c97ae075493975_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Racing Club vs FC Barcelona (Copa del Rey, 2025-26)",
@@ -120,18 +106,6 @@
             "startTime": "11:00:00 PM 16-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-            "team_1": "ATP 250 - ASB Classic",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Auckland Open",
-            "match_name": "ATP 250 - ASB Classic",
-            "match_id": 139540,
-            "startTime": "03:30:00 AM 16-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Japan U23 vs Jordan U23 (AFC U23 Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -142,6 +116,20 @@
             "match_name": "Japan U23 vs Jordan U23",
             "match_id": 139275,
             "startTime": "05:00:00 PM 16-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
+            "team_1": "ATP 250 - ASB Classic",
+            "team_2": "Auckland",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Auckland Open",
+            "match_name": "ATP 250 - ASB Classic",
+            "match_id": 139540,
+            "startTime": "03:30:00 AM 16-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/QE9HCQrUSl6abaf3EqxO1A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139540_english_hls_8ee11e5cff66218_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -442,6 +430,18 @@
             "match_name": "Oxford United vs Bristol City F.C.",
             "match_id": 139337,
             "startTime": "08:30:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "RCD Mallorca vs Athletic Club (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131023_5427_MRC_ATH_fc-Web.png",
+            "team_1": "RCD Mallorca",
+            "team_2": "Athletic Club",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RCD Mallorca vs Athletic Club",
+            "match_id": 131023,
+            "startTime": "08:45:00 PM 17-01-2026"
         }
     ]
 }
