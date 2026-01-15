@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:35:16 AM 16-01-2026",
+    "last update time": "03:45:25 AM 16-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Racing Club vs FC Barcelona (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139676_5806_RAC_BAR_FC-Web_1768470725855.jpg",
-            "team_1": "Racing Club",
-            "team_2": "FC Barcelona",
-            "status": "LIVE",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Racing Club vs FC Barcelona",
-            "match_id": 139676,
-            "startTime": "01:30:00 AM 16-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/h-9_q1AZSIaFCQ4_HTIlMg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139676_english_hls_9487df73e183602_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Group - Day 1 vs Hawaii (Sony Open in Hawaii 2026)",
@@ -47,17 +33,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Burgos vs Valencia CF (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139675_5806_BUR_VAL_FC-Web.jpg",
-            "team_1": "Burgos",
-            "team_2": "Valencia CF",
+            "title": "Racing Club vs FC Barcelona (Copa del Rey, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139676_5806_RAC_BAR_FC-Web_1768470725855.jpg",
+            "team_1": "Racing Club",
+            "team_2": "FC Barcelona",
             "status": "LIVE",
             "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Burgos vs Valencia CF",
-            "match_id": 139675,
+            "match_name": "Racing Club vs FC Barcelona",
+            "match_id": 139676,
             "startTime": "01:30:00 AM 16-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/B4gORrpXTReq188ij_KGrQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139675_english_hls_a18e87fdd840858_1ta-di_h264/index.m3u8"
+            "dai_url": "https://dai.google.com/linear/hls/event/h-9_q1AZSIaFCQ4_HTIlMg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139676_english_hls_9487df73e183602_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -442,6 +428,18 @@
             "match_name": "RCD Mallorca vs Athletic Club",
             "match_id": 131023,
             "startTime": "08:45:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Egypt vs Nigeria (Africa Cup of Nations 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Image-Nigeria_fc-web.jpg",
+            "team_1": "Egypt",
+            "team_2": "Nigeria",
+            "status": "UPCOMING",
+            "event_name": "Africa Cup of Nations 2025-26",
+            "match_name": "Egypt vs Nigeria",
+            "match_id": 138393,
+            "startTime": "09:30:00 PM 17-01-2026"
         }
     ]
 }
