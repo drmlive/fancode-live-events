@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:15:05 PM 15-01-2026",
+    "last update time": "02:25:10 PM 15-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "09:45:00 AM 13-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/kQXdaFe-Qmu3Xaj4gKsIuA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139667_english_hls_e061157e2f88573_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-            "team_1": "ATP 250 - ASB Classic",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Auckland Open",
-            "match_name": "ATP 250 - ASB Classic",
-            "match_id": 139539,
-            "startTime": "04:00:00 AM 15-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/8cuQHVfVQAOg9NY4EjR_mQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139539_english_hls_5b30ee1e3a71739_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -442,6 +428,18 @@
             "match_name": "Chattogram Royals vs Dhaka Capitals",
             "match_id": 138937,
             "startTime": "05:30:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Central Coast Mariners vs Macarthur (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Central Coast Mariners",
+            "team_2": "Macarthur",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Central Coast Mariners vs Macarthur",
+            "match_id": 139387,
+            "startTime": "12:30:00 PM 17-01-2026"
         }
     ]
 }
