@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:01:29 AM 16-01-2026",
+    "last update time": "11:11:40 AM 16-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "10:25:00 AM 16-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/j5YpgWKkRaGpt1VD_HfLVw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138751_english_hls_9494524cbc43118_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "ATP 250 - ASB Classic vs Auckland (ATP 250 - Auckland Open)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ASB_Classic_fc-web.jpg",
-            "team_1": "ATP 250 - ASB Classic",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Auckland Open",
-            "match_name": "ATP 250 - ASB Classic",
-            "match_id": 139540,
-            "startTime": "03:30:00 AM 16-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/QE9HCQrUSl6abaf3EqxO1A/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139540_english_hls_8ee11e5cff66218_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -57,13 +43,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "TBC vs TBC (Oman Super League T20, 2026)",
+            "title": "Yalla Shabab Giants vs Oman Development Team (Oman Super League T20, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oman-Super-League-T20_FC-Web.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Yalla Shabab Giants",
+            "team_2": "Oman Development Team",
             "status": "UPCOMING",
             "event_name": "Oman Super League T20, 2026",
-            "match_name": "TBC vs TBC",
+            "match_name": "Yalla Shabab Giants vs Oman Development Team",
             "match_id": 139582,
             "startTime": "07:30:00 PM 16-01-2026"
         },
@@ -426,6 +412,18 @@
             "match_name": "Barbados Women vs Windward Islands Women",
             "match_id": 139752,
             "startTime": "12:00:00 AM 18-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Betis vs Villarreal CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131026_5427_RB_VIL_fc-Web.png",
+            "team_1": "Real Betis",
+            "team_2": "Villarreal CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Betis vs Villarreal CF",
+            "match_id": 131026,
+            "startTime": "01:30:00 AM 18-01-2026"
         }
     ]
 }
