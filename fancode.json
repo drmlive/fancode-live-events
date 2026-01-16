@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:33:06 PM 16-01-2026",
+    "last update time": "12:54:10 PM 16-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138934_5808_CCH_NOE_fc-web_1766733054213.jpg",
             "team_1": "Chattogram Royals",
             "team_2": "Noakhali Express",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Bangladesh Premier League, 2025-26",
             "match_name": "Chattogram Royals vs Noakhali Express",
             "match_id": 138934,
-            "startTime": "01:30:00 PM 16-01-2026"
+            "startTime": "01:30:00 PM 16-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/nHhIA53QSl-pxD6s84uRsA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138934_english_hls_62a118a79b83261_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -234,18 +236,6 @@
             "startTime": "11:30:00 AM 17-01-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Centre Court - Day 6 vs Adelaide (ATP 250 - Adelaide International)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
-            "team_1": "Centre Court - Day 6",
-            "team_2": "Adelaide",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Adelaide International",
-            "match_name": "Centre Court - Day 6",
-            "match_id": 139569,
-            "startTime": "09:00:00 AM 17-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Central Coast Mariners vs Macarthur (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -256,6 +246,18 @@
             "match_name": "Central Coast Mariners vs Macarthur",
             "match_id": 139387,
             "startTime": "12:30:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court - Day 6 vs Adelaide (ATP 250 - Adelaide International)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1767943452407.png",
+            "team_1": "Centre Court - Day 6",
+            "team_2": "Adelaide",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Adelaide International",
+            "match_name": "Centre Court - Day 6",
+            "match_id": 139569,
+            "startTime": "09:00:00 AM 17-01-2026"
         },
         {
             "event_category": "Football",
@@ -294,18 +296,6 @@
             "startTime": "05:00:00 PM 17-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Adelaide United vs Melbourne Victory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Melbourne Victory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Melbourne Victory",
-            "match_id": 139388,
-            "startTime": "02:05:00 PM 17-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Leeward Islands Women vs Trinidad and Tobago Women (CWI T20 Blaze 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
@@ -316,6 +306,18 @@
             "match_name": "Leeward Islands Women vs Trinidad and Tobago Women",
             "match_id": 139751,
             "startTime": "07:00:00 PM 17-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United vs Melbourne Victory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Melbourne Victory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Melbourne Victory",
+            "match_id": 139388,
+            "startTime": "02:05:00 PM 17-01-2026"
         },
         {
             "event_category": "Football",
