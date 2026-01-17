@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:24:46 PM 17-01-2026",
+    "last update time": "12:34:54 PM 17-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "11:30:00 AM 17-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/g1CRLelsT1SEPJoLJFJJIQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139386_english_hls_3aa57718067931_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Central Coast Mariners vs Macarthur (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139387_CASACARDS_APP.png",
-            "team_1": "Central Coast Mariners",
-            "team_2": "Macarthur",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Central Coast Mariners vs Macarthur",
-            "match_id": 139387,
-            "startTime": "12:30:00 PM 17-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/hl545LLnSgW8adxvHvRWZw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139387_english_hls_39024a2a9068675_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -430,6 +416,18 @@
             "match_name": "Getafe CF vs Valencia CF",
             "match_id": 131020,
             "startTime": "06:30:00 PM 18-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs Deportivo Alaves (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131022_5427_ATL_ALA_fc-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Deportivo Alaves",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Atletico de Madrid vs Deportivo Alaves",
+            "match_id": 131022,
+            "startTime": "08:45:00 PM 18-01-2026"
         }
     ]
 }
