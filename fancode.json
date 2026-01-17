@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:48:28 AM 18-01-2026",
+    "last update time": "03:58:38 AM 18-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Almer\u00eda vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139788_CASACARDS_APP.png",
-            "team_1": "Almer\u00eda",
-            "team_2": "Deportivo La Coruna",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Almer\u00eda vs Deportivo La Coruna",
-            "match_id": 139788,
-            "startTime": "01:30:00 AM 18-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/d7-lkSM_QD2-Nai6KMChqQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139788_english_hls_afe3567fe432527_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Group - Day 3 vs Hawaii (Sony Open in Hawaii 2026)",
@@ -30,20 +16,6 @@
             "startTime": "10:45:00 PM 17-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/0t0PQ8DEQti1AvLIcrOFhQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139780_english_hls_ec50c15d8d92249_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Betis vs Villarreal CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131026_5427_RB_VIL_fc-Web.png",
-            "team_1": "Real Betis",
-            "team_2": "Villarreal CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Betis vs Villarreal CF",
-            "match_id": 131026,
-            "startTime": "01:30:00 AM 18-01-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131026_english_hls_ad651a686941779_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131026_english_hls_ad651a686941779_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -191,18 +163,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sydney FC vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139389_CASACARDS_APP.png",
-            "team_1": "Sydney FC",
-            "team_2": "Wellington Phoenix",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Wellington Phoenix",
-            "match_id": 139389,
-            "startTime": "11:30:00 AM 18-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "RC Celta vs Rayo Vallecano (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131027_5427_CEV_RVL_fc-Web.png",
             "team_1": "RC Celta",
@@ -224,6 +184,18 @@
             "match_name": "Neom SC vs Al Hilal SFC",
             "match_id": 139823,
             "startTime": "11:00:00 PM 18-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Wellington Phoenix (A League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139389_CASACARDS_APP.png",
+            "team_1": "Sydney FC",
+            "team_2": "Wellington Phoenix",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Wellington Phoenix",
+            "match_id": 139389,
+            "startTime": "11:30:00 AM 18-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -440,6 +412,30 @@
             "match_name": "Zimbabwe Women vs Thailand Women",
             "match_id": 139223,
             "startTime": "08:45:00 AM 20-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Papua New Guinea Women vs Bangladesh Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Papua-New-Guinea-Women-vs-Bangladesh-Women_1768652698103.png",
+            "team_1": "Papua New Guinea Women",
+            "team_2": "Bangladesh Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20 World Cup Global Qualifier, 2026",
+            "match_name": "Papua New Guinea Women vs Bangladesh Women",
+            "match_id": 139222,
+            "startTime": "08:45:00 AM 20-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dyandeep Seva Mandal vs Swami Vivekanand (Giles Shield 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg",
+            "team_1": "Dyandeep Seva Mandal",
+            "team_2": "Swami Vivekanand",
+            "status": "UPCOMING",
+            "event_name": "Giles Shield 2026",
+            "match_name": "Dyandeep Seva Mandal vs Swami Vivekanand",
+            "match_id": 139668,
+            "startTime": "09:45:00 AM 20-01-2026"
         }
     ]
 }
