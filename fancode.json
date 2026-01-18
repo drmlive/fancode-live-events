@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:26:32 PM 18-01-2026",
+    "last update time": "01:36:40 PM 18-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "12:45:00 PM 18-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/CudjJzUhRUWEv_ywB1486A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139220_english_hls_c922e4b0c596366_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139389_CASACARDS_APP.png",
-            "team_1": "Sydney FC",
-            "team_2": "Wellington Phoenix",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Wellington Phoenix",
-            "match_id": 139389,
-            "startTime": "11:30:00 AM 18-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/xBO37tS7Qx-C_buGL8l4LA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139389_english_hls_a29abc97bf47279_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -418,6 +404,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 139280,
             "startTime": "09:00:00 PM 20-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Ahli Saudi FC vs Al-Khaleej (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-FC-vs-Al-Khaleej_FC-web.jpg",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Al-Khaleej",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Ahli Saudi FC vs Al-Khaleej",
+            "match_id": 139824,
+            "startTime": "11:00:00 PM 20-01-2026"
         }
     ]
 }
