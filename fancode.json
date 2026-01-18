@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:58:41 AM 19-01-2026",
+    "last update time": "04:08:51 AM 19-01-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -30,20 +30,6 @@
             "startTime": "12:30:00 AM 19-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/u78Onre2RFijyM690TwdFQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138394_english_hls_be4201c9ee18463_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131024_5427_RS_BAR_fc-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "FC Barcelona",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Sociedad vs FC Barcelona",
-            "match_id": 131024,
-            "startTime": "01:30:00 AM 19-01-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131024_english_hls_15a00b8f6c79950_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131024_english_hls_15a00b8f6c79950_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -416,6 +402,18 @@
             "match_name": "Stoke City F.C. vs Middlesbrough F.C.",
             "match_id": 139340,
             "startTime": "01:30:00 AM 22-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Auckland Hearts vs Northern Brave Women (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138788_5801_AH-W_NB-W_fc-web_1766596522074.jpg",
+            "team_1": "Auckland Hearts",
+            "team_2": "Northern Brave Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Auckland Hearts vs Northern Brave Women",
+            "match_id": 138788,
+            "startTime": "05:10:00 AM 22-01-2026"
         }
     ]
 }
