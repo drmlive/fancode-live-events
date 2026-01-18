@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:36:00 AM 19-01-2026",
+    "last update time": "12:46:08 AM 19-01-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -42,8 +42,8 @@
             "match_name": "Senegal vs Morocco",
             "match_id": 138394,
             "startTime": "12:30:00 AM 19-01-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/u78Onre2RFijyM690TwdFQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138394_english_hls_be4201c9ee18463_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -146,18 +146,6 @@
             "startTime": "01:30:00 AM 20-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 4 vs Hawaii (Sony Open in Hawaii 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
-            "team_1": "World Feed - Day 4",
-            "team_2": "Hawaii",
-            "status": "UPCOMING",
-            "event_name": "Sony Open in Hawaii 2026",
-            "match_name": "World Feed - Day 4",
-            "match_id": 139775,
-            "startTime": "05:30:00 AM 19-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Granada vs Eibar (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/139790_CASACARDS_APP.png",
@@ -168,6 +156,18 @@
             "match_name": "Granada vs Eibar",
             "match_id": 139790,
             "startTime": "01:00:00 AM 20-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 4 vs Hawaii (Sony Open in Hawaii 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg",
+            "team_1": "World Feed - Day 4",
+            "team_2": "Hawaii",
+            "status": "UPCOMING",
+            "event_name": "Sony Open in Hawaii 2026",
+            "match_name": "World Feed - Day 4",
+            "match_id": 139775,
+            "startTime": "05:30:00 AM 19-01-2026"
         },
         {
             "event_category": "Cricket",
