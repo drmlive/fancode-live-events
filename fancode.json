@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:38:24 AM 19-01-2026",
+    "last update time": "03:48:32 AM 19-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131024_5427_RS_BAR_fc-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "FC Barcelona",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Sociedad vs FC Barcelona",
-            "match_id": 131024,
-            "startTime": "01:30:00 AM 19-01-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131024_english_hls_15a00b8f6c79950_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131024_english_hls_15a00b8f6c79950_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "C\u00f3rdoba vs M\u00e1laga (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139789_CASACARDS_APP.png",
-            "team_1": "C\u00f3rdoba",
-            "team_2": "M\u00e1laga",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00f3rdoba vs M\u00e1laga",
-            "match_id": 139789,
-            "startTime": "01:30:00 AM 19-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/O-iOOTMxS0GsC7HCyCYRoA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139789_english_hls_faa3dd8e8637960_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Group - Day 4 vs Hawaii (Sony Open in Hawaii 2026)",
@@ -58,6 +30,20 @@
             "startTime": "12:30:00 AM 19-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/u78Onre2RFijyM690TwdFQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138394_english_hls_be4201c9ee18463_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs FC Barcelona (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131024_5427_RS_BAR_fc-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "FC Barcelona",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Sociedad vs FC Barcelona",
+            "match_id": 131024,
+            "startTime": "01:30:00 AM 19-01-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131024_english_hls_15a00b8f6c79950_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131024_english_hls_15a00b8f6c79950_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -418,6 +404,18 @@
             "match_name": "Damac vs Al-Nassr FC",
             "match_id": 139825,
             "startTime": "11:00:00 PM 21-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Stoke City F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139340_CASACARDS_APP.png",
+            "team_1": "Stoke City F.C.",
+            "team_2": "Middlesbrough F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Stoke City F.C. vs Middlesbrough F.C.",
+            "match_id": 139340,
+            "startTime": "01:30:00 AM 22-01-2026"
         }
     ]
 }
