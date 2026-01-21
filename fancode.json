@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:04:31 AM 21-01-2026",
+    "last update time": "10:14:41 AM 21-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Canterbury vs Otago Volts (Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138755_5800_CTB_OV_fc-web_1766641251123.jpg",
+            "team_1": "Canterbury",
+            "team_2": "Otago Volts",
+            "status": "LIVE",
+            "event_name": "Super Smash, 2025-26",
+            "match_name": "Canterbury vs Otago Volts",
+            "match_id": 138755,
+            "startTime": "10:25:00 AM 21-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/BLrDUJzgTEa3S1oSJINFtg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138755_english_hls_adb0988ebc852_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Dyandeep Seva Mandal vs Swami Vivekanand (Giles Shield 2026)",
@@ -16,18 +30,6 @@
             "startTime": "09:45:00 AM 20-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/DH_EArP-SSSuJs19DJnGEQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946996761_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Canterbury vs Otago Volts (Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138755_5800_CTB_OV_fc-web_1766641251123.jpg",
-            "team_1": "Canterbury",
-            "team_2": "Otago Volts",
-            "status": "UPCOMING",
-            "event_name": "Super Smash, 2025-26",
-            "match_name": "Canterbury vs Otago Volts",
-            "match_id": 138755,
-            "startTime": "10:25:00 AM 21-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -90,18 +92,6 @@
             "startTime": "12:00:00 AM 22-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Damac vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139825_5655_DAM_ANF_FC-Web.jpg",
-            "team_1": "Damac",
-            "team_2": "Al-Nassr FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Damac vs Al-Nassr FC",
-            "match_id": 139825,
-            "startTime": "11:00:00 PM 21-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Auckland Aces vs Northern Districts (Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138756_5800_AA_ND_fc-web_1766641251674.jpg",
@@ -112,6 +102,18 @@
             "match_name": "Auckland Aces vs Northern Districts",
             "match_id": 138756,
             "startTime": "08:55:00 AM 22-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Damac vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139825_5655_DAM_ANF_FC-Web.jpg",
+            "team_1": "Damac",
+            "team_2": "Al-Nassr FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Damac vs Al-Nassr FC",
+            "match_id": 139825,
+            "startTime": "11:00:00 PM 21-01-2026"
         },
         {
             "event_category": "Football",
