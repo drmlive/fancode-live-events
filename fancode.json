@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:24:51 PM 22-01-2026",
+    "last update time": "11:34:57 PM 22-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs Afghanistan (Afghanistan vs West Indies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-WI_web.jpg",
-            "team_1": "West Indies",
-            "team_2": "Afghanistan",
-            "status": "LIVE",
-            "event_name": "Afghanistan vs West Indies 2026",
-            "match_name": "West Indies vs Afghanistan",
-            "match_id": 139300,
-            "startTime": "08:00:00 PM 22-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/mCTAmaO4TU2HTQQiJATJDA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139300_english_hls_c3d854406723813_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al-Qadsiah FC vs Al-Ittihad (Roshn Saudi League 2025-2026)",
@@ -72,6 +58,20 @@
             "startTime": "10:45:00 PM 22-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/eUQTg1YCQ1-M8rLAnOQ9cg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139992_english_hls_d3e1674a0427419_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Afghanistan (Afghanistan vs West Indies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-WI_web.jpg",
+            "team_1": "West Indies",
+            "team_2": "Afghanistan",
+            "status": "LIVE",
+            "event_name": "Afghanistan vs West Indies 2026",
+            "match_name": "West Indies vs Afghanistan",
+            "match_id": 139300,
+            "startTime": "08:00:00 PM 22-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/mCTAmaO4TU2HTQQiJATJDA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139300_english_hls_c3d854406723813_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -420,6 +420,18 @@
             "match_name": "Brisbane Roar vs Adelaide United",
             "match_id": 139392,
             "startTime": "11:30:00 AM 24-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Macarthur vs Melbourne City (A League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139393_CASACARDS_APP.png",
+            "team_1": "Macarthur",
+            "team_2": "Melbourne City",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Macarthur vs Melbourne City",
+            "match_id": 139393,
+            "startTime": "02:05:00 PM 24-01-2026"
         }
     ]
 }
