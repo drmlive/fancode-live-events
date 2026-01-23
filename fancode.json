@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:36:00 AM 24-01-2026",
+    "last update time": "03:46:10 AM 24-01-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -86,20 +86,6 @@
             "startTime": "01:30:00 AM 24-01-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131030_english_hls_797df2265f17131_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131030_english_hls_797df2265f17131_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Derby County Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139341_5489_DER_WBA_Fc-Web.jpg",
-            "team_1": "Derby County Football Club",
-            "team_2": "West Bromwich Albion F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Derby County Football Club vs West Bromwich Albion F.C.",
-            "match_id": 139341,
-            "startTime": "01:30:00 AM 24-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Om5HaWuEQq6rFzyJE88Ztw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139341_english_hls_220ddc0f6b76963_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -436,6 +422,18 @@
             "match_name": "World Feed - Day 3",
             "match_id": 139920,
             "startTime": "02:30:00 AM 25-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Perth Glory (A League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139394_CASACARDS_APP.png",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Western Sydney Wanderers vs Perth Glory",
+            "match_id": 139394,
+            "startTime": "11:30:00 AM 25-01-2026"
         }
     ]
 }
