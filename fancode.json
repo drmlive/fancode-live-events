@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:13:33 AM 24-01-2026",
+    "last update time": "01:23:52 AM 24-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,6 +44,20 @@
             "startTime": "01:30:00 AM 24-01-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131030_english_hls_797df2265f17131_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131030_english_hls_797df2265f17131_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Derby County Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139341_5489_DER_WBA_Fc-Web.jpg",
+            "team_1": "Derby County Football Club",
+            "team_2": "West Bromwich Albion F.C.",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Derby County Football Club vs West Bromwich Albion F.C.",
+            "match_id": 139341,
+            "startTime": "01:30:00 AM 24-01-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -152,18 +166,6 @@
             "startTime": "02:30:00 PM 24-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Derby County Football Club vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139341_5489_DER_WBA_Fc-Web.jpg",
-            "team_1": "Derby County Football Club",
-            "team_2": "West Bromwich Albion F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Derby County Football Club vs West Bromwich Albion F.C.",
-            "match_id": 139341,
-            "startTime": "01:30:00 AM 24-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Leeward Islands Women vs Barbados Women (CWI T20 Blaze 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg",
@@ -261,18 +263,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Auckland vs Central Coast Mariners (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139391_5802_AFC_CCM_FC-Web.jpg",
-            "team_1": "Auckland",
-            "team_2": "Central Coast Mariners",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Auckland vs Central Coast Mariners",
-            "match_id": 139391,
-            "startTime": "09:30:00 AM 24-01-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Hull City vs Swansea City A.F.C. (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139343_5489_HUL_SWA_FC-Web.jpg",
             "team_1": "Hull City",
@@ -282,6 +272,18 @@
             "match_name": "Hull City vs Swansea City A.F.C.",
             "match_id": 139343,
             "startTime": "08:30:00 PM 24-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Auckland vs Central Coast Mariners (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139391_5802_AFC_CCM_FC-Web.jpg",
+            "team_1": "Auckland",
+            "team_2": "Central Coast Mariners",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Auckland vs Central Coast Mariners",
+            "match_id": 139391,
+            "startTime": "09:30:00 AM 24-01-2026"
         },
         {
             "event_category": "Football",
@@ -356,18 +358,6 @@
             "startTime": "08:30:00 PM 24-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Villarreal CF vs Real Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131034_5427_VIL_RM_fc-Web.png",
-            "team_1": "Villarreal CF",
-            "team_2": "Real Madrid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Villarreal CF vs Real Madrid",
-            "match_id": 131034,
-            "startTime": "01:30:00 AM 25-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Canterbury Magicians vs Northern Brave Women (Women's Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/138791_5801_CM-W_NB-W_fc-web_1766596522069.jpg",
@@ -380,16 +370,16 @@
             "startTime": "05:10:00 AM 25-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 2 vs LA Quinta, CA, USA (The American Express 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
-            "team_1": "World Feed - Day 2",
-            "team_2": "LA Quinta, CA, USA",
+            "event_category": "Football",
+            "title": "Villarreal CF vs Real Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131034_5427_VIL_RM_fc-Web.png",
+            "team_1": "Villarreal CF",
+            "team_2": "Real Madrid",
             "status": "UPCOMING",
-            "event_name": "The American Express 2026",
-            "match_name": "World Feed - Day 2",
-            "match_id": 139919,
-            "startTime": "02:30:00 AM 24-01-2026"
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Villarreal CF vs Real Madrid",
+            "match_id": 131034,
+            "startTime": "01:30:00 AM 25-01-2026"
         },
         {
             "event_category": "Football",
@@ -402,6 +392,18 @@
             "match_name": "C\u00e1diz vs Granada",
             "match_id": 140007,
             "startTime": "01:30:00 AM 25-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 2 vs LA Quinta, CA, USA (The American Express 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+            "team_1": "World Feed - Day 2",
+            "team_2": "LA Quinta, CA, USA",
+            "status": "UPCOMING",
+            "event_name": "The American Express 2026",
+            "match_name": "World Feed - Day 2",
+            "match_id": 139919,
+            "startTime": "02:30:00 AM 24-01-2026"
         },
         {
             "event_category": "Cricket",
