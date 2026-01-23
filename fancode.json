@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:18:30 PM 23-01-2026",
+    "last update time": "08:28:54 PM 23-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,8 +42,8 @@
             "match_name": "Vietnam U23 vs Korea Republic U23",
             "match_id": 139281,
             "startTime": "08:30:00 PM 23-01-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/c1ALqjtyTx20ejZ08yO-Hg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139281_english_hls_c89fd845d223030_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -310,6 +310,30 @@
             "startTime": "08:30:00 PM 24-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Sevilla FC vs Athletic Club (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131038_5427_SEV_ATH_fc-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Athletic Club",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla FC vs Athletic Club",
+            "match_id": 131038,
+            "startTime": "11:00:00 PM 24-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Neom SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139827_5655_NEOM_AAS_Fc-Web.jpg",
+            "team_1": "Neom SC",
+            "team_2": "Al-Ahli Saudi FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Neom SC vs Al-Ahli Saudi FC",
+            "match_id": 139827,
+            "startTime": "11:00:00 PM 24-01-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Main Feed - Day 2 vs LA Quinta, CA, USA (The American Express 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
@@ -368,30 +392,6 @@
             "match_name": "World Feed - Day 2",
             "match_id": 139919,
             "startTime": "02:30:00 AM 24-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sevilla FC vs Athletic Club (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131038_5427_SEV_ATH_fc-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Athletic Club",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Sevilla FC vs Athletic Club",
-            "match_id": 131038,
-            "startTime": "11:00:00 PM 24-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Neom SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139827_5655_NEOM_AAS_Fc-Web.jpg",
-            "team_1": "Neom SC",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Neom SC vs Al-Ahli Saudi FC",
-            "match_id": 139827,
-            "startTime": "11:00:00 PM 24-01-2026"
         },
         {
             "event_category": "Football",
