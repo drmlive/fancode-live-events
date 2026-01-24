@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:17:08 PM 24-01-2026",
+    "last update time": "02:27:20 PM 24-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
+            "team_1": "Sri Lanka",
+            "team_2": "England",
+            "status": "LIVE",
+            "event_name": "England tour of Sri Lanka, 2026",
+            "match_name": "Sri Lanka vs England",
+            "match_id": 139290,
+            "startTime": "02:30:00 PM 24-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769288240~acl=/*~id=08061403913493590467245591424074~hmac=0312875eef7e48aef64c0406466e42edbe02afc571420ba7aeae3b40b52a20fa"
+        },
         {
             "event_category": "Cricket",
             "title": "Bangladesh Women vs Ireland Women (ICC Women's T20 World Cup Global Qualifier, 2026)",
@@ -44,18 +58,6 @@
             "startTime": "02:05:00 PM 24-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/xE2SVzIpRFGh7VVpIv2aIg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139393_english_hls_83cbf743ac70142_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png",
-            "team_1": "Sri Lanka",
-            "team_2": "England",
-            "status": "UPCOMING",
-            "event_name": "England tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka vs England",
-            "match_id": 139290,
-            "startTime": "02:30:00 PM 24-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -262,18 +264,6 @@
             "startTime": "11:00:00 PM 24-01-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs LA Quinta, CA, USA (The American Express 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
-            "team_1": "World Feed - Day 3",
-            "team_2": "LA Quinta, CA, USA",
-            "status": "UPCOMING",
-            "event_name": "The American Express 2026",
-            "match_name": "World Feed - Day 3",
-            "match_id": 139920,
-            "startTime": "02:30:00 AM 25-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Liverpool Women vs Tottenham Hotspur Women (Women's Super League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139334_5826_LIV-W_TOT-W_FC-Web_1768309283495.jpg",
@@ -320,6 +310,18 @@
             "match_name": "Aston Villa Women vs Manchester United Women",
             "match_id": 139331,
             "startTime": "05:25:00 PM 25-01-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 3 vs LA Quinta, CA, USA (The American Express 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-American-Express-2026_FC-Web.jpg",
+            "team_1": "World Feed - Day 3",
+            "team_2": "LA Quinta, CA, USA",
+            "status": "UPCOMING",
+            "event_name": "The American Express 2026",
+            "match_name": "World Feed - Day 3",
+            "match_id": 139920,
+            "startTime": "02:30:00 AM 25-01-2026"
         },
         {
             "event_category": "Football",
