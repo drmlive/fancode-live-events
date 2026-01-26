@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:47:37 AM 27-01-2026",
+    "last update time": "12:57:49 AM 27-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,6 +30,20 @@
             "startTime": "11:00:00 PM 26-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/uBTCydyxSwyTBczHpprUog/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139829_english_hls_12e11e4ae52390_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Girona FC vs Getafe CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131032_5427_GIR_GEF_fc-Web.png",
+            "team_1": "Girona FC",
+            "team_2": "Getafe CF",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona FC vs Getafe CF",
+            "match_id": 131032,
+            "startTime": "01:30:00 AM 27-01-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131032_english_hls_f720cb325438812_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131032_english_hls_f720cb325438812_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -68,18 +82,6 @@
             "match_name": "Gurugram Thunders vs Rajasthan Lions",
             "match_id": 140074,
             "startTime": "02:30:00 PM 27-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Girona FC vs Getafe CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131032_5427_GIR_GEF_fc-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "Getafe CF",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona FC vs Getafe CF",
-            "match_id": 131032,
-            "startTime": "01:30:00 AM 27-01-2026"
         },
         {
             "event_category": "Football",
@@ -202,18 +204,6 @@
             "startTime": "05:30:00 AM 27-01-2026"
         },
         {
-            "event_category": "Futsal",
-            "title": "Thailand vs Lebanon (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Thailand",
-            "team_2": "Lebanon",
-            "status": "UPCOMING",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Thailand vs Lebanon",
-            "match_id": 139881,
-            "startTime": "11:30:00 AM 27-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Doncaster Rovers F.C. vs Leyton Orient (League One 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
@@ -224,6 +214,18 @@
             "match_name": "Doncaster Rovers F.C. vs Leyton Orient",
             "match_id": 140015,
             "startTime": "01:30:00 AM 28-01-2026"
+        },
+        {
+            "event_category": "Futsal",
+            "title": "Thailand vs Lebanon (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Thailand",
+            "team_2": "Lebanon",
+            "status": "UPCOMING",
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Thailand vs Lebanon",
+            "match_id": 139881,
+            "startTime": "11:30:00 AM 27-01-2026"
         },
         {
             "event_category": "Futsal",
