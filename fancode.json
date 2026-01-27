@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:34:48 PM 27-01-2026",
+    "last update time": "06:45:12 PM 27-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -89,11 +89,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg",
             "team_1": "Barbados Women",
             "team_2": "Leeward Islands Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "CG United Women's Super 50 Cup 2026",
             "match_name": "Barbados Women vs Leeward Islands Women",
             "match_id": 139764,
-            "startTime": "07:00:00 PM 27-01-2026"
+            "startTime": "07:00:00 PM 27-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/n_qnXfcrTPuHjrIqtyyTuA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139764_english_hls_e90d3e852a87021_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -101,11 +103,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg",
             "team_1": "Trinidad and Tobago Women",
             "team_2": "Windward Islands Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "CG United Women's Super 50 Cup 2026",
             "match_name": "Trinidad and Tobago Women vs Windward Islands Women",
             "match_id": 139763,
-            "startTime": "07:00:00 PM 27-01-2026"
+            "startTime": "07:00:00 PM 27-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/8fpI654UQASBQ8QtgRfGjQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139763_english_hls_325ca8f34621196_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -192,18 +196,6 @@
             "startTime": "12:45:00 PM 28-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Doncaster Rovers F.C. vs Leyton Orient (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
-            "team_1": "Doncaster Rovers F.C.",
-            "team_2": "Leyton Orient",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Doncaster Rovers F.C. vs Leyton Orient",
-            "match_id": 140015,
-            "startTime": "01:30:00 AM 28-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Delhi Warriors vs Pune Panthers (World Legends Pro T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140077_5928_DW_GT_FC-Web.jpg",
@@ -214,6 +206,18 @@
             "match_name": "Delhi Warriors vs Pune Panthers",
             "match_id": 140077,
             "startTime": "07:30:00 PM 28-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Doncaster Rovers F.C. vs Leyton Orient (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png",
+            "team_1": "Doncaster Rovers F.C.",
+            "team_2": "Leyton Orient",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Doncaster Rovers F.C. vs Leyton Orient",
+            "match_id": 140015,
+            "startTime": "01:30:00 AM 28-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -312,18 +316,6 @@
             "startTime": "12:00:00 PM 28-01-2026"
         },
         {
-            "event_category": "Padel",
-            "title": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139844_5896_RNA_RL9_FC-Web.jpg",
-            "team_1": "Rafa Nadal Academy Team",
-            "team_2": "Robert Lewandoswki Academy Team",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026",
-            "match_name": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team",
-            "match_id": 139844,
-            "startTime": "01:00:00 PM 28-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Al-Ahli Saudi FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139830_5655_AAS_ETT_FC-Web.jpg",
@@ -334,6 +326,18 @@
             "match_name": "Al-Ahli Saudi FC vs Al-Ettifaq",
             "match_id": 139830,
             "startTime": "11:00:00 PM 28-01-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team (Hexagon Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139844_5896_RNA_RL9_FC-Web.jpg",
+            "team_1": "Rafa Nadal Academy Team",
+            "team_2": "Robert Lewandoswki Academy Team",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026",
+            "match_name": "Rafa Nadal Academy Team vs Robert Lewandoswki Academy Team",
+            "match_id": 139844,
+            "startTime": "01:00:00 PM 28-01-2026"
         },
         {
             "event_category": "Cricket",
