@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:23:24 PM 28-01-2026",
+    "last update time": "05:33:29 PM 28-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "04:30:00 PM 28-01-2026",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Futsal",
-            "title": "IR Iran vs Malaysia (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "IR Iran",
-            "team_2": "Malaysia",
-            "status": "LIVE",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "IR Iran vs Malaysia",
-            "match_id": 139887,
-            "startTime": "03:30:00 PM 28-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/ScSCdu_2RvaKrqnemJ7O7g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139887_english_hls_f0029771a775379_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Padel",
@@ -432,6 +418,18 @@
             "match_name": "Al-Qadsiah FC vs Al Hilal SFC",
             "match_id": 139831,
             "startTime": "11:00:00 PM 29-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman vs Sharjah (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+            "team_1": "Ajman",
+            "team_2": "Sharjah",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Ajman vs Sharjah",
+            "match_id": 139598,
+            "startTime": "11:15:00 PM 29-01-2026"
         }
     ]
 }
