@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:12:48 PM 28-01-2026",
+    "last update time": "04:22:54 PM 28-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "02:30:00 PM 28-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/TpG9VU6FSEqMHFOQr6ZhSA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140076_english_hls_2d913f9f8626682_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Dubai vs Sharjah (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+            "team_1": "Dubai",
+            "team_2": "Sharjah",
+            "status": "LIVE",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Dubai vs Sharjah",
+            "match_id": 139591,
+            "startTime": "04:30:00 PM 28-01-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Futsal",
@@ -56,18 +70,6 @@
             "match_name": "Delhi Warriors vs Pune Panthers",
             "match_id": 140077,
             "startTime": "07:30:00 PM 28-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sharjah vs Dubai (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Sharjah vs Dubai",
-            "match_id": 139591,
-            "startTime": "04:30:00 PM 28-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -274,18 +276,6 @@
             "startTime": "06:45:00 PM 29-01-2026"
         },
         {
-            "event_category": "Futsal",
-            "title": "Uzbekistan vs Tajikistan (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Uzbekistan",
-            "team_2": "Tajikistan",
-            "status": "UPCOMING",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Uzbekistan vs Tajikistan",
-            "match_id": 139888,
-            "startTime": "05:30:00 PM 28-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Windward Islands Women vs Leeward Islands Women (CG United Women's Super 50 Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_2-(1).jpg",
@@ -320,6 +310,18 @@
             "match_name": "Guyana Women vs Trinidad and Tobago Women",
             "match_id": 139766,
             "startTime": "07:00:00 PM 29-01-2026"
+        },
+        {
+            "event_category": "Futsal",
+            "title": "Uzbekistan vs Tajikistan (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Uzbekistan",
+            "team_2": "Tajikistan",
+            "status": "UPCOMING",
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Uzbekistan vs Tajikistan",
+            "match_id": 139888,
+            "startTime": "05:30:00 PM 28-01-2026"
         },
         {
             "event_category": "Padel",
