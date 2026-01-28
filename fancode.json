@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:33:58 PM 28-01-2026",
+    "last update time": "06:44:14 PM 28-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -42,8 +42,8 @@
             "match_name": "Uzbekistan vs Tajikistan",
             "match_id": 139888,
             "startTime": "05:30:00 PM 28-01-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139888_english_hls_1d55af148822582_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139888_english_hls_1d55af148822582_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -358,18 +358,6 @@
             "startTime": "12:00:00 PM 29-01-2026"
         },
         {
-            "event_category": "Padel",
-            "title": "Team Bella vs 10 Padel (Hexagon Cup 2026 DNU)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139852_5896_TEB_XPA_FC-Web.jpg",
-            "team_1": "Team Bella",
-            "team_2": "10 Padel",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026 DNU",
-            "match_name": "Team Bella vs 10 Padel",
-            "match_id": 139852,
-            "startTime": "01:00:00 PM 29-01-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Al-Qadsiah FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139831_5655_ALQ_AHS_FC-Web.jpg",
@@ -380,6 +368,18 @@
             "match_name": "Al-Qadsiah FC vs Al Hilal SFC",
             "match_id": 139831,
             "startTime": "11:00:00 PM 29-01-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "Team Bella vs 10 Padel (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139852_5896_TEB_XPA_FC-Web.jpg",
+            "team_1": "Team Bella",
+            "team_2": "10 Padel",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "Team Bella vs 10 Padel",
+            "match_id": 139852,
+            "startTime": "01:00:00 PM 29-01-2026"
         },
         {
             "event_category": "Cricket",
