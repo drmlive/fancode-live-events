@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:45 AM 29-01-2026",
+    "last update time": "11:21:00 AM 29-01-2026",
     "matches": [
+        {
+            "event_category": "Futsal",
+            "title": "Lebanon vs Vietnam (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Lebanon",
+            "team_2": "Vietnam",
+            "status": "LIVE",
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Lebanon vs Vietnam",
+            "match_id": 139889,
+            "startTime": "11:30:00 AM 29-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/6yTz-Xp5RUeAVaWQqvzx_Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139889_english_hls_f0b105dfc749642_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Rajasthan Lions vs Dubai Royals (World Legends Pro T20 League, 2026)",
@@ -304,18 +318,6 @@
             "startTime": "11:00:00 AM 29-01-2026"
         },
         {
-            "event_category": "Futsal",
-            "title": "Lebanon vs Vietnam (AFC Futsal Asian Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
-            "team_1": "Lebanon",
-            "team_2": "Vietnam",
-            "status": "UPCOMING",
-            "event_name": "AFC Futsal Asian Cup, 2026",
-            "match_name": "Lebanon vs Vietnam",
-            "match_id": 139889,
-            "startTime": "11:30:00 AM 29-01-2026"
-        },
-        {
             "event_category": "Padel",
             "title": "KRU Padel vs Leven (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139858_5896_KRU_LEV_FC-Web.jpg",
@@ -388,6 +390,18 @@
             "startTime": "12:45:00 PM 30-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Melbourne City (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wellington-Phoenix-vs-Melbourne-City_fc-web.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Melbourne City",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix vs Melbourne City",
+            "match_id": 139396,
+            "startTime": "11:30:00 AM 30-01-2026"
+        },
+        {
             "event_category": "Padel",
             "title": "Team Bella vs 10 Padel (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139852_5896_TEB_XPA_FC-Web.jpg",
@@ -446,18 +460,6 @@
             "match_name": "Day 2 - Centre Court",
             "match_id": 140164,
             "startTime": "03:30:00 PM 29-01-2026"
-        },
-        {
-            "event_category": "Padel",
-            "title": "KRU Padel vs Robert Lewandoswki Academy Team (Hexagon Cup 2026 DNU)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139855_5896_KRU_RL9_FC-Web.jpg",
-            "team_1": "KRU Padel",
-            "team_2": "Robert Lewandoswki Academy Team",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026 DNU",
-            "match_name": "KRU Padel vs Robert Lewandoswki Academy Team",
-            "match_id": 139855,
-            "startTime": "04:00:00 PM 29-01-2026"
         }
     ]
 }
