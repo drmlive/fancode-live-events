@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:42:19 AM 30-01-2026",
+    "last update time": "02:52:25 AM 30-01-2026",
     "matches": [
-        {
-            "event_category": "Padel",
-            "title": "Day 2 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
-            "team_1": "Day 2 - Centre Court",
-            "team_2": "Madrid, Spain",
-            "status": "LIVE",
-            "event_name": "Hexagon Cup 2026",
-            "match_name": "Day 2 - Centre Court",
-            "match_id": 140164,
-            "startTime": "03:30:00 PM 29-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/ZY7K1FJWSEOWR9kmH-2ILA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140164_english_hls_318f4d02a767737_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Main Feed - Day 1 vs Torrey Pines Golf Course  (Farmers Insurance Open 2026)",
@@ -470,6 +456,18 @@
             "match_name": "Iron Titans vs Thunder Strikers",
             "match_id": 140173,
             "startTime": "07:30:00 AM 31-01-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "Rafa Nadal Academy Team vs 10 Padel (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139865_5896_RNA_XPA_FC-Web.jpg",
+            "team_1": "Rafa Nadal Academy Team",
+            "team_2": "10 Padel",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "Rafa Nadal Academy Team vs 10 Padel",
+            "match_id": 139865,
+            "startTime": "11:00:00 AM 30-01-2026"
         }
     ]
 }
