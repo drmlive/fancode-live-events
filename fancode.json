@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:27:05 PM 30-01-2026",
+    "last update time": "10:37:18 PM 30-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,6 +72,20 @@
             "startTime": "10:30:00 PM 30-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/ICC2t1y4QxKJlnFAPsYwZw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140026_english_hls_52b1513fd137556_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
+            "team_1": "Featured Holes - Day 2",
+            "team_2": "Torrey Pines Golf Course",
+            "status": "LIVE",
+            "event_name": "Farmers Insurance Open 2026",
+            "match_name": "Featured Holes - Day 2",
+            "match_id": 140029,
+            "startTime": "10:45:00 PM 30-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/lxk-m14XQRakjMdeko8WQA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140029_english_hls_6bcd3247e853583_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -387,18 +401,6 @@
         },
         {
             "event_category": "Golf",
-            "title": "Featured Holes - Day 2 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
-            "team_1": "Featured Holes - Day 2",
-            "team_2": "Torrey Pines Golf Course",
-            "status": "UPCOMING",
-            "event_name": "Farmers Insurance Open 2026",
-            "match_name": "Featured Holes - Day 2",
-            "match_id": 140029,
-            "startTime": "10:45:00 PM 30-01-2026"
-        },
-        {
-            "event_category": "Golf",
             "title": "Featured Groups - Day 2 vs Torrey Pines Golf Course  (Farmers Insurance Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
             "team_1": "Featured Groups - Day 2",
@@ -434,18 +436,6 @@
             "startTime": "08:30:00 PM 31-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Perth Glory vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139400_5802_PG_AFC_FC-Web.jpg",
-            "team_1": "Perth Glory",
-            "team_2": "Auckland",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Perth Glory vs Auckland",
-            "match_id": 139400,
-            "startTime": "04:15:00 PM 31-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
@@ -468,6 +458,18 @@
             "match_name": "CA Osasuna vs Villarreal CF",
             "match_id": 131048,
             "startTime": "08:45:00 PM 31-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory vs Auckland (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139400_5802_PG_AFC_FC-Web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Auckland",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory vs Auckland",
+            "match_id": 139400,
+            "startTime": "04:15:00 PM 31-01-2026"
         }
     ]
 }
