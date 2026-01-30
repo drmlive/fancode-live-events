@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:49:45 PM 30-01-2026",
+    "last update time": "01:59:54 PM 30-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "12:45:00 PM 30-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/o0DEN8FPSRu9k97eg3aShQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139243_english_hls_fb55b2dcaa16365_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Wellington Phoenix vs Melbourne City (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Wellington-Phoenix-vs-Melbourne-City_fc-web.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Melbourne City",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix vs Melbourne City",
-            "match_id": 139396,
-            "startTime": "11:30:00 AM 30-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/SxA6jociR0aE-Cep6BIojw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139396_english_hls_9b3723b4c441716_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Futsal",
@@ -51,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140080_5928_MTY_DW_FC-Web_1769654116007.jpg",
             "team_1": "Maharashtra Tycoons",
             "team_2": "Delhi Warriors",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "World Legends Pro T20 League, 2026",
             "match_name": "Maharashtra Tycoons vs Delhi Warriors",
             "match_id": 140080,
-            "startTime": "02:30:00 PM 30-01-2026"
+            "startTime": "02:30:00 PM 30-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/5Sr43ae0RNqMI_tLqonURQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140080_english_hls_f547f7669e52892_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -94,18 +82,6 @@
             "startTime": "06:40:00 AM 31-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Adelaide United vs Macarthur (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139397_5802_ADL_MAC_FC-Web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Macarthur",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Macarthur",
-            "match_id": 139397,
-            "startTime": "02:35:00 PM 30-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Northern Districts vs Canterbury (Super Smash, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -116,6 +92,18 @@
             "match_name": "Northern Districts vs Canterbury",
             "match_id": 138762,
             "startTime": "10:25:00 AM 31-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United vs Macarthur (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139397_5802_ADL_MAC_FC-Web.jpg",
+            "team_1": "Adelaide United",
+            "team_2": "Macarthur",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Macarthur",
+            "match_id": 139397,
+            "startTime": "02:35:00 PM 30-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -155,18 +143,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Abu Dhabi vs Dubai",
-            "match_id": 139601,
-            "startTime": "09:00:00 PM 30-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "United Arab Emirates vs Ireland (Ireland tour of United Arab Emirates, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Ireland-tour-of-UAE-old-match-card-.png",
             "team_1": "United Arab Emirates",
@@ -176,6 +152,18 @@
             "match_name": "United Arab Emirates vs Ireland",
             "match_id": 140133,
             "startTime": "11:30:00 AM 31-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Abu Dhabi vs Dubai (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Abu Dhabi vs Dubai",
+            "match_id": 139601,
+            "startTime": "09:00:00 PM 30-01-2026"
         },
         {
             "event_category": "Cricket",
@@ -382,6 +370,18 @@
             "startTime": "02:00:00 PM 30-01-2026"
         },
         {
+            "event_category": "Padel",
+            "title": "Rafa Nadal Academy Team vs 10 Padel (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139863_5896_RNA_XPA_FC-Web.jpg",
+            "team_1": "Rafa Nadal Academy Team",
+            "team_2": "10 Padel",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "Rafa Nadal Academy Team vs 10 Padel",
+            "match_id": 139863,
+            "startTime": "03:00:00 PM 30-01-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Newcastle Jets vs Brisbane Roar (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139398_5802_NJ_BRB_FC-Web.jpg",
@@ -406,16 +406,28 @@
             "startTime": "04:30:00 PM 31-01-2026"
         },
         {
-            "event_category": "Padel",
-            "title": "Rafa Nadal Academy Team vs 10 Padel (Hexagon Cup 2026 DNU)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139863_5896_RNA_XPA_FC-Web.jpg",
-            "team_1": "Rafa Nadal Academy Team",
-            "team_2": "10 Padel",
+            "event_category": "Cricket",
+            "title": "Dubai Royals vs Pune Panthers (World Legends Pro T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web.jpg",
+            "team_1": "Dubai Royals",
+            "team_2": "Pune Panthers",
             "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026 DNU",
-            "match_name": "Rafa Nadal Academy Team vs 10 Padel",
-            "match_id": 139863,
-            "startTime": "03:00:00 PM 30-01-2026"
+            "event_name": "World Legends Pro T20 League, 2026",
+            "match_name": "Dubai Royals vs Pune Panthers",
+            "match_id": 140083,
+            "startTime": "07:30:00 PM 31-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sydney FC vs Western Sydney Wanderers (A League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139399_CASACARDS_APP.png",
+            "team_1": "Sydney FC",
+            "team_2": "Western Sydney Wanderers",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Sydney FC vs Western Sydney Wanderers",
+            "match_id": 139399,
+            "startTime": "02:05:00 PM 31-01-2026"
         },
         {
             "event_category": "Futsal",
@@ -440,30 +452,6 @@
             "match_name": "Day 3 - Centre Court",
             "match_id": 140166,
             "startTime": "03:30:00 PM 30-01-2026"
-        },
-        {
-            "event_category": "Padel",
-            "title": "KRU Padel vs Team Bella (Hexagon Cup 2026 DNU)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139864_5896_KRU_TEB_FC-Web.jpg",
-            "team_1": "KRU Padel",
-            "team_2": "Team Bella",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026 DNU",
-            "match_name": "KRU Padel vs Team Bella",
-            "match_id": 139864,
-            "startTime": "04:00:00 PM 30-01-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Dubai Royals vs Pune Panthers (World Legends Pro T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140083_5928_DR_PPT_FC-Web.jpg",
-            "team_1": "Dubai Royals",
-            "team_2": "Pune Panthers",
-            "status": "UPCOMING",
-            "event_name": "World Legends Pro T20 League, 2026",
-            "match_name": "Dubai Royals vs Pune Panthers",
-            "match_id": 140083,
-            "startTime": "07:30:00 PM 31-01-2026"
         }
     ]
 }
