@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:44:34 AM 31-01-2026",
+    "last update time": "09:54:41 AM 31-01-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Auckland Hearts vs Wellington Blaze (Women's Super Smash, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/138766_5801_WB-W_AH-W_fc-web_1766596522064.jpg",
-            "team_1": "Auckland Hearts",
-            "team_2": "Wellington Blaze",
-            "status": "LIVE",
-            "event_name": "Women's Super Smash, 2025-26",
-            "match_name": "Auckland Hearts vs Wellington Blaze",
-            "match_id": 138794,
-            "startTime": "06:40:00 AM 31-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/VXUAy3y4R9qke72jBt6Nxw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138794_english_hls_b9779fb4e927951_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 1 vs Bangkok (Icons of Football, 2026)",
@@ -30,6 +16,20 @@
             "startTime": "06:30:00 AM 31-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/-s1g3dtFRZSBrw_IBWsVtQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140136_english_hls_03471c5e7053101_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Auckland Hearts vs Wellington Blaze (Women's Super Smash, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/138766_5801_WB-W_AH-W_fc-web_1766596522064.jpg",
+            "team_1": "Auckland Hearts",
+            "team_2": "Wellington Blaze",
+            "status": "LIVE",
+            "event_name": "Women's Super Smash, 2025-26",
+            "match_name": "Auckland Hearts vs Wellington Blaze",
+            "match_id": 138794,
+            "startTime": "06:40:00 AM 31-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/VXUAy3y4R9qke72jBt6Nxw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138794_english_hls_b9779fb4e927951_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,18 +152,6 @@
             "startTime": "06:00:00 PM 31-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Real Oviedo vs Girona FC (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131043_5427_RO_GIR_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Girona FC",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Oviedo vs Girona FC",
-            "match_id": 131043,
-            "startTime": "06:30:00 PM 31-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
@@ -174,6 +162,18 @@
             "match_name": "Sharjah vs Emirates Red",
             "match_id": 139605,
             "startTime": "09:00:00 PM 31-01-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Oviedo vs Girona FC (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131043_5427_RO_GIR_FC-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Girona FC",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Oviedo vs Girona FC",
+            "match_id": 131043,
+            "startTime": "06:30:00 PM 31-01-2026"
         },
         {
             "event_category": "Football",
