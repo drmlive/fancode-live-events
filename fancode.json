@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:30:23 PM 31-01-2026",
+    "last update time": "04:40:28 PM 31-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "04:30:00 PM 31-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/7WlKjnqZRYqFZLjC-yhAgA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139603_english_hls_ae2059eee438894_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Western Sydney Wanderers (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139399_CASACARDS_APP.png",
-            "team_1": "Sydney FC",
-            "team_2": "Western Sydney Wanderers",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Western Sydney Wanderers",
-            "match_id": 139399,
-            "startTime": "02:05:00 PM 31-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/DCm7aP3MRdWbSIC0UkzvxQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139399_english_hls_99bb54ef5a38779_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -276,18 +262,6 @@
             "startTime": "08:45:00 PM 31-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Levante vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131040_5427_LE_ATL_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "Atletico de Madrid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Levante vs Atletico de Madrid",
-            "match_id": 131040,
-            "startTime": "11:00:00 PM 31-01-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
@@ -298,6 +272,18 @@
             "match_name": "Pune Panthers vs Rajasthan Lions",
             "match_id": 140084,
             "startTime": "02:30:00 PM 01-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Levante vs Atletico de Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131040_5427_LE_ATL_FC-Web.png",
+            "team_1": "Levante",
+            "team_2": "Atletico de Madrid",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Levante vs Atletico de Madrid",
+            "match_id": 131040,
+            "startTime": "11:00:00 PM 31-01-2026"
         },
         {
             "event_category": "Football",
@@ -478,6 +464,18 @@
             "match_name": "Indonesia vs Iraq",
             "match_id": 139899,
             "startTime": "05:30:00 PM 31-01-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
+            "team_1": "Sri Lanka",
+            "team_2": "England",
+            "status": "UPCOMING",
+            "event_name": "England tour of Sri Lanka, 2026",
+            "match_name": "Sri Lanka vs England",
+            "match_id": 139293,
+            "startTime": "07:00:00 PM 01-02-2026"
         }
     ]
 }
