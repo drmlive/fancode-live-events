@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:38:27 AM 01-02-2026",
+    "last update time": "01:48:33 AM 01-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "01:30:00 AM 01-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131041_english_hls_3cab0967848633_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131041_english_hls_3cab0967848633_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Cultural Leonesa vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/140010_CASACARDS_APP.png",
-            "team_1": "Cultural Leonesa",
-            "team_2": "Deportivo La Coruna",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Cultural Leonesa vs Deportivo La Coruna",
-            "match_id": 140010,
-            "startTime": "11:00:00 PM 31-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/FGWGw4SvQSWMdb9UOraOPA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140010_english_hls_d31568c46179077_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -480,6 +466,18 @@
             "match_name": "Day 2",
             "match_id": 140137,
             "startTime": "06:30:00 AM 01-02-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_padel-tennis-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "TBC vs TBC",
+            "match_id": 139880,
+            "startTime": "07:30:00 AM 01-02-2026"
         }
     ]
 }
