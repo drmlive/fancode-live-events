@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:18:15 AM 01-02-2026",
+    "last update time": "01:28:22 AM 01-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -156,20 +156,6 @@
             "startTime": "11:30:00 PM 31-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/1bHLkLgsRe2umvZIIvjSLw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Levante vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131040_5427_LE_ATL_FC-Web.png",
-            "team_1": "Levante",
-            "team_2": "Atletico de Madrid",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Levante vs Atletico de Madrid",
-            "match_id": 131040,
-            "startTime": "11:00:00 PM 31-01-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131040_english_hls_86a8497dc77036_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -482,6 +468,18 @@
             "match_name": "Granada vs Racing de Santander",
             "match_id": 140011,
             "startTime": "01:30:00 AM 02-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Bangkok (Icons of Football, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Icons-Series-Golf_2026_FC-Web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Bangkok",
+            "status": "UPCOMING",
+            "event_name": "Icons of Football, 2026",
+            "match_name": "Day 2",
+            "match_id": 140137,
+            "startTime": "06:30:00 AM 01-02-2026"
         }
     ]
 }
