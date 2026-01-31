@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:08:09 AM 01-02-2026",
+    "last update time": "01:18:15 AM 01-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "07:00:00 PM 31-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/pNz_MV6-QmSYy8eOS3Bh0A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi vs Fujairah (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Fujairah",
-            "status": "LIVE",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Abu Dhabi vs Fujairah",
-            "match_id": 139606,
-            "startTime": "11:15:00 PM 31-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/qUSmHkNzSyiX-flPSuCM1A/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139606_english_hls_213cb2f12a68997_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -483,6 +469,18 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "Athletic Club vs Real Sociedad",
             "match_id": 131045,
+            "startTime": "01:30:00 AM 02-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Granada vs Racing de Santander (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/140011_CASACARDS_APP.png",
+            "team_1": "Granada",
+            "team_2": "Racing de Santander",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Granada vs Racing de Santander",
+            "match_id": 140011,
             "startTime": "01:30:00 AM 02-02-2026"
         }
     ]
