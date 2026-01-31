@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:54:26 PM 31-01-2026",
+    "last update time": "09:04:33 PM 31-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,6 +60,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Emirates Red vs Sharjah (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
+            "team_1": "Emirates Red",
+            "team_2": "Sharjah",
+            "status": "LIVE",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Emirates Red vs Sharjah",
+            "match_id": 139605,
+            "startTime": "09:00:00 PM 31-01-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/eSyU100JQiWKqq8M7Logtg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139605_english_hls_98b99e6ed197170_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Portsmouth F.C. vs West Bromwich Albion F.C. (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139347_5489_PRM_WBA_FC-Web.jpg",
@@ -88,20 +102,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131048_english_hls_1526422ab378838_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Sharjah vs Emirates Red (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Emirates Red",
-            "status": "LIVE",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Sharjah vs Emirates Red",
-            "match_id": 139605,
-            "startTime": "09:00:00 PM 31-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/eSyU100JQiWKqq8M7Logtg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139605_english_hls_98b99e6ed197170_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Live Events",
             "title": "Day 4 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
@@ -114,20 +114,6 @@
             "startTime": "03:30:00 PM 31-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/-dIaPNIsT4e-35HOHjKxwQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140168_english_hls_735e4dbfcd78236_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Oviedo vs Girona FC (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131043_5427_RO_GIR_FC-Web.png",
-            "team_1": "Real Oviedo",
-            "team_2": "Girona FC",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Oviedo vs Girona FC",
-            "match_id": 131043,
-            "startTime": "06:30:00 PM 31-01-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131043_english_hls_256ceeb3e71542_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131043_english_hls_256ceeb3e71542_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -250,6 +236,54 @@
             "startTime": "11:00:00 PM 31-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "West Ham United Women vs Tottenham Hotspur Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140092_5826_WHU-W_TOT-W_FC-Web.jpg",
+            "team_1": "West Ham United Women",
+            "team_2": "Tottenham Hotspur Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "West Ham United Women vs Tottenham Hotspur Women",
+            "match_id": 140092,
+            "startTime": "05:25:00 PM 01-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Manchester United Women vs Liverpool Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140095_5826_MUN-W_LIV-W_FC-Web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Liverpool Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Manchester United Women vs Liverpool Women",
+            "match_id": 140095,
+            "startTime": "05:25:00 PM 01-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Brighton and Hove Albion Women vs London City Lionesses (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140094_5826_BHA-W_LCL_FC-Web.jpg",
+            "team_1": "Brighton and Hove Albion Women",
+            "team_2": "London City Lionesses",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Brighton and Hove Albion Women vs London City Lionesses",
+            "match_id": 140094,
+            "startTime": "05:25:00 PM 01-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Everton Women vs Aston Villa Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140093_5826_EVE-W_AST-W_FC-Web.jpg",
+            "team_1": "Everton Women",
+            "team_2": "Aston Villa Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Everton Women vs Aston Villa Women",
+            "match_id": 140093,
+            "startTime": "05:25:00 PM 01-02-2026"
+        },
+        {
             "event_category": "Padel",
             "title": "KRU Padel vs Rafa Nadal Academy Team (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139873_5896_KRU_RNA_FC-Web.jpg",
@@ -346,54 +380,6 @@
             "startTime": "04:00:00 PM 31-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "West Ham United Women vs Tottenham Hotspur Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140092_5826_WHU-W_TOT-W_FC-Web.jpg",
-            "team_1": "West Ham United Women",
-            "team_2": "Tottenham Hotspur Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "West Ham United Women vs Tottenham Hotspur Women",
-            "match_id": 140092,
-            "startTime": "05:25:00 PM 01-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Manchester United Women vs Liverpool Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140095_5826_MUN-W_LIV-W_FC-Web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Liverpool Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Manchester United Women vs Liverpool Women",
-            "match_id": 140095,
-            "startTime": "05:25:00 PM 01-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Brighton and Hove Albion Women vs London City Lionesses (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140094_5826_BHA-W_LCL_FC-Web.jpg",
-            "team_1": "Brighton and Hove Albion Women",
-            "team_2": "London City Lionesses",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Brighton and Hove Albion Women vs London City Lionesses",
-            "match_id": 140094,
-            "startTime": "05:25:00 PM 01-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Everton Women vs Aston Villa Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140093_5826_EVE-W_AST-W_FC-Web.jpg",
-            "team_1": "Everton Women",
-            "team_2": "Aston Villa Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Everton Women vs Aston Villa Women",
-            "match_id": 140093,
-            "startTime": "05:25:00 PM 01-02-2026"
-        },
-        {
             "event_category": "Golf",
             "title": "Main Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
@@ -475,6 +461,18 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "Getafe CF vs RC Celta",
             "match_id": 131042,
+            "startTime": "11:00:00 PM 01-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Ittihad vs Al-Najmah SC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139833_5655_ITT_ALN_FC-Web.jpg",
+            "team_1": "Al-Ittihad",
+            "team_2": "Al-Najmah SC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Ittihad vs Al-Najmah SC",
+            "match_id": 139833,
             "startTime": "11:00:00 PM 01-02-2026"
         }
     ]
