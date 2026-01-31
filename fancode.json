@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:50:34 PM 31-01-2026",
+    "last update time": "05:00:40 PM 31-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "04:15:00 PM 31-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/hWsreqQtSeKKl0F4sZOwuw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139400_english_hls_3ab4ecddfc40235_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 1 vs Bangkok (Icons of Football, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Icons-Series-Golf_2026_FC-Web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Bangkok",
-            "status": "LIVE",
-            "event_name": "Icons of Football, 2026",
-            "match_name": "Day 1",
-            "match_id": 140136,
-            "startTime": "06:30:00 AM 31-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/-s1g3dtFRZSBrw_IBWsVtQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140136_english_hls_03471c5e7053101_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -142,6 +128,18 @@
             "startTime": "07:30:00 PM 31-01-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Stoke City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139346_5489_STK_SOU_FC-Web.jpg",
+            "team_1": "Stoke City F.C.",
+            "team_2": "Southampton F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Stoke City F.C. vs Southampton F.C.",
+            "match_id": 139346,
+            "startTime": "06:00:00 PM 31-01-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Abu Dhabi vs Ajman (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
@@ -203,18 +201,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Fujairah vs Abu Dhabi (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-            "team_1": "Fujairah",
-            "team_2": "Abu Dhabi",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Fujairah vs Abu Dhabi",
-            "match_id": 139606,
-            "startTime": "11:15:00 PM 31-01-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
             "team_1": "Pune Panthers",
@@ -226,16 +212,16 @@
             "startTime": "02:30:00 PM 01-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Stoke City F.C. vs Southampton F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139346_5489_STK_SOU_FC-Web.jpg",
-            "team_1": "Stoke City F.C.",
-            "team_2": "Southampton F.C.",
+            "event_category": "Cricket",
+            "title": "Fujairah vs Abu Dhabi (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+            "team_1": "Fujairah",
+            "team_2": "Abu Dhabi",
             "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Stoke City F.C. vs Southampton F.C.",
-            "match_id": 139346,
-            "startTime": "06:00:00 PM 31-01-2026"
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Fujairah vs Abu Dhabi",
+            "match_id": 139606,
+            "startTime": "11:15:00 PM 31-01-2026"
         },
         {
             "event_category": "Football",
@@ -476,6 +462,18 @@
             "match_name": "Sri Lanka vs England",
             "match_id": 139293,
             "startTime": "07:00:00 PM 01-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Delhi Warriors vs Gurugram Thunders (World Legends Pro T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140085_5928_DW_GT_FC-Web_1769806995490.jpg",
+            "team_1": "Delhi Warriors",
+            "team_2": "Gurugram Thunders",
+            "status": "UPCOMING",
+            "event_name": "World Legends Pro T20 League, 2026",
+            "match_name": "Delhi Warriors vs Gurugram Thunders",
+            "match_id": 140085,
+            "startTime": "07:30:00 PM 01-02-2026"
         }
     ]
 }
