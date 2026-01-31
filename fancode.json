@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:20:14 PM 31-01-2026",
+    "last update time": "04:30:23 PM 31-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,17 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Emirates Blues vs Dubai (Emirates D10, 2026)",
+            "title": "Dubai vs Emirates Blues (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769265237104.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Dubai",
+            "team_1": "Dubai",
+            "team_2": "Emirates Blues",
             "status": "LIVE",
             "event_name": "Emirates D10, 2026",
-            "match_name": "Emirates Blues vs Dubai",
+            "match_name": "Dubai vs Emirates Blues",
             "match_id": 139603,
             "startTime": "04:30:00 PM 31-01-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/7WlKjnqZRYqFZLjC-yhAgA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139603_english_hls_ae2059eee438894_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -288,18 +288,6 @@
             "startTime": "11:00:00 PM 31-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Elche CF vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png",
-            "team_1": "Elche CF",
-            "team_2": "FC Barcelona",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Elche CF vs FC Barcelona",
-            "match_id": 131041,
-            "startTime": "01:30:00 AM 01-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140084_5928_PPT_RLS_FC-Web_1769806239385.jpg",
@@ -310,6 +298,18 @@
             "match_name": "Pune Panthers vs Rajasthan Lions",
             "match_id": 140084,
             "startTime": "02:30:00 PM 01-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Elche CF vs FC Barcelona (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131041_5427_ELC_BAR_FC-Web.png",
+            "team_1": "Elche CF",
+            "team_2": "FC Barcelona",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Elche CF vs FC Barcelona",
+            "match_id": 131041,
+            "startTime": "01:30:00 AM 01-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -456,28 +456,28 @@
             "startTime": "04:00:00 PM 31-01-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs England (England tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
-            "team_1": "Sri Lanka",
-            "team_2": "England",
+            "event_category": "Futsal",
+            "title": "Kyrgyz Republic vs Korea Republic (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Kyrgyz Republic",
+            "team_2": "Korea Republic",
             "status": "UPCOMING",
-            "event_name": "England tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka vs England",
-            "match_id": 139293,
-            "startTime": "07:00:00 PM 01-02-2026"
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Kyrgyz Republic vs Korea Republic",
+            "match_id": 139900,
+            "startTime": "05:30:00 PM 31-01-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Central Coast Mariners vs Melbourne Victory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139401_5802_CCM_MLV_FC-Web.jpg",
-            "team_1": "Central Coast Mariners",
-            "team_2": "Melbourne Victory",
+            "event_category": "Futsal",
+            "title": "Indonesia vs Iraq (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "Indonesia",
+            "team_2": "Iraq",
             "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Central Coast Mariners vs Melbourne Victory",
-            "match_id": 139401,
-            "startTime": "11:30:00 AM 01-02-2026"
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "Indonesia vs Iraq",
+            "match_id": 139899,
+            "startTime": "05:30:00 PM 31-01-2026"
         }
     ]
 }
