@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:58:39 AM 01-02-2026",
+    "last update time": "02:08:44 AM 01-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "07:00:00 PM 31-01-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/xmWxWzJ-Q3amMwRbXLCEHg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139770_english_hls_0ea4ec86db77405_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Windward Islands Women vs Guyana Women (CG United Women's Super 50 Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg",
-            "team_1": "Windward Islands Women",
-            "team_2": "Guyana Women",
-            "status": "LIVE",
-            "event_name": "CG United Women's Super 50 Cup 2026",
-            "match_name": "Windward Islands Women vs Guyana Women",
-            "match_id": 139769,
-            "startTime": "07:00:00 PM 31-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/pNz_MV6-QmSYy8eOS3Bh0A/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139769_english_hls_fc8cb32e1e37514_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -478,6 +464,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 139880,
             "startTime": "07:30:00 AM 01-02-2026"
+        },
+        {
+            "event_category": "Padel",
+            "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_padel-tennis-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026 DNU",
+            "match_name": "TBC vs TBC",
+            "match_id": 139875,
+            "startTime": "10:00:00 AM 01-02-2026"
         }
     ]
 }
