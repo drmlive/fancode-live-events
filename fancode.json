@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:00:44 AM 01-02-2026",
+    "last update time": "05:10:50 AM 01-02-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs Torrey Pines Golf Course (Farmers Insurance Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/farmers-insurance-open-2026-old-match-card-_1769182129290.png",
-            "team_1": "World Feed - Day 3",
-            "team_2": "Torrey Pines Golf Course",
-            "status": "LIVE",
-            "event_name": "Farmers Insurance Open 2026",
-            "match_name": "World Feed - Day 3",
-            "match_id": 140030,
-            "startTime": "11:30:00 PM 31-01-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/1bHLkLgsRe2umvZIIvjSLw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140030_english_hls_2df3d9260570747_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Pune Panthers vs Rajasthan Lions (World Legends Pro T20 League, 2026)",
@@ -210,6 +196,18 @@
             "startTime": "11:30:00 AM 01-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Athletic Club vs Real Sociedad (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131045_5427_ATH_RS_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Real Sociedad",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club vs Real Sociedad",
+            "match_id": 131045,
+            "startTime": "01:30:00 AM 02-02-2026"
+        },
+        {
             "event_category": "Padel",
             "title": "KRU Padel vs Rafa Nadal Academy Team (Hexagon Cup 2026 DNU)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139873_5896_KRU_RNA_FC-Web.jpg",
@@ -304,18 +302,6 @@
             "match_name": "Rafa Nadal Academy Team vs Team Bella",
             "match_id": 139872,
             "startTime": "04:00:00 PM 31-01-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Athletic Club vs Real Sociedad (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131045_5427_ATH_RS_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "Real Sociedad",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club vs Real Sociedad",
-            "match_id": 131045,
-            "startTime": "01:30:00 AM 02-02-2026"
         },
         {
             "event_category": "Football",
@@ -460,6 +446,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 139877,
             "startTime": "02:00:00 PM 01-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 5 - Centre Court vs Madrid, Spain (Hexagon Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1769529100515.png",
+            "team_1": "Day 5 - Centre Court",
+            "team_2": "Madrid, Spain",
+            "status": "UPCOMING",
+            "event_name": "Hexagon Cup 2026",
+            "match_name": "Day 5 - Centre Court",
+            "match_id": 140169,
+            "startTime": "02:30:00 PM 01-02-2026"
         }
     ]
 }
