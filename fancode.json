@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:51:20 AM 02-02-2026",
+    "last update time": "10:01:29 AM 02-02-2026",
     "matches": [
         {
             "event_category": "Live Events",
@@ -42,8 +42,8 @@
             "match_name": "Day 3 - Table 3",
             "match_id": 140335,
             "startTime": "10:00:00 AM 02-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Sdq9X1lvTeGU71p8tAAk4w/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140335_english_hls_312fac0a6763899_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -190,18 +190,6 @@
             "match_name": "South Australian Scorpions vs Victoria Women",
             "match_id": 133975,
             "startTime": "05:00:00 AM 03-02-2026"
-        },
-        {
-            "event_category": "Padel",
-            "title": "TBC vs TBC (Hexagon Cup 2026 DNU)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_padel-tennis-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Hexagon Cup 2026 DNU",
-            "match_name": "TBC vs TBC",
-            "match_id": 139875,
-            "startTime": "10:00:00 AM 01-02-2026"
         },
         {
             "event_category": "Padel",
@@ -430,6 +418,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 139907,
             "startTime": "03:30:00 PM 03-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+            "team_1": "Ajman",
+            "team_2": "Emirates Red",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Ajman vs Emirates Red",
+            "match_id": 139613,
+            "startTime": "09:00:00 PM 03-02-2026"
         }
     ]
 }
