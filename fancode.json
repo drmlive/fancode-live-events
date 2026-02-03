@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:07:19 AM 04-02-2026",
+    "last update time": "01:17:28 AM 04-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,6 +33,20 @@
         },
         {
             "event_category": "Football",
+            "title": "Arsenal vs Chelsea (Carabao Cup 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Arsenal-vs-Chelsea_1768301278910.png",
+            "team_1": "Arsenal",
+            "team_2": "Chelsea",
+            "status": "LIVE",
+            "event_name": "Carabao Cup 2025-2026",
+            "match_name": "Arsenal vs Chelsea",
+            "match_id": 139213,
+            "startTime": "01:30:00 AM 04-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/5uj5VjrGTii4G0XpRI8kWA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139213_english_hls_ccc058253d46683_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Albacete vs FC Barcelona (Copa del Rey, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140049_5806_ALB_BAR_FC-Web.jpg",
             "team_1": "Albacete",
@@ -42,8 +56,8 @@
             "match_name": "Albacete vs FC Barcelona",
             "match_id": 140049,
             "startTime": "01:30:00 AM 04-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/JgZ3INU2TpKADRAuJZ9kvg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140049_english_hls_7709513a3d81475_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -58,18 +72,6 @@
             "startTime": "07:00:00 PM 03-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/ofm4W7XkSKSu7s230ki1Pg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140181_english_hls_381b3d1afd2572_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Arsenal vs Chelsea (Carabao Cup 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Arsenal-vs-Chelsea_1768301278910.png",
-            "team_1": "Arsenal",
-            "team_2": "Chelsea",
-            "status": "UPCOMING",
-            "event_name": "Carabao Cup 2025-2026",
-            "match_name": "Arsenal vs Chelsea",
-            "match_id": 139213,
-            "startTime": "01:30:00 AM 04-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -144,18 +146,6 @@
             "startTime": "07:30:00 AM 04-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "San Diego vs Pumas UNAM (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/03_San-Diego-vs-Pumas-UNAM_1770142761000.png",
-            "team_1": "San Diego",
-            "team_2": "Pumas UNAM",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "San Diego vs Pumas UNAM",
-            "match_id": 140370,
-            "startTime": "09:30:00 AM 04-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Ajman vs Dubai (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
@@ -166,6 +156,18 @@
             "match_name": "Ajman vs Dubai",
             "match_id": 139617,
             "startTime": "09:00:00 PM 04-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "San Diego vs Pumas UNAM (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/03_San-Diego-vs-Pumas-UNAM_1770142761000.png",
+            "team_1": "San Diego",
+            "team_2": "Pumas UNAM",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "San Diego vs Pumas UNAM",
+            "match_id": 140370,
+            "startTime": "09:30:00 AM 04-02-2026"
         },
         {
             "event_category": "Cricket",
