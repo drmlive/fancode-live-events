@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:55:41 PM 03-02-2026",
+    "last update time": "11:05:49 PM 03-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,6 +18,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140089_english_hls_3c1abd5aef39468_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Blues",
+            "status": "LIVE",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Abu Dhabi vs Emirates Blues",
+            "match_id": 139614,
+            "startTime": "11:15:00 PM 03-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/-F4E4Q3-Rn6AWdKRA4D-qA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139614_english_hls_ca89ff10fd58686_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Tennis",
             "title": "Day 2 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
@@ -30,32 +44,6 @@
             "startTime": "07:00:00 PM 03-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/ofm4W7XkSKSu7s230ki1Pg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140181_english_hls_381b3d1afd2572_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England vs Sri Lanka (England tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4).png",
-            "team_1": "England",
-            "team_2": "Sri Lanka",
-            "status": "LIVE",
-            "event_name": "England tour of Sri Lanka, 2026",
-            "match_name": "England vs Sri Lanka",
-            "match_id": 139294,
-            "startTime": "07:00:00 PM 03-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1770168140~acl=/*~id=32436519550431575277802194231839~hmac=197b7d858777afce52b1f639551deb41d4bb583426922fbf35c411d7964a1b23"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Abu Dhabi vs Emirates Blues (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Blues",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Abu Dhabi vs Emirates Blues",
-            "match_id": 139614,
-            "startTime": "11:15:00 PM 03-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -142,18 +130,6 @@
             "startTime": "05:30:00 AM 04-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Olimpia vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Olimpia",
-            "team_2": "Club Am\u00e9rica",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Olimpia vs Club Am\u00e9rica",
-            "match_id": 140369,
-            "startTime": "07:30:00 AM 04-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
@@ -164,6 +140,18 @@
             "match_name": "Emirates Blues vs Emirates Red",
             "match_id": 139616,
             "startTime": "06:45:00 PM 04-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Olimpia vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Olimpia",
+            "team_2": "Club Am\u00e9rica",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Olimpia vs Club Am\u00e9rica",
+            "match_id": 140369,
+            "startTime": "07:30:00 AM 04-02-2026"
         },
         {
             "event_category": "Football",
@@ -440,6 +428,18 @@
             "match_name": "Day 6",
             "match_id": 140314,
             "startTime": "12:00:00 PM 05-02-2026"
+        },
+        {
+            "event_category": "Futsal",
+            "title": "TBC vs TBC (AFC Futsal Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "AFC Futsal Asian Cup, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 139909,
+            "startTime": "01:30:00 PM 05-02-2026"
         }
     ]
 }
