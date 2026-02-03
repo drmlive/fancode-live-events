@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:17:25 AM 03-02-2026",
+    "last update time": "11:27:29 AM 03-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2025-26)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-            "team_1": "New South Wales Breakers",
-            "team_2": "Queensland Fire",
-            "status": "LIVE",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "New South Wales Breakers vs Queensland Fire",
-            "match_id": 133974,
-            "startTime": "04:30:00 AM 03-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/qjcSND88TX69eZra06o5dg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133974_english_hls_12c298881216202_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Victoria Women vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
@@ -139,6 +125,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Victoria vs Queensland (One Day Cup, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133944_5606_VCT_QUN_fc-web.jpg",
+            "team_1": "Victoria",
+            "team_2": "Queensland",
+            "status": "UPCOMING",
+            "event_name": "One Day Cup, 2025-26",
+            "match_name": "Victoria vs Queensland",
+            "match_id": 133944,
+            "startTime": "04:30:00 AM 03-02-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Fujairah vs Ajman (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
             "team_1": "Fujairah",
@@ -246,6 +244,30 @@
             "startTime": "05:30:00 AM 04-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Olimpia vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Olimpia",
+            "team_2": "Club Am\u00e9rica",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Olimpia vs Club Am\u00e9rica",
+            "match_id": 140369,
+            "startTime": "07:30:00 AM 04-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "San Diego vs Pumas UNAM (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "San Diego",
+            "team_2": "Pumas UNAM",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "San Diego vs Pumas UNAM",
+            "match_id": 140370,
+            "startTime": "09:30:00 AM 04-02-2026"
+        },
+        {
             "event_category": "Futsal",
             "title": "Thailand vs Iraq (AFC Futsal Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1769333142206.png",
@@ -292,30 +314,6 @@
             "match_name": "Day 2",
             "match_id": 140181,
             "startTime": "07:00:00 PM 03-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Olimpia vs Club Am\u00e9rica (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Olimpia",
-            "team_2": "Club Am\u00e9rica",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Olimpia vs Club Am\u00e9rica",
-            "match_id": 140369,
-            "startTime": "07:30:00 AM 04-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "San Diego vs Pumas UNAM (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "San Diego",
-            "team_2": "Pumas UNAM",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "San Diego vs Pumas UNAM",
-            "match_id": 140370,
-            "startTime": "09:30:00 AM 04-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -436,18 +434,6 @@
             "match_name": "Ajman vs Dubai",
             "match_id": 139617,
             "startTime": "09:00:00 PM 04-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 3 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-            "team_1": "Day 3",
-            "team_2": "Montpellier, France",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Open Occitanie 2026",
-            "match_name": "Day 3",
-            "match_id": 140182,
-            "startTime": "06:00:00 PM 04-02-2026"
         }
     ]
 }
