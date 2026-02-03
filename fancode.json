@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:02:38 PM 03-02-2026",
+    "last update time": "07:12:47 PM 03-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Rajasthan Lions vs Pune Panthers (World Legends Pro T20 League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg",
-            "team_1": "Rajasthan Lions",
-            "team_2": "Pune Panthers",
-            "status": "LIVE",
-            "event_name": "World Legends Pro T20 League, 2026",
-            "match_name": "Rajasthan Lions vs Pune Panthers",
-            "match_id": 140088,
-            "startTime": "02:30:00 PM 03-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/o1HJJzdRSDGYoaKGS4i2lQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140088_english_hls_36901c014c76059_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "England vs Sri Lanka (England tour of Sri Lanka, 2026)",
@@ -42,8 +28,8 @@
             "match_name": "Dubai Royals vs Delhi Warriors",
             "match_id": 140089,
             "startTime": "07:30:00 PM 03-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Qpth3GCjTkuaiZhCR2TUpg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140089_english_hls_3c1abd5aef39468_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -86,6 +72,20 @@
             "startTime": "07:00:00 PM 03-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/ofm4W7XkSKSu7s230ki1Pg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140181_english_hls_381b3d1afd2572_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rajasthan Lions vs Pune Panthers (World Legends Pro T20 League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140081_5928_PPT_RLS_FC-Web_1769654908421.jpg",
+            "team_1": "Rajasthan Lions",
+            "team_2": "Pune Panthers",
+            "status": "LIVE",
+            "event_name": "World Legends Pro T20 League, 2026",
+            "match_name": "Rajasthan Lions vs Pune Panthers",
+            "match_id": 140088,
+            "startTime": "02:30:00 PM 03-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/o1HJJzdRSDGYoaKGS4i2lQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140088_english_hls_36901c014c76059_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -292,18 +292,6 @@
             "startTime": "09:00:00 AM 04-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-Sporty-.png",
-            "team_1": "Day 1",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Asian Rifle & Pistol Championship 2026",
-            "match_name": "Day 1",
-            "match_id": 140319,
-            "startTime": "11:50:00 AM 04-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Fujairah vs Emirates Red (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
@@ -314,6 +302,18 @@
             "match_name": "Fujairah vs Emirates Red",
             "match_id": 139618,
             "startTime": "11:15:00 PM 04-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 1 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-Sporty-.png",
+            "team_1": "Day 1",
+            "team_2": "Delhi",
+            "status": "UPCOMING",
+            "event_name": "Asian Rifle & Pistol Championship 2026",
+            "match_name": "Day 1",
+            "match_id": 140319,
+            "startTime": "11:50:00 AM 04-02-2026"
         },
         {
             "event_category": "Live Events",
