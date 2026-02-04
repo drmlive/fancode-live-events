@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:52:36 AM 05-02-2026",
+    "last update time": "01:02:52 AM 05-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,48 @@
             "startTime": "11:15:00 PM 04-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/CphzJZ-jSQyWWSB2ALKcmQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139618_english_hls_ea717a43928706_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Holstein Kiel vs VfB Stuttgart (DFB Pokal 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Holstein-Kiel-vs-VfB-Stuttgart_1769793016221.png",
+            "team_1": "Holstein Kiel",
+            "team_2": "VfB Stuttgart",
+            "status": "LIVE",
+            "event_name": "DFB Pokal 2025-26",
+            "match_name": "Holstein Kiel vs VfB Stuttgart",
+            "match_id": 138999,
+            "startTime": "01:15:00 AM 05-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/J7x0QX_EQWiH0i_TmmJWDA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/138999_english_hls_2be261c74f1911_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Valencia CF vs Athletic Club (Copa del Rey, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140051_5806_VAL_ATH_FC-Web.jpg",
+            "team_1": "Valencia CF",
+            "team_2": "Athletic Club",
+            "status": "LIVE",
+            "event_name": "Copa del Rey, 2025-26",
+            "match_name": "Valencia CF vs Athletic Club",
+            "match_id": 140051,
+            "startTime": "01:30:00 AM 05-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/m2UumQrZRgC2CcaUmYnf-Q/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140051_english_hls_c43dc2c92166856_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo Alaves vs Real Sociedad (Copa del Rey, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140048_5806_ALA_RS_FC-Web.jpg",
+            "team_1": "Deportivo Alaves",
+            "team_2": "Real Sociedad",
+            "status": "LIVE",
+            "event_name": "Copa del Rey, 2025-26",
+            "match_name": "Deportivo Alaves vs Real Sociedad",
+            "match_id": 140048,
+            "startTime": "01:30:00 AM 05-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Q0uXANciS-qHXSmkRRtJbw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140048_english_hls_b0c51a19f343716_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -33,18 +75,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Holstein Kiel vs VfB Stuttgart (DFB Pokal 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/02_Holstein-Kiel-vs-VfB-Stuttgart_1769793016221.png",
-            "team_1": "Holstein Kiel",
-            "team_2": "VfB Stuttgart",
-            "status": "UPCOMING",
-            "event_name": "DFB Pokal 2025-26",
-            "match_name": "Holstein Kiel vs VfB Stuttgart",
-            "match_id": 138999,
-            "startTime": "01:15:00 AM 05-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Manchester City vs Newcastle United (Carabao Cup 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/04_Manchester-City-vs-Newcastle-United_1768301596061.png",
             "team_1": "Manchester City",
@@ -53,30 +83,6 @@
             "event_name": "Carabao Cup 2025-2026",
             "match_name": "Manchester City vs Newcastle United",
             "match_id": 139214,
-            "startTime": "01:30:00 AM 05-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Valencia CF vs Athletic Club (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140051_5806_VAL_ATH_FC-Web.jpg",
-            "team_1": "Valencia CF",
-            "team_2": "Athletic Club",
-            "status": "UPCOMING",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Valencia CF vs Athletic Club",
-            "match_id": 140051,
-            "startTime": "01:30:00 AM 05-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Deportivo Alaves vs Real Sociedad (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140048_5806_ALA_RS_FC-Web.jpg",
-            "team_1": "Deportivo Alaves",
-            "team_2": "Real Sociedad",
-            "status": "UPCOMING",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Deportivo Alaves vs Real Sociedad",
-            "match_id": 140048,
             "startTime": "01:30:00 AM 05-02-2026"
         },
         {
@@ -224,18 +230,6 @@
             "startTime": "01:30:00 AM 06-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Asian Rifle & Pistol Championship 2026",
-            "match_name": "Day 2",
-            "match_id": 140320,
-            "startTime": "10:50:00 AM 05-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Accrington Stanley vs Salford City (League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -246,6 +240,18 @@
             "match_name": "Accrington Stanley vs Salford City",
             "match_id": 140018,
             "startTime": "01:30:00 AM 06-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 2 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "Delhi",
+            "status": "UPCOMING",
+            "event_name": "Asian Rifle & Pistol Championship 2026",
+            "match_name": "Day 2",
+            "match_id": 140320,
+            "startTime": "10:50:00 AM 05-02-2026"
         },
         {
             "event_category": "Live Events",
