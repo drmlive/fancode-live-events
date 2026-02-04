@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:38:21 PM 04-02-2026",
+    "last update time": "06:48:29 PM 04-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Dubai vs Sharjah (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-            "team_1": "Dubai",
-            "team_2": "Sharjah",
-            "status": "LIVE",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Dubai vs Sharjah",
-            "match_id": 139615,
-            "startTime": "04:30:00 PM 04-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Pm1xqmSOSTOEI8AWw-wvug/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139615_english_hls_c235c6b89874999_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
             "team_1": "Emirates Blues",
@@ -44,6 +30,20 @@
             "startTime": "06:45:00 PM 04-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/byj0o4daRf2Pbb4tD5b4sw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139616_english_hls_2c32e8a85e85526_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 3 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+            "team_1": "Day 3",
+            "team_2": "Montpellier, France",
+            "status": "LIVE",
+            "event_name": "ATP 250 - Open Occitanie 2026",
+            "match_name": "Day 3",
+            "match_id": 140182,
+            "startTime": "07:00:00 PM 04-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/MnrkM0rYQ0OCkuu8ZJFk1A/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140182_english_hls_821a6fd6d296542_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -200,18 +200,6 @@
             "match_name": "Vancouver FC vs Cruz Azul",
             "match_id": 140372,
             "startTime": "08:30:00 AM 05-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 3 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-            "team_1": "Day 3",
-            "team_2": "Montpellier, France",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Open Occitanie 2026",
-            "match_name": "Day 3",
-            "match_id": 140182,
-            "startTime": "07:00:00 PM 04-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -428,6 +416,18 @@
             "match_name": "Wellington Phoenix vs Melbourne Victory",
             "match_id": 139402,
             "startTime": "11:30:00 AM 06-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 3 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "Delhi",
+            "status": "UPCOMING",
+            "event_name": "Asian Rifle & Pistol Championship 2026",
+            "match_name": "Day 3",
+            "match_id": 140321,
+            "startTime": "10:50:00 AM 06-02-2026"
         }
     ]
 }
