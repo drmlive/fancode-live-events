@@ -1,35 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:07:53 PM 04-02-2026",
+    "last update time": "06:18:00 PM 04-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "title": "Sharjah vs Dubai (Emirates D10, 2026)",
+            "title": "Dubai vs Sharjah (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-            "team_1": "Sharjah",
-            "team_2": "Dubai",
+            "team_1": "Dubai",
+            "team_2": "Sharjah",
             "status": "LIVE",
             "event_name": "Emirates D10, 2026",
-            "match_name": "Sharjah vs Dubai",
+            "match_name": "Dubai vs Sharjah",
             "match_id": 139615,
             "startTime": "04:30:00 PM 04-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/Pm1xqmSOSTOEI8AWw-wvug/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139615_english_hls_c235c6b89874999_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card_1770185442984.png",
-            "team_1": "Day 1",
-            "team_2": "Delhi",
-            "status": "LIVE",
-            "event_name": "Asian Rifle & Pistol Championship 2026",
-            "match_name": "Day 1",
-            "match_id": 140319,
-            "startTime": "11:50:00 AM 04-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/jgX7hEzrTyeO2CkE7Ay8zw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140319_english_hls_29bbe4b83322381_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -426,6 +412,18 @@
             "match_name": "Tasmania Women vs ACT Meteors",
             "match_id": 133979,
             "startTime": "08:30:00 AM 06-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Melbourne Victory (A League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139402_CASACARDS_APP.png",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Melbourne Victory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix vs Melbourne Victory",
+            "match_id": 139402,
+            "startTime": "11:30:00 AM 06-02-2026"
         }
     ]
 }
