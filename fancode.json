@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:40:28 PM 05-02-2026",
+    "last update time": "12:50:33 PM 05-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Queensland vs Victoria",
-            "match_id": 134033,
-            "startTime": "05:00:00 AM 05-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Rym8JbG5R_m6psYq654RDg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134033_english_hls_2b9895c52741502_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
@@ -30,20 +16,6 @@
             "startTime": "08:00:00 AM 05-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/d8ilOYzmTFmdIXvnti_WEQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134034_english_hls_c4cbfdf20720719_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134032_5609_NSW_SAU_fc-Web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "South Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs South Australia",
-            "match_id": 134032,
-            "startTime": "05:00:00 AM 05-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/xJuLyRZmT4mLPddm7Vmz_Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134032_english_hls_046dbb137026643_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -132,6 +104,30 @@
             "match_name": "Real Betis vs Atletico de Madrid",
             "match_id": 140050,
             "startTime": "01:30:00 AM 06-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Queensland vs Victoria",
+            "match_id": 134033,
+            "startTime": "05:00:00 AM 05-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134032_5609_NSW_SAU_fc-Web.jpg",
+            "team_1": "New South Wales",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "New South Wales vs South Australia",
+            "match_id": 134032,
+            "startTime": "05:00:00 AM 05-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -278,18 +274,6 @@
             "startTime": "02:05:00 PM 06-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 3 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-            "team_1": "Day 3",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Asian Rifle & Pistol Championship 2026",
-            "match_name": "Day 3",
-            "match_id": 140321,
-            "startTime": "10:50:00 AM 06-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Fujairah vs Emirates Blues (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
@@ -300,6 +284,18 @@
             "match_name": "Fujairah vs Emirates Blues",
             "match_id": 139622,
             "startTime": "06:45:00 PM 06-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 3 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+            "team_1": "Day 3",
+            "team_2": "Delhi",
+            "status": "UPCOMING",
+            "event_name": "Asian Rifle & Pistol Championship 2026",
+            "match_name": "Day 3",
+            "match_id": 140321,
+            "startTime": "10:50:00 AM 06-02-2026"
         },
         {
             "event_category": "Cricket",
