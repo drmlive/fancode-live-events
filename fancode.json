@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:48:13 PM 05-02-2026",
+    "last update time": "10:58:21 PM 05-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -79,11 +79,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
             "team_1": "Abu Dhabi",
             "team_2": "Emirates Red",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Emirates D10, 2026",
             "match_name": "Abu Dhabi vs Emirates Red",
             "match_id": 139621,
-            "startTime": "11:15:00 PM 05-02-2026"
+            "startTime": "11:15:00 PM 05-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/oCiIZzqlT0aNzBVxRo96vQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139621_english_hls_76f724fb4637021_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -230,18 +232,6 @@
             "startTime": "11:00:00 PM 06-02-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "World Feed - Day 1 vs TPC Scottsdale (WM Phoenix Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web.jpg",
-            "team_1": "World Feed - Day 1",
-            "team_2": "TPC Scottsdale",
-            "status": "UPCOMING",
-            "event_name": "WM Phoenix Open 2026",
-            "match_name": "World Feed - Day 1",
-            "match_id": 140040,
-            "startTime": "02:00:00 AM 06-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "RC Celta vs CA Osasuna (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131050_5427_CEV_OSN_FC-Web.png",
@@ -264,6 +254,18 @@
             "match_name": "Charlton Athletic F.C vs Queens Park Rangers F.C.",
             "match_id": 139348,
             "startTime": "01:30:00 AM 07-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "World Feed - Day 1 vs TPC Scottsdale (WM Phoenix Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web.jpg",
+            "team_1": "World Feed - Day 1",
+            "team_2": "TPC Scottsdale",
+            "status": "UPCOMING",
+            "event_name": "WM Phoenix Open 2026",
+            "match_name": "World Feed - Day 1",
+            "match_id": 140040,
+            "startTime": "02:00:00 AM 06-02-2026"
         },
         {
             "event_category": "Live Events",
