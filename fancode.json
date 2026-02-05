@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:31:19 AM 06-02-2026",
+    "last update time": "03:41:28 AM 06-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Accrington Stanley vs Salford City (League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-            "team_1": "Accrington Stanley",
-            "team_2": "Salford City",
-            "status": "LIVE",
-            "event_name": "League Two 2025-26",
-            "match_name": "Accrington Stanley vs Salford City",
-            "match_id": 140018,
-            "startTime": "01:31:00 AM 06-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/vwBpcxq7SPCbRwvt1O54Sw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140018_english_hls_4f85022c5680141_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Main Feed - Day 1 vs TPC Scottsdale (WM Phoenix Open 2026)",
@@ -72,20 +58,6 @@
             "startTime": "02:00:00 AM 06-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/v1ABa0jrRrqJCOPZz2c_5g/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140040_english_hls_05f238ac2130258_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Betis vs Atletico de Madrid (Copa del Rey, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140050_5806_RB_ATL_FC-Web_1770212051605.jpg",
-            "team_1": "Real Betis",
-            "team_2": "Atletico de Madrid",
-            "status": "LIVE",
-            "event_name": "Copa del Rey, 2025-26",
-            "match_name": "Real Betis vs Atletico de Madrid",
-            "match_id": 140050,
-            "startTime": "01:30:00 AM 06-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/IdDJ-LkEQGavl0bUSPh47w/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140050_english_hls_c1422665e261745_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -160,18 +132,6 @@
             "startTime": "09:00:00 PM 06-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Wellington Phoenix vs Melbourne Victory (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139402_CASACARDS_APP.png",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Melbourne Victory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix vs Melbourne Victory",
-            "match_id": 139402,
-            "startTime": "11:30:00 AM 06-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Emirates Blues vs Dubai (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
@@ -182,6 +142,18 @@
             "match_name": "Emirates Blues vs Dubai",
             "match_id": 139624,
             "startTime": "11:15:00 PM 06-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Wellington Phoenix vs Melbourne Victory (A League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139402_CASACARDS_APP.png",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Melbourne Victory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Wellington Phoenix vs Melbourne Victory",
+            "match_id": 139402,
+            "startTime": "11:30:00 AM 06-02-2026"
         },
         {
             "event_category": "Football",
@@ -470,6 +442,30 @@
             "match_name": "Indonesia vs IR Iran",
             "match_id": 139911,
             "startTime": "05:30:00 PM 07-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 139627,
+            "startTime": "10:30:00 PM 07-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 6 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+            "team_1": "Day 6",
+            "team_2": "Montpellier, France",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Open Occitanie 2026",
+            "match_name": "Day 6",
+            "match_id": 140185,
+            "startTime": "06:30:00 PM 07-02-2026"
         }
     ]
 }
