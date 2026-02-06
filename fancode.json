@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:18:51 AM 07-02-2026",
+    "last update time": "04:59:28 AM 07-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Queensland vs Victoria",
+            "match_id": 134033,
+            "startTime": "05:00:00 AM 05-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Zs_aN55ISS-vSZ4WxMqZ5g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134033_english_hls_2b9895c52767145_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134032_5609_NSW_SAU_fc-Web.jpg",
+            "team_1": "New South Wales",
+            "team_2": "South Australia",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "New South Wales vs South Australia",
+            "match_id": 134032,
+            "startTime": "05:00:00 AM 05-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/pUz8En-GQoqNctHJDEkBTw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134032_english_hls_046dbb137038260_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Golf",
             "title": "Main Feed - Day 2 vs TPC Scottsdale (WM Phoenix Open 2026)",
@@ -28,8 +56,8 @@
             "match_name": "Featured Holes - Day 2",
             "match_id": 140397,
             "startTime": "08:30:00 PM 06-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/4JHQwodWRB6UjQqq4s11jg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140397_english_hls_f6f8c88cba33967_1ta-di_h264/index.m3u8"
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Golf",
@@ -60,20 +88,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140041_english_hls_231affc53d40363_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "RC Celta vs CA Osasuna (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131050_5427_CEV_OSN_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "CA Osasuna",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RC Celta vs CA Osasuna",
-            "match_id": 131050,
-            "startTime": "01:30:00 AM 07-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131050_english_hls_fcd7d8a48695573_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131050_english_hls_fcd7d8a48695573_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Dubai vs Abu Dhabi (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
@@ -86,18 +100,6 @@
             "startTime": "04:30:00 PM 07-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Leicester City Women vs Manchester United Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140097_5826_LEI-W_MUN-W_FC-Web.jpg",
-            "team_1": "Leicester City Women",
-            "team_2": "Manchester United Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Leicester City Women vs Manchester United Women",
-            "match_id": 140097,
-            "startTime": "05:30:00 PM 07-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Emirates Blues vs Sharjah (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
@@ -108,6 +110,18 @@
             "match_name": "Emirates Blues vs Sharjah",
             "match_id": 139626,
             "startTime": "06:45:00 PM 07-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Leicester City Women vs Manchester United Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140097_5826_LEI-W_MUN-W_FC-Web.jpg",
+            "team_1": "Leicester City Women",
+            "team_2": "Manchester United Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Leicester City Women vs Manchester United Women",
+            "match_id": 140097,
+            "startTime": "05:30:00 PM 07-02-2026"
         },
         {
             "event_category": "Football",
@@ -134,42 +148,6 @@
             "startTime": "06:30:00 PM 07-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Queensland vs Victoria",
-            "match_id": 134033,
-            "startTime": "05:00:00 AM 05-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134032_5609_NSW_SAU_fc-Web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs South Australia",
-            "match_id": 134032,
-            "startTime": "05:00:00 AM 05-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Western Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs Western Australia",
-            "match_id": 134034,
-            "startTime": "08:00:00 AM 05-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Coventry City Football Club vs Oxford United (EFL Championship 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/139350_CASACARDS_APP.png",
@@ -192,6 +170,18 @@
             "match_name": "FC Barcelona vs RCD Mallorca",
             "match_id": 131059,
             "startTime": "08:45:00 PM 07-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Western Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs Western Australia",
+            "match_id": 134034,
+            "startTime": "08:00:00 AM 05-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -467,6 +457,18 @@
             "event_name": "Women's Super League 2025-26",
             "match_name": "London City Lionesses vs Everton Women",
             "match_id": 140100,
+            "startTime": "05:30:00 PM 08-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Arsenal Women vs Manchester City Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140099_5826_ARS-W_MCI-W_FC-Web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Manchester City Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Arsenal Women vs Manchester City Women",
+            "match_id": 140099,
             "startTime": "05:30:00 PM 08-02-2026"
         }
     ]
