@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:20:02 PM 06-02-2026",
+    "last update time": "04:30:08 PM 06-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Macarthur vs Perth Glory (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139403_CASACARDS_APP.png",
-            "team_1": "Macarthur",
-            "team_2": "Perth Glory",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Macarthur vs Perth Glory",
-            "match_id": 139403,
-            "startTime": "02:05:00 PM 06-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/i8KkHN6IRzOSlIR25iGp9Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139403_english_hls_c698197c3542208_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
@@ -464,6 +450,18 @@
             "match_name": "C\u00e1diz vs Almer\u00eda",
             "match_id": 140429,
             "startTime": "01:30:00 AM 08-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 3 vs TPC Scottsdale (WM Phoenix Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
+            "team_1": "Main Feed - Day 3",
+            "team_2": "TPC Scottsdale",
+            "status": "UPCOMING",
+            "event_name": "WM Phoenix Open 2026",
+            "match_name": "Main Feed - Day 3",
+            "match_id": 140398,
+            "startTime": "10:00:00 PM 07-02-2026"
         }
     ]
 }
