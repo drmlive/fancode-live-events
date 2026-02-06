@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:40:14 PM 06-02-2026",
+    "last update time": "04:50:20 PM 06-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Western Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs Western Australia",
-            "match_id": 134034,
-            "startTime": "08:00:00 AM 05-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/eiYcuF_QRT2iUiXrJ26_RA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134034_english_hls_c4cbfdf20783713_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Live Events",
             "title": "Day 3 vs Asian Rifle & Pistol Championship (Asian Rifle & Pistol Championship 2026)",
@@ -126,6 +112,18 @@
             "match_name": "New South Wales vs South Australia",
             "match_id": 134032,
             "startTime": "05:00:00 AM 05-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Western Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs Western Australia",
+            "match_id": 134034,
+            "startTime": "08:00:00 AM 05-02-2026"
         },
         {
             "event_category": "Football",
