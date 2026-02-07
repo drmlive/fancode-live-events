@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:35:09 AM 08-02-2026",
+    "last update time": "04:45:17 AM 08-02-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 3 vs TPC Scottsdale (WM Phoenix Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
-            "team_1": "Main Feed - Day 3",
-            "team_2": "TPC Scottsdale",
-            "status": "LIVE",
-            "event_name": "WM Phoenix Open 2026",
-            "match_name": "Main Feed - Day 3",
-            "match_id": 140398,
-            "startTime": "10:00:00 PM 07-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/l2IzChI0S4yfOVbwFvAQ8w/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140398_english_hls_91225f39e443096_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "World Feed - Day 3 vs TPC Scottsdale (WM Phoenix Open 2026)",
@@ -30,34 +16,6 @@
             "startTime": "10:30:00 PM 07-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/SKHMPMQzRhOvFcbnYzmvbw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140042_english_hls_56595e8d4123792_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 3 vs TPC Scottsdale (WM Phoenix Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
-            "team_1": "Featured Groups - Day 3",
-            "team_2": "TPC Scottsdale",
-            "status": "LIVE",
-            "event_name": "WM Phoenix Open 2026",
-            "match_name": "Featured Groups - Day 3",
-            "match_id": 140399,
-            "startTime": "11:00:00 PM 07-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/d7TbECRGS6q-CeKyQHOnpA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140399_english_hls_e45485f74999421_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs Elche CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131051_5427_RS_ELC_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Elche CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Sociedad vs Elche CF",
-            "match_id": 131051,
-            "startTime": "01:30:00 AM 08-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131051_english_hls_8030b91e9f11951_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131051_english_hls_8030b91e9f11951_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -144,42 +102,6 @@
             "startTime": "07:55:00 PM 08-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Queensland vs Victoria",
-            "match_id": 134033,
-            "startTime": "05:00:00 AM 05-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134032_5609_NSW_SAU_fc-Web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "South Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs South Australia",
-            "match_id": 134032,
-            "startTime": "05:00:00 AM 05-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
-            "team_1": "Tasmania",
-            "team_2": "Western Australia",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Tasmania vs Western Australia",
-            "match_id": 134034,
-            "startTime": "08:00:00 AM 05-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Sevilla FC vs Girona FC (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131053_5427_SEV_GIR_FC-Web.png",
@@ -202,6 +124,46 @@
             "match_name": "Athletic Club vs Levante",
             "match_id": 131057,
             "startTime": "08:45:00 PM 08-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Queensland vs Victoria",
+            "match_id": 134033,
+            "startTime": "05:00:00 AM 05-02-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134032_5609_NSW_SAU_fc-Web.jpg",
+            "team_1": "New South Wales",
+            "team_2": "South Australia",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "New South Wales vs South Australia",
+            "match_id": 134032,
+            "startTime": "05:00:00 AM 05-02-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134034_5609_WAU_TAS_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Western Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs Western Australia",
+            "match_id": 134034,
+            "startTime": "08:00:00 AM 05-02-2026"
         },
         {
             "event_category": "Football",
@@ -442,6 +404,54 @@
             "match_name": "ATP 500 - ABN AMRO Open",
             "match_id": 140194,
             "startTime": "04:30:00 PM 09-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al Duhail vs Sharjah (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136082_5647_ADH_SHJ_fc-Web.jpg",
+            "team_1": "Al Duhail",
+            "team_2": "Sharjah",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Al Duhail vs Sharjah",
+            "match_id": 136082,
+            "startTime": "09:30:00 PM 09-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Shabab Al Ahli vs Al Hilal SFC (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136081_5647_SAA_AHS_fc-Web.jpg",
+            "team_1": "Shabab Al Ahli",
+            "team_2": "Al Hilal SFC",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Shabab Al Ahli vs Al Hilal SFC",
+            "match_id": 136081,
+            "startTime": "09:30:00 PM 09-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Villarreal CF vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131052_5427_VIL_ESL_FC-Web.png",
+            "team_1": "Villarreal CF",
+            "team_2": "RCD Espanyol",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Villarreal CF vs RCD Espanyol",
+            "match_id": 131052,
+            "startTime": "01:30:00 AM 10-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sheffield United F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139352_5489_SHF_MIDD_FC-Web.jpg",
+            "team_1": "Sheffield United F.C.",
+            "team_2": "Middlesbrough F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Sheffield United F.C. vs Middlesbrough F.C.",
+            "match_id": 139352,
+            "startTime": "01:30:00 AM 10-02-2026"
         }
     ]
 }
