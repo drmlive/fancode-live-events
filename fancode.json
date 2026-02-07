@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:24:22 PM 07-02-2026",
+    "last update time": "12:34:28 PM 07-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Queensland vs Victoria",
-            "match_id": 134033,
-            "startTime": "05:00:00 AM 05-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/Zs_aN55ISS-vSZ4WxMqZ5g/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134033_english_hls_2b9895c52767145_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Tasmania vs Western Australia (Sheffield Shield, 2025-26)",
@@ -44,6 +30,20 @@
             "startTime": "11:30:00 AM 07-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/dMpWBcsrSzGa8S5v-NsM-Q/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139405_english_hls_8fec9786a391797_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Queensland vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134033_5609_VCT_QUN_fc-Web.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Queensland vs Victoria",
+            "match_id": 134033,
+            "startTime": "05:00:00 AM 05-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/Zs_aN55ISS-vSZ4WxMqZ5g/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134033_english_hls_2b9895c52767145_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -396,18 +396,6 @@
             "startTime": "05:30:00 PM 08-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 5 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-            "team_1": "Day 5",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Asian Rifle & Pistol Championship 2026",
-            "match_name": "Day 5",
-            "match_id": 140323,
-            "startTime": "10:50:00 AM 08-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Deportivo Alaves vs Getafe CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
@@ -418,6 +406,18 @@
             "match_name": "Deportivo Alaves vs Getafe CF",
             "match_id": 131056,
             "startTime": "06:30:00 PM 08-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 5 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+            "team_1": "Day 5",
+            "team_2": "Delhi",
+            "status": "UPCOMING",
+            "event_name": "Asian Rifle & Pistol Championship 2026",
+            "match_name": "Day 5",
+            "match_id": 140323,
+            "startTime": "10:50:00 AM 08-02-2026"
         },
         {
             "event_category": "Football",
