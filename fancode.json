@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:11:06 PM 07-02-2026",
+    "last update time": "10:21:21 PM 07-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -32,6 +32,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131059_english_hls_36b861092e2085_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Cricket",
+            "title": "Dubai vs Emirates Blues (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
+            "team_1": "Dubai",
+            "team_2": "Emirates Blues",
+            "status": "LIVE",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Dubai vs Emirates Blues",
+            "match_id": 139627,
+            "startTime": "10:30:00 PM 07-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/1qJF9wMGSmqgqVQl4Gk7TA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139627_english_hls_23272e2cc330389_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Tennis",
             "title": "Day 6 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
@@ -60,16 +74,18 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140398_english_hls_91225f39e443096_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Dubai vs Emirates Blues (Emirates D10, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
-            "team_1": "Dubai",
-            "team_2": "Emirates Blues",
-            "status": "UPCOMING",
-            "event_name": "Emirates D10, 2026",
-            "match_name": "Dubai vs Emirates Blues",
-            "match_id": 139627,
-            "startTime": "10:30:00 PM 07-02-2026"
+            "event_category": "Golf",
+            "title": "World Feed - Day 3 vs TPC Scottsdale (WM Phoenix Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web.jpg",
+            "team_1": "World Feed - Day 3",
+            "team_2": "TPC Scottsdale",
+            "status": "LIVE",
+            "event_name": "WM Phoenix Open 2026",
+            "match_name": "World Feed - Day 3",
+            "match_id": 140042,
+            "startTime": "10:30:00 PM 07-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/SKHMPMQzRhOvFcbnYzmvbw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140042_english_hls_56595e8d4123792_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -226,18 +242,6 @@
             "match_name": "Adelaide United vs Newcastle Jets",
             "match_id": 139425,
             "startTime": "11:30:00 AM 08-02-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs TPC Scottsdale (WM Phoenix Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web.jpg",
-            "team_1": "World Feed - Day 3",
-            "team_2": "TPC Scottsdale",
-            "status": "UPCOMING",
-            "event_name": "WM Phoenix Open 2026",
-            "match_name": "World Feed - Day 3",
-            "match_id": 140042,
-            "startTime": "10:30:00 PM 07-02-2026"
         },
         {
             "event_category": "Golf",
