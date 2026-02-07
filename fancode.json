@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:30:23 AM 07-02-2026",
+    "last update time": "06:40:35 AM 07-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,34 +44,6 @@
             "startTime": "07:45:00 PM 06-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/hUGFfJtnQv2uzzs0cA1v7g/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140395_english_hls_ed18c3829423764_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Holes - Day 2 vs TPC Scottsdale (WM Phoenix Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web_1770182154885.jpg",
-            "team_1": "Featured Holes - Day 2",
-            "team_2": "TPC Scottsdale",
-            "status": "LIVE",
-            "event_name": "WM Phoenix Open 2026",
-            "match_name": "Featured Holes - Day 2",
-            "match_id": 140397,
-            "startTime": "08:30:00 PM 06-02-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 2 vs TPC Scottsdale (WM Phoenix Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web.jpg",
-            "team_1": "World Feed - Day 2",
-            "team_2": "TPC Scottsdale",
-            "status": "LIVE",
-            "event_name": "WM Phoenix Open 2026",
-            "match_name": "World Feed - Day 2",
-            "match_id": 140041,
-            "startTime": "02:00:00 AM 07-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/d4DZPMMJRgGtAaTNm2Dlfw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140041_english_hls_231affc53d40363_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -219,18 +191,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Brisbane Roar vs Central Coast Mariners (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139405_CASACARDS_APP.png",
-            "team_1": "Brisbane Roar",
-            "team_2": "Central Coast Mariners",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Brisbane Roar vs Central Coast Mariners",
-            "match_id": 139405,
-            "startTime": "11:30:00 AM 07-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Sociedad vs Elche CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131051_5427_RS_ELC_FC-Web.png",
             "team_1": "Real Sociedad",
@@ -240,6 +200,18 @@
             "match_name": "Real Sociedad vs Elche CF",
             "match_id": 131051,
             "startTime": "01:30:00 AM 08-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Brisbane Roar vs Central Coast Mariners (A League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/139405_CASACARDS_APP.png",
+            "team_1": "Brisbane Roar",
+            "team_2": "Central Coast Mariners",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Brisbane Roar vs Central Coast Mariners",
+            "match_id": 139405,
+            "startTime": "11:30:00 AM 07-02-2026"
         },
         {
             "event_category": "Football",
@@ -468,6 +440,30 @@
             "match_name": "Liverpool Women vs Aston Villa Women",
             "match_id": 140098,
             "startTime": "05:30:00 PM 08-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo Alaves vs Getafe CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131056_5427_ALA_GEF_FC-Web.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "Getafe CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Deportivo Alaves vs Getafe CF",
+            "match_id": 131056,
+            "startTime": "06:30:00 PM 08-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Valladolid vs Castell\u00f3n (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1770347072524/140430_CASACARDS_APP.png",
+            "team_1": "Real Valladolid",
+            "team_2": "Castell\u00f3n",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Valladolid vs Castell\u00f3n",
+            "match_id": 140430,
+            "startTime": "06:30:00 PM 08-02-2026"
         }
     ]
 }
