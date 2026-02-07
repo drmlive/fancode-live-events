@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:18:20 PM 07-02-2026",
+    "last update time": "06:28:27 PM 07-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -79,11 +79,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_opt2.jpg",
             "team_1": "Emirates Blues",
             "team_2": "Sharjah",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Emirates D10, 2026",
             "match_name": "Emirates Blues vs Sharjah",
             "match_id": 139626,
-            "startTime": "06:45:00 PM 07-02-2026"
+            "startTime": "06:45:00 PM 07-02-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -326,18 +328,6 @@
             "startTime": "08:45:00 PM 08-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 6 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-            "team_1": "Day 6",
-            "team_2": "Montpellier, France",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Open Occitanie 2026",
-            "match_name": "Day 6",
-            "match_id": 140185,
-            "startTime": "07:30:00 PM 07-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Real Valladolid vs Castell\u00f3n (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1770347072524/140430_CASACARDS_APP.png",
@@ -348,6 +338,18 @@
             "match_name": "Real Valladolid vs Castell\u00f3n",
             "match_id": 140430,
             "startTime": "06:30:00 PM 08-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 6 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+            "team_1": "Day 6",
+            "team_2": "Montpellier, France",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Open Occitanie 2026",
+            "match_name": "Day 6",
+            "match_id": 140185,
+            "startTime": "07:30:00 PM 07-02-2026"
         },
         {
             "event_category": "Golf",
@@ -456,6 +458,18 @@
             "match_name": "Valencia CF vs Real Madrid",
             "match_id": 131054,
             "startTime": "01:30:00 AM 09-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Finals vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
+            "team_1": "Finals",
+            "team_2": "Montpellier, France",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Open Occitanie 2026",
+            "match_name": "Finals",
+            "match_id": 140186,
+            "startTime": "07:30:00 PM 08-02-2026"
         }
     ]
 }
