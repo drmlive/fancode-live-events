@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:12:39 AM 08-02-2026",
+    "last update time": "12:22:43 AM 08-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "11:00:00 PM 07-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/D1yhaqLURvCFHZaeOkDTFw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140292_english_hls_e6dfa2386431004_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Day 6 vs Montpellier, France (ATP 250 - Open Occitanie 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Open-Occitanie_web.jpg",
-            "team_1": "Day 6",
-            "team_2": "Montpellier, France",
-            "status": "LIVE",
-            "event_name": "ATP 250 - Open Occitanie 2026",
-            "match_name": "Day 6",
-            "match_id": 140185,
-            "startTime": "07:30:00 PM 07-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/FFiziHr8Qfu1sd2EXRKixA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140185_english_hls_dd7f4c5e7332165_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -461,6 +447,18 @@
             "event_name": "AFC Champions League Elite 2025-26",
             "match_name": "Al Wahda vs Al-Ahli Saudi FC",
             "match_id": 136080,
+            "startTime": "07:15:00 PM 09-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Nasaf vs Al Shorta (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136079_5647_NQ_SHR_fc-Web.jpg",
+            "team_1": "Nasaf",
+            "team_2": "Al Shorta",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Nasaf vs Al Shorta",
+            "match_id": 136079,
             "startTime": "07:15:00 PM 09-02-2026"
         }
     ]
