@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:45:20 PM 07-02-2026",
+    "last update time": "01:55:29 PM 07-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -28,8 +28,8 @@
             "match_name": "Western Sydney Wanderers vs Melbourne City",
             "match_id": 139423,
             "startTime": "02:05:00 PM 07-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/T2A9yT7JQqGrssx6zh6Ssg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139423_english_hls_9b3eecce5a68793_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -70,18 +70,6 @@
             "startTime": "06:45:00 PM 07-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Leicester City Women vs Manchester United Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140097_5826_LEI-W_MUN-W_FC-Web.jpg",
-            "team_1": "Leicester City Women",
-            "team_2": "Manchester United Women",
-            "status": "UPCOMING",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Leicester City Women vs Manchester United Women",
-            "match_id": 140097,
-            "startTime": "05:30:00 PM 07-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Emirates D10, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Emirates_web_1769270071345.jpg",
@@ -92,6 +80,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 139627,
             "startTime": "10:30:00 PM 07-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Leicester City Women vs Manchester United Women (Women's Super League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140097_5826_LEI-W_MUN-W_FC-Web.jpg",
+            "team_1": "Leicester City Women",
+            "team_2": "Manchester United Women",
+            "status": "UPCOMING",
+            "event_name": "Women's Super League 2025-26",
+            "match_name": "Leicester City Women vs Manchester United Women",
+            "match_id": 140097,
+            "startTime": "05:30:00 PM 07-02-2026"
         },
         {
             "event_category": "Football",
