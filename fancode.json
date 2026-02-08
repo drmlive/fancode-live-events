@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:57:16 PM 08-02-2026",
+    "last update time": "10:07:27 PM 08-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Tottenham Hotspur Women vs Chelsea F.C. Women (Women's Super League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140102_5826_TOT-W_CHE-W_FC-Web.jpg",
-            "team_1": "Tottenham Hotspur Women",
-            "team_2": "Chelsea F.C. Women",
-            "status": "LIVE",
-            "event_name": "Women's Super League 2025-26",
-            "match_name": "Tottenham Hotspur Women vs Chelsea F.C. Women",
-            "match_id": 140102,
-            "startTime": "07:55:00 PM 08-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/xPRPu320QQK9cj0G1JGCHg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140102_english_hls_6ad3a122af68241_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Athletic Club vs Levante (LALIGA 2025-26)",
@@ -88,6 +74,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140401_english_hls_8219ba135b71627_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 4 vs TPC Scottsdale (WM Phoenix Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
+            "team_1": "Featured Groups - Day 4",
+            "team_2": "TPC Scottsdale",
+            "status": "LIVE",
+            "event_name": "WM Phoenix Open 2026",
+            "match_name": "Featured Groups - Day 4",
+            "match_id": 140402,
+            "startTime": "10:15:00 PM 08-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/HVLAUdxiRlyeNkWOqsQSQA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140402_english_hls_037dbf5b1784258_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Atletico de Madrid vs Real Betis (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131058_5427_ATL_RB_FC-Web.png",
@@ -110,18 +110,6 @@
             "match_name": "Valencia CF vs Real Madrid",
             "match_id": 131054,
             "startTime": "01:30:00 AM 09-02-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 4 vs TPC Scottsdale (WM Phoenix Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
-            "team_1": "Featured Groups - Day 4",
-            "team_2": "TPC Scottsdale",
-            "status": "UPCOMING",
-            "event_name": "WM Phoenix Open 2026",
-            "match_name": "Featured Groups - Day 4",
-            "match_id": 140402,
-            "startTime": "10:15:00 PM 08-02-2026"
         },
         {
             "event_category": "Golf",
@@ -470,6 +458,18 @@
             "match_name": "Centre Court",
             "match_id": 140542,
             "startTime": "02:30:00 PM 10-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/140052_CASACARDS_APP.png",
+            "team_1": "Esteghlal FC",
+            "team_2": "Al Hussein",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Esteghlal FC vs Al Hussein",
+            "match_id": 140052,
+            "startTime": "07:15:00 PM 10-02-2026"
         }
     ]
 }
