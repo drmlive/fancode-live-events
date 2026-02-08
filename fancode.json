@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:01:16 PM 08-02-2026",
+    "last update time": "02:11:22 PM 08-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Adelaide United vs Newcastle Jets (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1/139425_CASACARDS_APP.png",
-            "team_1": "Adelaide United",
-            "team_2": "Newcastle Jets",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Newcastle Jets",
-            "match_id": 139425,
-            "startTime": "11:30:00 AM 08-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/AXiVwLxMRw-yvkt6cs5uMQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139425_english_hls_1360e9d05224466_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Live Events",
             "title": "Day 5 vs Delhi (Asian Rifle & Pistol Championship 2026)",
@@ -452,6 +438,18 @@
             "match_name": "New South Wales vs South Australia",
             "match_id": 133943,
             "startTime": "04:30:00 AM 10-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "The Bay vs Los Angeles vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "The Bay vs Los Angeles",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "The Bay vs Los Angeles",
+            "match_id": 139170,
+            "startTime": "05:30:00 AM 10-02-2026"
         }
     ]
 }
