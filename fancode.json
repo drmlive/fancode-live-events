@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:25:12 PM 08-02-2026",
+    "last update time": "07:35:25 PM 08-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -75,20 +75,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Rangers vs Queen's Park (Scottish Cup 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Rangers",
-            "team_2": "Queen's Park",
-            "status": "LIVE",
-            "event_name": "Scottish Cup 2025-26",
-            "match_name": "Rangers vs Queen's Park",
-            "match_id": 140294,
-            "startTime": "07:30:00 PM 08-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/zXPV5M5NSqyhGnzqcxvZhw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140294_english_hls_2031b781538611_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Valladolid vs Castell\u00f3n (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1770347072524/140430_CASACARDS_APP.png",
             "team_1": "Real Valladolid",
@@ -100,6 +86,20 @@
             "startTime": "06:30:00 PM 08-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/DGNmhw5ASwars1IBzvVcLA/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140430_english_hls_287845a7cf93054_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rangers vs Queen's Park (Scottish Cup 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1770559004497/140294_CASACARDS_APP.png",
+            "team_1": "Rangers",
+            "team_2": "Queen's Park",
+            "status": "LIVE",
+            "event_name": "Scottish Cup 2025-26",
+            "match_name": "Rangers vs Queen's Park",
+            "match_id": 140294,
+            "startTime": "07:30:00 PM 08-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/zXPV5M5NSqyhGnzqcxvZhw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140294_english_hls_2031b781538611_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -149,11 +149,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140102_5826_TOT-W_CHE-W_FC-Web.jpg",
             "team_1": "Tottenham Hotspur Women",
             "team_2": "Chelsea F.C. Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Women's Super League 2025-26",
             "match_name": "Tottenham Hotspur Women vs Chelsea F.C. Women",
             "match_id": 140102,
-            "startTime": "07:55:00 PM 08-02-2026"
+            "startTime": "07:55:00 PM 08-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/xPRPu320QQK9cj0G1JGCHg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140102_english_hls_6ad3a122af68241_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -348,6 +350,18 @@
             "startTime": "04:30:00 PM 09-02-2026"
         },
         {
+            "event_category": "Tennis",
+            "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+            "src": " https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+            "team_1": "Centre Court",
+            "team_2": "Rotterdam, Netherlands",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - ABN AMRO Open 2026",
+            "match_name": "Centre Court",
+            "match_id": 140541,
+            "startTime": "04:30:00 PM 09-02-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Villarreal CF vs RCD Espanyol (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131052_5427_VIL_ESL_FC-Web.png",
@@ -396,6 +410,18 @@
             "startTime": "08:30:00 PM 09-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/133943_5606_NSW_SAU_fc-web.jpg",
+            "team_1": "New South Wales",
+            "team_2": "South Australia",
+            "status": "UPCOMING",
+            "event_name": "One Day Cup, 2025-26",
+            "match_name": "New South Wales vs South Australia",
+            "match_id": 133943,
+            "startTime": "04:30:00 AM 10-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
@@ -430,30 +456,6 @@
             "match_name": "Grandstand",
             "match_id": 140530,
             "startTime": "10:30:00 PM 09-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/133943_5606_NSW_SAU_fc-web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "South Australia",
-            "status": "UPCOMING",
-            "event_name": "One Day Cup, 2025-26",
-            "match_name": "New South Wales vs South Australia",
-            "match_id": 133943,
-            "startTime": "04:30:00 AM 10-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-            "team_1": "Centre Court",
-            "team_2": "Rotterdam, Netherlands",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - ABN AMRO Open 2026",
-            "match_name": "Centre Court",
-            "match_id": 140541,
-            "startTime": "04:30:00 PM 09-02-2026"
         },
         {
             "event_category": "Golf",
