@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:05:46 PM 08-02-2026",
+    "last update time": "08:15:53 PM 08-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -33,6 +33,34 @@
         },
         {
             "event_category": "Football",
+            "title": "Sevilla FC vs Girona FC (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131053_5427_SEV_GIR_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Girona FC",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla FC vs Girona FC",
+            "match_id": 131053,
+            "startTime": "08:45:00 PM 08-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131053_english_hls_272ab041873662_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131053_english_hls_272ab041873662_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club vs Levante (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131057_5427_ATH_LE_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Levante",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club vs Levante",
+            "match_id": 131057,
+            "startTime": "08:45:00 PM 08-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131057_english_hls_0f147c501129921_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131057_english_hls_0f147c501129921_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Real Valladolid vs Castell\u00f3n (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1770347072524/140430_CASACARDS_APP.png",
             "team_1": "Real Valladolid",
@@ -58,6 +86,18 @@
             "startTime": "07:30:00 PM 08-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/zXPV5M5NSqyhGnzqcxvZhw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140294_english_hls_2031b781538611_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "C\u00e1diz vs Almer\u00eda (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1770347072522/140429_CASACARDS_APP.png",
+            "team_1": "C\u00e1diz",
+            "team_2": "Almer\u00eda",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "C\u00e1diz vs Almer\u00eda",
+            "match_id": 140429,
+            "startTime": "08:45:00 PM 08-02-2026"
         },
         {
             "event_category": "Live Events",
@@ -89,42 +129,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Sevilla FC vs Girona FC (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131053_5427_SEV_GIR_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Girona FC",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Sevilla FC vs Girona FC",
-            "match_id": 131053,
-            "startTime": "08:45:00 PM 08-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Athletic Club vs Levante (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131057_5427_ATH_LE_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "Levante",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club vs Levante",
-            "match_id": 131057,
-            "startTime": "08:45:00 PM 08-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "C\u00e1diz vs Almer\u00eda (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1770347072522/140429_CASACARDS_APP.png",
-            "team_1": "C\u00e1diz",
-            "team_2": "Almer\u00eda",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00e1diz vs Almer\u00eda",
-            "match_id": 140429,
-            "startTime": "08:45:00 PM 08-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Atletico de Madrid vs Real Betis (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131058_5427_ATL_RB_FC-Web.png",
             "team_1": "Atletico de Madrid",
@@ -146,6 +150,18 @@
             "match_name": "Valencia CF vs Real Madrid",
             "match_id": 131054,
             "startTime": "01:30:00 AM 09-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 4 vs TPC Scottsdale (WM Phoenix Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
+            "team_1": "Main Feed - Day 4",
+            "team_2": "TPC Scottsdale",
+            "status": "UPCOMING",
+            "event_name": "WM Phoenix Open 2026",
+            "match_name": "Main Feed - Day 4",
+            "match_id": 140401,
+            "startTime": "09:15:00 PM 08-02-2026"
         },
         {
             "event_category": "Football",
@@ -194,18 +210,6 @@
             "match_name": "Shabab Al Ahli vs Al Hilal SFC",
             "match_id": 136081,
             "startTime": "09:30:00 PM 09-02-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs TPC Scottsdale (WM Phoenix Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WM-Phoenix-Open-2026_web-(1).jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "TPC Scottsdale",
-            "status": "UPCOMING",
-            "event_name": "WM Phoenix Open 2026",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 140401,
-            "startTime": "09:15:00 PM 08-02-2026"
         },
         {
             "event_category": "Golf",
