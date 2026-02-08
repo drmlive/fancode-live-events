@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:48:12 PM 08-02-2026",
+    "last update time": "10:58:18 PM 08-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Athletic Club vs Levante (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131057_5427_ATH_LE_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "Levante",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club vs Levante",
-            "match_id": 131057,
-            "startTime": "08:45:00 PM 08-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131057_english_hls_0f147c501129921_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131057_english_hls_0f147c501129921_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Atletico de Madrid vs Real Betis (LALIGA 2025-26)",
@@ -86,6 +72,20 @@
             "startTime": "10:30:00 PM 08-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/uG0y4KiCSP6tPGc0gABTZQ/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140403_english_hls_4c21942d2238373_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Athletic Club vs Levante (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131057_5427_ATH_LE_FC-Web.png",
+            "team_1": "Athletic Club",
+            "team_2": "Levante",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Athletic Club vs Levante",
+            "match_id": 131057,
+            "startTime": "08:45:00 PM 08-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131057_english_hls_0f147c501129921_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131057_english_hls_0f147c501129921_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -210,6 +210,18 @@
             "startTime": "10:50:00 AM 09-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Racing Club vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1770347072517/140431_CASACARDS_APP.png",
+            "team_1": "Racing Club",
+            "team_2": "Mirand\u00e9s",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Racing Club vs Mirand\u00e9s",
+            "match_id": 140431,
+            "startTime": "01:00:00 AM 10-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
@@ -232,18 +244,6 @@
             "match_name": "Centre Court",
             "match_id": 140541,
             "startTime": "04:30:00 PM 09-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Racing Club vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1770347072517/140431_CASACARDS_APP.png",
-            "team_1": "Racing Club",
-            "team_2": "Mirand\u00e9s",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Racing Club vs Mirand\u00e9s",
-            "match_id": 140431,
-            "startTime": "01:00:00 AM 10-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -460,6 +460,18 @@
             "match_name": "Court 2",
             "match_id": 140195,
             "startTime": "04:30:00 PM 10-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tractor vs Al Sadd (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/136083_5647_TFC_SDD_fc-Web.jpg",
+            "team_1": "Tractor",
+            "team_2": "Al Sadd",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Tractor vs Al Sadd",
+            "match_id": 136083,
+            "startTime": "09:30:00 PM 10-02-2026"
         }
     ]
 }
