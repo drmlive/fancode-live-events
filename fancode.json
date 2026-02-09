@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:03:49 AM 09-02-2026",
+    "last update time": "08:14:06 AM 09-02-2026",
     "matches": [
+        {
+            "event_category": "Live Events",
+            "title": "Day 1 vs Delhi (Strikers Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
+            "team_1": "Day 1",
+            "team_2": "Delhi",
+            "status": "LIVE",
+            "event_name": "Strikers Cup 2026",
+            "match_name": "Day 1",
+            "match_id": 140315,
+            "startTime": "08:30:00 AM 09-02-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
         {
             "event_category": "Football",
             "title": "Al Wahda vs Al-Ahli Saudi FC (AFC Champions League Elite 2025-26)",
@@ -88,18 +102,6 @@
             "startTime": "04:30:00 AM 10-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Delhi (Strikers Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Strikers Cup 2026",
-            "match_name": "Day 1",
-            "match_id": 140315,
-            "startTime": "08:30:00 AM 09-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Racing Club vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1770347072517/140431_CASACARDS_APP.png",
@@ -148,18 +150,6 @@
             "startTime": "04:30:00 PM 09-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
-            "team_1": "Cancha Guillermo Vilas",
-            "team_2": "Buenos Aires, Argentina",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - IEB+ Argentina Open 2026",
-            "match_name": "Cancha Guillermo Vilas",
-            "match_id": 140201,
-            "startTime": "08:30:00 PM 09-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Western Australia vs Tasmania (One Day Cup, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/133945_5606_WAU_TAS_fc-web.jpg",
@@ -170,6 +160,18 @@
             "match_name": "Western Australia vs Tasmania",
             "match_id": 133945,
             "startTime": "11:30:00 AM 10-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
+            "team_1": "Cancha Guillermo Vilas",
+            "team_2": "Buenos Aires, Argentina",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - IEB+ Argentina Open 2026",
+            "match_name": "Cancha Guillermo Vilas",
+            "match_id": 140201,
+            "startTime": "08:30:00 PM 09-02-2026"
         },
         {
             "event_category": "Tennis",
