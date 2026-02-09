@@ -1,14 +1,14 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:18:06 PM 09-02-2026",
+    "last update time": "02:28:11 PM 09-02-2026",
     "matches": [
         {
             "event_category": "Live Events",
-            "title": "Day 1 vs Delhi (Strikers Cup 2026)",
+            "title": "Day 1 vs Strikers Cup (Strikers Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
             "team_1": "Day 1",
-            "team_2": "Delhi",
+            "team_2": "Strikers Cup",
             "status": "LIVE",
             "event_name": "Strikers Cup 2026",
             "match_name": "Day 1",
@@ -16,20 +16,6 @@
             "startTime": "08:30:00 AM 09-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/0GaleagcTUWqJunABuwtPw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140315_english_hls_0c2d07557c80676_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Live Events",
-            "title": "Day 6 vs Asian Rifle & Pistol Championship (Asian Rifle & Pistol Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-            "team_1": "Day 6",
-            "team_2": "Asian Rifle & Pistol Championship",
-            "status": "LIVE",
-            "event_name": "Asian Rifle & Pistol Championship 2026",
-            "match_name": "Day 6",
-            "match_id": 140324,
-            "startTime": "10:50:00 AM 09-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/ZL_A-M92THGMO8vX8GjWtQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140324_english_hls_bdff2172b713439_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -462,6 +448,18 @@
             "match_name": "Grandstand",
             "match_id": 140532,
             "startTime": "10:30:00 PM 10-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Pumas UNAM vs San Diego (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Pumas UNAM",
+            "team_2": "San Diego",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Pumas UNAM vs San Diego",
+            "match_id": 140373,
+            "startTime": "06:30:00 AM 11-02-2026"
         }
     ]
 }
