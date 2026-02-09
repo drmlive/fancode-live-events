@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:00:45 PM 09-02-2026",
+    "last update time": "06:10:51 PM 09-02-2026",
     "matches": [
-        {
-            "event_category": "Live Events",
-            "title": "Day 1 vs Strikers Cup (Strikers Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
-            "team_1": "Day 1",
-            "team_2": "Strikers Cup",
-            "status": "LIVE",
-            "event_name": "Strikers Cup 2026",
-            "match_name": "Day 1",
-            "match_id": 140315,
-            "startTime": "08:30:00 AM 09-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/0GaleagcTUWqJunABuwtPw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140315_english_hls_0c2d07557c80676_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
@@ -94,6 +80,18 @@
             "startTime": "09:30:00 PM 09-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-South-Wales-vs-South-Australia_fc-web.jpg",
+            "team_1": "New South Wales",
+            "team_2": "South Australia",
+            "status": "UPCOMING",
+            "event_name": "One Day Cup, 2025-26",
+            "match_name": "New South Wales vs South Australia",
+            "match_id": 133943,
+            "startTime": "04:30:00 AM 10-02-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Villarreal CF vs RCD Espanyol (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131052_5427_VIL_ESL_FC-Web.png",
@@ -116,18 +114,6 @@
             "match_name": "Sheffield United F.C. vs Middlesbrough F.C.",
             "match_id": 139352,
             "startTime": "01:30:00 AM 10-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs South Australia (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/New-South-Wales-vs-South-Australia_fc-web.jpg",
-            "team_1": "New South Wales",
-            "team_2": "South Australia",
-            "status": "UPCOMING",
-            "event_name": "One Day Cup, 2025-26",
-            "match_name": "New South Wales vs South Australia",
-            "match_id": 133943,
-            "startTime": "04:30:00 AM 10-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -274,18 +260,6 @@
             "startTime": "07:15:00 PM 10-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 vs Delhi (Strikers Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Strikers Cup 2026",
-            "match_name": "Day 2",
-            "match_id": 140316,
-            "startTime": "08:30:00 AM 10-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Tractor vs Al Sadd (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/15_Tractor-SC-vs-Al-Sadd_1770635555960.png",
@@ -296,6 +270,18 @@
             "match_name": "Tractor vs Al Sadd",
             "match_id": 136083,
             "startTime": "09:30:00 PM 10-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 2 vs Delhi (Strikers Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Delhi",
+            "status": "UPCOMING",
+            "event_name": "Strikers Cup 2026",
+            "match_name": "Day 2",
+            "match_id": 140316,
+            "startTime": "08:30:00 AM 10-02-2026"
         },
         {
             "event_category": "Live Events",
@@ -456,7 +442,7 @@
         {
             "event_category": "Football",
             "title": "Pumas UNAM vs San Diego (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140373_5954_UNAM_SD_FC-Web.jpg",
             "team_1": "Pumas UNAM",
             "team_2": "San Diego",
             "status": "UPCOMING",
