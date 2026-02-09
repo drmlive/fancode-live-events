@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:40:32 PM 09-02-2026",
+    "last update time": "06:00:45 PM 09-02-2026",
     "matches": [
         {
             "event_category": "Live Events",
@@ -14,8 +14,8 @@
             "match_name": "Day 1",
             "match_id": 140315,
             "startTime": "08:30:00 AM 09-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/0GaleagcTUWqJunABuwtPw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140315_english_hls_0c2d07557c80676_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -28,8 +28,8 @@
             "match_name": "World Feed",
             "match_id": 140194,
             "startTime": "05:30:00 PM 09-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/N32BhraRRQWEVem-4bc7xw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140194_english_hls_314df8104326579_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -42,8 +42,8 @@
             "match_name": "Centre Court",
             "match_id": 140541,
             "startTime": "05:30:00 PM 09-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/Il0Jojv7RDK0FEOGWBrakw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140541_english_hls_fecb6abd2f83486_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -262,18 +262,6 @@
             "startTime": "05:30:00 AM 10-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 2 vs Delhi (Strikers Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
-            "team_1": "Day 2",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Strikers Cup 2026",
-            "match_name": "Day 2",
-            "match_id": 140316,
-            "startTime": "08:30:00 AM 10-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Esteghlal FC vs Al Hussein (AFC Champions League Two 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1/140052_CASACARDS_APP.png",
@@ -284,6 +272,18 @@
             "match_name": "Esteghlal FC vs Al Hussein",
             "match_id": 140052,
             "startTime": "07:15:00 PM 10-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 2 vs Delhi (Strikers Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Delhi",
+            "status": "UPCOMING",
+            "event_name": "Strikers Cup 2026",
+            "match_name": "Day 2",
+            "match_id": 140316,
+            "startTime": "08:30:00 AM 10-02-2026"
         },
         {
             "event_category": "Football",
