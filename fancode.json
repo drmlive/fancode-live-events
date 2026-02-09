@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:25:28 AM 09-02-2026",
+    "last update time": "10:35:43 AM 09-02-2026",
     "matches": [
         {
             "event_category": "Live Events",
@@ -16,6 +16,20 @@
             "startTime": "08:30:00 AM 09-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/0GaleagcTUWqJunABuwtPw/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140315_english_hls_0c2d07557c80676_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 6 vs Delhi (Asian Rifle & Pistol Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
+            "team_1": "Day 6",
+            "team_2": "Delhi",
+            "status": "LIVE",
+            "event_name": "Asian Rifle & Pistol Championship 2026",
+            "match_name": "Day 6",
+            "match_id": 140324,
+            "startTime": "10:50:00 AM 09-02-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -102,18 +116,6 @@
             "startTime": "04:30:00 AM 10-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 6 vs Delhi (Asian Rifle & Pistol Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Asian-Rifle_Pistol-Championship-2026-old-match-card.png",
-            "team_1": "Day 6",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Asian Rifle & Pistol Championship 2026",
-            "match_name": "Day 6",
-            "match_id": 140324,
-            "startTime": "10:50:00 AM 09-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Racing Club vs Mirand\u00e9s (LALIGA Hypermotion 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1770347072517/140431_CASACARDS_APP.png",
@@ -171,31 +173,7 @@
             "event_name": "ATP 250 - IEB+ Argentina Open 2026",
             "match_name": "Cancha Guillermo Vilas",
             "match_id": 140201,
-            "startTime": "08:30:00 PM 09-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
-            "team_1": "World Feed",
-            "team_2": "Dallas, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "World Feed",
-            "match_id": 140187,
-            "startTime": "10:30:00 PM 09-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-            "team_1": "Center Court",
-            "team_2": "Dallas, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "Center Court",
-            "match_id": 140531,
-            "startTime": "10:30:00 PM 09-02-2026"
+            "startTime": "09:30:00 PM 09-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -208,6 +186,30 @@
             "match_name": "Grandstand",
             "match_id": 140530,
             "startTime": "10:30:00 PM 09-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
+            "team_1": "World Feed",
+            "team_2": "Dallas, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Nexo Dallas Open 2026",
+            "match_name": "World Feed",
+            "match_id": 140187,
+            "startTime": "11:30:00 PM 09-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Center Court vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
+            "team_1": "Center Court",
+            "team_2": "Dallas, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Nexo Dallas Open 2026",
+            "match_name": "Center Court",
+            "match_id": 140531,
+            "startTime": "11:30:00 PM 09-02-2026"
         },
         {
             "event_category": "Golf",
