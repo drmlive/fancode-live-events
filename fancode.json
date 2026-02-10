@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:14:34 AM 10-02-2026",
+    "last update time": "07:24:46 AM 10-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "09:30:00 PM 09-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/ARzGNFNPSSm6ICSnbBws2A/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140201_english_hls_fbb36ff56921479_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Grandstand vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770541232780.png",
-            "team_1": "Grandstand",
-            "team_2": "Dallas, United States",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "Grandstand",
-            "match_id": 140530,
-            "startTime": "10:30:00 PM 09-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/NwSMJSjrSvCI4ly7johtcw/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140530_english_hls_23b89ec9cf5138_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -470,6 +456,18 @@
             "match_name": "Court 1",
             "match_id": 140545,
             "startTime": "02:30:00 PM 11-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Arkadag vs Al-Nassr FC (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140056_5648_ARK_ANF_FC-Web.jpg",
+            "team_1": "FC Arkadag",
+            "team_2": "Al-Nassr FC",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "FC Arkadag vs Al-Nassr FC",
+            "match_id": 140056,
+            "startTime": "07:15:00 PM 11-02-2026"
         }
     ]
 }
