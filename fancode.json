@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:36:09 AM 10-02-2026",
+    "last update time": "08:46:19 AM 10-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,8 +56,8 @@
             "match_name": "Day 2",
             "match_id": 140316,
             "startTime": "08:30:00 AM 10-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/pAcaYjqBQimAAygqaxrgXw/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140316_english_hls_30686eed2f55810_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -229,18 +229,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Court 1 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-            "team_1": "Court 1",
-            "team_2": "Rotterdam, Netherlands",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - ABN AMRO Open 2026",
-            "match_name": "Court 1",
-            "match_id": 140544,
-            "startTime": "02:30:00 PM 10-02-2026"
-        },
-        {
-            "event_category": "Tennis",
             "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
             "team_1": "World Feed",
@@ -249,7 +237,7 @@
             "event_name": "ATP 500 - ABN AMRO Open 2026",
             "match_name": "World Feed",
             "match_id": 140543,
-            "startTime": "02:30:00 PM 10-02-2026"
+            "startTime": "03:30:00 PM 10-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -261,7 +249,7 @@
             "event_name": "ATP 500 - ABN AMRO Open 2026",
             "match_name": "Centre Court",
             "match_id": 140542,
-            "startTime": "02:30:00 PM 10-02-2026"
+            "startTime": "03:30:00 PM 10-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -273,7 +261,19 @@
             "event_name": "ATP 500 - ABN AMRO Open 2026",
             "match_name": "Court 2",
             "match_id": 140195,
-            "startTime": "04:30:00 PM 10-02-2026"
+            "startTime": "05:30:00 PM 10-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court 1 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+            "team_1": "Court 1",
+            "team_2": "Rotterdam, Netherlands",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - ABN AMRO Open 2026",
+            "match_name": "Court 1",
+            "match_id": 140544,
+            "startTime": "05:30:00 PM 10-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -324,18 +324,6 @@
             "startTime": "10:30:00 PM 10-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 3 vs Delhi (Strikers Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
-            "team_1": "Day 3",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Strikers Cup 2026",
-            "match_name": "Day 3",
-            "match_id": 140317,
-            "startTime": "08:30:00 AM 11-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Gangwon vs Shanghai Port (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/17_Gangwon-vs-Shanghai-Port_1770635891045.png",
@@ -358,6 +346,18 @@
             "match_name": "Ulsan HD vs Melbourne City",
             "match_id": 136035,
             "startTime": "03:30:00 PM 11-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 3 vs Delhi (Strikers Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
+            "team_1": "Day 3",
+            "team_2": "Delhi",
+            "status": "UPCOMING",
+            "event_name": "Strikers Cup 2026",
+            "match_name": "Day 3",
+            "match_id": 140317,
+            "startTime": "08:30:00 AM 11-02-2026"
         },
         {
             "event_category": "Live Events",
