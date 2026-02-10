@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:03:12 PM 10-02-2026",
+    "last update time": "07:13:32 PM 10-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -56,8 +56,8 @@
             "match_name": "Esteghlal FC vs Al Hussein",
             "match_id": 140052,
             "startTime": "07:15:00 PM 10-02-2026",
-            "dai_url": null,
-            "adfree_url": null
+            "dai_url": "https://dai.google.com/linear/hls/event/sv_n5EQ4S9Gyp_YIhmnVuQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140052_english_hls_396fea820c27432_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -189,18 +189,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Tigres vs Forge (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140374_5954_TIG_FOR_FC-Web.jpg",
-            "team_1": "Tigres",
-            "team_2": "Forge",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Tigres vs Forge",
-            "match_id": 140374,
-            "startTime": "08:30:00 AM 11-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Gangwon vs Shanghai Port (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/17_Gangwon-vs-Shanghai-Port_1770635891045.png",
             "team_1": "Gangwon",
@@ -222,6 +210,18 @@
             "match_name": "Ulsan HD vs Melbourne City",
             "match_id": 136035,
             "startTime": "03:30:00 PM 11-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Tigres vs Forge (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140374_5954_TIG_FOR_FC-Web.jpg",
+            "team_1": "Tigres",
+            "team_2": "Forge",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Tigres vs Forge",
+            "match_id": 140374,
+            "startTime": "08:30:00 AM 11-02-2026"
         },
         {
             "event_category": "Football",
