@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:04:50 AM 12-02-2026",
+    "last update time": "01:15:04 AM 12-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Oud-Heverlee Leuven Women vs Arsenal Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oud-Heverlee-Leuven-Women-VS-Arsenal-Women_fc-web.jpg",
-            "team_1": "Oud-Heverlee Leuven Women",
-            "team_2": "Arsenal Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Oud-Heverlee Leuven Women vs Arsenal Women",
-            "match_id": 140406,
-            "startTime": "11:15:00 PM 11-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/rKEuBGSjTAm1P_HKVTrAjQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140406_english_hls_81e92eb46584394_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
@@ -117,6 +103,20 @@
         },
         {
             "event_category": "Football",
+            "title": "Oud-Heverlee Leuven Women vs Arsenal Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oud-Heverlee-Leuven-Women-VS-Arsenal-Women_fc-web.jpg",
+            "team_1": "Oud-Heverlee Leuven Women",
+            "team_2": "Arsenal Women",
+            "status": "LIVE",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Oud-Heverlee Leuven Women vs Arsenal Women",
+            "match_id": 140406,
+            "startTime": "11:15:00 PM 11-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/rKEuBGSjTAm1P_HKVTrAjQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140406_english_hls_81e92eb46584394_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "FC Bayern M\u00fcnchen vs RB Leipzig (DFB Pokal 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/04_FC-Bayern-M%C3%BCnchen-vs-RB-Leipzig_1769793016225.png",
             "team_1": "FC Bayern M\u00fcnchen",
@@ -145,11 +145,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140522_5806_ATH_RS_FC-Web.jpg",
             "team_1": "Athletic Club",
             "team_2": "Real Sociedad",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Copa del Rey, 2025-26",
             "match_name": "Athletic Club vs Real Sociedad",
             "match_id": 140522,
-            "startTime": "01:30:00 AM 12-02-2026"
+            "startTime": "01:30:00 AM 12-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/HJrQzBP1QpSK01DDaGKjjA/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140522_english_hls_b9af3ec43446223_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -157,11 +159,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
             "team_1": "Swindon Town",
             "team_2": "Newport County",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "League Two 2025-26",
             "match_name": "Swindon Town vs Newport County",
             "match_id": 140528,
-            "startTime": "01:30:00 AM 12-02-2026"
+            "startTime": "01:30:00 AM 12-02-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
