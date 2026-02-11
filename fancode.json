@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:11:50 PM 11-02-2026",
+    "last update time": "09:22:03 PM 11-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Sepahan vs Al-Ahli Saudi FC (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140057_5648_SEP_AAS_FC-Web.jpg",
+            "team_1": "Sepahan",
+            "team_2": "Al-Ahli Saudi FC",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Sepahan vs Al-Ahli Saudi FC",
+            "match_id": 140057,
+            "startTime": "09:30:00 PM 11-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/5MO8pbyLTG6KxhxmcazhKg/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140057_english_hls_fea1f30d0461530_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
@@ -60,30 +74,18 @@
             "adfree_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139558_english_764790/ad-h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "FC Arkadag vs Al-Nassr FC (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AFC--FK-Arkadag-v-AL-Nassr-old.jpg",
-            "team_1": "FC Arkadag",
-            "team_2": "Al-Nassr FC",
+            "event_category": "Tennis",
+            "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
+            "team_1": "Cancha Guillermo Vilas",
+            "team_2": "Buenos Aires, Argentina",
             "status": "LIVE",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "FC Arkadag vs Al-Nassr FC",
-            "match_id": 140056,
-            "startTime": "07:15:00 PM 11-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/5peEeN7sRZqBUyDsfd522Q/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140056_english_hls_b7872d964919196_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sepahan vs Al-Ahli Saudi FC (AFC Champions League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140057_5648_SEP_AAS_FC-Web.jpg",
-            "team_1": "Sepahan",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Two 2025-26",
-            "match_name": "Sepahan vs Al-Ahli Saudi FC",
-            "match_id": 140057,
-            "startTime": "09:30:00 PM 11-02-2026"
+            "event_name": "ATP 250 - IEB+ Argentina Open 2026",
+            "match_name": "Cancha Guillermo Vilas",
+            "match_id": 140203,
+            "startTime": "09:30:00 PM 11-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/V1ctlp0mTWCCWTc7cTEobQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140203_english_hls_f0b6abb8c918757_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -156,18 +158,6 @@
             "match_name": "Monterrey vs Club Xelaju",
             "match_id": 140376,
             "startTime": "08:30:00 AM 12-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
-            "team_1": "Cancha Guillermo Vilas",
-            "team_2": "Buenos Aires, Argentina",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - IEB+ Argentina Open 2026",
-            "match_name": "Cancha Guillermo Vilas",
-            "match_id": 140203,
-            "startTime": "09:30:00 PM 11-02-2026"
         },
         {
             "event_category": "Football",
@@ -468,6 +458,18 @@
             "match_name": "Featured Holes - Day 1",
             "match_id": 140623,
             "startTime": "10:45:00 PM 12-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 1 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+            "team_1": "Featured Groups - Day 1",
+            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
+            "status": "UPCOMING",
+            "event_name": "AT&T Pebble Beach Pro-Am 2026",
+            "match_name": "Featured Groups - Day 1",
+            "match_id": 140622,
+            "startTime": "11:00:00 PM 12-02-2026"
         }
     ]
 }
