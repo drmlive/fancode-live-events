@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:27:18 AM 12-02-2026",
+    "last update time": "04:37:24 AM 12-02-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-            "team_1": "World Feed",
-            "team_2": "Rotterdam, Netherlands",
-            "status": "LIVE",
-            "event_name": "ATP 500 - ABN AMRO Open 2026",
-            "match_name": "World Feed",
-            "match_id": 140196,
-            "startTime": "03:30:00 PM 11-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/gyyOOVAATUqBHDLeKbXVow/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140196_english_hls_78b42dfd6d20454_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Centre Court vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-            "team_1": "Centre Court",
-            "team_2": "Rotterdam, Netherlands",
-            "status": "LIVE",
-            "event_name": "ATP 500 - ABN AMRO Open 2026",
-            "match_name": "Centre Court",
-            "match_id": 140546,
-            "startTime": "03:30:00 PM 11-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/kNBhKPW5SqqjsQUOsJXBOg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140546_english_hls_e5a2632a2547381_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
@@ -89,18 +61,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Club Am\u00e9rica vs Olimpia (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140375_5954_AME_OL_FC-Web.jpg",
-            "team_1": "Club Am\u00e9rica",
-            "team_2": "Olimpia",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Club Am\u00e9rica vs Olimpia",
-            "match_id": 140375,
-            "startTime": "06:30:00 AM 12-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "VfL Wolfsburg Women vs Juventus Women (UEFA Women's Champions League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
             "team_1": "VfL Wolfsburg Women",
@@ -110,6 +70,18 @@
             "match_name": "VfL Wolfsburg Women vs Juventus Women",
             "match_id": 140408,
             "startTime": "11:15:00 PM 12-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Club Am\u00e9rica vs Olimpia (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140375_5954_AME_OL_FC-Web.jpg",
+            "team_1": "Club Am\u00e9rica",
+            "team_2": "Olimpia",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Club Am\u00e9rica vs Olimpia",
+            "match_id": 140375,
+            "startTime": "06:30:00 AM 12-02-2026"
         },
         {
             "event_category": "Football",
@@ -470,6 +442,30 @@
             "match_name": "Al Hilal SFC vs Al-Ettifaq",
             "match_id": 139839,
             "startTime": "08:55:00 PM 13-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+            "team_1": "World Feed",
+            "team_2": "Rotterdam, Netherlands",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - ABN AMRO Open 2026",
+            "match_name": "World Feed",
+            "match_id": 140549,
+            "startTime": "04:30:00 PM 13-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Ittihad vs Al-Fayha FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Ittihad-vs-Al-Fayha-FC_fc-web.jpg",
+            "team_1": "Al-Ittihad",
+            "team_2": "Al-Fayha FC",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Ittihad vs Al-Fayha FC",
+            "match_id": 139840,
+            "startTime": "11:00:00 PM 13-02-2026"
         }
     ]
 }
