@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:40:16 AM 12-02-2026",
+    "last update time": "08:50:23 AM 12-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Club Am\u00e9rica vs Olimpia (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140375_5954_AME_OL_FC-Web.jpg",
-            "team_1": "Club Am\u00e9rica",
-            "team_2": "Olimpia",
-            "status": "LIVE",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Club Am\u00e9rica vs Olimpia",
-            "match_id": 140375,
-            "startTime": "06:30:00 AM 12-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/iYBFCFnDRIK195jJwkKMGQ/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140375_english_hls_064e3c075932636_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Monterrey vs Club Xelaju (CONCACAF Champions Cup 2026)",
@@ -72,6 +58,20 @@
             "startTime": "11:30:00 PM 11-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/mn8itEwyT2SzvANvme72eg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140534_english_hls_b71d88a261499_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Day 4 vs Delhi (Strikers Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
+            "team_1": "Day 4",
+            "team_2": "Delhi",
+            "status": "LIVE",
+            "event_name": "Strikers Cup 2026",
+            "match_name": "Day 4",
+            "match_id": 140318,
+            "startTime": "09:00:00 AM 12-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/mwOWR_yQQjSwueAXPKFduQ/master.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140318_english_hls_d621b5dcd676482_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -134,18 +134,6 @@
             "startTime": "05:45:00 PM 12-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Day 4 vs Delhi (Strikers Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Strikers-Cup-2026_fc-web.jpg",
-            "team_1": "Day 4",
-            "team_2": "Delhi",
-            "status": "UPCOMING",
-            "event_name": "Strikers Cup 2026",
-            "match_name": "Day 4",
-            "match_id": 140318,
-            "startTime": "09:00:00 AM 12-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Cruz Azul vs Vancouver FC (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140377_5954_CRU_VFC_FC-Web.jpg",
@@ -183,6 +171,18 @@
         },
         {
             "event_category": "Tennis",
+            "title": "Court 1 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
+            "team_1": "Court 1",
+            "team_2": "Rotterdam, Netherlands",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - ABN AMRO Open 2026",
+            "match_name": "Court 1",
+            "match_id": 140547,
+            "startTime": "02:30:00 PM 12-02-2026"
+        },
+        {
+            "event_category": "Tennis",
             "title": "World Feed vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
             "team_1": "World Feed",
@@ -191,7 +191,7 @@
             "event_name": "ATP 500 - ABN AMRO Open 2026",
             "match_name": "World Feed",
             "match_id": 140197,
-            "startTime": "02:30:00 PM 12-02-2026"
+            "startTime": "03:30:00 PM 12-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -203,19 +203,7 @@
             "event_name": "ATP 500 - ABN AMRO Open 2026",
             "match_name": "Centre Court",
             "match_id": 140548,
-            "startTime": "02:30:00 PM 12-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court 1 vs Rotterdam, Netherlands (ATP 500 - ABN AMRO Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3)_1770389196821.png",
-            "team_1": "Court 1",
-            "team_2": "Rotterdam, Netherlands",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - ABN AMRO Open 2026",
-            "match_name": "Court 1",
-            "match_id": 140547,
-            "startTime": "02:30:00 PM 12-02-2026"
+            "startTime": "03:30:00 PM 12-02-2026"
         },
         {
             "event_category": "Golf",
@@ -467,6 +455,18 @@
             "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
             "match_name": "Day 3",
             "match_id": 139560,
+            "startTime": "08:30:00 PM 13-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Cancha Guillermo Vilas vs Buenos Aires, Argentina (ATP 250 - IEB+ Argentina Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250IEBArgentina-Open--old-card-(1).png",
+            "team_1": "Cancha Guillermo Vilas",
+            "team_2": "Buenos Aires, Argentina",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - IEB+ Argentina Open 2026",
+            "match_name": "Cancha Guillermo Vilas",
+            "match_id": 140205,
             "startTime": "08:30:00 PM 13-02-2026"
         }
     ]
