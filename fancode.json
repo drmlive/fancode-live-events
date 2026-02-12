@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:05:01 AM 13-02-2026",
+    "last update time": "04:15:08 AM 13-02-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -44,20 +44,6 @@
             "startTime": "09:30:00 PM 12-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140204_english_hls_eb22ca9e4848101_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 1 vs Pebble Beach Golf Links, Spyglass Hill Golf Course (AT&T Pebble Beach Pro-Am 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am-2026-old-card-.png",
-            "team_1": "Main Feed - Day 1",
-            "team_2": "Pebble Beach Golf Links, Spyglass Hill Golf Course",
-            "status": "LIVE",
-            "event_name": "AT&T Pebble Beach Pro-Am 2026",
-            "match_name": "Main Feed - Day 1",
-            "match_id": 140624,
-            "startTime": "10:15:00 PM 12-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/9f3VM2W1QgOjTLr050UsVg/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140624_english_hls_d638bafaa498103_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -480,6 +466,18 @@
             "match_name": "Stevenage vs Huddersfield Town A.F.C.",
             "match_id": 140016,
             "startTime": "06:00:00 PM 14-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Goa vs Inter Kashi FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140432_5956_FCG_IK_fc-web_1770791891991.jpg",
+            "team_1": "FC Goa",
+            "team_2": "Inter Kashi FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "FC Goa vs Inter Kashi FC",
+            "match_id": 140432,
+            "startTime": "07:30:00 PM 14-02-2026"
         }
     ]
 }
