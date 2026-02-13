@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:41:21 PM 13-02-2026",
+    "last update time": "01:51:27 PM 13-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,20 @@
             "startTime": "01:35:00 PM 13-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140367_english_hls_f6facd47f467778_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140367_english_hls_f6facd47f467778_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Western Sydney Wanderers vs Wellington Phoenix (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139408_5802_SYW_WEL_1770721836090.png",
+            "team_1": "Western Sydney Wanderers",
+            "team_2": "Wellington Phoenix",
+            "status": "LIVE",
+            "event_name": "A League 2025-26",
+            "match_name": "Western Sydney Wanderers vs Wellington Phoenix",
+            "match_id": 139408,
+            "startTime": "02:05:00 PM 13-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139408_english_hls_8fbe75e96895648_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139408_english_hls_8fbe75e96895648_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -44,18 +58,6 @@
             "startTime": "11:00:00 AM 13-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/Snc9qSAaSDexPNqPSjcOMg/master.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140604_english_hls_1cda6b52b860477_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Western Sydney Wanderers vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139408_5802_SYW_WEL_1770721836090.png",
-            "team_1": "Western Sydney Wanderers",
-            "team_2": "Wellington Phoenix",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Western Sydney Wanderers vs Wellington Phoenix",
-            "match_id": 139408,
-            "startTime": "02:05:00 PM 13-02-2026"
         },
         {
             "event_category": "Football",
@@ -178,18 +180,6 @@
             "startTime": "04:00:00 PM 13-02-2026"
         },
         {
-            "event_category": "Formula 1",
-            "title": "Day 3 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
-            "team_1": "Day 3",
-            "team_2": "Bahrain International Circuit",
-            "status": "UPCOMING",
-            "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
-            "match_name": "Day 3",
-            "match_id": 139560,
-            "startTime": "08:30:00 PM 13-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Sydney FC vs Adelaide United (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139411_5802_SYD_ADL_1770722182837.png",
@@ -200,6 +190,18 @@
             "match_name": "Sydney FC vs Adelaide United",
             "match_id": 139411,
             "startTime": "02:05:00 PM 14-02-2026"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Day 3 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_web_1770205109895.jpg",
+            "team_1": "Day 3",
+            "team_2": "Bahrain International Circuit",
+            "status": "UPCOMING",
+            "event_name": "F1 ARAMCO PRE-SEASON TESTING 2026",
+            "match_name": "Day 3",
+            "match_id": 139560,
+            "startTime": "08:30:00 PM 13-02-2026"
         },
         {
             "event_category": "Tennis",
