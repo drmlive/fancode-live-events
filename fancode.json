@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:16:05 AM 14-02-2026",
+    "last update time": "11:26:10 AM 14-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "11:30:00 AM 14-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139410_english_hls_0167d6f73770914_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139410_english_hls_0167d6f73770914_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Dallas, United States (ATP 500 - Nexo Dallas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dallas-Open-(ATP-500)-old-card-_1770112378426.png",
-            "team_1": "World Feed",
-            "team_2": "Dallas, United States",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Nexo Dallas Open 2026",
-            "match_name": "World Feed",
-            "match_id": 140191,
-            "startTime": "11:30:00 PM 13-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/ZEgc-wcHSwS9aw7t1RYrsA/master.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140191_english_hls_bb4a0cd38111838_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Live Events",
@@ -452,6 +438,30 @@
             "match_name": "Day 4",
             "match_id": 140606,
             "startTime": "11:00:00 AM 15-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Oviedo vs Athletic Club (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131060_5427_RO_ATH_FC-Web.png",
+            "team_1": "Real Oviedo",
+            "team_2": "Athletic Club",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Oviedo vs Athletic Club",
+            "match_id": 131060,
+            "startTime": "06:30:00 PM 15-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Bengaluru FC vs Sporting Club Delhi (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140434_5956_BFC_SCD_fc-web-(1).jpg",
+            "team_1": "Bengaluru FC",
+            "team_2": "Sporting Club Delhi",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Bengaluru FC vs Sporting Club Delhi",
+            "match_id": 140434,
+            "startTime": "07:30:00 PM 15-02-2026"
         }
     ]
 }
