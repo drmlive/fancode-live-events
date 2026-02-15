@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:17:27 PM 15-02-2026",
+    "last update time": "09:27:33 PM 15-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Bengaluru FC vs Sporting Club Delhi (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140434_5956_BFC_SCD_fc-web_1771131079325.jpg",
-            "team_1": "Bengaluru FC",
-            "team_2": "Sporting Club Delhi",
-            "status": "LIVE",
-            "event_name": "ISL 2025-26",
-            "match_name": "Bengaluru FC vs Sporting Club Delhi",
-            "match_id": 140434,
-            "startTime": "07:30:00 PM 15-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140434_english_hls_862174fcf455214_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140434_english_hls_862174fcf455214_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Rayo Vallecano vs Atletico de Madrid (LALIGA 2025-26)",
@@ -102,6 +88,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140633_english_hls_73efc4916865633_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Bengaluru FC vs Sporting Club Delhi (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140434_5956_BFC_SCD_fc-web_1771131079325.jpg",
+            "team_1": "Bengaluru FC",
+            "team_2": "Sporting Club Delhi",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26",
+            "match_name": "Bengaluru FC vs Sporting Club Delhi",
+            "match_id": 140434,
+            "startTime": "07:30:00 PM 15-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140434_english_hls_862174fcf455214_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140434_english_hls_862174fcf455214_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
@@ -162,18 +162,6 @@
             "startTime": "05:30:00 AM 16-02-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
-            "team_1": "Western Australia",
-            "team_2": "Victoria",
-            "status": "UPCOMING",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs Victoria",
-            "match_id": 134036,
-            "startTime": "08:00:00 AM 16-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Odisha FC vs Punjab FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web.jpg",
@@ -184,6 +172,18 @@
             "match_name": "Odisha FC vs Punjab FC",
             "match_id": 140435,
             "startTime": "05:00:00 PM 16-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134036_5609_WAU_VCT_fc-Web.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Victoria",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Victoria",
+            "match_id": 134036,
+            "startTime": "08:00:00 AM 16-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -318,6 +318,30 @@
             "startTime": "12:30:00 AM 16-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Girona FC vs FC Barcelona (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131062_5427_GIR_BAR_FC-Web.png",
+            "team_1": "Girona FC",
+            "team_2": "FC Barcelona",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona FC vs FC Barcelona",
+            "match_id": 131062,
+            "startTime": "01:30:00 AM 17-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Coventry City Football Club vs Middlesbrough F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139356_5489_CVC_MIDD_FC-Web.jpg",
+            "team_1": "Coventry City Football Club",
+            "team_2": "Middlesbrough F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Coventry City Football Club vs Middlesbrough F.C.",
+            "match_id": 139356,
+            "startTime": "01:30:00 AM 17-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-old-match-card-.jpg",
@@ -364,30 +388,6 @@
             "match_name": "Grandstand 2",
             "match_id": 140644,
             "startTime": "03:00:00 PM 16-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Girona FC vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131062_5427_GIR_BAR_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "FC Barcelona",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona FC vs FC Barcelona",
-            "match_id": 131062,
-            "startTime": "01:30:00 AM 17-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Coventry City Football Club vs Middlesbrough F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139356_5489_CVC_MIDD_FC-Web.jpg",
-            "team_1": "Coventry City Football Club",
-            "team_2": "Middlesbrough F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Coventry City Football Club vs Middlesbrough F.C.",
-            "match_id": 139356,
-            "startTime": "01:30:00 AM 17-02-2026"
         },
         {
             "event_category": "Football",
