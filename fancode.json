@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:06:43 AM 17-02-2026",
+    "last update time": "04:16:49 AM 17-02-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -72,20 +72,6 @@
             "startTime": "02:30:00 AM 17-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140651_english_hls_4a4ab1d9d596647_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140651_english_hls_4a4ab1d9d596647_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Girona FC vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131062_5427_GIR_BAR_FC-Web.png",
-            "team_1": "Girona FC",
-            "team_2": "FC Barcelona",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Girona FC vs FC Barcelona",
-            "match_id": 131062,
-            "startTime": "01:30:00 AM 17-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131062_english_hls_116fe2ca1c73382_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131062_english_hls_116fe2ca1c73382_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -470,6 +456,18 @@
             "match_name": "Day 1",
             "match_id": 139561,
             "startTime": "12:30:00 PM 18-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Persib Bandung vs Ratchaburi (AFC Champions League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140062_5648_PER_RAT_FC-Web.jpg",
+            "team_1": "Persib Bandung",
+            "team_2": "Ratchaburi",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Two 2025-26",
+            "match_name": "Persib Bandung vs Ratchaburi",
+            "match_id": 140062,
+            "startTime": "05:45:00 PM 18-02-2026"
         }
     ]
 }
