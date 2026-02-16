@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:04:56 AM 17-02-2026",
+    "last update time": "01:15:02 AM 17-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -149,11 +149,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139356_5489_CVC_MIDD_FC-Web.jpg",
             "team_1": "Coventry City Football Club",
             "team_2": "Middlesbrough F.C.",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2025-26",
             "match_name": "Coventry City Football Club vs Middlesbrough F.C.",
             "match_id": 139356,
-            "startTime": "01:30:00 AM 17-02-2026"
+            "startTime": "01:30:00 AM 17-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139356_english_hls_eb55f3427617930_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139356_english_hls_eb55f3427617930_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -336,18 +338,6 @@
             "startTime": "09:00:00 AM 17-02-2026"
         },
         {
-            "event_category": "Live Events",
-            "title": "Thunderbolt T10 League Auction 2026 vs Roorkee, Uttarakhand (Thunderbolt T10 League Auction 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-            "team_1": "Thunderbolt T10 League Auction 2026",
-            "team_2": "Roorkee, Uttarakhand",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League Auction 2026",
-            "match_name": "Thunderbolt T10 League Auction 2026",
-            "match_id": 140750,
-            "startTime": "02:00:00 PM 17-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
@@ -358,6 +348,18 @@
             "match_name": "Victoria Women vs Western Australia Women",
             "match_id": 133984,
             "startTime": "04:30:00 AM 18-02-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Thunderbolt T10 League Auction 2026 vs Roorkee, Uttarakhand (Thunderbolt T10 League Auction 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
+            "team_1": "Thunderbolt T10 League Auction 2026",
+            "team_2": "Roorkee, Uttarakhand",
+            "status": "UPCOMING",
+            "event_name": "Thunderbolt T10 League Auction 2026",
+            "match_name": "Thunderbolt T10 League Auction 2026",
+            "match_id": 140750,
+            "startTime": "02:00:00 PM 17-02-2026"
         },
         {
             "event_category": "Tennis",
