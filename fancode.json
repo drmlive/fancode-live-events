@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:34:37 AM 17-02-2026",
+    "last update time": "12:44:44 AM 17-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -117,11 +117,13 @@
             "src": "https://images.fancode.com/aig/match/v1770347072514/140423_CASACARDS_APP.png",
             "team_1": "Real Sociedad",
             "team_2": "M\u00e1laga",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA Hypermotion 2025-26",
             "match_name": "Real Sociedad vs M\u00e1laga",
             "match_id": 140423,
-            "startTime": "01:00:00 AM 17-02-2026"
+            "startTime": "01:00:00 AM 17-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140423_english_hls_a34bb1be5838932_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140423_english_hls_a34bb1be5838932_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -225,11 +227,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
             "team_1": "World Feed",
             "team_2": "Rio de Janeiro, Brazil",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
             "match_name": "World Feed",
             "match_id": 140285,
-            "startTime": "01:00:00 AM 17-02-2026"
+            "startTime": "01:00:00 AM 17-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140285_english_hls_549feed20283193_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140285_english_hls_549feed20283193_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -237,11 +241,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
             "team_1": "Quadra 1",
             "team_2": "Rio",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
             "match_name": "Quadra 1",
             "match_id": 140652,
-            "startTime": "01:00:00 AM 17-02-2026"
+            "startTime": "01:00:00 AM 17-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140652_english_hls_4928e4ad8739560_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140652_english_hls_4928e4ad8739560_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -249,11 +255,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1771227556428.png",
             "team_1": "Quadra Guga Kuerten",
             "team_2": "Rio",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
             "match_name": "Quadra Guga Kuerten",
             "match_id": 140650,
-            "startTime": "01:00:00 AM 17-02-2026"
+            "startTime": "01:00:00 AM 17-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140650_english_hls_30300ce3d690494_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140650_english_hls_30300ce3d690494_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -400,18 +408,6 @@
             "startTime": "04:00:00 PM 17-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Grandstand 3 vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771256547378.jpg",
-            "team_1": "Grandstand 3",
-            "team_2": "Doha, Qatar",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-            "match_name": "Grandstand 3",
-            "match_id": 140209,
-            "startTime": "04:30:00 PM 17-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Victoria Women vs Western Australia Women (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
@@ -422,6 +418,18 @@
             "match_name": "Victoria Women vs Western Australia Women",
             "match_id": 133984,
             "startTime": "04:30:00 AM 18-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Grandstand 3 vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771256547378.jpg",
+            "team_1": "Grandstand 3",
+            "team_2": "Doha, Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Grandstand 3",
+            "match_id": 140209,
+            "startTime": "04:30:00 PM 17-02-2026"
         },
         {
             "event_category": "Tennis",
