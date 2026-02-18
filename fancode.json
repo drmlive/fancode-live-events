@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:08:47 PM 18-02-2026",
+    "last update time": "03:18:54 PM 18-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Melbourne City vs Gangwon (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/29_Melbourne-City-vs-Gangwon_1770636939459.png",
+            "team_1": "Melbourne City",
+            "team_2": "Gangwon",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Melbourne City vs Gangwon",
+            "match_id": 136042,
+            "startTime": "03:30:00 PM 18-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136042_english_hls_85c9cd791911695_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136042_english_hls_85c9cd791911695_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Shanghai Port vs Ulsan HD (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/30_Shanghai-Port-vs-Ulsan-HD_1770636853402.png",
+            "team_1": "Shanghai Port",
+            "team_2": "Ulsan HD",
+            "status": "LIVE",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Shanghai Port vs Ulsan HD",
+            "match_id": 136041,
+            "startTime": "03:30:00 PM 18-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/136041_english_hls_2a0f5f45d279567_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/136041_english_hls_2a0f5f45d279567_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Victoria vs Western Australia (Sheffield Shield, 2025-26)",
@@ -58,30 +86,6 @@
             "startTime": "12:30:00 PM 18-02-2026",
             "dai_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139561_english_571505/ad-h264/index.m3u8",
             "adfree_url": "https://india-mpv2.fancode.com/out/v1/ap-south-1/139561_english_571505/ad-h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne City vs Gangwon (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/29_Melbourne-City-vs-Gangwon_1770636939459.png",
-            "team_1": "Melbourne City",
-            "team_2": "Gangwon",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Melbourne City vs Gangwon",
-            "match_id": 136042,
-            "startTime": "03:30:00 PM 18-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Shanghai Port vs Ulsan HD (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/30_Shanghai-Port-vs-Ulsan-HD_1770636853402.png",
-            "team_1": "Shanghai Port",
-            "team_2": "Ulsan HD",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Shanghai Port vs Ulsan HD",
-            "match_id": 136041,
-            "startTime": "03:30:00 PM 18-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -288,18 +292,6 @@
             "startTime": "04:30:00 PM 18-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Court A Feed vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
-            "team_1": "Court A Feed",
-            "team_2": "Delray Beach, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Delray Beach Open 2026",
-            "match_name": "Court A Feed",
-            "match_id": 140297,
-            "startTime": "09:30:00 PM 18-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Gamba Osaka vs Pohang Steelers (AFC Champions League Two 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140067_5648_OSK_PHG_FC-Web.jpg",
@@ -310,6 +302,18 @@
             "match_name": "Gamba Osaka vs Pohang Steelers",
             "match_id": 140067,
             "startTime": "03:30:00 PM 19-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court A Feed vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
+            "team_1": "Court A Feed",
+            "team_2": "Delray Beach, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Delray Beach Open 2026",
+            "match_name": "Court A Feed",
+            "match_id": 140297,
+            "startTime": "09:30:00 PM 18-02-2026"
         },
         {
             "event_category": "Tennis",
