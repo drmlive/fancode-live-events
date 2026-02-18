@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:25:39 AM 19-02-2026",
+    "last update time": "02:35:45 AM 19-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -58,20 +58,6 @@
             "startTime": "01:15:00 AM 19-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140293_english_hls_9c6526862022121_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140293_english_hls_9c6526862022121_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Grandstand 2 vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Qatar-ExxonMobil-Open,ATP-500-Revised-old-match-card-_1771298305039.jpg",
-            "team_1": "Grandstand 2",
-            "team_2": "Doha, Qatar",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-            "match_name": "Grandstand 2",
-            "match_id": 140746,
-            "startTime": "04:30:00 PM 18-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140746_english_hls_14a98fe61d99629_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140746_english_hls_14a98fe61d99629_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -216,18 +202,6 @@
             "startTime": "06:30:00 AM 19-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "CS Cartagines vs Vancouver Whitecaps FC (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140382_5954_CSC_VAN_FC-Web.jpg",
-            "team_1": "CS Cartagines",
-            "team_2": "Vancouver Whitecaps FC",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "CS Cartagines vs Vancouver Whitecaps FC",
-            "match_id": 140382,
-            "startTime": "08:30:00 AM 19-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Maties Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140659_5968_MAT_PRC_FC-Web.jpg",
@@ -238,6 +212,18 @@
             "match_name": "Maties Cricket Club vs Paarl CC",
             "match_id": 140659,
             "startTime": "10:00:00 PM 19-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "CS Cartagines vs Vancouver Whitecaps FC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140382_5954_CSC_VAN_FC-Web.jpg",
+            "team_1": "CS Cartagines",
+            "team_2": "Vancouver Whitecaps FC",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "CS Cartagines vs Vancouver Whitecaps FC",
+            "match_id": 140382,
+            "startTime": "08:30:00 AM 19-02-2026"
         },
         {
             "event_category": "Football",
@@ -478,6 +464,18 @@
             "match_name": "England Lions vs Pakistan Shaheens",
             "match_id": 140661,
             "startTime": "03:30:00 PM 20-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Adelaide United vs Perth Glory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139412_5802_ADL_PG_1770722465261.png",
+            "team_1": "Adelaide United",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Adelaide United vs Perth Glory",
+            "match_id": 139412,
+            "startTime": "02:05:00 PM 20-02-2026"
         }
     ]
 }
