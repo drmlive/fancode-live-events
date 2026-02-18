@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:04:52 AM 19-02-2026",
+    "last update time": "01:14:59 AM 19-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Van der Stel Cricket Club vs Maties Cricket Club (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140658_5968_VDCC_MAT_FC-Web.jpg",
-            "team_1": "Van der Stel Cricket Club",
-            "team_2": "Maties Cricket Club",
-            "status": "LIVE",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Van der Stel Cricket Club vs Maties Cricket Club",
-            "match_id": 140658,
-            "startTime": "10:00:00 PM 18-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140658_english_hls_8dec9cc28f58754_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140658_english_hls_8dec9cc28f58754_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Madrid Women vs Paris FC Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Paris-FC-Women-vs-Real-Madrid-Women_fc-web.jpg",
-            "team_1": "Real Madrid Women",
-            "team_2": "Paris FC Women",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Real Madrid Women vs Paris FC Women",
-            "match_id": 140416,
-            "startTime": "11:15:00 PM 18-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140416_english_hls_7acd59272850764_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140416_english_hls_7acd59272850764_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Levante vs Villarreal CF (LALIGA 2025-26)",
@@ -201,15 +173,31 @@
         },
         {
             "event_category": "Football",
+            "title": "Real Madrid Women vs Paris FC Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Paris-FC-Women-vs-Real-Madrid-Women_fc-web.jpg",
+            "team_1": "Real Madrid Women",
+            "team_2": "Paris FC Women",
+            "status": "LIVE",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Real Madrid Women vs Paris FC Women",
+            "match_id": 140416,
+            "startTime": "11:15:00 PM 18-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140416_english_hls_7acd59272850764_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140416_english_hls_7acd59272850764_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
             "title": "Arsenal Women vs Oud-Heverlee Leuven Women (UEFA Women's Champions League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Oud-Heverlee-Leuven-Women-VS-Arsenal-Women_fc-web.jpg",
             "team_1": "Arsenal Women",
             "team_2": "Oud-Heverlee Leuven Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "UEFA Women's Champions League 2025-26",
             "match_name": "Arsenal Women vs Oud-Heverlee Leuven Women",
             "match_id": 140417,
-            "startTime": "01:30:00 AM 19-02-2026"
+            "startTime": "01:30:00 AM 19-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140417_english_hls_5e8d87506f97841_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -485,6 +473,18 @@
             "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
             "match_name": "World Feed",
             "match_id": 140288,
+            "startTime": "01:00:00 AM 20-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Quadra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
+            "team_1": "Quadra 1",
+            "team_2": "Rio de Janeiro, Brazil",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "Quadra 1",
+            "match_id": 140754,
             "startTime": "01:00:00 AM 20-02-2026"
         }
     ]
