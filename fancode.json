@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:05:31 PM 19-02-2026",
+    "last update time": "07:15:38 PM 19-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Mumbai City FC vs Chennaiyin FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web_1771419569202.jpg",
+            "team_1": "Mumbai City FC",
+            "team_2": "Chennaiyin FC",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26",
+            "match_name": "Mumbai City FC vs Chennaiyin FC",
+            "match_id": 140437,
+            "startTime": "07:30:00 PM 19-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140437_english_hls_5d588c23d311284_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140437_english_hls_5d588c23d311284_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mumbai City FC vs Chennaiyin FC (ISL 2025-26  - Regional)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web-(1).jpg",
+            "team_1": "Mumbai City FC",
+            "team_2": "Chennaiyin FC",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Mumbai City FC vs Chennaiyin FC",
+            "match_id": 140752,
+            "startTime": "07:30:00 PM 19-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140752_tamil_hls_c70a3b257411493_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140752_tamil_hls_c70a3b257411493_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Formula 1",
             "title": "Day 2 vs Bahrain International Circuit (F1 ARAMCO PRE-SEASON TESTING 2026)",
@@ -58,30 +86,6 @@
             "startTime": "05:30:00 PM 19-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140755_english_hls_66f4c33efc95962_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140755_english_hls_66f4c33efc95962_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mumbai City FC vs Chennaiyin FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web_1771419569202.jpg",
-            "team_1": "Mumbai City FC",
-            "team_2": "Chennaiyin FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Mumbai City FC vs Chennaiyin FC",
-            "match_id": 140437,
-            "startTime": "07:30:00 PM 19-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mumbai City FC vs Chennaiyin FC (ISL 2025-26  - Regional)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140437_5956_MCFC_CFC_fc-web-(1).jpg",
-            "team_1": "Mumbai City FC",
-            "team_2": "Chennaiyin FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26  - Regional",
-            "match_name": "Mumbai City FC vs Chennaiyin FC",
-            "match_id": 140752,
-            "startTime": "07:30:00 PM 19-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -144,18 +148,6 @@
             "startTime": "07:00:00 PM 20-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Sporting SM vs LA Galaxy (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140383_5954_SSM_LAG_FC-Web.jpg",
-            "team_1": "Sporting SM",
-            "team_2": "LA Galaxy",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Sporting SM vs LA Galaxy",
-            "match_id": 140383,
-            "startTime": "06:30:00 AM 20-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
@@ -166,6 +158,18 @@
             "match_name": "England Lions vs Pakistan Shaheens",
             "match_id": 140661,
             "startTime": "03:30:00 PM 20-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sporting SM vs LA Galaxy (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140383_5954_SSM_LAG_FC-Web.jpg",
+            "team_1": "Sporting SM",
+            "team_2": "LA Galaxy",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Sporting SM vs LA Galaxy",
+            "match_id": 140383,
+            "startTime": "06:30:00 AM 20-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -226,6 +230,18 @@
             "match_name": "Match 4",
             "match_id": 140298,
             "startTime": "09:30:00 PM 19-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Vredenburg/Saldanha CC vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140677_5968_VDS_PECC_FC-Web.jpg",
+            "team_1": "Vredenburg/Saldanha CC",
+            "team_2": "Paarl East Cricket Club",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Vredenburg/Saldanha CC vs Paarl East Cricket Club",
+            "match_id": 140677,
+            "startTime": "10:00:00 PM 20-02-2026"
         },
         {
             "event_category": "Golf",
@@ -298,18 +314,6 @@
             "match_name": "World Feed - Day 1",
             "match_id": 140068,
             "startTime": "02:30:00 AM 20-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vredenburg/Saldanha CC vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140677_5968_VDS_PECC_FC-Web.jpg",
-            "team_1": "Vredenburg/Saldanha CC",
-            "team_2": "Paarl East Cricket Club",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Vredenburg/Saldanha CC vs Paarl East Cricket Club",
-            "match_id": 140677,
-            "startTime": "10:00:00 PM 20-02-2026"
         },
         {
             "event_category": "Formula 1",
@@ -385,18 +389,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Quadra 2 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
-            "team_1": "Quadra 2",
-            "team_2": "Rio",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "Quadra 2",
-            "match_id": 140791,
-            "startTime": "12:30:00 AM 20-02-2026"
-        },
-        {
-            "event_category": "Tennis",
             "title": "Match 5 vs Delray Beach, United States (ATP 250 - Delray Beach Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Delray-Beach-Open-2026--old-card.png",
             "team_1": "Match 5",
@@ -406,6 +398,18 @@
             "match_name": "Match 5",
             "match_id": 140299,
             "startTime": "09:30:00 PM 20-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Quadra 2 vs Rio (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "Quadra 2",
+            "team_2": "Rio",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "Quadra 2",
+            "match_id": 140791,
+            "startTime": "12:30:00 AM 20-02-2026"
         },
         {
             "event_category": "Tennis",
