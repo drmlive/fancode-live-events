@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:40:42 AM 20-02-2026",
+    "last update time": "03:50:49 AM 20-02-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -128,20 +128,6 @@
             "startTime": "02:30:00 AM 20-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140068_english_hls_26634f85d55345_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140068_english_hls_26634f85d55345_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Manchester United Women vs Atletico de Madrid Femenino (UEFA Women's Champions League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140419_5720_MUN-W_ATL-W_fc-web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Atletico de Madrid Femenino",
-            "status": "LIVE",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Manchester United Women vs Atletico de Madrid Femenino",
-            "match_id": 140419,
-            "startTime": "01:30:00 AM 20-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140419_english_hls_bcf4961cb435378_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140419_english_hls_bcf4961cb435378_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -478,6 +464,18 @@
             "match_name": "Sydney FC vs Brisbane Roar",
             "match_id": 139414,
             "startTime": "11:30:00 AM 21-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
+            "team_1": "Melbourne City",
+            "team_2": "Melbourne Victory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City vs Melbourne Victory",
+            "match_id": 139415,
+            "startTime": "02:05:00 PM 21-02-2026"
         }
     ]
 }
