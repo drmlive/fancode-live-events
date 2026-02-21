@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:54:50 PM 21-02-2026",
+    "last update time": "06:04:56 PM 21-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -79,11 +79,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131073_5427_RS_RO_FC-Web.png",
             "team_1": "Real Sociedad",
             "team_2": "Real Oviedo",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "Real Sociedad vs Real Oviedo",
             "match_id": 131073,
-            "startTime": "06:30:00 PM 21-02-2026"
+            "startTime": "06:30:00 PM 21-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131073_english_hls_ae2519e8e23367_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131073_english_hls_ae2519e8e23367_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -170,18 +172,6 @@
             "startTime": "12:30:00 AM 22-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131076_5427_ATL_ESL_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "RCD Espanyol",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Atletico de Madrid vs RCD Espanyol",
-            "match_id": 131076,
-            "startTime": "01:30:00 AM 22-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
             "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
@@ -192,6 +182,18 @@
             "match_name": "ACT Meteors vs South Australian Scorpions",
             "match_id": 133982,
             "startTime": "04:30:00 AM 22-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131076_5427_ATL_ESL_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "RCD Espanyol",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Atletico de Madrid vs RCD Espanyol",
+            "match_id": 131076,
+            "startTime": "01:30:00 AM 22-02-2026"
         },
         {
             "event_category": "Cricket",
