@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:27:06 PM 21-02-2026",
+    "last update time": "09:37:11 PM 21-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Jamshedpur FC vs Punjab FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140440_5956_JFC_PFC_fc-web_1771412947553.jpg",
-            "team_1": "Jamshedpur FC",
-            "team_2": "Punjab FC",
-            "status": "LIVE",
-            "event_name": "ISL 2025-26",
-            "match_name": "Jamshedpur FC vs Punjab FC",
-            "match_id": 140440,
-            "startTime": "07:30:00 PM 21-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140440_english_hls_c6f7a996be67083_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140440_english_hls_c6f7a996be67083_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Southampton F.C. vs Charlton Athletic F.C (EFL Championship 2025-26)",
@@ -100,6 +86,20 @@
             "startTime": "09:15:00 PM 21-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140573_english_hls_0cf4a170424094_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140573_english_hls_0cf4a170424094_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Jamshedpur FC vs Punjab FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140440_5956_JFC_PFC_fc-web_1771412947553.jpg",
+            "team_1": "Jamshedpur FC",
+            "team_2": "Punjab FC",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26",
+            "match_name": "Jamshedpur FC vs Punjab FC",
+            "match_id": 140440,
+            "startTime": "07:30:00 PM 21-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140440_english_hls_c6f7a996be67083_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140440_english_hls_c6f7a996be67083_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -307,18 +307,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139417_5802_NJ_MAC_1770723667196.png",
-            "team_1": "Newcastle Jets",
-            "team_2": "Macarthur",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets vs Macarthur",
-            "match_id": 139417,
-            "startTime": "12:30:00 PM 22-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Getafe CF vs Sevilla FC (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131070_5427_GEF_SEV_FC-Web.png",
             "team_1": "Getafe CF",
@@ -328,6 +316,18 @@
             "match_name": "Getafe CF vs Sevilla FC",
             "match_id": 131070,
             "startTime": "06:30:00 PM 22-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139417_5802_NJ_MAC_1770723667196.png",
+            "team_1": "Newcastle Jets",
+            "team_2": "Macarthur",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets vs Macarthur",
+            "match_id": 139417,
+            "startTime": "12:30:00 PM 22-02-2026"
         },
         {
             "event_category": "Football",
@@ -460,6 +460,18 @@
             "match_name": "Center Court",
             "match_id": 140300,
             "startTime": "01:30:00 AM 22-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Villarreal CF vs Valencia CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131072_5427_VIL_VAL_FC-Web.png",
+            "team_1": "Villarreal CF",
+            "team_2": "Valencia CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Villarreal CF vs Valencia CF",
+            "match_id": 131072,
+            "startTime": "01:30:00 AM 23-02-2026"
         }
     ]
 }
