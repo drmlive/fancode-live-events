@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:10:49 AM 21-02-2026",
+    "last update time": "11:20:58 AM 21-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales Breakers vs Tasmania Women (Women's National Cricket League, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v2_1758034980092.jpg",
-            "team_1": "New South Wales Breakers",
-            "team_2": "Tasmania Women",
-            "status": "LIVE",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "New South Wales Breakers vs Tasmania Women",
-            "match_id": 133980,
-            "startTime": "04:30:00 AM 21-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133980_english_hls_8414bffddc72790_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133980_english_hls_8414bffddc72790_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Queensland vs South Australia (One Day Cup, 2025-26)",
@@ -46,6 +32,20 @@
             "adfree_url": null
         },
         {
+            "event_category": "Cricket",
+            "title": "Victoria vs Western Australia (One Day Cup, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Victoria_fc-web.jpg",
+            "team_1": "Victoria",
+            "team_2": "Western Australia",
+            "status": "LIVE",
+            "event_name": "One Day Cup, 2025-26",
+            "match_name": "Victoria vs Western Australia",
+            "match_id": 133948,
+            "startTime": "11:30:00 AM 21-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/QG2diY3nQK2zZnJZrYcQNw/master.m3u8",
+            "adfree_url": null
+        },
+        {
             "event_category": "Football",
             "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
@@ -60,32 +60,6 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139413_english_hls_c160005ede19078_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Tennis",
-            "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
-            "team_1": "World Feed",
-            "team_2": "Rio de Janeiro, Brazil",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "World Feed",
-            "match_id": 140289,
-            "startTime": "01:30:00 AM 21-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Victoria vs Western Australia (One Day Cup, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Western-Australia-vs-Victoria_fc-web.jpg",
-            "team_1": "Victoria",
-            "team_2": "Western Australia",
-            "status": "UPCOMING",
-            "event_name": "One Day Cup, 2025-26",
-            "match_name": "Victoria vs Western Australia",
-            "match_id": 133948,
-            "startTime": "11:30:00 AM 21-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Sydney FC vs Brisbane Roar (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139414_5802_SYD_BRB_1770723002209.png",
@@ -98,6 +72,20 @@
             "startTime": "11:30:00 AM 21-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139414_english_hls_f1fc11c95a98372_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139414_english_hls_f1fc11c95a98372_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
+            "team_1": "World Feed",
+            "team_2": "Rio de Janeiro, Brazil",
+            "status": "LIVE",
+            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
+            "match_name": "World Feed",
+            "match_id": 140289,
+            "startTime": "01:30:00 AM 21-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -446,6 +434,18 @@
             "match_name": "Center Court",
             "match_id": 140758,
             "startTime": "11:30:00 PM 21-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139417_5802_NJ_MAC_1770723667196.png",
+            "team_1": "Newcastle Jets",
+            "team_2": "Macarthur",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets vs Macarthur",
+            "match_id": 139417,
+            "startTime": "12:30:00 PM 22-02-2026"
         },
         {
             "event_category": "Tennis",
