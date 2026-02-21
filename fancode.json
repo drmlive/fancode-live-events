@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:27:44 PM 21-02-2026",
+    "last update time": "10:37:51 PM 21-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Southampton F.C. vs Charlton Athletic F.C (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140124_5489_SOU_CHL_fc-web_1771681366940.jpg",
-            "team_1": "Southampton F.C.",
-            "team_2": "Charlton Athletic F.C",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton F.C. vs Charlton Athletic F.C",
-            "match_id": 140124,
-            "startTime": "08:30:00 PM 21-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140124_english_hls_e5cf35b13920993_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140124_english_hls_e5cf35b13920993_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Betis vs Rayo Vallecano (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131078_5427_RB_RVL_FC-Web.png",
             "team_1": "Real Betis",
@@ -44,6 +30,20 @@
             "startTime": "08:45:00 PM 21-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131078_english_hls_3486ed0d3063401_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131078_english_hls_3486ed0d3063401_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "CA Osasuna vs Real Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131071_5427_OSN_RM_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Real Madrid",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "CA Osasuna vs Real Madrid",
+            "match_id": 131071,
+            "startTime": "11:00:00 PM 21-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131071_english_hls_3e04b7ad7d46925_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131071_english_hls_3e04b7ad7d46925_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -103,15 +103,17 @@
         },
         {
             "event_category": "Football",
-            "title": "CA Osasuna vs Real Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131071_5427_OSN_RM_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Real Madrid",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "CA Osasuna vs Real Madrid",
-            "match_id": 131071,
-            "startTime": "11:00:00 PM 21-02-2026"
+            "title": "Southampton F.C. vs Charlton Athletic F.C (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140124_5489_SOU_CHL_fc-web_1771681366940.jpg",
+            "team_1": "Southampton F.C.",
+            "team_2": "Charlton Athletic F.C",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Southampton F.C. vs Charlton Athletic F.C",
+            "match_id": 140124,
+            "startTime": "08:30:00 PM 21-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140124_english_hls_e5cf35b13920993_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140124_english_hls_e5cf35b13920993_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -162,18 +164,6 @@
             "startTime": "12:30:00 AM 22-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131076_5427_ATL_ESL_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "RCD Espanyol",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Atletico de Madrid vs RCD Espanyol",
-            "match_id": 131076,
-            "startTime": "01:30:00 AM 22-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Diasqua Little Sai Wan Cricket Club Women vs Hong Kong Cricket Club Women (Women's Premier League T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web_2.jpg",
@@ -184,6 +174,18 @@
             "match_name": "Diasqua Little Sai Wan Cricket Club Women vs Hong Kong Cricket Club Women",
             "match_id": 140610,
             "startTime": "07:00:00 AM 22-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131076_5427_ATL_ESL_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "RCD Espanyol",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Atletico de Madrid vs RCD Espanyol",
+            "match_id": 131076,
+            "startTime": "01:30:00 AM 22-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -330,6 +332,42 @@
             "startTime": "12:30:00 PM 22-02-2026"
         },
         {
+            "event_category": "Golf",
+            "title": "World Feed - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
+            "team_1": "World Feed - Day 3",
+            "team_2": "The Riviera Country Club",
+            "status": "UPCOMING",
+            "event_name": "The Genesis Invitational 2026",
+            "match_name": "World Feed - Day 3",
+            "match_id": 140070,
+            "startTime": "11:30:00 PM 21-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_Alcaraz_Fils_web.jpg",
+            "team_1": "World Feed",
+            "team_2": "Doha, Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "World Feed",
+            "match_id": 140213,
+            "startTime": "11:30:00 PM 21-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Center Court vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_Alcaraz_Fils_web.jpg",
+            "team_1": "Center Court",
+            "team_2": "Doha, Qatar",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
+            "match_name": "Center Court",
+            "match_id": 140758,
+            "startTime": "11:30:00 PM 21-02-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Kerala Blasters FC vs Mumbai City FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140442_5956_KBFC_MCFC_fc-web_1771412946418.jpg",
@@ -388,42 +426,6 @@
             "match_name": "RC Celta vs RCD Mallorca",
             "match_id": 131079,
             "startTime": "11:00:00 PM 22-02-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "World Feed - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
-            "team_1": "World Feed - Day 3",
-            "team_2": "The Riviera Country Club",
-            "status": "UPCOMING",
-            "event_name": "The Genesis Invitational 2026",
-            "match_name": "World Feed - Day 3",
-            "match_id": 140070,
-            "startTime": "11:30:00 PM 21-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_Alcaraz_Fils_web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Doha, Qatar",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-            "match_name": "World Feed",
-            "match_id": 140213,
-            "startTime": "11:30:00 PM 21-02-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Center Court vs Doha, Qatar (ATP 500 - Qatar ExxonMobil Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Qatar_Alcaraz_Fils_web.jpg",
-            "team_1": "Center Court",
-            "team_2": "Doha, Qatar",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Qatar ExxonMobil Open 2026",
-            "match_name": "Center Court",
-            "match_id": 140758,
-            "startTime": "11:30:00 PM 21-02-2026"
         },
         {
             "event_category": "Tennis",
