@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:11:25 PM 21-02-2026",
+    "last update time": "12:21:32 PM 21-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,6 +32,20 @@
             "adfree_url": null
         },
         {
+            "event_category": "Cricket",
+            "title": "Paarl East Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140678_5968_PECC_PRC_FC-Web.jpg",
+            "team_1": "Paarl East Cricket Club",
+            "team_2": "Paarl CC",
+            "status": "LIVE",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Paarl East Cricket Club vs Paarl CC",
+            "match_id": 140678,
+            "startTime": "12:30:00 PM 21-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140678_english_hls_6141da286025496_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140678_english_hls_6141da286025496_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Football",
             "title": "Sydney FC vs Brisbane Roar (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139414_5802_SYD_BRB_1770723002209.png",
@@ -44,32 +58,6 @@
             "startTime": "11:30:00 AM 21-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139414_english_hls_f1fc11c95a98372_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139414_english_hls_f1fc11c95a98372_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1770654460574.png",
-            "team_1": "World Feed",
-            "team_2": "Rio de Janeiro, Brazil",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "World Feed",
-            "match_id": 140289,
-            "startTime": "01:30:00 AM 21-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140289_english_hls_dfd9e8fb3e20043_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Paarl East Cricket Club vs Paarl CC (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140678_5968_PECC_PRC_FC-Web.jpg",
-            "team_1": "Paarl East Cricket Club",
-            "team_2": "Paarl CC",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Paarl East Cricket Club vs Paarl CC",
-            "match_id": 140678,
-            "startTime": "12:30:00 PM 21-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -252,18 +240,6 @@
             "startTime": "07:00:00 AM 22-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
-            "team_1": "Melbourne City",
-            "team_2": "Melbourne Victory",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne City vs Melbourne Victory",
-            "match_id": 139415,
-            "startTime": "02:05:00 PM 21-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Lantau Cricket Club Women vs Kowloon Cricket Club Women (Women's Premier League T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web.jpg",
@@ -274,6 +250,18 @@
             "match_name": "Lantau Cricket Club Women vs Kowloon Cricket Club Women",
             "match_id": 140609,
             "startTime": "07:30:00 AM 22-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne City vs Melbourne Victory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139415_5802_MLC_MLV_1770723177598.png",
+            "team_1": "Melbourne City",
+            "team_2": "Melbourne Victory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne City vs Melbourne Victory",
+            "match_id": 139415,
+            "startTime": "02:05:00 PM 21-02-2026"
         },
         {
             "event_category": "Football",
@@ -396,6 +384,18 @@
             "startTime": "11:00:00 PM 21-02-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
+            "team_1": "England Lions",
+            "team_2": "Pakistan Shaheens",
+            "status": "UPCOMING",
+            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
+            "match_name": "England Lions vs Pakistan Shaheens",
+            "match_id": 140662,
+            "startTime": "03:30:00 PM 22-02-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "World Feed - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
@@ -430,18 +430,6 @@
             "match_name": "Center Court",
             "match_id": 140758,
             "startTime": "11:30:00 PM 21-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
-            "team_1": "England Lions",
-            "team_2": "Pakistan Shaheens",
-            "status": "UPCOMING",
-            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
-            "match_name": "England Lions vs Pakistan Shaheens",
-            "match_id": 140662,
-            "startTime": "03:30:00 PM 22-02-2026"
         },
         {
             "event_category": "Tennis",
