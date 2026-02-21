@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:51:14 AM 21-02-2026",
+    "last update time": "12:01:20 PM 21-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "11:30:00 AM 21-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/QG2diY3nQK2zZnJZrYcQNw/master.m3u8",
             "adfree_url": null
-        },
-        {
-            "event_category": "Football",
-            "title": "Wellington Phoenix vs Auckland (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139413_5802_WEL_AFC_1770722675928.png",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Auckland",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Wellington Phoenix vs Auckland",
-            "match_id": 139413,
-            "startTime": "09:30:00 AM 21-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139413_english_hls_c160005ede19078_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139413_english_hls_c160005ede19078_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -350,6 +336,18 @@
             "startTime": "11:30:00 AM 22-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139417_5802_NJ_MAC_1770723667196.png",
+            "team_1": "Newcastle Jets",
+            "team_2": "Macarthur",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Newcastle Jets vs Macarthur",
+            "match_id": 139417,
+            "startTime": "12:30:00 PM 22-02-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Featured Groups - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
@@ -384,18 +382,6 @@
             "match_name": "Marquee Group - Day 3",
             "match_id": 140573,
             "startTime": "09:15:00 PM 21-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Newcastle Jets vs Macarthur (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139417_5802_NJ_MAC_1770723667196.png",
-            "team_1": "Newcastle Jets",
-            "team_2": "Macarthur",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets vs Macarthur",
-            "match_id": 139417,
-            "startTime": "12:30:00 PM 22-02-2026"
         },
         {
             "event_category": "Tennis",
@@ -468,6 +454,18 @@
             "match_name": "Center Court",
             "match_id": 140300,
             "startTime": "01:30:00 AM 22-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "England Lions vs Pakistan Shaheens (England Lions and Pakistan Shaheens tour of UAE)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(2)_1771323008079.png",
+            "team_1": "England Lions",
+            "team_2": "Pakistan Shaheens",
+            "status": "UPCOMING",
+            "event_name": "England Lions and Pakistan Shaheens tour of UAE",
+            "match_name": "England Lions vs Pakistan Shaheens",
+            "match_id": 140662,
+            "startTime": "03:30:00 PM 22-02-2026"
         }
     ]
 }
