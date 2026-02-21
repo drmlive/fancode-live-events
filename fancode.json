@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:26:23 PM 21-02-2026",
+    "last update time": "08:36:31 PM 21-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -65,11 +65,13 @@
             "src": "https://images.fancode.com/aig/match/v1770347072522/140425_CASACARDS_APP.png",
             "team_1": "Deportivo La Coruna",
             "team_2": "Eibar",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA Hypermotion 2025-26",
             "match_name": "Deportivo La Coruna vs Eibar",
             "match_id": 140425,
-            "startTime": "08:45:00 PM 21-02-2026"
+            "startTime": "08:45:00 PM 21-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140425_english_hls_aee8c684b835426_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140425_english_hls_aee8c684b835426_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -228,6 +230,30 @@
             "startTime": "03:30:00 PM 22-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Bengaluru FC vs NorthEast United FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140441_5956_BFC_NEUFC_fc-web_1771412946471.jpg",
+            "team_1": "Bengaluru FC",
+            "team_2": "NorthEast United FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Bengaluru FC vs NorthEast United FC",
+            "match_id": 140441,
+            "startTime": "05:00:00 PM 22-02-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Paarl CC vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140682_5968_PRC_VDS_FC-Web.jpg",
+            "team_1": "Paarl CC",
+            "team_2": "Vredenburg/Saldanha CC",
+            "status": "UPCOMING",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Paarl CC vs Vredenburg/Saldanha CC",
+            "match_id": 140682,
+            "startTime": "05:30:00 PM 22-02-2026"
+        },
+        {
             "event_category": "Golf",
             "title": "Featured Groups - Day 3 vs The Riviera Country Club (The Genesis Invitational 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1770825129935.png",
@@ -265,26 +291,14 @@
         },
         {
             "event_category": "Football",
-            "title": "Bengaluru FC vs NorthEast United FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140441_5956_BFC_NEUFC_fc-web_1771412946471.jpg",
-            "team_1": "Bengaluru FC",
-            "team_2": "NorthEast United FC",
+            "title": "Sheffield United F.C. vs Sheffield Wednesday F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140125_5489_SHF_SHFF_fc-web.jpg",
+            "team_1": "Sheffield United F.C.",
+            "team_2": "Sheffield Wednesday F.C.",
             "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Bengaluru FC vs NorthEast United FC",
-            "match_id": 140441,
-            "startTime": "05:00:00 PM 22-02-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Paarl CC vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140682_5968_PRC_VDS_FC-Web.jpg",
-            "team_1": "Paarl CC",
-            "team_2": "Vredenburg/Saldanha CC",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Paarl CC vs Vredenburg/Saldanha CC",
-            "match_id": 140682,
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Sheffield United F.C. vs Sheffield Wednesday F.C.",
+            "match_id": 140125,
             "startTime": "05:30:00 PM 22-02-2026"
         },
         {
@@ -298,18 +312,6 @@
             "match_name": "Central Coast Mariners vs Western Sydney Wanderers",
             "match_id": 139416,
             "startTime": "11:30:00 AM 22-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sheffield United F.C. vs Sheffield Wednesday F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140125_5489_SHF_SHFF_fc-web.jpg",
-            "team_1": "Sheffield United F.C.",
-            "team_2": "Sheffield Wednesday F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Sheffield United F.C. vs Sheffield Wednesday F.C.",
-            "match_id": 140125,
-            "startTime": "05:30:00 PM 22-02-2026"
         },
         {
             "event_category": "Football",
@@ -384,6 +386,18 @@
             "startTime": "10:00:00 PM 22-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "RC Celta vs RCD Mallorca (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131079_5427_CEV_MRC_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "RCD Mallorca",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RC Celta vs RCD Mallorca",
+            "match_id": 131079,
+            "startTime": "11:00:00 PM 22-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "Quadra Guga Kuerten vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
@@ -430,18 +444,6 @@
             "match_name": "Center Court",
             "match_id": 140758,
             "startTime": "11:30:00 PM 21-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "RC Celta vs RCD Mallorca (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131079_5427_CEV_MRC_FC-Web.png",
-            "team_1": "RC Celta",
-            "team_2": "RCD Mallorca",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "RC Celta vs RCD Mallorca",
-            "match_id": 131079,
-            "startTime": "11:00:00 PM 22-02-2026"
         },
         {
             "event_category": "Tennis",
