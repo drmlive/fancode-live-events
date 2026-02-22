@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:22:58 AM 22-02-2026",
+    "last update time": "07:33:04 AM 22-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "01:30:00 AM 22-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140300_english_hls_6dd77d72f383421_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140300_english_hls_6dd77d72f383421_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Quadra 1 vs Rio de Janeiro, Brazil (ATP 500 - Rio Open Presented by Claro 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(6).png",
-            "team_1": "Quadra 1",
-            "team_2": "Rio de Janeiro, Brazil",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Rio Open Presented by Claro 2026",
-            "match_name": "Quadra 1",
-            "match_id": 140890,
-            "startTime": "12:00:00 AM 22-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140890_english_hls_32cb9f97e513411_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140890_english_hls_32cb9f97e513411_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -444,6 +430,42 @@
             "match_name": "Maties Cricket Club vs Van der Stel Cricket Club",
             "match_id": 140684,
             "startTime": "10:00:00 PM 23-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Qadsiah FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140700_5655_ALQ_ETT_fc-web.jpg",
+            "team_1": "Al-Qadsiah FC",
+            "team_2": "Al-Ettifaq",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Qadsiah FC vs Al-Ettifaq",
+            "match_id": 140700,
+            "startTime": "12:30:00 AM 24-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "New Court - 1 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "New Court - 1",
+            "team_2": "Dubai, United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+            "match_name": "New Court - 1",
+            "match_id": 140892,
+            "startTime": "03:30:00 PM 23-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "World Feed",
+            "team_2": "Dubai, United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+            "match_name": "World Feed",
+            "match_id": 140891,
+            "startTime": "03:30:00 PM 23-02-2026"
         }
     ]
 }
