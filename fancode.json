@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:15:18 AM 22-02-2026",
+    "last update time": "11:25:23 AM 22-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
-            "team_1": "ACT Meteors",
-            "team_2": "South Australian Scorpions",
-            "status": "LIVE",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "ACT Meteors vs South Australian Scorpions",
-            "match_id": 133982,
-            "startTime": "04:30:00 AM 22-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/133982_english_hls_0a41ee57bc36345_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/133982_english_hls_0a41ee57bc36345_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Diasqua Little Sai Wan Cricket Club vs Hong Kong Cricket Club (Premier League T20 2026)",
@@ -33,27 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg",
-            "team_1": "West Indies Women",
-            "team_2": "Sri Lanka Women",
-            "status": "UPCOMING",
-            "event_name": "Sri Lanka Women tour of West Indies, 2026",
-            "match_name": "West Indies Women vs Sri Lanka Women",
-            "match_id": 140139,
-            "startTime": "07:00:00 PM 22-02-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "United Services Recreation Club vs Kowloon Cricket Club (Premier League T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Premier-League-T20-2026-old-match-card.jpg",
             "team_1": "United Services Recreation Club",
             "team_2": "Kowloon Cricket Club",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Premier League T20 2026",
             "match_name": "United Services Recreation Club vs Kowloon Cricket Club",
             "match_id": 140616,
-            "startTime": "11:30:00 AM 22-02-2026"
+            "startTime": "11:30:00 AM 22-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140616_english_hls_49dc98e7af12694_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140616_english_hls_49dc98e7af12694_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -68,6 +44,18 @@
             "startTime": "11:30:00 AM 22-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139416_english_hls_f2e88d4f8d88432_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139416_english_hls_f2e88d4f8d88432_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies Women vs Sri Lanka Women (Sri Lanka Women tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Women-tour-of-West-Indies,-2026-old-card_1771585889068.jpg",
+            "team_1": "West Indies Women",
+            "team_2": "Sri Lanka Women",
+            "status": "UPCOMING",
+            "event_name": "Sri Lanka Women tour of West Indies, 2026",
+            "match_name": "West Indies Women vs Sri Lanka Women",
+            "match_id": 140139,
+            "startTime": "07:00:00 PM 22-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -464,6 +452,18 @@
             "match_name": "C\u00e1diz vs Real Sociedad B",
             "match_id": 140427,
             "startTime": "01:00:00 AM 24-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Walsall vs MK Dons (League Two 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
+            "team_1": "Walsall",
+            "team_2": "MK Dons",
+            "status": "UPCOMING",
+            "event_name": "League Two 2025-26",
+            "match_name": "Walsall vs MK Dons",
+            "match_id": 140019,
+            "startTime": "01:30:00 AM 24-02-2026"
         }
     ]
 }
