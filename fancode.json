@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:30:08 AM 24-02-2026",
+    "last update time": "03:40:14 AM 24-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Deportivo Alaves vs Girona FC (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131074_5427_ALA_GIR_FC-Web.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "Girona FC",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Deportivo Alaves vs Girona FC",
-            "match_id": 131074,
-            "startTime": "01:30:00 AM 24-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131074_english_hls_467483908f84437_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131074_english_hls_467483908f84437_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Walsall vs MK Dons (League Two 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/League-Two-2025-26_match-card.jpg",
-            "team_1": "Walsall",
-            "team_2": "MK Dons",
-            "status": "LIVE",
-            "event_name": "League Two 2025-26",
-            "match_name": "Walsall vs MK Dons",
-            "match_id": 140019,
-            "startTime": "01:30:00 AM 24-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140019_english_hls_99ac80687690410_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140019_english_hls_99ac80687690410_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
@@ -58,6 +30,20 @@
             "startTime": "03:30:00 AM 24-02-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/_3HhISPTSDSqb6-bFrOuOA/master.m3u8",
             "adfree_url": null
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo Alaves vs Girona FC (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131074_5427_ALA_GIR_FC-Web.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "Girona FC",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Deportivo Alaves vs Girona FC",
+            "match_id": 131074,
+            "startTime": "01:30:00 AM 24-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131074_english_hls_467483908f84437_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131074_english_hls_467483908f84437_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -465,6 +451,18 @@
             "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
             "match_name": "World Feed",
             "match_id": 140898,
+            "startTime": "03:30:00 PM 25-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court 2 vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+            "team_1": "Court 2",
+            "team_2": "Dubai, United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+            "match_name": "Court 2",
+            "match_id": 140897,
             "startTime": "03:30:00 PM 25-02-2026"
         }
     ]
