@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:04:35 PM 23-02-2026",
+    "last update time": "07:14:42 PM 23-02-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "Mohun Bagan Super Giant vs Chennaiyin FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140443_5956_MBSG_CFC_fc-web_1771412946450.jpg",
+            "team_1": "Mohun Bagan Super Giant",
+            "team_2": "Chennaiyin FC",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26",
+            "match_name": "Mohun Bagan Super Giant vs Chennaiyin FC",
+            "match_id": 140443,
+            "startTime": "07:30:00 PM 23-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140443_english_hls_ef283301ce44445_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140443_english_hls_ef283301ce44445_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "Centre Court vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
@@ -47,27 +61,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Mohun Bagan Super Giant vs Chennaiyin FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140443_5956_MBSG_CFC_fc-web_1771412946450.jpg",
-            "team_1": "Mohun Bagan Super Giant",
-            "team_2": "Chennaiyin FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Mohun Bagan Super Giant vs Chennaiyin FC",
-            "match_id": 140443,
-            "startTime": "07:30:00 PM 23-02-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Mohun Bagan Super Giant vs Chennaiyin FC (ISL 2025-26  - Regional)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140443_5956_MBSG_CFC_fc-web_1771821423041.jpg",
             "team_1": "Mohun Bagan Super Giant",
             "team_2": "Chennaiyin FC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ISL 2025-26  - Regional",
             "match_name": "Mohun Bagan Super Giant vs Chennaiyin FC",
             "match_id": 140889,
-            "startTime": "07:30:00 PM 23-02-2026"
+            "startTime": "07:30:00 PM 23-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140889_bengali_hls_c7ded77a2133560_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140889_bengali_hls_c7ded77a2133560_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -94,18 +98,6 @@
             "startTime": "10:00:00 PM 23-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Al-Qadsiah FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140700_5655_ALQ_ETT_fc-web.jpg",
-            "team_1": "Al-Qadsiah FC",
-            "team_2": "Al-Ettifaq",
-            "status": "UPCOMING",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Qadsiah FC vs Al-Ettifaq",
-            "match_id": 140700,
-            "startTime": "12:30:00 AM 24-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "ACT Meteors vs South Australian Scorpions (Women's National Cricket League, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg",
@@ -116,6 +108,18 @@
             "match_name": "ACT Meteors vs South Australian Scorpions",
             "match_id": 133985,
             "startTime": "04:30:00 AM 24-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Qadsiah FC vs Al-Ettifaq (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140700_5655_ALQ_ETT_fc-web.jpg",
+            "team_1": "Al-Qadsiah FC",
+            "team_2": "Al-Ettifaq",
+            "status": "UPCOMING",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Qadsiah FC vs Al-Ettifaq",
+            "match_id": 140700,
+            "startTime": "12:30:00 AM 24-02-2026"
         },
         {
             "event_category": "Football",
