@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:09:53 AM 24-02-2026",
+    "last update time": "03:20:01 AM 24-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "01:30:00 AM 24-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131074_english_hls_467483908f84437_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131074_english_hls_467483908f84437_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "C\u00e1diz vs Real Sociedad B (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1770347072509/140427_CASACARDS_APP.png",
-            "team_1": "C\u00e1diz",
-            "team_2": "Real Sociedad B",
-            "status": "LIVE",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "C\u00e1diz vs Real Sociedad B",
-            "match_id": 140427,
-            "startTime": "01:00:00 AM 24-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140427_english_hls_4d40ff138959596_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140427_english_hls_4d40ff138959596_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -58,6 +44,20 @@
             "startTime": "09:30:00 PM 23-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140357_english_hls_a30faa2f5741221_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Atlanta vs Boston vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Atlanta vs Boston",
+            "team_2": "Florida",
+            "status": "LIVE",
+            "event_name": "TGL Season 2",
+            "match_name": "Atlanta vs Boston",
+            "match_id": 139171,
+            "startTime": "03:30:00 AM 24-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/_3HhISPTSDSqb6-bFrOuOA/master.m3u8",
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -106,18 +106,6 @@
             "match_name": "Paarl CC vs Maties Cricket Club",
             "match_id": 140685,
             "startTime": "10:00:00 PM 24-02-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Atlanta vs Boston vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Atlanta vs Boston",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Atlanta vs Boston",
-            "match_id": 139171,
-            "startTime": "03:30:00 AM 24-02-2026"
         },
         {
             "event_category": "Football",
@@ -465,6 +453,18 @@
             "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
             "match_name": "Centre Court",
             "match_id": 140899,
+            "startTime": "03:30:00 PM 25-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+            "team_1": "World Feed",
+            "team_2": "Dubai, United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+            "match_name": "World Feed",
+            "match_id": 140898,
             "startTime": "03:30:00 PM 25-02-2026"
         }
     ]
