@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:59:58 PM 24-02-2026",
+    "last update time": "07:10:06 PM 24-02-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -79,11 +79,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140444_5956_ODS_IK_fc-web_1771412946494.jpg",
             "team_1": "Odisha FC",
             "team_2": "Inter Kashi FC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ISL 2025-26",
             "match_name": "Odisha FC vs Inter Kashi FC",
             "match_id": 140444,
-            "startTime": "07:30:00 PM 24-02-2026"
+            "startTime": "07:30:00 PM 24-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140444_english_hls_dba160238263461_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140444_english_hls_dba160238263461_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -230,18 +232,6 @@
             "startTime": "09:30:00 PM 24-02-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "New York vs The Bay vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "New York vs The Bay",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "New York vs The Bay",
-            "match_id": 139173,
-            "startTime": "03:30:00 AM 25-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Paarl East Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140686_5968_PECC_VDS_FC-Web.jpg",
@@ -252,6 +242,18 @@
             "match_name": "Paarl East Cricket Club vs Vredenburg/Saldanha CC",
             "match_id": 140686,
             "startTime": "10:00:00 PM 25-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "New York vs The Bay vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "New York vs The Bay",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "New York vs The Bay",
+            "match_id": 139173,
+            "startTime": "03:30:00 AM 25-02-2026"
         },
         {
             "event_category": "Tennis",
