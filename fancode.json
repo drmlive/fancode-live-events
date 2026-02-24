@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:12:24 AM 24-02-2026",
+    "last update time": "07:22:32 AM 24-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -88,6 +88,20 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140829_english_hls_ce63c6a72971170_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Golf",
+            "title": "Los Angeles vs Atlanta vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Los Angeles vs Atlanta",
+            "team_2": "Florida",
+            "status": "LIVE",
+            "event_name": "TGL Season 2",
+            "match_name": "Los Angeles vs Atlanta",
+            "match_id": 139172,
+            "startTime": "07:30:00 AM 24-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/PD_kQtRkRUCp0LbN_J5FxA/master.m3u8",
+            "adfree_url": null
+        },
+        {
             "event_category": "Football",
             "title": "Odisha FC vs Inter Kashi FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140444_5956_ODS_IK_fc-web_1771412946494.jpg",
@@ -146,18 +160,6 @@
             "match_name": "Southampton F.C. vs Queens Park Rangers F.C.",
             "match_id": 140126,
             "startTime": "01:30:00 AM 25-02-2026"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Los Angeles vs Atlanta vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Los Angeles vs Atlanta",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Los Angeles vs Atlanta",
-            "match_id": 139172,
-            "startTime": "07:30:00 AM 24-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -268,18 +270,6 @@
             "startTime": "10:45:00 AM 25-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-            "team_1": "Court Jaime Fillol",
-            "team_2": "Santiago, Chile",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
-            "match_name": "Court Jaime Fillol",
-            "match_id": 140358,
-            "startTime": "09:30:00 PM 24-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Los Angeles Football Club vs Real Espa\u00f1a (CONCACAF Champions Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140385_5954_LAF_RE_FC-Web.jpg",
@@ -290,6 +280,18 @@
             "match_name": "Los Angeles Football Club vs Real Espa\u00f1a",
             "match_id": 140385,
             "startTime": "08:30:00 AM 25-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+            "team_1": "Court Jaime Fillol",
+            "team_2": "Santiago, Chile",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
+            "match_name": "Court Jaime Fillol",
+            "match_id": 140358,
+            "startTime": "09:30:00 PM 24-02-2026"
         },
         {
             "event_category": "Cricket",
