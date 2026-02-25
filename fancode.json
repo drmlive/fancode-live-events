@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:10:39 AM 25-02-2026",
+    "last update time": "10:20:47 AM 25-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -86,34 +86,6 @@
             "startTime": "05:30:00 AM 25-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140833_english_hls_0a5ee2ba7581839_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140833_english_hls_0a5ee2ba7581839_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Cancha 2 vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
-            "team_1": "Cancha 2",
-            "team_2": "Acapulco, Mexico",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Abierto Mexicano Telcel",
-            "match_name": "Cancha 2",
-            "match_id": 140832,
-            "startTime": "06:30:00 AM 25-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140832_english_hls_ac5daef3293406_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140832_english_hls_ac5daef3293406_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Boston vs New York vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Boston vs New York",
-            "team_2": "Florida",
-            "status": "LIVE",
-            "event_name": "TGL Season 2",
-            "match_name": "Boston vs New York",
-            "match_id": 139174,
-            "startTime": "07:30:00 AM 25-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/-vD6SqHwQPaTd1LBk-yk8w/master.m3u8",
-            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -474,6 +446,30 @@
             "match_name": "Featured Groups - Day 1",
             "match_id": 140766,
             "startTime": "05:00:00 PM 26-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Holes - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+            "team_1": "Featured Holes - Day 1",
+            "team_2": "PGA National Resort, Florida",
+            "status": "UPCOMING",
+            "event_name": "Cognizant Classic in The Palm Beaches 2026",
+            "match_name": "Featured Holes - Day 1",
+            "match_id": 140767,
+            "startTime": "05:15:00 PM 26-02-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cognizant-Classic-in-The-Palm-Beaches-2026-old-match-card-.png",
+            "team_1": "Marquee Group - Day 1",
+            "team_2": "PGA National Resort, Florida",
+            "status": "UPCOMING",
+            "event_name": "Cognizant Classic in The Palm Beaches 2026",
+            "match_name": "Marquee Group - Day 1",
+            "match_id": 140765,
+            "startTime": "05:15:00 PM 26-02-2026"
         }
     ]
 }
