@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:44:33 PM 25-02-2026",
+    "last update time": "02:54:44 PM 25-02-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_fc-web.jpg",
-            "team_1": "New Zealand Women",
-            "team_2": "Zimbabwe Women",
-            "status": "LIVE",
-            "event_name": "Zimbabwe Women tour of New Zealand, 2026",
-            "match_name": "New Zealand Women vs Zimbabwe Women",
-            "match_id": 140593,
-            "startTime": "11:45:00 AM 25-02-2026",
-            "dai_url": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
-            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21NZVSZM/master.m3u8?hdnea=exp=1772043119~acl=/*~id=81017098067055466734587283835906~hmac=45771fe904dab97c1bf8bd5ae30db496efb8e46f7f2db642a647ecb62440eff2"
-        },
         {
             "event_category": "Cricket",
             "title": "Bhutan vs Bahrain (Thailand Open Men's T20I Series 2026)",
@@ -30,6 +16,20 @@
             "startTime": "12:00:00 PM 25-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140670_english_hls_cd544372d022564_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140670_english_hls_cd544372d022564_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_fc-web.jpg",
+            "team_1": "New Zealand Women",
+            "team_2": "Zimbabwe Women",
+            "status": "LIVE",
+            "event_name": "Zimbabwe Women tour of New Zealand, 2026",
+            "match_name": "New Zealand Women vs Zimbabwe Women",
+            "match_id": 140593,
+            "startTime": "11:45:00 AM 25-02-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21NZVSZM/master.m3u8?hdnea=exp=1772043119~acl=/*~id=81017098067055466734587283835906~hmac=45771fe904dab97c1bf8bd5ae30db496efb8e46f7f2db642a647ecb62440eff2"
         },
         {
             "event_category": "Cricket",
@@ -152,18 +152,6 @@
             "startTime": "03:30:00 PM 25-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "FC Cincinnati vs O&M FC (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140386_5954_CIN_OMF_FC-Web.jpg",
-            "team_1": "FC Cincinnati",
-            "team_2": "O&M FC",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "FC Cincinnati vs O&M FC",
-            "match_id": 140386,
-            "startTime": "05:30:00 AM 26-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Japan vs Bahrain (Thailand Open Men's T20I Series 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140672_5970_JPN_BAH_fc-web.jpg",
@@ -174,6 +162,18 @@
             "match_name": "Japan vs Bahrain",
             "match_id": 140672,
             "startTime": "12:00:00 PM 26-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Cincinnati vs O&M FC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140386_5954_CIN_OMF_FC-Web.jpg",
+            "team_1": "FC Cincinnati",
+            "team_2": "O&M FC",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "FC Cincinnati vs O&M FC",
+            "match_id": 140386,
+            "startTime": "05:30:00 AM 26-02-2026"
         },
         {
             "event_category": "Football",
