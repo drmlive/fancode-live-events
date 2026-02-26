@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:19:17 PM 26-02-2026",
+    "last update time": "09:39:31 PM 26-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "FC Goa vs Sporting Club Delhi (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140445_5956_FCG_SCD_fc-web_1771412946473.jpg",
-            "team_1": "FC Goa",
-            "team_2": "Sporting Club Delhi",
-            "status": "LIVE",
-            "event_name": "ISL 2025-26",
-            "match_name": "FC Goa vs Sporting Club Delhi",
-            "match_id": 140445,
-            "startTime": "07:30:00 PM 26-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140445_english_hls_4594eb7c9a5499_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140445_english_hls_4594eb7c9a5499_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "World Feed vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
@@ -114,6 +100,20 @@
             "startTime": "09:30:00 PM 26-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140360_english_hls_9d2a98691631145_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140360_english_hls_9d2a98691631145_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Goa vs Sporting Club Delhi (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140445_5956_FCG_SCD_fc-web_1771412946473.jpg",
+            "team_1": "FC Goa",
+            "team_2": "Sporting Club Delhi",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26",
+            "match_name": "FC Goa vs Sporting Club Delhi",
+            "match_id": 140445,
+            "startTime": "07:30:00 PM 26-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140445_english_hls_4594eb7c9a5499_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140445_english_hls_4594eb7c9a5499_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -332,18 +332,6 @@
             "startTime": "05:30:00 AM 27-02-2026"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 1 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
-            "team_1": "Day 1",
-            "team_2": "Buriram International Circuit",
-            "status": "UPCOMING",
-            "event_name": "PT GRAND PRIX OF THAILAND 2026",
-            "match_name": "Thailand GP",
-            "match_id": 139924,
-            "startTime": "07:30:00 AM 27-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Al-Shabab FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140702_5655_ASF_AHS_fc-web.jpg",
@@ -356,16 +344,16 @@
             "startTime": "12:30:00 AM 28-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Centre Court vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
-            "team_1": "Centre Court",
-            "team_2": "Dubai, United Arab Emirates",
+            "event_category": "MotoGP",
+            "title": "Day 1 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
+            "team_1": "Day 1",
+            "team_2": "Buriram International Circuit",
             "status": "UPCOMING",
-            "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
-            "match_name": "Centre Court",
-            "match_id": 140349,
-            "startTime": "03:00:00 PM 27-02-2026"
+            "event_name": "PT GRAND PRIX OF THAILAND 2026",
+            "match_name": "Thailand GP",
+            "match_id": 139924,
+            "startTime": "07:30:00 AM 27-02-2026"
         },
         {
             "event_category": "Football",
@@ -390,6 +378,18 @@
             "match_name": "Bristol City F.C. vs Watford F.C.",
             "match_id": 140128,
             "startTime": "01:30:00 AM 28-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Centre Court vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+            "team_1": "Centre Court",
+            "team_2": "Dubai, United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+            "match_name": "Centre Court",
+            "match_id": 140349,
+            "startTime": "03:00:00 PM 27-02-2026"
         },
         {
             "event_category": "Golf",
@@ -440,18 +440,6 @@
             "startTime": "06:00:00 PM 27-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "World Feed vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Dubai, United Arab Emirates",
-            "status": "UPCOMING",
-            "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
-            "match_name": "World Feed",
-            "match_id": 140902,
-            "startTime": "06:30:00 PM 27-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Albacete vs Almer\u00eda (LALIGA Hypermotion 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -462,6 +450,18 @@
             "match_name": "Albacete vs Almer\u00eda",
             "match_id": 140821,
             "startTime": "01:00:00 AM 28-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "World Feed vs Dubai, United Arab Emirates (ATP 500 - Dubai Duty Free Tennis Championship 2026)",
+            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dubai-Duty-Free-Tennis-Championships_fc-web.jpg",
+            "team_1": "World Feed",
+            "team_2": "Dubai, United Arab Emirates",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Dubai Duty Free Tennis Championship 2026",
+            "match_name": "World Feed",
+            "match_id": 140902,
+            "startTime": "06:30:00 PM 27-02-2026"
         }
     ]
 }
