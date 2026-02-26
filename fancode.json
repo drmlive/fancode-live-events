@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:53:13 AM 27-02-2026",
+    "last update time": "03:03:19 AM 27-02-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al-Riyadh SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140701_5655_ALR_AAS_fc-web.jpg",
-            "team_1": "Al-Riyadh SC",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "LIVE",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Riyadh SC vs Al-Ahli Saudi FC",
-            "match_id": 140701,
-            "startTime": "12:30:00 AM 27-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140701_english_hls_5d9d50508723642_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140701_english_hls_5d9d50508723642_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Main Feed - Day 1 vs PGA National Resort, Florida (Cognizant Classic in The Palm Beaches 2026)",
@@ -100,6 +86,20 @@
             "startTime": "11:30:00 PM 26-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140763_english_hls_2d6f03ab0c66348_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140763_english_hls_2d6f03ab0c66348_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Al-Riyadh SC vs Al-Ahli Saudi FC (Roshn Saudi League 2025-2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140701_5655_ALR_AAS_fc-web.jpg",
+            "team_1": "Al-Riyadh SC",
+            "team_2": "Al-Ahli Saudi FC",
+            "status": "LIVE",
+            "event_name": "Roshn Saudi League 2025-2026",
+            "match_name": "Al-Riyadh SC vs Al-Ahli Saudi FC",
+            "match_id": 140701,
+            "startTime": "12:30:00 AM 27-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140701_english_hls_5d9d50508723642_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140701_english_hls_5d9d50508723642_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -414,18 +414,6 @@
             "startTime": "06:30:00 PM 27-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-            "team_1": "Court Jaime Fillol",
-            "team_2": "Santiago, Chile",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
-            "match_name": "Court Jaime Fillol",
-            "match_id": 140361,
-            "startTime": "09:30:00 PM 27-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Thailand Open Men's T20I Series 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
@@ -436,6 +424,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 140675,
             "startTime": "07:30:00 AM 28-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+            "team_1": "Court Jaime Fillol",
+            "team_2": "Santiago, Chile",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
+            "match_name": "Court Jaime Fillol",
+            "match_id": 140361,
+            "startTime": "09:30:00 PM 27-02-2026"
         },
         {
             "event_category": "Golf",
