@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:48:31 AM 27-02-2026",
+    "last update time": "11:58:38 AM 27-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -33,13 +33,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Thailand vs Bahrain (Thailand Open Men's T20I Series 2026)",
+            "title": "Bahrain vs Thailand (Thailand Open Men's T20I Series 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140674_5970_TL_BAH_fc-web.jpg",
-            "team_1": "Thailand",
-            "team_2": "Bahrain",
+            "team_1": "Bahrain",
+            "team_2": "Thailand",
             "status": "LIVE",
             "event_name": "Thailand Open Men's T20I Series 2026",
-            "match_name": "Thailand vs Bahrain",
+            "match_name": "Bahrain vs Thailand",
             "match_id": 140674,
             "startTime": "12:00:00 PM 27-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140674_english_hls_542878262328580_1ta-di_h264/index.m3u8",
@@ -58,20 +58,6 @@
             "startTime": "05:30:00 AM 27-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140355_english_hls_f0d1a215da37548_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140355_english_hls_f0d1a215da37548_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Estadio vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
-            "team_1": "Estadio",
-            "team_2": "Acapulco, Mexico",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Abierto Mexicano Telcel",
-            "match_name": "Estadio",
-            "match_id": 140840,
-            "startTime": "05:30:00 AM 27-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140840_english_hls_f20d9e132f35042_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140840_english_hls_f20d9e132f35042_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -352,18 +338,6 @@
             "startTime": "06:30:00 PM 27-02-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-            "team_1": "Court Jaime Fillol",
-            "team_2": "Santiago, Chile",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
-            "match_name": "Court Jaime Fillol",
-            "match_id": 140361,
-            "startTime": "09:30:00 PM 27-02-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Brisbane Roar vs Perth Glory (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/139421_5802_BRB_PG_1770724192241.png",
@@ -374,6 +348,18 @@
             "match_name": "Brisbane Roar vs Perth Glory",
             "match_id": 139421,
             "startTime": "12:30:00 PM 28-02-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
+            "team_1": "Court Jaime Fillol",
+            "team_2": "Santiago, Chile",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
+            "match_name": "Court Jaime Fillol",
+            "match_id": 140361,
+            "startTime": "09:30:00 PM 27-02-2026"
         },
         {
             "event_category": "Golf",
@@ -469,6 +455,18 @@
             "event_name": "ISL 2025-26",
             "match_name": "Kerala Blasters FC vs Inter Kashi FC",
             "match_id": 140448,
+            "startTime": "05:00:00 PM 28-02-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Kerala Blasters FC vs Inter Kashi FC (ISL 2025-26  - Regional)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Kerala Blasters FC",
+            "team_2": "Inter Kashi FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Kerala Blasters FC vs Inter Kashi FC",
+            "match_id": 141087,
             "startTime": "05:00:00 PM 28-02-2026"
         }
     ]
