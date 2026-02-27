@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:11:57 PM 27-02-2026",
+    "last update time": "05:22:03 PM 27-02-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Paarl CC vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140688_5968_PRC_PECC_FC-Web.jpg",
+            "team_1": "Paarl CC",
+            "team_2": "Paarl East Cricket Club",
+            "status": "LIVE",
+            "event_name": "Boland T20 Super League Finals 2026",
+            "match_name": "Paarl CC vs Paarl East Cricket Club",
+            "match_id": 140688,
+            "startTime": "05:30:00 PM 27-02-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140688_english_hls_d8e850d5db29569_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140688_english_hls_d8e850d5db29569_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Football",
             "title": "East Bengal FC vs Jamshedpur FC (ISL 2025-26)",
@@ -72,18 +86,6 @@
             "startTime": "05:15:00 PM 27-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140769_english_hls_712ed2d8d183733_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Paarl CC vs Paarl East Cricket Club (Boland T20 Super League Finals 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140688_5968_PRC_PECC_FC-Web.jpg",
-            "team_1": "Paarl CC",
-            "team_2": "Paarl East Cricket Club",
-            "status": "UPCOMING",
-            "event_name": "Boland T20 Super League Finals 2026",
-            "match_name": "Paarl CC vs Paarl East Cricket Club",
-            "match_id": 140688,
-            "startTime": "05:30:00 PM 27-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -410,6 +412,18 @@
             "startTime": "12:30:00 AM 28-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Preston North End F.C. vs Millwall F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140130_5489_PST_MLW_fc-web.jpg",
+            "team_1": "Preston North End F.C.",
+            "team_2": "Millwall F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Preston North End F.C. vs Millwall F.C.",
+            "match_id": 140130,
+            "startTime": "08:30:00 PM 28-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
@@ -456,18 +470,6 @@
             "match_name": "Grandstand",
             "match_id": 140842,
             "startTime": "06:30:00 AM 28-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Preston North End F.C. vs Millwall F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140130_5489_PST_MLW_fc-web.jpg",
-            "team_1": "Preston North End F.C.",
-            "team_2": "Millwall F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Preston North End F.C. vs Millwall F.C.",
-            "match_id": 140130,
-            "startTime": "08:30:00 PM 28-02-2026"
         }
     ]
 }
