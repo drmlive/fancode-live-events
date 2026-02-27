@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:59:19 PM 27-02-2026",
+    "last update time": "01:09:25 PM 27-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,6 +58,18 @@
             "startTime": "07:30:00 AM 27-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139924_english_hls_df8a015c4f81523_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139924_english_hls_df8a015c4f81523_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Melbourne Victory vs Adelaide United (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139418_5802_MLV_ADL_1770723740129.png",
+            "team_1": "Melbourne Victory",
+            "team_2": "Adelaide United",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Melbourne Victory vs Adelaide United",
+            "match_id": 139418,
+            "startTime": "02:05:00 PM 27-02-2026"
         },
         {
             "event_category": "Cricket",
@@ -166,18 +178,6 @@
             "match_name": "TBC vs TBC",
             "match_id": 140675,
             "startTime": "07:30:00 AM 28-02-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne Victory vs Adelaide United (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139418_5802_MLV_ADL_1770723740129.png",
-            "team_1": "Melbourne Victory",
-            "team_2": "Adelaide United",
-            "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne Victory vs Adelaide United",
-            "match_id": 139418,
-            "startTime": "02:05:00 PM 27-02-2026"
         },
         {
             "event_category": "Football",
@@ -444,18 +444,6 @@
             "startTime": "06:30:00 AM 28-02-2026"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
-            "team_1": "Day 2",
-            "team_2": "Buriram International Circuit",
-            "status": "UPCOMING",
-            "event_name": "PT GRAND PRIX OF THAILAND 2026",
-            "match_name": "Thailand GP",
-            "match_id": 139925,
-            "startTime": "07:10:00 AM 28-02-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Maties Cricket Club vs Vredenburg/Saldanha CC (Boland T20 Super League Finals 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140691_5968_MAT_VDS_FC-Web.jpg",
@@ -466,6 +454,18 @@
             "match_name": "Maties Cricket Club vs Vredenburg/Saldanha CC",
             "match_id": 140691,
             "startTime": "05:30:00 PM 28-02-2026"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 2 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
+            "team_1": "Day 2",
+            "team_2": "Buriram International Circuit",
+            "status": "UPCOMING",
+            "event_name": "PT GRAND PRIX OF THAILAND 2026",
+            "match_name": "Thailand GP",
+            "match_id": 139925,
+            "startTime": "07:10:00 AM 28-02-2026"
         }
     ]
 }
