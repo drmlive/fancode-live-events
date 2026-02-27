@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:16:26 AM 27-02-2026",
+    "last update time": "08:26:32 AM 27-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "07:30:00 AM 27-02-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140673_english_hls_5cad73958e85788_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140673_english_hls_5cad73958e85788_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-            "team_1": "Court Jaime Fillol",
-            "team_2": "Santiago, Chile",
-            "status": "LIVE",
-            "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
-            "match_name": "Court Jaime Fillol",
-            "match_id": 140360,
-            "startTime": "09:30:00 PM 26-02-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140360_english_hls_9d2a98691631145_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140360_english_hls_9d2a98691631145_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -426,6 +412,18 @@
             "startTime": "11:30:00 AM 28-02-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Brisbane Roar vs Perth Glory (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139421_5802_BRB_PG_1770724192241.png",
+            "team_1": "Brisbane Roar",
+            "team_2": "Perth Glory",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Brisbane Roar vs Perth Glory",
+            "match_id": 139421,
+            "startTime": "12:30:00 PM 28-02-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "World Feed vs Acapulco, Mexico (ATP 500 - Abierto Mexicano Telcel)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Abierto-Mexicano-_web.jpg",
@@ -462,16 +460,16 @@
             "startTime": "06:30:00 AM 28-02-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Brisbane Roar vs Perth Glory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/139421_5802_BRB_PG_1770724192241.png",
-            "team_1": "Brisbane Roar",
-            "team_2": "Perth Glory",
+            "event_category": "MotoGP",
+            "title": "Day 2 vs Buriram International Circuit (PT GRAND PRIX OF THAILAND 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(4)_1771915359087.png",
+            "team_1": "Day 2",
+            "team_2": "Buriram International Circuit",
             "status": "UPCOMING",
-            "event_name": "A League 2025-26",
-            "match_name": "Brisbane Roar vs Perth Glory",
-            "match_id": 139421,
-            "startTime": "12:30:00 PM 28-02-2026"
+            "event_name": "PT GRAND PRIX OF THAILAND 2026",
+            "match_name": "Thailand GP",
+            "match_id": 139925,
+            "startTime": "07:10:00 AM 28-02-2026"
         }
     ]
 }
