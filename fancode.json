@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:33:10 AM 02-03-2026",
+    "last update time": "06:43:13 AM 02-03-2026",
     "matches": [
-        {
-            "event_category": "Tennis",
-            "title": "Court Jaime Fillol vs Santiago, Chile (ATP 250 - BCI Seguros Chile Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BCI-Seguros-Chile-Open,-Clay,-ATP-250-old-.png",
-            "team_1": "Court Jaime Fillol",
-            "team_2": "Santiago, Chile",
-            "status": "LIVE",
-            "event_name": "ATP 250 - BCI Seguros Chile Open 2026",
-            "match_name": "Court Jaime Fillol",
-            "match_id": 140363,
-            "startTime": "04:00:00 AM 02-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140363_english_hls_ee7edf68e779177_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Maties Cricket Club vs Van der Stel Cricket Club (Boland T20 Super League Finals 2026)",
@@ -388,6 +374,18 @@
             "match_name": "Luton Town vs Northampton Town FC",
             "match_id": 140876,
             "startTime": "01:00:00 AM 05-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Tasmania vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_fc-Web.jpg",
+            "team_1": "Tasmania",
+            "team_2": "Victoria",
+            "status": "UPCOMING",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Tasmania vs Victoria",
+            "match_id": 134039,
+            "startTime": "05:00:00 AM 05-03-2026"
         }
     ]
 }
