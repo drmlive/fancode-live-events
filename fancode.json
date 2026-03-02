@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:04:56 AM 03-03-2026",
+    "last update time": "01:15:03 AM 03-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140131_5489_BIR_MIDD_fc-web.jpg",
             "team_1": "Birmingham City F.C.",
             "team_2": "Middlesbrough F.C.",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2025-26",
             "match_name": "Birmingham City F.C. vs Middlesbrough F.C.",
             "match_id": 140131,
-            "startTime": "01:30:00 AM 03-03-2026"
+            "startTime": "01:30:00 AM 03-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140131_english_hls_37d3a91cb655150_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140131_english_hls_37d3a91cb655150_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -128,18 +130,6 @@
             "startTime": "01:30:00 AM 04-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Los Angeles vs New York vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Los Angeles vs New York",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Los Angeles vs New York",
-            "match_id": 139176,
-            "startTime": "05:30:00 AM 03-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Doncaster Rovers F.C. vs Stockport County (Vertu Trophy 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(5)_1772173611237.png",
@@ -150,6 +140,18 @@
             "match_name": "Doncaster Rovers F.C. vs Stockport County",
             "match_id": 140875,
             "startTime": "01:30:00 AM 04-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Los Angeles vs New York vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Los Angeles vs New York",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Los Angeles vs New York",
+            "match_id": 139176,
+            "startTime": "05:30:00 AM 03-03-2026"
         },
         {
             "event_category": "Cricket",
