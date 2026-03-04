@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:16:55 AM 05-03-2026",
+    "last update time": "03:27:11 AM 05-03-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
+            "team_1": "New Zealand Women",
+            "team_2": "Zimbabwe Women",
+            "status": "LIVE",
+            "event_name": "Zimbabwe Women tour of New Zealand, 2026",
+            "match_name": "New Zealand Women vs Zimbabwe Women",
+            "match_id": 140596,
+            "startTime": "03:30:00 AM 05-03-2026",
+            "dai_url": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
+            "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2037141/DAI21NZVSZM/master.m3u8?hdnea=exp=1772704631~acl=/*~id=71785011425195593525044196708121~hmac=6d0366235e8ad67ec91951da9fa25355bbb0ed74580b3ee750c425b6a11088d2"
+        },
         {
             "event_category": "Football",
             "title": "Real Sociedad vs Athletic Club (Copa del Rey, 2025-26)",
@@ -114,18 +128,6 @@
             "startTime": "12:30:00 AM 05-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New Zealand Women vs Zimbabwe Women (Zimbabwe Women tour of New Zealand, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-ZIM_ODi_fc_web_1772618590773.jpg",
-            "team_1": "New Zealand Women",
-            "team_2": "Zimbabwe Women",
-            "status": "UPCOMING",
-            "event_name": "Zimbabwe Women tour of New Zealand, 2026",
-            "match_name": "New Zealand Women vs Zimbabwe Women",
-            "match_id": 140596,
-            "startTime": "03:30:00 AM 05-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -462,6 +464,18 @@
             "match_name": "Uzbekistan Women vs China PR Women",
             "match_id": 140803,
             "startTime": "01:30:00 PM 06-03-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Practice Session vs Melbourne (F3 AUSTRALIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
+            "team_1": "Practice Session",
+            "team_2": "Melbourne",
+            "status": "UPCOMING",
+            "event_name": "F3 AUSTRALIA 2026",
+            "match_name": "Practice Session",
+            "match_id": 139704,
+            "startTime": "03:20:00 AM 06-03-2026"
         }
     ]
 }
