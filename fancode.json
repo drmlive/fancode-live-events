@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:21:42 AM 05-03-2026",
+    "last update time": "10:31:48 AM 05-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -114,20 +114,6 @@
             "startTime": "12:30:00 AM 05-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141004_english_hls_30fd12082358848_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141004_english_hls_30fd12082358848_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-            "team_1": "C Court Feed",
-            "team_2": "Indian, United States",
-            "status": "LIVE",
-            "event_name": "ATP Masters BNP Paribas Open 2026",
-            "match_name": "C Court Feed",
-            "match_id": 141228,
-            "startTime": "12:30:00 AM 05-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141228_english_hls_7a2e1d1fb551505_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -476,6 +462,18 @@
             "match_name": "Practice Session",
             "match_id": 139704,
             "startTime": "03:20:00 AM 06-03-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session vs Melbourne (F3 AUSTRALIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Melbourne",
+            "status": "UPCOMING",
+            "event_name": "F3 AUSTRALIA 2026",
+            "match_name": "Qualifying Session",
+            "match_id": 139705,
+            "startTime": "08:30:00 AM 06-03-2026"
         }
     ]
 }
