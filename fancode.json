@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:49:37 PM 06-03-2026",
+    "last update time": "01:59:44 PM 06-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140907_5802_ADL_WEL_fc-web.jpg",
             "team_1": "Adelaide United",
             "team_2": "Wellington Phoenix",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "A League 2025-26",
             "match_name": "Adelaide United vs Wellington Phoenix",
             "match_id": 140907,
-            "startTime": "02:05:00 PM 06-03-2026"
+            "startTime": "02:05:00 PM 06-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140907_english_hls_2b1430a58879684_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140907_english_hls_2b1430a58879684_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -452,16 +454,16 @@
             "startTime": "06:00:00 PM 07-03-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Melbourne  (F2 AUSTRALIA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Melbourne ",
+            "event_category": "Football",
+            "title": "India Women vs Japan Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140805_5979_INDW_JPN-W_fc-Web_1772191702174.jpg",
+            "team_1": "India Women",
+            "team_2": "Japan Women",
             "status": "UPCOMING",
-            "event_name": "F2 AUSTRALIA 2026",
-            "match_name": "Sprint Race",
-            "match_id": 139544,
-            "startTime": "08:40:00 AM 07-03-2026"
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "India Women vs Japan Women",
+            "match_id": 140805,
+            "startTime": "04:30:00 PM 07-03-2026"
         }
     ]
 }
