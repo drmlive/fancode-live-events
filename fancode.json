@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:19:35 AM 07-03-2026",
+    "last update time": "04:29:42 AM 07-03-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "title": "Main Feed Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
-            "team_1": "Main Feed Day 2",
-            "team_2": "Orlando, Florida",
-            "status": "LIVE",
-            "event_name": "Arnold Palmer Invitational 2026",
-            "match_name": "Main Feed Day 2",
-            "match_id": 140992,
-            "startTime": "06:00:00 PM 06-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140992_english_hls_99ea6ba7a722304_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140992_english_hls_99ea6ba7a722304_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Featured Group Day 2 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
@@ -276,6 +262,18 @@
             "startTime": "07:30:00 PM 07-03-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Derby County Football Club vs Sheffield Wednesday F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140554_5489_DER_SHFF_fc-web.jpg",
+            "team_1": "Derby County Football Club",
+            "team_2": "Sheffield Wednesday F.C.",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Derby County Football Club vs Sheffield Wednesday F.C.",
+            "match_id": 140554,
+            "startTime": "08:30:00 PM 07-03-2026"
+        },
+        {
             "event_category": "Cricket",
             "title": "Victoria vs Tasmania (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_FC-Web.png",
@@ -310,18 +308,6 @@
             "match_name": "Western Australia vs Queensland",
             "match_id": 134038,
             "startTime": "05:30:00 AM 05-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Derby County Football Club vs Sheffield Wednesday F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140554_5489_DER_SHFF_fc-web.jpg",
-            "team_1": "Derby County Football Club",
-            "team_2": "Sheffield Wednesday F.C.",
-            "status": "UPCOMING",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Derby County Football Club vs Sheffield Wednesday F.C.",
-            "match_id": 140554,
-            "startTime": "08:30:00 PM 07-03-2026"
         },
         {
             "event_category": "Football",
@@ -478,6 +464,18 @@
             "match_name": "Craigengower Cricket Club Women vs Diasqua Little Sai Wan Cricket Club Women",
             "match_id": 140611,
             "startTime": "07:00:00 AM 08-03-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Sprint Race vs Melbourne (F3 AUSTRALIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Melbourne",
+            "status": "UPCOMING",
+            "event_name": "F3 AUSTRALIA 2026",
+            "match_name": "Sprint Race",
+            "match_id": 139706,
+            "startTime": "05:45:00 AM 07-03-2026"
         }
     ]
 }
