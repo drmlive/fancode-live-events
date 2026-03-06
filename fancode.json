@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:38:13 AM 06-03-2026",
+    "last update time": "11:48:21 AM 06-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,20 +72,6 @@
             "startTime": "12:30:00 AM 06-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141007_english_hls_235afc8e7567465_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141007_english_hls_235afc8e7567465_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Practice 2 vs Australia (F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Australia_web.jpg",
-            "team_1": "Practice 2",
-            "team_2": "Australia",
-            "status": "LIVE",
-            "event_name": "F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
-            "match_name": "F1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026",
-            "match_id": 139362,
-            "startTime": "10:30:00 AM 06-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139362_english_hls_bd670a562745738_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139362_english_hls_bd670a562745738_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -460,16 +446,28 @@
             "startTime": "07:00:00 AM 07-03-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Melbourne  (F2 AUSTRALIA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Melbourne ",
+            "event_category": "Football",
+            "title": "Mohammedan SC vs Bengaluru FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140455_5956_MSC_BFC_FC-Web_1772450808292.jpg",
+            "team_1": "Mohammedan SC",
+            "team_2": "Bengaluru FC",
             "status": "UPCOMING",
-            "event_name": "F2 AUSTRALIA 2026",
-            "match_name": "Sprint Race",
-            "match_id": 139544,
-            "startTime": "08:40:00 AM 07-03-2026"
+            "event_name": "ISL 2025-26",
+            "match_name": "Mohammedan SC vs Bengaluru FC",
+            "match_id": 140455,
+            "startTime": "05:00:00 PM 07-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mohammedan SC vs Bengaluru FC (ISL 2025-26  - Regional)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Mohammedan SC",
+            "team_2": "Bengaluru FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Mohammedan SC vs Bengaluru FC",
+            "match_id": 141172,
+            "startTime": "05:00:00 PM 07-03-2026"
         }
     ]
 }
