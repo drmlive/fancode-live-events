@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:09:13 PM 06-03-2026",
+    "last update time": "01:19:19 PM 06-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -18,28 +18,30 @@
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141255_english_hls_197d05fbd248087_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Cricket",
-            "title": "Victoria vs Tasmania (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_FC-Web.png",
-            "team_1": "Victoria",
-            "team_2": "Tasmania",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Victoria vs Tasmania",
-            "match_id": 134039,
-            "startTime": "05:00:00 AM 05-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Uzbekistan Women vs China PR Women (AFC Women's Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140803_5979_UB-W_CHN-W_fc-Web_1772191702178.jpg",
             "team_1": "Uzbekistan Women",
             "team_2": "China PR Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Women's Asian Cup, 2026",
             "match_name": "Uzbekistan Women vs China PR Women",
             "match_id": 140803,
-            "startTime": "01:30:00 PM 06-03-2026"
+            "startTime": "01:30:00 PM 06-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140803_english_hls_74e606873292705_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140803_english_hls_74e606873292705_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
+            "team_1": "Western Australia",
+            "team_2": "Queensland",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Queensland",
+            "match_id": 134038,
+            "startTime": "05:30:00 AM 05-03-2026"
         },
         {
             "event_category": "Football",
@@ -127,6 +129,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "Victoria vs Tasmania (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_FC-Web.png",
+            "team_1": "Victoria",
+            "team_2": "Tasmania",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Victoria vs Tasmania",
+            "match_id": 134039,
+            "startTime": "05:00:00 AM 05-03-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_FC-Web.png",
             "team_1": "New South Wales",
@@ -135,18 +149,6 @@
             "event_name": "Sheffield Shield, 2025-26",
             "match_name": "New South Wales vs South Australia",
             "match_id": 134040,
-            "startTime": "05:30:00 AM 05-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
-            "team_1": "Western Australia",
-            "team_2": "Queensland",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs Queensland",
-            "match_id": 134038,
             "startTime": "05:30:00 AM 05-03-2026"
         },
         {
@@ -438,18 +440,6 @@
             "startTime": "07:00:00 AM 07-03-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Melbourne  (F2 AUSTRALIA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Melbourne ",
-            "status": "UPCOMING",
-            "event_name": "F2 AUSTRALIA 2026",
-            "match_name": "Sprint Race",
-            "match_id": 139544,
-            "startTime": "08:40:00 AM 07-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Blackburn Rovers F.C. vs Portsmouth F.C. (EFL Championship 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140553_5489_BLK_PRM_fc-web.jpg",
@@ -460,6 +450,18 @@
             "match_name": "Blackburn Rovers F.C. vs Portsmouth F.C.",
             "match_id": 140553,
             "startTime": "06:00:00 PM 07-03-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Sprint Race vs Melbourne  (F2 AUSTRALIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
+            "team_1": "Sprint Race",
+            "team_2": "Melbourne ",
+            "status": "UPCOMING",
+            "event_name": "F2 AUSTRALIA 2026",
+            "match_name": "Sprint Race",
+            "match_id": 139544,
+            "startTime": "08:40:00 AM 07-03-2026"
         }
     ]
 }
