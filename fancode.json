@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:05:52 PM 07-03-2026",
+    "last update time": "01:15:58 PM 07-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,20 +72,6 @@
             "startTime": "11:30:00 AM 07-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140908_english_hls_08b243670367174_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140908_english_hls_08b243670367174_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_FC-Web.png",
-            "team_1": "New South Wales",
-            "team_2": "South Australia",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "New South Wales vs South Australia",
-            "match_id": 134040,
-            "startTime": "05:30:00 AM 05-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134040_english_hls_2b4391587429085_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134040_english_hls_2b4391587429085_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -283,6 +269,18 @@
         },
         {
             "event_category": "Cricket",
+            "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_FC-Web.png",
+            "team_1": "New South Wales",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "New South Wales vs South Australia",
+            "match_id": 134040,
+            "startTime": "05:30:00 AM 05-03-2026"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Hong Kong Cricket Club Women vs Lantau Cricket Club Women (Women's Premier League T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/WPL_web_2.jpg",
             "team_1": "Hong Kong Cricket Club Women",
@@ -318,18 +316,6 @@
             "startTime": "04:30:00 PM 07-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Dunfermline vs Aberdeen (Scottish Cup 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
-            "team_1": "Dunfermline",
-            "team_2": "Aberdeen",
-            "status": "UPCOMING",
-            "event_name": "Scottish Cup 2025-26",
-            "match_name": "Dunfermline vs Aberdeen",
-            "match_id": 141043,
-            "startTime": "01:00:00 AM 08-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Lightning Legends vs Nexage Hyderabad (Tillo Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
@@ -340,6 +326,18 @@
             "match_name": "Lightning Legends vs Nexage Hyderabad",
             "match_id": 141257,
             "startTime": "09:30:00 AM 08-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Dunfermline vs Aberdeen (Scottish Cup 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
+            "team_1": "Dunfermline",
+            "team_2": "Aberdeen",
+            "status": "UPCOMING",
+            "event_name": "Scottish Cup 2025-26",
+            "match_name": "Dunfermline vs Aberdeen",
+            "match_id": 141043,
+            "startTime": "01:00:00 AM 08-03-2026"
         },
         {
             "event_category": "Football",
