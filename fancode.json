@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:54:24 AM 07-03-2026",
+    "last update time": "11:04:30 AM 07-03-2026",
     "matches": [
         {
             "event_category": "Formula 1",
@@ -47,20 +47,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Victoria vs Tasmania (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134039_5609_TAS_VCT_FC-Web.png",
-            "team_1": "Victoria",
-            "team_2": "Tasmania",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Victoria vs Tasmania",
-            "match_id": 134039,
-            "startTime": "05:00:00 AM 05-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134039_english_hls_218ba2772e59648_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134039_english_hls_218ba2772e59648_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "New South Wales vs South Australia (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134040_5609_SAU_NSW_FC-Web.png",
             "team_1": "New South Wales",
@@ -86,20 +72,6 @@
             "startTime": "05:30:00 AM 05-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3637801_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3637801_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "B Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-            "team_1": "B Court Feed",
-            "team_2": "Indian, United States",
-            "status": "LIVE",
-            "event_name": "ATP Masters BNP Paribas Open 2026",
-            "match_name": "B Court Feed",
-            "match_id": 141012,
-            "startTime": "12:30:00 AM 07-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141012_english_hls_12ffc657088644_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141012_english_hls_12ffc657088644_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -478,6 +450,30 @@
             "match_name": "Malaysia vs Bahrain",
             "match_id": 141300,
             "startTime": "12:30:00 PM 08-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "JP Sports Noida vs A&S Kolkata (Tillo Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+            "team_1": "JP Sports Noida",
+            "team_2": "A&S Kolkata",
+            "status": "UPCOMING",
+            "event_name": "Tillo Cup 2026",
+            "match_name": "JP Sports Noida vs A&S Kolkata",
+            "match_id": 141258,
+            "startTime": "01:30:00 PM 08-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed Day 3 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+            "team_1": "Main Feed Day 3",
+            "team_2": "Orlando, Florida",
+            "status": "UPCOMING",
+            "event_name": "Arnold Palmer Invitational 2026",
+            "match_name": "Main Feed Day 3",
+            "match_id": 140996,
+            "startTime": "07:30:00 PM 07-03-2026"
         }
     ]
 }
