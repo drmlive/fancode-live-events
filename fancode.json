@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:38:07 PM 07-03-2026",
+    "last update time": "04:48:13 PM 07-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,6 +16,34 @@
             "startTime": "01:30:00 PM 07-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141256_english_hls_3301056d9b64602_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141256_english_hls_3301056d9b64602_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mohammedan SC vs Bengaluru FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140455_5956_MSC_BFC_FC-Web_1772450808292.jpg",
+            "team_1": "Mohammedan SC",
+            "team_2": "Bengaluru FC",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26",
+            "match_name": "Mohammedan SC vs Bengaluru FC",
+            "match_id": 140455,
+            "startTime": "05:00:00 PM 07-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140455_english_hls_c7aac83f1960410_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140455_english_hls_c7aac83f1960410_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Mohammedan SC vs Bengaluru FC (ISL 2025-26  - Regional)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140455_5956_MSC_BFC_FC-Web_1772877810236.jpg",
+            "team_1": "Mohammedan SC",
+            "team_2": "Bengaluru FC",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Mohammedan SC vs Bengaluru FC",
+            "match_id": 141172,
+            "startTime": "05:00:00 PM 07-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141172_bengali_hls_1bd40809b6892_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141172_bengali_hls_1bd40809b6892_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -42,30 +70,6 @@
             "match_name": "New Zealand Women vs Zimbabwe Women",
             "match_id": 140597,
             "startTime": "03:30:00 AM 08-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mohammedan SC vs Bengaluru FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140455_5956_MSC_BFC_FC-Web_1772450808292.jpg",
-            "team_1": "Mohammedan SC",
-            "team_2": "Bengaluru FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26",
-            "match_name": "Mohammedan SC vs Bengaluru FC",
-            "match_id": 140455,
-            "startTime": "05:00:00 PM 07-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Mohammedan SC vs Bengaluru FC (ISL 2025-26  - Regional)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140455_5956_MSC_BFC_FC-Web_1772877810236.jpg",
-            "team_1": "Mohammedan SC",
-            "team_2": "Bengaluru FC",
-            "status": "UPCOMING",
-            "event_name": "ISL 2025-26  - Regional",
-            "match_name": "Mohammedan SC vs Bengaluru FC",
-            "match_id": 141172,
-            "startTime": "05:00:00 PM 07-03-2026"
         },
         {
             "event_category": "Football",
@@ -225,18 +229,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
-            "team_1": "Western Australia",
-            "team_2": "Queensland",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs Queensland",
-            "match_id": 134038,
-            "startTime": "05:30:00 AM 05-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Lightning Legends vs Nexage Hyderabad (Tillo Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
             "team_1": "Lightning Legends",
@@ -246,6 +238,18 @@
             "match_name": "Lightning Legends vs Nexage Hyderabad",
             "match_id": 141257,
             "startTime": "09:30:00 AM 08-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
+            "team_1": "Western Australia",
+            "team_2": "Queensland",
+            "status": "PAUSED",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "Western Australia vs Queensland",
+            "match_id": 134038,
+            "startTime": "05:30:00 AM 05-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -272,6 +276,18 @@
             "startTime": "11:00:00 AM 08-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
+            "team_1": "Malaysia",
+            "team_2": "Bahrain",
+            "status": "UPCOMING",
+            "event_name": "Bahrain tour of Malaysia, 2026",
+            "match_name": "Malaysia vs Bahrain",
+            "match_id": 141300,
+            "startTime": "12:30:00 PM 08-03-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Dunfermline vs Aberdeen (Scottish Cup 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
@@ -294,18 +310,6 @@
             "match_name": "M\u00e1laga vs Real Valladolid",
             "match_id": 140826,
             "startTime": "01:30:00 AM 08-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Bahrain-tour-of-Malaysia-old-card.jpg",
-            "team_1": "Malaysia",
-            "team_2": "Bahrain",
-            "status": "UPCOMING",
-            "event_name": "Bahrain tour of Malaysia, 2026",
-            "match_name": "Malaysia vs Bahrain",
-            "match_id": 141300,
-            "startTime": "12:30:00 PM 08-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -416,6 +420,18 @@
             "startTime": "11:00:00 PM 07-03-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Mumbai City FC vs Sporting Club Delhi (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140457_5956_MCFC_SCD_FC-Web_1772450895353.jpg",
+            "team_1": "Mumbai City FC",
+            "team_2": "Sporting Club Delhi",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Mumbai City FC vs Sporting Club Delhi",
+            "match_id": 140457,
+            "startTime": "07:30:00 PM 08-03-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "B Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
@@ -449,18 +465,6 @@
             "event_name": "ATP Masters BNP Paribas Open 2026",
             "match_name": "World Feed",
             "match_id": 141013,
-            "startTime": "12:30:00 AM 08-03-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-            "team_1": "C Court Feed",
-            "team_2": "Indian, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters BNP Paribas Open 2026",
-            "match_name": "C Court Feed",
-            "match_id": 141244,
             "startTime": "12:30:00 AM 08-03-2026"
         }
     ]
