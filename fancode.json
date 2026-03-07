@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:17:55 PM 07-03-2026",
+    "last update time": "04:28:00 PM 07-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:30:00 PM 07-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141256_english_hls_3301056d9b64602_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141256_english_hls_3301056d9b64602_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Melbourne Victory (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140909_5802_SYD_MLV_fc-web.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Melbourne Victory",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Melbourne Victory",
-            "match_id": 140909,
-            "startTime": "02:05:00 PM 07-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140909_english_hls_41ee1c144b58567_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140909_english_hls_41ee1c144b58567_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -463,6 +449,18 @@
             "event_name": "ATP Masters BNP Paribas Open 2026",
             "match_name": "World Feed",
             "match_id": 141013,
+            "startTime": "12:30:00 AM 08-03-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
+            "team_1": "C Court Feed",
+            "team_2": "Indian, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters BNP Paribas Open 2026",
+            "match_name": "C Court Feed",
+            "match_id": 141244,
             "startTime": "12:30:00 AM 08-03-2026"
         }
     ]
