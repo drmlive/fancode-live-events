@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:55:15 AM 08-03-2026",
+    "last update time": "03:05:21 AM 08-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Al-Nassr FC vs Neom SC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140718_5655_ANF_NEOM_fc-web.jpg",
-            "team_1": "Al-Nassr FC",
-            "team_2": "Neom SC",
-            "status": "LIVE",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Nassr FC vs Neom SC",
-            "match_id": 140718,
-            "startTime": "12:30:00 AM 08-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140718_english_hls_a0cf53636881698_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140718_english_hls_a0cf53636881698_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Kholood Club vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Al-Kholood-Club-vs-Al-Qadsiah-FC_fc-web.jpg",
-            "team_1": "Al-Kholood Club",
-            "team_2": "Al-Qadsiah FC",
-            "status": "LIVE",
-            "event_name": "Roshn Saudi League 2025-2026",
-            "match_name": "Al-Kholood Club vs Al-Qadsiah FC",
-            "match_id": 140704,
-            "startTime": "12:30:00 AM 08-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140704_english_hls_93a32c9e3849422_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140704_english_hls_93a32c9e3849422_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Athletic Club vs FC Barcelona (LALIGA 2025-26)",
@@ -44,20 +16,6 @@
             "startTime": "01:30:00 AM 08-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Dunfermline vs Aberdeen (Scottish Cup 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
-            "team_1": "Dunfermline",
-            "team_2": "Aberdeen",
-            "status": "LIVE",
-            "event_name": "Scottish Cup 2025-26",
-            "match_name": "Dunfermline vs Aberdeen",
-            "match_id": 141043,
-            "startTime": "01:00:00 AM 08-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141043_english_hls_bd69a52b9f23428_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141043_english_hls_bd69a52b9f23428_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -490,6 +448,42 @@
             "match_name": "Mexico vs Suriname",
             "match_id": 140706,
             "startTime": "01:00:00 AM 09-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Valencia CF vs Deportivo Alaves (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131097_5427_VAL_ALA_FC-Web.png",
+            "team_1": "Valencia CF",
+            "team_2": "Deportivo Alaves",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Valencia CF vs Deportivo Alaves",
+            "match_id": 131097,
+            "startTime": "01:30:00 AM 09-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo La Coruna vs Granada (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1772160982911/140827_CASACARDS_APP.png",
+            "team_1": "Deportivo La Coruna",
+            "team_2": "Granada",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Deportivo La Coruna vs Granada",
+            "match_id": 140827,
+            "startTime": "01:30:00 AM 09-03-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Feature Race vs Melbourne  (F2 AUSTRALIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
+            "team_1": "Feature Race",
+            "team_2": "Melbourne ",
+            "status": "UPCOMING",
+            "event_name": "F2 AUSTRALIA 2026",
+            "match_name": "Feature Race",
+            "match_id": 139545,
+            "startTime": "05:55:00 AM 08-03-2026"
         }
     ]
 }
