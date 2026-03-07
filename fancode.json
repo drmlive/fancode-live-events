@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:45:44 AM 08-03-2026",
+    "last update time": "03:55:50 AM 08-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -198,20 +198,6 @@
             "startTime": "03:20:00 AM 08-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/139707_english_hls_44dd080ff120846_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/139707_english_hls_44dd080ff120846_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Athletic Club vs FC Barcelona (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131093_5427_ATH_BAR_FC-Web.png",
-            "team_1": "Athletic Club",
-            "team_2": "FC Barcelona",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Athletic Club vs FC Barcelona",
-            "match_id": 131093,
-            "startTime": "01:30:00 AM 08-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131093_english_hls_e8d132943e57210_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -430,18 +416,6 @@
             "startTime": "05:30:00 PM 08-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Rangers vs Celtic (Scottish Cup 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
-            "team_1": "Rangers",
-            "team_2": "Celtic",
-            "status": "UPCOMING",
-            "event_name": "Scottish Cup 2025-26",
-            "match_name": "Rangers vs Celtic",
-            "match_id": 141045,
-            "startTime": "06:30:00 PM 08-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mexico vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140706_5971_MEX_SRN_fc-Web.jpg",
@@ -452,6 +426,18 @@
             "match_name": "Mexico vs Suriname",
             "match_id": 140706,
             "startTime": "01:00:00 AM 09-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rangers vs Celtic (Scottish Cup 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
+            "team_1": "Rangers",
+            "team_2": "Celtic",
+            "status": "UPCOMING",
+            "event_name": "Scottish Cup 2025-26",
+            "match_name": "Rangers vs Celtic",
+            "match_id": 141045,
+            "startTime": "06:30:00 PM 08-03-2026"
         },
         {
             "event_category": "Football",
@@ -488,6 +474,18 @@
             "match_name": "Feature Race",
             "match_id": 139545,
             "startTime": "05:55:00 AM 08-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 2 vs Magenta Shares Golf & Country Club (Australian Women's Classic 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Australian-Women's-Classic-2026-old-match-card_1772479047332.jpg",
+            "team_1": "Day 2",
+            "team_2": "Magenta Shares Golf & Country Club",
+            "status": "UPCOMING",
+            "event_name": "Australian Women's Classic 2026",
+            "match_name": "Day 2",
+            "match_id": 140786,
+            "startTime": "06:30:00 AM 08-03-2026"
         }
     ]
 }
