@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:12:22 PM 08-03-2026",
+    "last update time": "02:22:30 PM 08-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140807_5979_IRNW_PHI-W_fc-Web_1772191702166.jpg",
             "team_1": "IR Iran Women",
             "team_2": "Philippines Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Women's Asian Cup, 2026",
             "match_name": "IR Iran Women vs Philippines Women",
             "match_id": 140807,
-            "startTime": "02:30:00 PM 08-03-2026"
+            "startTime": "02:30:00 PM 08-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140807_english_hls_322aaea57e36990_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140807_english_hls_322aaea57e36990_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -49,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140806_5979_AUS-W_KOR-W_fc-Web_1772191702169.jpg",
             "team_1": "Australia Women",
             "team_2": "Korea Republic Women",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "AFC Women's Asian Cup, 2026",
             "match_name": "Australia Women vs Korea Republic Women",
             "match_id": 140806,
-            "startTime": "02:30:00 PM 08-03-2026"
+            "startTime": "02:30:00 PM 08-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140806_english_hls_2388de123442953_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140806_english_hls_2388de123442953_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -212,18 +216,6 @@
             "startTime": "01:30:00 PM 09-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed Day 4 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
-            "team_1": "Main Feed Day 4",
-            "team_2": "Orlando, Florida",
-            "status": "UPCOMING",
-            "event_name": "Arnold Palmer Invitational 2026",
-            "match_name": "Main Feed Day 4",
-            "match_id": 141000,
-            "startTime": "05:30:00 PM 08-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "DPR Korea Women vs China PR Women (AFC Women's Asian Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140808_5979_NK-W_CHN-W_fc-Web_1772191702175.jpg",
@@ -246,6 +238,18 @@
             "match_name": "Bangladesh Women vs Uzbekistan Women",
             "match_id": 140809,
             "startTime": "02:30:00 PM 09-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed Day 4 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
+            "team_1": "Main Feed Day 4",
+            "team_2": "Orlando, Florida",
+            "status": "UPCOMING",
+            "event_name": "Arnold Palmer Invitational 2026",
+            "match_name": "Main Feed Day 4",
+            "match_id": 141000,
+            "startTime": "05:30:00 PM 08-03-2026"
         },
         {
             "event_category": "Golf",
