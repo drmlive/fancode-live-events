@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:20:00 AM 09-03-2026",
+    "last update time": "02:30:06 AM 09-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "05:30:00 PM 08-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141000_english_hls_dadb732bc565599_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141000_english_hls_dadb732bc565599_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Marquee Feed Day 4 vs Orlando, Florida (Arnold Palmer Invitational 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(7).png",
-            "team_1": "Marquee Feed Day 4",
-            "team_2": "Orlando, Florida",
-            "status": "LIVE",
-            "event_name": "Arnold Palmer Invitational 2026",
-            "match_name": "Marquee Feed Day 4",
-            "match_id": 141002,
-            "startTime": "07:30:00 PM 08-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141002_english_hls_a6f51e8f4a65540_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141002_english_hls_a6f51e8f4a65540_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -474,6 +460,18 @@
             "match_name": "Al-Ahli Saudi FC vs Al Duhail",
             "match_id": 140854,
             "startTime": "02:00:00 AM 10-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "CAG Delhi vs SPJ Cargo (Tillo Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+            "team_1": "CAG Delhi",
+            "team_2": "SPJ Cargo",
+            "status": "UPCOMING",
+            "event_name": "Tillo Cup 2026",
+            "match_name": "CAG Delhi vs SPJ Cargo",
+            "match_id": 141262,
+            "startTime": "01:30:00 PM 10-03-2026"
         }
     ]
 }
