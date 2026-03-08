@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:30:34 AM 08-03-2026",
+    "last update time": "11:40:39 AM 08-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "11:00:00 AM 08-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140618_english_hls_51b4abddfe75860_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140618_english_hls_51b4abddfe75860_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Western Australia vs Queensland (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134038_5609_QUN_WAU_FC-Web.png",
-            "team_1": "Western Australia",
-            "team_2": "Queensland",
-            "status": "LIVE",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "Western Australia vs Queensland",
-            "match_id": 134038,
-            "startTime": "05:30:00 AM 05-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134038_english_hls_7fd497bc3669657_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -446,6 +432,18 @@
             "match_name": "Bangladesh Women vs Uzbekistan Women",
             "match_id": 140809,
             "startTime": "02:30:00 PM 09-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Punjab FC vs NorthEast United FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140458_5956_PFC_NEUFC_FC-Web_1772450979384.jpg",
+            "team_1": "Punjab FC",
+            "team_2": "NorthEast United FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Punjab FC vs NorthEast United FC",
+            "match_id": 140458,
+            "startTime": "07:30:00 PM 09-03-2026"
         }
     ]
 }
