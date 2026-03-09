@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:00:14 PM 09-03-2026",
+    "last update time": "08:10:20 PM 09-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Punjab FC vs NorthEast United FC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140458_5956_PFC_NEUFC_FC-Web_1772450979384.jpg",
-            "team_1": "Punjab FC",
-            "team_2": "NorthEast United FC",
-            "status": "LIVE",
-            "event_name": "ISL 2025-26",
-            "match_name": "Punjab FC vs NorthEast United FC",
-            "match_id": 140458,
-            "startTime": "07:30:00 PM 09-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140458_english_hls_0c62e70bfd19984_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140458_english_hls_0c62e70bfd19984_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Argentina vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
@@ -30,6 +16,20 @@
             "startTime": "08:00:00 PM 09-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140707_english_hls_dd9dc7f35a18995_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140707_english_hls_dd9dc7f35a18995_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Punjab FC vs NorthEast United FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140458_5956_PFC_NEUFC_FC-Web_1772450979384.jpg",
+            "team_1": "Punjab FC",
+            "team_2": "NorthEast United FC",
+            "status": "LIVE",
+            "event_name": "ISL 2025-26",
+            "match_name": "Punjab FC vs NorthEast United FC",
+            "match_id": 140458,
+            "startTime": "07:30:00 PM 09-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140458_english_hls_0c62e70bfd19984_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140458_english_hls_0c62e70bfd19984_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -428,6 +428,18 @@
             "startTime": "07:30:00 AM 11-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "SPJ Cargo vs MHKL Banaras (Tillo Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+            "team_1": "SPJ Cargo",
+            "team_2": "MHKL Banaras",
+            "status": "UPCOMING",
+            "event_name": "Tillo Cup 2026",
+            "match_name": "SPJ Cargo vs MHKL Banaras",
+            "match_id": 141263,
+            "startTime": "09:30:00 AM 11-03-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Al-Ittihad vs Al Wahda (AFC Champions League Elite 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140859_5647_ITT_ALW_FC-Web_1772186975951.png",
@@ -450,18 +462,6 @@
             "match_name": "Al Hilal SFC vs Al Sadd",
             "match_id": 140858,
             "startTime": "11:45:00 PM 10-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "SPJ Cargo vs MHKL Banaras (Tillo Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
-            "team_1": "SPJ Cargo",
-            "team_2": "MHKL Banaras",
-            "status": "UPCOMING",
-            "event_name": "Tillo Cup 2026",
-            "match_name": "SPJ Cargo vs MHKL Banaras",
-            "match_id": 141263,
-            "startTime": "09:30:00 AM 11-03-2026"
         }
     ]
 }
