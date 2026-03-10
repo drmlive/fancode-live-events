@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:30:59 PM 10-03-2026",
+    "last update time": "12:41:05 PM 10-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Delhi Champions vs Punjab Lions (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Delhi Champions",
-            "team_2": "Punjab Lions",
-            "status": "LIVE",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Delhi Champions vs Punjab Lions",
-            "match_id": 141184,
-            "startTime": "10:10:00 AM 10-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141184_english_hls_da9a75d90c28906_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Malaysia vs Bahrain (Bahrain tour of Malaysia, 2026)",
@@ -274,6 +260,30 @@
             "startTime": "06:30:00 PM 11-03-2026"
         },
         {
+            "event_category": "Football",
+            "title": "Sanfrecce Hiroshima vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140861_5647_HIR_JDT_FC-Web.png",
+            "team_1": "Sanfrecce Hiroshima",
+            "team_2": "Johor Darul Ta'zim",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim",
+            "match_id": 140861,
+            "startTime": "03:30:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Vissel Kobe vs Seoul (AFC Champions League Elite 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140860_5647_VIS_SE_FC-Web.png",
+            "team_1": "Vissel Kobe",
+            "team_2": "Seoul",
+            "status": "UPCOMING",
+            "event_name": "AFC Champions League Elite 2025-26",
+            "match_name": "Vissel Kobe vs Seoul",
+            "match_id": 140860,
+            "startTime": "03:30:00 PM 11-03-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "B Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
@@ -320,30 +330,6 @@
             "match_name": "World Feed",
             "match_id": 141253,
             "startTime": "11:30:00 PM 10-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sanfrecce Hiroshima vs Johor Darul Ta'zim (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140861_5647_HIR_JDT_FC-Web.png",
-            "team_1": "Sanfrecce Hiroshima",
-            "team_2": "Johor Darul Ta'zim",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Sanfrecce Hiroshima vs Johor Darul Ta'zim",
-            "match_id": 140861,
-            "startTime": "03:30:00 PM 11-03-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Vissel Kobe vs Seoul (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140860_5647_VIS_SE_FC-Web.png",
-            "team_1": "Vissel Kobe",
-            "team_2": "Seoul",
-            "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Vissel Kobe vs Seoul",
-            "match_id": 140860,
-            "startTime": "03:30:00 PM 11-03-2026"
         },
         {
             "event_category": "Tennis",
@@ -464,6 +450,18 @@
             "match_name": "B Court Feed",
             "match_id": 141025,
             "startTime": "05:30:00 PM 11-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Argentina vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140710_5971_ARG_MEX_fc-Web.jpg",
+            "team_1": "Argentina",
+            "team_2": "Mexico",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+            "match_name": "Argentina vs Mexico",
+            "match_id": 140710,
+            "startTime": "01:00:00 AM 12-03-2026"
         }
     ]
 }
