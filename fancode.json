@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:05:11 AM 11-03-2026",
+    "last update time": "11:15:17 AM 11-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "10:10:00 AM 11-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141187_english_hls_3aeb163a6331149_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141187_english_hls_3aeb163a6331149_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
-            "team_1": "Los Angeles Football Club",
-            "team_2": "Alajuelense",
-            "status": "LIVE",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Los Angeles Football Club vs Alajuelense",
-            "match_id": 141095,
-            "startTime": "08:30:00 AM 11-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141095_english_hls_d65a03b19884988_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -454,6 +440,18 @@
             "match_name": "Tampines Rovers FC vs Bangkok United",
             "match_id": 140869,
             "startTime": "05:45:00 PM 12-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mexico vs Cayman Islands (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140711_5971_MEX_CAY_fc-Web.jpg",
+            "team_1": "Mexico",
+            "team_2": "Cayman Islands",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+            "match_name": "Mexico vs Cayman Islands",
+            "match_id": 140711,
+            "startTime": "08:00:00 PM 12-03-2026"
         }
     ]
 }
