@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:23:30 PM 11-03-2026",
+    "last update time": "11:33:36 PM 11-03-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -44,20 +44,6 @@
             "startTime": "11:30:00 PM 11-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141025_english_hls_1866ffdf8693874_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141025_english_hls_1866ffdf8693874_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Suriname vs Cayman Islands (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140709_5971_SRN_CAY_fc-Web.jpg",
-            "team_1": "Suriname",
-            "team_2": "Cayman Islands",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-            "match_name": "Suriname vs Cayman Islands",
-            "match_id": 140709,
-            "startTime": "08:00:00 PM 11-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140709_english_hls_c3341c3d0659322_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140709_english_hls_c3341c3d0659322_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -430,6 +416,18 @@
             "match_name": "FC Cincinnati vs Tigres",
             "match_id": 141099,
             "startTime": "06:30:00 AM 13-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Hindon Titans vs Ganga Warriors (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141358_6007_HT_GW_FC-Web.jpg",
+            "team_1": "Hindon Titans",
+            "team_2": "Ganga Warriors",
+            "status": "UPCOMING",
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Hindon Titans vs Ganga Warriors",
+            "match_id": 141358,
+            "startTime": "09:30:00 AM 13-03-2026"
         }
     ]
 }
