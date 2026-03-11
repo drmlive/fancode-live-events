@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:41:46 AM 11-03-2026",
+    "last update time": "05:51:50 AM 11-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "11:30:00 PM 10-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141024_english_hls_38374e3ee254830_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141024_english_hls_38374e3ee254830_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "C Court Feed vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BNP_Paribas-Open_web.jpg",
-            "team_1": "C Court Feed",
-            "team_2": "Indian, United States",
-            "status": "LIVE",
-            "event_name": "ATP Masters BNP Paribas Open 2026",
-            "match_name": "C Court Feed",
-            "match_id": 141254,
-            "startTime": "11:30:00 PM 10-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141254_english_hls_30bd8b7a9424972_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141254_english_hls_30bd8b7a9424972_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -258,18 +244,6 @@
             "startTime": "08:00:00 PM 11-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
-            "team_1": "Los Angeles Football Club",
-            "team_2": "Alajuelense",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Los Angeles Football Club vs Alajuelense",
-            "match_id": 141095,
-            "startTime": "08:30:00 AM 11-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Argentina vs Mexico (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140710_5971_ARG_MEX_fc-Web.jpg",
@@ -280,6 +254,18 @@
             "match_name": "Argentina vs Mexico",
             "match_id": 140710,
             "startTime": "01:00:00 AM 12-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Los Angeles Football Club vs Alajuelense (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141095_5954_LAF_LDA_1772957535861.png",
+            "team_1": "Los Angeles Football Club",
+            "team_2": "Alajuelense",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Los Angeles Football Club vs Alajuelense",
+            "match_id": 141095,
+            "startTime": "08:30:00 AM 11-03-2026"
         },
         {
             "event_category": "Football",
@@ -462,16 +448,28 @@
             "startTime": "12:45:00 PM 12-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Al-Ittihad vs Al Wahda (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140859_5647_ITT_ALW_FC-Web_1772186975951.png",
-            "team_1": "Al-Ittihad",
-            "team_2": "Al Wahda",
+            "event_category": "Cricket",
+            "title": "NCC Odisha vs SPJ Cargo Delhi (Tillo Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+            "team_1": "NCC Odisha",
+            "team_2": "SPJ Cargo Delhi",
             "status": "UPCOMING",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al-Ittihad vs Al Wahda",
-            "match_id": 140859,
-            "startTime": "11:45:00 PM 10-03-2026"
+            "event_name": "Tillo Cup 2026",
+            "match_name": "NCC Odisha vs SPJ Cargo Delhi",
+            "match_id": 141266,
+            "startTime": "01:30:00 PM 12-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Gomti Thunder vs Yamuna Super Kings (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Gomti Thunder",
+            "team_2": "Yamuna Super Kings",
+            "status": "UPCOMING",
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Gomti Thunder vs Yamuna Super Kings",
+            "match_id": 141357,
+            "startTime": "01:30:00 PM 12-03-2026"
         }
     ]
 }
