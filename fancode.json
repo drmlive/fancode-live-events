@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:30:07 PM 14-03-2026",
+    "last update time": "05:40:14 PM 14-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "CAG Delhi vs A&S Kolkata (Tillo Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
-            "team_1": "CAG Delhi",
-            "team_2": "A&S Kolkata",
-            "status": "LIVE",
-            "event_name": "Tillo Cup 2026",
-            "match_name": "CAG Delhi vs A&S Kolkata",
-            "match_id": 141268,
-            "startTime": "01:00:00 PM 14-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141268_english_hls_7fdabb895b71094_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141268_english_hls_7fdabb895b71094_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "East Bengal FC vs Kerala Blasters FC (ISL 2025-26)",
@@ -72,6 +58,20 @@
             "startTime": "05:45:00 PM 14-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141144_english_hls_e8d21caf2716048_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141144_english_hls_e8d21caf2716048_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "CAG Delhi vs A&S Kolkata (Tillo Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Tillo-Cup-2026-old-card-.jpg",
+            "team_1": "CAG Delhi",
+            "team_2": "A&S Kolkata",
+            "status": "LIVE",
+            "event_name": "Tillo Cup 2026",
+            "match_name": "CAG Delhi vs A&S Kolkata",
+            "match_id": 141268,
+            "startTime": "01:00:00 PM 14-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141268_english_hls_7fdabb895b71094_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141268_english_hls_7fdabb895b71094_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -435,18 +435,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Mumbai Maverics vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
-            "team_1": "Mumbai Maverics",
-            "team_2": "Rajasthan Emperors",
-            "status": "UPCOMING",
-            "event_name": "Thunderbolt T10 League 2026",
-            "match_name": "Mumbai Maverics vs Rajasthan Emperors",
-            "match_id": 141201,
-            "startTime": "03:10:00 PM 15-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Konark Suryas Odisha vs Royal Riders Punjab (Legends League Cricket, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141309_6002_KSO_RRP_FC-Web_1773487500736.jpg",
             "team_1": "Konark Suryas Odisha",
@@ -456,6 +444,18 @@
             "match_name": "Konark Suryas Odisha vs Royal Riders Punjab",
             "match_id": 141309,
             "startTime": "07:30:00 PM 15-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mumbai Maverics vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
+            "team_1": "Mumbai Maverics",
+            "team_2": "Rajasthan Emperors",
+            "status": "UPCOMING",
+            "event_name": "Thunderbolt T10 League 2026",
+            "match_name": "Mumbai Maverics vs Rajasthan Emperors",
+            "match_id": 141201,
+            "startTime": "03:10:00 PM 15-03-2026"
         },
         {
             "event_category": "Football",
