@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:37:39 AM 15-03-2026",
+    "last update time": "03:47:47 AM 15-03-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -44,20 +44,6 @@
             "startTime": "02:00:00 AM 15-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141032_english_hls_b321001aef18522_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141032_english_hls_b321001aef18522_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Madrid vs Elche CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131100_5427_RM_ELC_FC-Web.png",
-            "team_1": "Real Madrid",
-            "team_2": "Elche CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Madrid vs Elche CF",
-            "match_id": 131100,
-            "startTime": "01:30:00 AM 15-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/131100_english_hls_4c88e77cd622395_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/131100_english_hls_4c88e77cd622395_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -466,6 +452,18 @@
             "match_name": "Men's Doubles Finals",
             "match_id": 141417,
             "startTime": "06:30:00 AM 15-03-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Race 2 vs China (F1 ACADEMY CHINA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-Academy-China_fc-web.jpg",
+            "team_1": "Race 2",
+            "team_2": "China",
+            "status": "UPCOMING",
+            "event_name": "F1 ACADEMY CHINA 2026",
+            "match_name": "Race 2",
+            "match_id": 139680,
+            "startTime": "08:10:00 AM 15-03-2026"
         }
     ]
 }
