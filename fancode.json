@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:29:21 PM 14-03-2026",
+    "last update time": "04:39:29 PM 14-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -89,11 +89,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140461_5956_EBFC_KBFC_FC-Web_1772451223711.jpg",
             "team_1": "East Bengal FC",
             "team_2": "Kerala Blasters FC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ISL 2025-26",
             "match_name": "East Bengal FC vs Kerala Blasters FC",
             "match_id": 140461,
-            "startTime": "05:00:00 PM 14-03-2026"
+            "startTime": "05:00:00 PM 14-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140461_english_hls_1c1164c92c20788_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140461_english_hls_1c1164c92c20788_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -180,6 +182,18 @@
             "startTime": "06:30:00 PM 14-03-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Cayman Islands vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140714_5971_CAY_SRN_fc-Web.jpg",
+            "team_1": "Cayman Islands",
+            "team_2": "Suriname",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
+            "match_name": "Cayman Islands vs Suriname",
+            "match_id": 140714,
+            "startTime": "01:00:00 AM 15-03-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Bengaluru FC vs Mohun Bagan Super Giant (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140462_5956_BFC_MBSG_FC-Web_1772451336878.jpg",
@@ -202,18 +216,6 @@
             "match_name": "Bengaluru FC vs Mohun Bagan Super Giant",
             "match_id": 141177,
             "startTime": "07:30:00 PM 14-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cayman Islands vs Suriname (ICC Men's T20 WC Americas Sub Regional Qualifier B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140714_5971_CAY_SRN_fc-Web.jpg",
-            "team_1": "Cayman Islands",
-            "team_2": "Suriname",
-            "status": "UPCOMING",
-            "event_name": "ICC Men's T20 WC Americas Sub Regional Qualifier B",
-            "match_name": "Cayman Islands vs Suriname",
-            "match_id": 140714,
-            "startTime": "01:00:00 AM 15-03-2026"
         },
         {
             "event_category": "Football",
@@ -432,18 +434,6 @@
             "startTime": "01:30:00 PM 15-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Japan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
-            "src": "https://images.fancode.com/aig/match/v1773380049877/140815_CASACARDS_APP.png",
-            "team_1": "Japan Women",
-            "team_2": "Philippines Women",
-            "status": "UPCOMING",
-            "event_name": "AFC Women's Asian Cup, 2026",
-            "match_name": "Japan Women vs Philippines Women",
-            "match_id": 140815,
-            "startTime": "10:30:00 AM 15-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mumbai Maverics vs Rajasthan Emperors (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
@@ -454,6 +444,18 @@
             "match_name": "Mumbai Maverics vs Rajasthan Emperors",
             "match_id": 141201,
             "startTime": "03:10:00 PM 15-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Japan Women vs Philippines Women (AFC Women's Asian Cup, 2026)",
+            "src": "https://images.fancode.com/aig/match/v1773380049877/140815_CASACARDS_APP.png",
+            "team_1": "Japan Women",
+            "team_2": "Philippines Women",
+            "status": "UPCOMING",
+            "event_name": "AFC Women's Asian Cup, 2026",
+            "match_name": "Japan Women vs Philippines Women",
+            "match_id": 140815,
+            "startTime": "10:30:00 AM 15-03-2026"
         },
         {
             "event_category": "Cricket",
