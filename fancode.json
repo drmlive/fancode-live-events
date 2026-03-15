@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:16:12 AM 16-03-2026",
+    "last update time": "05:26:19 AM 16-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "05:00:00 AM 14-03-2026",
             "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134041_english_hls_327851520383508_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134041_english_hls_327851520383508_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Men's Singles - Finals vs Indian, United States (ATP Masters BNP Paribas Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Daniil-Medvedev-vs-Jannik-Sinner_fc-web.jpg",
-            "team_1": "Men's Singles - Finals",
-            "team_2": "Indian, United States",
-            "status": "LIVE",
-            "event_name": "ATP Masters BNP Paribas Open 2026",
-            "match_name": "Men's Singles - Finals",
-            "match_id": 141033,
-            "startTime": "02:30:00 AM 16-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/141033_english_hls_4946d14fc960773_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/141033_english_hls_4946d14fc960773_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -418,6 +404,18 @@
             "match_name": "Delhi Champions vs Tamil Nadu Titans",
             "match_id": 141209,
             "startTime": "12:45:00 PM 18-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Manorama Marvels vs Gomti Thunder (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141369_6007_MM_GT_FC-Web.jpg",
+            "team_1": "Manorama Marvels",
+            "team_2": "Gomti Thunder",
+            "status": "UPCOMING",
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Manorama Marvels vs Gomti Thunder",
+            "match_id": 141369,
+            "startTime": "01:30:00 PM 18-03-2026"
         }
     ]
 }
