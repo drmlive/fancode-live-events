@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:13:16 AM 17-03-2026",
+    "last update time": "04:23:25 AM 17-03-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
+            "team_1": "South Australia",
+            "team_2": "Victoria",
+            "status": "LIVE",
+            "event_name": "Sheffield Shield, 2025-26",
+            "match_name": "South Australia vs Victoria",
+            "match_id": 134042,
+            "startTime": "05:00:00 AM 14-03-2026",
+            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/134042_english_hls_bb67f89f6d71162_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/134042_english_hls_bb67f89f6d71162_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "New Zealand Women vs South Africa Women (South Africa Women's tour of New Zealand, 2026)",
@@ -125,18 +139,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "South Australia vs Victoria (Sheffield Shield, 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/134042_5609_VCT_SAU_FC-Web.png",
-            "team_1": "South Australia",
-            "team_2": "Victoria",
-            "status": "PAUSED",
-            "event_name": "Sheffield Shield, 2025-26",
-            "match_name": "South Australia vs Victoria",
-            "match_id": 134042,
-            "startTime": "05:00:00 AM 14-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "New South Wales vs Western Australia (Sheffield Shield, 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/134041_5609_NSW_WAU_FC-Web.png",
             "team_1": "New South Wales",
@@ -244,18 +246,6 @@
             "startTime": "04:00:00 AM 18-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs Boston",
-            "team_2": "Florida",
-            "status": "UPCOMING",
-            "event_name": "TGL Season 2",
-            "match_name": "Jupiter vs Boston",
-            "match_id": 139179,
-            "startTime": "06:30:00 AM 18-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Delhi Champions vs Tamil Nadu Titans (Thunderbolt T10 League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8).png",
@@ -266,6 +256,18 @@
             "match_name": "Delhi Champions vs Tamil Nadu Titans",
             "match_id": 141209,
             "startTime": "12:45:00 PM 18-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
+            "team_1": "Jupiter vs Boston",
+            "team_2": "Florida",
+            "status": "UPCOMING",
+            "event_name": "TGL Season 2",
+            "match_name": "Jupiter vs Boston",
+            "match_id": 139179,
+            "startTime": "06:30:00 AM 18-03-2026"
         },
         {
             "event_category": "Cricket",
