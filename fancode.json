@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:52:15 PM 17-03-2026",
+    "last update time": "04:02:22 PM 17-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "03:10:00 PM 17-03-2026",
             "dai_url": null,
             "adfree_url": null
-        },
-        {
-            "event_category": "Football",
-            "title": "Sydney FC vs Melbourne City (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1773733471726/140916_CASACARDS_APP.png",
-            "team_1": "Sydney FC",
-            "team_2": "Melbourne City",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Sydney FC vs Melbourne City",
-            "match_id": 140916,
-            "startTime": "01:30:00 PM 17-03-2026",
-            "dai_url": "https://in-mc-fdlive.fancode.com/mumbai/140916_english_hls_f436e9426f16006_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fdlive.fancode.com/mumbai/140916_english_hls_f436e9426f16006_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -418,6 +404,18 @@
             "match_name": "Uzbekistan Women vs Philippines Women",
             "match_id": 140818,
             "startTime": "08:00:00 AM 19-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Seattle Sounders FC vs Vancouver Whitecaps FC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141106_5954_SS_VAN_1772957805583.png",
+            "team_1": "Seattle Sounders FC",
+            "team_2": "Vancouver Whitecaps FC",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Seattle Sounders FC vs Vancouver Whitecaps FC",
+            "match_id": 141106,
+            "startTime": "08:30:00 AM 19-03-2026"
         }
     ]
 }
