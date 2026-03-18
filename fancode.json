@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:34:12 AM 18-03-2026",
+    "last update time": "08:44:20 AM 18-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -32,20 +32,6 @@
             "adfree_url": null
         },
         {
-            "event_category": "Golf",
-            "title": "Jupiter vs Boston vs Florida (TGL Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png",
-            "team_1": "Jupiter vs Boston",
-            "team_2": "Florida",
-            "status": "LIVE",
-            "event_name": "TGL Season 2",
-            "match_name": "Jupiter vs Boston",
-            "match_id": 139179,
-            "startTime": "06:30:00 AM 18-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
             "event_category": "Cricket",
             "title": "Konark Suryas Odisha vs India Tigers (Legends League Cricket, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Konark-Suryas-Odisha-vs-India-Tigers_web.jpg",
@@ -63,11 +49,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141368_6007_SS_CC_FC-Web.jpg",
             "team_1": "Saryu Smashers",
             "team_2": "Chambal Chargers",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Ayodhya Premier League",
             "match_name": "Saryu Smashers vs Chambal Chargers",
             "match_id": 141368,
-            "startTime": "09:00:00 AM 18-03-2026"
+            "startTime": "09:00:00 AM 18-03-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -416,6 +404,18 @@
             "match_name": "Chinese Taipei Women vs DPR Korea Women",
             "match_id": 140819,
             "startTime": "02:00:00 PM 19-03-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Mumbai Spartans vs Southern Super Stars (Legends League Cricket, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141314_6002_MSP_SSS_FC-Web_1773487500004.jpg",
+            "team_1": "Mumbai Spartans",
+            "team_2": "Southern Super Stars",
+            "status": "UPCOMING",
+            "event_name": "Legends League Cricket, 2026",
+            "match_name": "Mumbai Spartans vs Southern Super Stars",
+            "match_id": 141314,
+            "startTime": "07:30:00 PM 19-03-2026"
         }
     ]
 }
