@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:32:32 AM 22-03-2026",
+    "last update time": "03:42:39 AM 22-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Sevilla FC vs Valencia CF (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Valencia CF",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Sevilla FC vs Valencia CF",
-            "match_id": 131118,
-            "startTime": "01:30:00 AM 22-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Football",
             "title": "Deportivo Alaves vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
@@ -116,14 +102,28 @@
             "adfree_url": null
         },
         {
+            "event_category": "Football",
+            "title": "Sevilla FC vs Valencia CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131118_5427_SEV_VAL_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Valencia CF",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla FC vs Valencia CF",
+            "match_id": 131118,
+            "startTime": "01:30:00 AM 22-03-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Cricket",
-            "title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
+            "title": "Australia Women vs West Indies Women (Australia Women's tour of West Indies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
-            "team_1": "West Indies Women",
-            "team_2": "Australia Women",
+            "team_1": "Australia Women",
+            "team_2": "West Indies Women",
             "status": "UPCOMING",
             "event_name": "Australia Women's tour of West Indies 2026",
-            "match_name": "West Indies Women vs Australia Women",
+            "match_name": "Australia Women vs West Indies Women",
             "match_id": 141329,
             "startTime": "04:00:00 AM 22-03-2026"
         },
