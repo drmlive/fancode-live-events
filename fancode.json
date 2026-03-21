@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:11:56 PM 21-03-2026",
+    "last update time": "01:22:04 PM 21-03-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Mumbai Aces vs Delhi Titans (Actors Cricket Bash 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141334_6005_MA_DTA_fc-Web.jpg",
-            "team_1": "Mumbai Aces",
-            "team_2": "Delhi Titans",
-            "status": "LIVE",
-            "event_name": "Actors Cricket Bash 2026",
-            "match_name": "Mumbai Aces vs Delhi Titans",
-            "match_id": 141334,
-            "startTime": "09:00:00 AM 21-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "Hindon Titans vs Saryu Smashers (Ayodhya Premier League)",
@@ -46,6 +32,20 @@
             "adfree_url": null
         },
         {
+            "event_category": "Cricket",
+            "title": "Manorama Marvels vs Betwa Blasters (Ayodhya Premier League)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141375_6007_MM_BB_FC-Web.jpg",
+            "team_1": "Manorama Marvels",
+            "team_2": "Betwa Blasters",
+            "status": "LIVE",
+            "event_name": "Ayodhya Premier League",
+            "match_name": "Manorama Marvels vs Betwa Blasters",
+            "match_id": 141375,
+            "startTime": "01:30:00 PM 21-03-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
             "event_category": "Football",
             "title": "Melbourne Victory vs Central Coast Mariners (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140920_5802_MLV_CCM_fc-web.jpg",
@@ -61,20 +61,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Queensland Fire vs New South Wales Breakers (Women's National Cricket League, 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1773906801421/133992_CASACARDS_APP.png",
-            "team_1": "Queensland Fire",
-            "team_2": "New South Wales Breakers",
-            "status": "LIVE",
-            "event_name": "Women's National Cricket League, 2025-26",
-            "match_name": "Queensland Fire vs New South Wales Breakers",
-            "match_id": 133992,
-            "startTime": "04:30:00 AM 21-03-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
-        {
-            "event_category": "Cricket",
             "title": "West Indies Women vs Australia Women (Australia Women's tour of West Indies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Australia_T-20_fc-web.jpg",
             "team_1": "West Indies Women",
@@ -84,18 +70,6 @@
             "match_name": "West Indies Women vs Australia Women",
             "match_id": 141329,
             "startTime": "04:00:00 AM 22-03-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Manorama Marvels vs Betwa Blasters (Ayodhya Premier League)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141375_6007_MM_BB_FC-Web.jpg",
-            "team_1": "Manorama Marvels",
-            "team_2": "Betwa Blasters",
-            "status": "UPCOMING",
-            "event_name": "Ayodhya Premier League",
-            "match_name": "Manorama Marvels vs Betwa Blasters",
-            "match_id": 141375,
-            "startTime": "01:30:00 PM 21-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -362,18 +336,6 @@
             "startTime": "11:00:00 PM 21-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Deportivo Alaves vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1773431102732/141410_CASACARDS_APP.png",
-            "team_1": "Deportivo Alaves",
-            "team_2": "Real Zaragoza",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Deportivo Alaves vs Real Zaragoza",
-            "match_id": 141410,
-            "startTime": "01:30:00 AM 22-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Mumbai Spartans vs Konark Suryas Odisha (Legends League Cricket, 2026)",
             "src": "https://images.fancode.com/aig/match/v1773888340455/141317_CASACARDS_APP.png",
@@ -384,6 +346,18 @@
             "match_name": "Mumbai Spartans vs Konark Suryas Odisha",
             "match_id": 141317,
             "startTime": "02:30:00 PM 22-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Deportivo Alaves vs Real Zaragoza (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1773431102732/141410_CASACARDS_APP.png",
+            "team_1": "Deportivo Alaves",
+            "team_2": "Real Zaragoza",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Deportivo Alaves vs Real Zaragoza",
+            "match_id": 141410,
+            "startTime": "01:30:00 AM 22-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -432,6 +406,18 @@
             "match_name": "Chennai Marvels vs Ahmedabad Lions",
             "match_id": 141339,
             "startTime": "02:30:00 PM 22-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Perth Glory vs Melbourne City (A League 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140922_5802_PG_MLC_fc-web.jpg",
+            "team_1": "Perth Glory",
+            "team_2": "Melbourne City",
+            "status": "UPCOMING",
+            "event_name": "A League 2025-26",
+            "match_name": "Perth Glory vs Melbourne City",
+            "match_id": 140922,
+            "startTime": "01:30:00 PM 22-03-2026"
         },
         {
             "event_category": "MotoGP",
