@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:06:52 PM 24-03-2026",
+    "last update time": "01:17:00 PM 24-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141381_6007_SS_GW_FC-Web.jpg",
             "team_1": "Saryu Smashers",
             "team_2": "Ganga Warriors",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Ayodhya Premier League",
             "match_name": "Saryu Smashers vs Ganga Warriors",
             "match_id": 141381,
-            "startTime": "01:30:00 PM 24-03-2026"
+            "startTime": "01:30:00 PM 24-03-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -102,18 +104,6 @@
             "startTime": "11:15:00 PM 24-03-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Arsenal Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1772169946122/140960_CASACARDS_APP.png",
-            "team_1": "Arsenal Women",
-            "team_2": "Chelsea F.C. Women",
-            "status": "UPCOMING",
-            "event_name": "UEFA Women's Champions League 2025-26",
-            "match_name": "Arsenal Women vs Chelsea F.C. Women",
-            "match_id": 140960,
-            "startTime": "01:30:00 AM 25-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "New Zealand vs South Africa (South Africa tour of New Zealand, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
@@ -124,6 +114,18 @@
             "match_name": "New Zealand vs South Africa",
             "match_id": 141065,
             "startTime": "11:45:00 AM 25-03-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Arsenal Women vs Chelsea F.C. Women (UEFA Women's Champions League 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1772169946122/140960_CASACARDS_APP.png",
+            "team_1": "Arsenal Women",
+            "team_2": "Chelsea F.C. Women",
+            "status": "UPCOMING",
+            "event_name": "UEFA Women's Champions League 2025-26",
+            "match_name": "Arsenal Women vs Chelsea F.C. Women",
+            "match_id": 140960,
+            "startTime": "01:30:00 AM 25-03-2026"
         },
         {
             "event_category": "Cricket",
@@ -342,18 +344,6 @@
             "startTime": "11:15:00 PM 25-03-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "C Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "C Court Feed",
-            "team_2": "Miami, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Miami Open 2026",
-            "match_name": "C Court Feed",
-            "match_id": 141483,
-            "startTime": "08:30:00 PM 25-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Manchester United Women vs Bayern Munich Women (UEFA Women's Champions League 2025-26)",
             "src": "https://images.fancode.com/aig/match/v1772169946118/140962_CASACARDS_APP.png",
@@ -364,6 +354,18 @@
             "match_name": "Manchester United Women vs Bayern Munich Women",
             "match_id": 140962,
             "startTime": "01:30:00 AM 26-03-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "C Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+            "team_1": "C Court Feed",
+            "team_2": "Miami, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Miami Open 2026",
+            "match_name": "C Court Feed",
+            "match_id": 141483,
+            "startTime": "08:30:00 PM 25-03-2026"
         },
         {
             "event_category": "Tennis",
