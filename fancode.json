@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:24:08 AM 25-03-2026",
+    "last update time": "11:34:16 AM 25-03-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "South Africa vs New Zealand (South Africa tour of New Zealand, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
+            "team_1": "South Africa",
+            "team_2": "New Zealand",
+            "status": "LIVE",
+            "event_name": "South Africa tour of New Zealand, 2026",
+            "match_name": "South Africa vs New Zealand",
+            "match_id": 141065,
+            "startTime": "11:45:00 AM 25-03-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
         {
             "event_category": "Cricket",
             "title": "Manorama Marvels vs Yamuna Super Kings (Ayodhya Premier League)",
@@ -19,27 +33,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "South Africa vs New Zealand (South Africa tour of New Zealand, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/NZ_SA_Web_1080_x_810.jpg",
-            "team_1": "South Africa",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "South Africa tour of New Zealand, 2026",
-            "match_name": "South Africa vs New Zealand",
-            "match_id": 141065,
-            "startTime": "11:45:00 AM 25-03-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Delhi Titans vs Chandigarh Mavericks (Actors Cricket Bash 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141347_6005_DTA_CMA_fc-Web.jpg",
             "team_1": "Delhi Titans",
             "team_2": "Chandigarh Mavericks",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Actors Cricket Bash 2026",
             "match_name": "Delhi Titans vs Chandigarh Mavericks",
             "match_id": 141347,
-            "startTime": "11:45:00 AM 25-03-2026"
+            "startTime": "11:45:00 AM 25-03-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -186,18 +190,6 @@
             "startTime": "01:30:00 PM 26-03-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "C Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
-            "team_1": "C Court Feed",
-            "team_2": "Miami, United States",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Miami Open 2026",
-            "match_name": "C Court Feed",
-            "match_id": 141483,
-            "startTime": "08:30:00 PM 25-03-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Actors Cricket Bash 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Actors-Cricket-Bash-2026-old.png",
@@ -208,6 +200,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 141351,
             "startTime": "02:30:00 PM 26-03-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "C Court Feed vs Miami, United States (ATP Masters Miami Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami_open_ATP_1000_FC-WEB_1773742804978.jpg",
+            "team_1": "C Court Feed",
+            "team_2": "Miami, United States",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Miami Open 2026",
+            "match_name": "C Court Feed",
+            "match_id": 141483,
+            "startTime": "08:30:00 PM 25-03-2026"
         },
         {
             "event_category": "Tennis",
