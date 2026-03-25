@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:00:04 PM 25-03-2026",
+    "last update time": "07:10:12 PM 25-03-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/06_Malawi-vs-Ghana_1774006033024.png",
             "team_1": "Malawi",
             "team_2": "Ghana",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
             "match_name": "Malawi vs Ghana",
             "match_id": 140978,
-            "startTime": "07:20:00 PM 25-03-2026"
+            "startTime": "07:20:00 PM 25-03-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -186,18 +188,6 @@
             "startTime": "06:00:00 PM 26-03-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
-            "team_1": "Featured Groups - Day 1",
-            "team_2": "Memorial Park Golf Course - Houston, Texas",
-            "status": "UPCOMING",
-            "event_name": "Texas Children's Houston Open 2026",
-            "match_name": "Featured Groups - Day 1",
-            "match_id": 141588,
-            "startTime": "06:15:00 PM 26-03-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Brazil vs France (International Friendlies 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
@@ -208,6 +198,18 @@
             "match_name": "Brazil vs France",
             "match_id": 141604,
             "startTime": "01:30:00 AM 27-03-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Featured Groups - Day 1 vs Memorial Park Golf Course - Houston, Texas (Texas Children's Houston Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Texas-Children's-Houston-Open-2026-old-match-card.png",
+            "team_1": "Featured Groups - Day 1",
+            "team_2": "Memorial Park Golf Course - Houston, Texas",
+            "status": "UPCOMING",
+            "event_name": "Texas Children's Houston Open 2026",
+            "match_name": "Featured Groups - Day 1",
+            "match_id": 141588,
+            "startTime": "06:15:00 PM 26-03-2026"
         },
         {
             "event_category": "Golf",
