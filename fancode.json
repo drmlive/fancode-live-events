@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:53:31 AM 06-04-2026",
+    "last update time": "01:03:43 AM 06-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "12:30:00 AM 06-04-2026",
             "dai_url": "https://dai-partner.fancode.com/primary/131123_english_hls_d08e9900cb27379_1ta-di_h264/index.m3u8",
             "adfree_url": "https://dai-partner.fancode.com/primary/131123_english_hls_d08e9900cb27379_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "Court Ranier III vs Monte-Carlo (ATP Masters Rolex Monte-Carlo 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Monte-Carlo-Masters_fc-web.jpg",
-            "team_1": "Court Ranier III",
-            "team_2": "Monte-Carlo",
-            "status": "LIVE",
-            "event_name": "ATP Masters Rolex Monte-Carlo 2026",
-            "match_name": "Court Ranier III",
-            "match_id": 141657,
-            "startTime": "02:30:00 PM 05-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141657_english_hls_6d4105e50287899_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141657_english_hls_6d4105e50287899_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -488,6 +474,30 @@
             "match_name": "Brazil Women vs Mozambique Women",
             "match_id": 141895,
             "startTime": "05:45:00 PM 07-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chennaiyin FC vs Inter Kashi FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140478_5956_CFC_KSHI_FC-Web_1772460695978.jpg",
+            "team_1": "Chennaiyin FC",
+            "team_2": "Inter Kashi FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "Chennaiyin FC vs Inter Kashi FC",
+            "match_id": 140478,
+            "startTime": "07:30:00 PM 07-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Chennaiyin FC vs Inter Kashi FC (ISL 2025-26  - Regional)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Chennaiyin FC",
+            "team_2": "Inter Kashi FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "Chennaiyin FC vs Inter Kashi FC",
+            "match_id": 141805,
+            "startTime": "07:30:00 PM 07-04-2026"
         }
     ]
 }
