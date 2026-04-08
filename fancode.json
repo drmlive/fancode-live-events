@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:12:07 PM 08-04-2026",
+    "last update time": "01:22:16 PM 08-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia A vs Hong Kong, China-A (Hong Kong, China-A tour of Malaysia-A 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong,-China-A-tour-of-Malaysia-A-2026-old-card.jpg",
-            "team_1": "Malaysia A",
-            "team_2": "Hong Kong, China-A",
-            "status": "LIVE",
-            "event_name": "Hong Kong, China-A tour of Malaysia-A 2026",
-            "match_name": "Malaysia A vs Hong Kong, China-A",
-            "match_id": 141775,
-            "startTime": "07:00:00 AM 08-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/141775_english_hls_844378ce6977337_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/141775_english_hls_844378ce6977337_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Sri Lanka A vs New Zealand A (New Zealand A Tour of Sri Lanka 2026)",
@@ -79,11 +65,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141744_6028_SYK_BNA_FC-WEB.jpg",
             "team_1": "Sydney Kangaroos",
             "team_2": "Brisbane Napoleans",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Brisbane Champions League 2026",
             "match_name": "Sydney Kangaroos vs Brisbane Napoleans",
             "match_id": 141744,
-            "startTime": "01:30:00 PM 08-04-2026"
+            "startTime": "01:30:00 PM 08-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141744_english_hls_74bb2a100a65247_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141744_english_hls_74bb2a100a65247_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -134,6 +122,18 @@
             "startTime": "07:00:00 AM 09-04-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "New York Liberty XI vs Perth United Warriors (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg",
+            "team_1": "New York Liberty XI",
+            "team_2": "Perth United Warriors",
+            "status": "UPCOMING",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "New York Liberty XI vs Perth United Warriors",
+            "match_id": 141748,
+            "startTime": "08:30:00 AM 09-04-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Chinese Taipei U20 vs India U20 (AFC U20 Women's Asian Cup 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141626_6021_CT-U20_IND-U20_FC-Web.png",
@@ -168,18 +168,6 @@
             "match_name": "Gamba Osaka vs Bangkok United",
             "match_id": 140871,
             "startTime": "03:30:00 PM 08-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "New York Liberty XI vs Perth United Warriors (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141748_6028_NYL_PUW_FC-WEB.jpg",
-            "team_1": "New York Liberty XI",
-            "team_2": "Perth United Warriors",
-            "status": "UPCOMING",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "New York Liberty XI vs Perth United Warriors",
-            "match_id": 141748,
-            "startTime": "08:30:00 AM 09-04-2026"
         },
         {
             "event_category": "Football",
@@ -468,6 +456,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 141905,
             "startTime": "01:00:00 PM 10-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Iconic Super Knights vs Brisbane Stars (Brisbane Champions League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141752_6028_ISK_BRS_FC-WEB.jpg",
+            "team_1": "Iconic Super Knights",
+            "team_2": "Brisbane Stars",
+            "status": "UPCOMING",
+            "event_name": "Brisbane Champions League 2026",
+            "match_name": "Iconic Super Knights vs Brisbane Stars",
+            "match_id": 141752,
+            "startTime": "01:30:00 PM 10-04-2026"
         }
     ]
 }
