@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:40:43 PM 10-04-2026",
+    "last update time": "03:50:51 PM 10-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:00:00 PM 10-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141650_english_hls_f2fe6bcb1964793_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141650_english_hls_f2fe6bcb1964793_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malawi Women vs Lesotho Women (Kalahari Women's T20 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Kalahari-Women's-T20I-Series--old--psd.png",
-            "team_1": "Malawi Women",
-            "team_2": "Lesotho Women",
-            "status": "LIVE",
-            "event_name": "Kalahari Women's T20 2026",
-            "match_name": "Malawi Women vs Lesotho Women",
-            "match_id": 141905,
-            "startTime": "01:00:00 PM 10-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141905_english_hls_f455fe507e61920_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141905_english_hls_f455fe507e61920_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -460,6 +446,18 @@
             "match_name": "World Feed",
             "match_id": 141918,
             "startTime": "02:30:00 PM 11-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "FC Barcelona vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "RCD Espanyol",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "FC Barcelona vs RCD Espanyol",
+            "match_id": 131133,
+            "startTime": "10:00:00 PM 11-04-2026"
         }
     ]
 }
