@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:56:30 PM 11-04-2026",
+    "last update time": "12:06:38 AM 12-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "FC Barcelona vs RCD Espanyol (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "RCD Espanyol",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "FC Barcelona vs RCD Espanyol",
-            "match_id": 131133,
-            "startTime": "10:00:00 PM 11-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/131133_english_hls_33189ff1aa81176_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/131133_english_hls_33189ff1aa81176_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "Al-Okhdood Club vs Al-Nassr FC (Roshn Saudi League 2025-2026)",
@@ -30,6 +16,20 @@
             "startTime": "11:30:00 PM 11-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140729_english_hls_052ab3a18524466_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140729_english_hls_052ab3a18524466_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sevilla FC vs Atletico de Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Atletico de Madrid",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla FC vs Atletico de Madrid",
+            "match_id": 131138,
+            "startTime": "12:30:00 AM 12-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/131138_english_hls_80001a68d07873_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/131138_english_hls_80001a68d07873_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -61,15 +61,17 @@
         },
         {
             "event_category": "Football",
-            "title": "Sevilla FC vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Atletico de Madrid",
-            "status": "UPCOMING",
+            "title": "FC Barcelona vs RCD Espanyol (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131133_5427_BAR_ESL_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "RCD Espanyol",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
-            "match_name": "Sevilla FC vs Atletico de Madrid",
-            "match_id": 131138,
-            "startTime": "12:30:00 AM 12-04-2026"
+            "match_name": "FC Barcelona vs RCD Espanyol",
+            "match_id": 131133,
+            "startTime": "10:00:00 PM 11-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/131133_english_hls_33189ff1aa81176_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/131133_english_hls_33189ff1aa81176_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
