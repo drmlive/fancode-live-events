@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:15:35 AM 11-04-2026",
+    "last update time": "10:25:43 AM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140930_5802_AFC_MLV_fc-web.jpg",
             "team_1": "Auckland",
             "team_2": "Melbourne Victory",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "A League 2025-26",
             "match_name": "Auckland vs Melbourne Victory",
             "match_id": 140930,
-            "startTime": "10:30:00 AM 11-04-2026"
+            "startTime": "10:30:00 AM 11-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140930_english_hls_02ad009f5d53407_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140930_english_hls_02ad009f5d53407_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -356,18 +358,6 @@
             "startTime": "02:30:00 PM 11-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Georgia, USA (The Augusta Masters 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-            "team_1": "Day 3",
-            "team_2": "Georgia, USA",
-            "status": "UPCOMING",
-            "event_name": "The Augusta Masters 2026",
-            "match_name": "Day 3",
-            "match_id": 141878,
-            "startTime": "09:30:00 PM 11-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Melbourne Pirates vs Everest Falcons (Brisbane Champions League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
@@ -378,6 +368,18 @@
             "match_name": "Melbourne Pirates vs Everest Falcons",
             "match_id": 141753,
             "startTime": "01:30:00 PM 12-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Georgia, USA (The Augusta Masters 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+            "team_1": "Day 3",
+            "team_2": "Georgia, USA",
+            "status": "UPCOMING",
+            "event_name": "The Augusta Masters 2026",
+            "match_name": "Day 3",
+            "match_id": 141878,
+            "startTime": "09:30:00 PM 11-04-2026"
         },
         {
             "event_category": "Football",
