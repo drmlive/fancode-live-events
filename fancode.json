@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:35:04 AM 11-04-2026",
+    "last update time": "09:45:11 AM 11-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-Tour-of-Sri-Lanka_FC-WEB.jpg",
             "team_1": "Sri Lanka A",
             "team_2": "New Zealand A",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "New Zealand A Tour of Sri Lanka 2026",
             "match_name": "Sri Lanka A vs New Zealand A",
             "match_id": 141800,
-            "startTime": "10:00:00 AM 11-04-2026"
+            "startTime": "10:00:00 AM 11-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141800_english_hls_3ff8d8df5f63436_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -330,18 +332,6 @@
             "startTime": "02:30:00 PM 11-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 3 vs Georgia, USA (The Augusta Masters 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
-            "team_1": "Day 3",
-            "team_2": "Georgia, USA",
-            "status": "UPCOMING",
-            "event_name": "The Augusta Masters 2026",
-            "match_name": "Day 3",
-            "match_id": 141878,
-            "startTime": "09:30:00 PM 11-04-2026"
-        },
-        {
             "event_category": "Football",
             "title": "Melbourne City vs Wellington Phoenix (A League 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140933_5802_MLC_WEL_fc-web.jpg",
@@ -352,6 +342,18 @@
             "match_name": "Melbourne City vs Wellington Phoenix",
             "match_id": 140933,
             "startTime": "10:30:00 AM 12-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Georgia, USA (The Augusta Masters 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/The-Masters-Augusta-old-card-.jpg",
+            "team_1": "Day 3",
+            "team_2": "Georgia, USA",
+            "status": "UPCOMING",
+            "event_name": "The Augusta Masters 2026",
+            "match_name": "Day 3",
+            "match_id": 141878,
+            "startTime": "09:30:00 PM 11-04-2026"
         },
         {
             "event_category": "Cricket",
