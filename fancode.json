@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:28:15 AM 12-04-2026",
+    "last update time": "02:38:21 AM 12-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Sevilla FC vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Atletico de Madrid",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Sevilla FC vs Atletico de Madrid",
-            "match_id": 131138,
-            "startTime": "12:30:00 AM 12-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/131138_english_hls_80001a68d07873_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/131138_english_hls_80001a68d07873_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 3 vs Georgia, USA (The Augusta Masters 2026)",
@@ -30,6 +16,20 @@
             "startTime": "09:30:00 PM 11-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141878_english_hls_4e46a6a11037634_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141878_english_hls_4e46a6a11037634_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Sevilla FC vs Atletico de Madrid (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131138_5427_SEV_ATL_FC-Web.png",
+            "team_1": "Sevilla FC",
+            "team_2": "Atletico de Madrid",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Sevilla FC vs Atletico de Madrid",
+            "match_id": 131138,
+            "startTime": "12:30:00 AM 12-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/131138_english_hls_80001a68d07873_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/131138_english_hls_80001a68d07873_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -261,18 +261,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Huesca vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1774680543090/141688_CASACARDS_APP.png",
-            "team_1": "Huesca",
-            "team_2": "Deportivo La Coruna",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Huesca vs Deportivo La Coruna",
-            "match_id": 141688,
-            "startTime": "07:45:00 PM 12-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Athletic Club vs Villarreal CF (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131132_5427_ATH_VIL_FC-Web.png",
             "team_1": "Athletic Club",
@@ -282,6 +270,18 @@
             "match_name": "Athletic Club vs Villarreal CF",
             "match_id": 131132,
             "startTime": "12:30:00 AM 13-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Huesca vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1774680543090/141688_CASACARDS_APP.png",
+            "team_1": "Huesca",
+            "team_2": "Deportivo La Coruna",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Huesca vs Deportivo La Coruna",
+            "match_id": 141688,
+            "startTime": "07:45:00 PM 12-04-2026"
         },
         {
             "event_category": "Football",
