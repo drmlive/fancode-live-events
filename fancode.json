@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:46:27 PM 12-04-2026",
+    "last update time": "12:56:36 PM 12-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:00:00 PM 12-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141651_english_hls_f6710f25075140_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141651_english_hls_f6710f25075140_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Melbourne City vs Wellington Phoenix (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140933_5802_MLC_WEL_fc-web.jpg",
-            "team_1": "Melbourne City",
-            "team_2": "Wellington Phoenix",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Melbourne City vs Wellington Phoenix",
-            "match_id": 140933,
-            "startTime": "10:30:00 AM 12-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140933_english_hls_579b7f681412498_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140933_english_hls_579b7f681412498_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -236,18 +222,6 @@
             "startTime": "07:30:00 PM 12-04-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Huesca vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1774680543090/141688_CASACARDS_APP.png",
-            "team_1": "Huesca",
-            "team_2": "Deportivo La Coruna",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Huesca vs Deportivo La Coruna",
-            "match_id": 141688,
-            "startTime": "07:45:00 PM 12-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "New York Liberty XI vs Melbourne Pirates (Brisbane Champions League 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141757_6028_NYL_MEP_FC-WEB.jpg",
@@ -258,6 +232,18 @@
             "match_name": "New York Liberty XI vs Melbourne Pirates",
             "match_id": 141757,
             "startTime": "08:30:00 AM 13-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Huesca vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1774680543090/141688_CASACARDS_APP.png",
+            "team_1": "Huesca",
+            "team_2": "Deportivo La Coruna",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Huesca vs Deportivo La Coruna",
+            "match_id": 141688,
+            "startTime": "07:45:00 PM 12-04-2026"
         },
         {
             "event_category": "Football",
@@ -461,6 +447,18 @@
             "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
             "match_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
             "match_id": 141827,
+            "startTime": "05:30:00 PM 14-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - Barcelona Open Banc Sabadell 2026 vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "team_2": "Barcelona",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
+            "match_id": 141826,
             "startTime": "05:30:00 PM 14-04-2026"
         }
     ]
