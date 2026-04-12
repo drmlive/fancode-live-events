@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:29:10 PM 12-04-2026",
+    "last update time": "04:39:19 PM 12-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "01:00:00 PM 12-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141651_english_hls_f6710f25075140_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141651_english_hls_f6710f25075140_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Melbourne Pirates vs Everest Falcons (Brisbane Champions League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141753_6028_MEP_EVF_FC-WEB.jpg",
-            "team_1": "Melbourne Pirates",
-            "team_2": "Everest Falcons",
-            "status": "LIVE",
-            "event_name": "Brisbane Champions League 2026",
-            "match_name": "Melbourne Pirates vs Everest Falcons",
-            "match_id": 141753,
-            "startTime": "01:30:00 PM 12-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141753_english_hls_65ac4e962c17903_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141753_english_hls_65ac4e962c17903_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -93,11 +79,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140484_5956_KSHI_MSC_FC-Web_1772461210831.jpg",
             "team_1": "Inter Kashi",
             "team_2": "Mohammedan SC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ISL 2025-26",
             "match_name": "Inter Kashi vs Mohammedan SC",
             "match_id": 140484,
-            "startTime": "05:00:00 PM 12-04-2026"
+            "startTime": "05:00:00 PM 12-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/140484_english_hls_d7caf30be032030_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/140484_english_hls_d7caf30be032030_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -469,6 +457,18 @@
             "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
             "match_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
             "match_id": 141826,
+            "startTime": "05:30:00 PM 14-04-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "ATP 500 - BMW Open by Bitpanda 2026 vs Munich, Germany (ATP 500 - BMW Open by Bitpanda 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BMW-Open-by-Bitpanda_fc-web.jpg",
+            "team_1": "ATP 500 - BMW Open by Bitpanda 2026",
+            "team_2": "Munich, Germany",
+            "status": "UPCOMING",
+            "event_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_name": "ATP 500 - BMW Open by Bitpanda 2026",
+            "match_id": 141841,
             "startTime": "05:30:00 PM 14-04-2026"
         }
     ]
