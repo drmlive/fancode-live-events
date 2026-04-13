@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:33:11 PM 13-04-2026",
+    "last update time": "11:43:21 PM 13-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "08:30:00 PM 12-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141948_english_hls_81e187044a8694_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141948_english_hls_81e187044a8694_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Al-Ahli Saudi FC vs Al Duhail (AFC Champions League Elite 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140854_5647_AAS_ADH_FC-WEB.png",
-            "team_1": "Al-Ahli Saudi FC",
-            "team_2": "Al Duhail",
-            "status": "LIVE",
-            "event_name": "AFC Champions League Elite 2025-26",
-            "match_name": "Al-Ahli Saudi FC vs Al Duhail",
-            "match_id": 140854,
-            "startTime": "08:15:00 PM 13-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140854_english_hls_9ab1941657296_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140854_english_hls_9ab1941657296_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -105,11 +91,13 @@
             "src": "https://images.fancode.com/aig/match/v1776063278979/141690_CASACARDS_APP.png",
             "team_1": "Real Valladolid",
             "team_2": "Eibar",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA Hypermotion 2025-26",
             "match_name": "Real Valladolid vs Eibar",
             "match_id": 141690,
-            "startTime": "12:00:00 AM 14-04-2026"
+            "startTime": "12:00:00 AM 14-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141690_english_hls_3e89bb3b9e11860_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141690_english_hls_3e89bb3b9e11860_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -458,6 +446,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 141764,
             "startTime": "01:30:00 PM 16-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal FC vs Bengaluru FC (ISL 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/140487_5956_EBFC_BFC_FC-Web_1772461581168.jpg",
+            "team_1": "East Bengal FC",
+            "team_2": "Bengaluru FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26",
+            "match_name": "East Bengal FC vs Bengaluru FC",
+            "match_id": 140487,
+            "startTime": "07:30:00 PM 16-04-2026"
         }
     ]
 }
