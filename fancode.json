@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:04:30 AM 15-04-2026",
+    "last update time": "12:14:40 AM 15-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -79,11 +79,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141525_5489_PRM_IPT_fc-web_1776167542322.jpg",
             "team_1": "Portsmouth F.C.",
             "team_2": "Ipswich Town F.C.",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2025-26",
             "match_name": "Portsmouth F.C. vs Ipswich Town F.C.",
             "match_id": 141525,
-            "startTime": "12:30:00 AM 15-04-2026"
+            "startTime": "12:30:00 AM 15-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141525_english_hls_f95abd3e4c59640_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141525_english_hls_f95abd3e4c59640_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -91,11 +93,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/141928_5489_SOU_BLK_fc-web.jpg",
             "team_1": "Southampton F.C.",
             "team_2": "Blackburn Rovers F.C.",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2025-26",
             "match_name": "Southampton F.C. vs Blackburn Rovers F.C.",
             "match_id": 141928,
-            "startTime": "12:30:00 AM 15-04-2026"
+            "startTime": "12:30:00 AM 15-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141928_english_hls_5089477c5115646_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141928_english_hls_5089477c5115646_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -147,18 +151,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Club Am\u00e9rica vs Nashville SC (CONCACAF Champions Cup 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141885_5954_AME_NSH_FC-Web.png",
-            "team_1": "Club Am\u00e9rica",
-            "team_2": "Nashville SC",
-            "status": "UPCOMING",
-            "event_name": "CONCACAF Champions Cup 2026",
-            "match_name": "Club Am\u00e9rica vs Nashville SC",
-            "match_id": 141885,
-            "startTime": "09:00:00 AM 15-04-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Kerala Blasters FC vs NorthEast United FC (ISL 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140486_5956_KBFC_NEUFC_FC-Web_1772461506678.jpg",
             "team_1": "Kerala Blasters FC",
@@ -180,6 +172,18 @@
             "match_name": "Kerala Blasters FC vs NorthEast United FC",
             "match_id": 141812,
             "startTime": "07:30:00 PM 15-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Club Am\u00e9rica vs Nashville SC (CONCACAF Champions Cup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141885_5954_AME_NSH_FC-Web.png",
+            "team_1": "Club Am\u00e9rica",
+            "team_2": "Nashville SC",
+            "status": "UPCOMING",
+            "event_name": "CONCACAF Champions Cup 2026",
+            "match_name": "Club Am\u00e9rica vs Nashville SC",
+            "match_id": 141885,
+            "startTime": "09:00:00 AM 15-04-2026"
         },
         {
             "event_category": "Football",
