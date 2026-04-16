@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:33:36 AM 17-04-2026",
+    "last update time": "12:43:45 AM 17-04-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -30,20 +30,6 @@
             "startTime": "12:30:00 AM 17-04-2026",
             "dai_url": "https://dai-partner.fancode.com/primary/141530_english_hls_3a604b53fb2183_1ta-di_h264/index.m3u8",
             "adfree_url": "https://dai-partner.fancode.com/primary/141530_english_hls_3a604b53fb2183_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "World Feed vs Barcelona (ATP 500 - Barcelona Open Banc Sabadell 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Barcelona-Open-Banc-Sabadell_FC-Web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Barcelona",
-            "status": "LIVE",
-            "event_name": "ATP 500 - Barcelona Open Banc Sabadell 2026",
-            "match_name": "World Feed",
-            "match_id": 141830,
-            "startTime": "02:30:00 PM 16-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141830_english_hls_8aef32dc7d21406_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141830_english_hls_8aef32dc7d21406_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -472,6 +458,18 @@
             "match_name": "Japan U20 vs DPR Korea U20",
             "match_id": 141635,
             "startTime": "04:30:00 PM 18-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Dunfermline vs Falkirk (Scottish Cup 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Scottish_Cup_2026_FC-Web.jpg",
+            "team_1": "Dunfermline",
+            "team_2": "Falkirk",
+            "status": "UPCOMING",
+            "event_name": "Scottish Cup 2025-26",
+            "match_name": "Dunfermline vs Falkirk",
+            "match_id": 141497,
+            "startTime": "05:00:00 PM 18-04-2026"
         }
     ]
 }
