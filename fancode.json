@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:14:42 AM 20-04-2026",
+    "last update time": "03:24:50 AM 20-04-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Windward Islands Volcanoes",
-            "team_2": "Guyana Harpy Eagles",
-            "status": "LIVE",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Windward Islands Volcanoes vs Guyana Harpy Eagles",
-            "match_id": 141952,
-            "startTime": "07:30:00 PM 19-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141952_english_hls_5c3f8113e684480_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141952_english_hls_5c3f8113e684480_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Leeward Islands Hurricanes",
-            "team_2": "Trinidad & Tobago Red Force",
-            "status": "LIVE",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force",
-            "match_id": 141950,
-            "startTime": "07:30:00 PM 19-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141950_english_hls_94dbc5a8c355879_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141950_english_hls_94dbc5a8c355879_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)",
@@ -44,20 +16,6 @@
             "startTime": "08:30:00 PM 19-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141951_english_hls_2bb96b87362267_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141951_english_hls_2bb96b87362267_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Featured Groups - Day 4 vs Harbour Town Golf Links - Hilton Head Island, Sout (RBC Heritage 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/RBC_web.jpg",
-            "team_1": "Featured Groups - Day 4",
-            "team_2": "Harbour Town Golf Links - Hilton Head Island, Sout",
-            "status": "LIVE",
-            "event_name": "RBC Heritage 2026",
-            "match_name": "Featured Groups - Day 4",
-            "match_id": 141945,
-            "startTime": "04:30:00 PM 19-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141945_english_hls_735c39f0f422154_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141945_english_hls_735c39f0f422154_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -110,6 +68,30 @@
             "match_name": "Bangladesh vs New Zealand",
             "match_id": 142067,
             "startTime": "10:30:00 AM 20-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Windward Islands Volcanoes vs Guyana Harpy Eagles (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Windward Islands Volcanoes",
+            "team_2": "Guyana Harpy Eagles",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Windward Islands Volcanoes vs Guyana Harpy Eagles",
+            "match_id": 141952,
+            "startTime": "07:30:00 PM 19-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Leeward Islands Hurricanes",
+            "team_2": "Trinidad & Tobago Red Force",
+            "status": "PAUSED",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force",
+            "match_id": 141950,
+            "startTime": "07:30:00 PM 19-04-2026"
         },
         {
             "event_category": "Football",
@@ -446,6 +428,18 @@
             "match_name": "ATP Masters Mutua Madrid Open 2026",
             "match_id": 141854,
             "startTime": "05:30:00 PM 23-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Levante vs Sevilla FC (LALIGA 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1776142482843/131153_CASACARDS_APP.png",
+            "team_1": "Levante",
+            "team_2": "Sevilla FC",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Levante vs Sevilla FC",
+            "match_id": 131153,
+            "startTime": "10:30:00 PM 23-04-2026"
         }
     ]
 }
