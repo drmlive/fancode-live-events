@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:23:11 PM 19-04-2026",
+    "last update time": "01:33:17 PM 19-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "12:30:00 PM 19-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142048_english_hls_4afd19309042525_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142048_english_hls_4afd19309042525_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Adelaide United vs Macarthur (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140940_5802_ADL_MAC_fc-web.jpg",
-            "team_1": "Adelaide United",
-            "team_2": "Macarthur",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Adelaide United vs Macarthur",
-            "match_id": 140940,
-            "startTime": "11:00:00 AM 19-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/140940_english_hls_f8a3786cf079203_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/140940_english_hls_f8a3786cf079203_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -438,6 +424,18 @@
             "match_name": "Athletic Club vs CA Osasuna",
             "match_id": 131151,
             "startTime": "10:30:00 PM 21-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Girona FC vs Real Betis (LALIGA 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1/131158_CASACARDS_APP.png",
+            "team_1": "Girona FC",
+            "team_2": "Real Betis",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona FC vs Real Betis",
+            "match_id": 131158,
+            "startTime": "01:00:00 AM 22-04-2026"
         }
     ]
 }
