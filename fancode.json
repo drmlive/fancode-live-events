@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:39:10 PM 21-04-2026",
+    "last update time": "09:49:18 PM 21-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "09:45:00 PM 21-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141678_english_hls_8ab66fba0a64507_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141678_english_hls_8ab66fba0a64507_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Chennaiyin FC vs Mohammedan SC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140459_5956_CFC_MSC_FC-Web_1772400660609.jpg",
-            "team_1": "Chennaiyin FC",
-            "team_2": "Mohammedan SC",
-            "status": "LIVE",
-            "event_name": "ISL 2025-26",
-            "match_name": "Chennaiyin FC vs Mohammedan SC",
-            "match_id": 140459,
-            "startTime": "07:30:00 PM 21-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/140459_english_hls_ded509945393540_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/140459_english_hls_ded509945393540_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -442,6 +428,18 @@
             "match_name": "Day 1",
             "match_id": 141642,
             "startTime": "05:00:00 PM 23-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Salford City vs Bromley (League Two 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1776758829422/141924_CASACARDS_APP.png",
+            "team_1": "Salford City",
+            "team_2": "Bromley",
+            "status": "UPCOMING",
+            "event_name": "League Two 2025-26",
+            "match_name": "Salford City vs Bromley",
+            "match_id": 141924,
+            "startTime": "12:30:00 AM 24-04-2026"
         }
     ]
 }
