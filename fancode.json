@@ -1,22 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:22:32 AM 26-04-2026",
+    "last update time": "02:32:40 AM 26-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Atletico de Madrid vs Athletic Club (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131146_5427_ATL_ATH_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Athletic Club",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Atletico de Madrid vs Athletic Club",
-            "match_id": 131146,
-            "startTime": "12:30:00 AM 26-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/131146_english_hls_531c3f18f422528_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/131146_english_hls_531c3f18f422528_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Football",
             "title": "M\u00e1laga vs Castell\u00f3n (LALIGA Hypermotion 2025-26)",
@@ -114,6 +100,20 @@
             "startTime": "11:30:00 PM 25-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141997_english_hls_6bd69543af95147_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141997_english_hls_6bd69543af95147_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Atletico de Madrid vs Athletic Club (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131146_5427_ATL_ATH_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Athletic Club",
+            "status": "LIVE",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Atletico de Madrid vs Athletic Club",
+            "match_id": 131146,
+            "startTime": "12:30:00 AM 26-04-2026",
+            "dai_url": "https://dai-partner.fancode.com/primary/131146_english_hls_531c3f18f422528_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://dai-partner.fancode.com/primary/131146_english_hls_531c3f18f422528_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -452,18 +452,6 @@
             "startTime": "05:30:00 PM 26-04-2026"
         },
         {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 4 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
-            "team_1": "Main Feed - Day 4",
-            "team_2": "TPC Louisiana - Avondale, Louisiana ",
-            "status": "UPCOMING",
-            "event_name": "Zurich Classic of New Orleans 2026",
-            "match_name": "Main Feed - Day 4",
-            "match_id": 142002,
-            "startTime": "07:30:00 PM 26-04-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "United Arab Emirates vs Oman (ICC CWC League 2, Nepal 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
@@ -474,6 +462,18 @@
             "match_name": "United Arab Emirates vs Oman",
             "match_id": 141977,
             "startTime": "09:15:00 AM 27-04-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Main Feed - Day 4 vs TPC Louisiana - Avondale, Louisiana  (Zurich Classic of New Orleans 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Zurich-Classic-of-New-Orleans_fc-web.jpg",
+            "team_1": "Main Feed - Day 4",
+            "team_2": "TPC Louisiana - Avondale, Louisiana ",
+            "status": "UPCOMING",
+            "event_name": "Zurich Classic of New Orleans 2026",
+            "match_name": "Main Feed - Day 4",
+            "match_id": 142002,
+            "startTime": "07:30:00 PM 26-04-2026"
         }
     ]
 }
