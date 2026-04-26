@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:01:58 PM 26-04-2026",
+    "last update time": "07:12:10 PM 26-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -131,34 +131,6 @@
         },
         {
             "event_category": "Football",
-            "title": "Coventry City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141929_5489_CVC_WRX_fc-web.jpg",
-            "team_1": "Coventry City F.C.",
-            "team_2": "Wrexham A.F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Coventry City F.C. vs Wrexham A.F.C.",
-            "match_id": 141929,
-            "startTime": "04:30:00 PM 26-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141929_english_hls_731f1135f173776_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141929_english_hls_731f1135f173776_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Sporting Club Delhi vs Mohammedan SC (ISL 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/140499_5956_SCD_MSC_FC-Web_1772964305722.jpg",
-            "team_1": "Sporting Club Delhi",
-            "team_2": "Mohammedan SC",
-            "status": "LIVE",
-            "event_name": "ISL 2025-26",
-            "match_name": "Sporting Club Delhi vs Mohammedan SC",
-            "match_id": 140499,
-            "startTime": "05:00:00 PM 26-04-2026",
-            "dai_url": "https://dai-partner.fancode.com/primary/140499_english_hls_887155b51516467_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://dai-partner.fancode.com/primary/140499_english_hls_887155b51516467_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
             "title": "Sporting Club Delhi vs Mohammedan SC (ISL 2025-26  - Regional)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/SCD_MSC_FC-web.jpg",
             "team_1": "Sporting Club Delhi",
@@ -213,11 +185,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131149_5427_RO_ELC_FC-Web.png",
             "team_1": "Real Oviedo",
             "team_2": "Elche CF",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA 2025-26",
             "match_name": "Real Oviedo vs Elche CF",
             "match_id": 131149,
-            "startTime": "07:45:00 PM 26-04-2026"
+            "startTime": "07:45:00 PM 26-04-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Football",
@@ -257,18 +231,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
-            "team_1": "Jamaica Scorpions",
-            "team_2": "Barbados Pride",
-            "status": "UPCOMING",
-            "event_name": "West Indies Championship 2026",
-            "match_name": "Jamaica Scorpions vs Barbados Pride",
-            "match_id": 141954,
-            "startTime": "08:30:00 PM 26-04-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "USA Women vs Vanuatu Women (ICC Women's T20I Challenge Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142059_6045_USA-W_VANW_fc-web.jpg",
             "team_1": "USA Women",
@@ -278,6 +240,18 @@
             "match_name": "USA Women vs Vanuatu Women",
             "match_id": 142059,
             "startTime": "04:30:00 PM 27-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jamaica Scorpions vs Barbados Pride (West Indies Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg",
+            "team_1": "Jamaica Scorpions",
+            "team_2": "Barbados Pride",
+            "status": "UPCOMING",
+            "event_name": "West Indies Championship 2026",
+            "match_name": "Jamaica Scorpions vs Barbados Pride",
+            "match_id": 141954,
+            "startTime": "08:30:00 PM 26-04-2026"
         },
         {
             "event_category": "Football",
@@ -469,6 +443,18 @@
             "event_name": "ISL 2025-26",
             "match_name": "East Bengal FC vs Odisha FC",
             "match_id": 140501,
+            "startTime": "07:30:00 PM 28-04-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "East Bengal FC vs Odisha FC (ISL 2025-26  - Regional)",
+            "src": "https://images.fancode.com/aig/match/v1775535874219/141823_CASACARDS_APP.png",
+            "team_1": "East Bengal FC",
+            "team_2": "Odisha FC",
+            "status": "UPCOMING",
+            "event_name": "ISL 2025-26  - Regional",
+            "match_name": "East Bengal FC vs Odisha FC",
+            "match_id": 141823,
             "startTime": "07:30:00 PM 28-04-2026"
         }
     ]
