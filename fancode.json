@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:21:19 PM 26-04-2026",
+    "last update time": "06:31:29 PM 26-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -16,20 +16,6 @@
             "startTime": "04:30:00 PM 26-04-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142057_english_hls_836c2a332353689_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142057_english_hls_836c2a332353689_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "Coventry City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/141929_5489_CVC_WRX_fc-web.jpg",
-            "team_1": "Coventry City F.C.",
-            "team_2": "Wrexham A.F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Coventry City F.C. vs Wrexham A.F.C.",
-            "match_id": 141929,
-            "startTime": "04:30:00 PM 26-04-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141929_english_hls_731f1135f173776_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141929_english_hls_731f1135f173776_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -228,6 +214,20 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142184_english_hls_ff87ee1dd04637_1ta-di_h264/index.m3u8"
         },
         {
+            "event_category": "Football",
+            "title": "Coventry City F.C. vs Wrexham A.F.C. (EFL Championship 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/141929_5489_CVC_WRX_fc-web.jpg",
+            "team_1": "Coventry City F.C.",
+            "team_2": "Wrexham A.F.C.",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2025-26",
+            "match_name": "Coventry City F.C. vs Wrexham A.F.C.",
+            "match_id": 141929,
+            "startTime": "04:30:00 PM 26-04-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/141929_english_hls_731f1135f173776_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/141929_english_hls_731f1135f173776_1ta-di_h264/index.m3u8"
+        },
+        {
             "event_category": "Cricket",
             "title": "United Arab Emirates vs Oman (ICC CWC League 2, Nepal 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg",
@@ -238,30 +238,6 @@
             "match_name": "United Arab Emirates vs Oman",
             "match_id": 141977,
             "startTime": "09:15:00 AM 27-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Rwanda Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142058_6045_RWA-W_ITA-W_fc-web.jpg",
-            "team_1": "Rwanda Women",
-            "team_2": "Italy Women",
-            "status": "UPCOMING",
-            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Rwanda Women vs Italy Women",
-            "match_id": 142058,
-            "startTime": "12:30:00 PM 27-04-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "New Zealand",
-            "status": "UPCOMING",
-            "event_name": "New Zealand tour of Bangladesh, 2026",
-            "match_name": "Bangladesh vs New Zealand",
-            "match_id": 142069,
-            "startTime": "01:30:00 PM 27-04-2026"
         },
         {
             "event_category": "Cricket",
@@ -286,6 +262,30 @@
             "match_name": "Leeward Islands Hurricanes vs Trinidad & Tobago Red Force",
             "match_id": 141953,
             "startTime": "07:30:00 PM 26-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Rwanda Women vs Italy Women (ICC Women's T20I Challenge Trophy, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142058_6045_RWA-W_ITA-W_fc-web.jpg",
+            "team_1": "Rwanda Women",
+            "team_2": "Italy Women",
+            "status": "UPCOMING",
+            "event_name": "ICC Women's T20I Challenge Trophy, 2026",
+            "match_name": "Rwanda Women vs Italy Women",
+            "match_id": 142058,
+            "startTime": "12:30:00 PM 27-04-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "New Zealand",
+            "status": "UPCOMING",
+            "event_name": "New Zealand tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs New Zealand",
+            "match_id": 142069,
+            "startTime": "01:30:00 PM 27-04-2026"
         },
         {
             "event_category": "Cricket",
