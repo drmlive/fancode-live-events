@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:04:30 PM 01-05-2026",
+    "last update time": "12:14:39 PM 01-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,15 +19,17 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Rwanda Women vs USA Women (ICC Women's T20I Challenge Trophy, 2026)",
+            "title": "USA Women vs Rwanda Women (ICC Women's T20I Challenge Trophy, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/142064_6045_RWA-W_USA-W_fc-web.jpg",
-            "team_1": "Rwanda Women",
-            "team_2": "USA Women",
-            "status": "UPCOMING",
+            "team_1": "USA Women",
+            "team_2": "Rwanda Women",
+            "status": "LIVE",
             "event_name": "ICC Women's T20I Challenge Trophy, 2026",
-            "match_name": "Rwanda Women vs USA Women",
+            "match_name": "USA Women vs Rwanda Women",
             "match_id": 142064,
-            "startTime": "12:30:00 PM 01-05-2026"
+            "startTime": "12:30:00 PM 01-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142064_english_hls_e680f7cbd551107_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142064_english_hls_e680f7cbd551107_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -126,18 +128,6 @@
             "startTime": "01:00:00 PM 02-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "Real Zaragoza vs Granada (LALIGA Hypermotion 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1776595838848/142138_CASACARDS_APP.png",
-            "team_1": "Real Zaragoza",
-            "team_2": "Granada",
-            "status": "UPCOMING",
-            "event_name": "LALIGA Hypermotion 2025-26",
-            "match_name": "Real Zaragoza vs Granada",
-            "match_id": 142138,
-            "startTime": "12:30:00 AM 02-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Bangladesh vs New Zealand (New Zealand tour of Bangladesh, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",
@@ -148,6 +138,18 @@
             "match_name": "Bangladesh vs New Zealand",
             "match_id": 142071,
             "startTime": "01:30:00 PM 02-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Zaragoza vs Granada (LALIGA Hypermotion 2025-26)",
+            "src": "https://images.fancode.com/aig/match/v1776595838848/142138_CASACARDS_APP.png",
+            "team_1": "Real Zaragoza",
+            "team_2": "Granada",
+            "status": "UPCOMING",
+            "event_name": "LALIGA Hypermotion 2025-26",
+            "match_name": "Real Zaragoza vs Granada",
+            "match_id": 142138,
+            "startTime": "12:30:00 AM 02-05-2026"
         },
         {
             "event_category": "Cricket",
