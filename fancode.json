@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:10:59 AM 02-05-2026",
+    "last update time": "07:21:08 AM 02-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(18).png",
             "team_1": "Malaysia",
             "team_2": "Indonesia",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Indonesia tour of Malaysia, 2026",
             "match_name": "Malaysia vs Indonesia",
             "match_id": 142338,
-            "startTime": "07:30:00 AM 02-05-2026"
+            "startTime": "07:30:00 AM 02-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142338_english_hls_44fcc8b57454619_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142338_english_hls_44fcc8b57454619_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -448,18 +450,6 @@
             "startTime": "06:00:00 PM 02-05-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Miami International Autodrome (F2 MIAMI 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Miami International Autodrome",
-            "status": "UPCOMING",
-            "event_name": "F2 MIAMI 2026",
-            "match_name": "Sprint Race",
-            "match_id": 142085,
-            "startTime": "07:30:00 PM 02-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "South Kanto Super Kings vs West Kanto Hurricanes (Japan Premier League T20 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg",
@@ -469,6 +459,18 @@
             "event_name": "Japan Premier League T20 2026",
             "match_name": "South Kanto Super Kings vs West Kanto Hurricanes",
             "match_id": 142397,
+            "startTime": "10:30:00 AM 03-05-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kansai Chargers vs North Kanto Lions (Japan Premier League T20 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg",
+            "team_1": "Kansai Chargers",
+            "team_2": "North Kanto Lions",
+            "status": "UPCOMING",
+            "event_name": "Japan Premier League T20 2026",
+            "match_name": "Kansai Chargers vs North Kanto Lions",
+            "match_id": 142396,
             "startTime": "10:30:00 AM 03-05-2026"
         }
     ]
