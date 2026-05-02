@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:47:08 PM 02-05-2026",
+    "last update time": "02:57:17 PM 02-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -51,11 +51,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
             "team_1": "Mis-e-Ainak Region",
             "team_2": "Amo Region",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Super Cola National T20 Cup, 2026",
             "match_name": "Mis-e-Ainak Region vs Amo Region",
             "match_id": 142404,
-            "startTime": "03:00:00 PM 02-05-2026"
+            "startTime": "03:00:00 PM 02-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142404_english_hls_b561070c3354864_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142404_english_hls_b561070c3354864_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -454,6 +456,18 @@
             "startTime": "06:00:00 PM 02-05-2026"
         },
         {
+            "event_category": "Football",
+            "title": "RC Celta vs Elche CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131164_5427_CEV_ELC_FC-Web.png",
+            "team_1": "RC Celta",
+            "team_2": "Elche CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "RC Celta vs Elche CF",
+            "match_id": 131164,
+            "startTime": "05:30:00 PM 03-05-2026"
+        },
+        {
             "event_category": "Motorsports",
             "title": "Sprint Race vs Miami International Autodrome (F2 MIAMI 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card.jpg",
@@ -464,18 +478,6 @@
             "match_name": "Sprint Race",
             "match_id": 142085,
             "startTime": "07:30:00 PM 02-05-2026"
-        },
-        {
-            "event_category": "Formula 1",
-            "title": "Sprint vs Miami (F1 CRYPTO COM MIAMI GRAND PRIX 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Miami-Grand-Prix-2026-old-match-card.png",
-            "team_1": "Sprint",
-            "team_2": "Miami",
-            "status": "UPCOMING",
-            "event_name": "F1 CRYPTO COM MIAMI GRAND PRIX 2026",
-            "match_name": "Sprint",
-            "match_id": 139439,
-            "startTime": "09:30:00 PM 02-05-2026"
         }
     ]
 }
