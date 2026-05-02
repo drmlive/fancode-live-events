@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:36:11 PM 02-05-2026",
+    "last update time": "01:46:20 PM 02-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -32,30 +32,18 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142071_english_hls_66f3de04538249_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Auckland vs Melbourne City (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1777548687049/142449_CASACARDS_APP.png",
-            "team_1": "Auckland",
-            "team_2": "Melbourne City",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Auckland vs Melbourne City",
-            "match_id": 142449,
-            "startTime": "10:30:00 AM 02-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142449_english_hls_3c661b711995085_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142449_english_hls_3c661b711995085_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Germany vs Austria (Austria tour of Germany, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg",
             "team_1": "Germany",
             "team_2": "Austria",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Austria tour of Germany, 2026",
             "match_name": "Germany vs Austria",
             "match_id": 142343,
-            "startTime": "02:00:00 PM 02-05-2026"
+            "startTime": "02:00:00 PM 02-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142343_english_hls_bc725c5b0824204_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142343_english_hls_bc725c5b0824204_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -276,7 +264,7 @@
         {
             "event_category": "Football",
             "title": "Melbourne Victory vs Sydney FC (A League 2025-26)",
-            "src": "https://images.fancode.com/aig/match/v1777548687027/142450_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/139395_5802_MLV_SYD_FC-Web.jpg",
             "team_1": "Melbourne Victory",
             "team_2": "Sydney FC",
             "status": "UPCOMING",
@@ -284,18 +272,6 @@
             "match_name": "Melbourne Victory vs Sydney FC",
             "match_id": 142450,
             "startTime": "03:15:00 PM 02-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Exeter City vs Bradford City (League One 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Exeter City",
-            "team_2": "Bradford City",
-            "status": "UPCOMING",
-            "event_name": "League One 2025-26",
-            "match_name": "Exeter City vs Bradford City",
-            "match_id": 142336,
-            "startTime": "07:30:00 PM 02-05-2026"
         },
         {
             "event_category": "Cricket",
@@ -308,6 +284,18 @@
             "match_name": "Germany vs Austria",
             "match_id": 142345,
             "startTime": "02:30:00 PM 03-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Exeter City vs Bradford City (League One 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "Exeter City",
+            "team_2": "Bradford City",
+            "status": "UPCOMING",
+            "event_name": "League One 2025-26",
+            "match_name": "Exeter City vs Bradford City",
+            "match_id": 142336,
+            "startTime": "07:30:00 PM 02-05-2026"
         },
         {
             "event_category": "Football",
@@ -475,6 +463,18 @@
             "event_name": "Cadillac Championship 2026",
             "match_name": "World Feed - Day 3",
             "match_id": 142026,
+            "startTime": "09:30:00 PM 02-05-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "F1 Kids 2026 vs Miami International Autodrome (F1 Kids 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
+            "team_1": "F1 Kids 2026",
+            "team_2": "Miami International Autodrome",
+            "status": "UPCOMING",
+            "event_name": "F1 Kids 2026",
+            "match_name": "F1 Kids 2026",
+            "match_id": 142380,
             "startTime": "09:30:00 PM 02-05-2026"
         }
     ]
