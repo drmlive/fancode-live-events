@@ -1,8 +1,36 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:35:04 PM 07-05-2026",
+    "last update time": "03:45:16 PM 07-05-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "title": "SSE BFC Soccer School vs Jamshedpur FC Junior (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "SSE BFC Soccer School",
+            "team_2": "Jamshedpur FC Junior",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "SSE BFC Soccer School vs Jamshedpur FC Junior",
+            "match_id": 142362,
+            "startTime": "04:00:00 PM 07-05-2026",
+            "dai_url": null,
+            "adfree_url": null
+        },
+        {
+            "event_category": "Football",
+            "title": "Football 4 Change Academy vs Sesa Football Academy (Dream Sports Championship Football 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+            "team_1": "Football 4 Change Academy",
+            "team_2": "Sesa Football Academy",
+            "status": "LIVE",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "Football 4 Change Academy vs Sesa Football Academy",
+            "match_id": 142361,
+            "startTime": "04:00:00 PM 07-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142361_english_hls_02999635968334_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142361_english_hls_02999635968334_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Tennis",
             "title": "Day 2 - Court 13 vs Rome (ATP Masters Internazionali BNL d'Italia 2026)",
@@ -144,30 +172,6 @@
             "startTime": "03:00:00 PM 08-05-2026"
         },
         {
-            "event_category": "Football",
-            "title": "SSE BFC Soccer School vs Jamshedpur FC Junior (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "SSE BFC Soccer School",
-            "team_2": "Jamshedpur FC Junior",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "SSE BFC Soccer School vs Jamshedpur FC Junior",
-            "match_id": 142362,
-            "startTime": "04:00:00 PM 07-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Football 4 Change Academy vs Sesa Football Academy (Dream Sports Championship Football 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "team_1": "Football 4 Change Academy",
-            "team_2": "Sesa Football Academy",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "Football 4 Change Academy vs Sesa Football Academy",
-            "match_id": 142361,
-            "startTime": "04:00:00 PM 07-05-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Cook Islands vs South Korea (ICC Men's T20 WC EAP Sub-regional Qualifier A + B )",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
@@ -204,18 +208,6 @@
             "startTime": "05:00:00 PM 08-05-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 2 - BNP Paribas Arena vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "Day 2 - BNP Paribas Arena",
-            "team_2": "Rome, Italy",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "Day 2 - BNP Paribas Arena",
-            "match_id": 142589,
-            "startTime": "04:00:00 PM 07-05-2026"
-        },
-        {
             "event_category": "Football",
             "title": "FC Goa Junior vs Classic Football Academy (Dream Sports Championship Football 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
@@ -238,6 +230,18 @@
             "match_name": "Reliance Foundation Young Champs vs Alchemy International FA",
             "match_id": 142363,
             "startTime": "07:30:00 AM 08-05-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 - BNP Paribas Arena vs Rome, Italy (ATP Masters Internazionali BNL d'Italia 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
+            "team_1": "Day 2 - BNP Paribas Arena",
+            "team_2": "Rome, Italy",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
+            "match_name": "Day 2 - BNP Paribas Arena",
+            "match_id": 142589,
+            "startTime": "04:00:00 PM 07-05-2026"
         },
         {
             "event_category": "Golf",
