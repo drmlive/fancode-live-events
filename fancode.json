@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:05:46 AM 09-05-2026",
+    "last update time": "12:15:56 AM 09-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -199,11 +199,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Hull-City-vs-Millwall_fc-web.jpg",
             "team_1": "Hull City",
             "team_2": "Millwall F.C.",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "EFL Championship 2025-26",
             "match_name": "Hull City vs Millwall F.C.",
             "match_id": 142497,
-            "startTime": "12:30:00 AM 09-05-2026"
+            "startTime": "12:30:00 AM 09-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -339,18 +341,6 @@
         },
         {
             "event_category": "Football",
-            "title": "TBC vs TBC (Dream Sports Championship Football 2026)",
-            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
-            "status": "UPCOMING",
-            "event_name": "Dream Sports Championship Football 2026",
-            "match_name": "TBC vs TBC",
-            "match_id": 142368,
-            "startTime": "07:30:00 AM 09-05-2026"
-        },
-        {
-            "event_category": "Football",
             "title": "Real Sociedad vs Real Betis (LALIGA 2025-26)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/131177_5427_RS_RB_FC-Web.png",
             "team_1": "Real Sociedad",
@@ -360,6 +350,18 @@
             "match_name": "Real Sociedad vs Real Betis",
             "match_id": 131177,
             "startTime": "12:30:00 AM 10-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "TBC vs TBC (Dream Sports Championship Football 2026)",
+            "src": " https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-card-_1777753488859.png",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Dream Sports Championship Football 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 142368,
+            "startTime": "07:30:00 AM 09-05-2026"
         },
         {
             "event_category": "Kabaddi",
