@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:18:30 AM 09-05-2026",
+    "last update time": "03:28:38 AM 09-05-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -16,20 +16,6 @@
             "startTime": "02:30:00 PM 08-05-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Main Feed - Day 2 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
-            "team_1": "Main Feed - Day 2",
-            "team_2": "Quail Hollow Club - Charlotte, North Carolina",
-            "status": "LIVE",
-            "event_name": "Truist Championship 2026",
-            "match_name": "Main Feed - Day 2",
-            "match_id": 142096,
-            "startTime": "05:00:00 PM 08-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142096_english_hls_f2ff888cf730083_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142096_english_hls_f2ff888cf730083_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -496,6 +482,18 @@
             "match_name": "Featured Groups - Day 3",
             "match_id": 142102,
             "startTime": "05:45:00 PM 09-05-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Marquee Group - Day 3 vs Quail Hollow Club - Charlotte, North Carolina (Truist Championship 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg",
+            "team_1": "Marquee Group - Day 3",
+            "team_2": "Quail Hollow Club - Charlotte, North Carolina",
+            "status": "UPCOMING",
+            "event_name": "Truist Championship 2026",
+            "match_name": "Marquee Group - Day 3",
+            "match_id": 142101,
+            "startTime": "06:00:00 PM 09-05-2026"
         }
     ]
 }
