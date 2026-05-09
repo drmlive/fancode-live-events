@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:33:06 PM 09-05-2026",
+    "last update time": "09:43:13 PM 09-05-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -199,23 +199,13 @@
             "src": "https://images.fancode.com/aig/match/v1778266487066/142377_CASACARDS_APP.png",
             "team_1": "Real Valladolid",
             "team_2": "Real Zaragoza",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "LALIGA Hypermotion 2025-26",
             "match_name": "Real Valladolid vs Real Zaragoza",
             "match_id": 142377,
-            "startTime": "10:00:00 PM 09-05-2026"
-        },
-        {
-            "event_category": "Football",
-            "title": "Real Sociedad vs Real Betis (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131177_5427_RS_RB_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Real Betis",
-            "status": "UPCOMING",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "Real Sociedad vs Real Betis",
-            "match_id": 131177,
-            "startTime": "12:30:00 AM 10-05-2026"
+            "startTime": "10:00:00 PM 09-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142377_english_hls_7b234836b826947_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142377_english_hls_7b234836b826947_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -240,6 +230,18 @@
             "match_name": "Samoa vs Philippines",
             "match_id": 142309,
             "startTime": "06:00:00 AM 10-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Real Betis (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131177_5427_RS_RB_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Real Betis",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Sociedad vs Real Betis",
+            "match_id": 131177,
+            "startTime": "12:30:00 AM 10-05-2026"
         },
         {
             "event_category": "Cricket",
