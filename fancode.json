@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:26:29 AM 13-05-2026",
+    "last update time": "03:36:36 AM 13-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "title": "Southampton F.C. vs Middlesbrough F.C. (EFL Championship 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Southampton-vs-Middlesbrough-fc-web.jpg",
-            "team_1": "Southampton F.C.",
-            "team_2": "Middlesbrough F.C.",
-            "status": "LIVE",
-            "event_name": "EFL Championship 2025-26",
-            "match_name": "Southampton F.C. vs Middlesbrough F.C.",
-            "match_id": 142500,
-            "startTime": "12:30:00 AM 13-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142500_english_hls_82e8868ef954084_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142500_english_hls_82e8868ef954084_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Football",
-            "title": "CA Osasuna vs Atletico de Madrid (LALIGA 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/131186_5427_OSN_ATL_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Atletico de Madrid",
-            "status": "LIVE",
-            "event_name": "LALIGA 2025-26",
-            "match_name": "CA Osasuna vs Atletico de Madrid",
-            "match_id": 131186,
-            "startTime": "01:00:00 AM 13-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/131186_english_hls_026f2c657951821_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/131186_english_hls_026f2c657951821_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Mis-e-Ainak Region vs Boost Region (Super Cola National T20 Cup, 2026)",
@@ -450,6 +422,30 @@
             "match_name": "Valencia CF vs Rayo Vallecano",
             "match_id": 131187,
             "startTime": "10:30:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Girona FC vs Real Sociedad (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131184_5427_GIR_RS_FC-Web.png",
+            "team_1": "Girona FC",
+            "team_2": "Real Sociedad",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Girona FC vs Real Sociedad",
+            "match_id": 131184,
+            "startTime": "11:30:00 PM 14-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Madrid vs Real Oviedo (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131189_5427_RM_RO_FC-Web.png",
+            "team_1": "Real Madrid",
+            "team_2": "Real Oviedo",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Madrid vs Real Oviedo",
+            "match_id": 131189,
+            "startTime": "01:00:00 AM 15-05-2026"
         }
     ]
 }
