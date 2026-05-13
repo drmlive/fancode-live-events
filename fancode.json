@@ -1,50 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:33:52 PM 13-05-2026",
+    "last update time": "02:43:59 PM 13-05-2026",
     "matches": [
-        {
-            "event_category": "Kabaddi",
-            "title": "River Ranger vs Roaring Rhinos (Young Star Kabaddi League 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "team_1": "River Ranger",
-            "team_2": "Roaring Rhinos",
-            "status": "LIVE",
-            "event_name": "Young Star Kabaddi League 2026",
-            "match_name": "River Ranger vs Roaring Rhinos",
-            "match_id": 142477,
-            "startTime": "01:30:00 PM 13-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142477_english_hls_09daa7849c97226_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142477_english_hls_09daa7849c97226_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mis-e-Ainak Region vs Boost Region (Super Cola National T20 Cup, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png",
-            "team_1": "Mis-e-Ainak Region",
-            "team_2": "Boost Region",
-            "status": "LIVE",
-            "event_name": "Super Cola National T20 Cup, 2026",
-            "match_name": "Mis-e-Ainak Region vs Boost Region",
-            "match_id": 142423,
-            "startTime": "10:00:00 AM 13-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142423_english_hls_3656954ba730009_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142423_english_hls_3656954ba730009_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Cook Islands vs Vanuatu (ICC Men's T20 WC EAP Sub-regional Qualifier A + B)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
-            "team_1": "Cook Islands",
-            "team_2": "Vanuatu",
-            "status": "LIVE",
-            "event_name": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
-            "match_name": "Cook Islands vs Vanuatu",
-            "match_id": 142315,
-            "startTime": "10:30:00 AM 13-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142315_english_hls_33679d7fe037687_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142315_english_hls_33679d7fe037687_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Cricket",
             "title": "Guyana Harpy Eagles vs West Indies Academy (West Indies Championship 2026)",
@@ -75,11 +33,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
             "team_1": "Goat Warriors",
             "team_2": "Lightning Lions",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Young Star Kabaddi League 2026",
             "match_name": "Goat Warriors vs Lightning Lions",
             "match_id": 142478,
-            "startTime": "03:00:00 PM 13-05-2026"
+            "startTime": "03:00:00 PM 13-05-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142478_english_hls_eff41b874f15210_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142478_english_hls_eff41b874f15210_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Football",
@@ -464,6 +424,30 @@
             "match_name": "Bradford City vs Bolton Wanderers",
             "match_id": 142492,
             "startTime": "12:30:00 AM 15-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "TBC vs TBC (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 142488,
+            "startTime": "05:30:00 AM 15-05-2026"
+        },
+        {
+            "event_category": "Kabaddi",
+            "title": "TBC vs TBC (Young Star Kabaddi League 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Young Star Kabaddi League 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 142487,
+            "startTime": "05:30:00 AM 15-05-2026"
         }
     ]
 }
