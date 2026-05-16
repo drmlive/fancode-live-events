@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:59:28 PM 16-05-2026",
+    "last update time": "07:09:42 PM 16-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -116,20 +116,6 @@
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142178_english_hls_acf394a0cb49151_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Football",
-            "title": "Newcastle Jets vs Sydney FC (A League 2025-26)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Newcastle-Jets-vs-Sydney-FC_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Sydney FC",
-            "status": "LIVE",
-            "event_name": "A League 2025-26",
-            "match_name": "Newcastle Jets vs Sydney FC",
-            "match_id": 142507,
-            "startTime": "03:20:00 PM 16-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142507_english_hls_7401464f2d74824_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142507_english_hls_7401464f2d74824_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "MotoGP",
             "title": "Day 2 vs Barcelona (MONSTER ENERGY GRAND PRIX OF CATALUNYA 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/MONSTER_CATALUNYA_fc-web.jpg",
@@ -142,20 +128,6 @@
             "startTime": "12:10:00 PM 16-05-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139943_english_hls_f219730ccd5752_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139943_english_hls_f219730ccd5752_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Tennis",
-            "title": "SF: Krajicek/Mektic vs Granollers/Zeballos vs Stade Roland Garros Paris, France (ATP Masters Internazionali BNL d'Italia 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg",
-            "team_1": "SF: Krajicek/Mektic vs Granollers/Zeballos",
-            "team_2": "Stade Roland Garros Paris, France",
-            "status": "LIVE",
-            "event_name": "ATP Masters Internazionali BNL d'Italia 2026",
-            "match_name": "SF: Krajicek/Mektic vs Granollers/Zeballos",
-            "match_id": 142737,
-            "startTime": "03:30:00 PM 16-05-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142737_english_hls_f936ff110199210_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142737_english_hls_f936ff110199210_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -245,11 +217,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/140435_5956_ODS_PFC_fc-web_1771412946377.jpg",
             "team_1": "Odisha FC",
             "team_2": "Punjab FC",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ISL 2025-26",
             "match_name": "Odisha FC vs Punjab FC",
             "match_id": 140435,
-            "startTime": "07:30:00 PM 16-05-2026"
+            "startTime": "07:30:00 PM 16-05-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -513,6 +487,30 @@
             "event_name": "LALIGA 2025-26",
             "match_name": "Real Oviedo vs Deportivo Alaves",
             "match_id": 131197,
+            "startTime": "10:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Real Sociedad vs Valencia CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131196_5427_RS_VAL_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Valencia CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Real Sociedad vs Valencia CF",
+            "match_id": 131196,
+            "startTime": "10:30:00 PM 17-05-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Rayo Vallecano vs Villarreal CF (LALIGA 2025-26)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/131195_5427_RVL_VIL_FC-Web.png",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Villarreal CF",
+            "status": "UPCOMING",
+            "event_name": "LALIGA 2025-26",
+            "match_name": "Rayo Vallecano vs Villarreal CF",
+            "match_id": 131195,
             "startTime": "10:30:00 PM 17-05-2026"
         }
     ]
