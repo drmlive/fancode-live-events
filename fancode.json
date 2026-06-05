@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:19:26 PM 05-06-2026",
+    "last update time": "03:29:32 PM 05-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -58,20 +58,6 @@
             "startTime": "12:30:00 PM 05-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139948_english_hls_f8a35d06ab79402_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139948_english_hls_f8a35d06ab79402_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Qualifying Session vs Monaco (F3 MONACO 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_Australia_web.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Monaco",
-            "status": "LIVE",
-            "event_name": "F3 MONACO 2026",
-            "match_name": "Qualifying Session",
-            "match_id": 139713,
-            "startTime": "02:35:00 PM 05-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139713_english_hls_fe70e6fa3015017_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139713_english_hls_fe70e6fa3015017_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -434,6 +420,18 @@
             "match_name": "Top seeds in action",
             "match_id": 142963,
             "startTime": "02:30:00 PM 06-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Sri Lanka (Sri Lanka tour of West Indies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_Web-match-card.png",
+            "team_1": "West Indies",
+            "team_2": "Sri Lanka",
+            "status": "UPCOMING",
+            "event_name": "Sri Lanka tour of West Indies 2026",
+            "match_name": "West Indies vs Sri Lanka",
+            "match_id": 142973,
+            "startTime": "01:00:00 AM 07-06-2026"
         }
     ]
 }
