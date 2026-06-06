@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:59:15 PM 06-06-2026",
+    "last update time": "07:09:23 PM 06-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -72,20 +72,6 @@
             "startTime": "02:30:00 PM 06-06-2026",
             "dai_url": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
             "adfree_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/RGFCENG/master_mdh.m3u8?hdnea=exp=1780778750~acl=/*~id=72116367366038815637787781871944~hmac=dce8d33d05f9a0db0b5300cebfdbbc956e4d86b0ac02bbbcd1302296ef5be491"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Sprint Race vs Monaco (F2 MONACO 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_Australia_web.jpg",
-            "team_1": "Sprint Race",
-            "team_2": "Monaco",
-            "status": "LIVE",
-            "event_name": "F2 MONACO 2026",
-            "match_name": "Sprint Race",
-            "match_id": 139556,
-            "startTime": "05:45:00 PM 06-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139556_english_hls_f9423e22dd94561_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139556_english_hls_f9423e22dd94561_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -405,27 +391,39 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Roland Garros 2026 vs Paris (Roland Garros 2026)",
+            "title": "Court Philippe-Chatrier vs Paris (Roland Garros 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Roland Garros 2026",
+            "team_1": "Court Philippe-Chatrier",
             "team_2": "Paris",
             "status": "UPCOMING",
             "event_name": "Roland Garros 2026",
-            "match_name": "Roland Garros 2026",
-            "match_id": 142734,
+            "match_name": "Court Philippe-Chatrier",
+            "match_id": 142732,
             "startTime": "02:30:00 PM 07-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Roland Garros 2026 vs Paris (Roland Garros 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros-2026_FC-WEB.jpg",
-            "team_1": "Roland Garros 2026",
-            "team_2": "Paris",
+            "event_category": "Motorsports",
+            "title": "Race - Monaco vs Monaco (Porsche Mobil 1 Supercup 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Monte_carlo_Match_card_MRF_Old_match-card.jpg",
+            "team_1": "Race - Monaco",
+            "team_2": "Monaco",
             "status": "UPCOMING",
-            "event_name": "Roland Garros 2026",
-            "match_name": "Roland Garros 2026",
-            "match_id": 142733,
-            "startTime": "02:30:00 PM 07-06-2026"
+            "event_name": "Porsche Mobil 1 Supercup 2026",
+            "match_name": "Race - Monaco",
+            "match_id": 143235,
+            "startTime": "03:15:00 PM 07-06-2026"
+        },
+        {
+            "event_category": "Football",
+            "title": "Morocco vs Norway (International Friendlies 2026)",
+            "src": "https://images.fancode.com/aig/match/v1780742459449/143343_CASACARDS_APP.png",
+            "team_1": "Morocco",
+            "team_2": "Norway",
+            "status": "UPCOMING",
+            "event_name": "International Friendlies 2026",
+            "match_name": "Morocco vs Norway",
+            "match_id": 143343,
+            "startTime": "12:30:00 AM 08-06-2026"
         }
     ]
 }
