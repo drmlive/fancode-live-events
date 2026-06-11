@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:42:31 PM 11-06-2026",
+    "last update time": "06:52:59 PM 11-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,6 +19,20 @@
         },
         {
             "event_category": "Cricket",
+            "title": "MP Tigers vs Northern Challengers (Big Cricket League Season 2)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/142998_6094_MPT_NC_FC-WEB_1780318028400.jpg",
+            "team_1": "MP Tigers",
+            "team_2": "Northern Challengers",
+            "status": "LIVE",
+            "event_name": "Big Cricket League Season 2",
+            "match_name": "MP Tigers vs Northern Challengers",
+            "match_id": 142998,
+            "startTime": "07:00:00 PM 11-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142998_english_hls_c3a9aa6fcf67456_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142998_english_hls_c3a9aa6fcf67456_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
             "title": "Akcel United Brussels vs Antwerp Anchors (EUT20 Belgium, 2026)",
             "src": "https://images.fancode.com/aig/match/v1781153194943/143160_CASACARDS_APP.png",
             "team_1": "Akcel United Brussels",
@@ -30,20 +44,6 @@
             "startTime": "04:00:00 PM 11-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143160_english_hls_3d15f3df5f19524_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143160_english_hls_3d15f3df5f19524_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ujjain Falcons vs Jabalpur Royal Lions (Madhya Pradesh League T20, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143074_6102_UJF_JRL_FC-WEB.jpg",
-            "team_1": "Ujjain Falcons",
-            "team_2": "Jabalpur Royal Lions",
-            "status": "LIVE",
-            "event_name": "Madhya Pradesh League T20, 2026",
-            "match_name": "Ujjain Falcons vs Jabalpur Royal Lions",
-            "match_id": 143074,
-            "startTime": "02:30:00 PM 11-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143074_english_hls_1bd061981878040_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143074_english_hls_1bd061981878040_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -128,32 +128,6 @@
             "startTime": "05:00:00 PM 11-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143203_english_hls_bd209f77cd77729_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Mumbai Marines vs Southern Spartans (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142997_6094_MM_SS_FC-WEB_1780318029115.jpg",
-            "team_1": "Mumbai Marines",
-            "team_2": "Southern Spartans",
-            "status": "LIVE",
-            "event_name": "Big Cricket League Season 2",
-            "match_name": "Mumbai Marines vs Southern Spartans",
-            "match_id": 142997,
-            "startTime": "02:00:00 PM 11-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142997_english_hls_2acad8284b81044_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142997_english_hls_2acad8284b81044_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "MP Tigers vs Northern Challengers (Big Cricket League Season 2)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/142998_6094_MPT_NC_FC-WEB_1780318028400.jpg",
-            "team_1": "MP Tigers",
-            "team_2": "Northern Challengers",
-            "status": "UPCOMING",
-            "event_name": "Big Cricket League Season 2",
-            "match_name": "MP Tigers vs Northern Challengers",
-            "match_id": 142998,
-            "startTime": "07:00:00 PM 11-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -454,6 +428,18 @@
             "match_name": "Qualifying Session",
             "match_id": 139571,
             "startTime": "07:20:00 PM 12-06-2026"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 2 vs Barcelona (F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA )",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Barcelona_GP_FC-web.jpg",
+            "team_1": "Practice 2",
+            "team_2": "Barcelona",
+            "status": "UPCOMING",
+            "event_name": "F1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA ",
+            "match_name": "Practice 2",
+            "match_id": 139453,
+            "startTime": "08:30:00 PM 12-06-2026"
         }
     ]
 }
