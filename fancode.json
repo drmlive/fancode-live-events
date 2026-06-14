@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:23:57 AM 15-06-2026",
+    "last update time": "01:34:02 AM 15-06-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -16,20 +16,6 @@
             "startTime": "12:30:00 AM 15-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 4 - Featured Groups vs TPC Toronto at Osprey Valley, Caledo, Ontario (RBC Canadian Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1780915920306.png",
-            "team_1": "Day 4 - Featured Groups",
-            "team_2": "TPC Toronto at Osprey Valley, Caledo, Ontario",
-            "status": "LIVE",
-            "event_name": "RBC Canadian Open 2026",
-            "match_name": "Day 4 - Featured Groups",
-            "match_id": 143220,
-            "startTime": "08:00:00 PM 14-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -398,6 +384,30 @@
             "match_name": "Malmo Mavericks vs Vasteras United",
             "match_id": 143181,
             "startTime": "12:30:00 PM 17-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Firozpur Falcons vs Moga Mongoose (Punjab T10 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143037_6095_FFA_MMO_fc-web.jpg",
+            "team_1": "Firozpur Falcons",
+            "team_2": "Moga Mongoose",
+            "status": "UPCOMING",
+            "event_name": "Punjab T10 2026",
+            "match_name": "Firozpur Falcons vs Moga Mongoose",
+            "match_id": 143037,
+            "startTime": "01:30:00 PM 17-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bhopal Leopards vs Malwa Stallions (Madhya Pradesh League T20, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143089_6102_BL_MWS_FC-WEB.jpg",
+            "team_1": "Bhopal Leopards",
+            "team_2": "Malwa Stallions",
+            "status": "UPCOMING",
+            "event_name": "Madhya Pradesh League T20, 2026",
+            "match_name": "Bhopal Leopards vs Malwa Stallions",
+            "match_id": 143089,
+            "startTime": "03:00:00 PM 17-06-2026"
         }
     ]
 }
