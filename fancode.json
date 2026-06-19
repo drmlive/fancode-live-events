@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:41:57 PM 19-06-2026",
+    "last update time": "12:52:03 PM 19-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Australia (Australia tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Australia",
+            "status": "LIVE",
+            "event_name": "Australia tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs Australia",
+            "match_id": 142969,
+            "startTime": "01:30:00 PM 19-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142969_english_hls_b3f424210976447_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Cricket",
             "title": "Stockholm United vs Vasteras United (Nordic Smash T20 Cup, 2026)",
@@ -30,18 +44,6 @@
             "startTime": "12:30:00 PM 19-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/139951_english_hls_13df162ce313182_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Australia (Australia tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web_1781555242134.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "event_name": "Australia tour of Bangladesh, 2026",
-            "match_name": "Bangladesh vs Australia",
-            "match_id": 142969,
-            "startTime": "01:30:00 PM 19-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -274,7 +276,7 @@
         {
             "event_category": "Cricket",
             "title": "Namibia vs Nigeria (Men's T20I Tri series in Namibia 2026)",
-            "src": "https://images.fancode.com/aig/match/v1780575318052/143316_CASACARDS_APP.png",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143316_6124_NAM_NIG_FC-WEB.jpg",
             "team_1": "Namibia",
             "team_2": "Nigeria",
             "status": "UPCOMING",
@@ -320,18 +322,6 @@
             "startTime": "07:00:00 PM 20-06-2026"
         },
         {
-            "event_category": "MotoGP",
-            "title": "Day 2 vs BRNO (GRAND PRIX OF CZECHIA 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
-            "team_1": "Day 2",
-            "team_2": "BRNO",
-            "status": "UPCOMING",
-            "event_name": "GRAND PRIX OF CZECHIA 2026",
-            "match_name": "Czechia GP",
-            "match_id": 139952,
-            "startTime": "12:10:00 PM 20-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "TBC vs TBC (Nordic Smash T20 Cup, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard.png",
@@ -342,6 +332,18 @@
             "match_name": "TBC vs TBC",
             "match_id": 143192,
             "startTime": "07:30:00 PM 20-06-2026"
+        },
+        {
+            "event_category": "MotoGP",
+            "title": "Day 2 vs BRNO (GRAND PRIX OF CZECHIA 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
+            "team_1": "Day 2",
+            "team_2": "BRNO",
+            "status": "UPCOMING",
+            "event_name": "GRAND PRIX OF CZECHIA 2026",
+            "match_name": "Czechia GP",
+            "match_id": 139952,
+            "startTime": "12:10:00 PM 20-06-2026"
         },
         {
             "event_category": "Motorsports",
