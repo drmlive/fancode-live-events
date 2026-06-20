@@ -1,8 +1,22 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:06:33 AM 20-06-2026",
+    "last update time": "11:16:39 AM 20-06-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "title": "Ludhiana Lions vs Jalandhar Jaguars (Punjab T10 2026)",
+            "src": "https://images.fancode.com/aig/match/v1781927698717/143043_CASACARDS_APP.png",
+            "team_1": "Ludhiana Lions",
+            "team_2": "Jalandhar Jaguars",
+            "status": "LIVE",
+            "event_name": "Punjab T10 2026",
+            "match_name": "Ludhiana Lions vs Jalandhar Jaguars",
+            "match_id": 143043,
+            "startTime": "11:30:00 AM 20-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143043_english_hls_9b42356f1a31737_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143043_english_hls_9b42356f1a31737_1ta-di_h264/index.m3u8"
+        },
         {
             "event_category": "Motorsports",
             "title": "Australasia - Race 1 vs Queensland (Ferrari Challenge Series 2026)",
@@ -16,18 +30,6 @@
             "startTime": "11:05:00 AM 20-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143406_english_hls_8e382f3ead63719_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143406_english_hls_8e382f3ead63719_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Ludhiana Lions vs Jalandhar Jaguars (Punjab T10 2026)",
-            "src": "https://images.fancode.com/aig/match/v1781927698717/143043_CASACARDS_APP.png",
-            "team_1": "Ludhiana Lions",
-            "team_2": "Jalandhar Jaguars",
-            "status": "UPCOMING",
-            "event_name": "Punjab T10 2026",
-            "match_name": "Ludhiana Lions vs Jalandhar Jaguars",
-            "match_id": 143043,
-            "startTime": "11:30:00 AM 20-06-2026"
         },
         {
             "event_category": "Cricket",
@@ -138,18 +140,6 @@
             "startTime": "12:30:00 AM 21-06-2026"
         },
         {
-            "event_category": "Cricket",
-            "title": "Bangladesh vs Australia (Australia tour of Bangladesh, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
-            "team_1": "Bangladesh",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "event_name": "Australia tour of Bangladesh, 2026",
-            "match_name": "Bangladesh vs Australia",
-            "match_id": 142970,
-            "startTime": "01:30:00 PM 21-06-2026"
-        },
-        {
             "event_category": "MotoGP",
             "title": "Day 2 vs BRNO (GRAND PRIX OF CZECHIA 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card1.png",
@@ -160,6 +150,18 @@
             "match_name": "Czechia GP",
             "match_id": 139952,
             "startTime": "12:10:00 PM 20-06-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Bangladesh vs Australia (Australia tour of Bangladesh, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BAN-x-AUS_fc-web.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "event_name": "Australia tour of Bangladesh, 2026",
+            "match_name": "Bangladesh vs Australia",
+            "match_id": 142970,
+            "startTime": "01:30:00 PM 21-06-2026"
         },
         {
             "event_category": "Motorsports",
