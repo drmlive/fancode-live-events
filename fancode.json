@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:37:23 AM 22-06-2026",
+    "last update time": "10:47:31 AM 22-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -9,11 +9,13 @@
             "src": "https://images.fancode.com/aig/match/v1782018540429/143543_CASACARDS_APP.png",
             "team_1": "Indonesia",
             "team_2": "Thailand",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Asia Pacific Cricket Champions Trophy, 2026",
             "match_name": "Indonesia vs Thailand",
             "match_id": 143543,
-            "startTime": "11:00:00 AM 22-06-2026"
+            "startTime": "11:00:00 AM 22-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143543_english_hls_baa3c09ff753419_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143543_english_hls_baa3c09ff753419_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -125,18 +127,6 @@
         },
         {
             "event_category": "Tennis",
-            "title": "Day 2 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "Mallorca, Spain",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Day 2",
-            "match_id": 143271,
-            "startTime": "02:30:00 PM 22-06-2026"
-        },
-        {
-            "event_category": "Tennis",
             "title": "Day 1 vs Eastbourne, Great Britain (ATP 250 - Lexus Eastbourne Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
             "team_1": "Day 1",
@@ -146,6 +136,18 @@
             "match_name": "Day 1",
             "match_id": 143277,
             "startTime": "03:30:00 PM 22-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "Mallorca, Spain",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+            "match_name": "Day 2",
+            "match_id": 143271,
+            "startTime": "04:00:00 PM 22-06-2026"
         },
         {
             "event_category": "Cricket",
