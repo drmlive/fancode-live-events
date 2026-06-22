@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:39:53 PM 22-06-2026",
+    "last update time": "02:50:00 PM 22-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143097_6102_RNG_BL_FC-WEB.jpg",
             "team_1": "Royal Nimar Eagles",
             "team_2": "Bhopal Leopards",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Madhya Pradesh League T20, 2026",
             "match_name": "Royal Nimar Eagles vs Bhopal Leopards",
             "match_id": 143097,
-            "startTime": "03:00:00 PM 22-06-2026"
+            "startTime": "03:00:00 PM 22-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143097_english_hls_8ac0ad689e31608_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143097_english_hls_8ac0ad689e31608_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -162,18 +164,6 @@
             "startTime": "04:00:00 PM 23-06-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Day 2 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
-            "team_1": "Day 2",
-            "team_2": "Mallorca, Spain",
-            "status": "UPCOMING",
-            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
-            "match_name": "Day 2",
-            "match_id": 143271,
-            "startTime": "04:00:00 PM 22-06-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Namibia vs Nigeria (Men's T20I Tri series in Namibia 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143319_6124_NAM_NIG_FC-WEB.jpg",
@@ -184,6 +174,18 @@
             "match_name": "Namibia vs Nigeria",
             "match_id": 143319,
             "startTime": "05:30:00 PM 23-06-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Day 2 vs Mallorca, Spain (ATP 250 - Vanda Pharma Mallorca Championships 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png",
+            "team_1": "Day 2",
+            "team_2": "Mallorca, Spain",
+            "status": "UPCOMING",
+            "event_name": "ATP 250 - Vanda Pharma Mallorca Championships 2026",
+            "match_name": "Day 2",
+            "match_id": 143271,
+            "startTime": "04:00:00 PM 22-06-2026"
         },
         {
             "event_category": "Cricket",
