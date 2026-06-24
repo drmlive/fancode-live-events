@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:03:40 PM 24-06-2026",
+    "last update time": "07:13:48 PM 24-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,20 +30,6 @@
             "startTime": "07:00:00 PM 24-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143287_english_hls_da9425fc8a50576_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Bahadurgarh Royals vs ACA Gurugram Vipers (Future Star U-15 Championship 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg",
-            "team_1": "Bahadurgarh Royals",
-            "team_2": "ACA Gurugram Vipers",
-            "status": "LIVE",
-            "event_name": "Future Star U-15 Championship 2026",
-            "match_name": "Bahadurgarh Royals vs ACA Gurugram Vipers",
-            "match_id": 143551,
-            "startTime": "03:00:00 PM 24-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143551_english_hls_74e30ebb5f89225_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143551_english_hls_74e30ebb5f89225_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Tennis",
@@ -79,11 +65,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/143102_6102_GC_RNG_FC-WEB.jpg",
             "team_1": "Gwalior Cheetahs",
             "team_2": "Royal Nimar Eagles",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Madhya Pradesh League T20, 2026",
             "match_name": "Gwalior Cheetahs vs Royal Nimar Eagles",
             "match_id": 143102,
-            "startTime": "07:30:00 PM 24-06-2026"
+            "startTime": "07:30:00 PM 24-06-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143102_english_hls_1f4535054444693_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143102_english_hls_1f4535054444693_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -480,6 +468,18 @@
             "match_name": "Qualifying Session",
             "match_id": 139631,
             "startTime": "07:25:00 PM 26-06-2026"
+        },
+        {
+            "event_category": "Formula 1",
+            "title": "Practice 2 vs Austria (F1 LENOVO AUSTRIAN GRAND PRIX 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Austria_web.jpg",
+            "team_1": "Practice 2",
+            "team_2": "Austria",
+            "status": "UPCOMING",
+            "event_name": "F1 LENOVO AUSTRIAN GRAND PRIX 2026",
+            "match_name": "Practice 2",
+            "match_id": 139458,
+            "startTime": "08:30:00 PM 26-06-2026"
         }
     ]
 }
