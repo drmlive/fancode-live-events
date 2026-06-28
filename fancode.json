@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:14:55 PM 28-06-2026",
+    "last update time": "01:25:02 PM 28-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -44,20 +44,6 @@
             "startTime": "01:00:00 PM 28-06-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143429_english_hls_1ed5ff498a67607_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143429_english_hls_1ed5ff498a67607_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Day 2 -  Fuji vs Japan (Ferrari Challenge Series 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg",
-            "team_1": "Day 2 -  Fuji",
-            "team_2": "Japan",
-            "status": "LIVE",
-            "event_name": "Ferrari Challenge Series 2026",
-            "match_name": "Day 2 -  Fuji",
-            "match_id": 143639,
-            "startTime": "09:55:00 AM 28-06-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "MotoGP",
@@ -468,6 +454,18 @@
             "match_name": "Coastal Kings Mangaluru vs Shivamogga Yodhas",
             "match_id": 143436,
             "startTime": "07:00:00 PM 02-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Speen Ghar Tigers vs Band-e-Amir Dragons (Shpageeza Cricket League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Speen Ghar Tigers",
+            "team_2": "Band-e-Amir Dragons",
+            "status": "UPCOMING",
+            "event_name": "Shpageeza Cricket League, 2026",
+            "match_name": "Speen Ghar Tigers vs Band-e-Amir Dragons",
+            "match_id": 143585,
+            "startTime": "03:00:00 PM 02-07-2026"
         }
     ]
 }
