@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:56:09 AM 04-07-2026",
+    "last update time": "04:06:15 AM 04-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
-            "team_1": "Sri Lanka",
-            "team_2": "West Indies",
-            "status": "LIVE",
-            "event_name": "Sri Lanka tour of West Indies 2026",
-            "match_name": "Sri Lanka vs West Indies",
-            "match_id": 142979,
-            "startTime": "07:30:00 PM 03-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 2 - Main Feed vs TPC Deere Run Silvis, Illinois (John Deere Classic 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png",
-            "team_1": "Day 2 - Main Feed",
-            "team_2": "TPC Deere Run Silvis, Illinois",
-            "status": "LIVE",
-            "event_name": "John Deere Classic 2026",
-            "match_name": "Day 2 - Main Feed",
-            "match_id": 143667,
-            "startTime": "06:15:00 PM 03-07-2026",
-            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143667_english_hls_d5a3a93f9f77586_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Golf",
             "title": "Day 2 - World Feed vs TPC Deere Run Silvis, Illinois (John Deere Classic 2026)",
@@ -58,6 +30,18 @@
             "startTime": "03:45:00 AM 04-07-2026",
             "dai_url": "https://in-mc-fblive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/143673_english_hls_6076b990b766766_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs West Indies (Sri Lanka tour of West Indies 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png",
+            "team_1": "Sri Lanka",
+            "team_2": "West Indies",
+            "status": "PAUSED",
+            "event_name": "Sri Lanka tour of West Indies 2026",
+            "match_name": "Sri Lanka vs West Indies",
+            "match_id": 142979,
+            "startTime": "07:30:00 PM 03-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -466,6 +450,18 @@
             "match_name": "Day 4 - World Feed",
             "match_id": 143670,
             "startTime": "11:30:00 PM 05-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "F1 Kids 2026 vs Silverstone (F1 Kids 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg",
+            "team_1": "F1 Kids 2026",
+            "team_2": "Silverstone",
+            "status": "UPCOMING",
+            "event_name": "F1 Kids 2026",
+            "match_name": "F1 Kids 2026",
+            "match_id": 143675,
+            "startTime": "07:25:00 PM 05-07-2026"
         }
     ]
 }
