@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:45:56 PM 09-07-2026",
+    "last update time": "06:56:04 PM 09-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Estonia",
             "team_2": "Norway",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
             "match_name": "Estonia vs Norway",
             "match_id": 4246566,
-            "startTime": "07:00:00 PM 09-07-2026"
+            "startTime": "07:00:00 PM 09-07-2026",
+            "dai_url": "https://in-mc-fblive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-fblive.fancode.com/mumbai/4246566_english_hls_12153bee0584513_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -67,18 +69,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Namibia vs Vidarbha (Vidarbha Cricket Association tour of Namibia)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
-            "team_1": "Namibia",
-            "team_2": "Vidarbha",
-            "status": "UPCOMING",
-            "event_name": "Vidarbha Cricket Association tour of Namibia",
-            "match_name": "Namibia vs Vidarbha",
-            "match_id": 143632,
-            "startTime": "01:00:00 PM 10-07-2026"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Belgium vs Serbia (ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
             "team_1": "Belgium",
@@ -100,6 +90,18 @@
             "match_name": "Turkiye vs Norway",
             "match_id": 4246571,
             "startTime": "07:00:00 PM 10-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Namibia vs Vidarbha (Vidarbha Cricket Association tour of Namibia)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/143632_6150_NAM_VID_fc-web.jpg",
+            "team_1": "Namibia",
+            "team_2": "Vidarbha",
+            "status": "UPCOMING",
+            "event_name": "Vidarbha Cricket Association tour of Namibia",
+            "match_name": "Namibia vs Vidarbha",
+            "match_id": 143632,
+            "startTime": "01:00:00 PM 10-07-2026"
         },
         {
             "event_category": "Cricket",
