@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:51:18 AM 24-07-2026",
+    "last update time": "04:01:25 AM 24-07-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -37,11 +37,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247439_53000_GUY_SFU_fc-web.jpg",
             "team_1": "Guyana Amazon Warriors",
             "team_2": "San Francisco Unicorns",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Global Super League, 2026",
             "match_name": "Guyana Amazon Warriors vs San Francisco Unicorns",
             "match_id": 4247439,
-            "startTime": "04:30:00 AM 24-07-2026"
+            "startTime": "04:30:00 AM 24-07-2026",
+            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/4247439_english_hls_6256e199d474694_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/4247439_english_hls_6256e199d474694_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -78,6 +80,18 @@
             "match_name": "Rosenborg BK vs Manchester United",
             "match_id": 4248010,
             "startTime": "09:30:00 PM 24-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
+            "team_1": "Malaysia XI",
+            "team_2": "Sea Hawks Cricket Club",
+            "status": "UPCOMING",
+            "event_name": "Malaysia and Sea Hawks Cricket Club 2026",
+            "match_name": "Malaysia XI vs Sea Hawks Cricket Club",
+            "match_id": 4247198,
+            "startTime": "07:00:00 AM 25-07-2026"
         },
         {
             "event_category": "Golf",
@@ -117,15 +131,15 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
-            "team_1": "Malaysia XI",
-            "team_2": "Sea Hawks Cricket Club",
+            "title": "Sri Lanka Women vs Pakistan Women (Pakistan Women's tour of Sri Lanka, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg",
+            "team_1": "Sri Lanka Women",
+            "team_2": "Pakistan Women",
             "status": "UPCOMING",
-            "event_name": "Malaysia and Sea Hawks Cricket Club 2026",
-            "match_name": "Malaysia XI vs Sea Hawks Cricket Club",
-            "match_id": 4247198,
-            "startTime": "07:00:00 AM 25-07-2026"
+            "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
+            "match_name": "Sri Lanka Women vs Pakistan Women",
+            "match_id": 4247426,
+            "startTime": "10:00:00 AM 25-07-2026"
         },
         {
             "event_category": "Tennis",
@@ -150,18 +164,6 @@
             "match_name": "ATP 250 - Millenium Estoril Open 2026",
             "match_id": 143513,
             "startTime": "03:00:00 PM 24-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Sri Lanka Women vs Pakistan Women (Pakistan Women's tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg",
-            "team_1": "Sri Lanka Women",
-            "team_2": "Pakistan Women",
-            "status": "UPCOMING",
-            "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
-            "match_name": "Sri Lanka Women vs Pakistan Women",
-            "match_id": 4247426,
-            "startTime": "10:00:00 AM 25-07-2026"
         },
         {
             "event_category": "Formula 1",
