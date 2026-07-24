@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:11:28 PM 24-07-2026",
+    "last update time": "06:21:35 PM 24-07-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -44,6 +44,20 @@
             "startTime": "06:15:00 PM 24-07-2026",
             "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8",
             "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Qualifying Session vs Budapest (F3 HUNGARY 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+            "team_1": "Qualifying Session",
+            "team_2": "Budapest",
+            "status": "LIVE",
+            "event_name": "F3 HUNGARY 2026",
+            "match_name": "Qualifying Session",
+            "match_id": 139734,
+            "startTime": "06:30:00 PM 24-07-2026",
+            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/139734_english_hls_8a859cf97024332_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/139734_english_hls_8a859cf97024332_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -152,18 +166,6 @@
             "match_name": "Dambulla Sixers vs Colombo Kaps",
             "match_id": 4246721,
             "startTime": "07:30:00 PM 25-07-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "Qualifying Session vs Budapest (F3 HUNGARY 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-            "team_1": "Qualifying Session",
-            "team_2": "Budapest",
-            "status": "UPCOMING",
-            "event_name": "F3 HUNGARY 2026",
-            "match_name": "Qualifying Session",
-            "match_id": 139734,
-            "startTime": "06:30:00 PM 24-07-2026"
         },
         {
             "event_category": "Motorsports",
@@ -392,6 +394,30 @@
             "match_name": "Guyana Amazon Warriors vs Desert Vipers",
             "match_id": 4247437,
             "startTime": "04:30:00 AM 26-07-2026"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 - World Feed vs TPC Twin Cities - Blaine, Minnesota (3M Open 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
+            "team_1": "Day 3 - World Feed",
+            "team_2": "TPC Twin Cities - Blaine, Minnesota",
+            "status": "UPCOMING",
+            "event_name": "3M Open 2026",
+            "match_name": "Day 3 - World Feed",
+            "match_id": 4246804,
+            "startTime": "11:30:00 PM 25-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kandy Royals vs Jaffna Kings (Lanka Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246728_52991_KRL_JK_FC-WEB.jpg",
+            "team_1": "Kandy Royals",
+            "team_2": "Jaffna Kings",
+            "status": "UPCOMING",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Kandy Royals vs Jaffna Kings",
+            "match_id": 4246728,
+            "startTime": "03:00:00 PM 26-07-2026"
         }
     ]
 }
