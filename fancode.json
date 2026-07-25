@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:26:49 PM 25-07-2026",
+    "last update time": "05:36:55 PM 25-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -19,20 +19,6 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Pakistan Women vs Sri Lanka Women (Pakistan Women's tour of Sri Lanka, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg",
-            "team_1": "Pakistan Women",
-            "team_2": "Sri Lanka Women",
-            "status": "LIVE",
-            "event_name": "Pakistan Women's tour of Sri Lanka, 2026",
-            "match_name": "Pakistan Women vs Sri Lanka Women",
-            "match_id": 4247426,
-            "startTime": "10:00:00 AM 25-07-2026",
-            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Cricket",
             "title": "Netherlands vs Namibia (ICC CWC League 2 Netherlands, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-Web.png",
             "team_1": "Netherlands",
@@ -47,13 +33,13 @@
         },
         {
             "event_category": "Cricket",
-            "title": "Galle Gallants vs Kandy Royals (Lanka Premier League, 2026)",
+            "title": "Kandy Royals vs Galle Gallants (Lanka Premier League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4246722_52991_GG_KRL_FC-WEB_1784539180374.jpg",
-            "team_1": "Galle Gallants",
-            "team_2": "Kandy Royals",
+            "team_1": "Kandy Royals",
+            "team_2": "Galle Gallants",
             "status": "LIVE",
             "event_name": "Lanka Premier League, 2026",
-            "match_name": "Galle Gallants vs Kandy Royals",
+            "match_name": "Kandy Royals vs Galle Gallants",
             "match_id": 4246722,
             "startTime": "03:00:00 PM 25-07-2026",
             "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8",
@@ -167,35 +153,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg",
             "team_1": "Sprint Race",
             "team_2": "Hungary",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "F2 HUNGARY 2026",
             "match_name": "Sprint Race",
             "match_id": 139644,
-            "startTime": "05:45:00 PM 25-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Galle Gallants vs Dambulla Sixers (Lanka Premier League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246713_52991_GG_DS_FC-WEB.jpg",
-            "team_1": "Galle Gallants",
-            "team_2": "Dambulla Sixers",
-            "status": "UPCOMING",
-            "event_name": "Lanka Premier League, 2026",
-            "match_name": "Galle Gallants vs Dambulla Sixers",
-            "match_id": 4246713,
-            "startTime": "07:30:00 PM 26-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "San Francisco Unicorns vs Perth Scorchers XI (Global Super League, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247431_53000_SFU_PER-XI_fc-web.jpg",
-            "team_1": "San Francisco Unicorns",
-            "team_2": "Perth Scorchers XI",
-            "status": "UPCOMING",
-            "event_name": "Global Super League, 2026",
-            "match_name": "San Francisco Unicorns vs Perth Scorchers XI",
-            "match_id": 4247431,
-            "startTime": "07:30:00 PM 26-07-2026"
+            "startTime": "05:45:00 PM 25-07-2026",
+            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/139644_english_hls_465160e66264722_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/139644_english_hls_465160e66264722_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Golf",
@@ -220,6 +184,30 @@
             "match_name": "ADAC GT Race 1 - Oschersleben",
             "match_id": 143805,
             "startTime": "06:35:00 PM 25-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Galle Gallants vs Dambulla Sixers (Lanka Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246713_52991_GG_DS_FC-WEB.jpg",
+            "team_1": "Galle Gallants",
+            "team_2": "Dambulla Sixers",
+            "status": "UPCOMING",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Galle Gallants vs Dambulla Sixers",
+            "match_id": 4246713,
+            "startTime": "07:30:00 PM 26-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "San Francisco Unicorns vs Perth Scorchers XI (Global Super League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247431_53000_SFU_PER-XI_fc-web.jpg",
+            "team_1": "San Francisco Unicorns",
+            "team_2": "Perth Scorchers XI",
+            "status": "UPCOMING",
+            "event_name": "Global Super League, 2026",
+            "match_name": "San Francisco Unicorns vs Perth Scorchers XI",
+            "match_id": 4247431,
+            "startTime": "07:30:00 PM 26-07-2026"
         },
         {
             "event_category": "Formula 1",
