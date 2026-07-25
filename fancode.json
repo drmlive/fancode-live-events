@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:09:43 PM 25-07-2026",
+    "last update time": "10:19:50 PM 25-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,8 +14,8 @@
             "match_name": "Netherlands vs Namibia",
             "match_id": 4246705,
             "startTime": "02:30:00 PM 25-07-2026",
-            "dai_url": "https://in-mc-pdlive.fancode.com/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://in-mc-pdlive.fancode.com/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/index.m3u8"
+            "dai_url": "https://in-ak-pdlive.akamaized.net/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://in-ak-pdlive.akamaized.net/mumbai/4246705_english_hls_492297ca2b39793_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -158,18 +158,6 @@
             "startTime": "10:00:00 AM 26-07-2026"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Race vs Budapest (F3 HUNGARY 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
-            "team_1": "Race",
-            "team_2": "Budapest",
-            "status": "UPCOMING",
-            "event_name": "F3 HUNGARY 2026",
-            "match_name": "Race",
-            "match_id": 139736,
-            "startTime": "12:10:00 PM 26-07-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Guyana Amazon Warriors vs Lahore Qalandars (Global Super League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247433_53000_GUY_LAH_fc-web.jpg",
@@ -180,6 +168,18 @@
             "match_name": "Guyana Amazon Warriors vs Lahore Qalandars",
             "match_id": 4247433,
             "startTime": "04:30:00 AM 27-07-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "Race vs Budapest (F3 HUNGARY 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg",
+            "team_1": "Race",
+            "team_2": "Budapest",
+            "status": "UPCOMING",
+            "event_name": "F3 HUNGARY 2026",
+            "match_name": "Race",
+            "match_id": 139736,
+            "startTime": "12:10:00 PM 26-07-2026"
         },
         {
             "event_category": "Motorsports",
