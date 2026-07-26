@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "06:21:42 PM 26-07-2026",
+    "last update time": "06:31:49 PM 26-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -60,20 +60,6 @@
             "adfree_url": "https://livecf.fancode.com/4247420_english_hls_e4f538fa6759596_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Motorsports",
-            "title": "Race 2 vs Oschersleben, Germany (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
-            "team_1": "Race 2",
-            "team_2": "Oschersleben, Germany",
-            "status": "LIVE",
-            "event_name": "DTM 2026",
-            "match_name": "Race 2",
-            "match_id": 143801,
-            "startTime": "04:45:00 PM 26-07-2026",
-            "dai_url": "https://livecf.fancode.com/143801_english_hls_0f8f9524c923636_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/143801_english_hls_0f8f9524c923636_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Formula 1",
             "title": "Race vs Hungaroring (F1 AWS HUNGARIAN GRAND PRIX 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg",
@@ -100,6 +86,20 @@
             "startTime": "06:30:00 PM 26-07-2026",
             "dai_url": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8",
             "adfree_url": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Motorsports",
+            "title": "ADAC GT Race 2 - Oschersleben vs Oschersleben, Germany (DTM 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
+            "team_1": "ADAC GT Race 2 - Oschersleben",
+            "team_2": "Oschersleben, Germany",
+            "status": "LIVE",
+            "event_name": "DTM 2026",
+            "match_name": "ADAC GT Race 2 - Oschersleben",
+            "match_id": 143806,
+            "startTime": "06:35:00 PM 26-07-2026",
+            "dai_url": "https://livecf.fancode.com/143806_english_hls_755651821f97335_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/143806_english_hls_755651821f97335_1ta-di_h264/index.m3u8"
         },
         {
             "event_category": "Cricket",
@@ -148,18 +148,6 @@
             "match_name": "Namibia vs Nepal",
             "match_id": 4246707,
             "startTime": "02:30:00 PM 27-07-2026"
-        },
-        {
-            "event_category": "Motorsports",
-            "title": "ADAC GT Race 2 - Oschersleben vs Oschersleben, Germany (DTM 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png",
-            "team_1": "ADAC GT Race 2 - Oschersleben",
-            "team_2": "Oschersleben, Germany",
-            "status": "UPCOMING",
-            "event_name": "DTM 2026",
-            "match_name": "ADAC GT Race 2 - Oschersleben",
-            "match_id": 143806,
-            "startTime": "06:35:00 PM 26-07-2026"
         },
         {
             "event_category": "Tennis",
@@ -436,6 +424,18 @@
             "match_name": "Malaysia XI vs Sea Hawks Cricket Club",
             "match_id": 4247200,
             "startTime": "07:00:00 AM 30-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Jaffna Kings vs Kandy Royals (Lanka Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4246720_52991_JK_KRL_FC-WEB.jpg",
+            "team_1": "Jaffna Kings",
+            "team_2": "Kandy Royals",
+            "status": "UPCOMING",
+            "event_name": "Lanka Premier League, 2026",
+            "match_name": "Jaffna Kings vs Kandy Royals",
+            "match_id": 4246720,
+            "startTime": "07:30:00 PM 30-07-2026"
         }
     ]
 }
