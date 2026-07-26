@@ -1,36 +1,8 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:47:44 AM 27-07-2026",
+    "last update time": "03:57:51 AM 27-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
-            "team_1": "West Indies",
-            "team_2": "Pakistan",
-            "status": "LIVE",
-            "event_name": "Pakistan tour of West Indies, 2026",
-            "match_name": "West Indies vs Pakistan",
-            "match_id": 143633,
-            "startTime": "07:00:00 PM 25-07-2026",
-            "dai_url": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8"
-        },
-        {
-            "event_category": "Golf",
-            "title": "Day 4 - Main Feed vs TPC Twin Cities - Blaine, Minnesota (3M Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
-            "team_1": "Day 4 - Main Feed",
-            "team_2": "TPC Twin Cities - Blaine, Minnesota",
-            "status": "LIVE",
-            "event_name": "3M Open 2026",
-            "match_name": "Day 4 - Main Feed",
-            "match_id": 4246805,
-            "startTime": "06:30:00 PM 26-07-2026",
-            "dai_url": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8"
-        },
         {
             "event_category": "Tennis",
             "title": "Day 7 vs Portugal (ATP 250 - Millenium Estoril Open 2026)",
@@ -46,30 +18,30 @@
             "adfree_url": "https://livecf.fancode.com/143515_english_hls_284844bbb921864_1ta-di_h264/index.m3u8"
         },
         {
-            "event_category": "Golf",
-            "title": "Day 4 - World Feed vs TPC Twin Cities - Blaine, Minnesota (3M Open 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png",
-            "team_1": "Day 4 - World Feed",
-            "team_2": "TPC Twin Cities - Blaine, Minnesota",
-            "status": "LIVE",
-            "event_name": "3M Open 2026",
-            "match_name": "Day 4 - World Feed",
-            "match_id": 4246806,
-            "startTime": "11:30:00 PM 26-07-2026",
-            "dai_url": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/index.m3u8",
-            "adfree_url": "https://livecf.fancode.com/4246806_english_hls_ff055b058229766_1ta-di_h264/index.m3u8"
-        },
-        {
             "event_category": "Cricket",
             "title": "Guyana Amazon Warriors vs Lahore Qalandars (Global Super League, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4247433_53000_GUY_LAH_fc-web.jpg",
             "team_1": "Guyana Amazon Warriors",
             "team_2": "Lahore Qalandars",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Global Super League, 2026",
             "match_name": "Guyana Amazon Warriors vs Lahore Qalandars",
             "match_id": 4247433,
-            "startTime": "04:30:00 AM 27-07-2026"
+            "startTime": "04:30:00 AM 27-07-2026",
+            "dai_url": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8",
+            "adfree_url": "https://livecf.fancode.com/4247433_english_hls_690410566e43491_1ta-di_h264/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "West Indies vs Pakistan (Pakistan tour of West Indies, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png",
+            "team_1": "West Indies",
+            "team_2": "Pakistan",
+            "status": "PAUSED",
+            "event_name": "Pakistan tour of West Indies, 2026",
+            "match_name": "West Indies vs Pakistan",
+            "match_id": 143633,
+            "startTime": "07:00:00 PM 25-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -96,6 +68,18 @@
             "startTime": "04:30:00 AM 28-07-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
+            "team_1": "Malaysia XI",
+            "team_2": "Sea Hawks Cricket Club",
+            "status": "UPCOMING",
+            "event_name": "Malaysia and Sea Hawks Cricket Club 2026",
+            "match_name": "Malaysia XI vs Sea Hawks Cricket Club",
+            "match_id": 4247199,
+            "startTime": "07:00:00 AM 28-07-2026"
+        },
+        {
             "event_category": "Tennis",
             "title": "ATP 500 - Mubadala DC Open 2026 vs Washington, United States (ATP 500 - Mubadala DC Open 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png",
@@ -118,18 +102,6 @@
             "match_name": "ATP 500 - Mubadala DC Open 2026",
             "match_id": 143640,
             "startTime": "02:30:00 PM 27-07-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Malaysia XI vs Sea Hawks Cricket Club (Malaysia and Sea Hawks Cricket Club 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg",
-            "team_1": "Malaysia XI",
-            "team_2": "Sea Hawks Cricket Club",
-            "status": "UPCOMING",
-            "event_name": "Malaysia and Sea Hawks Cricket Club 2026",
-            "match_name": "Malaysia XI vs Sea Hawks Cricket Club",
-            "match_id": 4247199,
-            "startTime": "07:00:00 AM 28-07-2026"
         },
         {
             "event_category": "Cricket",
@@ -430,6 +402,30 @@
             "match_name": "ATP 500 - Mubadala DC Open 2026",
             "match_id": 143648,
             "startTime": "02:30:00 PM 31-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Central Delhi Kings vs Purani Dilli-6 (Delhi Premier League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/DPL_mini.png",
+            "team_1": "Central Delhi Kings",
+            "team_2": "Purani Dilli-6",
+            "status": "UPCOMING",
+            "event_name": "Delhi Premier League, 2026",
+            "match_name": "Central Delhi Kings vs Purani Dilli-6",
+            "match_id": 4247965,
+            "startTime": "09:00:00 PM 31-07-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "TBC vs TBC (Global Super League, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "event_name": "Global Super League, 2026",
+            "match_name": "TBC vs TBC",
+            "match_id": 4247441,
+            "startTime": "04:30:00 AM 01-08-2026"
         }
     ]
 }
