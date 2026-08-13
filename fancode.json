@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:07:33 PM 13-08-2026",
+    "last update time": "03:17:41 PM 13-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -23,11 +23,13 @@
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248217_53013_SCO_CAN_fc-Web.png",
             "team_1": "Scotland",
             "team_2": "Canada",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "ICC CWC League 2 Scotland, 2026",
             "match_name": "Scotland vs Canada",
             "match_id": 4248217,
-            "startTime": "03:30:00 PM 13-08-2026"
+            "startTime": "03:30:00 PM 13-08-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -186,18 +188,6 @@
             "startTime": "11:30:00 PM 13-08-2026"
         },
         {
-            "event_category": "Tennis",
-            "title": "Center Court vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
-            "team_1": "Center Court",
-            "team_2": "Montreal, Canada",
-            "status": "UPCOMING",
-            "event_name": "ATP Masters Omnium Banque National 2026",
-            "match_name": "Center Court",
-            "match_id": 4248103,
-            "startTime": "03:00:00 AM 14-08-2026"
-        },
-        {
             "event_category": "Cricket",
             "title": "Czechia vs Germany (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4248371_53031_CZE_GER_fc-web.jpg",
@@ -220,6 +210,18 @@
             "match_name": "Isle of Man vs Luxembourg",
             "match_id": 4248377,
             "startTime": "06:30:00 PM 14-08-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "title": "Center Court vs Montreal, Canada (ATP Masters Omnium Banque National 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",
+            "team_1": "Center Court",
+            "team_2": "Montreal, Canada",
+            "status": "UPCOMING",
+            "event_name": "ATP Masters Omnium Banque National 2026",
+            "match_name": "Center Court",
+            "match_id": 4248103,
+            "startTime": "03:00:00 AM 14-08-2026"
         },
         {
             "event_category": "Tennis",
@@ -459,6 +461,18 @@
             "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
             "match_name": "Isle of Man vs Spain",
             "match_id": 4248368,
+            "startTime": "01:30:00 PM 15-08-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Czechia vs Greece (ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248370_53031_CZE_GRE_fc-web.jpg",
+            "team_1": "Czechia",
+            "team_2": "Greece",
+            "status": "UPCOMING",
+            "event_name": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "match_name": "Czechia vs Greece",
+            "match_id": 4248370,
             "startTime": "01:30:00 PM 15-08-2026"
         }
     ]
