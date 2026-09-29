@@ -1,33 +1,21 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:04:40 AM 30-09-2026",
+    "last update time": "04:14:47 AM 30-09-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249829_53100_TSW_VWW_fc-web.jpg",
-            "team_1": "Toronto Sixers Women",
-            "team_2": "Vancouver Warriors Women",
-            "status": "LIVE",
-            "event_name": "Canada Super 60 Women, 2026",
-            "match_name": "Toronto Sixers Women vs Vancouver Warriors Women",
-            "match_id": 4249829,
-            "startTime": "02:00:00 AM 30-09-2026",
-            "dai_url": null,
-            "adfree_url": null
-        },
         {
             "event_category": "Cricket",
             "title": "White Rock Warriors vs Brampton Blitz (Canada Super 60, 2026)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4249811_53099_WRW_BBZ_FC-Web.png",
             "team_1": "White Rock Warriors",
             "team_2": "Brampton Blitz",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "event_name": "Canada Super 60, 2026",
             "match_name": "White Rock Warriors vs Brampton Blitz",
             "match_id": 4249811,
-            "startTime": "04:30:00 AM 30-09-2026"
+            "startTime": "04:30:00 AM 30-09-2026",
+            "dai_url": null,
+            "adfree_url": null
         },
         {
             "event_category": "Cricket",
@@ -174,6 +162,18 @@
             "startTime": "09:00:00 PM 30-09-2026"
         },
         {
+            "event_category": "Cricket",
+            "title": "Vancouver Anchors vs Montreal Royal Tigers (Canada Super 60, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249815_53099_VAC_MRT_FC-Web.png",
+            "team_1": "Vancouver Anchors",
+            "team_2": "Montreal Royal Tigers",
+            "status": "UPCOMING",
+            "event_name": "Canada Super 60, 2026",
+            "match_name": "Vancouver Anchors vs Montreal Royal Tigers",
+            "match_id": 4249815,
+            "startTime": "04:30:00 AM 01-10-2026"
+        },
+        {
             "event_category": "Football",
             "title": "Roma Women vs Barcelona Women (UEFA Women's Champions League 2026-27)",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4249477_53078_ROM-W_BAR-W_fc-web.jpg",
@@ -208,18 +208,6 @@
             "match_name": "Paris FC Women vs Arsenal Women",
             "match_id": 4249479,
             "startTime": "10:15:00 PM 30-09-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "title": "Vancouver Anchors vs Montreal Royal Tigers (Canada Super 60, 2026)",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249815_53099_VAC_MRT_FC-Web.png",
-            "team_1": "Vancouver Anchors",
-            "team_2": "Montreal Royal Tigers",
-            "status": "UPCOMING",
-            "event_name": "Canada Super 60, 2026",
-            "match_name": "Vancouver Anchors vs Montreal Royal Tigers",
-            "match_id": 4249815,
-            "startTime": "04:30:00 AM 01-10-2026"
         },
         {
             "event_category": "Cricket",
@@ -484,6 +472,18 @@
             "match_name": "Sharjah vs Abu Dhabi",
             "match_id": 4250068,
             "startTime": "04:30:00 PM 01-10-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Emirates Blues vs Dubai (Emirates D10, 2026)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250069_53103_EMB_DUB_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "event_name": "Emirates D10, 2026",
+            "match_name": "Emirates Blues vs Dubai",
+            "match_id": 4250069,
+            "startTime": "06:45:00 PM 01-10-2026"
         }
     ]
 }
