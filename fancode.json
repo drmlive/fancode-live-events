@@ -1,8 +1,32 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:06:04 PM 13-11-2026",
+    "last update time": "12:47:18 PM 13-11-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "match_id": 4249671,
+            "title": "New South Wales vs South Australia (Sheffield Shield, 2026/27)",
+            "match_name": "New South Wales vs South Australia",
+            "event_name": "Sheffield Shield, 2026/27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249671_53087_NSW_SAU_FC-WEB.jpg",
+            "team_1": "New South Wales",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "startTime": "05:00:00 AM 11-11-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249672,
+            "title": "Victoria vs Western Australia (Sheffield Shield, 2026/27)",
+            "match_name": "Victoria vs Western Australia",
+            "event_name": "Sheffield Shield, 2026/27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249672_53087_VCT_WAU_FC-WEB.jpg",
+            "team_1": "Victoria",
+            "team_2": "Western Australia",
+            "status": "PAUSED",
+            "startTime": "05:00:00 AM 11-11-2026"
+        },
         {
             "event_category": "Cricket",
             "match_id": 4250665,
@@ -41,18 +65,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250747,
-            "title": "Paratus Jets vs Eavion Eagles (Namibia Super 50, 2026)",
-            "match_name": "Paratus Jets vs Eavion Eagles",
-            "event_name": "Namibia Super 50, 2026",
-            "src": "https://images.fancode.com/aig/match/v1793949984336/4250747_CASACARDS_APP.png",
-            "team_1": "Paratus Jets",
-            "team_2": "Eavion Eagles",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 13-11-2026"
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250407,
             "title": "Hobart Hurricanes Women vs Brisbane Heat Women (Women's Big Bash League, 2026)",
             "match_name": "Hobart Hurricanes Women vs Brisbane Heat Women",
@@ -62,18 +74,6 @@
             "team_2": "Brisbane Heat Women",
             "status": "UPCOMING",
             "startTime": "10:10:00 AM 14-11-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4250592,
-            "title": "Leganes vs Burgos CF (LALIGA Hypermotion 2026-27)",
-            "match_name": "Leganes vs Burgos CF",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://images.fancode.com/aig/match/v1794380803687/4250592_CASACARDS_APP.png",
-            "team_1": "Leganes",
-            "team_2": "Burgos CF",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 AM 14-11-2026"
         },
         {
             "event_category": "Cricket",
@@ -86,6 +86,18 @@
             "team_2": "Adelaide Strikers Women",
             "status": "UPCOMING",
             "startTime": "01:40:00 PM 14-11-2026"
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4250592,
+            "title": "Leganes vs Burgos CF (LALIGA Hypermotion 2026-27)",
+            "match_name": "Leganes vs Burgos CF",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://images.fancode.com/aig/match/v1794380803687/4250592_CASACARDS_APP.png",
+            "team_1": "Leganes",
+            "team_2": "Burgos CF",
+            "status": "UPCOMING",
+            "startTime": "01:00:00 AM 14-11-2026"
         },
         {
             "event_category": "Cricket",
@@ -352,18 +364,6 @@
             "startTime": "12:15:00 PM 15-11-2026"
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250633,
-            "title": "Final vs Japan (BWF Super 500 - Japan Masters 2026)",
-            "match_name": "Final",
-            "event_name": "BWF Super 500 - Japan Masters 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Masters_fc-web.jpg",
-            "team_1": "Final",
-            "team_2": "Japan",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 AM 15-11-2026"
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250650,
             "title": "South Africa vs Bangladesh (Bangladesh tour of South Africa, 2026)",
@@ -374,6 +374,18 @@
             "team_2": "Bangladesh",
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 15-11-2026"
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": 4250633,
+            "title": "Final vs Japan (BWF Super 500 - Japan Masters 2026)",
+            "match_name": "Final",
+            "event_name": "BWF Super 500 - Japan Masters 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Masters_fc-web.jpg",
+            "team_1": "Final",
+            "team_2": "Japan",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 AM 15-11-2026"
         }
     ]
 }
